@@ -1,0 +1,503 @@
+{
+ "date": "2026-10-11",
+ "genere": "2026-10-11T06:53+02:00",
+ "journaux": [
+  {
+   "id": "figaro",
+   "nom": "Le Figaro",
+   "couleur": "#163860",
+   "une": {
+    "fichier": "unes/figaro.jpg",
+    "date": "2026-10-10",
+    "source": "https://static.milibris.com/thumbnail/issue/0ea9093b-a283-49f9-b209-9d9fc3636f61/front/catalog-cover-large.jpeg"
+   },
+   "articles": [
+    {
+     "titre": "Trump affirme que Poutine «aimerait voir un règlement» avec l'Ukraine",
+     "lien": "https://www.lefigaro.fr/international/trump-affirme-que-poutine-aimerait-voir-un-reglement-avec-l-ukraine-20261011",
+     "resume": "Selon le président américain, Vladimir Poutine voudrait conclure un accord visant à mettre fin à la guerre avec l’Ukraine, accusant Volodymyr Zelensky de résister à un compromis.",
+     "date": "2026-10-11T03:57:48+02:00",
+     "source": "",
+     "image": "https://i.f1g.fr/media/cms/3000x2000_crop/2026/10/11/d7400298439dff5775864587d7fe585354399fa1897294769b2830ed6420db3b.jpg"
+    },
+    {
+     "titre": "Volodymyr Zelensky «mérite d'être soutenu»: les réactions se multiplient après les propos de Trump en faveur d’un nouveau président ukrainien",
+     "lien": "https://www.lefigaro.fr/international/volodymyr-zelensky-merite-d-etre-soutenu-les-reactions-se-multiplient-apres-les-propos-de-trump-en-faveur-d-un-nouveau-president-ukrainien-20261010",
+     "resume": "Donald Trump s’est prononcé pour le remplacement de son homologue ukrainien samedi depuis la Maison-Blanche, afin qu’un «accord» de paix puisse survenir avec Moscou.",
+     "date": "2026-10-10T21:47:34+02:00",
+     "source": "",
+     "image": "https://i.f1g.fr/media/cms/orig/2026/10/10/a4e830b2abd712e877edf74eb8d3cf44513bb2bb28ec0de1b9f2b038197f584f.JPG"
+    },
+    {
+     "titre": "Donald Trump affirme qu’«il est temps pour l’Ukraine d’avoir un nouveau président» pour «parvenir à un accord» de paix avec la Russie",
+     "lien": "https://www.lefigaro.fr/international/donald-trump-affirme-qu-il-est-temps-pour-l-ukraine-d-avoir-un-nouveau-president-20261010",
+     "resume": "Le négociateur russe a salué cette prise de parole du président américain. Donald Trump, qui a passé un accord avec Vladimir Poutine sur le diesel, a aussi exhorté l’Ukraine à cesser de frapper les raffineries russes.",
+     "date": "2026-10-10T22:27:32+02:00",
+     "source": "",
+     "image": "https://i.f1g.fr/media/cms/orig/2026/10/10/2b22777ade7f0870925d2b2ab5996866edb3cec8440eb2a325c58daf2a458910.JPG"
+    },
+    {
+     "titre": "Guerre en Ukraine : Poutine a reçu «avec compréhension» les propositions de Trump",
+     "lien": "https://www.lefigaro.fr/flash-actu/guerre-en-ukraine-poutine-a-recu-avec-comprehension-les-propositions-de-trump-20261010",
+     "resume": "Une «grande partie» de l’entretien téléphonique entre les deux dirigeants a porté sur la question de la sortie du conflit russo-ukrainien, affirme le Kremlin.",
+     "date": "2026-10-10T15:16:39+02:00",
+     "source": "",
+     "image": "https://i.f1g.fr/media/cms/orig/2026/10/10/2859451b128d5238be7c7fde558c607b24a3ea904b4265139f99d62f801215ce.JPG"
+    },
+    {
+     "titre": "«Une situation d’urgence grave» : en Arabie saoudite, au moins 12 morts et 309 blessés à l’aéroport de Ryad dans une attaque imputée aux Houthis",
+     "lien": "https://www.lefigaro.fr/international/une-situation-d-urgence-grave-en-arabie-saoudite-des-dizaines-de-blesses-a-l-aeroport-de-ryad-dans-une-attaque-imputee-aux-houthis-20261010",
+     "resume": "Un missile aurait frappé l’aéroport «vers 15 heures», selon une source diplomatique. Plusieurs blessés seraient dans un état critique.",
+     "date": "2026-10-11T00:06:27+02:00",
+     "source": "",
+     "image": "https://i.f1g.fr/media/cms/orig/2026/10/10/0ab2e5207970b52a129365b97e5f7c9949d5661f6eea4bdf34dff414d7bf2bca.JPG"
+    },
+    {
+     "titre": "Russie : le cloud du géant de la tech Yandex affecté par une attaque de drone",
+     "lien": "https://www.lefigaro.fr/international/russie-le-cloud-du-geant-de-la-tech-yandex-affecte-par-une-attaque-de-drone-20261011",
+     "resume": "Yandex, surnommé le «Google russe», est le principal moteur de recherche en russe et opère une infrastructure cloud ainsi que de nombreux services, comme les taxis ou les livraisons.",
+     "date": "2026-10-11T05:52:42+02:00",
+     "source": "",
+     "image": "https://i.f1g.fr/media/cms/2244x1265_crop/2026/10/11/333cfc0346461f4d98775737dd3f30631ea7a6bdad5b7569260f7e7acf5307c8.jpg"
+    }
+   ],
+   "flux_utilise": "https://www.lefigaro.fr/rss/figaro_actualites.xml"
+  },
+  {
+   "id": "monde",
+   "nom": "Le Monde",
+   "couleur": "#111111",
+   "une": {
+    "fichier": "unes/monde.webp",
+    "date": "2026-10-11",
+    "source": "https://www.frontpages.com/t/2026/10/10/le-monde-231337ll0@2x.webp"
+   },
+   "articles": [
+    {
+     "titre": "Du monde agricole aux lycées, la France à bout de nerfs",
+     "lien": "https://www.lemonde.fr/politique/article/2026/10/11/du-monde-agricole-aux-lycees-la-france-a-bout-de-nerfs_6791233_823448.html",
+     "resume": "Canicules dévastatrices pour l’agriculture, dette hors de contrôle, forte augmentation des taux d’intérêt, baisse importante du pouvoir d’achat, crise du logement, chômage en hausse, mouvement lycéen… Pris dans une spirale de crises, le pays hésite entre…",
+     "date": "2026-10-11T05:35:41+02:00",
+     "source": "",
+     "image": "https://img.lemde.fr/2026/10/09/347/0/3000/1500/644/322/60/0/0b0e220_upload-1-ofjaoanco3to-maniflyce-ens-asurp-105684.jpg"
+    },
+    {
+     "titre": "En Cisjordanie occupée, la solitude des Palestiniens : « Filmer ce qui se passe à nos portes est devenu notre seul recours face à l’impuissance de la justice »",
+     "lien": "https://www.lemonde.fr/international/article/2026/10/11/en-cisjordanie-occupee-la-solitude-des-palestiniens-filmer-ce-qui-se-passe-a-nos-portes-est-devenu-notre-seul-recours-face-a-l-impuissance-de-la-justice_6791268_3210.html",
+     "resume": "Loin d’être appliquées, les rares décisions rendues par la Cour suprême israélienne, plus haute juridiction de l’Etat hébreu, en faveur de Palestiniens dépossédés de leurs terres ou de leurs foyers par les colons israéliens sont annulées par la force ou par…",
+     "date": "2026-10-11T06:00:01+02:00",
+     "source": "",
+     "image": "https://img.lemde.fr/2026/10/05/42/0/5760/2880/644/322/60/0/1ce6fd5_upload-1-adkhpokzqxnf-lgeai-justice-16.jpg"
+    },
+    {
+     "titre": "EN DIRECT, guerre en Ukraine : Donald Trump affirme que Vladimir Poutine « aimerait voir un règlement » avec Kiev",
+     "lien": "https://www.lemonde.fr/international/live/2026/10/11/en-direct-guerre-en-ukraine-donald-trump-affirme-que-vladimir-poutine-aimerait-voir-un-reglement-avec-kiev_6791198_3210.html",
+     "resume": "« Je pense que la Russie aimerait conclure un accord, et nous en avons parlé plusieurs fois (…) mais pour une raison ou pour une autre, [Volodymyr] Zelensky ne veut pas conclure d’accord », a déclaré le président américain à des journalistes samedi, après…",
+     "date": "2026-10-11T05:27:15+02:00",
+     "source": "",
+     "image": "https://img.lemde.fr/2026/10/11/335/0/4305/2152/644/322/60/0/ded65f2_ftp-1-shic5dkx3nvz-2026-10-11t004556z-467697417-rc2o0oavxuzn-rtrmadp-3-usa-trump.JPG"
+    },
+    {
+     "titre": "Des scientifiques établissent la liste des 17 principales menaces pesant sur la santé humaine d’ici à 2100",
+     "lien": "https://www.lemonde.fr/planete/article/2026/10/11/des-scientifiques-etablissent-la-liste-des-17-principales-menaces-pesant-sur-la-sante-humaine-d-ici-a-2100_6791095_3244.html",
+     "resume": "De l’obésité à la guerre nucléaire en passant par le réchauffement climatique, la revue scientifique « The Lancet » publie une étude compilant les principaux facteurs susceptibles de détériorer la santé de l’humanité dans le futur. Un exercice de prospection…",
+     "date": "2026-10-11T01:00:03+02:00",
+     "source": "",
+     "image": "https://img.lemde.fr/2026/10/10/269/0/4286/2143/644/322/60/0/b1ee2d2_upload-1-dgu5jnk0qp6z-ap16179493404471.jpg"
+    },
+    {
+     "titre": "En Inde, le premier ministre Narendra Modi répond par la force, alors qu’il est défié par la jeunesse",
+     "lien": "https://www.lemonde.fr/international/article/2026/10/11/en-inde-defie-par-la-jeunesse-le-premier-ministre-narendra-modi-repond-par-la-force_6791130_3210.html",
+     "resume": "Pour empêcher une manifestation de la Gen Z qui s’annonçait historique, les autorités ont cadenassé la capitale et procédé, samedi 10 octobre, à des milliers d’arrestations.",
+     "date": "2026-10-11T02:11:41+02:00",
+     "source": "",
+     "image": "https://img.lemde.fr/2026/10/10/459/0/5500/2750/644/322/60/0/d65c803_ftp-1-tgubh1bzgyux-2026-10-10t084335z-1823954758-rc260oakn752-rtrmadp-3-india-politics-gen-z.JPG"
+    },
+    {
+     "titre": "Arabie saoudite : douze morts et plus de 300 blessés dans une attaque contre l’aéroport de Riyad imputée aux houthistes",
+     "lien": "https://www.lemonde.fr/international/article/2026/10/11/arabie-saoudite-douze-morts-et-plus-de-300-blesses-dans-une-attaque-contre-l-aeroport-de-riyad-imputee-aux-houthistes_6791016_3211.html",
+     "resume": "Quatre Saoudiens et huit étrangers, dont un Américain, figurent parmi les personnes tuées, a précisé l’autorité de l’aviation civile saoudienne. Cette attaque est la plus meurtrière qu’ait connue le royaume depuis plus de dix ans.",
+     "date": "2026-10-11T05:15:05+02:00",
+     "source": "",
+     "image": "https://img.lemde.fr/2026/10/10/333/0/4000/2000/644/322/60/0/d34fa1f_upload-1-iahmmaisuvff-000-c8rp6nu.jpg"
+    }
+   ],
+   "flux_utilise": "https://www.lemonde.fr/rss/une.xml"
+  },
+  {
+   "id": "croix",
+   "nom": "La Croix",
+   "couleur": "#c8102e",
+   "une": {
+    "fichier": "unes/croix.jpg",
+    "date": "2026-10-10",
+    "source": "https://img.kiosko.net/2026/10/10/fr/lacroix.750.jpg"
+   },
+   "articles": [
+    {
+     "titre": "Guerre en Ukraine : ce qu’il faut retenir de la situation du samedi 10 octobre",
+     "lien": "https://www.la-croix.com/international/guerre-en-ukraine-accord-entre-trump-et-poutine-sur-le-diesel-nouvelles-frappes-mortelles-a-zaporijjia-20261010",
+     "resume": "Donald Trump a annoncé avoir négocié la livraison de quantités massives de diesel russe aux marchés américain et mondial. Des frappes russes dans le sud-est de l’Ukraine ont fait au moins quinze morts, dont trois enfants. Retrouvez l’actualité de ce samedi…",
+     "date": "2026-10-10T19:09:31+02:00",
+     "source": "",
+     "image": "https://i.la-croix.com/x/2026/10/10/2558236-donald-trump-a-annonce-vendredi-9-octobre-avoir-ne.jpg"
+    },
+    {
+     "titre": "Présidentielle 2027 : Gabriel Attal mise sur la carte « jeunes » et son plan pour l’école",
+     "lien": "https://www.la-croix.com/politique/presidentielle-2027-gabriel-attal-mise-sur-la-carte-jeunes-et-son-plan-pour-l-ecole-20261010",
+     "resume": "En plein mouvement de contestation des lycéens, le candidat de Renaissance à l’élection présidentielle Gabriel Attal a proposé, lors d’un meeting à Lyon, samedi 10 octobre, « un pacte pour la jeunesse » afin de changer de modèle scolaire.",
+     "date": "2026-10-10T18:59:32+02:00",
+     "source": "",
+     "image": "https://i.la-croix.com/x/2026/10/10/2558363-gabriel-attal-en-meeting-a-lyon-le-10-octobre-2026.jpg"
+    },
+    {
+     "titre": "Soudan : « Partout, à Khartoum, des amas de gravats peuvent se révéler être de véritables bombes »",
+     "lien": "https://www.la-croix.com/international/soudan-partout-a-khartoum-des-amas-de-gravats-peuvent-se-reveler-etre-de-veritables-bombes-20261010",
+     "resume": "Vincent Dalonneau, directeur Soudan de Handicap International, est le parrain de l’opération annuelle « Pyramide de chaussures » de l’ONG, organisée vendredi 9 et samedi 10 octobre 2026, qui vise à sensibiliser aux dégâts des mines antipersonnel et restes…",
+     "date": "2026-10-10T18:58:47+02:00",
+     "source": "",
+     "image": "https://i.la-croix.com/x/2026/10/09/2557534-un-membre-du-conseil-danois-pour-les-refugies-et-d.jpg"
+    },
+    {
+     "titre": "Pauline Vilain-Carlotti, la géographe qui veut réconcilier les Français avec le risque incendie",
+     "lien": "https://www.la-croix.com/planete/pauline-vilain-carlotti-la-geographe-qui-veut-reconcilier-les-francais-avec-le-risque-incendie-20261007",
+     "resume": "Enfant, elle regardait les canadairs survoler la Corse. Adulte, Pauline Vilain-Carlotti est devenue l’une des rares géographes à alerter sur le risque incendie en France, bien avant que 100 000 hectares ne partent en fumée cet été 2026.",
+     "date": "2026-10-10T17:44:01+02:00",
+     "source": "",
+     "image": "https://i.la-croix.com/x/2026/10/10/2554886-pauline-vilain-carlotti-est-directrice-d-etudes-ch.jpg"
+    },
+    {
+     "titre": "Léon XIV installe un liturgiste à la tête de la basilique Saint-Pierre",
+     "lien": "https://www.la-croix.com/religion/leon-xiv-installe-un-liturgiste-a-la-tete-de-la-basilique-saint-pierre-20261010",
+     "resume": "Le pape a nommé, samedi 10 octobre, Mgr Vittorio Francesco Viola à la tête de la basilique Saint-Pierre. Ce franciscain était jusqu’ici le numéro deux du dicastère pour le culte divin, chargé d’appliquer les restrictions à l’ancienne messe en latin. Il…",
+     "date": "2026-10-10T16:57:11+02:00",
+     "source": "",
+     "image": "https://i.la-croix.com/x/2026/10/10/2558323-le-pape-a-nomme-samedi-10-octobre-mgr-vittorio-fra.jpg"
+    },
+    {
+     "titre": "Autorité palestinienne : Mahmoud Abbas reporte les élections à septembre 2027",
+     "lien": "https://www.la-croix.com/international/autorite-palestinienne-mahmoud-abbas-reporte-les-elections-a-septembre-2027-20261010",
+     "resume": "Le président de l’Autorité palestinienne, Mahmoud Abbas, a décrété samedi 10 octobre que les élections présidentielles et législatives se tiendraient simultanément le 11 septembre 2027, reportant de près d’un an le scrutin législatif attendu par la…",
+     "date": "2026-10-10T16:30:07+02:00",
+     "source": "",
+     "image": "https://i.la-croix.com/x/2026/10/10/2558275-le-president-palestinien-mahmoud-abbas-a-choisi-d-.jpg"
+    }
+   ],
+   "flux_utilise": "https://www.la-croix.com/feeds/rss/site.xml"
+  },
+  {
+   "id": "equipe",
+   "nom": "L'Équipe",
+   "couleur": "#e2001a",
+   "une": {
+    "fichier": "unes/equipe.webp",
+    "date": "2026-10-11",
+    "source": "https://www.frontpages.com/t/2026/10/11/l-equipe-003434phq@2x.webp"
+   },
+   "articles": [
+    {
+     "titre": "Estéban Lepaul, une découverte à digérer et un statut à assumer à Rennes",
+     "lien": "https://www.lequipe.fr/Football/Article/Apres-ses-premieres-selections-en-demi-teinte-esteban-lepaul-retrouve-rennes-et-la-quete-d-un-rebond-offensif/1724777#at_medium=RSS_feeds",
+     "resume": "Après avoir honoré ses trois premières sélections en équipe de France durant la trêve, le buteur rennais est attendu, ce dimanche après-midi (17 h 15) contre Auxerre, dans une équipe qui a besoin de retrouver de l'éclat offensif après le couac à Lyon (0-4).",
+     "date": "2026-10-11T05:55:00+02:00",
+     "source": "",
+     "image": "https://medias.lequipe.fr/img-photo-jpg/esteban-lepaul-lors-de-la-victoire-des-bleus-contre-la-belgique-4-1-au-stade-de-france-le-5-octobre-p-lahalle-l-equipe/1500000002609714/0:0,1993:1329-828-552-75/0b62d.jpg"
+    },
+    {
+     "titre": "« On ne s'est pas déplacés en colonie, mais en mission » : prudence et réalisme, les ingrédients qui ont permis à l'UBB de faire tomber Clermont au Michelin",
+     "lien": "https://www.lequipe.fr/Rugby/Article/-on-ne-s-est-pas-deplaces-en-colonie-mais-en-mission-prudence-et-realisme-les-ingredients-qui-ont-permis-a-l-ubb-de-faire-tomber-clermont-au-michelin/1724893#at_medium=RSS_feeds",
+     "resume": "Avec beaucoup plus d'application que de génie, l'UBB est allée chercher samedi soir son premier succès à l'extérieur de la saison à Clermont (22-23).",
+     "date": "2026-10-11T05:50:00+02:00",
+     "source": "",
+     "image": "https://medias.lequipe.fr/img-photo-jpg/a-l-image-de-leur-capitaine-maxime-lucu-les-bordelais-ont-mis-enormement-d-engagement-pour-s-imposer-a-l-exterieur-samedi-en-top-14-contre-clermont-22-23-f-lancelot-l-equipe/1500000002610024/109:165,1939:1386-828-552-75/32e03.jpg"
+    },
+    {
+     "titre": "« Je n'ai plus le droit de t'appeler gamin » : au coeur des célébrations de Decathlon-CMA CGM après la victoire de Paul Seixas au Tour de Lombardie",
+     "lien": "https://www.lequipe.fr/Cyclisme-sur-route/Article/-je-n-ai-plus-le-droit-de-t-appeler-gamin-au-coeur-des-celebrations-de-decathlon-cma-cgm-apres-la-victoire-de-paul-seixas-au-tour-de-lombardie/1724861#at_medium=RSS_feeds",
+     "resume": "Ému et touchant, Paul Seixas n'a voulu oublier personne et il a partagé son succès sur le Tour de Lombardie avec ses équipiers et tout le staff samedi.",
+     "date": "2026-10-11T05:45:00+02:00",
+     "source": "",
+     "image": "https://medias.lequipe.fr/img-photo-jpg/paul-seixas-dans-les-bras-de-nicolas-prodhomme-apres-sa-victoire-sur-le-tour-de-lombardie-samedi-b-papon-l-equipe/1500000002609899/0:0,997:665-828-552-75/b6a2e.jpg"
+    },
+    {
+     "titre": "Enfin le jour du seigneur pour Max Verstappen ? En pole, le pilote Red Bull espère concrétiser à Singapour où il ne s'est jamais imposé en GP",
+     "lien": "https://www.lequipe.fr/Formule-1/Article/Apres-avoir-domine-la-journee-de-samedi-max-verstappen-espere-concretiser-dimanche-a-singapour-ou-il-ne-s-est-jamais-impose-en-grand-prix/1724783#at_medium=RSS_feeds",
+     "resume": "En pole devant les deux Ferrari, Max Verstappen tentera ce dimanche de signer son premier vrai succès à Singapour, vingt-quatre heures après avoir remporté la course sprint.",
+     "date": "2026-10-11T05:40:00+02:00",
+     "source": "",
+     "image": "https://medias.lequipe.fr/img-photo-jpg/max-verstappen-a-remporte-la-course-sprint-de-singapour-ce-samedi-devant-lewis-hamilton-avant-de-signer-la-pole-lors-des-qualifications-vincent-thian-ap/1500000002609723/100:5,916:549-828-552-75/f99c0.jpg"
+    },
+    {
+     "titre": "Des habituels remplaçants décevants avant l'entrée de titulaires virevoltants : ce PSG n'a (vraiment) qu'un plan A et ça pourrait devenir problématique",
+     "lien": "https://www.lequipe.fr/Football/Article/Des-habituels-remplacants-decevants-avant-l-entree-de-titulaires-virevoltants-ce-psg-n-a-vraiment-qu-un-plan-a-et-ca-pourrait-devenir-problematique/1724885#at_medium=RSS_feeds",
+     "resume": "Décevant avec ses habituels remplaçants pendant une heure, le PSG a dû attendre l'entrée de ses cadres pour s'en sortir face au Mans (3-1) samedi soir. À quatre jours du déplacement à Manchester City, tout n'est pas rassurant.",
+     "date": "2026-10-11T05:35:00+02:00",
+     "source": "",
+     "image": "https://medias.lequipe.fr/img-photo-jpg/khvitcha-kvaratskhelia-fabian-ruiz-vitinha-et-warren-zaire-emery-ont-relance-le-psg-samedi-soir-contre-le-mans-3-1-f-faugere-l-equipe/1500000002610004/66:68,1951:1325-828-552-75/6dd78.jpg"
+    },
+    {
+     "titre": "Après son carton rouge pour tirage de cheveux, Vinicius s'excuse puis se plaint sur les réseaux sociaux",
+     "lien": "https://www.lequipe.fr/Football/Actualites/Apres-son-carton-rouge-pour-tirage-de-cheveux-vinicius-s-excuse-puis-se-plaint-sur-les-reseaux-sociaux/1724891#at_medium=RSS_feeds",
+     "resume": "Sanctionné d'un carton rouge après avoir tiré les cheveux d'un adversaire, ce samedi soir contre Villarreal (1-0), Vinicius s'est d'abord excusé sur Instagram, avant de partager la publication du compte d'un fan pour se plaindre de son sort.",
+     "date": "2026-10-11T00:42:45+02:00",
+     "source": "",
+     "image": "https://medias.lequipe.fr/img-photo-png/-/1500000000833469/0-828-552-75/0cb67.png"
+    }
+   ],
+   "flux_utilise": "https://dwh.lequipe.fr/api/edito/rss?path=/"
+  }
+ ],
+ "sections": [
+  {
+   "id": "monde",
+   "titre": "Actualité principale",
+   "sous_titre": "Les informations les plus importantes, partout dans le monde",
+   "items": [
+    {
+     "titre": "EN DIRECT, guerre en Ukraine : Donald Trump affirme que Vladimir Poutine « aimerait voir un règlement » avec Kiev",
+     "lien": "https://www.lemonde.fr/international/live/2026/10/11/en-direct-guerre-en-ukraine-donald-trump-affirme-que-vladimir-poutine-aimerait-voir-un-reglement-avec-kiev_6791198_3210.html",
+     "resume": "« Je pense que la Russie aimerait conclure un accord, et nous en avons parlé plusieurs fois (…) mais pour une raison ou pour une autre, [Volodymyr] Zelensky ne veut pas conclure d’accord », a déclaré le président américain à des journalistes samedi, après…",
+     "date": "2026-10-11T05:27:15+02:00",
+     "source": "lemonde.fr",
+     "image": "https://img.lemde.fr/2026/10/11/335/0/4305/2152/644/322/60/0/ded65f2_ftp-1-shic5dkx3nvz-2026-10-11t004556z-467697417-rc2o0oavxuzn-rtrmadp-3-usa-trump.JPG",
+     "reprises": 23,
+     "score": 87.79
+    },
+    {
+     "titre": "La Prix Nobel de la paix 2026, Navanethem Pillay, juge « inacceptables » les sanctions américaines contre la CPI",
+     "lien": "https://www.lemonde.fr/international/article/2026/10/10/la-prix-nobel-de-la-paix-navanethem-pillay-juge-inacceptables-les-sanctions-americaines-contre-la-cpi_6791007_3210.html",
+     "resume": "La juriste sud-africaine, récompensée vendredi, déplore des mesures « jamais vues » visant des juges pour leurs décisions, que Washington justifie par la défense de la souveraineté américaine.",
+     "date": "2026-10-10T16:38:08+02:00",
+     "source": "lemonde.fr",
+     "image": "https://img.lemde.fr/2026/10/09/274/0/3286/1643/644/322/60/0/ec586f8_ftp-1-tyizutserrts-42ac78b845de4bbbbeeaa686ec0e7d13-0-61d261008a1e4e2bb02f799d2aff4c03.jpg",
+     "reprises": 5,
+     "score": 10.78
+    },
+    {
+     "titre": "Quatre morts dans le sud des Etats-Unis après le passage de la tempête Isaias",
+     "lien": "https://www.lemonde.fr/international/article/2026/10/11/la-tempete-isaias-a-balaye-le-sud-des-etats-unis-faisant-trois-morts-et-provoquant-de-vastes-pannes-de-courant_6791060_3210.html",
+     "resume": "Devenu un cyclone post-tropical, Isaias devrait se déplacer vers le nord puis le nord-est durant le week-end et s’affaiblir progressivement en traversant les vallées du Tennessee et de l’Ohio, selon le Centre national américain des ouragans.",
+     "date": "2026-10-11T00:11:46+02:00",
+     "source": "lemonde.fr",
+     "image": "https://img.lemde.fr/2026/10/10/458/0/6000/3000/644/322/60/0/aecd7c8_ftp-1-28c53kgzzdpg-5318762-01-06.jpg",
+     "reprises": 5,
+     "score": 9.37
+    },
+    {
+     "titre": "🔴 Palestine : Mahmoud Abbas reporte les élections présidentielle et législatives à 2027",
+     "lien": "https://www.france24.com/fr/moyen-orient/20261010-palestine-mahmoud-abbas-reporte-les-%C3%A9lections-pr%C3%A9sidentielle-et-l%C3%A9gislatives-%C3%A0-2027",
+     "resume": "Le président de l'Autorité palestinienne Mahmoud Abbas a annoncé samedi le report des élections législatives et présidentielle prévues respectivement le 28 novembre et début 2027. Elles se dérouleront le 11 septembre 2027.",
+     "date": "2026-10-10T13:49:25+02:00",
+     "source": "france24.com",
+     "image": null,
+     "reprises": 5,
+     "score": 7.84
+    },
+    {
+     "titre": "🔴 Cyclisme : à 20 ans, le Français Paul Seixas devient le plus jeune vainqueur du Tour de Lombardie",
+     "lien": "https://www.france24.com/fr/sports/20261010-cyclisme-fran%C3%A7ais-paul-seixas-devient-plus-jeune-vainqueur-tour-lombardie",
+     "resume": "Le Français Paul Seixas a décroché le premier Monument de sa jeune carrière en remportant le Tour de Lombardie en solitaire après un énorme numéro, samedi à Côme.",
+     "date": "2026-10-10T17:12:55+02:00",
+     "source": "france24.com",
+     "image": null,
+     "reprises": 3,
+     "score": 4.59
+    },
+    {
+     "titre": "Panama : un puissant séisme provoque d'importants dégâts, des blessés",
+     "lien": "https://www.france24.com/fr/vid%C3%A9o/20261010-panama-un-puissant-s%C3%A9isme-provoque-d-importants-d%C3%A9g%C3%A2ts-des-bless%C3%A9s",
+     "resume": "Un séisme de magnitude 7,7 a déclenché vendredi la panique dans la capitale du Panama et provoqué l'effondrement de bâtiments et de routes principalement dans le centre du pays, les autorités faisant état d'au moins 27 blessés selon le dernier bilan.",
+     "date": "2026-10-10T15:17:08+02:00",
+     "source": "france24.com",
+     "image": "https://s.france24.com/media/display/7b6615d2-c4ab-11f1-9e4d-29a2e29ae696/w:1024/p:16x9/FR-20261010-143617-143749-CS.jpg",
+     "reprises": 2,
+     "score": 3.99
+    }
+   ],
+   "a_traduire": []
+  },
+  {
+   "id": "ia",
+   "titre": "Intelligence artificielle",
+   "sous_titre": "Modèles, entreprises, régulation, recherche",
+   "items": [
+    {
+     "titre": "« Je pourrais avoir des informations concernant cette affaire » : une IA d'Anthropic envoie à la police américaine un faux signalement sur un meurtre",
+     "lien": "https://news.google.com/rss/articles/CBMioAJBVV95cUxOR0JFSDVhQmwzM2NYWHRFVmpwR2JVMXo4ZDQ4YkxUQ2E2WmpySlJIYmlNdjQzVXdMb0VCdjM5d0ZVTDZDZVhuNGdrOS15VGZzU0JHdU1UWTh4ZUlZbkdpaVdRYkUyQTZhckZ6dFJyTHpHM0VlMzFIWkFYeUk0M3I5VDRPeWMxa1d4cjM4NkJLcW1LWUFvZ0RJZ0E5dDlucXVTaW1yMUoydGo2WkhQellEcm1JNEpBZm9QOWFzeFZHY1RIbEVWZ2IyZXlOVlkwOTB0eWlVVlF6bWMxeVNONDVBdFVudEN0WURnRVVaWXg1OXlSLWRpTVl5Y19EcWtGQ1draHc1enBDY2hFY2ZNTGM5WmEtWUNFbjYxaTcxV3pKaTA?oc=5",
+     "resume": "",
+     "date": "2026-10-10T13:16:31+02:00",
+     "source": "Les Echos",
+     "image": null,
+     "reprises": 13,
+     "score": 26.95
+    },
+    {
+     "titre": "Anthropic coupe l’accès à Internet de ses IA pendant leurs tests après plusieurs dérapages",
+     "lien": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPMUJIa1pKRWx6cmRjR1dNZzJtTXFJdV9yVnNEUG1MM0pBY0dISjdDdWI4NUNkYTVsZmhmWmhXMmVrbG5rV0psQXJ1aXotaFN3am4wODE5ZVIzOGtOVldtRW1DMkNMU0twU05nek83UktMN0NiSm1tc1RsbXduVzJsVGptZmJodUlPNHVzVm5lYkNCYW4wZXA5X0pzQ0RzMnpKYWNtbkdRVmhCTnZaMEwxZk1nT2NhZGVJM0VMTnhxckNhQTI3cWc?oc=5",
+     "resume": "",
+     "date": "2026-10-10T15:36:00+02:00",
+     "source": "Clubic",
+     "image": null,
+     "reprises": 3,
+     "score": 5.11
+    },
+    {
+     "titre": "L’IA peut-elle devenir incontrôlable? Pourquoi l’Europe veut imposer ses règles aux géants américains",
+     "lien": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNalcyTXhMQXFOTy03WlVuM0lldDZCcHVrQ3NhNGNodUZTb0NaVGdXYkxUcEVxX3BNemRGVnVOYmZTLVBjemx2Y2FUZUE1dkQ5TkUyQ2JiMmhPUUt6WHhZQUFQRTRGRXI3YWRPOElNbWNfUTllZGZhazdhYzRHc2pBa1ZTbUw5LVUxSHBUY0d2SUNVRWtKOGs4clE0a0lLR3haOXVDYjNTb2cwd01tNWUw?oc=5",
+     "resume": "",
+     "date": "2026-10-10T09:35:03+02:00",
+     "source": "LCP-Assemblée nationale",
+     "image": null,
+     "reprises": 3,
+     "score": 4.17
+    },
+    {
+     "titre": "Il est à l'IA ce que le contremaître était à l'usine et il gagne 13.000 euros par mois: ce nouveau métier dont la demande bondit de 1.700% à Wall Street",
+     "lien": "https://news.google.com/rss/articles/CBMixgJBVV95cUxPMUVjWmxzUWxHNWxKNVQwX054N2dOOXdKd0oyTnpYbmUyT3NvS2FxcVZkY3h0UVo4VTA2cGJzY3Awa0hWNTFmOXI5TllEQTR0Qk9YM1lvZUZMOHVXSU1tRU50RGYxVFBBLW42Z1gxMjFsaUljN21BZGJadDBxdWxXTF9hbEhQbktkaExDS3kwU2tDOVRQejR4WFNId1JUZDVjUDZkSWNPMTZnVmUwVFFYdGtKY1V4aUR0Z2JpY2Y1RjVjcmdKelk4d3g0VzNCcm8yc0FnZmFLeVU2YjZweWdXaDN1RFVPVDlXT2JfY3hEdDd0OEEtOTRhUjdwRVFJOXBpal9nYmdHWWh0c3JBelpjNHdmQ2NnSmRldmtwNnJ4WDdKR3lJOGFvbTNFWXR6Y3hqUy1Damh1UzFQNVlTUTVUMTBMNGVBUQ?oc=5",
+     "resume": "",
+     "date": "2026-10-10T12:10:13+02:00",
+     "source": "BFM",
+     "image": null,
+     "reprises": 1,
+     "score": 3.23
+    },
+    {
+     "titre": "Anthropic’s AI gave Philadelphia police a fake tip about an unsolved homicide",
+     "lien": "https://www.theverge.com/ai-artificial-intelligence/1009090/anthropic-fake-homicide-information-philadelphia-pd-tip",
+     "resume": "An Anthropic AI model provided false information about an unsolved homicide to a Philadelphia Police Department (PPD) tipline, according to a report from 6abc. In a statement released on Friday, the PPD said the AI model sent the tip through…",
+     "date": "2026-10-09T23:15:38+02:00",
+     "source": "theverge.com",
+     "image": null,
+     "reprises": 2,
+     "score": 3.19
+    }
+   ],
+   "a_traduire": [
+    {
+     "titre": "Anthropic is cutting off its internal evaluations from the internet",
+     "lien": "https://www.theverge.com/ai-artificial-intelligence/1009286/anthropic-is-cutting-off-its-internal-evaluations-from-the-internet",
+     "resume": "After a recent spate of high-profile incidents in which AI agents escaped containment, Anthropic is cutting off internet access for all internal evaluations. In a report Friday, the company detailed \"unintended model actions,\" including submitting a false…",
+     "date": "2026-10-10T16:41:16+02:00",
+     "source": "theverge.com",
+     "image": null,
+     "reprises": 2,
+     "score": 3.43
+    },
+    {
+     "titre": "Satya Nadella says we should assume all AI models are ‘compromised’",
+     "lien": "https://www.theverge.com/ai-artificial-intelligence/1009337/satya-nadella-says-we-should-assume-all-ai-models-are-compromised",
+     "resume": "In a lengthy post on X, Microsoft's CEO laid out his views on the dangers posed by highly advanced AI models and how to confront those risks. Nadella says we can no longer accept a world where AI is treated as a \"set of nested black boxes\" whose advice and…",
+     "date": "2026-10-11T00:10:17+02:00",
+     "source": "theverge.com",
+     "image": null,
+     "reprises": 1,
+     "score": 1.49
+    },
+    {
+     "titre": "Here are the top AI agents that can live in your text messages",
+     "lien": "https://techcrunch.com/2026/10/10/all-the-ai-agents-that-can-live-in-your-text-messages/",
+     "resume": "We created a list of the most notable AI agents that can live in your text messages, from general assistants to agents designed for families, travel, and work.",
+     "date": "2026-10-10T16:00:00+02:00",
+     "source": "techcrunch.com",
+     "image": null,
+     "reprises": 1,
+     "score": 1.35
+    },
+    {
+     "titre": "CoreWeave Stock Fell Nearly 8% in a Day on an OpenAI Revenue Report. Here’s Why Its Borrowing Model Raises the Stakes",
+     "lien": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxNWXRkelZhZTVDalNxRExVdUw5ZERZU1A2QkZlUDRvM1BGZ0U5QlN0SE4yWEZjaGJfU1JvWDJCRU5tZF93WW91ZncxSTM4VkY5c2ZTazVxd2FtZkNjWmxMMnBVeUxpQ2VfNnEweHdwYWJPR2U5eHJ5NHY3MTZ5d0tLT2owYUN0SlRYUGFLQ0tlZjV3bWJJSW9nM3M2Y2ZUSkdxbDl5VVNOT0c4bU9tVXJ2RGhMSC12RnRFc2lvNE9Hb1ZSZWU3cEw5UUt5NVJsTHM4eC1zcVF6VjNzdWs?oc=5",
+     "resume": "",
+     "date": "2026-10-10T02:18:43+02:00",
+     "source": "TIKR.com",
+     "image": null,
+     "reprises": 1,
+     "score": 1.12
+    },
+    {
+     "titre": "AI agent makers are promising privacy — will they deliver?",
+     "lien": "https://www.theverge.com/ai-artificial-intelligence/1009051/privacy-ai-agent-promises-openai-meta-muse-dots",
+     "resume": "At this year's OpenAI DevDay, CEO Sam Altman unveiled the company's new AI agent Dots - and told the crowd that the company wants to \"set a new standard for privacy in frontier AI.\" OpenAI would spend the day taking veiled shots at Meta's Muse, its primary…",
+     "date": "2026-10-10T15:00:00+02:00",
+     "source": "theverge.com",
+     "image": null,
+     "reprises": 1,
+     "score": 1.1
+    }
+   ]
+  },
+  {
+   "id": "droit",
+   "titre": "Actualité juridique",
+   "sous_titre": "Libertés fondamentales, grandes juridictions, culture juridique pour le CRFPA",
+   "items": [
+    {
+     "titre": "Quand le Conseil constitutionnel stoppe le chameau mais montre la voie aux dromadaires : Réflexions critiques sur la Décision n° 2026-911 DC du 14 août 2026, Loi visant à protéger les mineurs des risques auxquels les expose l’utilisation des réseaux socia",
+     "lien": "https://news.google.com/rss/articles/CBMizgJBVV95cUxNLWZuNllHX0VMTF93cjgwLWI5LXd0Q3M0ODJnMVRQV3U3UWtBM3NjQTZFRGpoQ0R4Snp1TVhVYUUzQ05iWmttMXFkVnNhY2ZtUHIyOGhKN3VWWjBZZGI5YlBMMk1XQnhhclZ4dGxSRzduYUctTGlpeWdtdFpSbTQyUFRLbjlXNXVYYWN6X2QxNHdTT2x4ZjVscW5aTllVOWFzYVBoS09ZY0o1TnE4QVJFaGlveVpTRjFvaFZFUGQyRGN4eldEWG9jMXB6a3BZUGRuUDNMdDFjcXllYjdycVdYSktvZXJwQlFGa3p1ZzBUNXowTElPV3J3TzRCME01dWQzeENNWV9vMkM1c0pnamUxQWNPcGJUaWl0X290aTV6R21KNHJwUFo0UENFYjMxMXBXNktXV0NYNzJHVG1LZVlsM0lpUkdrY1Z3UDNscWJn?oc=5",
+     "resume": "",
+     "date": "2026-10-08T10:16:15+02:00",
+     "source": "JP blog -",
+     "image": null,
+     "reprises": 21,
+     "score": 48.0,
+     "libertes": true
+    },
+    {
+     "titre": "La liberté d’expression ne se défend pas en silence",
+     "lien": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPOG9JcFllbFJoQ09vYlFPMGtXeGNqN1lDSmg1bjJuMmM0cTRWc1J3WHltQ1ZzbDg3VHZmTEVFbnpBRERiNExwUExaT1NIOWpwRFlUTGgxTTg5WTZmU0NGVmNPOVF1bk8wSUVIdzlMS0xjR0FoclNzRFV4Y1BDcTVlTDdDRmRmQW1yNFFHYlBtR09ONFJma0E?oc=5",
+     "resume": "",
+     "date": "2026-10-09T11:05:17+02:00",
+     "source": "Le journal Options",
+     "image": null,
+     "reprises": 3,
+     "score": 4.96,
+     "libertes": true
+    },
+    {
+     "titre": "Sud Ardennes : devant le conseil d’État, ce projet éolien reste mal engagé",
+     "lien": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNQWY0V0Z4d2hIazhGc1M1eUhXQ3ZEQ19jZksxOEh3TUhGSnVrbG90Q1JVQktPeW95UjByNHJYNm13OXktODR2MDBlWEhrOFhQX0xTVFpibU9wZkxkZmJfLUo2RjZkU1BubVZ4UERDdHc5Uzg2TUZqS1N2ODhBWlRsZkVJZGpaemxFN3h3aXhlVkNEQ2wyeG1oMWVRUWVwUGpNdTdDRDlOT190NGk0RnJwS19ucS1TeHVvb3ZOSlgza3FtQQ?oc=5",
+     "resume": "",
+     "date": "2026-10-10T15:24:00+02:00",
+     "source": "L'Ardennais",
+     "image": null,
+     "reprises": 3,
+     "score": 4.73,
+     "libertes": false
+    },
+    {
+     "titre": "Décision n° 2026-1224 QPC du 8 octobre 2026",
+     "lien": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBrMXprV1hGQk1fNk1xV2x6Qm5hSC0tTy1ZWUlkQmtaTVFmTGtSa05pRDJSWFlvV21uRndpTC1yZnRPcG9jS2dQOXZDOGVudFpnRTBpRTg1am5TdEpENjNGZExLdW16azNoTHlIVkhMdFBkaHpmVURV?oc=5",
+     "resume": "",
+     "date": "2026-10-08T18:05:04+02:00",
+     "source": "Conseil constitutionnel",
+     "image": null,
+     "reprises": 1,
+     "score": 3.26,
+     "libertes": true
+    },
+    {
+     "titre": "La Cour européenne des droits de l'homme écarte un recours du père d'Estelle Mouzin, fillette victime de Michel Fourniret",
+     "lien": "https://news.google.com/rss/articles/CBMilAJBVV95cUxOczQxYkpKVWN3bzBCWlhPNm42bTloOFdJU3VUa2ZjVzhIVjRvZmZ5ZG5wVFBCYldoVFNsU3cwT1pJME1vSi1xUjdyOGtaanE1Zm1ZeTlMUUhHZ0NxRFAxUWlZa2NLUFhndUVBS2ZZX2ZUQ2g4YWdpcm52bnhhdExhNDRjc005X1lrZzl3NXcyaTdpT0dxX2JvTGNtVy1oRndyV1JSR0ZNREU1R1AzSjRvMVl1ajVLa0xoNEl0MTBxOGdvUlFrc2FKUWhOU0JGT3pfMTRPaV9mNDlFZjUtN2YxM1ZpNXd0S241NXVPU2ZOTGh1ckNzVi1vSngwYm5vczR3UnY3SzFUdVItS29qelpFN3JJQTA?oc=5",
+     "resume": "",
+     "date": "2026-10-08T14:35:39+02:00",
+     "source": "franceinfo",
+     "image": null,
+     "reprises": 2,
+     "score": 3.18,
+     "libertes": true
+    },
+    {
+     "titre": "Rebondissement dans le procès Ullens : voici pourquoi la Cour de cassation va devoir trancher",
+     "lien": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxNR1Nka1I2b1FkX3lQcEJNeEE5MVpZUkMtS3NqYU1vSXBUN256WE1XR1JJanlJaGF5algzMkRxQjZucVVjcVFuWFRSZnBmUzYzYnVncGVUUUtrSlRhbExoaHZJbTAtR244bklwNDhOb1VoeG5vbVoxUERwbWZqUG9oTlZ4R3FUNEZQRUZmUm1hVnUxdXRSemxETTFYLTlRYktmVzNQQWMyQmJqM3JPWjZucTdGX1AtLXZqb0cyYzE4alRXenJJQlpsUjd0U2tEVGR6dmtqTUJWeUY2Zw?oc=5",
+     "resume": "",
+     "date": "2026-10-08T15:56:59+02:00",
+     "source": "RTL Info",
+     "image": null,
+     "reprises": 2,
+     "score": 2.36,
+     "libertes": false
+    }
+   ],
+   "a_traduire": []
+  }
+ ]
+}
