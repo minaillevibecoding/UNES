@@ -1,152 +1,135 @@
 {
- "date": "2026-10-10",
- "edito": "Les États-Unis sanctionnent la Cour pénale internationale et somment ses États membres de faire annuler des mandats d'arrêt, le jour où le prix Nobel de la paix récompense Navi Pillay, ancienne présidente du Tribunal pénal international pour le Rwanda. Donald Trump annonce aussi un accord sur le gazole avec Vladimir Poutine, au grand dam de Kiev. En France, le mouvement lycéen ralentit après l'annonce de 3 000 professeurs remplaçants.",
+ "date": "2026-10-11",
+ "edito": "Donald Trump estime qu'il est temps pour l'Ukraine d'avoir un nouveau président afin de conclure un accord avec Moscou, une déclaration saluée par le négociateur russe. En Arabie saoudite, une attaque imputée aux houthistes a fait 12 morts et plus de 300 blessés à l'aéroport de Riyad. Navi Pillay, prix Nobel de la paix, juge « inacceptables » les sanctions américaines contre la CPI.",
  "journaux": {
   "figaro": {
-   "resume": "Le Figaro s'interroge sur les 3 000 professeurs remplaçants annoncés par Édouard Geffray, déjà dans les effectifs mais pas devant les élèves. L'exécutif parie sur une « décélération » du mouvement lycéen.",
+   "resume": "Le Figaro consacre sa une aux propos de Donald Trump, qui réclame un nouveau président ukrainien pour parvenir à la paix. Il suit aussi l'attaque meurtrière contre l'aéroport de Riyad.",
    "points": [
-    "Le RN dénonce une « légitimation de la violence » après l'annonce des remplaçants.",
-    "Lycéen amputé à Lens : le parquet juge le tir de grenade « conforme », la mère porte plainte.",
-    "Le coût des dégâts dans les lycées est estimé à 30 millions d'euros.",
-    "Environ 150 établissements restaient fermés vendredi."
+    "Trump : Poutine « aimerait voir un règlement », Zelensky résisterait au compromis.",
+    "Les soutiens de Volodymyr Zelensky se multiplient après la sortie de Trump.",
+    "Riyad : au moins 12 morts et 309 blessés dans une attaque contre l'aéroport.",
+    "Russie : le cloud de Yandex touché par une attaque de drone."
    ]
   },
   "monde": {
-   "resume": "Le Monde ouvre sur l'accord sur le gazole entre Trump et Poutine et sur les sanctions américaines contre la CPI. Il revient aussi sur la condamnation de Rohan Rane, premier procès en France de l'« extrémisme violent nihiliste ».",
+   "resume": "Le Monde dresse le portrait d'une France « à bout de nerfs », des agriculteurs aux lycéens. À l'international, il décrit la répression d'une manifestation de la jeunesse en Inde et la solitude des Palestiniens de Cisjordanie.",
    "points": [
-    "La Russie fournirait près de 5 millions de tonnes de gazole, malgré les sanctions.",
-    "Washington exige des membres de la CPI l'annulation de mandats d'arrêt.",
-    "Plateforme de concertation lycéenne : les emplois du temps arrivent en tête des préoccupations.",
-    "Mobilisations ce week-end contre un projet européen d'assouplissement des règles sur les pesticides."
+    "Canicules, dette, taux d'intérêt, logement, chômage : une spirale de crises en France.",
+    "Inde : la capitale cadenassée et des milliers d'arrestations pour empêcher une manifestation Gen Z.",
+    "Cisjordanie : les rares décisions de la Cour suprême israélienne favorables aux Palestiniens restent inappliquées.",
+    "« The Lancet » liste 17 menaces majeures pour la santé humaine d'ici à 2100."
    ]
   },
   "croix": {
-   "resume": "La Croix publie un entretien avec Dominique Simonnot, qui quitte le contrôle des prisons le 15 octobre. Elle fait aussi le point sur l'Ukraine, dont le réseau électrique a subi des dommages considérables.",
+   "resume": "La Croix fait le point sur l'Ukraine, entre accord russo-américain sur le diesel et frappes meurtrières dans le sud-est. Elle suit aussi Gabriel Attal, qui mise sur la jeunesse pour 2027.",
    "points": [
-    "Dominique Simonnot : « Ce que j'ai vu en prison est innommable ».",
-    "Cybercriminalité : trois adolescents interpellés lors du démantèlement de la plateforme Stryxx.",
-    "Lycées : l'ONU s'inquiète des violences et appelle à un usage proportionné de la force."
+    "Ukraine : au moins quinze morts, dont trois enfants, dans des frappes russes.",
+    "Gabriel Attal propose un « pacte pour la jeunesse » lors d'un meeting à Lyon.",
+    "Mahmoud Abbas reporte les élections palestiniennes au 11 septembre 2027."
    ]
   },
   "equipe": {
-   "resume": "L'Équipe salue la victoire de Lens contre Lyon (2-1), qui renoue avec son identité. Le journal suit aussi Toulon, sans manager après le départ de Pierre Mignoni, face au Racing 92.",
+   "resume": "L'Équipe célèbre Paul Seixas, 20 ans, plus jeune vainqueur du Tour de Lombardie. Le journal s'inquiète aussi du PSG, laborieux face au Mans avant Manchester City.",
    "points": [
-    "Ligue 1 : Lens bat Lyon 2-1 pour la première à domicile de l'ère Cahuzac.",
-    "Top 14 : Toulon, avant-dernier, reçoit le Racing 92 après le départ de Pierre Mignoni.",
-    "Rugby : l'Américain Jack Iscaro, devenu pilier reconnu au Stade Français."
+    "Cyclisme : Paul Seixas remporte son premier Monument en solitaire.",
+    "F1 : Max Verstappen en pole à Singapour.",
+    "Top 14 : l'UBB s'impose à Clermont (22-23)."
    ]
   }
  },
  "sections": {
   "monde": [
    {
-    "titre": "Trump annonce un accord sur le gazole avec Poutine, Kiev s'inquiète",
-    "resume": "La Russie fournirait près de 5 millions de tonnes de gazole aux États-Unis et aux marchés mondiaux, en contradiction avec les sanctions.",
-    "pourquoi": "L'accord fissure le front occidental des sanctions et redonne des revenus à Moscou en pleine guerre.",
-    "lien": "https://www.lemonde.fr/international/article/2026/10/10/un-accord-sur-le-gazole-entre-trump-et-poutine-au-grand-dam-de-l-ukraine-et-de-ses-allies_6790903_3210.html",
-    "source": "Le Monde",
-    "date": "2026-10-10T05:41:10+02:00"
+    "titre": "Trump réclame un nouveau président pour l'Ukraine",
+    "resume": "Le président américain juge qu'un changement à Kiev permettrait un accord avec Moscou et appelle l'Ukraine à cesser de frapper les raffineries russes.",
+    "pourquoi": "Washington remet en cause la légitimité du dirigeant ukrainien, au risque de fracturer le camp occidental.",
+    "lien": "https://www.lefigaro.fr/international/donald-trump-affirme-qu-il-est-temps-pour-l-ukraine-d-avoir-un-nouveau-president-20261010",
+    "source": "Le Figaro",
+    "date": "2026-10-10T22:27:32+02:00"
    },
    {
-    "titre": "Panama : un séisme de magnitude 7,7 fait d'importants dégâts",
-    "resume": "Le président José Raul Mulino évoque « un grand désastre » et des routes effondrées ; le bilan humain n'est pas encore connu.",
-    "pourquoi": "Un séisme majeur dans un pays clé du commerce mondial, avec le canal de Panama.",
-    "lien": "https://www.lemonde.fr/planete/article/2026/10/10/un-seisme-de-magnitude-7-7-a-secoue-le-panama-provoquant-d-importants-degats-materiels_6790632_3245.html",
+    "titre": "Arabie saoudite : 12 morts et plus de 300 blessés à l'aéroport de Riyad",
+    "resume": "L'attaque, imputée aux houthistes, est la plus meurtrière qu'ait connue le royaume depuis plus de dix ans ; un Américain figure parmi les victimes.",
+    "pourquoi": "La mort d'un ressortissant américain pourrait entraîner Washington plus directement dans la guerre du Golfe.",
+    "lien": "https://www.lemonde.fr/international/article/2026/10/11/arabie-saoudite-douze-morts-et-plus-de-300-blesses-dans-une-attaque-contre-l-aeroport-de-riyad-imputee-aux-houthistes_6791016_3211.html",
     "source": "Le Monde",
-    "date": "2026-10-10T01:51:59+02:00"
+    "date": "2026-10-11T05:15:05+02:00"
    },
    {
-    "titre": "Le prix Nobel de la paix à Navi Pillay, figure de la justice internationale",
-    "resume": "L'avocate sud-africaine de 85 ans a présidé le Tribunal pénal international pour le Rwanda et été haute-commissaire de l'ONU aux droits de l'homme.",
-    "pourquoi": "Un choix qui consacre la justice pénale internationale, au moment où elle est attaquée par Washington.",
-    "lien": "https://www.lemonde.fr/international/video/2026/10/09/le-prix-nobel-de-la-paix-decerne-a-l-avocate-sud-africaine-navanethem-pillay_6790635_3210.html",
+    "titre": "Inde : des milliers d'arrestations pour empêcher une manifestation de la jeunesse",
+    "resume": "Les autorités ont bouclé la capitale pour bloquer une manifestation de la « Gen Z » qui s'annonçait historique.",
+    "pourquoi": "Le pouvoir de Narendra Modi fait face à une contestation inédite de la jeunesse dans la plus grande démocratie du monde.",
+    "lien": "https://www.lemonde.fr/international/article/2026/10/11/en-inde-defie-par-la-jeunesse-le-premier-ministre-narendra-modi-repond-par-la-force_6791130_3210.html",
     "source": "Le Monde",
-    "date": "2026-10-09T21:34:58+02:00"
+    "date": "2026-10-11T02:11:41+02:00"
    },
    {
-    "titre": "Ukraine : le réseau électrique lourdement endommagé avant l'hiver",
-    "resume": "Les bombardements russes ont causé des « dommages considérables » ; la France, le Royaume-Uni, l'Allemagne, l'UE et l'OTAN sont conviés aux discussions avec Kiev.",
-    "pourquoi": "Sans électricité, l'hiver devient une arme contre la population ukrainienne.",
-    "lien": "https://www.la-croix.com/international/ukraine-russie-jour-1689-point-conflit-ukrainien-poutine-aujourdhui-20261009",
-    "source": "La Croix",
-    "date": "2026-10-09T20:59:52+02:00"
+    "titre": "Palestine : Mahmoud Abbas reporte les élections à septembre 2027",
+    "resume": "Les législatives prévues le 28 novembre et la présidentielle se tiendront ensemble le 11 septembre 2027.",
+    "pourquoi": "Le report prolonge le vide démocratique palestinien, alors que la question de la succession d'Abbas reste ouverte.",
+    "lien": "https://www.france24.com/fr/moyen-orient/20261010-palestine-mahmoud-abbas-reporte-les-%C3%A9lections-pr%C3%A9sidentielle-et-l%C3%A9gislatives-%C3%A0-2027",
+    "source": "France 24",
+    "date": "2026-10-10T13:49:25+02:00"
    },
    {
-    "titre": "Vol Flydubai : le copilote préparait une attaque suicide sur l'aéroport de Tel-Aviv",
-    "resume": "Inspiré du 11-Septembre, il remplissait toutes les exigences de sécurité à l'embauche, selon le procureur général des Émirats.",
-    "pourquoi": "L'affaire relance la question du contrôle des personnels navigants dans le transport aérien.",
-    "lien": "https://www.lemonde.fr/international/article/2026/10/09/vol-flydubai-deroute-le-copilote-planifiait-une-attaque-suicide-sur-l-aeroport-de-tel-aviv-selon-le-procureur-general-des-emirats-arabes-unis_6790628_3210.html",
+    "titre": "« The Lancet » liste 17 grandes menaces pour la santé humaine d'ici à 2100",
+    "resume": "De l'obésité à la guerre nucléaire en passant par le réchauffement climatique, l'étude hiérarchise les risques pour l'humanité.",
+    "pourquoi": "Un cadre de référence pour orienter les politiques de santé publique sur le long terme.",
+    "lien": "https://www.lemonde.fr/planete/article/2026/10/11/des-scientifiques-etablissent-la-liste-des-17-principales-menaces-pesant-sur-la-sante-humaine-d-ici-a-2100_6791095_3244.html",
     "source": "Le Monde",
-    "date": "2026-10-09T20:05:39+02:00"
+    "date": "2026-10-11T01:00:03+02:00"
    }
   ],
   "ia": [
    {
-    "titre": "OpenAI publie une avalanche de résultats mathématiques qui sidère les chercheurs",
-    "resume": "Plus de trois douzaines de mathématiciens interrogés par The Verge parlent de résultats « sans précédent », qu'il faudra des années pour vérifier.",
-    "pourquoi": "Si les résultats tiennent, l'IA devient un acteur de la recherche fondamentale, pas seulement un outil.",
-    "lien": "https://www.theverge.com/ai-artificial-intelligence/1008726/openai-mathematics-solutions-chaos",
+    "titre": "Satya Nadella : il faut partir du principe que tous les modèles d'IA sont « compromis »",
+    "resume": "Le patron de Microsoft appelle à cesser de traiter l'IA comme une série de « boîtes noires » dont on accepte les conseils sans contrôle.",
+    "pourquoi": "Le discours sur la sécurité de l'IA durcit chez les grands acteurs, après une série d'incidents.",
+    "lien": "https://www.theverge.com/ai-artificial-intelligence/1009337/satya-nadella-says-we-should-assume-all-ai-models-are-compromised",
     "source": "The Verge",
-    "date": "2026-10-09T21:09:44+02:00"
+    "date": "2026-10-11T00:10:17+02:00"
    },
    {
-    "titre": "Anthropic coupe l'accès à internet de ses évaluations internes",
-    "resume": "L'entreprise reconnaît ne pas pouvoir contrôler de façon fiable ses agents ; par ailleurs, une de ses IA aurait envoyé un faux signalement de meurtre à la police de Philadelphie.",
-    "pourquoi": "Les agents autonomes posent des risques concrets, y compris chez les laboratoires les plus attentifs à la sécurité.",
-    "lien": "https://techcrunch.com/2026/10/09/anthropic-cant-reliably-control-its-ai-agents-its-cutting-off-its-internal-evals-from-the-live-internet-instead/",
-    "source": "TechCrunch",
-    "date": "2026-10-10T02:18:32+02:00"
+    "titre": "Anthropic détaille les « actions non voulues » de ses modèles",
+    "resume": "Dans un rapport, l'entreprise recense les incidents, dont le faux signalement envoyé à la police de Philadelphie, et coupe internet à toutes ses évaluations internes.",
+    "pourquoi": "Un rare exemple de transparence d'un laboratoire sur les dérapages de ses propres agents.",
+    "lien": "https://www.theverge.com/ai-artificial-intelligence/1009286/anthropic-is-cutting-off-its-internal-evaluations-from-the-internet",
+    "source": "The Verge",
+    "date": "2026-10-10T16:41:16+02:00"
    },
    {
-    "titre": "OpenAI défend le licenciement de trois chercheurs en sécurité",
-    "resume": "L'entreprise affirme qu'ils n'ont pas été renvoyés pour avoir lancé l'alerte ; les intéressés contestent toute faute dans une lettre ouverte.",
-    "pourquoi": "La protection des lanceurs d'alerte dans l'IA devient un enjeu, après une série de démissions.",
-    "lien": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOcUw3eGNWTW1uUFR0eWtrSTdCbHRSc2lqcWhrS0hPSkt1WWJNVFVJRFpNM1NrcnoyN3ZQRzRzd00tMkNPOTB6cGhKdFp1c1RxbldQb0dKYXIyVjJRQUxieTRyLUJBSDlWbHhnQW5TMkpEcTJfOHhSV3M5ZW9sV2w1NE41VGRMYVV4bE1zR2hPR1RNYnlmclRLN0lndHRpRWRVV3VIMmcxMjBubkFpTjdNQ2lwbkRhWWp5bW1Ia1ZYUmpmTlZxRC1B?oc=5",
-    "source": "Pèse sur start",
-    "date": "2026-10-09T19:21:27+02:00"
-   },
-   {
-    "titre": "Le chiffre d'affaires d'OpenAI inférieur de 20 milliards de dollars aux projections",
-    "resume": "L'écart entre les revenus réels et les prévisions pèse sur les entreprises qui financent son infrastructure, comme CoreWeave.",
-    "pourquoi": "Les doutes sur la rentabilité de l'IA menacent un secteur très endetté.",
-    "lien": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxPQ0FrbmpYRjlNdzZsOGNDTFd1OUN2ZnE0WXREd1NCeXdkZmJGUlIwdlJxRE1MRzVDeXlrOVlQWF9NNmJvYm13ZDRTMld4alRNZy04QmRZQ2xDV0gtdUhyX2k5VDFNV0p0QkozUFBOTjVqM0tZTEZwVTBSOVAxVnlvamVrZjFKSnhMazZWRWRFX0dnNG0yanprOFVsN1hOeUZQazlxYzNMVWszRGJYUUNMNXRQTENfRllFemJKanJkNEpjeUxDQ2VKQUxLNVlfbDRtbFpvZVpGQ1dhT3Bidi1ybV96RQ?oc=5",
-    "source": "Courrier international",
-    "date": "2026-10-09T16:32:30+02:00"
+    "titre": "OpenAI lance l'agent Dots et promet un nouveau standard de vie privée",
+    "resume": "Présenté par Sam Altman à la DevDay, l'agent affronte Muse, celui de Meta, sur le terrain de la confidentialité.",
+    "pourquoi": "Les agents qui agissent à notre place auront accès à nos données : la vie privée devient l'argument commercial clé.",
+    "lien": "https://www.theverge.com/ai-artificial-intelligence/1009051/privacy-ai-agent-promises-openai-meta-muse-dots",
+    "source": "The Verge",
+    "date": "2026-10-10T15:00:00+02:00"
    }
   ],
   "droit": [
    {
-    "titre": "Les États-Unis sanctionnent la Cour pénale internationale",
-    "resume": "Toute transaction financière avec la Cour est interdite ; Washington exige des États membres l'annulation de mandats d'arrêt.",
+    "titre": "Navi Pillay juge « inacceptables » les sanctions américaines contre la CPI",
+    "resume": "La juriste sud-africaine, prix Nobel de la paix, dénonce des mesures « jamais vues » qui visent des juges pour leurs décisions.",
     "libertes": true,
-    "angle_crfpa": "Indépendance des juridictions internationales et obligations des États parties au Statut de Rome ; complémentarité de la CPI.",
-    "lien": "https://www.lemonde.fr/international/article/2026/10/10/sanctions-des-etats-unis-contre-la-cpi-washington-lance-un-ultimatum-aux-etats-membres_6790870_3210.html",
+    "angle_crfpa": "Indépendance des juges et immunités des juridictions internationales : la CPI face à la souveraineté des États non parties.",
+    "lien": "https://www.lemonde.fr/international/article/2026/10/10/la-prix-nobel-de-la-paix-navanethem-pillay-juge-inacceptables-les-sanctions-americaines-contre-la-cpi_6791007_3210.html",
     "source": "Le Monde",
-    "date": "2026-10-10T05:30:08+02:00"
+    "date": "2026-10-10T16:38:08+02:00"
    },
    {
-    "titre": "Rohan Rane condamné à vingt ans de réclusion criminelle",
-    "resume": "Premier procès en France de l'« extrémisme violent nihiliste » : l'accusé administrait un groupe en ligne d'ultraviolence et de sextorsion visant des mineures.",
-    "libertes": false,
-    "angle_crfpa": "Répression des violences sexuelles commises en ligne sur mineurs et qualification des faits commis à distance.",
-    "lien": "https://www.lemonde.fr/societe/article/2026/10/09/rohan-rane-un-etudiant-nihiliste-violent-condamne-a-20-ans-de-reclusion-criminelle-pour-avoir-impose-des-tortures-sexuelles-a-des-mineures-sur-internet_6790630_3224.html",
-    "source": "Le Monde",
-    "date": "2026-10-09T20:31:55+02:00"
-   },
-   {
-    "titre": "Lycéen amputé à Lens : le parquet juge le tir de grenade « conforme »",
-    "resume": "La mère de l'adolescent de 15 ans a porté plainte ; l'IGPN doit encore établir les circonstances de l'explosion.",
+    "titre": "Cisjordanie : les décisions de la Cour suprême israélienne restent lettre morte",
+    "resume": "Les rares jugements favorables aux Palestiniens dépossédés par des colons sont neutralisés par la force ou par les autorités.",
     "libertes": true,
-    "angle_crfpa": "Usage de la force par les forces de l'ordre : absolue nécessité et proportionnalité (art. 2 CEDH, art. L. 435-1 CSI).",
-    "lien": "https://www.lefigaro.fr/actualite-france/lyceen-ampute-d-une-main-a-lens-le-parquet-juge-le-tir-de-grenade-conforme-20261009",
-    "source": "Le Figaro",
-    "date": "2026-10-09T18:47:12+02:00"
+    "angle_crfpa": "Effectivité des décisions de justice et État de droit : l'exécution des jugements comme composante du droit au procès équitable (art. 6 CEDH, CEDH, Hornsby c. Grèce, 1997).",
+    "lien": "https://www.lemonde.fr/international/article/2026/10/11/en-cisjordanie-occupee-la-solitude-des-palestiniens-filmer-ce-qui-se-passe-a-nos-portes-est-devenu-notre-seul-recours-face-a-l-impuissance-de-la-justice_6791268_3210.html",
+    "source": "Le Monde",
+    "date": "2026-10-11T06:00:01+02:00"
    }
   ]
  },
  "notion": {
-  "titre": "Le Statut de Rome devant le Conseil constitutionnel",
-  "texte": "Avant la ratification du traité créant la Cour pénale internationale, le Conseil constitutionnel en examine la compatibilité avec la Constitution. Il juge que plusieurs stipulations y sont contraires, notamment parce que la Cour pourrait poursuivre le chef de l'État malgré son régime de responsabilité et intervenir dans des cas relevant de la souveraineté nationale. La ratification exigeait donc une révision constitutionnelle, adoptée en juillet 1999 (article 53-2). La décision montre comment la France concilie souveraineté et justice pénale internationale.",
-  "reference": "Cons. const., 22 janvier 1999, n° 98-408 DC, Traité portant statut de la Cour pénale internationale"
+  "titre": "Ezelin c. France : la liberté de réunion pacifique protège aussi le manifestant",
+  "texte": "Un avocat avait été sanctionné disciplinairement pour avoir participé à une manifestation au cours de laquelle des incidents s'étaient produits, sans s'en désolidariser. La Cour européenne des droits de l'homme juge que la sanction viole l'article 11 de la Convention. La liberté de réunion pacifique ne peut être restreinte au seul motif que d'autres participants ont commis des violences, dès lors que la personne n'en a pas commis elle-même. L'arrêt reste une référence sur la proportionnalité des restrictions au droit de manifester.",
+  "reference": "CEDH, 26 avril 1991, Ezelin c. France, n° 11800/85"
  }
 }
