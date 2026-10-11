@@ -1,6 +1,6 @@
 {
  "date": "2026-10-11",
- "genere": "2026-10-11T06:53+02:00",
+ "genere": "2026-10-11T06:57+02:00",
  "journaux": [
   {
    "id": "figaro",
@@ -196,6 +196,22 @@
    },
    "articles": [
     {
+     "titre": "À Troyes, promu en Ligue 1, la réception de l'OM est une étape importante pour la reconquête du public",
+     "lien": "https://www.lequipe.fr/Football/Actualites/A-troyes-promu-en-ligue-1-la-reception-de-l-om-est-une-etape-importante-pour-la-reconquete-du-public/1724709#at_medium=RSS_feeds",
+     "resume": "L'Estac reçoit l'OM à guichets fermés devant plus de 19 000 spectateurs, ce dimanche (20h45, sur Ligue 1+, disponible sur L'Équipe), au stade de l'Aube. Une étape importante pour le promu, qui cherche à fidéliser son public après trois saisons en L2.",
+     "date": "2026-10-11T06:36:00+02:00",
+     "source": "",
+     "image": "https://medias.lequipe.fr/img-photo-jpg/il-y-avait-12-260-spectateurs-au-stade-de-l-aube-le-6-septembre-pour-la-reception-de-strasbourg-2-6-emilian-baldow-icon-sport/1500000002609567/0:0,1895:1264-828-552-75/d3782.jpg"
+    },
+    {
+     "titre": "« On est dans une situation d'urgence » : pour un OM relégable, désormais, il est temps de gagner",
+     "lien": "https://www.lequipe.fr/Football/Article/-on-est-dans-une-situation-d-urgence-pour-un-om-relegable-desormais-il-est-temps-de-gagner/1724820#at_medium=RSS_feeds",
+     "resume": "Après avoir enchaîné les défaites contre des grosses équipes dans un climat bienveillant, l'OM lance ce dimanche soir à Troyes (20 h 45, sur Ligue 1+, disponible sur L'Équipe) une série plus abordable, avec l'obligation de sortir de la zone de relégation.",
+     "date": "2026-10-11T06:30:00+02:00",
+     "source": "",
+     "image": "https://medias.lequipe.fr/img-photo-jpg/les-coequipiers-d-angel-gomes-et-d-amine-harit-n-ont-remporte-qu-une-victoire-cette-saison-en-ouverture-du-championnat-a-mounic-l-equipe/1500000002609806/279:134,1920:1228-828-552-75/87cc2.jpg"
+    },
+    {
      "titre": "Estéban Lepaul, une découverte à digérer et un statut à assumer à Rennes",
      "lien": "https://www.lequipe.fr/Football/Article/Apres-ses-premieres-selections-en-demi-teinte-esteban-lepaul-retrouve-rennes-et-la-quete-d-un-rebond-offensif/1724777#at_medium=RSS_feeds",
      "resume": "Après avoir honoré ses trois premières sélections en équipe de France durant la trêve, le buteur rennais est attendu, ce dimanche après-midi (17 h 15) contre Auxerre, dans une équipe qui a besoin de retrouver de l'éclat offensif après le couac à Lyon (0-4).",
@@ -226,22 +242,6 @@
      "date": "2026-10-11T05:40:00+02:00",
      "source": "",
      "image": "https://medias.lequipe.fr/img-photo-jpg/max-verstappen-a-remporte-la-course-sprint-de-singapour-ce-samedi-devant-lewis-hamilton-avant-de-signer-la-pole-lors-des-qualifications-vincent-thian-ap/1500000002609723/100:5,916:549-828-552-75/f99c0.jpg"
-    },
-    {
-     "titre": "Des habituels remplaçants décevants avant l'entrée de titulaires virevoltants : ce PSG n'a (vraiment) qu'un plan A et ça pourrait devenir problématique",
-     "lien": "https://www.lequipe.fr/Football/Article/Des-habituels-remplacants-decevants-avant-l-entree-de-titulaires-virevoltants-ce-psg-n-a-vraiment-qu-un-plan-a-et-ca-pourrait-devenir-problematique/1724885#at_medium=RSS_feeds",
-     "resume": "Décevant avec ses habituels remplaçants pendant une heure, le PSG a dû attendre l'entrée de ses cadres pour s'en sortir face au Mans (3-1) samedi soir. À quatre jours du déplacement à Manchester City, tout n'est pas rassurant.",
-     "date": "2026-10-11T05:35:00+02:00",
-     "source": "",
-     "image": "https://medias.lequipe.fr/img-photo-jpg/khvitcha-kvaratskhelia-fabian-ruiz-vitinha-et-warren-zaire-emery-ont-relance-le-psg-samedi-soir-contre-le-mans-3-1-f-faugere-l-equipe/1500000002610004/66:68,1951:1325-828-552-75/6dd78.jpg"
-    },
-    {
-     "titre": "Après son carton rouge pour tirage de cheveux, Vinicius s'excuse puis se plaint sur les réseaux sociaux",
-     "lien": "https://www.lequipe.fr/Football/Actualites/Apres-son-carton-rouge-pour-tirage-de-cheveux-vinicius-s-excuse-puis-se-plaint-sur-les-reseaux-sociaux/1724891#at_medium=RSS_feeds",
-     "resume": "Sanctionné d'un carton rouge après avoir tiré les cheveux d'un adversaire, ce samedi soir contre Villarreal (1-0), Vinicius s'est d'abord excusé sur Instagram, avant de partager la publication du compte d'un fan pour se plaindre de son sort.",
-     "date": "2026-10-11T00:42:45+02:00",
-     "source": "",
-     "image": "https://medias.lequipe.fr/img-photo-png/-/1500000000833469/0-828-552-75/0cb67.png"
     }
    ],
    "flux_utilise": "https://dwh.lequipe.fr/api/edito/rss?path=/"
@@ -260,8 +260,18 @@
      "date": "2026-10-11T05:27:15+02:00",
      "source": "lemonde.fr",
      "image": "https://img.lemde.fr/2026/10/11/335/0/4305/2152/644/322/60/0/ded65f2_ftp-1-shic5dkx3nvz-2026-10-11t004556z-467697417-rc2o0oavxuzn-rtrmadp-3-usa-trump.JPG",
-     "reprises": 23,
-     "score": 87.79
+     "reprises": 24,
+     "score": 88.05
+    },
+    {
+     "titre": "Quatre morts dans le sud des Etats-Unis après le passage de la tempête Isaias",
+     "lien": "https://www.lemonde.fr/international/article/2026/10/11/la-tempete-isaias-a-balaye-le-sud-des-etats-unis-faisant-trois-morts-et-provoquant-de-vastes-pannes-de-courant_6791060_3210.html",
+     "resume": "Devenu un cyclone post-tropical, Isaias devrait se déplacer vers le nord puis le nord-est durant le week-end et s’affaiblir progressivement en traversant les vallées du Tennessee et de l’Ohio, selon le Centre national américain des ouragans.",
+     "date": "2026-10-11T00:11:46+02:00",
+     "source": "lemonde.fr",
+     "image": "https://img.lemde.fr/2026/10/10/458/0/6000/3000/644/322/60/0/aecd7c8_ftp-1-28c53kgzzdpg-5318762-01-06.jpg",
+     "reprises": 6,
+     "score": 11.29
     },
     {
      "titre": "La Prix Nobel de la paix 2026, Navanethem Pillay, juge « inacceptables » les sanctions américaines contre la CPI",
@@ -271,17 +281,7 @@
      "source": "lemonde.fr",
      "image": "https://img.lemde.fr/2026/10/09/274/0/3286/1643/644/322/60/0/ec586f8_ftp-1-tyizutserrts-42ac78b845de4bbbbeeaa686ec0e7d13-0-61d261008a1e4e2bb02f799d2aff4c03.jpg",
      "reprises": 5,
-     "score": 10.78
-    },
-    {
-     "titre": "Quatre morts dans le sud des Etats-Unis après le passage de la tempête Isaias",
-     "lien": "https://www.lemonde.fr/international/article/2026/10/11/la-tempete-isaias-a-balaye-le-sud-des-etats-unis-faisant-trois-morts-et-provoquant-de-vastes-pannes-de-courant_6791060_3210.html",
-     "resume": "Devenu un cyclone post-tropical, Isaias devrait se déplacer vers le nord puis le nord-est durant le week-end et s’affaiblir progressivement en traversant les vallées du Tennessee et de l’Ohio, selon le Centre national américain des ouragans.",
-     "date": "2026-10-11T00:11:46+02:00",
-     "source": "lemonde.fr",
-     "image": "https://img.lemde.fr/2026/10/10/458/0/6000/3000/644/322/60/0/aecd7c8_ftp-1-28c53kgzzdpg-5318762-01-06.jpg",
-     "reprises": 5,
-     "score": 9.37
+     "score": 10.86
     },
     {
      "titre": "🔴 Palestine : Mahmoud Abbas reporte les élections présidentielle et législatives à 2027",
@@ -291,7 +291,7 @@
      "source": "france24.com",
      "image": null,
      "reprises": 5,
-     "score": 7.84
+     "score": 7.81
     },
     {
      "titre": "🔴 Cyclisme : à 20 ans, le Français Paul Seixas devient le plus jeune vainqueur du Tour de Lombardie",
@@ -329,7 +329,7 @@
      "source": "Les Echos",
      "image": null,
      "reprises": 13,
-     "score": 26.95
+     "score": 26.8
     },
     {
      "titre": "Anthropic coupe l’accès à Internet de ses IA pendant leurs tests après plusieurs dérapages",
@@ -339,7 +339,7 @@
      "source": "Clubic",
      "image": null,
      "reprises": 3,
-     "score": 5.11
+     "score": 5.08
     },
     {
      "titre": "L’IA peut-elle devenir incontrôlable? Pourquoi l’Europe veut imposer ses règles aux géants américains",
@@ -349,7 +349,7 @@
      "source": "LCP-Assemblée nationale",
      "image": null,
      "reprises": 3,
-     "score": 4.17
+     "score": 4.16
     },
     {
      "titre": "Il est à l'IA ce que le contremaître était à l'usine et il gagne 13.000 euros par mois: ce nouveau métier dont la demande bondit de 1.700% à Wall Street",
@@ -359,7 +359,7 @@
      "source": "BFM",
      "image": null,
      "reprises": 1,
-     "score": 3.23
+     "score": 3.24
     },
     {
      "titre": "Anthropic’s AI gave Philadelphia police a fake tip about an unsolved homicide",
@@ -381,7 +381,7 @@
      "source": "theverge.com",
      "image": null,
      "reprises": 2,
-     "score": 3.43
+     "score": 3.42
     },
     {
      "titre": "Satya Nadella says we should assume all AI models are ‘compromised’",
@@ -438,7 +438,7 @@
      "source": "JP blog -",
      "image": null,
      "reprises": 21,
-     "score": 48.0,
+     "score": 48.07,
      "libertes": true
     },
     {
@@ -449,7 +449,7 @@
      "source": "Le journal Options",
      "image": null,
      "reprises": 3,
-     "score": 4.96,
+     "score": 4.95,
      "libertes": true
     },
     {
@@ -460,7 +460,7 @@
      "source": "L'Ardennais",
      "image": null,
      "reprises": 3,
-     "score": 4.73,
+     "score": 4.72,
      "libertes": false
     },
     {
@@ -486,15 +486,15 @@
      "libertes": true
     },
     {
-     "titre": "Rebondissement dans le procès Ullens : voici pourquoi la Cour de cassation va devoir trancher",
-     "lien": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxNR1Nka1I2b1FkX3lQcEJNeEE5MVpZUkMtS3NqYU1vSXBUN256WE1XR1JJanlJaGF5algzMkRxQjZucVVjcVFuWFRSZnBmUzYzYnVncGVUUUtrSlRhbExoaHZJbTAtR244bklwNDhOb1VoeG5vbVoxUERwbWZqUG9oTlZ4R3FUNEZQRUZmUm1hVnUxdXRSemxETTFYLTlRYktmVzNQQWMyQmJqM3JPWjZucTdGX1AtLXZqb0cyYzE4alRXenJJQlpsUjd0U2tEVGR6dmtqTUJWeUY2Zw?oc=5",
+     "titre": "Olivier Berruyer : \"Charlie Hebdo ce n'est pas la liberté d'expression mais une envie de choquer, d'insulter\"",
+     "lien": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxQTi14YXkycng0VUtKVHVRaG4zM09sZGRhV2g3ajNwTE9aYnZRUlpqVEduRmxyRUFYWDkybS02TnptTi1UbHdJcTRmaGNjQlEtN3VuSHJ1WG1uaEtMQVVmT0VlVUoyTUR0MFpVWm5uOXo2MjdWaWdIOTZOTTF4WlA2aEZKQmJCQVd2NndEQTg3Z3Y3X1Vud2RkT1Vhd04xUk9QcHhBcmhGVmw3bWNhYzBQQmtjTkxhWEl1MEt6ZEpoaWlaSFFGckhWaml4UklfaFFsb2dzcmhrUlUzWXBRb25sSHNXM0QyMlpQcXV3bXUyWEh2eFVHWTRjVXEwS08?oc=5",
      "resume": "",
-     "date": "2026-10-08T15:56:59+02:00",
-     "source": "RTL Info",
+     "date": "2026-10-09T13:03:49+02:00",
+     "source": "Orange Actualités",
      "image": null,
-     "reprises": 2,
-     "score": 2.36,
-     "libertes": false
+     "reprises": 1,
+     "score": 2.38,
+     "libertes": true
     }
    ],
    "a_traduire": []
