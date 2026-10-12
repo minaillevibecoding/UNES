@@ -1,6 +1,6 @@
 {
  "date": "2026-10-12",
- "genere": "2026-10-12T06:57+02:00",
+ "genere": "2026-10-12T07:00+02:00",
  "journaux": [
   {
    "id": "figaro",
@@ -260,8 +260,8 @@
      "date": "2026-10-11T20:16:26+02:00",
      "source": "lemonde.fr",
      "image": "https://img.lemde.fr/2026/10/11/698/0/1130/565/644/322/60/0/9b4e6e4_ftp-1-l4rv8j2qllvg-2026-10-11t140721z-40835940-rc221oaa54zg-rtrmadp-3-iran-crisis-saudi-airport.JPG",
-     "reprises": 13,
-     "score": 42.96
+     "reprises": 14,
+     "score": 47.28
     },
     {
      "titre": "Présidentielle 2027 : Raphaël Glucksmann élu dès le premier tour de la primaire à gauche",
@@ -281,7 +281,17 @@
      "source": "lemonde.fr",
      "image": "https://img.lemde.fr/2026/10/11/307/0/5931/2965/644/322/60/0/caf35b9_ftp-1-s1gg0nc7lffi-5323555-01-06.jpg",
      "reprises": 6,
-     "score": 13.51
+     "score": 13.44
+    },
+    {
+     "titre": "Après l’accord entre Donald Trump et Vladimir Poutine sur le diesel russe, l’Ukraine et l’Europe s’efforcent de maintenir la pression sur le Kremlin",
+     "lien": "https://www.lemonde.fr/international/article/2026/10/12/apres-l-accord-entre-donald-trump-et-vladimir-poutine-sur-le-diesel-russe-l-ukraine-et-l-europe-s-efforcent-de-maintenir-la-pression-sur-le-kremlin_6792418_3210.html",
+     "resume": "Donald Trump a annoncé, dimanche, un cessez-le-feu sur les infrastructures énergétiques russes et ukrainiennes, sans que Kiev n’en ait été informé. Moscou s’est gardé, pour l’heure, du moindre commentaire.",
+     "date": "2026-10-12T06:00:08+02:00",
+     "source": "lemonde.fr",
+     "image": "https://img.lemde.fr/2026/10/11/360/0/4320/2160/644/322/60/0/e415057_ftp-1-v5y9qgdck4ch-2026-10-11t002052z-1879055146-rc2o0oazoo6o-rtrmadp-3-usa-trump.JPG",
+     "reprises": 5,
+     "score": 8.59
     },
     {
      "titre": "Guerre en Ukraine : « Dites à Poutine de nous accorder soixante jours de cessez-le-feu, et nous organiserons les élections », assure Zelensky, en réponse à Trump",
@@ -291,7 +301,7 @@
      "source": "lemonde.fr",
      "image": "https://img.lemde.fr/2026/10/04/446/0/5371/2685/644/322/60/0/cbd5fa3_ftp-1-00gexcj9fner-bd65bd6f95da4a3487a10ba3103c9113-0-4b788d9cc5c14f9fbd0bda0b1ce7a442.jpg",
      "reprises": 4,
-     "score": 8.52
+     "score": 8.51
     },
     {
      "titre": "Le pape annonce qu'il va être opéré d'un nodule au poumon prochainement",
@@ -301,17 +311,7 @@
      "source": "france24.com",
      "image": "https://s.france24.com/media/display/3e3e798e-c58b-11f1-9efd-53993c5f1f18/w:1024/p:16x9/FR-20261011-160822-161113-CS.jpg",
      "reprises": 4,
-     "score": 7.96
-    },
-    {
-     "titre": "EN DIRECT, guerre en Ukraine : trois morts, dont un adolescent de 16 ans, dans une frappe russe près de Kharkiv",
-     "lien": "https://www.lemonde.fr/international/live/2026/10/12/en-direct-guerre-en-ukraine-trois-morts-et-25-blesses-dans-une-frappe-russe-pres-de-kharkiv_6791198_3210.html",
-     "resume": "Cette attaque a également fait 25 blessés, selon la police ukrainienne. Par ailleurs, Donald Trump a annoncé un « cessez-le-feu énergétique » entre la Russie et l’Ukraine. Volodymyr Zelensky a dit au média américain « Axios » n’avoir pas connaissance d’un…",
-     "date": "2026-10-12T06:30:20+02:00",
-     "source": "lemonde.fr",
-     "image": "https://img.lemde.fr/2026/10/11/218/0/6048/3024/644/322/60/0/6afdf6d_ftp-1-1yv5b8gapm8x-5327940-01-06.jpg",
-     "reprises": 3,
-     "score": 7.84
+     "score": 7.91
     }
    ],
    "a_traduire": []
@@ -329,7 +329,7 @@
      "source": "The Media Leader",
      "image": null,
      "reprises": 4,
-     "score": 8.87
+     "score": 8.83
     },
     {
      "titre": "«J’ai pleuré» : un mathématicien désespéré face à l’intelligence artificielle qui a réduit son domaine de recherche à néant",
@@ -339,7 +339,7 @@
      "source": "Le Figaro",
      "image": null,
      "reprises": 3,
-     "score": 7.18
+     "score": 7.21
     },
     {
      "titre": "Amazon en discussions pour acquérir la startup IA Decart pour 7 milliards $",
@@ -359,7 +359,7 @@
      "source": "Euronews.com",
      "image": null,
      "reprises": 4,
-     "score": 6.31
+     "score": 6.28
     },
     {
      "titre": "Filigrane ChatGPT, OpenAI confirme que les watermark remover échouent",
@@ -369,7 +369,7 @@
      "source": "Pasquale Pillitteri",
      "image": null,
      "reprises": 1,
-     "score": 4.45
+     "score": 4.42
     }
    ],
    "a_traduire": [
@@ -439,7 +439,7 @@
      "source": "Le journal Options",
      "image": null,
      "reprises": 3,
-     "score": 5.45,
+     "score": 4.57,
      "libertes": true
     },
     {
@@ -450,7 +450,7 @@
      "source": "Le Temps",
      "image": null,
      "reprises": 2,
-     "score": 3.89,
+     "score": 3.88,
      "libertes": false
     },
     {
