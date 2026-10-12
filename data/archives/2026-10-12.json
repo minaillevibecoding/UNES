@@ -1,0 +1,493 @@
+{
+ "date": "2026-10-12",
+ "genere": "2026-10-12T06:57+02:00",
+ "journaux": [
+  {
+   "id": "figaro",
+   "nom": "Le Figaro",
+   "couleur": "#163860",
+   "une": {
+    "fichier": "unes/figaro.jpg",
+    "date": "2026-10-12",
+    "source": "https://static.milibris.com/thumbnail/issue/d65303c7-817a-4268-966a-73645f47774c/front/catalog-cover-large.jpeg"
+   },
+   "articles": [
+    {
+     "titre": "Budget 2027 : l’examen à l’Assemblée nationale tourne au désastre pour les comptes publics",
+     "lien": "https://www.lefigaro.fr/economie/budget-2027-l-examen-a-l-assemblee-nationale-tourne-au-desastre-pour-les-comptes-publics-20261011",
+     "resume": "DÉCRYPTAGE - David Amiel accuse les députés de la commission des finances d’avoir voté en faveur de mesures dégradant le déficit public de 8 milliards d’euros.",
+     "date": "2026-10-11T20:03:05+02:00",
+     "source": "",
+     "image": "https://i.f1g.fr/media/cms/3000x1976_crop/2026/10/11/8798382236291990084617ed23efec4d7da8f3875480c5fe94a9c8285c69ecaa.jpg"
+    },
+    {
+     "titre": "Christine Lavarde, nouvelle rapporteur du Budget au Sénat : « Il est facile d’en appeler au patriotisme quand on a soi-même alourdi la facture »",
+     "lien": "https://www.lefigaro.fr/politique/christine-lavarde-nouvelle-rapporteur-du-budget-au-senat-il-est-facile-d-en-appeler-au-patriotisme-quand-on-a-soi-meme-alourdi-la-facture-20261011",
+     "resume": "ENTRETIEN EXCLUSIF - Dans son premier entretien accordé à la presse nationale depuis son élection à la tête de la Commission des finances, la sénatrice LR des Hauts-de-Seine dévoile ses objectifs au Figaro.",
+     "date": "2026-10-11T17:14:13+02:00",
+     "source": "",
+     "image": "https://i.f1g.fr/media/cms/1600x900_crop/2026/10/11/85a10bebc1754ba92531caabb84cde541772a8241e7baa767f03a6bdd0d3b2ec.jpg"
+    },
+    {
+     "titre": "Primaire à gauche : après sa victoire, Hollande félicite Glucksmann, qui lui tend la main en vue de la présidentielle",
+     "lien": "https://www.lefigaro.fr/elections/presidentielles/primaire-a-gauche-apres-sa-victoire-hollande-felicite-glucksmann-qui-lui-tend-la-main-en-vue-de-la-presidentielle-20261011",
+     "resume": "«Je lui dis qu’il est le bienvenu dans cette dynamique», a déclaré le vainqueur de la primaire à gauche, au journal de 20 heures.",
+     "date": "2026-10-11T21:17:18+02:00",
+     "source": "",
+     "image": "https://i.f1g.fr/media/cms/orig/2026/10/11/af604784555eb7f18c10b6f74c2aad0f540ecc325cdfa797e014a97dd4f3afbb.JPG"
+    },
+    {
+     "titre": "Raphaël Glucksmann enfariné à Paris après sa victoire à la primaire de la gauche",
+     "lien": "https://www.lefigaro.fr/elections/presidentielles/primaires-gauche/raphael-glucksmann-enfarine-a-paris-apres-sa-victoire-a-la-primaire-de-la-gauche-20261012",
+     "resume": "Sur des vidéos, le député européen se dirige vers un taxi à la sortie du bar parisien où il célébrait sa victoire, lorsqu’une personne positionnée derrière le candidat vide au niveau de sa tête le contenu d’un paquet de farine.",
+     "date": "2026-10-12T06:32:31+02:00",
+     "source": "",
+     "image": "https://i.f1g.fr/media/cms/orig/2026/10/12/3962f66c0a093ccc9b29d98b488c21cdf3ae1af18330c3155b4edd4e2e208a7d.jpg"
+    },
+    {
+     "titre": "Présidentielle 2027 : vainqueur de la primaire dès le premier tour, Raphaël Glucksmann devient le candidat de la gauche non mélenchoniste",
+     "lien": "https://www.lefigaro.fr/elections/presidentielles/primaires-gauche/presidentielle-2027-vainqueur-de-la-primaire-des-le-premier-tour-raphael-glucksmann-devient-le-candidat-de-la-gauche-non-melenchoniste-20261011",
+     "resume": "PORTRAIT - L’eurodéputé a largement remporté la primaire dimanche soir avec 66,17 % des voix. S’il a réussi son pari, le social-démocrate va désormais devoir rassembler ses concurrents battus, notamment Olivier Faure et Ségolène Royal, et affronter la…",
+     "date": "2026-10-11T19:31:30+02:00",
+     "source": "",
+     "image": "https://i.f1g.fr/media/cms/3000x2009_crop/2026/10/11/324a0c081f5a578e3c3cc1b1304fb70dbf91507cb01a09f7cfc0ef492bc18b00.jpg"
+    },
+    {
+     "titre": "Primaire à gauche : la bérézina d’Olivier Faure, déjà fragilisé à la tête du PS et éliminé dès le premier tour",
+     "lien": "https://www.lefigaro.fr/elections/presidentielles/primaires-gauche/primaire-a-gauche-la-berezina-d-olivier-faure-deja-fragilise-a-la-tete-du-ps-et-elimine-des-le-premier-tour-20261011",
+     "resume": "DÉCRYPTAGE - Patron des socialistes depuis huit ans, le premier secrétaire n’est pas parvenu à se qualifier en finale d’un scrutin pourtant organisé par son propre parti. Il n’a recueilli que 14,46 % des suffrages, loin des 66,17 % de son rival Raphaël…",
+     "date": "2026-10-11T23:08:34+02:00",
+     "source": "",
+     "image": "https://i.f1g.fr/media/cms/3000x2001_crop/2026/10/11/35d3ceb7991a79b68da52ec46ac450b020c87c682309d0c7243f236256f02f9c.jpg"
+    }
+   ],
+   "flux_utilise": "https://www.lefigaro.fr/rss/figaro_actualites.xml"
+  },
+  {
+   "id": "monde",
+   "nom": "Le Monde",
+   "couleur": "#111111",
+   "une": {
+    "fichier": "unes/monde.webp",
+    "date": "2026-10-11",
+    "source": "https://www.frontpages.com/t/2026/10/10/le-monde-231337ll0@2x.webp"
+   },
+   "articles": [
+    {
+     "titre": "Présidentielle 2027 : Raphaël Glucksmann, vainqueur de la primaire à gauche, au défi de mettre la famille sociale-démocrate en ordre de bataille",
+     "lien": "https://www.lemonde.fr/election-presidentielle-2027/article/2026/10/12/presidentielle-2027-raphael-glucksmann-vainqueur-de-la-primaire-a-gauche-au-defi-de-mettre-la-famille-sociale-democrate-en-ordre-de-bataille_6792381_6205049.html",
+     "resume": "Le coprésident de Place publique, qui l’a emporté dès le premier tour dimanche, a revendiqué la « rupture avec le macronisme » et la fin de « l’hégémonie de Jean-Luc Mélenchon sur la gauche », tout en assurant que le principal adversaire reste « l’extrême…",
+     "date": "2026-10-12T05:33:09+02:00",
+     "source": "",
+     "image": "https://img.lemde.fr/2026/10/11/555/0/4072/2036/644/322/60/0/2de6177_upload-1-bgihibmazxcf-l1063277.JPG"
+    },
+    {
+     "titre": "Après l’accord entre Donald Trump et Vladimir Poutine sur le diesel russe, l’Ukraine et l’Europe s’efforcent de maintenir la pression sur le Kremlin",
+     "lien": "https://www.lemonde.fr/international/article/2026/10/12/apres-l-accord-entre-donald-trump-et-vladimir-poutine-sur-le-diesel-russe-l-ukraine-et-l-europe-s-efforcent-de-maintenir-la-pression-sur-le-kremlin_6792418_3210.html",
+     "resume": "Donald Trump a annoncé, dimanche, un cessez-le-feu sur les infrastructures énergétiques russes et ukrainiennes, sans que Kiev n’en ait été informé. Moscou s’est gardé, pour l’heure, du moindre commentaire.",
+     "date": "2026-10-12T06:00:08+02:00",
+     "source": "",
+     "image": "https://img.lemde.fr/2026/10/11/360/0/4320/2160/644/322/60/0/e415057_ftp-1-v5y9qgdck4ch-2026-10-11t002052z-1879055146-rc2o0oazoo6o-rtrmadp-3-usa-trump.JPG"
+    },
+    {
+     "titre": "Le commissaire européen au climat compte sur le « made in Europe » et le nucléaire pour réduire les émissions de carbone",
+     "lien": "https://www.lemonde.fr/economie/article/2026/10/12/le-commissaire-europeen-au-climat-compte-sur-le-made-in-europe-et-le-nucleaire-pour-reduire-les-emissions-de-carbone_6792422_3234.html",
+     "resume": "Alors que la France et l’Allemagne peinent à trouver un accord politique sur le sujet, Wopke Hoekstra, en visite à Paris mardi et mercredi, soutient la position française en faveur d’une préférence européenne pour résister à la concurrence de l’industrie…",
+     "date": "2026-10-12T06:00:44+02:00",
+     "source": "",
+     "image": "https://img.lemde.fr/2026/10/11/575/0/6897/3448/644/322/60/0/3bc4691_upload-1-m9e4doakfbt8-000-82xq6kj.jpg"
+    },
+    {
+     "titre": "Arabie saoudite : un mort dans une nouvelle attaque sur l’aéroport de Riyad, au lendemain de frappes houthistes qui ont fait 13 morts",
+     "lien": "https://www.lemonde.fr/international/article/2026/10/11/arabie-saoudite-les-houthistes-du-yemen-revendiquent-des-operations-d-envergure-contres-des-aeroports-et-des-infrastructures-energetiques_6791939_3211.html",
+     "resume": "L’ampleur des attaques visant Riyad ces derniers jours est inédite depuis le début de la guerre au Yémen, en 2014. Les houthistes du Yémen revendiquent des « opérations d’envergure » contre des aéroports et des infrastructures énergétiques saoudiennes.",
+     "date": "2026-10-11T20:16:26+02:00",
+     "source": "",
+     "image": "https://img.lemde.fr/2026/10/11/698/0/1130/565/644/322/60/0/9b4e6e4_ftp-1-l4rv8j2qllvg-2026-10-11t140721z-40835940-rc221oaa54zg-rtrmadp-3-iran-crisis-saudi-airport.JPG"
+    },
+    {
+     "titre": "Après vingt ans sans élection, les Palestiniens de nouveau privés de scrutin",
+     "lien": "https://www.lemonde.fr/international/article/2026/10/11/apres-vingt-ans-sans-election-les-palestiniens-de-nouveau-prives-de-scrutin_6792176_3210.html",
+     "resume": "Le président Mahmoud Abbas a décrété le report d’un an des élections législatives, après des négociations entre les quatre grandes factions palestiniennes.",
+     "date": "2026-10-11T23:40:41+02:00",
+     "source": "",
+     "image": "https://img.lemde.fr/2026/09/22/679/0/5000/2500/644/322/60/0/ee45c9c_upload-1-pqath9ufvdkh-ll-palestine-elections-26.jpg"
+    },
+    {
+     "titre": "Justin, 25 ans, ornithologue, 1 950 euros par mois : « Je fais une petite fixette sur les goélands »",
+     "lien": "https://www.lemonde.fr/campus/article/2026/10/12/justin-25-ans-ornithologue-1-950-euros-par-mois-je-fais-une-petite-fixette-sur-les-goelands_6792379_4401467.html",
+     "resume": "« La bonne paye ». Chaque semaine, « Le Monde » parle d’argent avec les jeunes. Que signifie « bien gagner sa vie » ? Comment se projettent-ils dans l’avenir ? Cette semaine, Justin Chambrelin raconte comment sa passion pour les oiseaux l’a mené vers son…",
+     "date": "2026-10-12T05:30:28+02:00",
+     "source": "",
+     "image": "https://img.lemde.fr/2026/03/19/709/0/4252/2126/644/322/60/0/710547b_upload-1-pb5jbynzyran-salaire2-1-le-monde.jpg"
+    }
+   ],
+   "flux_utilise": "https://www.lemonde.fr/rss/une.xml"
+  },
+  {
+   "id": "croix",
+   "nom": "La Croix",
+   "couleur": "#c8102e",
+   "une": {
+    "fichier": "unes/croix.webp",
+    "date": "2026-10-12",
+    "source": "https://www.frontpages.com/t/2026/10/12/la-croix-063804ea2@2x.webp"
+   },
+   "articles": [
+    {
+     "titre": "À Clermont-Ferrand, Mélenchon cible la macronie et courtise la jeunesse",
+     "lien": "https://www.la-croix.com/politique/a-clermont-ferrand-melenchon-cible-la-macronie-et-courtise-la-jeunesse-20261012",
+     "resume": "Dans le Puy-de-Dôme, dimanche 11 octobre, Jean-Luc Mélenchon a ciblé le néolibéralisme, tout en déroulant un discours centré sur l’école et la jeunesse. Le chef de LFI a notamment défendu le droit de vote à 16 ans, la fin de Parcoursup et la création de…",
+     "date": "2026-10-12T06:45:20+02:00",
+     "source": "",
+     "image": "https://i.la-croix.com/x/2026/10/12/2559246-a-clermont-ferrand-dimanche-11-octobre-2026-jean-l.jpg"
+    },
+    {
+     "titre": "Au Musée d’Orsay, la revanche de l’impétueuse Mary Cassatt",
+     "lien": "https://www.la-croix.com/culture/au-musee-d-orsay-la-revanche-de-limpetueuse-mary-cassatt-20261009",
+     "resume": "Bien qu’ayant mené toute sa carrière en France, l’impressionniste américaine n’y avait jamais eu droit à une rétrospective. Réparant cette injustice, le Musée d’Orsay remet en lumière ses sujets féministes, traités avec une éclatante franchise.",
+     "date": "2026-10-12T06:06:17+02:00",
+     "source": "",
+     "image": "https://i.la-croix.com/x/2026/10/09/2557179-sur-les-quelque-80-tableaux-de-mary-cassatt-reunis.jpg"
+    },
+    {
+     "titre": "Solidarité : Aurore, une association centenaire, rattrapée par les difficultés financières",
+     "lien": "https://www.la-croix.com/societe/solidarite-aurore-une-association-centenaire-rattrapee-par-les-difficultes-financieres-20261011",
+     "resume": "Les associations sociales et médico-sociales se mobilisent à partir du lundi 12 octobre pour alerter sur leur fragilité financière. À l’heure où une association sur deux est contrainte de réduire ses activités, même des acteurs aussi historiques que…",
+     "date": "2026-10-12T06:00:08+02:00",
+     "source": "",
+     "image": "https://i.la-croix.com/x/2026/10/11/2558976-lors-d-une-distribution-de-paniers-repas-par-lasso.jpg"
+    },
+    {
+     "titre": "Après l’été caniculaire, l’OFB alerte : « On n’est toujours pas sorti de la sécheresse »",
+     "lien": "https://www.la-croix.com/planete/apres-l-ete-caniculaire-lofb-alerte-on-nest-toujours-pas-sorti-de-la-secheresse-20261011",
+     "resume": "Olivier Thibault, directeur général de l’Office français de la biodiversité, détaille, en exclusivité pour La Croix, le bilan de l’été. En particulier, la moitié des petits cours d’eau de tête de bassin-versant, les plus près des sources d’eau potable, sont…",
+     "date": "2026-10-12T06:00:06+02:00",
+     "source": "",
+     "image": "https://i.la-croix.com/x/2026/10/11/2557239-comme-de-nombreux-cours-d-eaux-le-gardon-a-sainte-.jpg"
+    },
+    {
+     "titre": "Salon de l’auto : jusqu’où ira le succès des voitures chinoises ?",
+     "lien": "https://www.la-croix.com/economie/salon-de-l-auto-jusquou-ira-le-succes-des-voitures-chinoises-20261011",
+     "resume": "Très présents au Mondial de l’auto, qui s’ouvre ce lundi 12 octobre 2026 à Paris, les constructeurs chinois ont effectué en France une rapide percée, avec près de 6 % des immatriculations. La suite dépendra de leur capacité à contourner, sans alourdir leurs…",
+     "date": "2026-10-12T05:55:16+02:00",
+     "source": "",
+     "image": "https://i.la-croix.com/x/2026/10/11/2557489-des-vehicules-electriques-destines-a-l-exportation.jpg"
+    },
+    {
+     "titre": "Mondial de l’auto : après le phénomène R5, la 2CV de Citroën renaît elle aussi en 100 % électrique",
+     "lien": "https://www.la-croix.com/economie/mondial-de-l-auto-apres-le-phenomene-r5-la-2cv-de-citroen-renait-elle-aussi-en-100-electrique-20261011",
+     "resume": "Surfant sur la vague du néo-rétro, Citroën présente, dès l’ouverture du Mondial de l’auto à Paris ce lundi 12 octobre 2026, un prototype de la 2CV qui sera commercialisée en 2028. Une voiture de petite taille, légère et produite en Europe. La future Deuch,…",
+     "date": "2026-10-11T19:01:03+02:00",
+     "source": "",
+     "image": "https://i.la-croix.com/x/2026/10/11/2558956-citroen-presente-au-mondial-de-l-auto-le-prototype.jpg"
+    }
+   ],
+   "flux_utilise": "https://www.la-croix.com/feeds/rss/site.xml"
+  },
+  {
+   "id": "equipe",
+   "nom": "L'Équipe",
+   "couleur": "#e2001a",
+   "une": {
+    "fichier": "unes/equipe.webp",
+    "date": "2026-10-12",
+    "source": "https://www.frontpages.com/t/2026/10/12/l-equipe-011354pbl@2x.webp"
+   },
+   "articles": [
+    {
+     "titre": "Testez vos connaissances sportives",
+     "lien": "https://www.lequipe.fr/jeux#at_medium=RSS_feeds",
+     "resume": "",
+     "date": "2026-10-12T06:49:00+02:00",
+     "source": "",
+     "image": "https://medias.lequipe.fr/img-photo-png/-/1500000000833469/0-828-552-75/0cb67.png"
+    },
+    {
+     "titre": "Paris et l'Asvel tout en haut, Bourg en bon élève et un peloton fragile : ce qu'il faut retenir des budgets des clubs de Betclic Élite",
+     "lien": "https://www.lequipe.fr/Basket/Article/Paris-et-l-asvel-tout-en-haut-bourg-en-bon-eleve-et-un-peloton-fragile-ce-qu-il-faut-retenir-des-budgets-des-clubs-de-betclic-elite/1725001#at_medium=RSS_feeds",
+     "resume": "Les deux locomotives du basket français, Paris et l'Asvel, restent très au-dessus du peloton sur le plan économique dans un contexte difficile alors que deux clubs, Monaco et Le Portel, ont disparu à l'intersaison.",
+     "date": "2026-10-12T06:40:00+02:00",
+     "source": "",
+     "image": "https://medias.lequipe.fr/img-photo-jpg/paris-et-l-asvel-qui-etaient-opposes-en-euroligue-le-7-octobre-96-98-sont-les-deux-locomotives-economiques-de-la-betclic-elite-f-faugere-l-equipe/1500000002610517/71:126,1848:1311-828-552-75/f6dd8.jpg"
+    },
+    {
+     "titre": "Enfin décisif et récompensé de ses efforts, Amine Harit a sorti l'OM de l'impasse à Troyes",
+     "lien": "https://www.lequipe.fr/Football/Article/Enfin-decisif-et-recompense-de-ses-efforts-amine-harit-a-sorti-l-om-de-l-impasse-a-troyes/1725101#at_medium=RSS_feeds",
+     "resume": "Alors qu'il ressemblait d'abord à une solution par défaut, le Marocain Amine Harit a relancé son histoire marseillaise et il a inscrit dimanche un but crucial à Troyes (2-0).",
+     "date": "2026-10-12T06:35:00+02:00",
+     "source": "",
+     "image": "https://medias.lequipe.fr/img-photo-jpg/d-une-volee-du-droit-amine-harit-a-lance-l-om-vers-la-victoire-2-0-dimanche-a-troyes-f-faugere-l-equipe/1500000002610732/0:0,1947:1298-828-552-75/51076.jpg"
+    },
+    {
+     "titre": "Malgré la colère, les supporters de l'OM prouvent par leur soutien inconditionnel qu'ils sont devenus le meilleur atout de leur club",
+     "lien": "https://www.lequipe.fr/Football/Article/Malgre-la-colere-les-supporters-de-l-om-prouvent-par-leur-soutien-inconditionnel-qu-ils-sont-devenus-le-meilleur-atout-de-leur-club/1725106#at_medium=RSS_feeds",
+     "resume": "S'ils ne manquent pas de montrer leur déception envers les résultats décevants de leur équipe et les promesses en l'air de leurs dirigeants, les supporters de l'OM, par leur passion et leur fidélité, sont aujourd'hui la meilleure vitrine du club malgré son…",
+     "date": "2026-10-12T06:25:00+02:00",
+     "source": "",
+     "image": "https://medias.lequipe.fr/img-photo-jpg/les-joueurs-de-l-om-posent-avec-les-supporters-presents-dans-le-parcage-du-stade-de-l-aube-dimanche-soir-f-faugere-l-equipe/1500000002610740/0:0,1500:1000-828-552-75/20d09.jpg"
+    },
+    {
+     "titre": "Des mauls, du jeu simple et Antoine Dupont : bousculé par Bayonne, Toulouse a montré son côté caméléon",
+     "lien": "https://www.lequipe.fr/Rugby/Article/Des-mauls-du-jeu-simple-et-antoine-dupont-bouscule-par-bayonne-toulouse-a-montre-son-cote-cameleon/1725104#at_medium=RSS_feeds",
+     "resume": "Longtemps bousculé par Bayonne, le Stade Toulousain s'en est remis à l'expertise et à l'efficacité de ses avants sur les ballons portés et à la classe de son capitaine Antoine Dupont pour arracher une victoire bonifiée (45-34) qui consolide sa pole-position…",
+     "date": "2026-10-12T06:00:00+02:00",
+     "source": "",
+     "image": "https://medias.lequipe.fr/img-photo-jpg/antoine-dupont-a-marque-un-double-dimanche-soir-contre-bayonne-f-lancelot-l-equipe/1500000002610736/0:0,1999:1332-828-552-75/ec36a.jpg"
+    },
+    {
+     "titre": "Co-leader malgré une fronde de ses supporters et un été chaotique, la Lazio de Gennaro Gattuso est la bonne surprise de Serie A",
+     "lien": "https://www.lequipe.fr/Football/Actualites/Co-leader-malgre-une-fronde-de-ses-supporters-et-un-ete-chaotique-la-lazio-de-gennaro-gattuso-est-la-bonne-surprise-de-serie-a/1725073#at_medium=RSS_feeds",
+     "resume": "Encore victorieuse contre Monza ce dimanche (3-1), la Lazio de Gennaro Gattuso réussit le meilleur début de saison de son histoire et est coleader de Serie A avec l'Inter Milan. Une sacrée surprise, alors que le club sort de trois saisons moroses et est…",
+     "date": "2026-10-12T05:50:00+02:00",
+     "source": "",
+     "image": "https://medias.lequipe.fr/img-photo-jpg/gennaro-gattuso-l-entraineur-de-la-lazio-avec-andrea-pinamonti-buteur-dimanche-lors-de-la-victoire-face-a-monza-3-1-marco-iacobucci-livemedia-icon-sport/1500000002610660/0:0,2000:1333-828-552-75/814ce.jpg"
+    }
+   ],
+   "flux_utilise": "https://dwh.lequipe.fr/api/edito/rss?path=/"
+  }
+ ],
+ "sections": [
+  {
+   "id": "monde",
+   "titre": "Actualité principale",
+   "sous_titre": "Les informations les plus importantes, partout dans le monde",
+   "items": [
+    {
+     "titre": "Arabie saoudite : un mort dans une nouvelle attaque sur l’aéroport de Riyad, au lendemain de frappes houthistes qui ont fait 13 morts",
+     "lien": "https://www.lemonde.fr/international/article/2026/10/11/arabie-saoudite-les-houthistes-du-yemen-revendiquent-des-operations-d-envergure-contres-des-aeroports-et-des-infrastructures-energetiques_6791939_3211.html",
+     "resume": "L’ampleur des attaques visant Riyad ces derniers jours est inédite depuis le début de la guerre au Yémen, en 2014. Les houthistes du Yémen revendiquent des « opérations d’envergure » contre des aéroports et des infrastructures énergétiques saoudiennes.",
+     "date": "2026-10-11T20:16:26+02:00",
+     "source": "lemonde.fr",
+     "image": "https://img.lemde.fr/2026/10/11/698/0/1130/565/644/322/60/0/9b4e6e4_ftp-1-l4rv8j2qllvg-2026-10-11t140721z-40835940-rc221oaa54zg-rtrmadp-3-iran-crisis-saudi-airport.JPG",
+     "reprises": 13,
+     "score": 42.96
+    },
+    {
+     "titre": "Présidentielle 2027 : Raphaël Glucksmann élu dès le premier tour de la primaire à gauche",
+     "lien": "https://www.france24.com/fr/vid%C3%A9o/20261011-pr%C3%A9sidentielle-2027-rapha%C3%ABl-glucksmann-%C3%A9lu-d%C3%A8s-le-premier-tour-de-la-primaire-%C3%A0-gauche",
+     "resume": "Le parti socialiste a désormais son candidat officiel pour 2027, c'est l'eurodéputé Raphaël Glucksmann. On en parle avec nos invités Emilie Zapalski, éditorialiste et communicante politique, et Noé Girardot-Champsaur, expert associé à la Fondation Jean-Jaurès.",
+     "date": "2026-10-11T23:34:20+02:00",
+     "source": "france24.com",
+     "image": "https://s.france24.com/media/display/d903c36e-c5ba-11f1-b26e-53993c5f1f18/w:1024/p:16x9/FR-20261011-210332-212136-CS.jpg",
+     "reprises": 4,
+     "score": 17.83
+    },
+    {
+     "titre": "En Pologne, Donald Tusk et son ministre de la défense visés par un projet de tentative d’assassinat",
+     "lien": "https://www.lemonde.fr/international/article/2026/10/11/en-pologne-donald-tusk-et-son-ministre-de-la-defense-vises-par-un-projet-de-tentative-d-assassinat_6792039_3210.html",
+     "resume": "L’homme qui menaçait de commettre cette attaque a été arrêté, ont annoncé le premier ministre et le ministre de l’intérieur. « Nous traitons cette affaire avec le plus grand sérieux », a commenté le porte-parole du ministre-coordinateur des services spéciaux.",
+     "date": "2026-10-11T18:07:43+02:00",
+     "source": "lemonde.fr",
+     "image": "https://img.lemde.fr/2026/10/11/307/0/5931/2965/644/322/60/0/caf35b9_ftp-1-s1gg0nc7lffi-5323555-01-06.jpg",
+     "reprises": 6,
+     "score": 13.51
+    },
+    {
+     "titre": "Guerre en Ukraine : « Dites à Poutine de nous accorder soixante jours de cessez-le-feu, et nous organiserons les élections », assure Zelensky, en réponse à Trump",
+     "lien": "https://www.lemonde.fr/international/article/2026/10/11/guerre-en-ukraine-dites-a-poutine-de-nous-accorder-60-jours-de-cessez-le-feu-et-nous-organiserons-les-elections-assure-zelensky-en-reponse-a-trump_6791930_3210.html",
+     "resume": "C’est aux Ukrainiens de choisir leur dirigeant, a déclaré Volodymyr Zelensky dans une interview diffusée dimanche sur la chaîne ABC, en réponse aux déclarations de Donald Trump qui a réclamé un changement de président en Ukraine.",
+     "date": "2026-10-11T16:44:37+02:00",
+     "source": "lemonde.fr",
+     "image": "https://img.lemde.fr/2026/10/04/446/0/5371/2685/644/322/60/0/cbd5fa3_ftp-1-00gexcj9fner-bd65bd6f95da4a3487a10ba3103c9113-0-4b788d9cc5c14f9fbd0bda0b1ce7a442.jpg",
+     "reprises": 4,
+     "score": 8.52
+    },
+    {
+     "titre": "Le pape annonce qu'il va être opéré d'un nodule au poumon prochainement",
+     "lien": "https://www.france24.com/fr/vid%C3%A9o/20261011-le-pape-annonce-qu-il-va-%C3%AAtre-op%C3%A9r%C3%A9-d-un-nodule-au-poumon-prochainement",
+     "resume": "Natalia Mendoza, notre correspondante à Rome, décrypte la situation.",
+     "date": "2026-10-11T18:02:13+02:00",
+     "source": "france24.com",
+     "image": "https://s.france24.com/media/display/3e3e798e-c58b-11f1-9efd-53993c5f1f18/w:1024/p:16x9/FR-20261011-160822-161113-CS.jpg",
+     "reprises": 4,
+     "score": 7.96
+    },
+    {
+     "titre": "EN DIRECT, guerre en Ukraine : trois morts, dont un adolescent de 16 ans, dans une frappe russe près de Kharkiv",
+     "lien": "https://www.lemonde.fr/international/live/2026/10/12/en-direct-guerre-en-ukraine-trois-morts-et-25-blesses-dans-une-frappe-russe-pres-de-kharkiv_6791198_3210.html",
+     "resume": "Cette attaque a également fait 25 blessés, selon la police ukrainienne. Par ailleurs, Donald Trump a annoncé un « cessez-le-feu énergétique » entre la Russie et l’Ukraine. Volodymyr Zelensky a dit au média américain « Axios » n’avoir pas connaissance d’un…",
+     "date": "2026-10-12T06:30:20+02:00",
+     "source": "lemonde.fr",
+     "image": "https://img.lemde.fr/2026/10/11/218/0/6048/3024/644/322/60/0/6afdf6d_ftp-1-1yv5b8gapm8x-5327940-01-06.jpg",
+     "reprises": 3,
+     "score": 7.84
+    }
+   ],
+   "a_traduire": []
+  },
+  {
+   "id": "ia",
+   "titre": "Intelligence artificielle",
+   "sous_titre": "Modèles, entreprises, régulation, recherche",
+   "items": [
+    {
+     "titre": "OpenAI accusée d’avoir licencié trois chercheurs sécurité",
+     "lien": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPNlljZFlfMy1JNUt5a0s0TDJrdFM1NzNsRXBkNjFhVEwzWVZKRGZtYXpzdTEtRzNxQUUyRXpud3lVQ2paUVZpTVZDRS1xbDY2cjdFVnNqdlJkUU1ZclRxd3VtcUV1NEgyM2F0eEQ2R0JZdk1pSlBZQ184OXllYk9ub2NTbWpYZF92LW1ZTzlUQXg?oc=5",
+     "resume": "",
+     "date": "2026-10-12T00:01:05+02:00",
+     "source": "The Media Leader",
+     "image": null,
+     "reprises": 4,
+     "score": 8.87
+    },
+    {
+     "titre": "«J’ai pleuré» : un mathématicien désespéré face à l’intelligence artificielle qui a réduit son domaine de recherche à néant",
+     "lien": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxPNng4NTJDS2lndktPZkRoUnNtYW90aEJ1WHktb20yM2Y5cUN1aVQwVkJyV3VoRGJjUXBVaG5PLUxaQ05WMG41Tld2UWkyTVB1cnRHcnlIZHdXOGJFcGpwandBdU82dHVDRzVZVndIRmltVXRtcXFfNm1pWnYtRjdjaFdKRmtRNzJSdHpSbUpiVHk0cWlIckhKcFlmZ3dKY1BUNUdmakszaExyVXlFSmk5bHNnQmwwRVMzdVNmNEN2Uy1JbXNqUWhCN1I1ckt6RUpfRmVVcjNsOFltU2p0dUpxdm5JOG1QV0NqUEg3b0pWRXItUVk?oc=5",
+     "resume": "",
+     "date": "2026-10-11T12:26:13+02:00",
+     "source": "Le Figaro",
+     "image": null,
+     "reprises": 3,
+     "score": 7.18
+    },
+    {
+     "titre": "Amazon en discussions pour acquérir la startup IA Decart pour 7 milliards $",
+     "lien": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNYW53c0U1RFBrUndoazRudWRUT0xFdnllUVZfazdGN2JGd2VwNEY1ajZWVm1hMXZncnlsYWQ1WWFUV2pjMWR5YzRBRk8xWDBZUEFSX2Uzb0pIYjktYkF5c19UWjZlSl8xRnJvUlVzT29qYy1LRUZqMF9ieGRhYXVlUmFvS005a00wdVQ3YVRRSEdQMENoUU5tMFdsSmhtZGc?oc=5",
+     "resume": "",
+     "date": "2026-10-12T01:55:02+02:00",
+     "source": "Yahoo Finance France",
+     "image": null,
+     "reprises": 4,
+     "score": 6.69
+    },
+    {
+     "titre": "La police US reproche à Anthropic des données fausses de l'IA Claude sur un meurtre non élucidé",
+     "lien": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNMzBFT0V0alNuSVdRMlR1cjliUFFTVk9JQmFUcDEtSWk5d0xfVVBkcUpOTDZtTUNIQnJhRUtOeF9PQThVZkxiQmxzYlVtRjRfYVUxLXlwdlpvdUFIX3RqRl83VWZ2YXNmbUlPQlI5b0RrYnc5YWd5ZXR6ZUduczhkQVBhajBSNjBlNHZ6SFBDWHJ0NHczLVJwNHhyOURReXJEc3U4YkFWcFp2ZE5JTUpRMmdYOEtSa3F2cjFQQzZNY25zbGc?oc=5",
+     "resume": "",
+     "date": "2026-10-11T12:46:37+02:00",
+     "source": "Euronews.com",
+     "image": null,
+     "reprises": 4,
+     "score": 6.31
+    },
+    {
+     "titre": "Filigrane ChatGPT, OpenAI confirme que les watermark remover échouent",
+     "lien": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQdXNZcnNqS2tCb2REeHdHNFo3eDN0d0xXRk5BMUc0LVprZmYtcjZvZHlKeHBBdjVMTFBwSEk5M1h4S1p1UTAxZEM4RDVhSmQ0SWd1Q0pSckZ5OENNSVpFSlgwYkVRNTJjT3BEQzhIUEtXZEk4OUlCb0p4ZUpKdFl4RXVZU2tQN0Q2?oc=5",
+     "resume": "",
+     "date": "2026-10-11T20:46:08+02:00",
+     "source": "Pasquale Pillitteri",
+     "image": null,
+     "reprises": 1,
+     "score": 4.45
+    }
+   ],
+   "a_traduire": [
+    {
+     "titre": "Silicon Valley is falling in line with Trump’s attempt to rename AI",
+     "lien": "https://www.theverge.com/ai-artificial-intelligence/1009406/silicon-valley-is-falling-in-line-with-trumps-attempt-to-rename-ai",
+     "resume": "When President Donald Trump announced his plans to rebrand artificial intelligence as \"super intelligence,\" you'd be forgiven for being skeptical that it would catch on. While most of the broader population is sticking with AI, some of Silicon Valley's most…",
+     "date": "2026-10-11T20:33:56+02:00",
+     "source": "theverge.com",
+     "image": null,
+     "reprises": 1,
+     "score": 1.43
+    },
+    {
+     "titre": "Can the AI industry persuade data center opponents by getting rid of NDAs?",
+     "lien": "https://techcrunch.com/2026/10/11/can-the-ai-industry-persuade-data-center-opponents-by-getting-rid-of-ndas/",
+     "resume": "On Equity, we debate the impact of data center moratoriums and whether the AI industry has a communication problem.",
+     "date": "2026-10-11T18:52:33+02:00",
+     "source": "techcrunch.com",
+     "image": null,
+     "reprises": 1,
+     "score": 1.4
+    },
+    {
+     "titre": "Learning to use local AI is exciting, overwhelming, and frustrating",
+     "lien": "https://www.theverge.com/ai-artificial-intelligence/1008484/learning-local-ai-hermes-qwen-model-mac-studio-testing-diary-progress",
+     "resume": "I'm embarking on a journey I've so far been hesitant to go on: actually using AI on the regular. Giving my most personal data to cloud services has been a major hold up for me, but it's increasingly possible to run powerful models locally to see what they're…",
+     "date": "2026-10-11T13:00:00+02:00",
+     "source": "theverge.com",
+     "image": null,
+     "reprises": 1,
+     "score": 1.17
+    },
+    {
+     "titre": "Satya Nadella says we should assume all AI models are ‘compromised’",
+     "lien": "https://www.theverge.com/ai-artificial-intelligence/1009337/satya-nadella-says-we-should-assume-all-ai-models-are-compromised",
+     "resume": "In a lengthy post on X, Microsoft's CEO laid out his views on the dangers posed by highly advanced AI models and how to confront those risks. Nadella says we can no longer accept a world where AI is treated as a \"set of nested black boxes\" whose advice and…",
+     "date": "2026-10-11T00:10:17+02:00",
+     "source": "theverge.com",
+     "image": null,
+     "reprises": 1,
+     "score": 0.86
+    }
+   ]
+  },
+  {
+   "id": "droit",
+   "titre": "Actualité juridique",
+   "sous_titre": "Libertés fondamentales, grandes juridictions, culture juridique pour le CRFPA",
+   "items": [
+    {
+     "titre": "Projet d’éoliennes à Availles-Limouzine : le Conseil d’État sollicite le rejet de la requête des opposants",
+     "lien": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxQSlJQRWUyUDJudGFKSF9iWHg2SzliYm9OVkgyb0lyQVBFbkwyWmlvbUdVX2VHS2hVM250Y3VlLUIxSTl2X1BEVDVGa3Y5Zi1sLWtCMmU3eTBSZ2phZTdFd21yQTREOXVQdW5iMmprUUc2djF6dTBHak9EcElZdE83b3o4bUNNRzB5QzJUaVhBcXo0NzZIRjVXOW95T2tRQ0xjSUR4aHNPOHRSQkcwM3I3Mm9iTXBwbjFobG1DSkkxbGF0MlZrRjdyNGY4UjljMi1zZ0V4TWpidnVEM2QwWHhYSTFXM05palpidjBOdkRPa3E1WTlzemZ3Tg?oc=5",
+     "resume": "",
+     "date": "2026-10-11T11:47:39+02:00",
+     "source": "lanouvellerepublique.fr",
+     "image": null,
+     "reprises": 4,
+     "score": 6.97,
+     "libertes": false
+    },
+    {
+     "titre": "La liberté d’expression ne se défend pas en silence",
+     "lien": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPOG9JcFllbFJoQ09vYlFPMGtXeGNqN1lDSmg1bjJuMmM0cTRWc1J3WHltQ1ZzbDg3VHZmTEVFbnpBRERiNExwUExaT1NIOWpwRFlUTGgxTTg5WTZmU0NGVmNPOVF1bk8wSUVIdzlMS0xjR0FoclNzRFV4Y1BDcTVlTDdDRmRmQW1yNFFHYlBtR09ONFJma0E?oc=5",
+     "resume": "",
+     "date": "2026-10-09T11:05:17+02:00",
+     "source": "Le journal Options",
+     "image": null,
+     "reprises": 3,
+     "score": 5.45,
+     "libertes": true
+    },
+    {
+     "titre": "Exclusif – La Cour européenne des droits de l’homme dira si la solidarité fiscale entre ex-époux est discriminatoire ou non",
+     "lien": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxQaHVFTTJkanZZc0lQblZpWVo3b200aHktRTN3MnNXSEF6djlyWGppbDg2aFdFTmN1UWNTdUMzYWo4YU1fcWxXWWJLX3JucVBwVlhaSF9HMExLOERpU2k1NFZXWkRmcXpYYnBJTHE3V1luY2ZjRWFVRnR1bThkRmhXZnZTbnRSNk5naWFuZHFpeVQ0cWtlWkpTYk5sNUlaYWE3dTlNUlhUQnVESndLaEc3dDVmdG01UEQycmxYX0s0aHFhZU12ZUpTMkFBR1hYXzljUERvbGtiZl9UandJQ1M0V2ctVFdpdw?oc=5",
+     "resume": "",
+     "date": "2026-10-12T04:30:01+02:00",
+     "source": "Le Temps",
+     "image": null,
+     "reprises": 2,
+     "score": 3.89,
+     "libertes": false
+    },
+    {
+     "titre": "\"J'accepte la décision de justice\" : l’élection du maire de Laroque-d'Olmes définitivement annulée par le Conseil d'État six mois après sa victoire au premier tour, les habitants rappelés aux urnes d’ici trois mois",
+     "lien": "https://news.google.com/rss/articles/CBMipgJBVV95cUxQbXBFNWtucFd5OTZwZ0dYWEVFc0NXbmlXNTJFUWo3ZEdQSVpYdmZIanlrQ20tcllUTGExdHd0Sm9OeHEzVjdCUklwMnpjR3BqaXFZS0wwQV9HUk5hY0NlVnlVTDgxeUFGRExwVWF2YU5BZVFvMDZSUEpMYm9vRGJfRFhBZjl0SjFtTHhHYUw1bnRybU5zaDA5Vl9LR1llUmVaNjRFRjJxNGVybkQ2TGNXdUtNTGNyS2U5c1BCV0tPbUxGUkprM011RTdPWjFDamVGaTc5V05MaTBvT0Y5c3RGNjNJR3czeWlFY2VUNzBMQk5QLXlXZE1weVlRRjE1elNzdGRxM0VxTFpXR1pyQjdpb044dXJyd0R5Y2wtUWRRanBKQzdXanc?oc=5",
+     "resume": "",
+     "date": "2026-10-10T09:38:00+02:00",
+     "source": "ladepeche.fr",
+     "image": null,
+     "reprises": 2,
+     "score": 3.01,
+     "libertes": false
+    },
+    {
+     "titre": "Une semaine de jurisprudence sociale à la Cour de cassation",
+     "lien": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNcktRYnltMEJCSkpMRjB2WDhwNDRUcmNqNHdvZFpJMkdaZ0tMN2hPaXZJUkc5cnVRc3R6MGlsM0REN0RUV3pyVFB1Z19VZ1ZLbG9MRm9PYzY3dXhZUkxYckktS2hFbFZBNE9ZSDJMUnNZeG11Q2tQREhWZUdRQ3ZpTXNyWUVlWG9LaEl1ZlhfaUtlYmlwZGpHMmo0c21PSnZYRVE5eVVyMzFqVG96a1ZyUEdpQXpJT0tnWEl6Ym9aZVNuM1NHNTBoakVFaTZ0dVBMXzktMQ?oc=5",
+     "resume": "",
+     "date": "2026-10-12T03:13:51+02:00",
+     "source": "Open Lefebvre Dalloz",
+     "image": null,
+     "reprises": 1,
+     "score": 1.57,
+     "libertes": false
+    },
+    {
+     "titre": "Mylène Palisse : la liberté d'expression en sursis",
+     "lien": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNTWhVS2lXb0wzMFdjYy1NRVJFcmZaVml1d1FvOTBfaXI2TWNsOVhyWUJoeUhMZ3BkV2JTenowemJ2YlF5MFBMRDgzSW56TDhYUmo4VUJOSWpsSE0xZzdUV2ZncjdYYVdsb2xJZ194T1F2Q1hQMDVRQzZzYUNGNk1kT3NGQ1IxWEt6UXA5X3Z3Umo0ZDdGaldReHdWdHp0d0xlaWVFMUloT3E2ekx6?oc=5",
+     "resume": "",
+     "date": "2026-10-12T02:00:54+02:00",
+     "source": "Orange Actualités",
+     "image": null,
+     "reprises": 1,
+     "score": 1.56,
+     "libertes": true
+    }
+   ],
+   "a_traduire": []
+  }
+ ]
+}
