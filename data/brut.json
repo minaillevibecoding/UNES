@@ -1,6 +1,6 @@
 {
  "date": "2026-10-12",
- "genere": "2026-10-12T07:00+02:00",
+ "genere": "2026-10-12T08:36+02:00",
  "journaux": [
   {
    "id": "figaro",
@@ -12,6 +12,14 @@
     "source": "https://static.milibris.com/thumbnail/issue/d65303c7-817a-4268-966a-73645f47774c/front/catalog-cover-large.jpeg"
    },
    "articles": [
+    {
+     "titre": "Paris : l’emblématique Marché des Enfants Rouges ravagé par un impressionnant incendie, les pompiers sur place",
+     "lien": "https://www.lefigaro.fr/faits-divers/paris-le-marche-des-enfants-rouges-ravage-par-un-incendie-les-pompiers-mobilises-sur-place-20261012",
+     "resume": "Les pompiers sont «intervenus avec force et efficacité dans un lieu qu’ils connaissaient heureusement bien», a précisé le maire de Paris Centre, Ariel Weil.",
+     "date": "2026-10-12T08:11:30+02:00",
+     "source": "",
+     "image": "https://i.f1g.fr/media/cms/orig/2026/10/12/8f1e1ef5b75902720e95b4f9c58536eca1cbd08e1af1997a1a5e59b5ceadd8ac.png"
+    },
     {
      "titre": "Budget 2027 : l’examen à l’Assemblée nationale tourne au désastre pour les comptes publics",
      "lien": "https://www.lefigaro.fr/economie/budget-2027-l-examen-a-l-assemblee-nationale-tourne-au-desastre-pour-les-comptes-publics-20261011",
@@ -29,6 +37,14 @@
      "image": "https://i.f1g.fr/media/cms/1600x900_crop/2026/10/11/85a10bebc1754ba92531caabb84cde541772a8241e7baa767f03a6bdd0d3b2ec.jpg"
     },
     {
+     "titre": "EN DIRECT - Présidentielle 2027 : «On chasse l’esprit de défaite de nos âmes et de nos cœurs», se félicite Raphaël Glucksmann",
+     "lien": "https://www.lefigaro.fr/elections/presidentielles/en-direct-presidentielle-2027-raphael-glucksmann-lance-un-appel-a-tous-les-citoyens-ecologistes-humanistes-et-republicains-a-le-rejoindre-20261012",
+     "resume": "Raphaël Glucksmann s’est imposé dimanche dès le premier tour à la primaire de la gauche sociale-démocrate et a promis de «rassembler la gauche démocratique» pour «battre l’extrême droite» à la présidentielle.",
+     "date": "2026-10-12T08:34:43+02:00",
+     "source": "",
+     "image": "https://i.f1g.fr/media/cms/3000x2000_crop/2026/10/12/10fae005d85bde98b9092ef4df0ef2d95fb81f56f1c26f1b181c18932c6c0974.jpg"
+    },
+    {
      "titre": "Primaire à gauche : après sa victoire, Hollande félicite Glucksmann, qui lui tend la main en vue de la présidentielle",
      "lien": "https://www.lefigaro.fr/elections/presidentielles/primaire-a-gauche-apres-sa-victoire-hollande-felicite-glucksmann-qui-lui-tend-la-main-en-vue-de-la-presidentielle-20261011",
      "resume": "«Je lui dis qu’il est le bienvenu dans cette dynamique», a déclaré le vainqueur de la primaire à gauche, au journal de 20 heures.",
@@ -43,22 +59,6 @@
      "date": "2026-10-12T06:32:31+02:00",
      "source": "",
      "image": "https://i.f1g.fr/media/cms/orig/2026/10/12/3962f66c0a093ccc9b29d98b488c21cdf3ae1af18330c3155b4edd4e2e208a7d.jpg"
-    },
-    {
-     "titre": "Présidentielle 2027 : vainqueur de la primaire dès le premier tour, Raphaël Glucksmann devient le candidat de la gauche non mélenchoniste",
-     "lien": "https://www.lefigaro.fr/elections/presidentielles/primaires-gauche/presidentielle-2027-vainqueur-de-la-primaire-des-le-premier-tour-raphael-glucksmann-devient-le-candidat-de-la-gauche-non-melenchoniste-20261011",
-     "resume": "PORTRAIT - L’eurodéputé a largement remporté la primaire dimanche soir avec 66,17 % des voix. S’il a réussi son pari, le social-démocrate va désormais devoir rassembler ses concurrents battus, notamment Olivier Faure et Ségolène Royal, et affronter la…",
-     "date": "2026-10-11T19:31:30+02:00",
-     "source": "",
-     "image": "https://i.f1g.fr/media/cms/3000x2009_crop/2026/10/11/324a0c081f5a578e3c3cc1b1304fb70dbf91507cb01a09f7cfc0ef492bc18b00.jpg"
-    },
-    {
-     "titre": "Primaire à gauche : la bérézina d’Olivier Faure, déjà fragilisé à la tête du PS et éliminé dès le premier tour",
-     "lien": "https://www.lefigaro.fr/elections/presidentielles/primaires-gauche/primaire-a-gauche-la-berezina-d-olivier-faure-deja-fragilise-a-la-tete-du-ps-et-elimine-des-le-premier-tour-20261011",
-     "resume": "DÉCRYPTAGE - Patron des socialistes depuis huit ans, le premier secrétaire n’est pas parvenu à se qualifier en finale d’un scrutin pourtant organisé par son propre parti. Il n’a recueilli que 14,46 % des suffrages, loin des 66,17 % de son rival Raphaël…",
-     "date": "2026-10-11T23:08:34+02:00",
-     "source": "",
-     "image": "https://i.f1g.fr/media/cms/3000x2001_crop/2026/10/11/35d3ceb7991a79b68da52ec46ac450b020c87c682309d0c7243f236256f02f9c.jpg"
     }
    ],
    "flux_utilise": "https://www.lefigaro.fr/rss/figaro_actualites.xml"
@@ -74,15 +74,7 @@
    },
    "articles": [
     {
-     "titre": "Présidentielle 2027 : Raphaël Glucksmann, vainqueur de la primaire à gauche, au défi de mettre la famille sociale-démocrate en ordre de bataille",
-     "lien": "https://www.lemonde.fr/election-presidentielle-2027/article/2026/10/12/presidentielle-2027-raphael-glucksmann-vainqueur-de-la-primaire-a-gauche-au-defi-de-mettre-la-famille-sociale-democrate-en-ordre-de-bataille_6792381_6205049.html",
-     "resume": "Le coprésident de Place publique, qui l’a emporté dès le premier tour dimanche, a revendiqué la « rupture avec le macronisme » et la fin de « l’hégémonie de Jean-Luc Mélenchon sur la gauche », tout en assurant que le principal adversaire reste « l’extrême…",
-     "date": "2026-10-12T05:33:09+02:00",
-     "source": "",
-     "image": "https://img.lemde.fr/2026/10/11/555/0/4072/2036/644/322/60/0/2de6177_upload-1-bgihibmazxcf-l1063277.JPG"
-    },
-    {
-     "titre": "Après l’accord entre Donald Trump et Vladimir Poutine sur le diesel russe, l’Ukraine et l’Europe s’efforcent de maintenir la pression sur le Kremlin",
+     "titre": "Après l’accord entre Donald Trump et Vladimir Poutine sur le gazole russe, l’Ukraine et l’Europe s’efforcent de maintenir la pression sur le Kremlin",
      "lien": "https://www.lemonde.fr/international/article/2026/10/12/apres-l-accord-entre-donald-trump-et-vladimir-poutine-sur-le-diesel-russe-l-ukraine-et-l-europe-s-efforcent-de-maintenir-la-pression-sur-le-kremlin_6792418_3210.html",
      "resume": "Donald Trump a annoncé, dimanche, un cessez-le-feu sur les infrastructures énergétiques russes et ukrainiennes, sans que Kiev n’en ait été informé. Moscou s’est gardé, pour l’heure, du moindre commentaire.",
      "date": "2026-10-12T06:00:08+02:00",
@@ -90,28 +82,28 @@
      "image": "https://img.lemde.fr/2026/10/11/360/0/4320/2160/644/322/60/0/e415057_ftp-1-v5y9qgdck4ch-2026-10-11t002052z-1879055146-rc2o0oazoo6o-rtrmadp-3-usa-trump.JPG"
     },
     {
-     "titre": "Le commissaire européen au climat compte sur le « made in Europe » et le nucléaire pour réduire les émissions de carbone",
-     "lien": "https://www.lemonde.fr/economie/article/2026/10/12/le-commissaire-europeen-au-climat-compte-sur-le-made-in-europe-et-le-nucleaire-pour-reduire-les-emissions-de-carbone_6792422_3234.html",
-     "resume": "Alors que la France et l’Allemagne peinent à trouver un accord politique sur le sujet, Wopke Hoekstra, en visite à Paris mardi et mercredi, soutient la position française en faveur d’une préférence européenne pour résister à la concurrence de l’industrie…",
-     "date": "2026-10-12T06:00:44+02:00",
+     "titre": "Présidentielle 2027 : Raphaël Glucksmann, vainqueur de la primaire à gauche, au défi de mettre la famille sociale-démocrate en ordre de bataille",
+     "lien": "https://www.lemonde.fr/election-presidentielle-2027/article/2026/10/12/presidentielle-2027-raphael-glucksmann-vainqueur-de-la-primaire-a-gauche-au-defi-de-mettre-la-famille-sociale-democrate-en-ordre-de-bataille_6792381_6205049.html",
+     "resume": "Le coprésident de Place publique, qui l’a emporté dès le premier tour, dimanche, a revendiqué la « rupture avec le macronisme » et la fin de « l’hégémonie de Jean-Luc Mélenchon sur la gauche », tout en assurant que le principal adversaire reste « l’extrême…",
+     "date": "2026-10-12T05:33:09+02:00",
      "source": "",
-     "image": "https://img.lemde.fr/2026/10/11/575/0/6897/3448/644/322/60/0/3bc4691_upload-1-m9e4doakfbt8-000-82xq6kj.jpg"
+     "image": "https://img.lemde.fr/2026/10/11/555/0/4072/2036/644/322/60/0/2de6177_upload-1-bgihibmazxcf-l1063277.JPG"
     },
     {
-     "titre": "Arabie saoudite : un mort dans une nouvelle attaque sur l’aéroport de Riyad, au lendemain de frappes houthistes qui ont fait 13 morts",
-     "lien": "https://www.lemonde.fr/international/article/2026/10/11/arabie-saoudite-les-houthistes-du-yemen-revendiquent-des-operations-d-envergure-contres-des-aeroports-et-des-infrastructures-energetiques_6791939_3211.html",
-     "resume": "L’ampleur des attaques visant Riyad ces derniers jours est inédite depuis le début de la guerre au Yémen, en 2014. Les houthistes du Yémen revendiquent des « opérations d’envergure » contre des aéroports et des infrastructures énergétiques saoudiennes.",
-     "date": "2026-10-11T20:16:26+02:00",
+     "titre": "Budget 2027 : rejeté en commission, le projet de loi de finances arrive dans le chaudron de l’Assemblée nationale",
+     "lien": "https://www.lemonde.fr/politique/article/2026/10/12/budget-2027-rejete-en-commission-le-projet-de-loi-de-finances-arrive-dans-le-chaudron-de-l-assemblee-nationale_6792420_823448.html",
+     "resume": "Le texte, examiné dans l’Hémicycle à partir de mardi, doit permettre de tenir jusqu’à l’élection présidentielle sans crise de la dette. Mais nul ne sait s’il pourra être adopté, ni quand. En cas de blocage, Sébastien Lecornu n’exclut plus de recourir à des…",
+     "date": "2026-10-12T06:00:19+02:00",
      "source": "",
-     "image": "https://img.lemde.fr/2026/10/11/698/0/1130/565/644/322/60/0/9b4e6e4_ftp-1-l4rv8j2qllvg-2026-10-11t140721z-40835940-rc221oaa54zg-rtrmadp-3-iran-crisis-saudi-airport.JPG"
+     "image": "https://img.lemde.fr/2026/10/02/666/0/8000/4000/644/322/60/0/67c9720_upload-1-p4zu0kmobzot-jmug261001086.jpg"
     },
     {
-     "titre": "Après vingt ans sans élection, les Palestiniens de nouveau privés de scrutin",
-     "lien": "https://www.lemonde.fr/international/article/2026/10/11/apres-vingt-ans-sans-election-les-palestiniens-de-nouveau-prives-de-scrutin_6792176_3210.html",
-     "resume": "Le président Mahmoud Abbas a décrété le report d’un an des élections législatives, après des négociations entre les quatre grandes factions palestiniennes.",
-     "date": "2026-10-11T23:40:41+02:00",
+     "titre": "Le marché des Enfants-Rouges, à Paris, « totalement détruit » après un incendie",
+     "lien": "https://www.lemonde.fr/societe/article/2026/10/12/le-marche-des-enfants-rouges-a-paris-ravage-par-les-flammes-annonce-le-maire-d-arrondissement_6792525_3224.html",
+     "resume": "Le maire de Paris Centre, qui a annoncé l’information tôt lundi matin, a fait savoir que le feu était « maîtrisé , mais le marché, situé dans le IIIe arrondissement, est « totalement sinistré ».",
+     "date": "2026-10-12T07:22:42+02:00",
      "source": "",
-     "image": "https://img.lemde.fr/2026/09/22/679/0/5000/2500/644/322/60/0/ee45c9c_upload-1-pqath9ufvdkh-ll-palestine-elections-26.jpg"
+     "image": "https://img.lemde.fr/2026/10/12/364/0/754/377/644/322/60/0/de3a1aa_upload-1-afimhuvvankw-capture-d-e-cran-2026-10-12-a-7-24-57-am.png"
     },
     {
      "titre": "Justin, 25 ans, ornithologue, 1 950 euros par mois : « Je fais une petite fixette sur les goélands »",
@@ -120,6 +112,14 @@
      "date": "2026-10-12T05:30:28+02:00",
      "source": "",
      "image": "https://img.lemde.fr/2026/03/19/709/0/4252/2126/644/322/60/0/710547b_upload-1-pb5jbynzyran-salaire2-1-le-monde.jpg"
+    },
+    {
+     "titre": "Compte à terme ou livret bancaire, quel est le meilleur choix après la hausse des taux ?",
+     "lien": "https://www.lemonde.fr/argent/article/2026/10/12/compte-a-terme-ou-livret-bancaire-quel-est-le-meilleur-choix-apres-la-hausse-des-taux_6792423_1657007.html",
+     "resume": "Certains placements sans risque font désormais mieux que le Livret A. Une situation qui devrait durer au moins jusqu’au 1ᵉʳ février 2027.",
+     "date": "2026-10-12T06:00:47+02:00",
+     "source": "",
+     "image": "https://img.lemde.fr/2023/04/18/268/0/3000/1500/644/322/60/0/e82bf4d_1681833540560-yjtj.jpg"
     }
    ],
    "flux_utilise": "https://www.lemonde.fr/rss/une.xml"
@@ -129,11 +129,43 @@
    "nom": "La Croix",
    "couleur": "#c8102e",
    "une": {
-    "fichier": "unes/croix.webp",
+    "fichier": "unes/croix.jpg",
     "date": "2026-10-12",
-    "source": "https://www.frontpages.com/t/2026/10/12/la-croix-063804ea2@2x.webp"
+    "source": "https://img.kiosko.net/2026/10/12/fr/lacroix.750.jpg"
    },
    "articles": [
+    {
+     "titre": "Retour du froid : il va falloir se réadapter, comme Sophie Adenot revenue sur Terre",
+     "lien": "https://www.la-croix.com/a-vif/retour-du-froid-il-va-falloir-se-readapter-comme-sophie-adenot-revenue-sur-terre-20261012",
+     "resume": "Les terrasses se vident, les doudounes ressortent : octobre reprend enfin ses droits après une longue période de chaleur anormale. Un retour au froid qui interroge notre chroniqueur Alain Rémond : arriverons-nous facilement à nous y réadapter ?",
+     "date": "2026-10-12T08:32:53+02:00",
+     "source": "",
+     "image": "https://i.la-croix.com/x/2026/01/15/23106162-alain-remond-chroniqueur-pour-la-croix.jpg"
+    },
+    {
+     "titre": "Mouvement lycéen : le droit de dire et les cicatrices de la répression",
+     "lien": "https://www.la-croix.com/a-vif/mouvement-lyceen-le-droit-de-dire-et-les-cicatrices-de-la-repression-20261012",
+     "resume": "Du Maroc, où la parole se manie comme un explosif, au mouvement lycéen d’aujourd’hui, Abigail Assor interroge ce que la répression laisse chez ceux qui ont osé parler.",
+     "date": "2026-10-12T08:32:32+02:00",
+     "source": "",
+     "image": "https://i.la-croix.com/x/2026/08/21/25159251-abigail-assor-est-ecrivaine.jpg"
+    },
+    {
+     "titre": "« Des policiers à la fac », sur arte.tv : quand des policiers lisent Bourdieu",
+     "lien": "https://www.la-croix.com/culture/des-policiers-a-la-fac-sur-artetv-quand-des-policiers-lisent-bourdieu-20261012",
+     "resume": "Le documentaire Des policiers à la fac, disponible sur la plateforme d’Arte, suit cinquante fonctionnaires inscrits à l’université d’Amiens (Somme) pour passer un diplôme de sociologie « Police Population ». Un film très éclairant.",
+     "date": "2026-10-12T08:28:31+02:00",
+     "source": "",
+     "image": "https://i.la-croix.com/x/2026/10/12/2557342-dans-le-documentaire-des-policietrs-a-la-fac-des-m.jpg"
+    },
+    {
+     "titre": "Paris : l’historique marché des Enfants rouges ravagé par les flammes",
+     "lien": "https://www.la-croix.com/societe/paris-l-historique-marche-des-enfants-rouges-ravage-par-les-flammes-20261012",
+     "resume": "Le plus vieux marché couvert de Paris, dans le 3e arrondissement, a été la proie des flammes dans la nuit. Le marché des Enfants rouges, est « totalement sinistré », a annoncé lundi 12 octobre la mairie de Paris.",
+     "date": "2026-10-12T08:20:05+02:00",
+     "source": "",
+     "image": "https://i.la-croix.com/x/2026/10/12/2559258-le-marche-des-enfants-rouges-le-plus-vieux-marche-.jpg"
+    },
     {
      "titre": "À Clermont-Ferrand, Mélenchon cible la macronie et courtise la jeunesse",
      "lien": "https://www.la-croix.com/politique/a-clermont-ferrand-melenchon-cible-la-macronie-et-courtise-la-jeunesse-20261012",
@@ -149,38 +181,6 @@
      "date": "2026-10-12T06:06:17+02:00",
      "source": "",
      "image": "https://i.la-croix.com/x/2026/10/09/2557179-sur-les-quelque-80-tableaux-de-mary-cassatt-reunis.jpg"
-    },
-    {
-     "titre": "Solidarité : Aurore, une association centenaire, rattrapée par les difficultés financières",
-     "lien": "https://www.la-croix.com/societe/solidarite-aurore-une-association-centenaire-rattrapee-par-les-difficultes-financieres-20261011",
-     "resume": "Les associations sociales et médico-sociales se mobilisent à partir du lundi 12 octobre pour alerter sur leur fragilité financière. À l’heure où une association sur deux est contrainte de réduire ses activités, même des acteurs aussi historiques que…",
-     "date": "2026-10-12T06:00:08+02:00",
-     "source": "",
-     "image": "https://i.la-croix.com/x/2026/10/11/2558976-lors-d-une-distribution-de-paniers-repas-par-lasso.jpg"
-    },
-    {
-     "titre": "Après l’été caniculaire, l’OFB alerte : « On n’est toujours pas sorti de la sécheresse »",
-     "lien": "https://www.la-croix.com/planete/apres-l-ete-caniculaire-lofb-alerte-on-nest-toujours-pas-sorti-de-la-secheresse-20261011",
-     "resume": "Olivier Thibault, directeur général de l’Office français de la biodiversité, détaille, en exclusivité pour La Croix, le bilan de l’été. En particulier, la moitié des petits cours d’eau de tête de bassin-versant, les plus près des sources d’eau potable, sont…",
-     "date": "2026-10-12T06:00:06+02:00",
-     "source": "",
-     "image": "https://i.la-croix.com/x/2026/10/11/2557239-comme-de-nombreux-cours-d-eaux-le-gardon-a-sainte-.jpg"
-    },
-    {
-     "titre": "Salon de l’auto : jusqu’où ira le succès des voitures chinoises ?",
-     "lien": "https://www.la-croix.com/economie/salon-de-l-auto-jusquou-ira-le-succes-des-voitures-chinoises-20261011",
-     "resume": "Très présents au Mondial de l’auto, qui s’ouvre ce lundi 12 octobre 2026 à Paris, les constructeurs chinois ont effectué en France une rapide percée, avec près de 6 % des immatriculations. La suite dépendra de leur capacité à contourner, sans alourdir leurs…",
-     "date": "2026-10-12T05:55:16+02:00",
-     "source": "",
-     "image": "https://i.la-croix.com/x/2026/10/11/2557489-des-vehicules-electriques-destines-a-l-exportation.jpg"
-    },
-    {
-     "titre": "Mondial de l’auto : après le phénomène R5, la 2CV de Citroën renaît elle aussi en 100 % électrique",
-     "lien": "https://www.la-croix.com/economie/mondial-de-l-auto-apres-le-phenomene-r5-la-2cv-de-citroen-renait-elle-aussi-en-100-electrique-20261011",
-     "resume": "Surfant sur la vague du néo-rétro, Citroën présente, dès l’ouverture du Mondial de l’auto à Paris ce lundi 12 octobre 2026, un prototype de la 2CV qui sera commercialisée en 2028. Une voiture de petite taille, légère et produite en Europe. La future Deuch,…",
-     "date": "2026-10-11T19:01:03+02:00",
-     "source": "",
-     "image": "https://i.la-croix.com/x/2026/10/11/2558956-citroen-presente-au-mondial-de-l-auto-le-prototype.jpg"
     }
    ],
    "flux_utilise": "https://www.la-croix.com/feeds/rss/site.xml"
@@ -190,58 +190,58 @@
    "nom": "L'Équipe",
    "couleur": "#e2001a",
    "une": {
-    "fichier": "unes/equipe.webp",
+    "fichier": "unes/equipe.jpg",
     "date": "2026-10-12",
-    "source": "https://www.frontpages.com/t/2026/10/12/l-equipe-011354pbl@2x.webp"
+    "source": "https://img.kiosko.net/2026/10/12/fr/l_equip.750.jpg"
    },
    "articles": [
     {
-     "titre": "Testez vos connaissances sportives",
-     "lien": "https://www.lequipe.fr/jeux#at_medium=RSS_feeds",
-     "resume": "",
-     "date": "2026-10-12T06:49:00+02:00",
+     "titre": "Les San Francisco 49ers et les Minnesota Vikings toujours invaincus en NFL après leur victoire sur Seattle et New Orleans",
+     "lien": "https://www.lequipe.fr/Football-americain/Actualites/Les-san-francisco-49ers-et-les-minnesota-vikings-toujours-invaincus-en-nfl-apres-leur-victoire-sur-seattle-et-new-orleans/1725112#at_medium=RSS_feeds",
+     "resume": "Les San Francisco 49ers ont remporté le choc de la 5e journée de NFL sur le terrain des Seattle Seahawks (32-29) et sont toujours invaincus. Les Minnesota Vikings se sont, eux, imposés chez les New Orleans Saints (23-13) et ont également enchaîné une 5e…",
+     "date": "2026-10-12T08:05:41+02:00",
      "source": "",
      "image": "https://medias.lequipe.fr/img-photo-png/-/1500000000833469/0-828-552-75/0cb67.png"
     },
     {
-     "titre": "Paris et l'Asvel tout en haut, Bourg en bon élève et un peloton fragile : ce qu'il faut retenir des budgets des clubs de Betclic Élite",
-     "lien": "https://www.lequipe.fr/Basket/Article/Paris-et-l-asvel-tout-en-haut-bourg-en-bon-eleve-et-un-peloton-fragile-ce-qu-il-faut-retenir-des-budgets-des-clubs-de-betclic-elite/1725001#at_medium=RSS_feeds",
-     "resume": "Les deux locomotives du basket français, Paris et l'Asvel, restent très au-dessus du peloton sur le plan économique dans un contexte difficile alors que deux clubs, Monaco et Le Portel, ont disparu à l'intersaison.",
-     "date": "2026-10-12T06:40:00+02:00",
+     "titre": "« On doit être capables, à un moment donné, de sortir un clean-sheet » : les regrets de Stéphane Dumont, après la nouvelle défaite de Troyes",
+     "lien": "https://www.lequipe.fr/Football/Actualites/-on-doit-etre-capables-a-un-moment-donne-de-sortir-un-clean-sheet-les-regrets-de-stephane-dumont-apres-la-nouvelle-defaite-de-troyes/1725094#at_medium=RSS_feeds",
+     "resume": "Stéphane Dumont, l'entraîneur de Troyes, regrettait le manque d'efficacité de ses joueurs, sanctionnés de ce manque de justesse par une nouvelle défaite, dimanche contre l'OM (0-2) à l'occasion de la 6e journée de Ligue 1, et une chute dans la zone rouge.",
+     "date": "2026-10-12T08:03:00+02:00",
      "source": "",
-     "image": "https://medias.lequipe.fr/img-photo-jpg/paris-et-l-asvel-qui-etaient-opposes-en-euroligue-le-7-octobre-96-98-sont-les-deux-locomotives-economiques-de-la-betclic-elite-f-faugere-l-equipe/1500000002610517/71:126,1848:1311-828-552-75/f6dd8.jpg"
+     "image": "https://medias.lequipe.fr/img-photo-jpg/stephane-dumont-entraineur-de-troyes-dimanche-contre-l-om-f-faugere-l-equipe/1500000002610707/0:0,2000:1333-828-552-75/f327b.jpg"
     },
     {
-     "titre": "Enfin décisif et récompensé de ses efforts, Amine Harit a sorti l'OM de l'impasse à Troyes",
-     "lien": "https://www.lequipe.fr/Football/Article/Enfin-decisif-et-recompense-de-ses-efforts-amine-harit-a-sorti-l-om-de-l-impasse-a-troyes/1725101#at_medium=RSS_feeds",
-     "resume": "Alors qu'il ressemblait d'abord à une solution par défaut, le Marocain Amine Harit a relancé son histoire marseillaise et il a inscrit dimanche un but crucial à Troyes (2-0).",
-     "date": "2026-10-12T06:35:00+02:00",
+     "titre": "Plus qu'un jeu, un laboratoire d'innovation",
+     "lien": "https://www.lequipe.fr/Tous-sports/Actualites/Plus-qu-un-jeu-un-laboratoire-d-innovation/1723483#at_medium=RSS_feeds",
+     "resume": "",
+     "date": "2026-10-12T08:00:00+02:00",
      "source": "",
-     "image": "https://medias.lequipe.fr/img-photo-jpg/d-une-volee-du-droit-amine-harit-a-lance-l-om-vers-la-victoire-2-0-dimanche-a-troyes-f-faugere-l-equipe/1500000002610732/0:0,1947:1298-828-552-75/51076.jpg"
+     "image": "https://medias.lequipe.fr/img-photo-png/-/1500000000833469/0-828-552-75/0cb67.png"
     },
     {
-     "titre": "Malgré la colère, les supporters de l'OM prouvent par leur soutien inconditionnel qu'ils sont devenus le meilleur atout de leur club",
-     "lien": "https://www.lequipe.fr/Football/Article/Malgre-la-colere-les-supporters-de-l-om-prouvent-par-leur-soutien-inconditionnel-qu-ils-sont-devenus-le-meilleur-atout-de-leur-club/1725106#at_medium=RSS_feeds",
-     "resume": "S'ils ne manquent pas de montrer leur déception envers les résultats décevants de leur équipe et les promesses en l'air de leurs dirigeants, les supporters de l'OM, par leur passion et leur fidélité, sont aujourd'hui la meilleure vitrine du club malgré son…",
-     "date": "2026-10-12T06:25:00+02:00",
+     "titre": "De capitaine indispensable au statut de remplaçant : André, un cas à part et une gestion particulière",
+     "lien": "https://www.lequipe.fr/Football/Article/De-capitaine-indispensable-au-statut-de-remplacant-andre-un-cas-a-part-et-une-gestion-particuliere/1725017#at_medium=RSS_feeds",
+     "resume": "Pas utilisé contre Le Havre samedi (1-0) lors de la 6e journée de Ligue 1, le capitaine du LOSC André, 36 ans, sera de retour contre Arsenal mardi (21 heures) en Ligue des champions. Mais il va peut-être devoir apprendre à partager un peu plus son temps de…",
+     "date": "2026-10-12T07:32:00+02:00",
      "source": "",
-     "image": "https://medias.lequipe.fr/img-photo-jpg/les-joueurs-de-l-om-posent-avec-les-supporters-presents-dans-le-parcage-du-stade-de-l-aube-dimanche-soir-f-faugere-l-equipe/1500000002610740/0:0,1500:1000-828-552-75/20d09.jpg"
+     "image": "https://medias.lequipe.fr/img-photo-jpg/andre-le-capitaine-du-losc-lors-de-la-premiere-journee-de-phase-de-ligue-de-c1-face-au-betis-seville-2-3-le-8-septembre-p-lahalle-l-equipe/1500000002610539/0:0,1849:1233-828-552-75/42db9.jpg"
     },
     {
-     "titre": "Des mauls, du jeu simple et Antoine Dupont : bousculé par Bayonne, Toulouse a montré son côté caméléon",
-     "lien": "https://www.lequipe.fr/Rugby/Article/Des-mauls-du-jeu-simple-et-antoine-dupont-bouscule-par-bayonne-toulouse-a-montre-son-cote-cameleon/1725104#at_medium=RSS_feeds",
-     "resume": "Longtemps bousculé par Bayonne, le Stade Toulousain s'en est remis à l'expertise et à l'efficacité de ses avants sur les ballons portés et à la classe de son capitaine Antoine Dupont pour arracher une victoire bonifiée (45-34) qui consolide sa pole-position…",
-     "date": "2026-10-12T06:00:00+02:00",
+     "titre": "Kelyann Bezahaf et Nouhoum Kamissoko, les deux minots qui pourraient bousculer la hiérarchie à l'OM",
+     "lien": "https://www.lequipe.fr/Football/Actualites/Kelyann-bezahaf-et-nouhoum-kamissoko-les-deux-minots-qui-pourraient-bousculer-la-hierarchie-a-l-om/1725102#at_medium=RSS_feeds",
+     "resume": "Pour leur première titularisation en pro dimanche soir, le latéral droit, Kelyann Bezahaf, et le milieu défensif Nouhoum Kamissoko ont assuré. De quoi bousculer, un peu, la hiérarchie ?",
+     "date": "2026-10-12T07:15:00+02:00",
      "source": "",
-     "image": "https://medias.lequipe.fr/img-photo-jpg/antoine-dupont-a-marque-un-double-dimanche-soir-contre-bayonne-f-lancelot-l-equipe/1500000002610736/0:0,1999:1332-828-552-75/ec36a.jpg"
+     "image": "https://medias.lequipe.fr/img-photo-jpg/kelyann-bezahaf-et-nouhoum-kamissoko-ont-marque-des-points-pour-etre-revus-a-l-avenir-avec-l-om-franck-faugere-l-equipe/1500000002610735/26:11,1583:1049-828-552-75/f364c.jpg"
     },
     {
-     "titre": "Co-leader malgré une fronde de ses supporters et un été chaotique, la Lazio de Gennaro Gattuso est la bonne surprise de Serie A",
-     "lien": "https://www.lequipe.fr/Football/Actualites/Co-leader-malgre-une-fronde-de-ses-supporters-et-un-ete-chaotique-la-lazio-de-gennaro-gattuso-est-la-bonne-surprise-de-serie-a/1725073#at_medium=RSS_feeds",
-     "resume": "Encore victorieuse contre Monza ce dimanche (3-1), la Lazio de Gennaro Gattuso réussit le meilleur début de saison de son histoire et est coleader de Serie A avec l'Inter Milan. Une sacrée surprise, alors que le club sort de trois saisons moroses et est…",
-     "date": "2026-10-12T05:50:00+02:00",
+     "titre": "« Tous les choix ne peuvent pas être les bons, et je peux accepter de m'être trompé » : comment Hamilton a sabordé sa course",
+     "lien": "https://www.lequipe.fr/Formule-1/Article/-tous-les-choix-ne-peuvent-pas-etre-les-bons-et-je-peux-accepter-de-m-etre-trompe-comment-hamilton-a-saborde-sa-course/1725022#at_medium=RSS_feeds",
+     "resume": "Le pilote Ferrari était bien placé pour assurer une place sur le podium du GP de Singapour mais ses choix stratégiques l'ont condamné.",
+     "date": "2026-10-12T07:00:00+02:00",
      "source": "",
-     "image": "https://medias.lequipe.fr/img-photo-jpg/gennaro-gattuso-l-entraineur-de-la-lazio-avec-andrea-pinamonti-buteur-dimanche-lors-de-la-victoire-face-a-monza-3-1-marco-iacobucci-livemedia-icon-sport/1500000002610660/0:0,2000:1333-828-552-75/814ce.jpg"
+     "image": "https://medias.lequipe.fr/img-photo-png/-/1500000000833469/0-828-552-75/0cb67.png"
     }
    ],
    "flux_utilise": "https://dwh.lequipe.fr/api/edito/rss?path=/"
@@ -260,18 +260,18 @@
      "date": "2026-10-11T20:16:26+02:00",
      "source": "lemonde.fr",
      "image": "https://img.lemde.fr/2026/10/11/698/0/1130/565/644/322/60/0/9b4e6e4_ftp-1-l4rv8j2qllvg-2026-10-11t140721z-40835940-rc221oaa54zg-rtrmadp-3-iran-crisis-saudi-airport.JPG",
-     "reprises": 14,
-     "score": 47.28
+     "reprises": 12,
+     "score": 43.24
     },
     {
-     "titre": "Présidentielle 2027 : Raphaël Glucksmann élu dès le premier tour de la primaire à gauche",
-     "lien": "https://www.france24.com/fr/vid%C3%A9o/20261011-pr%C3%A9sidentielle-2027-rapha%C3%ABl-glucksmann-%C3%A9lu-d%C3%A8s-le-premier-tour-de-la-primaire-%C3%A0-gauche",
-     "resume": "Le parti socialiste a désormais son candidat officiel pour 2027, c'est l'eurodéputé Raphaël Glucksmann. On en parle avec nos invités Emilie Zapalski, éditorialiste et communicante politique, et Noé Girardot-Champsaur, expert associé à la Fondation Jean-Jaurès.",
-     "date": "2026-10-11T23:34:20+02:00",
-     "source": "france24.com",
-     "image": "https://s.france24.com/media/display/d903c36e-c5ba-11f1-b26e-53993c5f1f18/w:1024/p:16x9/FR-20261011-210332-212136-CS.jpg",
-     "reprises": 4,
-     "score": 17.83
+     "titre": "Raphaël Glucksmann enfariné après sa victoire à la primaire de la gauche sociale-démocrate",
+     "lien": "https://www.france24.com/fr/france/20261012-raphael-glucksmann-enfarin%C3%A9-apr%C3%A8s-victoire-primaire-gauche-sociale-d%C3%A9mocrate",
+     "resume": "Une personne a vidé un paquet de farine sur Raphaël Glucksmann dimanche, alors que le candidat à la présidentielle sortait d’un bar où il fêtait sa victoire à la primaire de la gauche.",
+     "date": "2026-10-12T07:52:11+02:00",
+     "source": "© Romain Perrocheau, AFP",
+     "image": "https://s.france24.com/media/display/5a7af842-c5ff-11f1-8552-3774aeac812a/w:1024/p:16x9/000-D2X49D8.jpg",
+     "reprises": 3,
+     "score": 17.18
     },
     {
      "titre": "En Pologne, Donald Tusk et son ministre de la défense visés par un projet de tentative d’assassinat",
@@ -281,27 +281,17 @@
      "source": "lemonde.fr",
      "image": "https://img.lemde.fr/2026/10/11/307/0/5931/2965/644/322/60/0/caf35b9_ftp-1-s1gg0nc7lffi-5323555-01-06.jpg",
      "reprises": 6,
-     "score": 13.44
+     "score": 12.95
     },
     {
-     "titre": "Après l’accord entre Donald Trump et Vladimir Poutine sur le diesel russe, l’Ukraine et l’Europe s’efforcent de maintenir la pression sur le Kremlin",
+     "titre": "Après l’accord entre Donald Trump et Vladimir Poutine sur le gazole russe, l’Ukraine et l’Europe s’efforcent de maintenir la pression sur le Kremlin",
      "lien": "https://www.lemonde.fr/international/article/2026/10/12/apres-l-accord-entre-donald-trump-et-vladimir-poutine-sur-le-diesel-russe-l-ukraine-et-l-europe-s-efforcent-de-maintenir-la-pression-sur-le-kremlin_6792418_3210.html",
      "resume": "Donald Trump a annoncé, dimanche, un cessez-le-feu sur les infrastructures énergétiques russes et ukrainiennes, sans que Kiev n’en ait été informé. Moscou s’est gardé, pour l’heure, du moindre commentaire.",
      "date": "2026-10-12T06:00:08+02:00",
      "source": "lemonde.fr",
      "image": "https://img.lemde.fr/2026/10/11/360/0/4320/2160/644/322/60/0/e415057_ftp-1-v5y9qgdck4ch-2026-10-11t002052z-1879055146-rc2o0oazoo6o-rtrmadp-3-usa-trump.JPG",
-     "reprises": 5,
-     "score": 8.59
-    },
-    {
-     "titre": "Guerre en Ukraine : « Dites à Poutine de nous accorder soixante jours de cessez-le-feu, et nous organiserons les élections », assure Zelensky, en réponse à Trump",
-     "lien": "https://www.lemonde.fr/international/article/2026/10/11/guerre-en-ukraine-dites-a-poutine-de-nous-accorder-60-jours-de-cessez-le-feu-et-nous-organiserons-les-elections-assure-zelensky-en-reponse-a-trump_6791930_3210.html",
-     "resume": "C’est aux Ukrainiens de choisir leur dirigeant, a déclaré Volodymyr Zelensky dans une interview diffusée dimanche sur la chaîne ABC, en réponse aux déclarations de Donald Trump qui a réclamé un changement de président en Ukraine.",
-     "date": "2026-10-11T16:44:37+02:00",
-     "source": "lemonde.fr",
-     "image": "https://img.lemde.fr/2026/10/04/446/0/5371/2685/644/322/60/0/cbd5fa3_ftp-1-00gexcj9fner-bd65bd6f95da4a3487a10ba3103c9113-0-4b788d9cc5c14f9fbd0bda0b1ce7a442.jpg",
-     "reprises": 4,
-     "score": 8.51
+     "reprises": 6,
+     "score": 12.05
     },
     {
      "titre": "Le pape annonce qu'il va être opéré d'un nodule au poumon prochainement",
@@ -310,8 +300,18 @@
      "date": "2026-10-11T18:02:13+02:00",
      "source": "france24.com",
      "image": "https://s.france24.com/media/display/3e3e798e-c58b-11f1-9efd-53993c5f1f18/w:1024/p:16x9/FR-20261011-160822-161113-CS.jpg",
+     "reprises": 5,
+     "score": 9.94
+    },
+    {
+     "titre": "La Corée du Nord a tiré « plusieurs missiles balistiques » vers la mer du Japon, affirme Séoul",
+     "lien": "https://www.lemonde.fr/international/article/2026/10/12/la-coree-du-nord-a-tire-plusieurs-missiles-balistiques-vers-la-mer-du-japon-affirme-seoul_6792308_3210.html",
+     "resume": "Ces tirs nord-coréens surviennent quelques jours après l’essai par le Sud de son premier système de planeurs hypersoniques.",
+     "date": "2026-10-12T04:59:09+02:00",
+     "source": "lemonde.fr",
+     "image": "https://img.lemde.fr/2026/10/12/0/0/4242/2121/644/322/60/0/dd3d2cc_ftp-1-0ycmsi0lc5x8-5330545-01-06.jpg",
      "reprises": 4,
-     "score": 7.91
+     "score": 7.88
     }
    ],
    "a_traduire": []
@@ -322,16 +322,6 @@
    "sous_titre": "Modèles, entreprises, régulation, recherche",
    "items": [
     {
-     "titre": "OpenAI accusée d’avoir licencié trois chercheurs sécurité",
-     "lien": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPNlljZFlfMy1JNUt5a0s0TDJrdFM1NzNsRXBkNjFhVEwzWVZKRGZtYXpzdTEtRzNxQUUyRXpud3lVQ2paUVZpTVZDRS1xbDY2cjdFVnNqdlJkUU1ZclRxd3VtcUV1NEgyM2F0eEQ2R0JZdk1pSlBZQ184OXllYk9ub2NTbWpYZF92LW1ZTzlUQXg?oc=5",
-     "resume": "",
-     "date": "2026-10-12T00:01:05+02:00",
-     "source": "The Media Leader",
-     "image": null,
-     "reprises": 4,
-     "score": 8.83
-    },
-    {
      "titre": "«J’ai pleuré» : un mathématicien désespéré face à l’intelligence artificielle qui a réduit son domaine de recherche à néant",
      "lien": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxPNng4NTJDS2lndktPZkRoUnNtYW90aEJ1WHktb20yM2Y5cUN1aVQwVkJyV3VoRGJjUXBVaG5PLUxaQ05WMG41Tld2UWkyTVB1cnRHcnlIZHdXOGJFcGpwandBdU82dHVDRzVZVndIRmltVXRtcXFfNm1pWnYtRjdjaFdKRmtRNzJSdHpSbUpiVHk0cWlIckhKcFlmZ3dKY1BUNUdmakszaExyVXlFSmk5bHNnQmwwRVMzdVNmNEN2Uy1JbXNqUWhCN1I1ckt6RUpfRmVVcjNsOFltU2p0dUpxdm5JOG1QV0NqUEg3b0pWRXItUVk?oc=5",
      "resume": "",
@@ -339,7 +329,7 @@
      "source": "Le Figaro",
      "image": null,
      "reprises": 3,
-     "score": 7.21
+     "score": 7.26
     },
     {
      "titre": "Amazon en discussions pour acquérir la startup IA Decart pour 7 milliards $",
@@ -349,17 +339,27 @@
      "source": "Yahoo Finance France",
      "image": null,
      "reprises": 4,
-     "score": 6.69
+     "score": 6.25
     },
     {
      "titre": "La police US reproche à Anthropic des données fausses de l'IA Claude sur un meurtre non élucidé",
-     "lien": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNMzBFT0V0alNuSVdRMlR1cjliUFFTVk9JQmFUcDEtSWk5d0xfVVBkcUpOTDZtTUNIQnJhRUtOeF9PQThVZkxiQmxzYlVtRjRfYVUxLXlwdlpvdUFIX3RqRl83VWZ2YXNmbUlPQlI5b0RrYnc5YWd5ZXR6ZUduczhkQVBhajBSNjBlNHZ6SFBDWHJ0NHczLVJwNHhyOURReXJEc3U4YkFWcFp2ZE5JTUpRMmdYOEtSa3F2cjFQQzZNY25zbGc?oc=5",
+     "lien": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNZ3drQXJpMzF3a3ZvYndtYTRURHBVNVpGRHRTYmlWcXhYWWs1amNZVk1WWThNQW5ySi1lNS1lZ2stNzZXT1NoTlg0N1dJU2I1WmdNUFpYMXJGcnlYUExZVUtuSUhpYUd1WFZMUjdZM1N1RXB5U3RfeXY4aGo5bGc1UnRB?oc=5",
      "resume": "",
      "date": "2026-10-11T12:46:37+02:00",
-     "source": "Euronews.com",
+     "source": "Yahoo Actualités",
      "image": null,
      "reprises": 4,
-     "score": 6.28
+     "score": 5.87
+    },
+    {
+     "titre": "OpenAI accusée d’avoir licencié trois chercheurs sécurité",
+     "lien": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPNlljZFlfMy1JNUt5a0s0TDJrdFM1NzNsRXBkNjFhVEwzWVZKRGZtYXpzdTEtRzNxQUUyRXpud3lVQ2paUVZpTVZDRS1xbDY2cjdFVnNqdlJkUU1ZclRxd3VtcUV1NEgyM2F0eEQ2R0JZdk1pSlBZQ184OXllYk9ub2NTbWpYZF92LW1ZTzlUQXg?oc=5",
+     "resume": "",
+     "date": "2026-10-12T00:01:05+02:00",
+     "source": "The Media Leader",
+     "image": null,
+     "reprises": 3,
+     "score": 4.92
     },
     {
      "titre": "Filigrane ChatGPT, OpenAI confirme que les watermark remover échouent",
@@ -369,7 +369,7 @@
      "source": "Pasquale Pillitteri",
      "image": null,
      "reprises": 1,
-     "score": 4.42
+     "score": 4.31
     }
    ],
    "a_traduire": [
@@ -381,7 +381,7 @@
      "source": "theverge.com",
      "image": null,
      "reprises": 1,
-     "score": 1.43
+     "score": 1.4
     },
     {
      "titre": "Can the AI industry persuade data center opponents by getting rid of NDAs?",
@@ -391,7 +391,7 @@
      "source": "techcrunch.com",
      "image": null,
      "reprises": 1,
-     "score": 1.4
+     "score": 1.37
     },
     {
      "titre": "Learning to use local AI is exciting, overwhelming, and frustrating",
@@ -401,7 +401,7 @@
      "source": "theverge.com",
      "image": null,
      "reprises": 1,
-     "score": 1.17
+     "score": 1.14
     },
     {
      "titre": "Satya Nadella says we should assume all AI models are ‘compromised’",
@@ -411,7 +411,7 @@
      "source": "theverge.com",
      "image": null,
      "reprises": 1,
-     "score": 0.86
+     "score": 0.83
     }
    ]
   },
@@ -428,7 +428,18 @@
      "source": "lanouvellerepublique.fr",
      "image": null,
      "reprises": 4,
-     "score": 6.97,
+     "score": 7.16,
+     "libertes": false
+    },
+    {
+     "titre": "\"J'accepte la décision de justice\" : l’élection du maire de Laroque-d'Olmes définitivement annulée par le Conseil d'État six mois après sa victoire au premier tour, les habitants rappelés aux urnes d’ici trois mois",
+     "lien": "https://news.google.com/rss/articles/CBMipgJBVV95cUxQbXBFNWtucFd5OTZwZ0dYWEVFc0NXbmlXNTJFUWo3ZEdQSVpYdmZIanlrQ20tcllUTGExdHd0Sm9OeHEzVjdCUklwMnpjR3BqaXFZS0wwQV9HUk5hY0NlVnlVTDgxeUFGRExwVWF2YU5BZVFvMDZSUEpMYm9vRGJfRFhBZjl0SjFtTHhHYUw1bnRybU5zaDA5Vl9LR1llUmVaNjRFRjJxNGVybkQ2TGNXdUtNTGNyS2U5c1BCV0tPbUxGUkprM011RTdPWjFDamVGaTc5V05MaTBvT0Y5c3RGNjNJR3czeWlFY2VUNzBMQk5QLXlXZE1weVlRRjE1elNzdGRxM0VxTFpXR1pyQjdpb044dXJyd0R5Y2wtUWRRanBKQzdXanc?oc=5",
+     "resume": "",
+     "date": "2026-10-10T09:38:00+02:00",
+     "source": "ladepeche.fr",
+     "image": null,
+     "reprises": 3,
+     "score": 4.64,
      "libertes": false
     },
     {
@@ -439,7 +450,7 @@
      "source": "Le journal Options",
      "image": null,
      "reprises": 3,
-     "score": 4.57,
+     "score": 4.53,
      "libertes": true
     },
     {
@@ -450,40 +461,29 @@
      "source": "Le Temps",
      "image": null,
      "reprises": 2,
-     "score": 3.88,
+     "score": 3.86,
      "libertes": false
     },
     {
-     "titre": "\"J'accepte la décision de justice\" : l’élection du maire de Laroque-d'Olmes définitivement annulée par le Conseil d'État six mois après sa victoire au premier tour, les habitants rappelés aux urnes d’ici trois mois",
-     "lien": "https://news.google.com/rss/articles/CBMipgJBVV95cUxQbXBFNWtucFd5OTZwZ0dYWEVFc0NXbmlXNTJFUWo3ZEdQSVpYdmZIanlrQ20tcllUTGExdHd0Sm9OeHEzVjdCUklwMnpjR3BqaXFZS0wwQV9HUk5hY0NlVnlVTDgxeUFGRExwVWF2YU5BZVFvMDZSUEpMYm9vRGJfRFhBZjl0SjFtTHhHYUw1bnRybU5zaDA5Vl9LR1llUmVaNjRFRjJxNGVybkQ2TGNXdUtNTGNyS2U5c1BCV0tPbUxGUkprM011RTdPWjFDamVGaTc5V05MaTBvT0Y5c3RGNjNJR3czeWlFY2VUNzBMQk5QLXlXZE1weVlRRjE1elNzdGRxM0VxTFpXR1pyQjdpb044dXJyd0R5Y2wtUWRRanBKQzdXanc?oc=5",
+     "titre": "Jeunes permis : le Conseil constitutionnel censure l’interdiction des voitures puissantes",
+     "lien": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOU2xCSy1FZnJCWEpGZENzSHBOSGZsblpFNnN2a3RUYjh6TU9ueXA5Z1ByRkxTTTNxWXo3Y0dsaXVJVkFXWEdaSEdvQVRUY0huQjZET2REaGtVS3JMOU50YUhvSFFfZVRWQl9sVi1Eb2pvSUJtNDRzSG9JYWFHNmg5RUdJNnVjV0dYUXc?oc=5",
      "resume": "",
-     "date": "2026-10-10T09:38:00+02:00",
-     "source": "ladepeche.fr",
+     "date": "2026-10-10T09:40:00+02:00",
+     "source": "Motor1.com France",
      "image": null,
      "reprises": 2,
      "score": 3.01,
-     "libertes": false
+     "libertes": true
     },
     {
-     "titre": "Une semaine de jurisprudence sociale à la Cour de cassation",
-     "lien": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNcktRYnltMEJCSkpMRjB2WDhwNDRUcmNqNHdvZFpJMkdaZ0tMN2hPaXZJUkc5cnVRc3R6MGlsM0REN0RUV3pyVFB1Z19VZ1ZLbG9MRm9PYzY3dXhZUkxYckktS2hFbFZBNE9ZSDJMUnNZeG11Q2tQREhWZUdRQ3ZpTXNyWUVlWG9LaEl1ZlhfaUtlYmlwZGpHMmo0c21PSnZYRVE5eVVyMzFqVG96a1ZyUEdpQXpJT0tnWEl6Ym9aZVNuM1NHNTBoakVFaTZ0dVBMXzktMQ?oc=5",
+     "titre": "Droit de communication bancaire du fisc : quand l'atteinte à la vie privée est proportionnée au but poursuivi",
+     "lien": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxQSzQxRVB4cWl0XzRSTFR4a09YNjBieHA4c0l5Y2pac2RCS3NGSXVTQlhMSy1QamMwejVFUEtwSDFjT3l3UC00RGpTZ3Foc3k5eGFQOFduUE4tVnE4TzFFMWk5ZjB5WnpwTVZjV1g1WTlqZ1ROQUZxX2RXWml5ZkNFLWVFaGhVOER6dWo3eFJsM1F2SDV6Qno5MVotNm4za3JPUWUybVRWTktQMjZHcktkUkphc01FOExtaDU4TGViR0ZuQkszZHQzNGQ2YlpuM1o3QjFPZXNmVjVtV25EeFVYMkdNQXRGNElMTkMyQ09fSGV3SlNZdkEw?oc=5",
      "resume": "",
-     "date": "2026-10-12T03:13:51+02:00",
-     "source": "Open Lefebvre Dalloz",
+     "date": "2026-10-09T10:50:08+02:00",
+     "source": "Investir Les Echos",
      "image": null,
      "reprises": 1,
-     "score": 1.57,
-     "libertes": false
-    },
-    {
-     "titre": "Mylène Palisse : la liberté d'expression en sursis",
-     "lien": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNTWhVS2lXb0wzMFdjYy1NRVJFcmZaVml1d1FvOTBfaXI2TWNsOVhyWUJoeUhMZ3BkV2JTenowemJ2YlF5MFBMRDgzSW56TDhYUmo4VUJOSWpsSE0xZzdUV2ZncjdYYVdsb2xJZ194T1F2Q1hQMDVRQzZzYUNGNk1kT3NGQ1IxWEt6UXA5X3Z3Umo0ZDdGaldReHdWdHp0d0xlaWVFMUloT3E2ekx6?oc=5",
-     "resume": "",
-     "date": "2026-10-12T02:00:54+02:00",
-     "source": "Orange Actualités",
-     "image": null,
-     "reprises": 1,
-     "score": 1.56,
+     "score": 2.55,
      "libertes": true
     }
    ],
