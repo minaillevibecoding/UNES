@@ -1,135 +1,152 @@
 {
- "date": "2026-10-11",
- "edito": "Donald Trump estime qu'il est temps pour l'Ukraine d'avoir un nouveau président afin de conclure un accord avec Moscou, une déclaration saluée par le négociateur russe. En Arabie saoudite, une attaque imputée aux houthistes a fait 12 morts et plus de 300 blessés à l'aéroport de Riyad. Navi Pillay, prix Nobel de la paix, juge « inacceptables » les sanctions américaines contre la CPI.",
+ "date": "2026-10-12",
+ "edito": "Raphaël Glucksmann remporte dès le premier tour la primaire de la gauche avec 66,17 % des voix, Olivier Faure plafonnant à 14,46 %. Donald Trump annonce un « cessez-le-feu énergétique » entre Moscou et Kiev sans en avoir informé l'Ukraine. À Riyad, une nouvelle attaque des houthistes contre l'aéroport fait un mort au lendemain de frappes meurtrières.",
  "journaux": {
   "figaro": {
-   "resume": "Le Figaro consacre sa une aux propos de Donald Trump, qui réclame un nouveau président ukrainien pour parvenir à la paix. Il suit aussi l'attaque meurtrière contre l'aéroport de Riyad.",
+   "resume": "Le Figaro ouvre sur le budget 2027, dont l'examen en commission à l'Assemblée dégraderait le déficit de 8 milliards d'euros selon David Amiel. La victoire de Glucksmann et la débâcle d'Olivier Faure occupent le reste de la une.",
    "points": [
-    "Trump : Poutine « aimerait voir un règlement », Zelensky résisterait au compromis.",
-    "Les soutiens de Volodymyr Zelensky se multiplient après la sortie de Trump.",
-    "Riyad : au moins 12 morts et 309 blessés dans une attaque contre l'aéroport.",
-    "Russie : le cloud de Yandex touché par une attaque de drone."
+    "Budget 2027 : le ministre accuse la commission des finances d'avoir creusé le déficit de 8 milliards.",
+    "Christine Lavarde, nouvelle rapporteure du budget au Sénat, livre ses objectifs.",
+    "Glucksmann l'emporte avec 66,17 % ; Hollande le félicite.",
+    "Olivier Faure, éliminé avec 14,46 %, fragilisé à la tête du PS."
    ]
   },
   "monde": {
-   "resume": "Le Monde dresse le portrait d'une France « à bout de nerfs », des agriculteurs aux lycéens. À l'international, il décrit la répression d'une manifestation de la jeunesse en Inde et la solitude des Palestiniens de Cisjordanie.",
+   "resume": "Le Monde analyse la victoire de Glucksmann, qui revendique la « rupture avec le macronisme ». À l'international : l'accord Trump-Poutine sur l'énergie, les attaques contre Riyad et le nouveau report des élections palestiniennes.",
    "points": [
-    "Canicules, dette, taux d'intérêt, logement, chômage : une spirale de crises en France.",
-    "Inde : la capitale cadenassée et des milliers d'arrestations pour empêcher une manifestation Gen Z.",
-    "Cisjordanie : les rares décisions de la Cour suprême israélienne favorables aux Palestiniens restent inappliquées.",
-    "« The Lancet » liste 17 menaces majeures pour la santé humaine d'ici à 2100."
+    "Glucksmann veut rassembler la famille sociale-démocrate face à l'extrême droite.",
+    "Cessez-le-feu sur les infrastructures énergétiques annoncé sans que Kiev soit informé.",
+    "Wopke Hoekstra mise sur le « made in Europe » et le nucléaire.",
+    "Mahmoud Abbas reporte d'un an les législatives palestiniennes."
    ]
   },
   "croix": {
-   "resume": "La Croix fait le point sur l'Ukraine, entre accord russo-américain sur le diesel et frappes meurtrières dans le sud-est. Elle suit aussi Gabriel Attal, qui mise sur la jeunesse pour 2027.",
+   "resume": "La Croix suit Jean-Luc Mélenchon à Clermont-Ferrand, qui courtise la jeunesse. Le journal relaie aussi l'alerte de l'OFB sur la sécheresse et les difficultés financières des associations.",
    "points": [
-    "Ukraine : au moins quinze morts, dont trois enfants, dans des frappes russes.",
-    "Gabriel Attal propose un « pacte pour la jeunesse » lors d'un meeting à Lyon.",
-    "Mahmoud Abbas reporte les élections palestiniennes au 11 septembre 2027."
+    "Mélenchon défend le vote à 16 ans et la fin de Parcoursup.",
+    "L'OFB : « On n'est toujours pas sorti de la sécheresse ».",
+    "L'association Aurore, centenaire, rattrapée par les difficultés financières.",
+    "Mondial de l'auto : percée des marques chinoises (près de 6 % des immatriculations) et retour de la 2CV en électrique."
    ]
   },
   "equipe": {
-   "resume": "L'Équipe célèbre Paul Seixas, 20 ans, plus jeune vainqueur du Tour de Lombardie. Le journal s'inquiète aussi du PSG, laborieux face au Mans avant Manchester City.",
+   "resume": "L'Équipe salue Amine Harit, buteur décisif de l'OM à Troyes (2-0), et la victoire bonifiée de Toulouse face à Bayonne (45-34).",
    "points": [
-    "Cyclisme : Paul Seixas remporte son premier Monument en solitaire.",
-    "F1 : Max Verstappen en pole à Singapour.",
-    "Top 14 : l'UBB s'impose à Clermont (22-23)."
+    "OM : Harit relance son histoire marseillaise.",
+    "Toulouse s'appuie sur ses mauls et sur Antoine Dupont.",
+    "La Lazio de Gattuso, coleader de Serie A avec l'Inter.",
+    "Basket : Paris et l'Asvel loin devant dans les budgets de Betclic Élite."
    ]
   }
  },
  "sections": {
   "monde": [
    {
-    "titre": "Trump réclame un nouveau président pour l'Ukraine",
-    "resume": "Le président américain juge qu'un changement à Kiev permettrait un accord avec Moscou et appelle l'Ukraine à cesser de frapper les raffineries russes.",
-    "pourquoi": "Washington remet en cause la légitimité du dirigeant ukrainien, au risque de fracturer le camp occidental.",
-    "lien": "https://www.lefigaro.fr/international/donald-trump-affirme-qu-il-est-temps-pour-l-ukraine-d-avoir-un-nouveau-president-20261010",
-    "source": "Le Figaro",
-    "date": "2026-10-10T22:27:32+02:00"
-   },
-   {
-    "titre": "Arabie saoudite : 12 morts et plus de 300 blessés à l'aéroport de Riyad",
-    "resume": "L'attaque, imputée aux houthistes, est la plus meurtrière qu'ait connue le royaume depuis plus de dix ans ; un Américain figure parmi les victimes.",
-    "pourquoi": "La mort d'un ressortissant américain pourrait entraîner Washington plus directement dans la guerre du Golfe.",
-    "lien": "https://www.lemonde.fr/international/article/2026/10/11/arabie-saoudite-douze-morts-et-plus-de-300-blesses-dans-une-attaque-contre-l-aeroport-de-riyad-imputee-aux-houthistes_6791016_3211.html",
+    "titre": "Riyad : nouvelle attaque houthiste contre l'aéroport",
+    "lien": "https://www.lemonde.fr/international/article/2026/10/11/arabie-saoudite-les-houthistes-du-yemen-revendiquent-des-operations-d-envergure-contres-des-aeroports-et-des-infrastructures-energetiques_6791939_3211.html",
     "source": "Le Monde",
-    "date": "2026-10-11T05:15:05+02:00"
+    "date": "2026-10-11T20:16:26+02:00",
+    "resume": "Une nouvelle attaque contre l'aéroport de Riyad a fait un mort, au lendemain de frappes houthistes meurtrières. Les houthistes revendiquent des « opérations d'envergure » contre des aéroports et des infrastructures énergétiques saoudiennes.",
+    "pourquoi": "L'ampleur de ces attaques est inédite depuis le début de la guerre au Yémen en 2014."
    },
    {
-    "titre": "Inde : des milliers d'arrestations pour empêcher une manifestation de la jeunesse",
-    "resume": "Les autorités ont bouclé la capitale pour bloquer une manifestation de la « Gen Z » qui s'annonçait historique.",
-    "pourquoi": "Le pouvoir de Narendra Modi fait face à une contestation inédite de la jeunesse dans la plus grande démocratie du monde.",
-    "lien": "https://www.lemonde.fr/international/article/2026/10/11/en-inde-defie-par-la-jeunesse-le-premier-ministre-narendra-modi-repond-par-la-force_6791130_3210.html",
+    "titre": "Zelensky : « soixante jours de cessez-le-feu » avant des élections",
+    "lien": "https://www.lemonde.fr/international/article/2026/10/11/guerre-en-ukraine-dites-a-poutine-de-nous-accorder-60-jours-de-cessez-le-feu-et-nous-organiserons-les-elections-assure-zelensky-en-reponse-a-trump_6791930_3210.html",
     "source": "Le Monde",
-    "date": "2026-10-11T02:11:41+02:00"
+    "date": "2026-10-11T16:44:37+02:00",
+    "resume": "Sur ABC, Volodymyr Zelensky répond à Donald Trump, qui réclame un changement de président : c'est aux Ukrainiens de choisir leur dirigeant, et des élections seraient possibles avec soixante jours de cessez-le-feu.",
+    "pourquoi": "La question électorale devient un levier central des négociations."
    },
    {
-    "titre": "Palestine : Mahmoud Abbas reporte les élections à septembre 2027",
-    "resume": "Les législatives prévues le 28 novembre et la présidentielle se tiendront ensemble le 11 septembre 2027.",
-    "pourquoi": "Le report prolonge le vide démocratique palestinien, alors que la question de la succession d'Abbas reste ouverte.",
-    "lien": "https://www.france24.com/fr/moyen-orient/20261010-palestine-mahmoud-abbas-reporte-les-%C3%A9lections-pr%C3%A9sidentielle-et-l%C3%A9gislatives-%C3%A0-2027",
+    "titre": "Ukraine : frappe meurtrière près de Kharkiv, Trump annonce un « cessez-le-feu énergétique »",
+    "lien": "https://www.lemonde.fr/international/live/2026/10/12/en-direct-guerre-en-ukraine-trois-morts-et-25-blesses-dans-une-frappe-russe-pres-de-kharkiv_6791198_3210.html",
+    "source": "Le Monde",
+    "date": "2026-10-12T06:30:20+02:00",
+    "resume": "Une frappe russe près de Kharkiv a fait trois morts, dont un adolescent de 16 ans, et 25 blessés. Donald Trump annonce un cessez-le-feu sur les infrastructures énergétiques ; Zelensky dit ne pas en avoir été informé.",
+    "pourquoi": "Un accord conclu au-dessus de la tête de Kiev inquiète l'Ukraine et l'Europe."
+   },
+   {
+    "titre": "Pologne : projet d'assassinat contre Donald Tusk et son ministre de la défense",
+    "lien": "https://www.lemonde.fr/international/article/2026/10/11/en-pologne-donald-tusk-et-son-ministre-de-la-defense-vises-par-un-projet-de-tentative-d-assassinat_6792039_3210.html",
+    "source": "Le Monde",
+    "date": "2026-10-11T18:07:43+02:00",
+    "resume": "L'homme qui menaçait de commettre l'attaque a été arrêté, selon le premier ministre et le ministre de l'intérieur.",
+    "pourquoi": "La Pologne est en première ligne du soutien à l'Ukraine."
+   },
+   {
+    "titre": "Raphaël Glucksmann candidat de la gauche pour 2027",
+    "lien": "https://www.france24.com/fr/vid%C3%A9o/20261011-pr%C3%A9sidentielle-2027-rapha%C3%ABl-glucksmann-%C3%A9lu-d%C3%A8s-le-premier-tour-de-la-primaire-%C3%A0-gauche",
     "source": "France 24",
-    "date": "2026-10-10T13:49:25+02:00"
+    "date": "2026-10-11T23:34:20+02:00",
+    "resume": "L'eurodéputé remporte la primaire dès le premier tour avec 66,17 % des voix. Il revendique la rupture avec le macronisme et la fin de « l'hégémonie » de Mélenchon.",
+    "pourquoi": "La gauche sociale-démocrate a désormais son candidat pour 2027."
    },
    {
-    "titre": "« The Lancet » liste 17 grandes menaces pour la santé humaine d'ici à 2100",
-    "resume": "De l'obésité à la guerre nucléaire en passant par le réchauffement climatique, l'étude hiérarchise les risques pour l'humanité.",
-    "pourquoi": "Un cadre de référence pour orienter les politiques de santé publique sur le long terme.",
-    "lien": "https://www.lemonde.fr/planete/article/2026/10/11/des-scientifiques-etablissent-la-liste-des-17-principales-menaces-pesant-sur-la-sante-humaine-d-ici-a-2100_6791095_3244.html",
-    "source": "Le Monde",
-    "date": "2026-10-11T01:00:03+02:00"
+    "titre": "Le pape sera opéré d'un nodule au poumon",
+    "lien": "https://www.france24.com/fr/vid%C3%A9o/20261011-le-pape-annonce-qu-il-va-%C3%AAtre-op%C3%A9r%C3%A9-d-un-nodule-au-poumon-prochainement",
+    "source": "France 24",
+    "date": "2026-10-11T18:02:13+02:00",
+    "resume": "Le pape a annoncé qu'il serait prochainement opéré d'un nodule pulmonaire.",
+    "pourquoi": "Une annonce rare sur la santé du souverain pontife."
    }
   ],
   "ia": [
    {
-    "titre": "Satya Nadella : il faut partir du principe que tous les modèles d'IA sont « compromis »",
-    "resume": "Le patron de Microsoft appelle à cesser de traiter l'IA comme une série de « boîtes noires » dont on accepte les conseils sans contrôle.",
-    "pourquoi": "Le discours sur la sécurité de l'IA durcit chez les grands acteurs, après une série d'incidents.",
+    "titre": "Amazon en discussions pour racheter Decart (7 milliards de dollars)",
+    "lien": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNYW53c0U1RFBrUndoazRudWRUT0xFdnllUVZfazdGN2JGd2VwNEY1ajZWVm1hMXZncnlsYWQ1WWFUV2pjMWR5YzRBRk8xWDBZUEFSX2Uzb0pIYjktYkF5c19UWjZlSl8xRnJvUlVzT29qYy1LRUZqMF9ieGRhYXVlUmFvS005a00wdVQ3YVRRSEdQMENoUU5tMFdsSmhtZGc?oc=5",
+    "source": "Yahoo Finance France",
+    "date": "2026-10-12T01:55:02+02:00",
+    "resume": "Amazon négocierait l'acquisition de la start-up d'IA Decart pour environ 7 milliards de dollars, selon Yahoo Finance.",
+    "pourquoi": "Les géants du cloud continuent d'acheter des compétences en IA générative."
+   },
+   {
+    "titre": "Satya Nadella : il faut considérer tous les modèles d'IA comme « compromis »",
     "lien": "https://www.theverge.com/ai-artificial-intelligence/1009337/satya-nadella-says-we-should-assume-all-ai-models-are-compromised",
     "source": "The Verge",
-    "date": "2026-10-11T00:10:17+02:00"
+    "date": "2026-10-11T00:10:17+02:00",
+    "resume": "Dans un long message sur X, le patron de Microsoft estime qu'on ne peut plus traiter l'IA comme une suite de « boîtes noires imbriquées » dont on accepte les conseils sans contrôle.",
+    "pourquoi": "Un des principaux acteurs du secteur plaide pour un principe de méfiance par défaut."
    },
    {
-    "titre": "Anthropic détaille les « actions non voulues » de ses modèles",
-    "resume": "Dans un rapport, l'entreprise recense les incidents, dont le faux signalement envoyé à la police de Philadelphie, et coupe internet à toutes ses évaluations internes.",
-    "pourquoi": "Un rare exemple de transparence d'un laboratoire sur les dérapages de ses propres agents.",
-    "lien": "https://www.theverge.com/ai-artificial-intelligence/1009286/anthropic-is-cutting-off-its-internal-evaluations-from-the-internet",
+    "titre": "La Silicon Valley adopte le label « super intelligence » voulu par Trump",
+    "lien": "https://www.theverge.com/ai-artificial-intelligence/1009406/silicon-valley-is-falling-in-line-with-trumps-attempt-to-rename-ai",
     "source": "The Verge",
-    "date": "2026-10-10T16:41:16+02:00"
+    "date": "2026-10-11T20:33:56+02:00",
+    "resume": "Donald Trump veut rebaptiser l'IA « super intelligence ». Le grand public n'a pas suivi, mais plusieurs figures de la Silicon Valley reprennent déjà le terme, relève The Verge.",
+    "pourquoi": "Le vocabulaire de l'IA devient un enjeu politique."
    },
    {
-    "titre": "OpenAI lance l'agent Dots et promet un nouveau standard de vie privée",
-    "resume": "Présenté par Sam Altman à la DevDay, l'agent affronte Muse, celui de Meta, sur le terrain de la confidentialité.",
-    "pourquoi": "Les agents qui agissent à notre place auront accès à nos données : la vie privée devient l'argument commercial clé.",
-    "lien": "https://www.theverge.com/ai-artificial-intelligence/1009051/privacy-ai-agent-promises-openai-meta-muse-dots",
-    "source": "The Verge",
-    "date": "2026-10-10T15:00:00+02:00"
+    "titre": "Centres de données : renoncer aux clauses de confidentialité pour convaincre les opposants ?",
+    "lien": "https://techcrunch.com/2026/10/11/can-the-ai-industry-persuade-data-center-opponents-by-getting-rid-of-ndas/",
+    "source": "TechCrunch",
+    "date": "2026-10-11T18:52:33+02:00",
+    "resume": "Le podcast Equity de TechCrunch débat des moratoires sur les centres de données et du problème de communication de l'industrie de l'IA, notamment les accords de confidentialité imposés aux collectivités.",
+    "pourquoi": "L'opposition locale freine la construction des infrastructures de l'IA."
+   },
+   {
+    "titre": "« J'ai pleuré » : un mathématicien face à l'IA qui a réduit son domaine de recherche",
+    "lien": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxPNng4NTJDS2lndktPZkRoUnNtYW90aEJ1WHktb20yM2Y5cUN1aVQwVkJyV3VoRGJjUXBVaG5PLUxaQ05WMG41Tld2UWkyTVB1cnRHcnlIZHdXOGJFcGpwandBdU82dHVDRzVZVndIRmltVXRtcXFfNm1pWnYtRjdjaFdKRmtRNzJSdHpSbUpiVHk0cWlIckhKcFlmZ3dKY1BUNUdmakszaExyVXlFSmk5bHNnQmwwRVMzdVNmNEN2Uy1JbXNqUWhCN1I1ckt6RUpfRmVVcjNsOFltU2p0dUpxdm5JOG1QV0NqUEg3b0pWRXItUVk?oc=5",
+    "source": "Le Figaro",
+    "date": "2026-10-11T12:26:13+02:00",
+    "resume": "Le Figaro donne la parole à un mathématicien qui voit l'IA s'emparer de son champ de recherche.",
+    "pourquoi": "L'IA commence à concurrencer la recherche fondamentale."
    }
   ],
   "droit": [
    {
-    "titre": "Navi Pillay juge « inacceptables » les sanctions américaines contre la CPI",
-    "resume": "La juriste sud-africaine, prix Nobel de la paix, dénonce des mesures « jamais vues » qui visent des juges pour leurs décisions.",
-    "libertes": true,
-    "angle_crfpa": "Indépendance des juges et immunités des juridictions internationales : la CPI face à la souveraineté des États non parties.",
-    "lien": "https://www.lemonde.fr/international/article/2026/10/10/la-prix-nobel-de-la-paix-navanethem-pillay-juge-inacceptables-les-sanctions-americaines-contre-la-cpi_6791007_3210.html",
-    "source": "Le Monde",
-    "date": "2026-10-10T16:38:08+02:00"
-   },
-   {
-    "titre": "Cisjordanie : les décisions de la Cour suprême israélienne restent lettre morte",
-    "resume": "Les rares jugements favorables aux Palestiniens dépossédés par des colons sont neutralisés par la force ou par les autorités.",
-    "libertes": true,
-    "angle_crfpa": "Effectivité des décisions de justice et État de droit : l'exécution des jugements comme composante du droit au procès équitable (art. 6 CEDH, CEDH, Hornsby c. Grèce, 1997).",
-    "lien": "https://www.lemonde.fr/international/article/2026/10/11/en-cisjordanie-occupee-la-solitude-des-palestiniens-filmer-ce-qui-se-passe-a-nos-portes-est-devenu-notre-seul-recours-face-a-l-impuissance-de-la-justice_6791268_3210.html",
-    "source": "Le Monde",
-    "date": "2026-10-11T06:00:01+02:00"
+    "titre": "La CEDH dira si la solidarité fiscale entre ex-époux est discriminatoire",
+    "lien": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxQaHVFTTJkanZZc0lQblZpWVo3b200aHktRTN3MnNXSEF6djlyWGppbDg2aFdFTmN1UWNTdUMzYWo4YU1fcWxXWWJLX3JucVBwVlhaSF9HMExLOERpU2k1NFZXWkRmcXpYYnBJTHE3V1luY2ZjRWFVRnR1bThkRmhXZnZTbnRSNk5naWFuZHFpeVQ0cWtlWkpTYk5sNUlaYWE3dTlNUlhUQnVESndLaEc3dDVmdG01UEQycmxYX0s0aHFhZU12ZUpTMkFBR1hYXzljUERvbGtiZl9UandJQ1M0V2ctVFdpdw?oc=5",
+    "source": "Le Temps",
+    "date": "2026-10-12T04:30:01+02:00",
+    "resume": "Selon Le Temps, qui révèle l'affaire, la Cour européenne des droits de l'homme va examiner si la solidarité fiscale qui continue de lier des ex-époux est discriminatoire. L'arrêt reste à rendre.",
+    "libertes": "Interdiction de la discrimination (art. 14 Conv. EDH), combinée avec le droit au respect des biens (art. 1er du Protocole n°1).",
+    "angle_crfpa": "Contrôle de l'art. 14, qui n'est pas autonome : le grief doit tomber dans le champ d'un autre droit conventionnel ; marge d'appréciation large des États en matière fiscale."
    }
   ]
  },
  "notion": {
-  "titre": "Ezelin c. France : la liberté de réunion pacifique protège aussi le manifestant",
-  "texte": "Un avocat avait été sanctionné disciplinairement pour avoir participé à une manifestation au cours de laquelle des incidents s'étaient produits, sans s'en désolidariser. La Cour européenne des droits de l'homme juge que la sanction viole l'article 11 de la Convention. La liberté de réunion pacifique ne peut être restreinte au seul motif que d'autres participants ont commis des violences, dès lors que la personne n'en a pas commis elle-même. L'arrêt reste une référence sur la proportionnalité des restrictions au droit de manifester.",
-  "reference": "CEDH, 26 avril 1991, Ezelin c. France, n° 11800/85"
+  "titre": "Non-discrimination : l'arrêt Marckx",
+  "texte": "La Cour européenne des droits de l'homme a jugé contraire aux articles 8 et 14 de la Convention le droit belge qui traitait différemment l'enfant « naturel » et l'enfant « légitime » (établissement de la filiation, droits successoraux). L'arrêt pose qu'une différence de traitement est discriminatoire si elle ne poursuit pas un but légitime ou s'il n'existe pas de rapport raisonnable de proportionnalité entre les moyens et le but visé.",
+  "reference": "CEDH, 13 juin 1979, Marckx c. Belgique, n° 6833/74"
  }
 }
