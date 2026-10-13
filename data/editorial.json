@@ -1,152 +1,170 @@
 {
- "date": "2026-10-12",
- "edito": "Raphaël Glucksmann remporte dès le premier tour la primaire de la gauche avec 66,17 % des voix, Olivier Faure plafonnant à 14,46 %. Donald Trump annonce un « cessez-le-feu énergétique » entre Moscou et Kiev sans en avoir informé l'Ukraine. À Riyad, une nouvelle attaque des houthistes contre l'aéroport fait un mort au lendemain de frappes meurtrières.",
+ "date": "2026-10-13",
+ "edito": "Nouvelle journée de mobilisation lycéenne ce mardi, élargie à l'enseignement supérieur, alors qu'un élève de 14 ans a ouvert le feu dans un collège d'Aubagne. Le FMI ne prévoit plus que 0,4 % de croissance pour la France en 2026. À Washington, le projet de Donald Trump d'importer du gazole russe soulève une vive controverse, jusque chez les républicains.",
  "journaux": {
   "figaro": {
-   "resume": "Le Figaro ouvre sur le budget 2027, dont l'examen en commission à l'Assemblée dégraderait le déficit de 8 milliards d'euros selon David Amiel. La victoire de Glucksmann et la débâcle d'Olivier Faure occupent le reste de la une.",
+   "resume": "Le Figaro consacre sa une à l'« acte V » de la mobilisation lycéenne, jusqu'à 220 000 manifestants attendus, et à l'épuisement des proviseurs face aux blocages.",
    "points": [
-    "Budget 2027 : le ministre accuse la commission des finances d'avoir creusé le déficit de 8 milliards.",
-    "Christine Lavarde, nouvelle rapporteure du budget au Sénat, livre ses objectifs.",
-    "Glucksmann l'emporte avec 66,17 % ; Hollande le félicite.",
-    "Olivier Faure, éliminé avec 14,46 %, fragilisé à la tête du PS."
+    "L'Union syndicale lycéenne juge les réponses de l'exécutif insuffisantes et réclame la suppression de Parcoursup.",
+    "Proviseurs : « Notre métier est devenu dangereux ».",
+    "Éditorial de Vincent Trémolet de Villers sur la perte d'autorité.",
+    "Le mouvement pourrait agréger d'autres luttes, selon le journal."
    ]
   },
   "monde": {
-   "resume": "Le Monde analyse la victoire de Glucksmann, qui revendique la « rupture avec le macronisme ». À l'international : l'accord Trump-Poutine sur l'énergie, les attaques contre Riyad et le nouveau report des élections palestiniennes.",
+   "resume": "Le Monde ouvre sur la controverse américaine autour du gazole russe et sur la grève dans l'éducation. Il révèle aussi le loyer de près de 4 millions de dollars versé par la FIFA à la Trump Tower.",
    "points": [
-    "Glucksmann veut rassembler la famille sociale-démocrate face à l'extrême droite.",
-    "Cessez-le-feu sur les infrastructures énergétiques annoncé sans que Kiev soit informé.",
-    "Wopke Hoekstra mise sur le « made in Europe » et le nucléaire.",
-    "Mahmoud Abbas reporte d'un an les législatives palestiniennes."
+    "FMI : croissance française limitée à 0,4 % en 2026, contre 0,9 % en 2025.",
+    "Aubagne : un collégien de 14 ans tire sur un principal et une professeure.",
+    "FIFA : un bureau loué à la Trump Tower, symbole des liens avec Trump.",
+    "Ceuta : les migrants écartés du paysage pour la visite des souverains espagnols."
    ]
   },
   "croix": {
-   "resume": "La Croix suit Jean-Luc Mélenchon à Clermont-Ferrand, qui courtise la jeunesse. Le journal relaie aussi l'alerte de l'OFB sur la sécheresse et les difficultés financières des associations.",
+   "resume": "La Croix suit la visite inédite du roi d'Espagne à Ceuta après la crise migratoire de l'été, et s'interroge sur la place du Covid-19 au lancement de la campagne de vaccination.",
    "points": [
-    "Mélenchon défend le vote à 16 ans et la fin de Parcoursup.",
-    "L'OFB : « On n'est toujours pas sorti de la sécheresse ».",
-    "L'association Aurore, centenaire, rattrapée par les difficultés financières.",
-    "Mondial de l'auto : percée des marques chinoises (près de 6 % des immatriculations) et retour de la 2CV en électrique."
+    "Ceuta : plus de 70 000 arrivées cet été pour 80 000 habitants.",
+    "Houthistes : les attaques contre l'Arabie saoudite se poursuivent.",
+    "Lycéens : portrait d'une génération qui a grandi dans un monde incertain.",
+    "Égalité devant l'impôt : ce que dit vraiment la jurisprudence du Conseil constitutionnel."
    ]
   },
   "equipe": {
-   "resume": "L'Équipe salue Amine Harit, buteur décisif de l'OM à Troyes (2-0), et la victoire bonifiée de Toulouse face à Bayonne (45-34).",
+   "resume": "L'Équipe se tourne vers la Ligue des champions : Lens reçoit le Sporting Portugal, invaincu, et Olivier Giroud retrouve Arsenal avec Lille.",
    "points": [
-    "OM : Harit relance son histoire marseillaise.",
-    "Toulouse s'appuie sur ses mauls et sur Antoine Dupont.",
-    "La Lazio de Gattuso, coleader de Serie A avec l'Inter.",
-    "Basket : Paris et l'Asvel loin devant dans les budgets de Betclic Élite."
+    "Lens et Yannick Cahuzac face au Sporting.",
+    "Giroud, 40 ans, de retour à l'Emirates Stadium.",
+    "Fabian Ruiz, devenu indispensable au PSG et en sélection.",
+    "OL : Loïs Openda absent au moins sept matches (fissure du péroné)."
    ]
   }
  },
  "sections": {
   "monde": [
    {
-    "titre": "Riyad : nouvelle attaque houthiste contre l'aéroport",
-    "lien": "https://www.lemonde.fr/international/article/2026/10/11/arabie-saoudite-les-houthistes-du-yemen-revendiquent-des-operations-d-envergure-contres-des-aeroports-et-des-infrastructures-energetiques_6791939_3211.html",
+    "titre": "Les houthistes menacent les États-Unis d'une riposte « douloureuse »",
+    "lien": "https://www.lemonde.fr/international/article/2026/10/13/frappes-en-arabie-saoudite-les-houthistes-du-yemen-promettent-une-riposte-douloureuse-en-cas-d-intervention-americaine_6792876_3210.html",
     "source": "Le Monde",
-    "date": "2026-10-11T20:16:26+02:00",
-    "resume": "Une nouvelle attaque contre l'aéroport de Riyad a fait un mort, au lendemain de frappes houthistes meurtrières. Les houthistes revendiquent des « opérations d'envergure » contre des aéroports et des infrastructures énergétiques saoudiennes.",
-    "pourquoi": "L'ampleur de ces attaques est inédite depuis le début de la guerre au Yémen en 2014."
+    "date": "2026-10-13T01:19:40+02:00",
+    "resume": "Les houthistes préviennent qu'ils riposteront si Washington s'implique, alors que Riyad réclame en vain le soutien américain face à leurs attaques.",
+    "pourquoi": "Le conflit risque de s'étendre au-delà de l'Arabie saoudite."
    },
    {
-    "titre": "Zelensky : « soixante jours de cessez-le-feu » avant des élections",
-    "lien": "https://www.lemonde.fr/international/article/2026/10/11/guerre-en-ukraine-dites-a-poutine-de-nous-accorder-60-jours-de-cessez-le-feu-et-nous-organiserons-les-elections-assure-zelensky-en-reponse-a-trump_6791930_3210.html",
+    "titre": "Le gazole russe de Trump provoque une controverse à Washington",
+    "lien": "https://www.lemonde.fr/international/article/2026/10/13/aux-etats-unis-le-recours-de-donald-trump-au-gazole-russe-au-detriment-de-l-ukraine-provoque-une-vaste-controverse_6793051_3210.html",
     "source": "Le Monde",
-    "date": "2026-10-11T16:44:37+02:00",
-    "resume": "Sur ABC, Volodymyr Zelensky répond à Donald Trump, qui réclame un changement de président : c'est aux Ukrainiens de choisir leur dirigeant, et des élections seraient possibles avec soixante jours de cessez-le-feu.",
-    "pourquoi": "La question électorale devient un levier central des négociations."
+    "date": "2026-10-13T05:31:35+02:00",
+    "resume": "Le projet d'importer du diesel russe malgré les sanctions occidentales suscite la colère de nombreux élus, y compris républicains, à trois semaines des élections de mi-mandat.",
+    "pourquoi": "Il fragilise le front des sanctions contre Moscou, au détriment de l'Ukraine."
    },
    {
-    "titre": "Ukraine : frappe meurtrière près de Kharkiv, Trump annonce un « cessez-le-feu énergétique »",
-    "lien": "https://www.lemonde.fr/international/live/2026/10/12/en-direct-guerre-en-ukraine-trois-morts-et-25-blesses-dans-une-frappe-russe-pres-de-kharkiv_6791198_3210.html",
+    "titre": "La marine française arraisonne un pétrolier de la « flotte fantôme » russe",
+    "lien": "https://www.lemonde.fr/international/article/2026/10/13/la-marine-francaise-arraisonne-un-petrolier-au-sud-de-la-reunion-soupconne-d-appartenir-a-la-flotte-fantome-russe_6792875_3210.html",
     "source": "Le Monde",
-    "date": "2026-10-12T06:30:20+02:00",
-    "resume": "Une frappe russe près de Kharkiv a fait trois morts, dont un adolescent de 16 ans, et 25 blessés. Donald Trump annonce un cessez-le-feu sur les infrastructures énergétiques ; Zelensky dit ne pas en avoir été informé.",
-    "pourquoi": "Un accord conclu au-dessus de la tête de Kiev inquiète l'Ukraine et l'Europe."
+    "date": "2026-10-13T01:15:32+02:00",
+    "resume": "Le « DF Peak », sous pavillon béninois et inscrit sur la liste des navires sanctionnés par l'UE, a été dérouté au sud de La Réunion.",
+    "pourquoi": "La France applique concrètement les sanctions maritimes contre la Russie."
    },
    {
-    "titre": "Pologne : projet d'assassinat contre Donald Tusk et son ministre de la défense",
-    "lien": "https://www.lemonde.fr/international/article/2026/10/11/en-pologne-donald-tusk-et-son-ministre-de-la-defense-vises-par-un-projet-de-tentative-d-assassinat_6792039_3210.html",
+    "titre": "RDC : Joseph Kabila prend la tête d'un mouvement politico-militaire",
+    "lien": "https://www.lemonde.fr/afrique/article/2026/10/12/joseph-kabila-ex-president-de-la-republique-democratique-du-congo-prend-la-tete-d-un-mouvement-politico-militaire-incluant-les-rebelles-du-m23_6792805_3212.html",
     "source": "Le Monde",
-    "date": "2026-10-11T18:07:43+02:00",
-    "resume": "L'homme qui menaçait de commettre l'attaque a été arrêté, selon le premier ministre et le ministre de l'intérieur.",
-    "pourquoi": "La Pologne est en première ligne du soutien à l'Ukraine."
+    "date": "2026-10-12T22:41:43+02:00",
+    "resume": "Condamné à mort par contumace en 2025, l'ancien président a été désigné à Goma. L'opposition accuse Félix Tshisekedi de vouloir modifier la Constitution pour un troisième mandat.",
+    "pourquoi": "L'est du Congo pourrait basculer dans une nouvelle phase du conflit."
    },
    {
-    "titre": "Raphaël Glucksmann candidat de la gauche pour 2027",
-    "lien": "https://www.france24.com/fr/vid%C3%A9o/20261011-pr%C3%A9sidentielle-2027-rapha%C3%ABl-glucksmann-%C3%A9lu-d%C3%A8s-le-premier-tour-de-la-primaire-%C3%A0-gauche",
-    "source": "France 24",
-    "date": "2026-10-11T23:34:20+02:00",
-    "resume": "L'eurodéputé remporte la primaire dès le premier tour avec 66,17 % des voix. Il revendique la rupture avec le macronisme et la fin de « l'hégémonie » de Mélenchon.",
-    "pourquoi": "La gauche sociale-démocrate a désormais son candidat pour 2027."
+    "titre": "Le FMI pointe un net décrochage de l'économie française",
+    "lien": "https://www.lemonde.fr/economie/article/2026/10/13/le-fmi-pointe-un-net-decrochage-de-l-economie-francaise_6792976_3234.html",
+    "source": "Le Monde",
+    "date": "2026-10-13T04:00:10+02:00",
+    "resume": "Selon les prévisions publiées mardi, la croissance ne dépasserait pas 0,4 % en 2026, contre 0,9 % en 2025.",
+    "pourquoi": "Un chiffre qui pèse sur le débat budgétaire en cours."
    },
    {
-    "titre": "Le pape sera opéré d'un nodule au poumon",
-    "lien": "https://www.france24.com/fr/vid%C3%A9o/20261011-le-pape-annonce-qu-il-va-%C3%AAtre-op%C3%A9r%C3%A9-d-un-nodule-au-poumon-prochainement",
-    "source": "France 24",
-    "date": "2026-10-11T18:02:13+02:00",
-    "resume": "Le pape a annoncé qu'il serait prochainement opéré d'un nodule pulmonaire.",
-    "pourquoi": "Une annonce rare sur la santé du souverain pontife."
+    "titre": "Aubagne : un collégien tire sur un principal et une professeure",
+    "lien": "https://www.lemonde.fr/societe/article/2026/10/12/maman-il-y-a-un-tueur-dans-le-college-a-aubagne-un-eleve-tire-sur-un-principal-et-une-professeure_6792800_3224.html",
+    "source": "Le Monde",
+    "date": "2026-10-12T20:31:56+02:00",
+    "resume": "Un adolescent de 14 ans a fait feu avec un fusil de chasse dans l'enceinte du collège Joseph-Lakanal. Le mobile reste à établir.",
+    "pourquoi": "Un fait rare en France, en pleine tension dans les établissements scolaires."
    }
   ],
   "ia": [
    {
-    "titre": "Amazon en discussions pour racheter Decart (7 milliards de dollars)",
-    "lien": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNYW53c0U1RFBrUndoazRudWRUT0xFdnllUVZfazdGN2JGd2VwNEY1ajZWVm1hMXZncnlsYWQ1WWFUV2pjMWR5YzRBRk8xWDBZUEFSX2Uzb0pIYjktYkF5c19UWjZlSl8xRnJvUlVzT29qYy1LRUZqMF9ieGRhYXVlUmFvS005a00wdVQ3YVRRSEdQMENoUU5tMFdsSmhtZGc?oc=5",
-    "source": "Yahoo Finance France",
-    "date": "2026-10-12T01:55:02+02:00",
-    "resume": "Amazon négocierait l'acquisition de la start-up d'IA Decart pour environ 7 milliards de dollars, selon Yahoo Finance.",
-    "pourquoi": "Les géants du cloud continuent d'acheter des compétences en IA générative."
+    "titre": "Meta lance Muse Wonder pour rattraper son retard dans l'IA",
+    "lien": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxPSGNacDBzQ0tMM21scXpVRF9JRDkwcVpZNDBwb0Uzb2JYVkFhZnhYbm9rLVhkNFRDaVl1QkdHTHp1eXdCMU5rcGtPZTlHTEw3dWtRRkdsa0NwM0JoS2VCWnYwaDRmSXk1dGRIUkVLX3FnTzVfOEs1TmhzdXNKTEhmY1RXWlIwMGVxc0QyeWpUTDVGVWF2S2RKVWw1WW9yekVWTXB1dVIyUjRhR3dtbWJ0eE1zNmkzNllXdG1aOUFrbzBxSkpmZ0hJTk9GUFVxOEg2VDVZTlJvUHRMQS1XblBjTmNoNXFhdGw1ZFdBSk9mU0VSRE05YmRKVU9NOWM?oc=5",
+    "source": "Courrier international",
+    "date": "2026-10-13T05:55:12+02:00",
+    "resume": "Meta présente sa famille de modèles Muse Wonder, positionnée face à Anthropic et OpenAI, rapporte Courrier international.",
+    "pourquoi": "Meta tente de revenir dans la course aux modèles de pointe."
    },
    {
-    "titre": "Satya Nadella : il faut considérer tous les modèles d'IA comme « compromis »",
-    "lien": "https://www.theverge.com/ai-artificial-intelligence/1009337/satya-nadella-says-we-should-assume-all-ai-models-are-compromised",
-    "source": "The Verge",
-    "date": "2026-10-11T00:10:17+02:00",
-    "resume": "Dans un long message sur X, le patron de Microsoft estime qu'on ne peut plus traiter l'IA comme une suite de « boîtes noires imbriquées » dont on accepte les conseils sans contrôle.",
-    "pourquoi": "Un des principaux acteurs du secteur plaide pour un principe de méfiance par défaut."
-   },
-   {
-    "titre": "La Silicon Valley adopte le label « super intelligence » voulu par Trump",
-    "lien": "https://www.theverge.com/ai-artificial-intelligence/1009406/silicon-valley-is-falling-in-line-with-trumps-attempt-to-rename-ai",
-    "source": "The Verge",
-    "date": "2026-10-11T20:33:56+02:00",
-    "resume": "Donald Trump veut rebaptiser l'IA « super intelligence ». Le grand public n'a pas suivi, mais plusieurs figures de la Silicon Valley reprennent déjà le terme, relève The Verge.",
-    "pourquoi": "Le vocabulaire de l'IA devient un enjeu politique."
-   },
-   {
-    "titre": "Centres de données : renoncer aux clauses de confidentialité pour convaincre les opposants ?",
-    "lien": "https://techcrunch.com/2026/10/11/can-the-ai-industry-persuade-data-center-opponents-by-getting-rid-of-ndas/",
+    "titre": "Brad Smith (Microsoft) : le Royaume-Uni est le mieux placé pour réguler l'IA",
+    "lien": "https://techcrunch.com/2026/10/12/microsoft-president-says-uk-is-best-placed-to-drive-ai-regulation/",
     "source": "TechCrunch",
-    "date": "2026-10-11T18:52:33+02:00",
-    "resume": "Le podcast Equity de TechCrunch débat des moratoires sur les centres de données et du problème de communication de l'industrie de l'IA, notamment les accords de confidentialité imposés aux collectivités.",
-    "pourquoi": "L'opposition locale freine la construction des infrastructures de l'IA."
+    "date": "2026-10-12T17:31:19+02:00",
+    "resume": "Le président de Microsoft réclame une régulation urgente de l'IA, estimant que le lait et les machines à laver sont plus encadrés que les entreprises d'IA.",
+    "pourquoi": "Un géant du secteur plaide lui-même pour davantage de contrôle."
    },
    {
-    "titre": "« J'ai pleuré » : un mathématicien face à l'IA qui a réduit son domaine de recherche",
-    "lien": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxPNng4NTJDS2lndktPZkRoUnNtYW90aEJ1WHktb20yM2Y5cUN1aVQwVkJyV3VoRGJjUXBVaG5PLUxaQ05WMG41Tld2UWkyTVB1cnRHcnlIZHdXOGJFcGpwandBdU82dHVDRzVZVndIRmltVXRtcXFfNm1pWnYtRjdjaFdKRmtRNzJSdHpSbUpiVHk0cWlIckhKcFlmZ3dKY1BUNUdmakszaExyVXlFSmk5bHNnQmwwRVMzdVNmNEN2Uy1JbXNqUWhCN1I1ckt6RUpfRmVVcjNsOFltU2p0dUpxdm5JOG1QV0NqUEg3b0pWRXItUVk?oc=5",
-    "source": "Le Figaro",
-    "date": "2026-10-11T12:26:13+02:00",
-    "resume": "Le Figaro donne la parole à un mathématicien qui voit l'IA s'emparer de son champ de recherche.",
-    "pourquoi": "L'IA commence à concurrencer la recherche fondamentale."
+    "titre": "Anthropic : NTT Data en négociation finale pour un premier centre de données au Japon",
+    "lien": "https://news.google.com/rss/articles/CBMitgJBVV95cUxPNGVHUnl4VldQUjdxX1B2WkxvRDBhLS1UQlhSZ1lzdUJjV1lqTlNJSnZLSmVNT0JvYU0zVGUwQnFSZTQyUzlOVDdDTmVuV0paZ0dtNXFVUklpXzJHZDZoWXNHWUFWcTZIVGlCOUhyaTUtYjhDRnB6RDMxeGFfWV9FVUh3T1RVc3pUU1hNWDM1OF9KTGR1dnRGNG5tX3FHejlaMHNBZkdSMTFLY3RZZVEwa0xGYjJJX3FtWVRJUGIzSEJWdEZ3Uk45anEtYVN3ZVVEclFHaDZ4NHo0YUlSelFuYThteHI5RkNGZkc1cWNZelBsTVF2MDFGSzFSVWYzV3lpbEtIWVBTQ0hHUGtpTFF1UGd2MHp0Mk8wdmZtOWRpSzhvcjFjbmJPbTJfMFJXeWZPVV8yZ2t30gG2AkFVX3lxTE80ZUdSeXhWV1BSN3FfUHZaTG9EMGEtLVRCWFJnWXN1QmNXWWpOU0lKdktKZU1PQm9hTTNUZTBCcVJlNDJTOU5UN0NOZW5XSlpnR201cVVSSWlfMkdkNmhZc0dZQVZxNkhUaUI5SHJpNS1iOENGcHpEMzF4YV9ZX0VVSHdPVFVzelRTWE1YMzU4X0pMZHV2dEY0bm1fcUd6OVowc0FmR1IxMUtjdFllUTBrTEZiMklfcW1ZVElQYjNIQlZ0RndSTjlqcS1hU3dlVURyUUdoNng0ejRhSVJ6UW5hOG14cjlGQ0ZmRzVxY1l6UGxNUXYwMUZLMVJVZjNXeWlsS0hZUFNDSEdQa2lMUXVQZ3YwenQyTzB2Zm05ZGlLOG9yMWNuYk9tMl8wUld5Zk9VXzJna3c?oc=5",
+    "source": "Boursorama",
+    "date": "2026-10-13T04:47:40+02:00",
+    "resume": "Selon Boursorama, NTT Data serait en phase finale de négociations pour construire le premier centre de données d'Anthropic au Japon.",
+    "pourquoi": "Les laboratoires d'IA étendent leurs infrastructures hors des États-Unis."
+   },
+   {
+    "titre": "L'IA devient le premier risque émergent selon les experts de l'assurance",
+    "lien": "https://news.google.com/rss/articles/CBMikAJBVV95cUxObUFOUHpQOElEZXQxc0Rlb1VpM0huZHFnQkZ4cFNRQmpmcmstYzNYbmF4aEc0eENrUEZzbHhXSUlzN0d6STE5eXdNbnNmdFhMZEZjV2paa0tPRXZ4cmxDSTJDUFQySWxqcFg4aHNza2VQM1JKdjhHOGJSbDB2aVpXTy0xcDhoRkY4MjF1akZVcXlwZHhReEdOQ0gyMjllNnJUUzB3SG9zRWZNbzJ4VnU2UGdVam01Qzhqc01SdV93ZUNObHRZSmlOYXFzRXFrTlp1NENheHNmVmFjUGNSRlVxdlZndVNlalgxejExWWpFSmViOTUtdnU5cWhJbDZubFc5ZnhwUXF1czZWWTM3ZWhEcw?oc=5",
+    "source": "L'Argus de l'assurance",
+    "date": "2026-10-13T05:30:00+02:00",
+    "resume": "Pour la première fois, l'intelligence artificielle arrive en tête des risques émergents identifiés par les experts, rapporte L'Argus de l'assurance.",
+    "pourquoi": "Les assureurs commencent à chiffrer les risques liés à l'IA."
+   },
+   {
+    "titre": "Une application d'IA qui écoute en continu lève 26 millions de dollars",
+    "lien": "https://techcrunch.com/2026/10/12/former-plaud-exec-raises-26m-for-ai-app-that-listens-to-you-in-the-background/",
+    "source": "TechCrunch",
+    "date": "2026-10-12T14:47:59+02:00",
+    "resume": "Un ancien dirigeant de Plaud lève 26 millions de dollars pour une application qui écoute son utilisateur en arrière-plan afin de mieux l'assister.",
+    "pourquoi": "La promesse d'un assistant omniscient pose directement la question de la vie privée."
    }
   ],
   "droit": [
    {
-    "titre": "La CEDH dira si la solidarité fiscale entre ex-époux est discriminatoire",
-    "lien": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxQaHVFTTJkanZZc0lQblZpWVo3b200aHktRTN3MnNXSEF6djlyWGppbDg2aFdFTmN1UWNTdUMzYWo4YU1fcWxXWWJLX3JucVBwVlhaSF9HMExLOERpU2k1NFZXWkRmcXpYYnBJTHE3V1luY2ZjRWFVRnR1bThkRmhXZnZTbnRSNk5naWFuZHFpeVQ0cWtlWkpTYk5sNUlaYWE3dTlNUlhUQnVESndLaEc3dDVmdG01UEQycmxYX0s0aHFhZU12ZUpTMkFBR1hYXzljUERvbGtiZl9UandJQ1M0V2ctVFdpdw?oc=5",
-    "source": "Le Temps",
-    "date": "2026-10-12T04:30:01+02:00",
-    "resume": "Selon Le Temps, qui révèle l'affaire, la Cour européenne des droits de l'homme va examiner si la solidarité fiscale qui continue de lier des ex-époux est discriminatoire. L'arrêt reste à rendre.",
-    "libertes": "Interdiction de la discrimination (art. 14 Conv. EDH), combinée avec le droit au respect des biens (art. 1er du Protocole n°1).",
-    "angle_crfpa": "Contrôle de l'art. 14, qui n'est pas autonome : le grief doit tomber dans le champ d'un autre droit conventionnel ; marge d'appréciation large des États en matière fiscale."
+    "titre": "La Cour de cassation casse la condamnation pour injure de François Cuillandre",
+    "lien": "https://news.google.com/rss/articles/CBMinwJBVV95cUxPLU9NRGk2S2NTRmdGaXQtdncxbUlab2x2MWE1RzNwdjNtNVhyam9jRVlqSDRBVmdDS0hfZXJnRlhBWFFPLWpRY3ZrRFI3ejg5RFRXdUxBUHNTRk56SEFMZkhTV09ZYUEzUDNCU3ZYNEd1VE1heGpMV0ZURkI5bVFiX1NxdmtDMFhwWXVKR0ZscXdzRHFORkxLby1UY1lKRDJsampKV3pyMnhtZmFpNDRHYV9ldjNYVDhoWkNSSFZMNzBlS2hSYnIxdy1Nbms2Zlg3XzB0THYyUVJqVWJ0bkFRa05US1pfX3g2VTM1dWstLWxNUnNacmQ2dWJVOHhVYnppNHpqLVdRZ0pQYVJUTWktMmtobmlwdkZPVjlDeVRVaw?oc=5",
+    "source": "Ouest-France",
+    "date": "2026-10-12T15:15:42+02:00",
+    "resume": "Selon Ouest-France, la Cour de cassation a cassé la condamnation pour injure de l'ancien maire de Brest.",
+    "libertes": "Liberté d'expression (art. 11 DDHC, art. 10 Conv. EDH), notamment dans le débat politique local.",
+    "angle_crfpa": "Contrôle de proportionnalité exercé par la chambre criminelle sur les condamnations pour injure, sous l'influence de la jurisprudence de la CEDH sur le discours politique."
+   },
+   {
+    "titre": "Le Conseil constitutionnel valide l'inéligibilité ordinale après certaines sanctions disciplinaires",
+    "lien": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxQcWx4amNYT1BxMnBScUJwWUhrOVJGbWpIVFVNck1mcC1LdkFmSWk3amprQVIxWlVsT2Q1bUZTb3gyR1pjSFlJX0hTdkhtMDF4NXJGdmZfblJUc2w3VS0wT2NCejhxb1NFZjJnU19nYVRlTWljSjI2UndpMmptXzhrVGZiTzdlTEJFNWZnS280dGZFTFFISVlyYUJaamlvYU85d3d1bXIwalpCeGdKRXBpTDNhYVpXRkZDSExZdGlOdzJMbGMtRnNJaG50NG1PMVB0NzVFRmtWMDJlOTFIUHJ5TEc1MTRfcmlWbEJJbW9lb2x2cTRVVGVTMEtESU9TUEU?oc=5",
+    "source": "Le Moniteur des pharmacies",
+    "date": "2026-10-12T11:41:38+02:00",
+    "resume": "Saisi d'une QPC, le Conseil constitutionnel juge conformes les règles qui rendent inéligibles aux instances ordinales les professionnels de santé frappés de certaines sanctions disciplinaires, rapporte Le Moniteur des pharmacies.",
+    "libertes": "Principes de nécessité et d'individualisation des peines (art. 8 DDHC), applicables aux sanctions ayant le caractère de punition.",
+    "angle_crfpa": "Question classique : une inéligibilité automatique est-elle une sanction soumise à l'art. 8 DDHC (le Conseil a censuré des peines automatiques, par ex. Cons. const. 2010-6/7 QPC) ou une simple condition d'accès à une fonction ?"
+   },
+   {
+    "titre": "Égalité devant l'impôt : la jurisprudence du Conseil constitutionnel protège-t-elle les « ultra-riches » ?",
+    "lien": "https://www.la-croix.com/economie/egalite-devant-l-impot-la-jurisprudence-du-conseil-constitutionnel-protege-t-elle-les-ultra-riches-20261012",
+    "source": "",
+    "date": "2026-10-13T00:01:18+02:00",
+    "resume": "En plein débat budgétaire, La Croix examine pourquoi de nombreux amendements fiscaux de la gauche se heurtent au risque d'être jugés « confiscatoires » par le Conseil constitutionnel, au regard d'une jurisprudence vieille de quinze ans.",
+    "libertes": "Égalité devant les charges publiques (art. 13 DDHC) et interdiction de l'imposition confiscatoire.",
+    "angle_crfpa": "Le Conseil contrôle si l'impôt fait peser une charge excessive au regard des facultés contributives : un grand classique du droit constitutionnel fiscal."
    }
   ]
  },
  "notion": {
-  "titre": "Non-discrimination : l'arrêt Marckx",
-  "texte": "La Cour européenne des droits de l'homme a jugé contraire aux articles 8 et 14 de la Convention le droit belge qui traitait différemment l'enfant « naturel » et l'enfant « légitime » (établissement de la filiation, droits successoraux). L'arrêt pose qu'une différence de traitement est discriminatoire si elle ne poursuit pas un but légitime ou s'il n'existe pas de rapport raisonnable de proportionnalité entre les moyens et le but visé.",
-  "reference": "CEDH, 13 juin 1979, Marckx c. Belgique, n° 6833/74"
+  "titre": "L'égalité devant les charges publiques",
+  "texte": "« Pour l'entretien de la force publique, et pour les dépenses d'administration, une contribution commune est indispensable : elle doit être également répartie entre tous les citoyens, en raison de leurs facultés. » Le Conseil constitutionnel en déduit qu'un impôt ne peut faire peser sur une catégorie de contribuables une charge excessive au regard de leurs facultés contributives.",
+  "reference": "Déclaration des droits de l'homme et du citoyen de 1789, art. 13"
  }
 }
