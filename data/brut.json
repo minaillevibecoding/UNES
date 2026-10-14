@@ -1,6 +1,6 @@
 {
- "date": "2026-10-13",
- "genere": "2026-10-13T08:35+02:00",
+ "date": "2026-10-14",
+ "genere": "2026-10-14T07:07+02:00",
  "journaux": [
   {
    "id": "figaro",
@@ -8,57 +8,57 @@
    "couleur": "#163860",
    "une": {
     "fichier": "unes/figaro.jpg",
-    "date": "2026-10-13",
-    "source": "https://static.milibris.com/thumbnail/issue/c2592623-ab6b-43ac-ad32-2e2f6ce65277/front/catalog-cover-large.jpeg"
+    "date": "2026-10-14",
+    "source": "https://static.milibris.com/thumbnail/issue/736a3171-6966-4f6c-a14f-82dc01e57aab/front/catalog-cover-large.jpeg"
    },
    "articles": [
     {
-     "titre": "EN DIRECT - Mouvement des lycéens : manifestations, blocus, grève… Un «acte V» sous haute tension ce mardi en France, le gouvernement dans le viseur",
-     "lien": "https://www.lefigaro.fr/actualite-france/en-direct-mobilisation-des-lyceens-ils-ne-nous-ecoutent-pas-nouvelle-journee-de-manifestations-ce-mardi-lors-d-un-acte-v-sous-haute-tension-20261013",
-     "resume": "Les réponses de l’exécutif ont pour l’instant semblé laisser sur leur faim les organisations lycéennes. L’Union syndicale lycéenne a évoqué des «miettes» et maintenu sa revendication d’une suppression totale de Parcoursup et d’un plan de dix milliards…",
-     "date": "2026-10-13T08:22:02+02:00",
+     "titre": "L’opération du pape Léon XIV révèle un cancer au poumon",
+     "lien": "https://www.lefigaro.fr/actualite-france/a-rome-l-operation-du-pape-leon-xiv-suscite-emoi-et-speculations-20261013",
+     "resume": "RÉCIT - Le Saint-Père a dû subir ce mardi une ablation du lobe inférieur du poumon droit à la suite de la découverte d’un «adénocarcinome pulmonaire».",
+     "date": "2026-10-14T06:09:57+02:00",
      "source": "",
-     "image": "https://i.f1g.fr/media/cms/3000x2000_crop/2026/10/13/853a835be317b543f859eb408e5e9b5065a4a4118a589f06bfb1f1507e118514.jpg"
+     "image": "https://i.f1g.fr/media/cms/2132x1199_crop/2026/10/14/52d4c38bb071bd6a5399999f5e89e662bed51cedb12f12db4059c703ddc093cd.jpg"
     },
     {
-     "titre": "« Notre métier est devenu dangereux » : épuisés et excédés par les blocages des lycées, les proviseurs tirent la sonnette d’alarme",
-     "lien": "https://www.lefigaro.fr/actualite-france/notre-metier-est-devenu-dangereux-epuises-et-excedes-par-les-blocages-des-lycees-les-proviseurs-tirent-la-sonnette-d-alarme-20261013",
-     "resume": "ENTRETIEN - Pris pour cible, les chefs d’établissement doivent assurer la sécurité des élèves et des personnels tout en maintenant les cours. Carole Zerbib, proviseur à Paris, alerte sur l’épuisement de ses collègues et la remise en cause de leur autorité.",
-     "date": "2026-10-13T06:15:00+02:00",
+     "titre": "Cancer du poumon : faut-il s'inquiéter après l'opération subie par le pape Léon XIV ?",
+     "lien": "https://sante.lefigaro.fr/medecine/un-nodule-localise-dans-mon-poumon-faut-il-s-inquieter-de-l-operation-que-va-subir-le-pape-leon-xiv-20261011",
+     "resume": "Le Saint-Père a été opéré ce mardi et les analyses ont confirmé qu’il souffrait d’un cancer du poumon. Que sont un nodule et un adénocarcinome pulmonaire, comment opère-t-on, quelles seront les suites ? Le Figaro fait le point avec des experts.",
+     "date": "2026-10-13T23:10:37+02:00",
      "source": "",
-     "image": "https://i.f1g.fr/media/cms/2492x1402_crop/2026/10/12/7cb2cd1cb365aa83579facbb389564cf976bd72a4273c20fc86f8e63b16ce609.jpg"
+     "image": "https://i.f1g.fr/media/cms/2848x1602_crop/2026/10/11/f0d568d1574afef78cb76d03a2d0a567874ec9a3344b2bade40db8cd1e848e48.jpg"
     },
     {
-     "titre": "L’éditorial de Vincent Trémolet de Villers : « Lycées, violences, le tableau noir d’un pays qui ne sait plus où il va »",
-     "lien": "https://www.lefigaro.fr/vox/societe/l-editorial-de-vincent-tremolet-de-villers-lycees-violences-le-tableau-noir-d-un-pays-qui-ne-sait-plus-ou-il-va-20261012",
-     "resume": "Ce qui nous manque, c’est cette chose antique que le « peuple adolescent » a rangée au musée : l’autorité. Et, avec elle, l’admiration.",
-     "date": "2026-10-12T20:17:31+02:00",
+     "titre": "Opération du pape Léon XIV : la tumeur retirée au poumon était cancéreuse, annonce le Vatican",
+     "lien": "https://www.lefigaro.fr/international/l-operation-du-pape-leon-xiv-pour-un-nodule-au-poumon-s-est-bien-deroulee-annonce-le-vatican-20261013",
+     "resume": "«L’intervention s’est conclue positivement, dans les délais et selon les modalités prévus, et le Saint-Père est retourné dans sa chambre», a fait savoir le service de presse du Saint-Siège sur Telegram.",
+     "date": "2026-10-14T07:01:16+02:00",
      "source": "",
-     "image": "https://i.f1g.fr/media/cms/1918x1079_crop/2026/10/12/19a5c8e4a9ccb75ed72beab23e12a9d040c78d70a8158addea7fc0039cd0181f.jpg"
+     "image": "https://i.f1g.fr/media/cms/orig/2026/10/13/ecf5e72875f59c715114b3b12288d79fcdcc4e5c54d9617b94b067c2b3803c3a.JPG"
     },
     {
-     "titre": "L’économie mondiale résiste à la guerre au Moyen-Orient grâce à l’IA, la France reste à la traîne",
-     "lien": "https://www.lefigaro.fr/conjoncture/l-economie-mondiale-resiste-a-la-guerre-au-moyen-orient-grace-a-l-ia-20261013",
-     "resume": "DÉCRYPTAGE - Pour le FMI, les investissements dans l’intelligence artificielle ainsi que les parades au blocage énergétique ont porté l’économie en 2026.",
-     "date": "2026-10-13T07:27:21+02:00",
+     "titre": "EN DIRECT - Colère des lycéens : les élèves mobilisés souhaitent que les étudiants et les «gilets jaunes» poursuivent le mouvement",
+     "lien": "https://www.lefigaro.fr/actualite-france/en-direct-colere-des-lyceens-les-eleves-mobilises-souhaitent-que-les-etudiants-et-les-gilets-jaunes-poursuivent-le-mouvement-20261014",
+     "resume": "Plusieurs organisations étudiantes et lycéennes doivent être à nouveau reçues jeudi après-midi par les ministres de l’Éducation et de l’Enseignement supérieur.",
+     "date": "2026-10-14T07:05:03+02:00",
      "source": "",
-     "image": "https://i.f1g.fr/media/cms/3000x2001_crop/2026/10/12/6b6cee9bd5bbd8be054d5e31af7a8d7dbeac0b1e06126756313da3b0df01ef6e.jpg"
+     "image": "https://i.f1g.fr/media/cms/3000x2000_crop/2026/10/14/c1ac3e9cf78b9db020ed3d10f3ed8c508caebf200aa97564526d7a9748965415.jpg"
     },
     {
-     "titre": "Comment la crise financière française contamine l’Italie",
-     "lien": "https://www.lefigaro.fr/conjoncture/comment-la-crise-financiere-francaise-contamine-l-italie-20261012",
-     "resume": "DÉCRYPTAGE - Rome a surpris les investisseurs en revoyant à la hausse, début octobre, ses objectifs de déficit pour 2027 et 2028, afin de consacrer davantage de moyens à la défense et à l’énergie.",
-     "date": "2026-10-12T20:05:41+02:00",
+     "titre": "Mobilisation du 17 octobre : «gilets jaunes saison 2», véritable «révolution» ou simple mode TikTok… À quoi s’attendre ?",
+     "lien": "https://www.lefigaro.fr/actualite-france/mobilisation-du-17-octobre-gilets-jaunes-saison-2-veritable-revolution-ou-simple-mode-tiktok-a-quoi-s-attendre-20261014",
+     "resume": "DÉCRYPTAGE - Le mouvement a pris un peu plus d’épaisseur ces derniers jours avec le ralliement de plusieurs figures de proue historiques des gilets jaunes, en soutien des lycéens. Parviendra-t-il à exister hors des réseaux sociaux ?",
+     "date": "2026-10-14T06:24:17+02:00",
      "source": "",
-     "image": "https://i.f1g.fr/media/cms/2998x1686_crop/2026/10/12/7b351310bc17068f6ed9714b0dba3800e782fca9191310c233adcab28a6a0cdd.jpg"
+     "image": "https://i.f1g.fr/media/cms/2850x1603_crop/2026/10/14/a9ddf27bd7218a45aba9f1f757d44a4a51ea3a192eb89be508aacfacc0ea1f37.jpg"
     },
     {
-     "titre": "Faille logicielle, frigos à 35 °C, des millions d’euros perdus : les dessous de la cyberattaque inédite qui a frappé les supermarchés français",
-     "lien": "https://www.lefigaro.fr/conso/faille-logicielle-frigos-a-35-0c-des-millions-d-euros-perdus-les-dessous-de-la-cyberattaque-inedite-qui-a-frappe-les-supermarches-francais-20261012",
-     "resume": "RÉCIT - Coopérative U, Intermarché, Monoprix, Carrefour, E.Leclerc… Dans la nuit de dimanche à lundi, un piratage d’ampleur a ciblé les infrastructures frigorifiques des grands distributeurs tricolores, sabotant un maillon essentiel de la chaîne alimentaire…",
-     "date": "2026-10-12T23:41:15+02:00",
+     "titre": "Citadines et SUV urbains : notre palmarès 2026 des meilleures voitures électriques pour les trajets du quotidien",
+     "lien": "https://www.lefigaro.fr/automobile/citadines-et-suv-urbains-notre-palmares-2026-des-meilleures-voitures-electriques-pour-les-trajets-du-quotidien-20261014",
+     "resume": "EXCLUSIF - Autonomie, recharge à domicile, prix d’achat, consommation, praticité… Le Figaro a comparé les caractéristiques de 78 citadines et SUV urbains électriques pour identifier les véhicules les plus adaptés pour les déplacements du quotidien.",
+     "date": "2026-10-14T07:00:00+02:00",
      "source": "",
-     "image": "https://i.f1g.fr/media/cms/3000x2000_crop/2026/10/12/a4cb3da6e03cd3044d4c08de602df690b268202bfc5d5fdb8c6d38dcecf4660a.jpg"
+     "image": "https://i.f1g.fr/media/cms/1918x1079_crop/2026/10/13/ec4a5ac136183eb7ccbd696650acdf6e2b76152e9e733c4dac36026418d25c6c.jpg"
     }
    ],
    "flux_utilise": "https://www.lefigaro.fr/rss/figaro_actualites.xml"
@@ -69,57 +69,57 @@
    "couleur": "#111111",
    "une": {
     "fichier": "unes/monde.webp",
-    "date": "2026-10-13",
-    "source": "https://www.frontpages.com/t/2026/10/12/le-monde-234420ymz@2x.webp"
+    "date": "2026-10-14",
+    "source": "https://www.frontpages.com/t/2026/10/13/le-monde-233555wra@2x.webp"
    },
    "articles": [
     {
-     "titre": "Aux Etats-Unis, le recours de Donald Trump au gazole russe, au détriment de l’Ukraine, provoque une vaste controverse",
-     "lien": "https://www.lemonde.fr/international/article/2026/10/13/aux-etats-unis-le-recours-de-donald-trump-au-gazole-russe-au-detriment-de-l-ukraine-provoque-une-vaste-controverse_6793051_3210.html",
-     "resume": "Le projet du président américain d’importer du diesel russe malgré les sanctions occidentales contre Moscou suscite la fureur de nombre d’élus à Washington, y compris des républicains. A trois semaines des midterms, le magnat multiplie les annonces pour…",
-     "date": "2026-10-13T05:31:32+02:00",
+     "titre": "Présidentielle 2027 : pour Jean-Luc Mélenchon, le soutien au mouvement lycéen consacre le pari de LFI sur la jeunesse",
+     "lien": "https://www.lemonde.fr/politique/article/2026/10/14/presidentielle-2027-pour-jean-luc-melenchon-le-soutien-au-mouvement-lyceen-consacre-le-pari-de-lfi-sur-la-jeunesse_6793352_823448.html",
+     "resume": "Devenu « l’incarnation politique » de la mobilisation, le candidat de LFI espère tirer profit d’un long travail auprès des jeunes générations. Mais la traduction électorale de ce positionnement n’est pas assurée.",
+     "date": "2026-10-14T05:30:00+02:00",
      "source": "",
-     "image": "https://img.lemde.fr/2026/10/12/424/0/5085/2542/644/322/60/0/c97cb47_ftp-1-jcj533pl9kks-5336650-01-06.jpg"
+     "image": "https://img.lemde.fr/2026/09/30/299/0/5000/2500/644/322/60/0/4060830_upload-1-0j1mg4splpfk-bg-29sept26-france-fpgreve-71-011.JPG"
     },
     {
-     "titre": "EN DIRECT, mouvement lycéen : Edouard Geffray, observe une « décrue » de la mobilisation lycéenne",
-     "lien": "https://www.lemonde.fr/societe/live/2026/10/13/en-direct-mouvement-lyceen-greve-dans-l-education-et-l-enseignement-superieur-lycees-bloques-manifestations-suivez-l-acte-v-de-la-mobilisation_6793059_3224.html",
-     "resume": "Mardi, environ 200 lycées pourraient être fermés sur les quelque 3 700, a estimé le ministre de l’éducation nationale sur France Inter. Des manifestations sont annoncées à Paris, Lyon, Marseille, Lille, Toulouse ou encore Bordeaux.",
-     "date": "2026-10-13T06:06:51+02:00",
+     "titre": "Budget 2027 : le RN en soutien du gouvernement pour repousser la motion de rejet du PS après de vifs débats sur la dette",
+     "lien": "https://www.lemonde.fr/politique/article/2026/10/14/budget-2027-le-rn-en-soutien-du-gouvernement-pour-repousser-la-motion-de-rejet-du-ps-apres-de-vifs-debats-sur-la-dette_6793315_823448.html",
+     "resume": "Les débats sur le projet de loi de finances et ses 3 863 amendements ont débuté mardi 13 octobre. Faute de majorité, le premier ministre Sébastien Lecornu est face à deux options, le recours à l’article 49.3 de la Constitution ou la promulgation par…",
+     "date": "2026-10-14T05:00:09+02:00",
      "source": "",
-     "image": "https://img.lemde.fr/2026/10/09/286/0/5346/2673/644/322/60/0/0b5ebb9_ftp-1-2crdnlem0def-5305550-01-06.jpg"
+     "image": "https://img.lemde.fr/2026/10/13/273/0/3276/1638/644/322/60/0/e0a3d1e_ftp-1-u4qa40mdsals-5341590-01-06.jpg"
     },
     {
-     "titre": "La Sécurité sociale particulièrement exposée aux tensions sur la dette française",
-     "lien": "https://www.lemonde.fr/economie/article/2026/10/13/la-securite-sociale-particulierement-exposee-aux-tensions-sur-la-dette-francaise_6793047_3234.html",
-     "resume": "La « banque » de la Sécurité sociale se finance principalement à Londres, et exclusivement à court terme. En cas de crise obligataire, elle pourrait être la première affectée.",
-     "date": "2026-10-13T05:30:01+02:00",
+     "titre": "Etats-Unis : les faux pas de Kimberly Guilfoyle et Katie Zacharia, deux femmes de pouvoir dans le monde de Trump",
+     "lien": "https://www.lemonde.fr/international/article/2026/10/14/etats-unis-kimberly-guilfoyle-et-katie-zacharia-deux-femmes-de-pouvoir-a-l-epreuve-de-la-presidence-trump_6793281_3210.html",
+     "resume": "La première a dû démissionner de son poste d’ambassadrice des Etats-Unis en Grèce, mardi 13 octobre, après des soupçons de corruption. Une décision annoncée par la seconde, qui faisait ses débuts laborieux en tant que porte-parole de la Maison Blanche.",
+     "date": "2026-10-14T04:45:08+02:00",
      "source": "",
-     "image": "https://img.lemde.fr/2026/10/12/100/0/5616/2808/644/322/60/0/507ce6f_upload-1-eruw03ltmrus-sipa01300623-000004.jpg"
+     "image": "https://img.lemde.fr/2026/10/13/462/0/5543/2771/644/322/60/0/3c71d81_ftp-1-bcevso09rpua-31fb139d49ef4eff98d94375cde23d40-0-b76e626c0962414396ecf6cb41de8921.jpg"
     },
     {
-     "titre": "Les émissions de gaz à effet de serre en France diminuent du fait de l’envolée des prix des carburants",
-     "lien": "https://www.lemonde.fr/planete/article/2026/10/13/les-emissions-de-gaz-a-effet-de-serre-en-france-diminuent-du-fait-de-l-envolee-des-prix-des-carburants_6793062_3244.html",
-     "resume": "Selon l’organisme chargé du suivi des émissions, les rejets carbonés ont diminué de 4,1 % au premier semestre et pourraient baisser de 2,8 % sur l’ensemble de l’année.",
-     "date": "2026-10-13T06:50:07+02:00",
+     "titre": "Jean-Marc Jancovici : « Tant qu’il n’y a pas dans la population une compréhension partagée du climat, le politique ne bougera pas »",
+     "lien": "https://www.lemonde.fr/politique/article/2026/10/14/jean-marc-jancovici-tant-qu-il-n-y-a-pas-dans-la-population-une-comprehension-partagee-du-climat-le-politique-ne-bougera-pas_6793395_823448.html",
+     "resume": "L’ingénieur spécialiste de l’énergie, fondateur du groupe de réflexion The Shift Project, expose les lourds enjeux climatiques qui pèsent sur les prochains gouvernements, à six mois de l’élection présidentielle de 2027.",
+     "date": "2026-10-14T06:00:25+02:00",
      "source": "",
-     "image": "https://img.lemde.fr/2026/09/22/1142/0/2500/1250/644/322/60/0/ec9d4ca_upload-1-0pui3wuaojy7-lewisjoly-lemonde-22-09-26-002.JPG"
+     "image": "https://img.lemde.fr/2026/10/13/790/0/3854/1927/644/322/60/0/7d86fcd_upload-1-qatcspfwgtfi-kzihnioglu-pol-jancovici-12102026-02.JPG"
     },
     {
-     "titre": "Un bureau de la FIFA dans la Trump Tower pour 4 millions de dollars de loyer, symbole des liens forts entre Infantino et Trump",
-     "lien": "https://www.lemonde.fr/sport/article/2026/10/13/un-bureau-de-la-fifa-dans-la-trump-tower-pour-4-millions-de-dollars-de-loyer-symbole-des-liens-forts-entre-infantino-et-trump_6793057_3242.html",
-     "resume": "Selon des documents dont « Le Monde » a pris connaissance, la Fédération internationale de football a consenti, en 2025, à verser à la société Trump Tower Commercial LLC un loyer total de près de 4 millions de dollars sur plus de sept ans, pour le bureau «…",
-     "date": "2026-10-13T06:00:08+02:00",
+     "titre": "Déforestation : des progrès fragiles en Amazonie, mais une aggravation dans le bassin du Congo",
+     "lien": "https://www.lemonde.fr/planete/article/2026/10/14/deforestation-des-progres-fragiles-en-amazonie-mais-une-aggravation-dans-le-bassin-du-congo_6793314_3244.html",
+     "resume": "Selon un rapport annuel de suivi de la déforestation, le rythme de perte de forêts a ralenti en 2025 dans le monde, mais les avancées se concentrent dans quelques pays seulement.",
+     "date": "2026-10-14T05:00:14+02:00",
      "source": "",
-     "image": "https://img.lemde.fr/2026/10/12/28/0/2100/1050/644/322/60/0/253e11c_upload-1-3fohbtcjyasq-fifa-trump-tower-1.jpg"
+     "image": "https://img.lemde.fr/2026/10/13/295/0/3543/1771/644/322/60/0/3561c54_upload-1-xazuljwk9daj-000-83ur9vl.jpg"
     },
     {
-     "titre": "A quel point ChatGPT a-t-il progressé depuis son lancement ?",
-     "lien": "https://www.lemonde.fr/pixels/article/2026/10/13/a-quel-point-chatgpt-a-t-il-progresse-depuis-son-lancement_6793064_4408996.html",
-     "resume": "Compréhension, raisonnement, créativité… Les chatbots IA ont franchi en bientôt quatre ans plusieurs paliers importants. Les tests en la matière montrent qu’ils restent toutefois gaffeurs, et que leur « tête » demeure plus pleine que bien faite.",
-     "date": "2026-10-13T07:00:11+02:00",
+     "titre": "Le patron de Nvidia, Jensen Huang, s’assume en « optimiste » sur les risques de l’IA, la souveraineté ou l’emploi",
+     "lien": "https://www.lemonde.fr/economie/article/2026/10/14/le-patron-de-nvidia-jensen-huang-s-assume-en-optimiste-sur-les-risques-de-l-ia-la-souverainete-ou-l-emploi_6793390_3234.html",
+     "resume": "Le président-directeur général du leader mondial des puces pour l’intelligence artificielle, qui était à Paris mardi, a annoncé plusieurs investissements en France, notamment dans Doctolib.",
+     "date": "2026-10-14T05:30:15+02:00",
      "source": "",
-     "image": "https://img.lemde.fr/2026/10/08/1041/0/12500/6250/644/322/60/0/8bcabde_upload-1-chxqk0dt6hrs-dcomai-ai-benchmarks-pixels.jpeg"
+     "image": "https://img.lemde.fr/2026/10/13/214/0/7488/3744/644/322/60/0/4261fa0_ftp-1-rurnhhizqack-5343380-01-06.jpg"
     }
    ],
    "flux_utilise": "https://www.lemonde.fr/rss/une.xml"
@@ -129,58 +129,58 @@
    "nom": "La Croix",
    "couleur": "#c8102e",
    "une": {
-    "fichier": "unes/croix.jpg",
-    "date": "2026-10-13",
-    "source": "https://img.kiosko.net/2026/10/13/fr/lacroix.750.jpg"
+    "fichier": "unes/croix.webp",
+    "date": "2026-10-14",
+    "source": "https://www.frontpages.com/t/2026/10/14/la-croix-061925qui@2x.webp"
    },
    "articles": [
     {
-     "titre": "DIRECT. Manifestations du 13 octobre : 200 lycées bloqués, suivez la journée de mobilisation",
-     "lien": "https://www.la-croix.com/societe/en-direct-manifestation-mardi-13-octobre-blocus-lycees-mobilisation-lyceen-aujourdhui-20261013",
-     "resume": "Environ 200 lycées sont bloqués ce matin à travers toute la France pour « l’acte V » de la mobilisation des lycéens, selon le ministère. Les lycées dénoncent le manque de moyens alloués à l’éducation. Suivez la situation de ce mardi 13 octobre 2026.",
-     "date": "2026-10-13T08:13:16+02:00",
+     "titre": "Santé du pape : qu’est-ce que l’adénocarcinome pulmonaire, le cancer dont souffre Léon XIV ?",
+     "lien": "https://www.la-croix.com/religion/sante-du-pape-qu-est-ce-que-ladenocarcinome-pulmonaire-le-cancer-diagnostique-a-leon-xiv-20261014",
+     "resume": "Opéré mardi 13 octobre d’un nodule cancéreux au poumon, Léon XIV souffre d’un adénocarcinome pulmonaire. Ce cancer, le plus fréquent de sa catégorie, offre des pronostics favorables lorsqu’il est pris en charge tôt. Explications.",
+     "date": "2026-10-14T06:50:05+02:00",
      "source": "",
-     "image": "https://i.la-croix.com/x/2026/10/13/2559863-la-mobilisation-lyceenne-se-poursuit-ce-mardi-13-o.jpg"
+     "image": "https://i.la-croix.com/x/2026/10/14/2561408-leon-xiv-etait-entre-a-l-hopital-gemelli-de-rome-a.jpg"
     },
     {
-     "titre": "Grippe, Covid : tout savoir sur la campagne de vaccination qui commence ce mardi",
-     "lien": "https://www.la-croix.com/sante/grippe-covid-tout-savoir-sur-la-campagne-de-vaccination-qui-commence-ce-mardi-20261013",
-     "resume": "La campagne annuelle de vaccination contre la grippe saisonnière et le Covid-19 débute mardi 13 octobre en France avec l’enjeu d’améliorer le niveau de protection, après une épidémie de grippe encore sévère l’hiver dernier. Calendrier, public concerné,…",
-     "date": "2026-10-13T08:07:24+02:00",
+     "titre": "Santé du pape : l’opération de Léon XIV a confirmé un cancer du poumon",
+     "lien": "https://www.la-croix.com/religion/sante-du-pape-leon-xiv-opere-avec-succes-d-un-nodule-au-poumon-20261013",
+     "resume": "Le pape, 71 ans, a subi mardi 13 octobre à la polyclinique Gemelli de Rome l’ablation du lobe inférieur de son poumon droit. L’analyse menée pendant l’opération a confirmé un adénocarcinome pulmonaire, ont annoncé ses médecins. L’intervention a réussi, sans…",
+     "date": "2026-10-14T06:44:51+02:00",
      "source": "",
-     "image": "https://i.la-croix.com/x/2026/10/12/2559699-cette-saison-des-millions-de-francais-devraient-re.jpg"
+     "image": "https://i.la-croix.com/x/2026/10/13/2561170-leon-xiv-etait-entre-a-pied-a-l-hopital-gemelli-de.jpg"
     },
     {
-     "titre": "« Moi, Lucas, élève de terminale et moi, Cécile, professeure, écrivons d’une même voix »",
-     "lien": "https://www.la-croix.com/a-vif/moi-lucas-eleve-de-terminale-et-moi-cecile-professeure-ecrivons-d-une-meme-voix-20261013",
-     "resume": "Face aux discours qui divisent, un lycéen pompier volontaire et une professeure de lettres s’associent pour défendre une vision commune : celle d’une démocratie qui construit son avenir avec les jeunes, et non à leur place.",
-     "date": "2026-10-13T07:52:43+02:00",
+     "titre": "« L’Église à tâtons » de Samuel Dolbeau : une plongée inédite au cœur de l’Emmanuel",
+     "lien": "https://www.la-croix.com/religion/l-eglise-a-tatons-de-samuel-dolbeau-une-plongee-inedite-au-cour-de-lemmanuel-20261013",
+     "resume": "Avec L’Église à tâtons, Samuel Dolbeau livre la première grande étude historique et sociologique sur la communauté de l’Emmanuel. Un essai fouillé et rigoureux, qui éclaire de manière inédite les mutations du catholicisme contemporain.",
+     "date": "2026-10-14T06:30:05+02:00",
      "source": "",
-     "image": "https://i.la-croix.com/x/2026/10/12/2559913-un-manifestant-brandit-une-pancarte-lors-de-la-tro.jpg"
+     "image": "https://i.la-croix.com/x/2026/10/13/2559923-photo-d-illustration-en-aout-a-paray-le-monial-ven.jpg"
     },
     {
-     "titre": "RD-Congo : l’ex-président Joseph Kabila annonce s’allier avec le M23",
-     "lien": "https://www.la-croix.com/international/rd-congo-l-ex-president-joseph-kabila-annonce-sallier-avec-le-m23-20261013",
-     "resume": "L’est de la RD-Congo bascule dans une nouvelle dimension politique : lundi 12 octobre, depuis Goma, Joseph Kabila, ex-président condamné à mort pour trahison, a pris la tête du d’un front rebelle inédit qui comprend le M23.",
-     "date": "2026-10-13T07:40:43+02:00",
+     "titre": "Andreï Zviaguintsev : « Faire un film sur la Russie aujourd’hui exige de parler de la guerre »",
+     "lien": "https://www.la-croix.com/culture/andrei-zviaguintsev-faire-un-film-sur-la-russie-aujourd-hui-exige-de-parler-de-la-guerre-20261013",
+     "resume": "Dans Minotaure, en salles mercredi 14 octobre 2026, puissant drame conjugal situé en Russie au début de l’invasion de l’Ukraine, le cinéaste en exil en France Andreï Zviaguintsev livre une critique du Kremlin et de l’instrumentalisation de la religion,…",
+     "date": "2026-10-14T06:15:01+02:00",
      "source": "",
-     "image": "https://i.la-croix.com/x/2026/10/13/2560256-l-ex-president-joseph-kabila-au-centre-a-annonce-l.jpg"
+     "image": "https://i.la-croix.com/x/2026/10/13/2560831-peu-a-peu-le-monde-de-gleb-dmitri-mazourov-s-effon.jpg"
     },
     {
-     "titre": "France : les émissions de gaz à effet de serre en baisse en 2026, mais pas assez",
-     "lien": "https://www.la-croix.com/planete/france-les-emissions-de-gaz-a-effet-de-serre-en-baisse-en-2026-mais-pas-assez-20261013",
-     "resume": "Le Citepa estime mardi 13 octobre que les émissions françaises de gaz à effet de serre devraient reculer de 2,8 % en 2026, portées notamment par la hausse des prix du gazole. Un rythme encore insuffisant pour tenir les objectifs climatiques fixés à 2030.",
-     "date": "2026-10-13T07:20:25+02:00",
+     "titre": "Cyberattaque sur les frigos : « Nous nous attendons à des attaques plus massives »",
+     "lien": "https://www.la-croix.com/politique/cyberattaque-sur-les-frigos-nous-nous-attendons-a-des-attaques-plus-massives-20261013",
+     "resume": "Il faudra du temps pour identifier les auteurs de la cyberattaque sur les installations frigorifiques de centaines de supermarchés lundi 12 octobre. Pour une source sécuritaire, la France doit se préparer à des opérations de sabotage bien plus massives…",
+     "date": "2026-10-14T06:05:05+02:00",
      "source": "",
-     "image": "https://i.la-croix.com/x/2026/10/13/2560253-le-citepa-estime-mardi-13-octobre-2026-que-les-emi.jpg"
+     "image": "https://i.la-croix.com/x/2026/10/13/2561086-aucun-element-a-ce-jour-ne-permet-d-identifier-les.jpg"
     },
     {
-     "titre": "Carburant : le gouvernement assure que les prix du gazole baisseront dès le 1er novembre",
-     "lien": "https://www.la-croix.com/politique/carburant-le-gouvernement-assure-que-les-prix-du-gazole-baisseront-des-le-1er-novembre-20261013",
-     "resume": "Le premier ministre Sébastien Lecornu a promis lundi 12 octobre une baisse du prix du gazole à la pompe dès le 1er novembre. TotalEnergies, E.Leclerc et les distributeurs se sont engagés à répercuter la mesure, mais des questions demeurent sur son application.",
-     "date": "2026-10-13T07:06:32+02:00",
+     "titre": "Trouver le vrai bonheur. Commentaire de l’Évangile du mercredi 14 octobre 2026",
+     "lien": "https://www.la-croix.com/religion/trouver-le-vrai-bonheur-commentaire-de-l-evangile-du-mercredi-14-octobre-2026-20261012",
+     "resume": "Mercredi de la 28e semaine du temps ordinaire (Lc 11,42-46).",
+     "date": "2026-10-14T06:03:00+02:00",
      "source": "",
-     "image": "https://i.la-croix.com/x/2026/10/13/2560251-sebastien-lecornu-a-promis-lundi-12-octobre-2026-u.jpg"
+     "image": "https://i.la-croix.com/x/2026/10/12/2559645-photo-of-happy-girls-with-handsome-lads-in-front-s.jpeg"
     }
    ],
    "flux_utilise": "https://www.la-croix.com/feeds/rss/site.xml"
@@ -190,58 +190,58 @@
    "nom": "L'Équipe",
    "couleur": "#e2001a",
    "une": {
-    "fichier": "unes/equipe.jpg",
-    "date": "2026-10-13",
-    "source": "https://img.kiosko.net/2026/10/13/fr/l_equip.750.jpg"
+    "fichier": "unes/equipe.webp",
+    "date": "2026-10-14",
+    "source": "https://www.frontpages.com/t/2026/10/14/l-equipe-011334tax@2x.webp"
    },
    "articles": [
     {
-     "titre": "Pourquoi le PSG n'a pas bougé pour Bouaddi",
-     "lien": "https://www.lequipe.fr/Football/Article/Parti-a-manchester-city-pour-une-somme-record-cet-ete-ayyoub-bouaddi-si-proche-et-finalement-si-loin-du-paris-saint-germain/1725213#at_medium=RSS_feeds",
+     "titre": "Relevez le défi sport du jour",
+     "lien": "https://www.lequipe.fr/jeux#at_medium=RSS_feeds",
      "resume": "",
-     "date": "2026-10-13T08:18:00+02:00",
+     "date": "2026-10-14T06:48:00+02:00",
      "source": "",
      "image": "https://medias.lequipe.fr/img-photo-png/-/1500000000833469/0-828-552-75/0cb67.png"
     },
     {
-     "titre": "À quelle heure et sur quelle chaîne voir Arsenal-Lille en Ligue des champions ?",
-     "lien": "https://www.lequipe.fr/Football/Actualites/A-quelle-heure-et-sur-quelle-chaine-voir-arsenal-lille-en-ligue-des-champions/1725191#at_medium=RSS_feeds",
-     "resume": "Après un premier match perdu face au Betis (2-3), le LOSC devra montrer un meilleur visage face à Arsenal, ce mardi à 21 heures. Retrouvez ici toutes les informations relatives à la rencontre.",
-     "date": "2026-10-13T08:10:00+02:00",
+     "titre": "Leïla Lacan à Fenerbahçe, Pauline Astier et Migna Touré à Prague : en Euroligue, des mastodontes à l'accent français",
+     "lien": "https://www.lequipe.fr/Basket/Actualites/Leila-lacan-a-fenerbahce-pauline-astier-et-migna-toure-a-prague-en-euroligue-des-mastodontes-a-l-accent-francais/1725554#at_medium=RSS_feeds",
+     "resume": "Un mois après leur médaille d'argent mondiale, cinq Bleues visent le sacre en Euroligue. Réparties entre les géants Fenerbahçe, Galatasaray et Prague, toutes viseront le titre européen. Les clubs français, eux, tenteront de surprendre.",
+     "date": "2026-10-14T06:33:00+02:00",
      "source": "",
-     "image": "https://medias.lequipe.fr/img-photo-jpg/olivier-giroud-va-retrouver-les-gunners-p-lahalle-l-equipe/1500000002611299/230:119,1809:1171-828-552-75/f0fd5.jpg"
+     "image": "https://medias.lequipe.fr/img-photo-jpg/leila-lacan-pauline-astier-et-migna-toure-de-gauche-a-droite-sous-le-maillot-bleu-a-berlin-le-mois-dernier-lors-du-mondial-a-reau-l-equipe/1500000002612155/0:0,1606:1071-828-552-75/65799.jpg"
     },
     {
-     "titre": "Akanji : «J’espère conserver mes titres»",
-     "lien": "https://www.lequipe.fr/Football/Video/Premier-league-manchester-city-manuel-akanji-sur-la-situation-de-manchester-city-j-espere-conserver-mes-titres/20243067#at_medium=RSS_feeds",
-     "resume": "",
-     "date": "2026-10-13T08:10:00+02:00",
+     "titre": "Face au Real Madrid de José Mourinho, l'AS Rome veut exorciser le souvenir de son ancien entraîneur, encore adulé par les supporters",
+     "lien": "https://www.lequipe.fr/Football/Actualites/Face-au-real-madrid-de-jose-mourinho-l-as-rome-veut-exorciser-le-souvenir-de-son-ancien-entraineur-encore-adule-par-les-supporters/1725556#at_medium=RSS_feeds",
+     "resume": "De nouveau compétitive en Italie, l'AS Rome veut savoir où elle en est en Europe ce mercredi soir (21 heures) face au Real Madrid, guidé par son ancien entraîneur José Mourinho, adulé dans la capitale italienne.",
+     "date": "2026-10-14T06:21:00+02:00",
+     "source": "",
+     "image": "https://medias.lequipe.fr/img-photo-jpg/jose-mourinho-avec-roger-ibanez-le-22-aout-2021-lors-de-la-victoire-de-l-as-rome-face-a-la-fiorentina-3-1-e-garnier-l-equipe/1500000002612158/0:0,2000:1333-828-552-75/81f13.jpg"
+    },
+    {
+     "titre": "Jeu au pied plus sûr, capacité à capter le ballon plutôt qu'à le dégager : les nets progrès de Gianluigi Donnarumma",
+     "lien": "https://www.lequipe.fr/Football/Actualites/Jeu-au-pied-plus-sur-capacite-a-capter-le-ballon-plutot-qu-a-le-degager-les-nets-progres-de-gianluigi-donnarumma/1725535#at_medium=RSS_feeds",
+     "resume": "Les Parisiens retrouveront mercredi soir (21 heures), pour la 2e journée de Ligue des champions, leur ancien gardien Gianluigi Donnarumma qui, cette saison avec Manchester City, se montre plus entreprenant sur le terrain et démontre un caractère plus affirmé.",
+     "date": "2026-10-14T06:07:00+02:00",
      "source": "",
      "image": "https://medias.lequipe.fr/img-photo-png/-/1500000000833469/0-828-552-75/0cb67.png"
     },
     {
-     "titre": "Plus qu'un jeu, un laboratoire d'innovation",
-     "lien": "https://www.lequipe.fr/Tous-sports/Actualites/Plus-qu-un-jeu-un-laboratoire-d-innovation/1723483#at_medium=RSS_feeds",
-     "resume": "",
-     "date": "2026-10-13T08:00:00+02:00",
+     "titre": "De la conduite accompagnée aux circuits de Formule 4 à 15 ans : Lilian Soares, le jeune pilote sur les traces de Pierre Gasly et Isack Hadjar",
+     "lien": "https://www.lequipe.fr/Sport-auto/Actualites/De-la-conduite-accompagnee-aux-circuits-de-formule-4-a-15-ans-lilian-soares-le-jeune-pilote-sur-les-traces-de-pierre-gasly-et-isack-hadjar/1725629#at_medium=RSS_feeds",
+     "resume": "Quatrième du Championnat de France de Formule 4, une compétition ouverte aux étrangers, Lilian Soares, le jeune pilote de 15 ans de la FFSA Academy va redoubler d'efforts pour imiter ses célèbres devanciers Pierre Gasly et Isack Hadjar.",
+     "date": "2026-10-14T05:56:00+02:00",
      "source": "",
-     "image": "https://medias.lequipe.fr/img-photo-png/-/1500000000833469/0-828-552-75/0cb67.png"
+     "image": "https://medias.lequipe.fr/img-photo-jpg/lilian-soares-le-24-septembre-au-mans-dans-les-locaux-de-la-ffsa-academy-a-mounic-l-equipe/1500000002612390/0:0,2000:1333-828-552-75/337b5.jpg"
     },
     {
-     "titre": "À quelle heure et sur quelle chaîne suivre les Championnats d'Europe de tennis de table ?",
-     "lien": "https://www.lequipe.fr/Tennis-de-table/Actualites/A-quelle-heure-et-sur-quelle-chaine-suivre-les-championnats-d-europe-de-tennis-de-table/1725221#at_medium=RSS_feeds",
-     "resume": "Les Championnats d'Europe de Tennis de table 2026 ont lieu du 11 au 18 octobre à Ljubljana, en Slovénie. Retrouvez ici toutes les informations pour suivre la compétition.",
-     "date": "2026-10-13T08:00:00+02:00",
+     "titre": "« Le pire, c'est quand ma mère me dit : l'important c'est de participer » : comment parler à son enfant après une défaite ?",
+     "lien": "https://www.lequipe.fr/Respire/Va-savoir/Actualites/Le-pire-c-est-quand-ma-mere-me-dit-l-important-c-est-de-participer-comment-parler-a-son-enfant-apres-une-defaite/1722603#at_medium=RSS_feeds",
+     "resume": "Il est peut-être l'heure, ce mercredi, d'aller récupérer votre enfant au tennis ou au basket... après une défaite. Un moment qu'il faut savoir négocier avec diplomatie.",
+     "date": "2026-10-14T05:32:00+02:00",
      "source": "",
-     "image": "https://medias.lequipe.fr/img-photo-jpg/titres-lors-des-derniers-championnats-d-europe-les-freres-lebrun-defendront-leur-titre-a-ljubljana-s-boue-l-equipe/1500000002611241/0:0,2000:1333-828-552-75/0d371.jpg"
-    },
-    {
-     "titre": "Les Buffalo Bills battent les Los Angeles Rams au bout du suspense en NFL",
-     "lien": "https://www.lequipe.fr/Football-americain/Actualites/Les-buffalo-bills-battent-les-los-angeles-rams-au-bout-du-suspense-en-nfl/1725330#at_medium=RSS_feeds",
-     "resume": "Les rebondissements ont été nombreux entre les Los Angeles Rams et les Buffalo Bills, lundi en conclusion de la 5e journée de NFL. En Californie, les Bills se sont finalement imposés (37-34 a.p.).",
-     "date": "2026-10-13T07:57:31+02:00",
-     "source": "",
-     "image": "https://medias.lequipe.fr/img-photo-png/-/1500000000833469/0-828-552-75/0cb67.png"
+     "image": "https://medias.lequipe.fr/img-photo-jpg/quand-le-retour-a-la-maison-apres-le-match-va-sembler-tres-tres-long-aux-parents-comme-a-l-enfant-f-mons-l-equipe/1500000002602096/0:0,1500:1000-828-552-75/56220.jpg"
     }
    ],
    "flux_utilise": "https://dwh.lequipe.fr/api/edito/rss?path=/"
@@ -254,64 +254,64 @@
    "sous_titre": "Les informations les plus importantes, partout dans le monde",
    "items": [
     {
-     "titre": "Exécution en direct aux Etats-Unis : le speaker républicain Mike Johnson émet à son tour des réserves",
-     "lien": "https://www.lemonde.fr/international/article/2026/10/13/execution-en-direct-aux-etats-unis-le-speaker-republicain-mike-johnson-emet-a-son-tour-des-reserves_6792942_3210.html",
-     "resume": "Le président de la Chambre des représentants craint que la diffusion en direct de l’exécution par l’armée américaine de l’auteur musulman d’une tuerie sur une base militaire du Texas en 2009 serve « d’outil de recrutement pour de futurs terroristes ».",
-     "date": "2026-10-13T03:18:09+02:00",
+     "titre": "Ilhan Omar, l’élue démocrate d’origine somalienne attaquée par l’administration Trump",
+     "lien": "https://www.lemonde.fr/international/article/2026/10/14/etats-unis-ilhan-omar-l-elue-democrate-d-origine-somalienne-dans-le-collimateur-de-l-administration-trump_6793318_3210.html",
+     "resume": "A trois semaines des élections de mi-mandat, la représentante du Minnesota au Congrès a fait l’objet, lundi 12 octobre, d’une perquisition de sa maison à Washington dans le cadre d’une enquête visant à la déchoir de sa nationalité et à l’expulser du pays.",
+     "date": "2026-10-14T05:00:20+02:00",
      "source": "lemonde.fr",
-     "image": "https://img.lemde.fr/2026/10/07/148/0/6000/3000/644/322/60/0/8546f00_ftp-1-zqdfrjn9uiz8-5285380-01-06.jpg",
-     "reprises": 4,
-     "score": 10.07
+     "image": "https://img.lemde.fr/2026/10/12/422/0/5060/2530/644/322/60/0/43455a5_ftp-1-mqwo7doay5qd-0550375036ce497f95192b26bdf99832-1-99bbc0e3954c4afa8d27fc3d2ac2c071.jpg",
+     "reprises": 9,
+     "score": 21.99
     },
     {
-     "titre": "A Ceuta, les migrants ont opportunément disparu du paysage pour la visite du roi Felipe VI et de la reine Letizia",
-     "lien": "https://www.lemonde.fr/international/article/2026/10/13/a-ceuta-les-migrants-ont-opportunement-disparu-du-paysage-pour-la-visite-du-roi-felipe-vi-et-de-la-reine-letizia_6793045_3210.html",
-     "resume": "Les souverains effectuent une visite inédite, mardi 13 octobre, dans la ville autonome espagnole d’Afrique du nord où les immigrés ayant déferlé fin juillet du Maroc sont encore des milliers à dormir à la belle étoile ou dans des centres d’accueil d’urgence.",
-     "date": "2026-10-13T05:15:00+02:00",
+     "titre": "Le nodule retiré au poumon du Léon XIV était cancéreux, annonce le Vatican",
+     "lien": "https://www.lemonde.fr/international/article/2026/10/13/operation-du-pape-le-nodule-retire-au-poumon-etait-cancereux-annonce-le-vatican_6793171_3211.html",
+     "resume": "Le pape avait annoncé dimanche qu’il allait se faire opérer d’un nodule « circonscrit au poumon » et ayant été détecté « à un stade très précoce » − une première alerte de santé après dix-sept mois d’un pontificat au rythme intense.",
+     "date": "2026-10-13T22:28:18+02:00",
      "source": "lemonde.fr",
-     "image": "https://img.lemde.fr/2026/10/12/500/0/6000/3000/644/322/60/0/65b7c0f_ftp-1-tqvkasg07yzr-5332025-01-06.jpg",
+     "image": "https://img.lemde.fr/2026/10/13/754/0/7087/3543/644/322/60/0/ab7dbc7_ftp-1-xo1dg7u3od0t-5343378-01-06.jpg",
+     "reprises": 8,
+     "score": 17.57
+    },
+    {
+     "titre": "EN DIRECT, guerre en Ukraine : des infrastructures énergétiques de Kiev visées par une attaque russe « massive », selon le maire",
+     "lien": "https://www.lemonde.fr/international/live/2026/10/14/en-direct-guerre-en-ukraine-des-infrastructures-energetiques-de-kiev-visees-par-une-attaque-russe-massive-selon-le-maire_6791198_3210.html",
+     "resume": "Selon Vitali Klitschko, l’offensive menée « au moyen de missiles balistiques » a provoqué des coupures d’électricité dans la capitale ukrainienne. Le maire a annoncé qu’une personne avait été tuée dans le raïon de Holossiïvsky, selon un bilan préliminaire.",
+     "date": "2026-10-14T06:44:44+02:00",
+     "source": "lemonde.fr",
+     "image": "https://img.lemde.fr/2026/10/14/674/0/8090/4045/644/322/60/0/2d8bc1c_ftp-1-crpw0nvgeauj-5347154-01-06.jpg",
+     "reprises": 7,
+     "score": 16.85
+    },
+    {
+     "titre": "Meurtre de Tupac Shakur : Duane « Keffe D » Davis condamné à quarante ans de prison minimum",
+     "lien": "https://www.lemonde.fr/international/article/2026/10/14/meurtre-de-tupac-shakur-duane-keffe-d-davis-condamne-a-quarante-ans-de-prison-minimum_6793214_3210.html",
+     "resume": "Après sa condamnation en août, l’ancien membre de gang a été fixé sur sa peine, mardi, trente ans après la mort de la légende du rap. La défense de Duane Davis a déjà annoncé vouloir faire appel.",
+     "date": "2026-10-14T01:14:33+02:00",
+     "source": "lemonde.fr",
+     "image": "https://img.lemde.fr/2026/10/13/0/0/6932/3466/644/322/60/0/b3ac11e_ftp-1-kqv3lfn4zh1d-2026-10-13t192410z-1296492245-rc2i2oabak5s-rtrmadp-3-people-tupac-murder-court-sentencing.JPG",
+     "reprises": 7,
+     "score": 13.05
+    },
+    {
+     "titre": "En RDC, l’ancien président Joseph Kabila prend la tête des rebelles de l’Est",
+     "lien": "https://www.lemonde.fr/afrique/article/2026/10/13/en-rdc-l-ancien-president-joseph-kabila-prend-la-tete-des-rebelles-de-l-est_6793174_3212.html",
+     "resume": "Le nouveau Front pour la refondation de la nation, dirigé par l’ex-chef de l’Etat, dénonce la « tyrannie » de l’actuel président congolais, Félix Tshisekedi.",
+     "date": "2026-10-13T21:16:29+02:00",
+     "source": "lemonde.fr",
+     "image": "https://img.lemde.fr/2026/10/12/409/0/3791/1895/644/322/60/0/ea47bc5_ftp-1-otpab4jiupzt-e22f98c7fc0d4003835db5437c0b24fb-0-1f7cdd3bd4a44fefb3409e79fe2d01ee.jpg",
      "reprises": 5,
-     "score": 9.85
+     "score": 11.69
     },
     {
-     "titre": "Aux Etats-Unis, le recours de Donald Trump au gazole russe, au détriment de l’Ukraine, provoque une vaste controverse",
-     "lien": "https://www.lemonde.fr/international/article/2026/10/13/aux-etats-unis-le-recours-de-donald-trump-au-gazole-russe-au-detriment-de-l-ukraine-provoque-une-vaste-controverse_6793051_3210.html",
-     "resume": "Le projet du président américain d’importer du diesel russe malgré les sanctions occidentales contre Moscou suscite la fureur de nombre d’élus à Washington, y compris des républicains. A trois semaines des midterms, le magnat multiplie les annonces pour…",
-     "date": "2026-10-13T05:31:32+02:00",
-     "source": "lemonde.fr",
-     "image": "https://img.lemde.fr/2026/10/12/424/0/5085/2542/644/322/60/0/c97cb47_ftp-1-jcj533pl9kks-5336650-01-06.jpg",
+     "titre": "En direct : un site administratif d'Aramco touché à Dhahran, en Arabie saoudite",
+     "lien": "https://www.france24.com/fr/moyen-orient/20261014-en-direct-moyen-orient-arabie-saoudite-yemen-houthis-iran-aramco",
+     "resume": "Un site administratif du géant pétrolier Saudi Aramco à Dharhan, dans la métropole de Damman, dans l'est de l'Arabie saoudite, a été touché par une attaque qui a provoqué un incendie limité sans faire de victime, a indiqué mercredi le ministère de l'Énergie.…",
+     "date": "2026-10-14T05:05:41+02:00",
+     "source": "© REUTERS/Maxim Shemetov/File Photo",
+     "image": "https://s.france24.com/media/display/571636f0-61b4-11ea-a4c0-005056bfd1d9/w:1024/p:16x9/SAUDI-OIL-OUTPUT.jpg",
      "reprises": 5,
-     "score": 9.79
-    },
-    {
-     "titre": "Joseph Kabila, ex-président de la République démocratique du Congo, prend la tête d’un mouvement politico-militaire incluant les rebelles du M23",
-     "lien": "https://www.lemonde.fr/afrique/article/2026/10/12/joseph-kabila-ex-president-de-la-republique-democratique-du-congo-prend-la-tete-d-un-mouvement-politico-militaire-incluant-les-rebelles-du-m23_6792805_3212.html",
-     "resume": "Condamné à mort par contumace en 2025, l’ancien chef de l’Etat a été désigné à Goma, alors que l’opposition accuse l’actuel président, Félix Tshisekedi, de vouloir modifier la Constitution pour briguer un troisième mandat.",
-     "date": "2026-10-12T22:41:43+02:00",
-     "source": "lemonde.fr",
-     "image": "https://img.lemde.fr/2026/10/12/500/0/6048/3024/644/322/60/0/ecde6c7_upload-1-ghbwm1vybf4h-000-48ny9fv.jpg",
-     "reprises": 5,
-     "score": 9.35
-    },
-    {
-     "titre": "Frappes en Arabie saoudite : les houthistes du Yémen promettent une riposte « douloureuse » en cas d’intervention américaine",
-     "lien": "https://www.lemonde.fr/international/article/2026/10/13/frappes-en-arabie-saoudite-les-houthistes-du-yemen-promettent-une-riposte-douloureuse-en-cas-d-intervention-americaine_6792876_3210.html",
-     "resume": "« Si les Etats-Unis s’impliquent dans l’agression contre le Yémen, nous ne tergiverserons pas », ont mis en garde les combattants pro-iraniens, alors que Riyad réclame le soutien de Washington, jusqu’à présent sans succès, face aux attaques houthistes.",
-     "date": "2026-10-13T01:19:40+02:00",
-     "source": "lemonde.fr",
-     "image": "https://img.lemde.fr/2026/10/12/159/0/5574/2787/644/322/60/0/811f8c3_ftp-1-xknhx8u0h2rl-b81e8619f4534103ba5b8c504d3791fb-0-1eb6a9461b0240f199866ab9332c5f1a.jpg",
-     "reprises": 3,
-     "score": 7.3
-    },
-    {
-     "titre": "A suivre avec Alban Mikoczy : le quart d'heure américain du lundi 12 octobre",
-     "lien": "https://www.franceinfo.fr/replay-magazine/franceinfo/a-suivre-avec-loic-de-la-mornais/a-suivre-avec-alban-mikoczy-le-quart-d-heure-americain-du-lundi-12-octobre_8235034.html#xtor=RSS-3-%5Bgeneral%5D",
-     "resume": "Dans le quart d'heure américain, Alban Mikoczy et ses invités reviennent sur les annonces de Donald Trump concernant la guerre en Ukraine et les attaques des Houthis contre l'Arabie saoudite, alors que le président américain est critiqué pour sa gestion des…",
-     "date": "2026-10-13T07:37:48+02:00",
-     "source": "franceinfo.fr",
-     "image": "https://www.franceinfo.fr/pictures/0U9rBgxD-GguyMs8cf54-AR9ItI/191x0:849x370/432x243/filters:format(jpg)/2026/10/13/6acdc263cdc96622533241.jpg",
-     "reprises": 2,
-     "score": 5.06
+     "score": 11.63
     }
    ],
    "a_traduire": []
@@ -322,106 +322,106 @@
    "sous_titre": "Modèles, entreprises, régulation, recherche",
    "items": [
     {
-     "titre": "Avec son modèle Muse Wonder, Meta cherche à “rattraper le temps perdu dans la course à l’IA”",
-     "lien": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxPSGNacDBzQ0tMM21scXpVRF9JRDkwcVpZNDBwb0Uzb2JYVkFhZnhYbm9rLVhkNFRDaVl1QkdHTHp1eXdCMU5rcGtPZTlHTEw3dWtRRkdsa0NwM0JoS2VCWnYwaDRmSXk1dGRIUkVLX3FnTzVfOEs1TmhzdXNKTEhmY1RXWlIwMGVxc0QyeWpUTDVGVWF2S2RKVWw1WW9yekVWTXB1dVIyUjRhR3dtbWJ0eE1zNmkzNllXdG1aOUFrbzBxSkpmZ0hJTk9GUFVxOEg2VDVZTlJvUHRMQS1XblBjTmNoNXFhdGw1ZFdBSk9mU0VSRE05YmRKVU9NOWM?oc=5",
+     "titre": "Micro caché chez OpenAI : un ingénieur saoudien inculpé, Washington invoque la sécurité nationale",
+     "lien": "https://news.google.com/rss/articles/CBMiggJBVV95cUxPTjcyYXJ0YWg1Wlc5WFJKejJkaHJ4TjRka2J5dE9qWkNxVzUwemgwOGxtbGJicWNHcDNZNk9pX3BJNXlaelVwek0tam9ZOWxnY29zWmdjeWlCRThCNmNrNzVUUWx3U01ZUEdULWhsdG16VlBYUDNpVjUxWExPTEU4VVVxTVQyUFZXbEtxdXYxMVh2VXBDTndvbFhhNkwydE1kTHhURjg1S3l3YUxvcHlia21Wc3pNZ2VjNk4yRENhRFFuMENJenlOc25OU19OeEYyTG96bUdCTDVQSE9xYVFQZFYxMXZCYUVNakJfWDA0ejFRQUFJMF9JUEtiMXRKUU54U0E?oc=5",
      "resume": "",
-     "date": "2026-10-13T05:55:12+02:00",
-     "source": "Courrier international",
+     "date": "2026-10-14T02:43:47+02:00",
+     "source": "France 24",
      "image": null,
-     "reprises": 13,
-     "score": 43.09
+     "reprises": 14,
+     "score": 39.9
     },
     {
-     "titre": "Pour la première fois, l’intelligence artificielle est le tout premier risque émergent selon les experts",
-     "lien": "https://news.google.com/rss/articles/CBMikAJBVV95cUxObUFOUHpQOElEZXQxc0Rlb1VpM0huZHFnQkZ4cFNRQmpmcmstYzNYbmF4aEc0eENrUEZzbHhXSUlzN0d6STE5eXdNbnNmdFhMZEZjV2paa0tPRXZ4cmxDSTJDUFQySWxqcFg4aHNza2VQM1JKdjhHOGJSbDB2aVpXTy0xcDhoRkY4MjF1akZVcXlwZHhReEdOQ0gyMjllNnJUUzB3SG9zRWZNbzJ4VnU2UGdVam01Qzhqc01SdV93ZUNObHRZSmlOYXFzRXFrTlp1NENheHNmVmFjUGNSRlVxdlZndVNlalgxejExWWpFSmViOTUtdnU5cWhJbDZubFc5ZnhwUXF1czZWWTM3ZWhEcw?oc=5",
+     "titre": "Top 5 IA du 13/10/2026",
+     "lien": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPbU9ZQVVFaURmZWY0MDZEczNxUTRxNzM3LV9pUUlGUHNpUFNhTUp5al9RTzRsVGJDeWZIMGFWWHVfWUYwdWh1cHVaNktHWG5KNmhQazAzbWVOWkZDQUhHVWZGXzJvbmpGMS1uR1NJeW9nQWdoaWc0eUpKYkJkZURDOTUzSjBWZ2pkaFh6eF9oeHRKLWVGT0llQ0k2am5wQlhpMHfSAacBQVVfeXFMTTh6QmprSmNvSlIweENzbVhYamIxaWdvSHBtS0ZiaWpYWUtlajQ0bXJfQXZXUWsxZTJpYnJXUjFmLXlsT2FBRTRhUU5QTUFwbzdYSWtkckFET1l2MDlJSGp1c2NCSUxhZzFOYUVQTHF6VHdTcXFSaEFiRk1rLTdZaFRMaXpxU080UGFSdkljZGJDZFNwblFRY29COHZvNW9pX1Vjd1JTdlk?oc=5",
      "resume": "",
-     "date": "2026-10-13T05:30:00+02:00",
-     "source": "L'Argus de l'assurance",
-     "image": null,
-     "reprises": 5,
-     "score": 17.8
-    },
-    {
-     "titre": "Claude : après une nouvelle dérive, Anthropic prive certaines IA d’accès Internet",
-     "lien": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOYVJSSXhzZUJBa0NNcHVudFl0UlFpRmwwTWhxUzZYZ3ZxU0YtTElzeGdmT3l1R2ZNQ2R0eldwdEJ4bVZ6bzVSVmxRSzQ0dm8ycVplMTR3N2xiZG5jVTBHSjl1YUFMYnlfendOSUQwYlVkZ2JLX3ZUbG1IZGIydkxSM3lzbGVsa1VXUE0wYnZaUjV6QWwzZUxHY2tHcEtSTk8tZFpXVkRBNnItQVplOHZOVWVvckE3dw?oc=5",
-     "resume": "",
-     "date": "2026-10-13T06:30:09+02:00",
-     "source": "01net.com",
-     "image": null,
-     "reprises": 3,
-     "score": 4.77
-    },
-    {
-     "titre": "Top 5 IA du 12/10/2026",
-     "lien": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPTjhTZUpMX2pMMGNremZ6YnhmRlF6ei1ENGxPeUpKRXNWbVJXNVZEbm1acnp4ci14SzUxSEpjMl9Kek1OV1dDT0hiN2xFMUFiejJ4TkJENGhyaHM2WnpSR040dTVrX19JRzZRQ041QjRocy1hcS1PS0E3UTRIM3pIMUVPMXlNdkdGTlM1WVdpZE1HR21ELTRrSUZKTFpZNHZBallneFpvTdIBpwFBVV95cUxPTjhTZUpMX2pMMGNremZ6YnhmRlF6ei1ENGxPeUpKRXNWbVJXNVZEbm1acnp4ci14SzUxSEpjMl9Kek1OV1dDT0hiN2xFMUFiejJ4TkJENGhyaHM2WnpSR040dTVrX19JRzZRQ041QjRocy1hcS1PS0E3UTRIM3pIMUVPMXlNdkdGTlM1WVdpZE1HR21ELTRrSUZKTFpZNHZBallneFpvTQ?oc=5",
-     "resume": "",
-     "date": "2026-10-13T05:00:10+02:00",
+     "date": "2026-10-14T05:00:08+02:00",
      "source": "Boursorama",
      "image": null,
-     "reprises": 2,
-     "score": 4.71
+     "reprises": 4,
+     "score": 12.55
     },
     {
-     "titre": "IREN Stock Jumps 4% Following Landmark Cloud Computing Deal With Anthropic",
-     "lien": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBRenN6XzA1d1NvT01HNVFnZW83UTZXcjY2c3JLRFJYeTVWXzhiNy05VDlOYnFDcTczbUFOS244RjQ1Qmd6bEpIM1hRcENjSFdseU1zV2U2ZHBZTkdUNDlqYlB6a1F0a0lad3dhMXluNjQ?oc=5",
+     "titre": "Gemini 4 Argon : Google Contre OpenAI et Anthropic [2026]",
+     "lien": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQUFU5UDVocmN2VEFRR1RSeU9fMVhVR3ZqNDBzM0gzaXgwMDl1NlV3SUZYbmw0U1ROQUhCbGEtYjFwQzYzSGh1dWp3RHItcWhtM2VaS0hiR00zeEJLRXotZWo0UXN4TklYWE1INEJTdVE2Mi1weFNvLUNkRG9EMWlVYWpuQQ?oc=5",
+     "resume": "Google déploie dans le monde entier Gemini 4 Argon, son nouveau modèle d'IA haut de gamme, moins de deux semaines après l'avoir présenté le 30 septembre 2026.",
+     "date": "2026-10-13T22:42:38+02:00",
+     "source": "tech-insider.org",
+     "image": null,
+     "reprises": 4,
+     "score": 7.31
+    },
+    {
+     "titre": "Intelligence artificielle : la Chine met le turbo sur les centres de données",
+     "lien": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNZW40VGtnQThjSm1uM285UzFLVC1hYmFfcjBpZ1hjUm1idXFsNVdqQ0FsRnFCLUo4UVZVLS1fRE95RXlVekFlNDhEZGdXaHVLOFUxckxLWVpqVHRDTVE3UTZCbEF3c3k5UU1iMFZ5S09aUUI0Z2lsZm9feFd1b09QVTRELXE3U3htdjlFNjRWMks0RS1ZR29mekhsM2ZnYU1vYXRNamprbWdvX1UyT1dfYXhR?oc=5",
      "resume": "",
-     "date": "2026-10-13T01:15:00+02:00",
-     "source": "TIKR.com",
+     "date": "2026-10-13T14:15:00+02:00",
+     "source": "l'Opinion",
      "image": null,
      "reprises": 3,
-     "score": 4.21
+     "score": 6.72
+    },
+    {
+     "titre": "Nvidia investit dans les pépites françaises Doctolib, Entalpic, Genesis AI et Pigment, portant ses investissements en Europe à 10 milliards de dollars",
+     "lien": "https://news.google.com/rss/articles/CBMizgJBVV95cUxQcW1uNFNmRlJOWkc5aDZGUXV5YWhHaGVOeFNGZ1hyemxNV2JTOWJMcThKX0NUcW1xUHFiaDV3U1llYjhzdV84STEwdEdGeDZMQUtoSzJVX243cVk0Tzc2Qjh0UVdYYXpMN3pJZEhnYllxWVNLTndQM1MxTmY2dWJiVjYxcGtEV3JNcnN2SUc5X0JyRm55WVVWVi1xUjI2aFBXMXBfRlM2OWl2MDdobVZBM3dMNGY2NG1XdW9QdmZCSWU1NGt1ZVNyLUZXcURFek13N1BXUnlzdTM1b2RRelpHbktpbjZfaWRJeWk4a0xacDJJNkd1dTJvWmE5OHo1SnFYVmNLeVNHaGs5NjRhMVo5czVjQmE1Z0F4MWwyWl9ZbFREN2FNT21fazFJQWlWVmJGSjRvU3FwWUQ3ZkZHQVkwREVfLXRsdllmUzBYMHlR?oc=5",
+     "resume": "",
+     "date": "2026-10-14T06:30:00+02:00",
+     "source": "L'Usine Digitale",
+     "image": null,
+     "reprises": 4,
+     "score": 6.51
     }
    ],
    "a_traduire": [
     {
-     "titre": "Honeyjar offers AI tools to improve PR and comms at every company",
-     "lien": "https://techcrunch.com/2026/10/12/honeyjar-offers-ai-tools-to-improve-pr-and-comms-at-every-company/",
-     "resume": "Journalists, entrepreneurs, and even some public relations professionals will tell you that the PR process is broken. But could AI actually make things better?",
-     "date": "2026-10-12T17:45:00+02:00",
+     "titre": "Cerebras CEO says we’re nearing a future where everyone has a personal AI assistant at home",
+     "lien": "https://techcrunch.com/2026/10/13/cerebras-ceo-says-were-nearing-a-future-where-everyone-has-a-personal-ai-assistant-at-home/",
+     "resume": "Cerebras CEO Andrew Feldman predicts a future where personal AI assistants become as commonplace as household appliances, running partly on local devices and partly in the cloud.",
+     "date": "2026-10-14T01:05:34+02:00",
      "source": "techcrunch.com",
+     "image": null,
+     "reprises": 1,
+     "score": 1.5
+    },
+    {
+     "titre": "Shopify opens its catalog up to more AI agents",
+     "lien": "https://www.theverge.com/news/1010365/shopify-opens-its-catalog-up-to-more-ai-agents",
+     "resume": "More AI agents will soon be able to browse and purchase from Shopify listings, marking an expansion of the company's agentic commerce ambitions. Shopify announced Tuesday it will let shoppers configure their AI agents to purchase products on their behalf,…",
+     "date": "2026-10-13T21:42:42+02:00",
+     "source": "theverge.com",
+     "image": null,
+     "reprises": 1,
+     "score": 1.44
+    },
+    {
+     "titre": "Meta Unveils Powerful Muse Wonder AI Models To Directly Compete With OpenAI",
+     "lien": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQNGtMUUEzSkhpRmo3MkF4enZ6Y0Y1Nmd3RjdScHJ2TV85VEFXWVNVV2pTMzFnYmpHREI5MGhlWFNwRXM4RjNVSFhHTVA1N1VoMlphbGdYNHRyLWRINkMwaGJ2WF9QUmptYTg0RjN0UGRqNjFFbzJaTWFfNGtCUXBITVJCQQ?oc=5",
+     "resume": "",
+     "date": "2026-10-13T15:52:30+02:00",
+     "source": "TIKR.com",
      "image": null,
      "reprises": 1,
      "score": 1.35
     },
     {
-     "titre": "India's HCLTech signs a pact with Anthropic, to set up business unit",
-     "lien": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNWFpHRDFYN1Z4QTNUWm9McFJSWjdKSUtjb0hybnJEeU5qYms2b0gwVldKOFBnQTFhREtRaDZEdXhZZ2NNTF85NTV5VDk1WmVRX3pDQ1VETFhvZHpTNU9BcVZYX2hFX1NTM2ZkYnBVakJZUjRwaVAxMjlBdktpQzl5RGRlOVJ1NThnLVFtQXNVY2xhcWJQYmx4WndnUHNzUUJac21Oa3dZWnQ3SDFIRGVoZHg3R1pYbTJTUGZWX0hrVmZmQUZ0dXVFTmw4U3Z3QjVaWkE?oc=5",
-     "resume": "",
-     "date": "2026-10-12T13:04:24+02:00",
-     "source": "TradingView",
-     "image": null,
-     "reprises": 1,
-     "score": 1.27
-    },
-    {
-     "titre": "Microsoft president says UK is best placed to drive AI regulation",
-     "lien": "https://techcrunch.com/2026/10/12/microsoft-president-says-uk-is-best-placed-to-drive-ai-regulation/",
-     "resume": "Microsoft president Brad Smith calls for urgent AI regulation, saying milk and washing machines have more oversight than AI companies.",
-     "date": "2026-10-12T17:31:19+02:00",
+     "titre": "Flox Intelligence is building AI to keep wildlife away from trains, airports, and roads",
+     "lien": "https://techcrunch.com/2026/10/13/flox-intelligence-is-building-ai-to-keep-wildlife-away-from-trains-airports-and-roads/",
+     "resume": "Flox's edge devices can identify animals and use species-specific sounds to drive them away from critical infrastructure.",
+     "date": "2026-10-13T20:30:00+02:00",
      "source": "techcrunch.com",
      "image": null,
      "reprises": 1,
-     "score": 1.22
+     "score": 1.29
     },
     {
-     "titre": "Broadcom CEO says capital will be biggest constraint for AI development: report",
-     "lien": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxOYVRDdjBtN0tpakVvYmMzSzRIX0hVbmNwQUtqNnRGQkdESU84STM0b0FzbllJVDE1Ull3MEN4MWwyek1QUHV5N0VRd3dTTWttSzFINEVhSWN1ZWl6MEdReFJmdmJPT1BEY09HMnRvaGU5c1ZPZEhiU3hfRzV4ZkNfRXZMdk1hSEhjdXBCLUVZa08wdDJBbXM4WXFJUDBQaEd0VzZWLUpUTmNIWE1tR09FSmVzUlJxOGRZTHRWZXRqSHZUYWhlTUxqZ3E0ckNRcXp6d3J4VGozVQ?oc=5",
-     "resume": "",
-     "date": "2026-10-12T11:20:42+02:00",
-     "source": "TradingView",
+     "titre": "It’s ‘incomprehensible’ that Instagram allowed an AI image of Mia Goth to spread, say her reps",
+     "lien": "https://www.theverge.com/ai-artificial-intelligence/1010277/mia-goth-instagram-ai-shirt-deepfake-divorce",
+     "resume": "Earlier this month, news broke that actress Mia Goth had filed for divorce from actor and filmmaker Shia LaBeouf. An Instagram post from the account miagoth_ - marked with a blue verified checkmark - quickly spread. The post shows Goth in a T-shirt that…",
+     "date": "2026-10-13T18:42:51+02:00",
+     "source": "theverge.com",
      "image": null,
      "reprises": 1,
-     "score": 1.12
-    },
-    {
-     "titre": "Former Plaud exec raises $26M for AI app that listens to you in the background",
-     "lien": "https://techcrunch.com/2026/10/12/former-plaud-exec-raises-26m-for-ai-app-that-listens-to-you-in-the-background/",
-     "resume": "One of the core promises of AI is that the more it knows about a person, the better it will be able to assist them with tasks and make appropriate suggestions, which, if you'll believe the tech companies, requires apps and devices to listen, watch, or record…",
-     "date": "2026-10-12T14:47:59+02:00",
-     "source": "techcrunch.com",
-     "image": null,
-     "reprises": 1,
-     "score": 1.07
+     "score": 1.26
     }
    ]
   },
@@ -431,6 +431,17 @@
    "sous_titre": "Libertés fondamentales, grandes juridictions, culture juridique pour le CRFPA",
    "items": [
     {
+     "titre": "Municipales 2026 à Oloron-Sainte-Marie : les élections annulées, la maire qui avait gagné d’une voix fait un recours devant le Conseil d’État",
+     "lien": "https://news.google.com/rss/articles/CBMiwwJBVV95cUxPaEhNUVZNdEVJeEpuTE1ubWFpUUIwMnZkeFBhQU1jVGRDd0c3RVNfX2JNUG1GS1NfVFhseHpiQnlMQlRFXy1GNzR3OERqR185NTV4bF90dFVYNGpVVDZKZ0Rad3Q5VlVKY200TkFrTGk3M0lpODFqTWRPM2JZTHdTWDNXdjg0V2d1MEdINjJsUUt2d2RscFZ4clVGOXJ3ZE11d2Z1ekxlalhDWEhySVI2ZXNKa2lFWXFDcXVXZU1ydUJzQzJnZGlVTUNkZk8zN3VjTnZUcEFDaEkxVnhuclprS3hsRnUyOUZzc0k4d0hxUVJ3UlM0YkZXeUN0THBSTzYxNmhtNldYMnJIUUE0OHpUU1lsTVRkV1loTkYzM3RNTk9OZkJsXzAyM2JweGI5cWU3VFc4elJRcnZtZnpWdGFDTjNNQQ?oc=5",
+     "resume": "",
+     "date": "2026-10-13T08:44:30+02:00",
+     "source": "Sud Ouest",
+     "image": null,
+     "reprises": 6,
+     "score": 12.42,
+     "libertes": false
+    },
+    {
      "titre": "INFO OUEST-FRANCE. La cour de cassation casse la condamnation pour injure de François Cuillandre, ex-maire de Brest",
      "lien": "https://news.google.com/rss/articles/CBMinwJBVV95cUxPLU9NRGk2S2NTRmdGaXQtdncxbUlab2x2MWE1RzNwdjNtNVhyam9jRVlqSDRBVmdDS0hfZXJnRlhBWFFPLWpRY3ZrRFI3ejg5RFRXdUxBUHNTRk56SEFMZkhTV09ZYUEzUDNCU3ZYNEd1VE1heGpMV0ZURkI5bVFiX1NxdmtDMFhwWXVKR0ZscXdzRHFORkxLby1UY1lKRDJsampKV3pyMnhtZmFpNDRHYV9ldjNYVDhoWkNSSFZMNzBlS2hSYnIxdy1Nbms2Zlg3XzB0THYyUVJqVWJ0bkFRa05US1pfX3g2VTM1dWstLWxNUnNacmQ2dWJVOHhVYnppNHpqLVdRZ0pQYVJUTWktMmtobmlwdkZPVjlDeVRVaw?oc=5",
      "resume": "",
@@ -438,7 +449,7 @@
      "source": "Ouest-France",
      "image": null,
      "reprises": 5,
-     "score": 10.62,
+     "score": 9.25,
      "libertes": false
     },
     {
@@ -449,52 +460,41 @@
      "source": "Actu-Environnement",
      "image": null,
      "reprises": 4,
-     "score": 8.19,
+     "score": 7.63,
      "libertes": true
     },
     {
-     "titre": "Accident de service : le Conseil d’État renforce les garanties devant la commission de réforme",
-     "lien": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQM21FSGtPTUpBNVlScWhXVU1YVnlleTFQRVBkNzVBdjU0aDlPOG9ya0dQOFp0ZG5IVWc1VmVIVUUyNGZjZlRXS1kwTzRRTUgta1BacEwyWWdHYUNUTGd1eXVQS2xlbmMxaUF2RmdTX0tIUXVqYXR5TW10R0pQMzZia0s0RkNibkV6LWhrc3AwRHpjbENUZzRlUTlrZ0pQcGJ2RDZ4bUp0aHIwUjZLQy1yNV9QbzhGNE8xLWNuMzd1QTktRUVmNUE?oc=5",
+     "titre": "Moselle Open : la Cour de cassation valide la cession à ALL IN MOSELLE",
+     "lien": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNVlZqV0NVTTE0TjNBV3NZYUpFQm41WUo2czZFckZwaFMzV2F4Ry1Sd3Vyb0U0Vk9CanlaUC1LVzVJUUJMdGZZbTRqejg1UjFGdVFMZmVFTExKaXo5Y1Rkd2hIbjh6cWJBS21UdW1sM0lFSmdGM0RncXNYTC1haTBvN19fM0MzM2U0OVNIMTJQUXh5dw?oc=5",
      "resume": "",
-     "date": "2026-10-12T09:23:39+02:00",
-     "source": "Acteurs Publics",
+     "date": "2026-10-13T09:21:37+02:00",
+     "source": "Moselle TV",
      "image": null,
-     "reprises": 3,
-     "score": 4.92,
+     "reprises": 2,
+     "score": 3.92,
      "libertes": false
     },
     {
-     "titre": "Affaire Grégory : un procès en diffamation interroge les limites de la liberté d’expression",
-     "lien": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQeGluWmVmeFk3MnRGcTVWMExCN0hZaDRNc0Z4R3ZZOGNjYlFUUDZNd1VTbjR1R29VRmN5WENTekgwX3F3TGxhT3pjU3RNa0RWc292U01KbXh2NGdsdnRwQXNhcEJaVEdmV3lPZDE3STRYaW9LSU1PcmY1eVd2MENvNHpFdGMyS3h3c29Hdk1IN0hGTEM0UU83T2dhWXdjM1JhYkFTYXdId3c1Q0RSVkR3VWpiYTd4TmZ2NUVSQl9nc2R6ZHVnbVUyLVQtOA?oc=5",
+     "titre": "Référendum : le président du Conseil constitutionnel s'oppose aux projets de Le Pen, colère au RN",
+     "lien": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxPUmh1YXlpMy1sbTdHSEg4dk13V2djaTJNMlZKaEJfNlhCSUVqTVBOQ0pPaU9Ody1yZHdibjRYR0h0TWp1Z05MWUMxSGhRRWJvVjJGNzEzNmhkcnVMTXBCTW85LVB3a2lhSUZtUWVWRnppVHRGdW5TZVhFQk9WVmZoQ3B4ZUJXUGhJenJvTTZ1c0I0cGk0bldHMVV2bkxYRUV3cm1xNTJLMXFReDc5alFKNHpOTVQ5a2FEVjBYVDFweWM5N0UxbDRiZy1Ub1lZakp4WVAwcEVSNzdfVUpNeUE?oc=5",
      "resume": "",
-     "date": "2026-10-12T19:44:26+02:00",
-     "source": "La Croix",
+     "date": "2026-10-13T14:41:00+02:00",
+     "source": "tv5monde",
      "image": null,
      "reprises": 2,
-     "score": 3.56,
+     "score": 3.89,
      "libertes": true
     },
     {
-     "titre": "Le Conseil constitutionnel confirme les règles d’inéligibilité ordinale après certaines sanctions disciplinaires",
-     "lien": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxQcWx4amNYT1BxMnBScUJwWUhrOVJGbWpIVFVNck1mcC1LdkFmSWk3amprQVIxWlVsT2Q1bUZTb3gyR1pjSFlJX0hTdkhtMDF4NXJGdmZfblJUc2w3VS0wT2NCejhxb1NFZjJnU19nYVRlTWljSjI2UndpMmptXzhrVGZiTzdlTEJFNWZnS280dGZFTFFISVlyYUJaamlvYU85d3d1bXIwalpCeGdKRXBpTDNhYVpXRkZDSExZdGlOdzJMbGMtRnNJaG50NG1PMVB0NzVFRmtWMDJlOTFIUHJ5TEc1MTRfcmlWbEJJbW9lb2x2cTRVVGVTMEtESU9TUEU?oc=5",
+     "titre": "Le Conseil constitutionnel est devenu une institution quadruplement illégitime et illégale : 1️⃣Parce qu’il ne remplit pas la fonction pour laquelle il a été conçu : faire respecter les articles 34 et 37 de la Constitution distinguant les domaines de la loi et du règle",
+     "lien": "https://news.google.com/rss/articles/CBMitwJBVV95cUxQTE1kLXgxd1JYUmZSelYzZHBaSk5vRVUyZHlTZEV2UEZ0QWl0LWNjczUwOGE1dDVNbjNWX2toa0ZEQnk2NEhUdGVYSm0zdWFMMGRaaVc5Ty10bjVIY1dVVjhCdkt2QUlETzNWc1F2cVhGOW5qZG13dkVQTEdJbHkxa1VPSF9lR3pEa0plQkkydXpScVhsVlZjTmEwZy1SNHJxRjUzeS0wQ2dpczlhTW1XanFHODVhNTk3dHlJY2VTMGc1UmU2UUFWTXBDbVVhbDlFYW9WdHgtZC1XTUFTaHZoTTNoUkJNUnVYVHZVOHloQ05zSXl0a2RHdmxYdXljOFZhUlVHdHlleVc2OU42STBxTjhfLXM4U1JJYjF4MHVLRUZtbnhpMVNuM01RaXhuSURZQVEydHRLRQ?oc=5",
      "resume": "",
-     "date": "2026-10-12T11:41:38+02:00",
-     "source": "Le Moniteur des pharmacies",
+     "date": "2026-10-14T05:46:27+02:00",
+     "source": "Les 4 Vérités Hebdo",
      "image": null,
      "reprises": 1,
-     "score": 3.49,
+     "score": 3.07,
      "libertes": true
-    },
-    {
-     "titre": "Projet éolien offshore de Dunkerque : des crispations toujours vives, dans l’attente de la décision du Conseil d’État",
-     "lien": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQZERkSjZVNTVaMlNQZXhGUjJVaEJQdXp5ZGJRUmpMc0RJdG5ZeVlWQVluaVQ0bXlEUVhpeFFERzBiSnJQTGIwTWhYOW1TeGM2a1NHZ1JUWWZ2ekpQUThFZEstQXpiOXZIalBmV0dxQng4SEFKcHJ6Y2ZRSGY5aFNxbWI0TmVjTmkycHFzNXE3N3IzSkFLRWl5NU04NEVJRU84TE55ZFdlUnRSdlJUa0VtdTRrbGQybFF3?oc=5",
-     "resume": "",
-     "date": "2026-10-12T16:51:08+02:00",
-     "source": "RCF Radio",
-     "image": null,
-     "reprises": 2,
-     "score": 3.29,
-     "libertes": false
     }
    ],
    "a_traduire": []
