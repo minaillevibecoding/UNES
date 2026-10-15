@@ -1,153 +1,153 @@
 {
- "date": "2026-10-14",
- "edito": "Le Vatican annonce que le nodule retiré au poumon de Léon XIV était cancéreux ; l'opération s'est bien déroulée. Kiev a subi dans la nuit une attaque russe « massive » contre ses infrastructures énergétiques. À l'Assemblée, le RN a aidé le gouvernement à repousser la motion de rejet du PS sur le budget 2027.",
+ "date": "2026-10-15",
+ "edito": "L'attaque du collège d'Aubagne est désormais traitée comme un acte terroriste : l'élève de 14 ans a été mis en examen et placé en détention provisoire. Après l'accord Trump-Poutine sur le gazole russe, Kiev et ses alliés tentent de sauver leur plan de paix. En Ligue des champions, le PSG s'impose 4-2 à Manchester City.",
  "journaux": {
   "figaro": {
-   "resume": "Le Figaro consacre sa une à l'opération du pape, qui a révélé un adénocarcinome pulmonaire. Il suit aussi la mobilisation lycéenne et l'appel à manifester le 17 octobre.",
+   "resume": "Le Figaro revient sur le casse du Louvre, un an après : les huit joyaux de la Couronne restent introuvables. Il s'intéresse aussi au poids électoral des retraités pour 2027.",
    "points": [
-    "Léon XIV a subi l'ablation du lobe inférieur du poumon droit.",
-    "Ce que signifient un nodule et un adénocarcinome, selon des experts.",
-    "Lycéens : de nouvelles réunions avec les ministres prévues jeudi.",
-    "17 octobre : des figures historiques des « gilets jaunes » rallient le mouvement."
+    "Louvre : la piste d'un mystérieux « Djo » émerge des interrogatoires.",
+    "Le président du Louvre : sans travaux, le musée « devra fermer ses portes ».",
+    "Les plus de 65 ans, un tiers de l'électorat, se tournent vers le RN.",
+    "Le Conseil des prélèvements obligatoires justifie la réduction de l'abattement fiscal des retraités."
    ]
   },
   "monde": {
-   "resume": "Le Monde ouvre sur le début des débats budgétaires et sur le pari de Jean-Luc Mélenchon auprès de la jeunesse mobilisée. Il donne aussi la parole à Jean-Marc Jancovici sur le climat.",
+   "resume": "Le Monde décrit le désarroi de Kiev et des Européens après la « trahison » de Trump, et révèle que l'attaque d'Aubagne est le premier attentat en France officiellement lié à une mouvance fascinée par les tueries de masse.",
    "points": [
-    "Budget : 3 863 amendements ; Sébastien Lecornu face au choix entre 49.3 et ordonnances.",
-    "Mélenchon, « incarnation politique » du mouvement lycéen.",
-    "Kimberly Guilfoyle démissionne de son poste d'ambassadrice en Grèce.",
-    "Jensen Huang (Nvidia) annonce à Paris des investissements, notamment dans Doctolib."
+    "Ukraine : l'accord sur le gazole russe a surpris les émissaires réunis en Floride.",
+    "Aubagne : le collégien mis en examen pour des faits de nature terroriste.",
+    "Marine Le Pen isolée à Bruxelles, même parmi ses alliés.",
+    "Indonésie : des mégafeux plongent la région dans un brouillard toxique."
    ]
   },
   "croix": {
-   "resume": "La Croix explique le cancer du pape, de bon pronostic quand il est pris tôt, et revient sur la cyberattaque qui a visé les installations frigorifiques de centaines de supermarchés.",
+   "resume": "La Croix consacre sa une aux négociations bloquées sur le budget européen, en amont du Conseil européen des 15 et 16 octobre, et à la vie à Gaza après trois ans de guerre.",
    "points": [
-    "Léon XIV, 71 ans, opéré avec succès à la polyclinique Gemelli.",
-    "Cyberattaque : une source sécuritaire redoute des sabotages plus massifs.",
-    "Andreï Zviaguintsev présente « Minotaure », critique du Kremlin.",
-    "« L'Église à tâtons » : première grande étude sur la communauté de l'Emmanuel."
+    "Budget de l'UE : les intérêts des Vingt-Sept divergent à tous les étages.",
+    "Gaza : près des deux tiers des habitants vivent sous des tentes ou des abris de fortune.",
+    "Chambord, Carcassonne, Saint-Malo menacés par les risques climatiques.",
+    "17 octobre : l'origine de l'appel à manifester reste floue."
    ]
   },
   "equipe": {
-   "resume": "L'Équipe annonce la 2e journée de Ligue des champions : le PSG retrouve Donnarumma, désormais à Manchester City, et la Roma affronte le Real Madrid de Mourinho.",
+   "resume": "L'Équipe salue la victoire du PSG à Manchester City (4-2) et la demi-heure de folie de Désiré Doué. L'OM reçoit l'Olympiakos ce soir en Ligue Europa.",
    "points": [
-    "Donnarumma, plus entreprenant au pied avec City.",
-    "Rome veut exorciser le souvenir de Mourinho.",
-    "Euroligue féminine : cinq Bleues, vice-championnes du monde, visent le titre.",
-    "Lilian Soares, 15 ans, sur les traces de Gasly et Hadjar."
+    "Doué, meilleur joueur sur la pelouse pendant le temps fort parisien.",
+    "OM-Olympiakos : Genesio élargit son groupe.",
+    "Berbatov raconte sa reconversion sur les planches.",
+    "Benoît Trémoulinas sort de sa retraite à près de 41 ans pour Bordeaux."
    ]
   }
  },
  "sections": {
   "monde": [
    {
-    "titre": "Le nodule retiré au poumon de Léon XIV était cancéreux",
-    "lien": "https://www.lemonde.fr/international/article/2026/10/13/operation-du-pape-le-nodule-retire-au-poumon-etait-cancereux-annonce-le-vatican_6793171_3211.html",
+    "titre": "Aubagne : l'attaque du collège qualifiée de terroriste",
+    "lien": "https://www.lemonde.fr/societe/article/2026/10/14/l-attaque-dans-un-college-d-aubagne-premier-attentat-terroriste-officiellement-lie-en-france-a-la-mouvance-true-crime-community-qui-glorifie-les-tueries-de-masse_6793790_3224.html",
     "source": "Le Monde",
-    "date": "2026-10-13T22:28:18+02:00",
-    "resume": "Le pape a subi mardi l'ablation du lobe inférieur du poumon droit ; l'analyse a confirmé un adénocarcinome pulmonaire, détecté à un stade très précoce. L'intervention s'est déroulée comme prévu.",
-    "pourquoi": "Première alerte de santé en dix-sept mois de pontificat."
+    "date": "2026-10-14T20:48:56+02:00",
+    "resume": "Le collégien de 14 ans qui a tiré lundi sur le principal et une enseignante a été mis en examen pour des faits de nature terroriste et placé en détention provisoire. Selon Le Monde, c'est le premier attentat officiellement lié en France à cette mouvance.",
+    "pourquoi": "Neuf attaques ont visé des établissements scolaires en France depuis 2008."
    },
    {
-    "titre": "Kiev visée par une attaque russe « massive » contre ses infrastructures énergétiques",
-    "lien": "https://www.lemonde.fr/international/live/2026/10/14/en-direct-guerre-en-ukraine-des-infrastructures-energetiques-de-kiev-visees-par-une-attaque-russe-massive-selon-le-maire_6791198_3210.html",
+    "titre": "Ukraine : après la « trahison » de Trump, Kiev et ses alliés veulent encore peser",
+    "lien": "https://www.lemonde.fr/international/article/2026/10/15/guerre-en-ukraine-apres-la-trahison-de-trump-kiev-et-ses-allies-esperent-encore-inverser-le-cours-de-l-histoire_6793998_3210.html",
     "source": "Le Monde",
-    "date": "2026-10-14T06:44:44+02:00",
-    "resume": "Selon le maire Vitali Klitschko, l'offensive aux missiles balistiques a provoqué des coupures d'électricité et fait au moins un mort, selon un bilan préliminaire.",
-    "pourquoi": "L'attaque survient deux jours après l'annonce par Donald Trump d'un « cessez-le-feu énergétique »."
+    "date": "2026-10-15T05:28:13+02:00",
+    "resume": "Le rapprochement Washington-Moscou autour du gazole russe a surpris Ukrainiens et Européens alors que leurs émissaires discutaient d'un plan de paix en Floride. Dans la nuit, des frappes russes ont fait au moins cinq morts.",
+    "pourquoi": "L'Europe doit désormais porter seule le soutien à Kiev."
    },
    {
-    "titre": "États-Unis : Ilhan Omar visée par une procédure de déchéance de nationalité",
-    "lien": "https://www.lemonde.fr/international/article/2026/10/14/etats-unis-ilhan-omar-l-elue-democrate-d-origine-somalienne-dans-le-collimateur-de-l-administration-trump_6793318_3210.html",
+    "titre": "Brésil : le parti de Lula accuse Meta d'« ingérence » dans l'entre-deux-tours",
+    "lien": "https://www.lemonde.fr/international/article/2026/10/15/presidentielle-au-bresil-le-parti-de-lula-accuse-meta-d-ingerence-a-l-entre-deux-tours_6793863_3210.html",
     "source": "Le Monde",
-    "date": "2026-10-14T05:00:20+02:00",
-    "resume": "La maison de l'élue démocrate du Minnesota a été perquisitionnée lundi, dans le cadre d'une enquête visant à la déchoir de sa nationalité et à l'expulser.",
-    "pourquoi": "Une offensive inédite contre une parlementaire, à trois semaines des élections de mi-mandat."
+    "date": "2026-10-15T00:32:21+02:00",
+    "resume": "Le Parti des travailleurs affirme que Meta limite la diffusion de ses contenus sur Instagram et WhatsApp et veut saisir l'Organisation des États américains.",
+    "pourquoi": "Le rôle des plateformes dans les élections devient un contentieux international."
    },
    {
-    "titre": "Budget 2027 : le RN aide le gouvernement à repousser la motion de rejet du PS",
-    "lien": "https://www.lemonde.fr/politique/article/2026/10/14/budget-2027-le-rn-en-soutien-du-gouvernement-pour-repousser-la-motion-de-rejet-du-ps-apres-de-vifs-debats-sur-la-dette_6793315_823448.html",
+    "titre": "À Bruxelles, Marine Le Pen isolée après avoir menacé l'Europe d'un « bras de fer »",
+    "lien": "https://www.lemonde.fr/international/article/2026/10/15/a-bruxelles-marine-le-pen-bien-isolee-apres-avoir-menace-l-europe-d-un-bras-de-fer_6794068_3210.html",
     "source": "Le Monde",
-    "date": "2026-10-14T05:00:09+02:00",
-    "resume": "Les débats sur le projet de loi de finances ont commencé mardi. Faute de majorité, Sébastien Lecornu devra choisir entre l'article 49.3 et la mise en œuvre du budget par ordonnances.",
-    "pourquoi": "Le sort du budget dépend désormais du RN."
+    "date": "2026-10-15T06:00:00+02:00",
+    "resume": "La candidate du RN a défendu une baisse de la contribution française au budget de l'UE, sans le soutien de ses alliés d'extrême droite européens.",
+    "pourquoi": "À la veille du Conseil européen consacré au budget commun."
    },
    {
-    "titre": "Arabie saoudite : un site d'Aramco touché à Dhahran",
-    "lien": "https://www.france24.com/fr/moyen-orient/20261014-en-direct-moyen-orient-arabie-saoudite-yemen-houthis-iran-aramco",
-    "source": "France 24",
-    "date": "2026-10-14T05:05:41+02:00",
-    "resume": "Un site administratif du géant pétrolier a été touché par une attaque, provoquant un incendie limité sans victime, selon le ministère de l'énergie.",
-    "pourquoi": "Les attaques contre le royaume visent désormais ses infrastructures pétrolières."
-   },
-   {
-    "titre": "Cyberattaque contre les frigos de centaines de supermarchés",
-    "lien": "https://www.la-croix.com/politique/cyberattaque-sur-les-frigos-nous-nous-attendons-a-des-attaques-plus-massives-20261013",
-    "source": "La Croix",
-    "date": "2026-10-14T06:05:05+02:00",
-    "resume": "Les auteurs de l'attaque de lundi contre les installations frigorifiques de supermarchés ne sont pas identifiés. Une source sécuritaire avertit que la France doit se préparer à des sabotages plus massifs.",
-    "pourquoi": "Les infrastructures du quotidien deviennent des cibles."
+    "titre": "Un nouveau pont relie la Chine à la Corée du Nord",
+    "lien": "https://www.rfi.fr/fr/asie-pacifique/20261014-inauguration-d-un-nouveau-pont-reliant-la-chine-%C3%A0-la-cor%C3%A9e-du-nord",
+    "source": "RFI",
+    "date": "2026-10-14T22:32:20+02:00",
+    "resume": "L'ouvrage, qui enjambe le fleuve Yalu entre Dandong et Sinuiju, a été inauguré jeudi lors d'une cérémonie conjointe.",
+    "pourquoi": "Pékin renforce son lien avec Pyongyang, malgré les sanctions."
    }
   ],
   "ia": [
    {
-    "titre": "Micro caché chez OpenAI : un ingénieur saoudien inculpé",
-    "lien": "https://news.google.com/rss/articles/CBMiggJBVV95cUxPTjcyYXJ0YWg1Wlc5WFJKejJkaHJ4TjRka2J5dE9qWkNxVzUwemgwOGxtbGJicWNHcDNZNk9pX3BJNXlaelVwek0tam9ZOWxnY29zWmdjeWlCRThCNmNrNzVUUWx3U01ZUEdULWhsdG16VlBYUDNpVjUxWExPTEU4VVVxTVQyUFZXbEtxdXYxMVh2VXBDTndvbFhhNkwydE1kTHhURjg1S3l3YUxvcHlia21Wc3pNZ2VjNk4yRENhRFFuMENJenlOc25OU19OeEYyTG96bUdCTDVQSE9xYVFQZFYxMXZCYUVNakJfWDA0ejFRQUFJMF9JUEtiMXRKUU54U0E?oc=5",
-    "source": "France 24",
-    "date": "2026-10-14T02:43:47+02:00",
-    "resume": "Selon France 24, un ingénieur saoudien est inculpé aux États-Unis dans une affaire de micro caché chez OpenAI ; Washington invoque la sécurité nationale.",
-    "pourquoi": "Les laboratoires d'IA deviennent des cibles d'espionnage."
+    "titre": "OpenAI poursuivi par huit États américains qui l'accusent de nuire aux enfants",
+    "lien": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxNbFJGTGk4NWhNbHU3SThBSFhJekhHMk5NWlZ1Uk9Za1VOTjF2VVloZ1lRdkVaSk9fc3VXUFBDaE82MnZEcFhDSEx1Q2hSMkF6WmFIVEZFN1FQNFZ4Q0F5OFVUWnAwczF2NU1UcG5meW9nU2lRVVZIdE5idHhnM2JmQVVaWHBrS2FRUjdJZTN1WDNXcDdZRjRDTmFPOFRXMXpCbmNJN2c4eVJRY0M1N1FTMGNjb2xRREpJZkFEd1p6bmo5NjU5TDJrNUtTblh4NzJLOEExdnBqdDU?oc=5",
+    "source": "Les Echos",
+    "date": "2026-10-14T23:02:19+02:00",
+    "resume": "Huit États américains attaquent OpenAI en justice, l'accusant de nuire aux enfants, rapportent Les Échos.",
+    "pourquoi": "La protection des mineurs devient le principal front judiciaire contre les chatbots."
    },
    {
-    "titre": "Nvidia investit dans Doctolib, Entalpic, Genesis AI et Pigment",
-    "lien": "https://news.google.com/rss/articles/CBMizgJBVV95cUxQcW1uNFNmRlJOWkc5aDZGUXV5YWhHaGVOeFNGZ1hyemxNV2JTOWJMcThKX0NUcW1xUHFiaDV3U1llYjhzdV84STEwdEdGeDZMQUtoSzJVX243cVk0Tzc2Qjh0UVdYYXpMN3pJZEhnYllxWVNLTndQM1MxTmY2dWJiVjYxcGtEV3JNcnN2SUc5X0JyRm55WVVWVi1xUjI2aFBXMXBfRlM2OWl2MDdobVZBM3dMNGY2NG1XdW9QdmZCSWU1NGt1ZVNyLUZXcURFek13N1BXUnlzdTM1b2RRelpHbktpbjZfaWRJeWk4a0xacDJJNkd1dTJvWmE5OHo1SnFYVmNLeVNHaGs5NjRhMVo5czVjQmE1Z0F4MWwyWl9ZbFREN2FNT21fazFJQWlWVmJGSjRvU3FwWUQ3ZkZHQVkwREVfLXRsdllmUzBYMHlR?oc=5",
-    "source": "L'Usine Digitale",
-    "date": "2026-10-14T06:30:00+02:00",
-    "resume": "De passage à Paris, Jensen Huang a annoncé des investissements dans plusieurs jeunes pousses françaises, rapporte L'Usine Digitale.",
-    "pourquoi": "Le leader des puces d'IA renforce sa présence dans l'écosystème français."
-   },
-   {
-    "titre": "Shopify ouvre son catalogue à davantage d'agents d'IA",
-    "lien": "https://www.theverge.com/news/1010365/shopify-opens-its-catalog-up-to-more-ai-agents",
+    "titre": "OpenAI accuse un ancien salarié d'avoir livré ses plans produits à Apple",
+    "lien": "https://www.theverge.com/ai-artificial-intelligence/1011276/openai-employee-unreleased-product-plans",
     "source": "The Verge",
-    "date": "2026-10-13T21:42:42+02:00",
-    "resume": "Les acheteurs pourront configurer leurs agents d'IA pour acheter des produits Shopify à leur place, annonce l'entreprise.",
-    "pourquoi": "Le commerce délégué à des agents d'IA passe à grande échelle."
+    "date": "2026-10-14T18:43:24+02:00",
+    "resume": "Selon un document déposé mercredi, l'employé aurait transféré plus de 100 fichiers sur un compte personnel avant de les présenter chez Apple. L'affaire s'ajoute à celle du micro découvert dans une salle de réunion de la direction.",
+    "pourquoi": "La guerre des talents vire au contentieux et à l'espionnage industriel."
    },
    {
-    "titre": "Une fausse image de Mia Goth générée par IA a circulé sur Instagram",
-    "lien": "https://www.theverge.com/ai-artificial-intelligence/1010277/mia-goth-instagram-ai-shirt-deepfake-divorce",
+    "titre": "Arthur Mensch (Mistral AI) : l'Europe ne doit pas laisser les modèles aux Américains et aux Chinois",
+    "lien": "https://news.google.com/rss/articles/CBMi8AJBVV95cUxQdmNnWWdWSThaUU5DNTVHNUJqb08zMDRFeDA5LXo2TmJDMzl4Y0VWTzhhaXRVY0ZmVWNwWGZzZGZiakZMWWM2dmN4dE5XQ1h6SlVVdXdJem1yVXJJaUxybzItS2ZHYkJuRFRxUmNNOUFaOU41aEtqaVh6THlpdmcwQWxQUllTemF3SWxjc0pFU29qRGxFYkd3T3hTcEMzVDZuZVhDcjltdXRmdkp3ZkxmVGFJWXIwWi1sU1JoWTJGQTdnSDFVLW1MYmNhWHc0OEx6SEx0cVNLbWxEVjlnV1RVTkFUbmlOT2pQaEhMRDYzek5wVFNESTJlMWJGZnMtVjc2aC1PUmFtdUoycUxwekNsNFFmdnkyZDEyNkJjN0JGN3I3dF9vYXU2RHpySXNrRkRCUG8zd3EwLURwUFJPTnNSZzdfZ1VCSW1rYXJCZHpQNGFQc0M2RUgxa3dubGE3RzBvTWhNZERsRWJXQW9uTk5Ibw?oc=5",
+    "source": "Le Monde",
+    "date": "2026-10-15T06:30:19+02:00",
+    "resume": "Dans Le Monde, le directeur général de Mistral AI met en garde contre une dépendance européenne aux modèles étrangers.",
+    "pourquoi": "La souveraineté numérique européenne passe par les modèles de fondation."
+   },
+   {
+    "titre": "La course à l'IA est relancée",
+    "lien": "https://www.theverge.com/ai-artificial-intelligence/1011311/the-ai-race-is-back-on",
     "source": "The Verge",
-    "date": "2026-10-13T18:42:51+02:00",
-    "resume": "Après l'annonce de son divorce, une publication d'un compte certifié montrant l'actrice a largement circulé. Ses représentants jugent « incompréhensible » qu'Instagram l'ait laissée se propager.",
-    "pourquoi": "Les plateformes peinent à contenir les images générées par IA, même sur des comptes certifiés."
+    "date": "2026-10-14T21:06:03+02:00",
+    "resume": "Il y a une semaine, Anthropic et OpenAI semblaient seuls en tête. Avec les nouveaux modèles de Google et de Meta, la concurrence repart, estime The Verge.",
+    "pourquoi": "La domination de deux laboratoires n'est plus acquise."
+   },
+   {
+    "titre": "McKinsey fait passer des entretiens d'embauche face à un faux client simulé par IA",
+    "lien": "https://www.theverge.com/news/1011654/mckinsey-ai-client-interview",
+    "source": "The Verge",
+    "date": "2026-10-15T00:53:31+02:00",
+    "resume": "Selon le Wall Street Journal, certains candidats débutants devront mener une conversation de dix minutes avec une simulation de client par IA.",
+    "pourquoi": "L'IA entre dans le recrutement, côté employeur comme côté candidat."
    }
   ],
   "droit": [
    {
-    "titre": "Droits de la nature : la CEDH juge irrecevable la requête de la Mar Menor",
-    "lien": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPVU9vMWpXZWFia2IxMk1fX1Rjd1pyelhUTEtHbEFxWDVZYnVJekQ4SDdXOHdHU2NmX2ZqcFViSnJPeGszNjlLa0RjWUY4V2xyckN6NXV1Y1JSYTBMcTdfN3hzU3NBWERKVy1jcmpZNlNLLUQ2b2t2S3hpV2NkcDFmWmtTRld4MkRETm1aNVIteF9VelIxbkV5d1Bn?oc=5",
-    "source": "Actu-Environnement",
-    "date": "2026-10-12T17:39:16+02:00",
-    "resume": "La Cour européenne des droits de l'homme a déclaré irrecevable la requête présentée au nom de la Mar Menor, lagune espagnole dotée de la personnalité juridique par une loi de 2022, rapporte Actu-Environnement.",
-    "libertes": "Accès au juge européen : seules les personnes victimes d'une violation de leurs droits peuvent saisir la Cour (art. 34 Conv. EDH).",
-    "angle_crfpa": "La Convention protège des droits humains ; l'environnement n'y est défendu qu'à travers eux (art. 2 et 8), comme dans l'arrêt KlimaSeniorinnen c. Suisse (2024)."
+    "titre": "Marine Le Pen réclame le départ de Richard Ferrand du Conseil constitutionnel",
+    "lien": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQNGZOcUFiZEFfczFGb09JaFBWNDFvSjlMcTF2WlFMMFk4ZXVYODNPd042X2I2SmdFNjZTWUxFYTlhWGxMQ290ckN5MmlCVXJwZmFFV21wdnlUS1pvYkZOYkxUVGFZajdRRktHMzJPdS1vR2N0R1J2aHcwR0xUR1pYUm11SC15WnhqTlRJd1RBaXN1SnBNU1JxbGN6LUZaYk80WF9FQmhtUF9WWm5wMFk5V052RdIBuAFBVV95cUxOQWRwWV9VQjIxZEl3NGxtcGNrVmFmUWZIRm9fMVhWYldtUEdmbnA0bmM5T0xVdlZSTUpjSEVWMjV2czlRZi03NnRqYmlYdC15SjBoZGxxNnlWTTlaZ0VoNTRBVWFiakFIQ0RjdnYtUjhJbmlNaWhVTjZNZDRkaElISGhrU2xWOFJBS2NLd1BYZFdqWkFOTWM3QlhQcXI1TnBkUzJVeW9HSmRjbjk0MkMtLV9QNlhzN2JL?oc=5",
+    "source": "CNews",
+    "date": "2026-10-14T21:01:59+02:00",
+    "resume": "Après les critiques du président du Conseil constitutionnel contre ses projets de référendum, Marine Le Pen estime qu'il « doit quitter la tête » de l'institution, rapporte CNews.",
+    "libertes": "Indépendance du juge constitutionnel, garante du respect des droits et libertés.",
+    "angle_crfpa": "Les membres du Conseil sont nommés pour neuf ans, mandat non renouvelable (art. 56 C.) ; aucune autorité politique ne peut les révoquer."
    },
    {
-    "titre": "Référendum : le président du Conseil constitutionnel s'oppose aux projets de Marine Le Pen",
-    "lien": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxPUmh1YXlpMy1sbTdHSEg4dk13V2djaTJNMlZKaEJfNlhCSUVqTVBOQ0pPaU9Ody1yZHdibjRYR0h0TWp1Z05MWUMxSGhRRWJvVjJGNzEzNmhkcnVMTXBCTW85LVB3a2lhSUZtUWVWRnppVHRGdW5TZVhFQk9WVmZoQ3B4ZUJXUGhJenJvTTZ1c0I0cGk0bldHMVV2bkxYRUV3cm1xNTJLMXFReDc5alFKNHpOTVQ5a2FEVjBYVDFweWM5N0UxbDRiZy1Ub1lZakp4WVAwcEVSNzdfVUpNeUE?oc=5",
-    "source": "TV5Monde",
-    "date": "2026-10-13T14:41:00+02:00",
-    "resume": "Richard Ferrand a pris position contre les projets de référendum du RN, provoquant la colère du parti, rapporte TV5Monde.",
-    "libertes": "Séparation des pouvoirs et garantie des droits (art. 16 DDHC) ; procédure de révision de la Constitution.",
-    "angle_crfpa": "Débat classique : peut-on réviser la Constitution par l'article 11, en contournant l'article 89 ? Le Conseil s'est déclaré incompétent pour contrôler les lois référendaires (62-20 DC)."
+    "titre": "Le Conseil d'État précise les conséquences indemnitaires d'une décision illégale",
+    "lien": "https://news.google.com/rss/articles/CBMiyAJBVV95cUxPRGJRaThNRHZkT0NJVVV3aDVod0dEeVVnQjM4OTFNYzJLbFdBQVVSMWljS2I5aTRNVktJN055clZzbzE5R1BwWXJlY0NPdlRYSmtfQ0VqRURKM0k3YTVNZDUyeWxORlk4Q2c3TnFocU9TYlJmb2pFQnBKbjE4WnRWYVJheDR4WjZhbVFZNmdNNVFxNFRPRnN2UWFSeHotSzY4Wk44UjcySmFzQXdNWnlJMUV4dFRTNmZ2TmxTSVpEOGRRc2IxOERyc0dOQU5GNVlvbmxnaXVrZWQyaG85TjVRLWJFOW5zQl9OVm5wMGJrczFRaTJBcHJJX3BOeUJfdkhFbHduejJHMGpwLW4xTnJxNTJIM1Y1cjMtZjJDbEIwaVM3MFZOQjJUbHF0ekk1aFlZbEltQ0JyLVNMSWhYa2lwYVFuVmlzNkdj?oc=5",
+    "source": "La Gazette des Communes",
+    "date": "2026-10-14T11:21:31+02:00",
+    "resume": "La Gazette des communes rend compte d'une décision du Conseil d'État sur la réparation due après une décision administrative illégale.",
+    "libertes": "Droit à réparation du préjudice causé par l'administration.",
+    "angle_crfpa": "Toute illégalité est fautive (CE, 1973, Driancourt), mais elle n'ouvre droit à indemnité que si elle a causé un préjudice direct et certain."
    }
   ]
  },
  "notion": {
-  "titre": "Les lois référendaires échappent au contrôle du Conseil constitutionnel",
-  "texte": "Saisi de la loi relative à l'élection du président de la République au suffrage universel, adoptée par référendum sur le fondement de l'article 11, le Conseil constitutionnel s'est déclaré incompétent : les lois qu'il contrôle sont celles votées par le Parlement, non celles qui constituent « l'expression directe de la souveraineté nationale ».",
-  "reference": "Cons. const., 6 novembre 1962, n° 62-20 DC"
+  "titre": "Toute illégalité est une faute",
+  "texte": "Le Conseil d'État juge que l'illégalité d'une décision administrative constitue une faute de nature à engager la responsabilité de la puissance publique. Encore faut-il que le requérant prouve un préjudice direct et certain : si la même décision aurait pu être légalement prise, l'indemnisation est écartée.",
+  "reference": "CE, Sect., 26 janvier 1973, Ville de Paris c. Driancourt"
  }
 }
