@@ -1,6 +1,6 @@
 {
  "date": "2026-10-15",
- "genere": "2026-10-15T07:08+02:00",
+ "genere": "2026-10-15T08:46+02:00",
  "journaux": [
   {
    "id": "figaro",
@@ -12,6 +12,38 @@
     "source": "https://static.milibris.com/thumbnail/issue/0045e690-6cb6-4231-89e6-d0196346cb8d/front/catalog-cover-large.jpeg"
    },
    "articles": [
+    {
+     "titre": "EN DIRECT - Colère des lycéens : les étudiants de HEC Paris bloquent l’entrée de l’école de commerce, une première",
+     "lien": "https://www.lefigaro.fr/actualite-france/en-direct-colere-des-lyceens-nouvelle-reunion-ce-jeudi-entre-les-organisations-lyceennes-et-les-ministres-de-l-education-nationale-et-de-l-enseignement-superieur-20261015",
+     "resume": "Les représentants des lycéens rencontrent en fin d’après-midi Édouard Geffray et son homologue à l’Enseignement supérieur, Philippe Baptiste. Les deux ministres vont tenter de faire retomber la colère des élèves, à deux jours des vacances de la Toussaint.",
+     "date": "2026-10-15T08:40:02+02:00",
+     "source": "",
+     "image": "https://i.f1g.fr/media/cms/3000x2001_crop/2026/10/15/064aa8079e21d46607b5b56037e11d743a0c7bda7dbdec96c7252066ef29320b.jpg"
+    },
+    {
+     "titre": "«Mélenchon est dans une logique de compromis bourgeois» : Le Poing levé, ce collectif trotskiste qui veut profiter des blocages pour renverser la table",
+     "lien": "https://www.lefigaro.fr/actualite-france/melenchon-est-dans-une-logique-de-compromis-bourgeois-le-poing-leve-ce-collectif-trotskiste-qui-veut-profiter-des-blocages-pour-renverser-la-table-20261015",
+     "resume": "RÉCIT - En première ligne des manifestations lycéennes, Le Poing levé entend bien faire résonner une voix à la gauche de la gauche. Et cherche à agréger les voix étudiantes au profit du mouvement «Révolution permanente», dont le porte-parole Anasse Kazib se…",
+     "date": "2026-10-15T07:49:37+02:00",
+     "source": "",
+     "image": "https://i.f1g.fr/media/cms/1600x1200_crop/2026/10/14/4284cf0494db5639ac880c2cdc18cc9305ef1ad3b66f0106fb708a73a66845fb.jpg"
+    },
+    {
+     "titre": "EN DIRECT - Présidentielle 2027 : «Les sondages n’ont aucun impact sur ma détermination», balaie Bruno Retailleau",
+     "lien": "https://www.lefigaro.fr/elections/presidentielles/en-direct-presidentielle-2027-bruno-retailleau-gabriel-attal-marine-tondelier-invites-des-matinales-ce-jeudi-20261015",
+     "resume": "Dans un sondage Ifop-Fiducial pour LCI et Sud Radio, publié mercredi, le candidat David Lisnard (Nouvelle Énergie) est crédité à 6% d’intentions de vote devant le prétendant Les Républicains, jaugé, lui, à 5%.",
+     "date": "2026-10-15T08:41:12+02:00",
+     "source": "",
+     "image": "https://i.f1g.fr/media/cms/3000x2000_crop/2026/10/15/cccbb9957625d226417149463edc60cbf14aee0edd6111043ba1f2df4d5b947a.jpg"
+    },
+    {
+     "titre": "Présidentielle 2027 : David Lisnard double Bruno Retailleau à droite, selon un sondage",
+     "lien": "https://www.lefigaro.fr/elections/presidentielles/candidats/presidentielle-2027-david-lisnard-double-bruno-retailleau-a-droite-selon-un-sondage-20261014",
+     "resume": "DÉCRYPTAGE - En cas de candidatures simultanées du patron de LR et de son homologue de Nouvelle Énergie, le premier atteint la cote d’alerte, selon une étude Ifop-Fiducial pour LCI et Sud Radio. Après sa large victoire à la primaire, Raphaël Glucksmann est…",
+     "date": "2026-10-15T00:19:42+02:00",
+     "source": "",
+     "image": "https://i.f1g.fr/media/cms/1920x1080_crop/2026/10/14/119d5a05b23cfd97a2be501786d6c682127e5f9cbc33468fb21b15c67f03102a.jpg"
+    },
     {
      "titre": "«Cette personne, vous ne l’avez pas attrapée» : un an après le casse du Louvre, sur les traces de l’insaisissable homme au T-Max",
      "lien": "https://www.lefigaro.fr/faits-divers/cette-personne-vous-ne-l-avez-pas-attrapee-un-an-apres-le-casse-du-louvre-sur-les-traces-de-l-insaisissable-homme-au-t-max-20261015",
@@ -27,38 +59,6 @@
      "date": "2026-10-14T21:00:00+02:00",
      "source": "",
      "image": "https://i.f1g.fr/media/cms/3000x1687_crop/2026/10/14/79d940358837fe5f8001062d8af2fd87eb41344a66bbcff0bd2f8635baa87a2f.jpg"
-    },
-    {
-     "titre": "«Si le Louvre n’est pas réparé, adapté et transformé, il devra fermer ses portes» : l’alerte du président Christophe Leribault, un an après le vol rocambolesque",
-     "lien": "https://www.lefigaro.fr/culture/patrimoine/si-le-louvre-n-est-pas-repare-adapte-et-transforme-il-devra-fermer-ses-portes-l-alerte-du-president-christophe-leribault-un-an-apres-le-vol-rocambolesque-20261014",
-     "resume": "ENTRETIEN EXCLUSIF - Le président-directeur du musée estime avoir progressé pour sécuriser le Louvre et livre son analyse sur les enjeux auxquels son institution doit faire face.",
-     "date": "2026-10-14T11:31:41+02:00",
-     "source": "",
-     "image": "https://i.f1g.fr/media/cms/3000x1687_crop/2026/10/14/a6e3a5c6274f620b0feffdb0bdc0dea2dc8cd5b51e83bfd0fce1faaa50535f80.jpg"
-    },
-    {
-     "titre": "Présidentielle 2027 : les retraités, potentiels faiseurs de roi malgré la mobilisation de la jeunesse",
-     "lien": "https://www.lefigaro.fr/elections/presidentielles/presidentielle-2027-les-retraites-potentiels-faiseurs-de-roi-malgre-la-mobilisation-de-la-jeunesse-20261014",
-     "resume": "DÉCRYPTAGE - Objets de toutes les convoitises, les plus de 65 ans, qui représentent un tiers de l’électorat, se tournent de plus en plus vers le RN.",
-     "date": "2026-10-14T19:55:00+02:00",
-     "source": "",
-     "image": "https://i.f1g.fr/media/cms/3000x2067_crop/2026/10/14/c0c0690b86e8c23688e8338b73986595dd64aad2fb5ace70eee47a303fd54647.jpg"
-    },
-    {
-     "titre": "L’éditorial de Gaëtan de Capèle : « Les retraites, un test de crédibilité pour les candidats à la présidentielle »",
-     "lien": "https://www.lefigaro.fr/vox/economie/l-editorial-de-gaetan-de-capele-les-retraites-un-test-de-credibilite-pour-les-candidats-a-la-presidentielle-20261014",
-     "resume": "Sans réforme profonde, avec comme postulat la nécessité de travailler davantage, notre système par répartition promet un gonflement sans fin de la dette.",
-     "date": "2026-10-14T19:51:51+02:00",
-     "source": "",
-     "image": "https://i.f1g.fr/media/cms/1920x1080_crop/2026/10/14/4753ab1336dfef77c9973a63d2d3f7e9847b7f0eab2a45c73fb2eb699e3c25a4.jpg"
-    },
-    {
-     "titre": "La Cour des comptes justifie la réduction de l’abattement fiscal pour les retraités",
-     "lien": "https://www.lefigaro.fr/conjoncture/la-cour-des-comptes-justifie-la-reduction-de-l-abattement-fiscal-pour-les-retraites-20261014",
-     "resume": "DÉCRYPTAGE - Le Conseil des prélèvements obligatoires livre une analyse détaillée de certaines propositions polémiques du budget 2027, telles que la niche fiscale sur les locations meublées ou la surtaxe sur l’IS.",
-     "date": "2026-10-14T20:00:00+02:00",
-     "source": "",
-     "image": "https://i.f1g.fr/media/cms/3000x2000_crop/2026/10/14/54a36d5365d5176634c2eff0ce0a576fd9195f6a75bf29f66005975e1b5a2bfd.jpg"
     }
    ],
    "flux_utilise": "https://www.lefigaro.fr/rss/figaro_actualites.xml"
@@ -74,12 +74,28 @@
    },
    "articles": [
     {
+     "titre": "Les ménages pris en étau entre des dépenses contraintes de plus en plus lourdes et l’envolée des prix",
+     "lien": "https://www.lemonde.fr/economie/article/2026/10/15/les-menages-pris-en-etau-entre-des-depenses-contraintes-de-plus-en-plus-lourdes-et-l-envolee-des-prix_6794079_3234.html",
+     "resume": "Loyer, électricité, téléphone : les dépenses dites « préengagées » absorbent aujourd’hui environ 30 % du revenu disponible des Français. Parce que celles-ci sont incompressibles, les plus précaires se retrouvent pris au piège de la flambée des prix de…",
+     "date": "2026-10-15T06:30:22+02:00",
+     "source": "",
+     "image": "https://img.lemde.fr/2026/10/03/650/0/4252/2126/644/322/60/0/9d9c8f5_upload-1-hhjgdvcktwpj-lidlmarquette-cecile-48.jpg"
+    },
+    {
      "titre": "Guerre en Ukraine : après la « trahison » de Trump, Kiev et ses alliés espèrent encore inverser le cours de l’histoire",
      "lien": "https://www.lemonde.fr/international/article/2026/10/15/guerre-en-ukraine-apres-la-trahison-de-trump-kiev-et-ses-allies-esperent-encore-inverser-le-cours-de-l-histoire_6793998_3210.html",
      "resume": "Le rapprochement entre Washington et Moscou, au gré d’un accord sur le gazole russe, a pris par surprise les Ukrainiens et les Européens, au moment où leurs émissaires se réunissaient en Floride pour discuter d’un plan de paix.",
-     "date": "2026-10-15T05:28:13+02:00",
+     "date": "2026-10-15T05:28:11+02:00",
      "source": "",
      "image": "https://img.lemde.fr/2026/10/14/366/0/8103/4051/644/322/60/0/d611a76_ftp-1-2ua10vr1atjk-98c6c11c57ec48c29c7149d36c1e9885-0-81ce6e8bb53142c5b586f2bc247532f9.jpg"
+    },
+    {
+     "titre": "Marine Le Pen isolée à Bruxelles après avoir menacé d’engager un « bras de fer » avec l’Europe au sujet de la contribution financière de la France",
+     "lien": "https://www.lemonde.fr/international/article/2026/10/15/a-bruxelles-marine-le-pen-bien-isolee-apres-avoir-menace-l-europe-d-un-bras-de-fer_6794068_3210.html",
+     "resume": "La candidate du RN à l’élection présidentielle a défendu, mercredi, une baisse de la contribution française au budget de l’UE, mais ses alliés d’extrême droite européens se sont gardés d’appuyer ses promesses de rupture radicale avec les règles communautaires.",
+     "date": "2026-10-15T06:00:00+02:00",
+     "source": "",
+     "image": "https://img.lemde.fr/2026/10/14/604/0/10848/5424/644/322/60/0/cf4a8e7_ftp-1-moeaoh0nzofn-2026-10-14t174250z-271367851-rc253oabxcfy-rtrmadp-3-france-politics-lepen.JPG"
     },
     {
      "titre": "L’attaque dans un collège d’Aubagne, premier attentat terroriste officiellement lié en France à la mouvance True Crime Community, qui glorifie les tueries de masse",
@@ -90,26 +106,10 @@
      "image": "https://img.lemde.fr/2026/10/14/55/18/4234/2117/644/322/60/0/b8d1fab_upload-1-u1dskbfayb8j-le-monde.jpg"
     },
     {
-     "titre": "Mouvement lycéen : pourquoi les 3 000 professeurs remplaçants promis par Edouard Geffray ne couvriront pas toutes les absences",
-     "lien": "https://www.lemonde.fr/societe/article/2026/10/14/mouvement-lyceen-pourquoi-les-3-000-professeurs-remplacants-promis-par-edouard-geffray-ne-couvriront-pas-toutes-les-absences_6793784_3224.html",
-     "resume": "Le ministre de l’éducation nationale a annoncé, mercredi 14 octobre au Sénat, que les deux tiers des remplaçants disponibles avaient été affectés. Mais de nombreuses questions demeurent, notamment sur l’adéquation entre discipline enseignée et remplacement…",
-     "date": "2026-10-14T19:01:27+02:00",
-     "source": "",
-     "image": "https://img.lemde.fr/2026/10/07/298/0/3000/1500/644/322/60/0/a78d3d6_upload-1-femqnsnww3j0-maniflyce-enne-asurp-104580.jpg"
-    },
-    {
-     "titre": "A Bruxelles, Marine Le Pen isolée après avoir menacé l’Europe d’un « bras de fer »",
-     "lien": "https://www.lemonde.fr/international/article/2026/10/15/a-bruxelles-marine-le-pen-bien-isolee-apres-avoir-menace-l-europe-d-un-bras-de-fer_6794068_3210.html",
-     "resume": "La candidate du Rassemblement national à l’élection présidentielle a défendu, mercredi, une baisse de la contribution française au budget de l’UE, mais ses propres alliés d’extrême droite européens se sont gardés d’appuyer ses promesses de rupture radicale…",
-     "date": "2026-10-15T06:00:00+02:00",
-     "source": "",
-     "image": "https://img.lemde.fr/2026/10/14/26/0/4266/2133/644/322/60/0/8b1211b_ftp-1-ivnbtzqrahac-2026-10-14t174622z-429936444-rc253oaezoqk-rtrmadp-3-france-politics-lepen.JPG"
-    },
-    {
      "titre": "Des incendies géants continuent de ravager l’Indonésie, plongeant la région dans un brouillard toxique",
      "lien": "https://www.lemonde.fr/planete/article/2026/10/15/des-incendies-geants-continuent-de-ravager-l-indonesie-plongeant-la-region-dans-un-brouillard-toxique_6794074_3244.html",
-     "resume": "Depuis des mois, des millions d’habitants sont soumis à d’épaisses fumées qui s’étendent jusqu’aux pays voisins. Attisés par El Niño, mais largement d’origine humaine, Ces mégafeux provoquent une crise sanitaire et suscitent des critiques à l’encontre de…",
-     "date": "2026-10-15T06:17:33+02:00",
+     "resume": "Depuis des mois, des millions d’habitants sont soumis à d’épaisses fumées qui s’étendent jusqu’aux pays voisins. Attisés par El Niño, mais largement d’origine humaine, ces mégafeux provoquent une crise sanitaire et suscitent des critiques à l’encontre de…",
+     "date": "2026-10-15T06:17:31+02:00",
      "source": "",
      "image": "https://img.lemde.fr/2026/10/14/141/0/1024/512/644/322/60/0/d01bdbc_ftp-1-b6lrqmbroanx-afp-d3a22ke-1024.jpg"
     },
@@ -129,58 +129,58 @@
    "nom": "La Croix",
    "couleur": "#c8102e",
    "une": {
-    "fichier": "unes/croix.webp",
+    "fichier": "unes/croix.jpg",
     "date": "2026-10-15",
-    "source": "https://www.frontpages.com/t/2026/10/15/la-croix-065334r6l@2x.webp"
+    "source": "https://img.kiosko.net/2026/10/15/fr/lacroix.750.jpg"
    },
    "articles": [
     {
-     "titre": "Budget européen : à Bruxelles, les négociations bloquent à tous les étages",
-     "lien": "https://www.la-croix.com/economie/budget-europeen-a-bruxelles-les-negociations-bloquent-a-tous-les-etages-20261014",
-     "resume": "Le Conseil européen des 15 et 16 octobre 2026 doit permettre aux 27 États membres de l’Union de négocier leur prochain budget commun. Mais le dossier est particulièrement épineux, tant les intérêts des uns et des autres sont variés.",
-     "date": "2026-10-15T06:55:10+02:00",
+     "titre": "Santé du pape : Léon XIV a « bien passé la nuit » à l’hôpital",
+     "lien": "https://www.la-croix.com/religion/sante-du-pape-trump-souhaite-un-bon-retablissement-a-leon-xiv-20261015",
+     "resume": "Le Vatican a assuré jeudi 15 octobre 2026 que le pape Léon XIV « a bien passé la nuit à l’hôpital », dans un très bref communiqué. Ses médecins avaient assuré la veille que son état de santé suivait une évolution postopératoire normale.",
+     "date": "2026-10-15T08:42:42+02:00",
      "source": "",
-     "image": "https://i.la-croix.com/x/2026/10/14/2562270-le-budget-de-l-union-europeenne-sera-en-debat-a-br.jpg"
+     "image": "https://i.la-croix.com/x/2026/10/15/2562593-le-pape-entame-jeudi-15-octobre-2026-son-troisieme.jpg"
     },
     {
-     "titre": "Exposition : Lionel Sabatté, démiurge hanté par la préhistoire",
-     "lien": "https://www.la-croix.com/culture/exposition-lionel-sabatte-demiurge-hante-par-la-prehistoire-20261014",
-     "resume": "Avant d’exposer cet automne au Musée de la chasse et de la nature, à Paris, l’artiste peintre, sculpteur et dessinateur, insatiable curieux de matériaux hors norme, nous a ouvert son atelier, à Noisy-le-Sec, en Seine-Saint-Denis.",
-     "date": "2026-10-15T06:45:13+02:00",
+     "titre": "Le Centre-Val de Loire, un vivier d’artistes célébré par Ar(t)chipel",
+     "lien": "https://www.la-croix.com/culture/le-centre-val-de-loire-un-vivier-d-artistes-celebre-par-artchipel-20261015",
+     "resume": "En partenariat avec le Centre Pompidou, le festival Ar(t)chipel expose les œuvres d’Alexander Calder et Max Ernst, qui vécurent en Centre-Val de Loire. Quatre-vingt-dix artistes contemporains de la région ouvrent aussi leurs ateliers au public.",
+     "date": "2026-10-15T08:41:34+02:00",
      "source": "",
-     "image": "https://i.la-croix.com/x/2026/10/14/2560981-lionel-sabatte-dans-son-atelier-de-noisy-le-sec-se.jpg"
+     "image": "https://i.la-croix.com/x/2026/10/14/2562061-le-stabile-reims-croix-du-sud-1969-d-alexander-cal.jpg"
     },
     {
-     "titre": "Guerre en Ukraine : le Kremlin accuse le Japon d’espionnage ; possible attaque russe sur un pétrolier",
-     "lien": "https://www.la-croix.com/international/ukraine-russie-jour-1695-point-conflit-ukrainien-poutine-aujourdhui-20261015",
-     "resume": "La Russie accuse le journaliste japonais Yuki Imai d’espionnage, ce que réfute la première ministre nippone Sanae Takaichi. La Roumanie enquête sur une attaque de drone contre un pétrolier en mer Noire. Retrouvez l’actualité du conflit en Ukraine de ce jeudi…",
-     "date": "2026-10-15T06:44:27+02:00",
+     "titre": "SNCF : le TGV nouvelle génération entre Paris et Marseille sera inauguré en novembre",
+     "lien": "https://www.la-croix.com/la-sncf-va-inaugurer-le-6-novembre-son-tgv-de-nouvelle-generation-sur-la-liaison-paris-marseille-20261014",
+     "resume": "Après plusieurs années de retards, la SNCF a annoncé mercredi 14 octobre la date du premier voyage commercial de son TGV de nouvelle génération. Le PDG Jean Castex inaugurera ce premier trajet qui reliera Paris et Marseille le 6 novembre prochain.",
+     "date": "2026-10-15T08:32:58+02:00",
      "source": "",
-     "image": "https://i.la-croix.com/x/2026/10/15/2562567-des-immeubles-detruits-sur-les-lieux-d-un-bombarde.jpg"
+     "image": "https://i.la-croix.com/x/2024/05/08/1433604-le-tgv-m-presente-a-l-usine-alstom-de-belfort-lundi-29-avril-2024.jpg"
     },
     {
-     "titre": "Chambord, Carcassonne, Saint-Malo : ces joyaux du patrimoine français menacés par les risques climatiques",
-     "lien": "https://www.la-croix.com/planete/chambord-carcassonne-saint-malo-ces-joyaux-du-patrimoine-francais-menaces-par-les-risques-climatiques-20261014",
-     "resume": "Un rapport du Réseau action climat détaille l’effet des fortes chaleurs, de la sécheresse, des inondations ou encore de la montée des eaux et du retrait-gonflement d’argile sur 20 monuments emblématiques du patrimoine français.",
-     "date": "2026-10-15T06:30:04+02:00",
+     "titre": "Fusillade d’Aubagne : l’adolescent de 14 ans placé en détention provisoire",
+     "lien": "https://www.la-croix.com/fusillade-d-aubagne-detention-requise-contre-le-collegien-influence-par-les-tueries-de-masse-20261014",
+     "resume": "Mis en examen après avoir blessé par balles un principal et une enseignante lundi au collège Lakanal d’Aubagne, le collégien de 14 ans a été placé en détention provisoire mercredi 15 octobre. Il admet avoir été influencé par une mouvance fascinée par les…",
+     "date": "2026-10-15T08:19:41+02:00",
      "source": "",
-     "image": "https://i.la-croix.com/x/2026/10/14/2562147-fortes-chaleurs-secheresse-inondations-montees-des.jpg"
+     "image": "https://i.la-croix.com/x/2026/10/13/2560995-des-policiers-municipaux-devant-le-college-joseph-.jpg"
     },
     {
-     "titre": "Manifestation du 17 octobre : qui est derrière l’appel à la mobilisation qui agite les réseaux",
-     "lien": "https://www.la-croix.com/societe/manifestation-du-17-octobre-qui-est-derriere-l-appel-a-la-mobilisation-qui-agite-les-reseaux-20261014",
-     "resume": "Face à la hausse des prix, notamment des carburants, et en plein contexte de mobilisation lycéenne, les appels à manifester, samedi 17 octobre 2026, se multiplient sur les réseaux sociaux. Mais l’origine et l’ampleur que prendra cette contestation demeurent…",
-     "date": "2026-10-15T06:10:12+02:00",
+     "titre": "Sur Arte, la popularité de François d’Assise interrogée avec finesse et rigueur historique",
+     "lien": "https://www.la-croix.com/culture/sur-arte-la-popularite-de-francois-d-assise-interrogee-avec-finesse-et-rigueur-historique-20261015",
+     "resume": "Dans François d’Assise : l’exigence de la foi, documentaire porté surtout par les historiens, mais qui donne la parole à plusieurs membres de la famille franciscaine, la vie et la spiritualité de François sont traitées avec finesse et souci de rigueur…",
+     "date": "2026-10-15T08:07:15+02:00",
      "source": "",
-     "image": "https://i.la-croix.com/x/2026/10/14/2562119-un-graffiti-appelant-a-manifester-le-17-octobre-20.jpg"
+     "image": "https://i.la-croix.com/x/2026/10/14/2560537-le-documentaire-laisse-la-parole-a-de-nombreux-fra.jpg"
     },
     {
-     "titre": "À Gaza, après trois ans de guerre, la vie sous « des montagnes de gravats »",
-     "lien": "https://www.la-croix.com/international/a-gaza-apres-trois-ans-de-guerre-la-vie-sous-des-montagnes-de-gravats-20261014",
-     "resume": "Trois ans après le début de la guerre à Gaza, près des deux tiers de la population de l’enclave palestinienne vivent dans des tentes ou des abris de fortune. Alors que plus de 80 % des bâtiments ont été détruits ou endommagés, d’autres se résignent à habiter…",
-     "date": "2026-10-15T06:01:19+02:00",
+     "titre": "Associations : comment convaincre les bénévoles de s’investir chaque semaine ?",
+     "lien": "https://www.la-croix.com/societe/associations-comment-convaincre-les-benevoles-de-s-investir-chaque-semaine-20261015",
+     "resume": "Les bénévoles réguliers se font plus rares dans les associations. Le phénomène touche tous les secteurs et inquiète les responsables de structures, réunis jeudi 15 octobre 2026 à Paris pour le Forum national des associations et fondations.",
+     "date": "2026-10-15T08:04:11+02:00",
      "source": "",
-     "image": "https://i.la-croix.com/x/2026/10/14/2562157-l-arrivee-de-lhiver-risque-daggraver-les-risques-d.JPG"
+     "image": "https://i.la-croix.com/x/2026/10/15/2562085-des-benevoles-des-restos-du-cour-lors-d-une-collec.jpg"
     }
    ],
    "flux_utilise": "https://www.la-croix.com/feeds/rss/site.xml"
@@ -190,58 +190,58 @@
    "nom": "L'Équipe",
    "couleur": "#e2001a",
    "une": {
-    "fichier": "unes/equipe.webp",
+    "fichier": "unes/equipe.jpg",
     "date": "2026-10-15",
-    "source": "https://www.frontpages.com/t/2026/10/15/l-equipe-011538g0m@2x.webp"
+    "source": "https://img.kiosko.net/2026/10/15/fr/l_equip.750.jpg"
    },
    "articles": [
     {
-     "titre": "Êtes-vous un vrai fan de sport ?",
-     "lien": "https://www.lequipe.fr/jeux#at_medium=RSS_feeds",
+     "titre": "À quelle heure et sur quelle chaîne voir Lyon-Crystal Palace en Europa League ?",
+     "lien": "https://www.lequipe.fr/Football/Actualites/A-quelle-heure-et-sur-quelle-chaine-voir-lyon-crystal-palace-en-europa-league/1725694#at_medium=RSS_feeds",
+     "resume": "Pour cette deuxième journée d'Europe League, Lyon reçoit le vainqueur de l'Europe Conférence League 2026. Retrouvez ici toutes les informations relatives à la rencontre.",
+     "date": "2026-10-15T08:20:00+02:00",
+     "source": "",
+     "image": "https://medias.lequipe.fr/img-photo-jpg/non-selectionne-avec-l-equipe-de-france-pour-la-ligue-des-nations-corentin-tolisso-est-reste-a-lyon-pour-preparer-les-prochains-matches-a-reau-l-equipe/1500000002612713/0:0,2000:1333-828-552-75/bd120.jpg"
+    },
+    {
+     "titre": "Les meilleures actions des Français cette nuit",
+     "lien": "https://www.lequipe.fr/Basket/Video/Nba-presaison-nba-les-meilleures-actions-des-francais-cette-nuit/20243240#at_medium=RSS_feeds",
      "resume": "",
-     "date": "2026-10-15T06:49:00+02:00",
+     "date": "2026-10-15T08:16:00+02:00",
      "source": "",
      "image": "https://medias.lequipe.fr/img-photo-png/-/1500000000833469/0-828-552-75/0cb67.png"
     },
     {
-     "titre": "Désiré Doué, trente minutes de folie face à City et un statut qui grandit au PSG",
-     "lien": "https://www.lequipe.fr/Football/Article/Desire-doue-trente-minutes-de-folie-face-a-city-et-un-statut-qui-grandit-au-psg/1735854#at_medium=RSS_feeds",
-     "resume": "Désiré Doué a été le meilleur joueur sur la pelouse pendant le plus gros temps fort du PSG mercredi contre Manchester City (2-4). Ce n'est pas nouveau cette saison de voir l'ailier aussi important.",
-     "date": "2026-10-15T05:45:00+02:00",
+     "titre": "Édouard Cissé, ancien milieu de terrain du PSG, revient sur la victoire parisienne sur la pelouse de Manchester City en Ligue des champions : « Une première période parfaite ! »",
+     "lien": "https://www.lequipe.fr/Football/Article/Edouard-cisse-ancien-milieu-de-terrain-du-psg-revient-sur-la-victoire-parisienne-sur-la-pelouse-de-manchester-city-en-ligue-des-champions-une-premiere-periode-parfaite/1735863#at_medium=RSS_feeds",
+     "resume": "Édouard Cissé, l'ex-milieu du PSG, a été particulièrement impressionné par la première période parisienne et par la qualité exceptionnelle des deux premiers buts lors de la victoire sur la pelouse de Manchester City (4-2).",
+     "date": "2026-10-15T08:12:00+02:00",
      "source": "",
-     "image": "https://medias.lequipe.fr/img-photo-jpg/desire-doue-celebre-son-ouverture-du-score-face-aux-citizens-p-lahalle-l-equipe/1500000002623192/0:0,2000:1333-828-552-75/41e8e.jpg"
+     "image": "https://medias.lequipe.fr/img-photo-jpg/edouard-cisse-a-apprecie-le-premier-acte-des-parisiens-a-l-etihad-stadium-a-martin-et-p-lahalle-l-equipe/1500000002623205/0:0,1500:1000-828-552-75/e6607.jpg"
     },
     {
-     "titre": "« Pour moi, le football est un art » : Dimitar Berbatov, l'ancien joueur bulgare de Monaco, raconte sa vie sur scène",
-     "lien": "https://www.lequipe.fr/Football/Article/-pour-moi-le-football-est-un-art-dimitar-berbatov-l-ancien-joueur-bulgare-de-monaco-raconte-sa-vie-sur-scene/1725699#at_medium=RSS_feeds",
-     "resume": "Alors que son club formateur, le CSKA Sofia, reçoit ce jeudi (18 h 45) Monaco, où il a évolué un an et demi, l'attaquant bulgare Dimitar Berbatov parle de son passé de joueur et sa reconversion sur les planches.",
-     "date": "2026-10-15T05:30:00+02:00",
+     "titre": "À quelle heure et sur quelle chaîne voir Marseille-Olympiakos en Ligue Europa ?",
+     "lien": "https://www.lequipe.fr/Football/Actualites/A-quelle-heure-et-sur-quelle-chaine-voir-marseille-olympiacos-en-europa-league/1725736#at_medium=RSS_feeds",
+     "resume": "Après le lourd revers face au Besiktas (1-4), l'Olympique de Marseille reçoit l'Olympiakos au Vélodrome. Retrouvez ici toutes les informations relatives à la rencontre.",
+     "date": "2026-10-15T08:10:00+02:00",
      "source": "",
-     "image": "https://medias.lequipe.fr/img-photo-jpg/dimitar-berbatov-a-troque-les-crampons-pour-les-projecteurs-andrew-milligan-pa-icon-sport/1500000002612730/141:89,1932:1284-828-552-75/bfc00.jpg"
+     "image": "https://medias.lequipe.fr/img-photo-jpg/ulisses-garcia-et-les-marseillais-avaient-coule-en-turquie-face-au-besiktas-lors-de-la-premiere-journee-4-1-p-lahalle-l-equipe/1500000002612841/0:0,2000:1333-828-552-75/86af5.jpg"
     },
     {
-     "titre": "Pas adepte du turnover mais obligé de faire de la place aux jeunes, Bruno Genesio s'adapte, comme toujours",
-     "lien": "https://www.lequipe.fr/Football/Article/S-il-n-est-pas-un-grand-adepte-du-turnover-bruno-genesio-l-entraineur-de-l-om-a-decide-cet-automne-d-elargir-son-groupe-et-de-faire-de-la-place-aux-jeunes/1735807#at_medium=RSS_feeds",
-     "resume": "S'il préfère les rotations modérées aux grands changements dans son onze, Bruno Genesio, l'entraîneur de l'OM, qui reçoit l'Olympiakos jeudi en Ligue Europa (21 heures), a élargi son groupe cet automne, pour mieux le stimuler.",
-     "date": "2026-10-15T05:30:00+02:00",
+     "titre": "À quelle heure et sur quelle chaîne voir Rennes-OFI Crète en Europa League ?",
+     "lien": "https://www.lequipe.fr/Football/Actualites/A-quelle-heure-et-sur-quelle-chaine-voir-rennes-ofi-crete-en-europa-league/1725739#at_medium=RSS_feeds",
+     "resume": "Pour la deuxième journée d'Europa League, le Stade Rennais reçoit l'OFI Crète. Retrouvez ici toutes les informations relatives à la diffusion de la rencontre.",
+     "date": "2026-10-15T08:05:00+02:00",
      "source": "",
-     "image": "https://medias.lequipe.fr/img-photo-jpg/de-gauche-a-droite-faris-moumbagna-igor-paixao-angel-gomes-emerson-bamo-meite-alexi-koum-neal-maupay-et-kelyann-bezahaf-apres-la-victoire-de-marseille-a-troyes-dimanche-2-0-f-faugere-l-equipe/1500000002622977/0:0,1862:1242-828-552-75/63236.jpg"
+     "image": "https://medias.lequipe.fr/img-photo-jpg/esteban-lepaul-qui-a-connu-sa-premiere-apparition-avec-les-bleus-de-zidane-pendant-la-treve-est-convoite-par-plusieurs-clubs-anglais-s-mantey-l-equipe/1500000002612847/0:0,2000:1333-828-552-75/3e6f0.jpg"
     },
     {
-     "titre": "Revenus sur un coup de coeur : comme Benoît Trémoulinas à Bordeaux, ces joueurs qui sont sortis de leur retraite pour aider un club qui leur est cher",
-     "lien": "https://www.lequipe.fr/Football/Actualites/Revenus-sur-un-coup-de-coeur-comme-benoit-tremoulinas-a-bordeaux-ces-joueurs-qui-sont-sortis-de-leur-retraite-pour-aider-un-club-qui-leur-est-cher/1735795#at_medium=RSS_feeds",
-     "resume": "Alors qu'ils étaient à la retraite depuis plus ou moins longtemps, ils ont décidé de revenir dans le jeu, par plaisir ou par devoir, à l'image de Benoît Trémoulinas qui, à près de 41 ans, s'apprête à retrouver les Girondins de Bordeaux, rétrogradés en…",
-     "date": "2026-10-15T05:20:00+02:00",
+     "titre": "Equipe-type, transferts, nos pronos... Découvrez ici toutes les informations concernant la NBA 2026/2027.",
+     "lien": "https://www.lequipe.fr/collection/guide-nba-2026-2027/#at_medium=RSS_feeds",
+     "resume": "",
+     "date": "2026-10-15T08:00:00+02:00",
      "source": "",
      "image": "https://medias.lequipe.fr/img-photo-png/-/1500000000833469/0-828-552-75/0cb67.png"
-    },
-    {
-     "titre": "« C'est hypnotique comme moment » : pourquoi les ravitos de l'ultra-trail sont devenus culte pour le grand public",
-     "lien": "https://www.lequipe.fr/Respire/Tendances/Actualites/-c-est-hypnotique-comme-moment-pourquoi-les-ravitos-de-l-ultra-trail-sont-devenus-culte-pour-le-grand-public/1725383#at_medium=RSS_feeds",
-     "resume": "Les coaches les chronomètrent, les athlètes les dissèquent en vidéo, les réseaux sociaux s'en amusent et les parodient : les ravitaillements sont devenus des moments cultes dans la mythologie de l'ultra-trail. Presque une course dans la course. Et bientôt un…",
-     "date": "2026-10-15T05:15:00+02:00",
-     "source": "",
-     "image": "https://medias.lequipe.fr/img-photo-jpg/les-ravitos-donnent-a-voir-une-intimite-rare-dans-le-sport-de-haut-niveau-qui-en-dit-long-sur-la-durete-du-trail-j-nika-agence-zoom-presse-sports/1500000002611741/0:0,1500:1000-828-552-75/17da8.jpg"
     }
    ],
    "flux_utilise": "https://dwh.lequipe.fr/api/edito/rss?path=/"
@@ -260,18 +260,18 @@
      "date": "2026-10-15T06:57:23+02:00",
      "source": "lemonde.fr",
      "image": "https://img.lemde.fr/2026/10/14/42/0/2048/1024/644/322/60/0/8a6a927_ftp-1-ozpnoi3scvzp-2026-10-14t165349z-491970726-rc213oap8xhh-rtrmadp-3-ukraine-crisis-attack-lutsk.JPG",
-     "reprises": 7,
-     "score": 39.87
+     "reprises": 6,
+     "score": 26.76
     },
     {
-     "titre": "Présidentielle au Brésil : le parti de Lula accuse Meta d’« ingérence » pendant l’entre-deux-tours",
-     "lien": "https://www.lemonde.fr/international/article/2026/10/15/presidentielle-au-bresil-le-parti-de-lula-accuse-meta-d-ingerence-a-l-entre-deux-tours_6793863_3210.html",
-     "resume": "Le Parti des travailleurs, la formation de gauche du président sortant, candidat à sa réélection, affirme que le groupe américain limite la diffusion de ses contenus sur Instagram et sur WhatsApp, et annonce vouloir saisir l’Organisation des Etats…",
-     "date": "2026-10-15T00:32:21+02:00",
-     "source": "lemonde.fr",
-     "image": "https://img.lemde.fr/2026/10/12/194/0/4166/2083/644/322/60/0/e55ea0d_ftp-1-e4ivuy90o5kt-2026-10-12t140606z-1147821022-rc2o1oajiwh0-rtrmadp-3-brazil-election-lula.JPG",
-     "reprises": 3,
-     "score": 5.63
+     "titre": "Colombie : des milliers de manifestants dans la rue contre le durcissement du gouvernement de droite",
+     "lien": "https://www.france24.com/fr/vid%C3%A9o/20261015-colombie-des-milliers-de-manifestants-dans-la-rue-contre-le-durcissement-du-gouvernement-de-droite",
+     "resume": "Des milliers de personnes ont manifesté mercredi à Bogota contre les politiques du président Abelardo de la Espriella. Le président, au pouvoir depuis août, s'est aligné sur Washington et veut démanteler les reformes de son prédécesseur, rappelle Pascale…",
+     "date": "2026-10-15T02:12:54+02:00",
+     "source": "france24.com",
+     "image": "https://s.france24.com/media/display/0bfd06d8-c820-11f1-a92c-d1d2c32ebb87/w:1024/p:16x9/NW262666-O-01-20261014-01.jpg",
+     "reprises": 4,
+     "score": 7.68
     },
     {
      "titre": "« Qui peut encore croire Donald Trump ? Certainement pas les Ukrainiens, sans doute pas les Russes, surtout pas les Européens »",
@@ -280,38 +280,38 @@
      "date": "2026-10-15T06:15:03+02:00",
      "source": "lemonde.fr",
      "image": "https://img.lemde.fr/2026/10/15/0/0/2451/1225/644/322/60/0/3a91b0c_ftp-1-iv5tx1lrtxl5-9e19aae392f44591bc9a26d9690fac71-0-9f7b49fb448c41a5a770a17e783ddc37.jpg",
-     "reprises": 3,
-     "score": 5.09
+     "reprises": 4,
+     "score": 7.18
     },
     {
-     "titre": "Ligue des champions : le PSG remporte un nouveau choc européen face à Manchester City",
-     "lien": "https://www.france24.com/fr/sports/20261014-ligue-champions-psg-remporte-nouveau-choc-europeen-face-manchester-city-fc-barcelone-football-desire-doue-ousmane-dembele-vitinha",
-     "resume": "Au terme d'une rencontre haletante, le Paris SG s'est imposé à Manchester City (4-2), mercredi lors de la deuxième journée de la Ligue des champions. Les doubles champions d'Europe accueilleront mardi prochain le Barça, vainqueur de tous ses matchs depuis le…",
-     "date": "2026-10-14T23:43:50+02:00",
-     "source": "© Jason Cairnduff, Action Images via Reuters",
-     "image": "https://s.france24.com/media/display/3b5e936e-c817-11f1-ab9c-d1d2c32ebb87/w:1024/p:16x9/2026-10-14T192325Z-1970960909-UP1EMAE1HROMZ-RTRMADP-3-SOCCER-CHAMPIONS-MCI-PSG.jpg",
-     "reprises": 3,
-     "score": 5.01
+     "titre": "Le PSG impressionne encore avec une victoire de folie à Manchester City",
+     "lien": "https://www.france24.com/fr/%C3%A9missions/sports/20261015-psg-impressionne-encore-avec-victoire-folie-manchester-city",
+     "resume": "Paris n’est pas double champion d’Europe pour rien. En déplacement à Manchester City dans le cadre de la deuxième journée de la Ligue des champions, le PSG a envoyé un message à la concurrence en s’imposant 4-2. Dominés lors du premier acte (3-0), les…",
+     "date": "2026-10-15T07:27:52+02:00",
+     "source": "france24.com",
+     "image": "https://s.france24.com/media/display/6c1c7c44-c837-11f1-a86b-4dd8ac2cf3bf/w:1024/p:16x9/000-D3BA3CX.jpg",
+     "reprises": 4,
+     "score": 7.04
     },
     {
-     "titre": "Inauguration d'un nouveau pont reliant la Chine à la Corée du Nord",
-     "lien": "https://www.rfi.fr/fr/asie-pacifique/20261014-inauguration-d-un-nouveau-pont-reliant-la-chine-%C3%A0-la-cor%C3%A9e-du-nord",
-     "resume": "La Chine et la Corée du Nord vont être reliées par un nouveau pont, inauguré ce jeudi 15 octobre lors d’une cérémonie conjointe. L’infrastructure qui enjambe le fleuve Yalu reliera la ville chinoise de Dandong à Sinuiju en Corée du Nord. Ce symbole du…",
-     "date": "2026-10-14T22:32:20+02:00",
-     "source": "© AP Photo",
-     "image": "https://s.rfi.fr/media/display/94c64912-c806-11f1-ab4a-2d1c143cdef3/w:1024/p:16x9/AP26287134295166.jpg",
+     "titre": "Ukraine: \"L'abandon américain?\"",
+     "lien": "https://www.france24.com/fr/%C3%A9missions/dans-la-presse/20261015-ukraine-l-abandon-am%C3%A9ricain",
+     "resume": "A la Une de la presse, ce jeudi 15 octobre, les réactions aux restrictions du réseau Starlink pour l’Ukraine, et le flou autour de cette décision. Le vote, hier, en Saxe-Anhalt, en Allemagne, d’un texte pour mettre fin au soutien allemand à l’Ukraine. Le…",
+     "date": "2026-10-15T08:00:26+02:00",
+     "source": "france24.com",
+     "image": "https://s.france24.com/media/display/9412b226-c85b-11f1-8895-4dd8ac2cf3bf/w:1024/p:16x9/10-LIBERATION-UKRAINE.png",
      "reprises": 3,
-     "score": 4.62
+     "score": 5.65
     },
     {
-     "titre": "Navanethem Pillay, Prix Nobel de la paix : sur Gaza, « on nous a accusés d’antisémitisme et de partialité. Mais je sais ce qui est constitutif du crime de génocide »",
-     "lien": "https://www.lemonde.fr/afrique/article/2026/10/15/navanethem-pillay-prix-nobel-de-la-paix-sur-gaza-on-nous-a-accuses-d-antisemitisme-et-de-partialite-mais-je-sais-ce-qui-est-constitutif-du-crime-de-genocide_6794072_3212.html",
-     "resume": "Après avoir siégé au Tribunal pénal international pour le Rwanda dans les années 1990, la juriste sud-africaine a récemment présidé la commission d’enquête du Haut-Commissariat des Nations unies aux droits de l’homme qui a estimé qu’un « génocide » se…",
-     "date": "2026-10-15T06:00:11+02:00",
+     "titre": "Présidentielle au Brésil : le parti de Lula accuse Meta d’« ingérence » pendant l’entre-deux-tours",
+     "lien": "https://www.lemonde.fr/international/article/2026/10/15/presidentielle-au-bresil-le-parti-de-lula-accuse-meta-d-ingerence-a-l-entre-deux-tours_6793863_3210.html",
+     "resume": "Le Parti des travailleurs, la formation de gauche du président sortant, candidat à sa réélection, affirme que le groupe américain limite la diffusion de ses contenus sur Instagram et sur WhatsApp, et annonce vouloir saisir l’Organisation des Etats…",
+     "date": "2026-10-15T00:32:21+02:00",
      "source": "lemonde.fr",
-     "image": "https://img.lemde.fr/2026/10/12/1240/0/3031/1515/644/322/60/0/e3074c8_ftp-1-fp23ubchpvw5-1b8faafd3288481c87bd9a5de774ba4e-0-81c3426b8cc74d9784538cce54a0f9f9.jpg",
+     "image": "https://img.lemde.fr/2026/10/12/410/0/4166/2083/644/322/60/0/e55ea0d_ftp-1-e4ivuy90o5kt-2026-10-12t140606z-1147821022-rc2o1oajiwh0-rtrmadp-3-brazil-election-lula.JPG",
      "reprises": 3,
-     "score": 4.56
+     "score": 5.52
     }
    ],
    "a_traduire": []
@@ -322,14 +322,14 @@
    "sous_titre": "Modèles, entreprises, régulation, recherche",
    "items": [
     {
-     "titre": "Lors d'une réunion d'Anthropic avant son introduction en bourse : des casquettes « Thinking », un chiffre d'af",
-     "lien": "https://news.google.com/rss/articles/CBMi2wJBVV95cUxObUZ6RXBtb0hMQVE2X25mRTdpclJmbHpQcDI5dlRva0NPeDFXb2lyaW1aUndXUHI2R0s4S3hINzk0MElDSEFkcWxrWm1GZC1sdVU5aUdxNlprYmMwd2JaaEZFWlhLRExBZ2JwUFNHVXdQVzd3WnNHQUM5ekJOeXVkR3BJMXpCMGp0Z1lRTVhDNE5jcE9ZSzRtOS0wYnpJQlNXbUtsWkxteHVDcTBqNzJEOU1NTkwxNVdZdlJhTXVFdWFCZkNVeXJEWGg0d3NzUHk5ckRZNmFkOU9HUWtlYzBncDZMZzZuRkVXNXlVUE5jX1ZneUZJNVFabFJVOFAtRVRGNU1wcHdJVjdrd3hrR285ZE5sVXR5eVpWbUVSN3JRWGp3dzZyd2lBTmhUR2o5MmJ6UmFYY3dNN2VCX0VpMmNjbGVGNUM2V21rYmhZSjlMdlpCSm1jel8yY21Sc9IB2wJBVV95cUxObUZ6RXBtb0hMQVE2X25mRTdpclJmbHpQcDI5dlRva0NPeDFXb2lyaW1aUndXUHI2R0s4S3hINzk0MElDSEFkcWxrWm1GZC1sdVU5aUdxNlprYmMwd2JaaEZFWlhLRExBZ2JwUFNHVXdQVzd3WnNHQUM5ekJOeXVkR3BJMXpCMGp0Z1lRTVhDNE5jcE9ZSzRtOS0wYnpJQlNXbUtsWkxteHVDcTBqNzJEOU1NTkwxNVdZdlJhTXVFdWFCZkNVeXJEWGg0d3NzUHk5ckRZNmFkOU9HUWtlYzBncDZMZzZuRkVXNXlVUE5jX1ZneUZJNVFabFJVOFAtRVRGNU1wcHdJVjdrd3hrR285ZE5sVXR5eVpWbUVSN3JRWGp3dzZyd2lBTmhUR2o5MmJ6UmFYY3dNN2VCX0VpMmNjbGVGNUM2V21rYmhZSjlMdlpCSm1jel8yY21Scw?oc=5",
+     "titre": "SpaceX déjà battu? Anthropic enregistre un chiffre d'affaires de 16,8 milliards de dollars au troisième trimestre, en hausse de 45%, et vise une introduction record à Wall Street en novembre",
+     "lien": "https://news.google.com/rss/articles/CBMi6wJBVV95cUxQc3gxX04wejhOXzZtZl90MkNQOWJFcXVjOXh1RlhITjc4U3JHYzlEMWdQaHUwYVRJTjlCN2J3RkREaWJOUmN0dThmRFk5VFJiRFRwVEhHM01iemE4eXV2blJrRkVHMXA5cmZCcU9LSlZ6b3BhLUdiVjFOSXV3SFo4OFl1VFB1OUZPU1RidXNvOHh4aFlEM0ZrNEIxMVFLNGpnMldCWHlmNzRKd0NfVFFUNDJ6NjJYaFZLR3g4UlgtNnRKa0xqU0RQdlZvN2ozcUhIU3FNNlVxZVlrVUhQVU5ZZzByemFWeDBHMHRJNWNQUnVqM3I2QXJaNV95ZGVRUmZNbnZXS25zYjgzbzI4dUpOaEZzLXJZNWVVSzNzTlNYS0x1OFpuQkFJZGFJVThIeV9fblRpZGNOSThvNWFJLTdWQVQxZzJENWNwc0FaUDNfdE1wUHpFNGxtVXd6OGNNdUVWbm5iNVZBcGxZS3M?oc=5",
      "resume": "",
-     "date": "2026-10-15T03:19:27+02:00",
-     "source": "Boursorama",
+     "date": "2026-10-15T07:01:23+02:00",
+     "source": "BFM",
      "image": null,
-     "reprises": 8,
-     "score": 18.2
+     "reprises": 9,
+     "score": 21.5
     },
     {
      "titre": "OpenAI poursuivi en justice par huit Etats américains qui l'accusent de nuire aux enfants",
@@ -338,28 +338,18 @@
      "date": "2026-10-14T23:02:19+02:00",
      "source": "Les Echos",
      "image": null,
-     "reprises": 6,
-     "score": 10.82
-    },
-    {
-     "titre": "Un employé d'OpenAI parti chez Apple aurait emporté des fichiers concernant un appareil non encore commerciali",
-     "lien": "https://news.google.com/rss/articles/CBMiqwJBVV95cUxPWF9RQklZOHFiUHJlSk5zQ1N4WHJUYi1BdU1sMGNGWGwzV0w1S1VQMFFUZ1F3X25wOC1lZmE3Zld0eDc4eXZmWXpVZmVKSXpZZUo0eXAyN2R0SjJCd2psc3FuTTJnV3Vfd1k4SGxWUXBWM19ieUxaazJibzBVTXE1RHVud0JUNFNhMTBkNk5LMVZXOHFtMXg4UmF4NWpCcGNhVDlIWlFEdzJab3RMb05KaGJRVkNuMXBUUkkwRmROdDJIVUtOdWZfRmY2N2NpdUR6TUY1OUlzd0NsTkg5a01vOVkwZDFJNmRWU09XWngyTFo5emU4Y0paUTllUG5uWTFkTnhiMW1RQmlzVTFkZUw1eFVRVGZDdmxaZS1EWXFHWUFkb0g1eUZwanczVdIBsAJBVV95cUxPcy1yRGZ4UEQ5Wi1VRmNOOTBnVW1TOUxxWkx6QlJkc0pOZ3IxYXRpS2M4d1I4b1Eyd2lMYzBLSjhQSE4ybTJlRlBOS0g3SzdMMTdubFYwUGlZeWRTeDNCd0ZfSnRWMXdZc01NSTBabkNoUmRXU3JpdjUyS0plM2ZtYXUyODBvamg5OE1nNlpRRFMzNDB6VGVqeFduTkxuYVJHbk12d1FCc1JBYWhsY3ROR3hLdlRnS3pVSW5vYWlFX0lkR3dNQ0RlUjBIakhPZ3RiWWRnajNDU202SVNFcnd6aVprZTlTRldXdFc4LVZtUHlROTA5Q1U3ejBLVzI0bThwLWhQc0gtVkZBQVZ2QmsxaS1xM0lxbll0YVlDazRqSzRWOFphWlB4TTJqQk1ES2p5?oc=5",
-     "resume": "Un ingénieur d’OpenAI a été arrêté après la découverte d’un dispositif d’écoute dans une salle de réunion de la direction. L’entreprise affirme que ses propres modèles ont contribué à l’identifier, tandis que plusieurs questions restent ouvertes sur les…",
-     "date": "2026-10-15T03:02:00+02:00",
-     "source": "Boursorama",
-     "image": null,
      "reprises": 4,
-     "score": 6.83
+     "score": 6.42
     },
     {
-     "titre": "Le Nikkei japonais plonge, les valeurs technologiques malmenées par l’intelligence artificielle (IA) et les craintes de hausse des taux",
-     "lien": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxObXVLM0RVU3A4YTdqRWtBNTNVcFIzcGJqbFZXeW5LNnllbXUzdVZxMW5RUFVuNUw4TXNVMjAtaUtPa0RveVozdTFPaUdwZHZwZVRnZGJLQkNUNnlIbHQxU05WTGdiR1BSaU40QkZwdmpJTWx5RTd3dkFicl8tWW5iS3hRbEZyYnhhNHhZa29KVFY1czJTR3pqWUExaThSNTEzY3NIaF9PQUoyWVNZWGNEREN2eXYxSmV1cjhyTnRVdm9tT1lyVnNtbHlmaHJGU1BjenhPUWZpbWZLVEVqd1dmNll3eUtFV2UybjR6WWlB?oc=5",
+     "titre": "Anthropic imagine des IA capables de se reproduire dans nos objets connectés… et les teste sur des Android TV à 55",
+     "lien": "https://news.google.com/rss/articles/CBMiggJBVV95cUxQdW8wLXZGaE5BMUx1enFXczFkeWg5ZGhlV1VCSlNJMTVNaFd5NS0xMUpoYXVISDgwR05GT2hUM0ZPc1gzSDJIOHRvUGJuTTh4NkUzMTlLRVJmR1IwZWt5NVFDNmp0azVpOEI2eWJ4bl8yYW4tRVVPalc2ZlhiX3RTSEJWSTg2eFRGbTBXczdpMGQ5MWtzWEJma2lfanozNW9JcmY0c2xvQWRsdFlYLURVR2NJMVRCbUYwS0xDTWhjNXJ0WTFDTmxVemdvcWRnWldLSEpjWXVURlQzVHJXTkIxZVd1Nms0VXViUVRQanlpRHczblp5RmdrTk9sNDZ5MUJIYnc?oc=5",
      "resume": "",
-     "date": "2026-10-15T05:23:25+02:00",
-     "source": "Zonebourse Suisse",
+     "date": "2026-10-15T08:00:00+02:00",
+     "source": "MacGeneration",
      "image": null,
-     "reprises": 2,
-     "score": 4.7
+     "reprises": 1,
+     "score": 3.36
     },
     {
      "titre": "Arthur Mensch, directeur général de Mistral AI : « Laisser les modèles d’IA aux Américains et aux Chinois placerait l’Europe dans une dépendance sans équivalent dans l’histoire des civilisations »",
@@ -369,7 +359,17 @@
      "source": "Le Monde.fr",
      "image": null,
      "reprises": 1,
-     "score": 3.94
+     "score": 3.34
+    },
+    {
+     "titre": "Un ingénieur d’OpenAI arrêté pour avoir dissimulé un micro dans un téléviseur",
+     "lien": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPUEN1dGpHOTFuNW0wck9SX2Q3MkxHTndpYmUzMWc5UU1vWXFzSzN6MWpaZ3hGRWg0Y2VyTnpLeE1rSG5uQ041WXF4WVE0VEdob0F3M3E3STN5VXlZeU1fZHl3X0dVUFRsNzRXblpONjhnMU42aVRSU1RqMExtWHNXaVltRXFIWlFDRF8yTnBERFI1ZkNMMjBYV2ZibjF3ZnJJeVdCMFcyV0E?oc=5",
+     "resume": "Un ingénieur d’OpenAI a été arrêté après la découverte d’un dispositif d’écoute dans une salle de réunion de la direction. L’entreprise affirme que ses propres modèles ont contribué à l’identifier, tandis que plusieurs questions restent ouvertes sur les…",
+     "date": "2026-10-15T07:35:00+02:00",
+     "source": "Tom’s Hardware",
+     "image": null,
+     "reprises": 2,
+     "score": 3.22
     }
    ],
    "a_traduire": [
@@ -381,7 +381,7 @@
      "source": "theverge.com",
      "image": null,
      "reprises": 1,
-     "score": 1.5
+     "score": 1.47
     },
     {
      "titre": "Zenzap raises $44M for its AI chat app that aims to replace WhatsApp in the workplace",
@@ -391,7 +391,7 @@
      "source": "techcrunch.com",
      "image": null,
      "reprises": 1,
-     "score": 1.37
+     "score": 1.34
     },
     {
      "titre": "The AI race is back on",
@@ -401,7 +401,7 @@
      "source": "theverge.com",
      "image": null,
      "reprises": 1,
-     "score": 1.3
+     "score": 1.27
     },
     {
      "titre": "Scimplify raises $25M to challenge China’s grip on critical materials with AI",
@@ -411,7 +411,7 @@
      "source": "techcrunch.com",
      "image": null,
      "reprises": 1,
-     "score": 1.17
+     "score": 1.14
     },
     {
      "titre": "OpenAI claims an ex-employee took its product plans and presented them to Apple",
@@ -421,7 +421,7 @@
      "source": "theverge.com",
      "image": null,
      "reprises": 1,
-     "score": 1.16
+     "score": 1.14
     }
    ]
   },
@@ -438,7 +438,7 @@
      "source": "CNews",
      "image": null,
      "reprises": 8,
-     "score": 23.31,
+     "score": 23.25,
      "libertes": true
     },
     {
@@ -449,7 +449,7 @@
      "source": "La Gazette des Communes",
      "image": null,
      "reprises": 9,
-     "score": 17.05,
+     "score": 16.89,
      "libertes": false
     },
     {
@@ -460,7 +460,7 @@
      "source": "Ouest-France",
      "image": null,
      "reprises": 4,
-     "score": 6.04,
+     "score": 5.99,
      "libertes": false
     },
     {
@@ -471,7 +471,7 @@
      "source": "Le Republicain Lorrain",
      "image": null,
      "reprises": 3,
-     "score": 5.9,
+     "score": 5.86,
      "libertes": false
     },
     {
@@ -482,7 +482,7 @@
      "source": "Actu-Environnement",
      "image": null,
      "reprises": 3,
-     "score": 5.08,
+     "score": 5.03,
      "libertes": true
     },
     {
@@ -493,7 +493,7 @@
      "source": "ladepeche.fr",
      "image": null,
      "reprises": 2,
-     "score": 4.0,
+     "score": 3.97,
      "libertes": true
     }
    ],
