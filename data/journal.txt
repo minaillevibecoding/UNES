@@ -1,33 +1,35 @@
 == Journaux
-  ok   16  https://www.lemonde.fr/rss/une.xml
+  ok   19  https://www.lefigaro.fr/rss/figaro_actualites.xml
   ok   50  https://dwh.lequipe.fr/api/edito/rss?path=/
-  ok   20  https://www.lefigaro.fr/rss/figaro_actualites.xml
+  ok   16  https://www.lemonde.fr/rss/une.xml
   ok   50  https://www.la-croix.com/feeds/rss/site.xml
-  kiosko https://www.kiosko.net/fr/: URLError
   kiosko https://www.kiosko.net/fr/geo/Paris.html: URLError
-  kiosko : 15 journaux repérés : courrierpicard dauphine depeche echos l_equip l_express lacroix le_nouvel_economiste lyonnerepublicaine ouestfrance parisien republiquepyrenees sudouest tribune voixdunord
-  une Le Figaro (milibris, édition du 2026-10-14): https://static.milibris.com/thumbnail/issue/736a3171-6966-4f6c-a14f-82dc01e57aab/front/catalog-cover-large.jpeg
-  une Le Monde (frontpages, édition du 2026-10-14): https://www.frontpages.com/t/2026/10/13/le-monde-233555wra@2x.webp
+  kiosko https://fr.kiosko.net/fr/: URLError
+  kiosko : 13 journaux repérés : courrierpicard dauphine depeche echos l_equip lacroix lyonnerepublicaine ouestfrance parisien republiquepyrenees sudouest tribune voixdunord
+  une Le Monde (frontpages, édition du 2026-10-15): https://www.frontpages.com/t/2026/10/14/le-monde-233309sdn@2x.webp
+  une Le Figaro (milibris, édition du 2026-10-15): https://static.milibris.com/thumbnail/issue/0045e690-6cb6-4231-89e6-d0196346cb8d/front/catalog-cover-large.jpeg
   une La Croix (kiosko, édition du 2026-10-14): https://img.kiosko.net/2026/10/14/fr/lacroix.750.jpg
+  une La Croix (frontpages, édition du 2026-10-15): https://www.frontpages.com/t/2026/10/15/la-croix-065334r6l@2x.webp
   une L'Équipe (kiosko, édition du 2026-10-14): https://img.kiosko.net/2026/10/14/fr/l_equip.750.jpg
+  une L'Équipe (frontpages, édition du 2026-10-15): https://www.frontpages.com/t/2026/10/15/l-equipe-011538g0m@2x.webp
 == Sections
   ok   20  https://www.lemonde.fr/international/rss_full.xml
-  ok   24  https://www.france24.com/fr/rss
   ok   24  https://www.rfi.fr/fr/rss
-  ok   56  https://news.google.com/rss/search?q=monde%20international%20when%3A1d&hl=fr&gl=FR&ceid=FR:fr
-  ok   20  https://www.francetvinfo.fr/monde.rss
+  ok   24  https://www.france24.com/fr/rss
+  ok   57  https://news.google.com/rss/search?q=monde%20international%20when%3A1d&hl=fr&gl=FR&ceid=FR:fr
   ok   70  https://news.google.com/rss/headlines/section/topic/WORLD?hl=fr&gl=FR&ceid=FR:fr
-  ok   20  https://techcrunch.com/category/artificial-intelligence/feed/
+  ok   20  https://www.francetvinfo.fr/monde.rss
   ok   10  https://www.theverge.com/rss/ai-artificial-intelligence/index.xml
+  ok   20  https://techcrunch.com/category/artificial-intelligence/feed/
   ok   15  https://www.numerama.com/tech/intelligence-artificielle/feed/
   ok  100  https://news.google.com/rss/search?q=OpenAI%20OR%20Anthropic%20OR%20%22Google%20DeepMind%22%20OR%20%22Mistral%
   ok  100  https://news.google.com/rss/search?q=intelligence%20artificielle%20when%3A1d&hl=fr&gl=FR&ceid=FR:fr
   ok    0  https://siecledigital.fr/intelligence-artificielle/feed/
-  ok   14  https://news.google.com/rss/search?q=CEDH%20OR%20%22Cour%20europ%C3%A9enne%20des%20droits%20de%20l%27homme%22%
-  ok   41  https://news.google.com/rss/search?q=%22Cour%20de%20cassation%22%20arr%C3%AAt%20when%3A3d&hl=fr&gl=FR&ceid=FR:
-  ok   31  https://news.google.com/rss/search?q=%22Conseil%20constitutionnel%22%20France%20-Cameroun%20-S%C3%A9n%C3%A9gal
-  ok   50  https://news.google.com/rss/search?q=%22libert%C3%A9s%20fondamentales%22%20OR%20%22libert%C3%A9%20d%27expressi
-  ok   32  https://news.google.com/rss/search?q=%22Conseil%20d%27%C3%89tat%22%20d%C3%A9cision%20when%3A3d&hl=fr&gl=FR&cei
-  ERR ParseError: not well-formed (invalid token): line 13, column 477  https://www.dalloz-actualite.fr/rss.xml
-== Éditorial Claude fusionné
+  ok   15  https://news.google.com/rss/search?q=CEDH%20OR%20%22Cour%20europ%C3%A9enne%20des%20droits%20de%20l%27homme%22%
+  ok   53  https://news.google.com/rss/search?q=%22libert%C3%A9s%20fondamentales%22%20OR%20%22libert%C3%A9%20d%27expressi
+  ok   40  https://news.google.com/rss/search?q=%22Cour%20de%20cassation%22%20arr%C3%AAt%20when%3A3d&hl=fr&gl=FR&ceid=FR:
+  ok   39  https://news.google.com/rss/search?q=%22Conseil%20d%27%C3%89tat%22%20d%C3%A9cision%20when%3A3d&hl=fr&gl=FR&cei
+  ok   36  https://news.google.com/rss/search?q=%22Conseil%20constitutionnel%22%20France%20-Cameroun%20-S%C3%A9n%C3%A9gal
+  ERR ParseError: not well-formed (invalid token): line 17, column 68  https://www.dalloz-actualite.fr/rss.xml
+editorial.json daté du 2026-10-14 : ignoré
 == site/index.html écrit
