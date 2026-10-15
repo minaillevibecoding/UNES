@@ -1,6 +1,6 @@
 {
  "date": "2026-10-15",
- "genere": "2026-10-15T07:06+02:00",
+ "genere": "2026-10-15T07:08+02:00",
  "journaux": [
   {
    "id": "figaro",
@@ -196,6 +196,14 @@
    },
    "articles": [
     {
+     "titre": "Êtes-vous un vrai fan de sport ?",
+     "lien": "https://www.lequipe.fr/jeux#at_medium=RSS_feeds",
+     "resume": "",
+     "date": "2026-10-15T06:49:00+02:00",
+     "source": "",
+     "image": "https://medias.lequipe.fr/img-photo-png/-/1500000000833469/0-828-552-75/0cb67.png"
+    },
+    {
      "titre": "Désiré Doué, trente minutes de folie face à City et un statut qui grandit au PSG",
      "lien": "https://www.lequipe.fr/Football/Article/Desire-doue-trente-minutes-de-folie-face-a-city-et-un-statut-qui-grandit-au-psg/1735854#at_medium=RSS_feeds",
      "resume": "Désiré Doué a été le meilleur joueur sur la pelouse pendant le plus gros temps fort du PSG mercredi contre Manchester City (2-4). Ce n'est pas nouveau cette saison de voir l'ailier aussi important.",
@@ -234,14 +242,6 @@
      "date": "2026-10-15T05:15:00+02:00",
      "source": "",
      "image": "https://medias.lequipe.fr/img-photo-jpg/les-ravitos-donnent-a-voir-une-intimite-rare-dans-le-sport-de-haut-niveau-qui-en-dit-long-sur-la-durete-du-trail-j-nika-agence-zoom-presse-sports/1500000002611741/0:0,1500:1000-828-552-75/17da8.jpg"
-    },
-    {
-     "titre": "Compo probable : l'OL avec Khalis Merah d'entrée pour la réception de Crystal Palace en Ligue Europa ?",
-     "lien": "https://www.lequipe.fr/Football/Actualites/L-ol-avec-khalis-merah-d-entree-pour-la-reception-de-crystal-palace/1735806#at_medium=RSS_feeds",
-     "resume": "Paulo Fonseca, l'entraîneur de l'OL, va sans doute intégrer Khalis Merah dans le onze à l'occasion de la réception de Crystal Palace en Ligue Europa, ce jeudi soir (18 h 45).",
-     "date": "2026-10-15T00:45:00+02:00",
-     "source": "",
-     "image": "https://medias.lequipe.fr/img-photo-jpg/khalis-merah-devrait-etre-titulaire-face-a-crystal-palace-ce-jeudi-p-lahalle-l-equipe/1500000002622979/315:56,1940:1139-828-552-75/74855.jpg"
     }
    ],
    "flux_utilise": "https://dwh.lequipe.fr/api/edito/rss?path=/"
@@ -261,17 +261,7 @@
      "source": "lemonde.fr",
      "image": "https://img.lemde.fr/2026/10/14/42/0/2048/1024/644/322/60/0/8a6a927_ftp-1-ozpnoi3scvzp-2026-10-14t165349z-491970726-rc213oap8xhh-rtrmadp-3-ukraine-crisis-attack-lutsk.JPG",
      "reprises": 7,
-     "score": 38.31
-    },
-    {
-     "titre": "Le monde en images",
-     "lien": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5DZlkyM3NXX1JvWURVanRZb3BsRnpMRVlWRy1wcGZWdHlLUU9tRHJNXzc2RXZrXzQzaDgzY0J1NlAxc1Exbmp3SUdwZ3Z3a1BfcVVXTmp3QnlMUENmaDQyQk9JVTJrbEdaS18yVVRxN1lzQmhueWhNVDlUWQ?oc=5",
-     "resume": "",
-     "date": "2026-10-15T01:30:00+02:00",
-     "source": "La Presse",
-     "image": null,
-     "reprises": 4,
-     "score": 8.95
+     "score": 39.87
     },
     {
      "titre": "Présidentielle au Brésil : le parti de Lula accuse Meta d’« ingérence » pendant l’entre-deux-tours",
@@ -291,7 +281,7 @@
      "source": "lemonde.fr",
      "image": "https://img.lemde.fr/2026/10/15/0/0/2451/1225/644/322/60/0/3a91b0c_ftp-1-iv5tx1lrtxl5-9e19aae392f44591bc9a26d9690fac71-0-9f7b49fb448c41a5a770a17e783ddc37.jpg",
      "reprises": 3,
-     "score": 5.1
+     "score": 5.09
     },
     {
      "titre": "Ligue des champions : le PSG remporte un nouveau choc européen face à Manchester City",
@@ -301,7 +291,7 @@
      "source": "© Jason Cairnduff, Action Images via Reuters",
      "image": "https://s.france24.com/media/display/3b5e936e-c817-11f1-ab9c-d1d2c32ebb87/w:1024/p:16x9/2026-10-14T192325Z-1970960909-UP1EMAE1HROMZ-RTRMADP-3-SOCCER-CHAMPIONS-MCI-PSG.jpg",
      "reprises": 3,
-     "score": 5.0
+     "score": 5.01
     },
     {
      "titre": "Inauguration d'un nouveau pont reliant la Chine à la Corée du Nord",
@@ -312,6 +302,16 @@
      "image": "https://s.rfi.fr/media/display/94c64912-c806-11f1-ab4a-2d1c143cdef3/w:1024/p:16x9/AP26287134295166.jpg",
      "reprises": 3,
      "score": 4.62
+    },
+    {
+     "titre": "Navanethem Pillay, Prix Nobel de la paix : sur Gaza, « on nous a accusés d’antisémitisme et de partialité. Mais je sais ce qui est constitutif du crime de génocide »",
+     "lien": "https://www.lemonde.fr/afrique/article/2026/10/15/navanethem-pillay-prix-nobel-de-la-paix-sur-gaza-on-nous-a-accuses-d-antisemitisme-et-de-partialite-mais-je-sais-ce-qui-est-constitutif-du-crime-de-genocide_6794072_3212.html",
+     "resume": "Après avoir siégé au Tribunal pénal international pour le Rwanda dans les années 1990, la juriste sud-africaine a récemment présidé la commission d’enquête du Haut-Commissariat des Nations unies aux droits de l’homme qui a estimé qu’un « génocide » se…",
+     "date": "2026-10-15T06:00:11+02:00",
+     "source": "lemonde.fr",
+     "image": "https://img.lemde.fr/2026/10/12/1240/0/3031/1515/644/322/60/0/e3074c8_ftp-1-fp23ubchpvw5-1b8faafd3288481c87bd9a5de774ba4e-0-81c3426b8cc74d9784538cce54a0f9f9.jpg",
+     "reprises": 3,
+     "score": 4.56
     }
    ],
    "a_traduire": []
@@ -329,7 +329,7 @@
      "source": "Boursorama",
      "image": null,
      "reprises": 8,
-     "score": 18.21
+     "score": 18.2
     },
     {
      "titre": "OpenAI poursuivi en justice par huit Etats américains qui l'accusent de nuire aux enfants",
@@ -352,6 +352,16 @@
      "score": 6.83
     },
     {
+     "titre": "Le Nikkei japonais plonge, les valeurs technologiques malmenées par l’intelligence artificielle (IA) et les craintes de hausse des taux",
+     "lien": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxObXVLM0RVU3A4YTdqRWtBNTNVcFIzcGJqbFZXeW5LNnllbXUzdVZxMW5RUFVuNUw4TXNVMjAtaUtPa0RveVozdTFPaUdwZHZwZVRnZGJLQkNUNnlIbHQxU05WTGdiR1BSaU40QkZwdmpJTWx5RTd3dkFicl8tWW5iS3hRbEZyYnhhNHhZa29KVFY1czJTR3pqWUExaThSNTEzY3NIaF9PQUoyWVNZWGNEREN2eXYxSmV1cjhyTnRVdm9tT1lyVnNtbHlmaHJGU1BjenhPUWZpbWZLVEVqd1dmNll3eUtFV2UybjR6WWlB?oc=5",
+     "resume": "",
+     "date": "2026-10-15T05:23:25+02:00",
+     "source": "Zonebourse Suisse",
+     "image": null,
+     "reprises": 2,
+     "score": 4.7
+    },
+    {
      "titre": "Arthur Mensch, directeur général de Mistral AI : « Laisser les modèles d’IA aux Américains et aux Chinois placerait l’Europe dans une dépendance sans équivalent dans l’histoire des civilisations »",
      "lien": "https://news.google.com/rss/articles/CBMi8AJBVV95cUxQdmNnWWdWSThaUU5DNTVHNUJqb08zMDRFeDA5LXo2TmJDMzl4Y0VWTzhhaXRVY0ZmVWNwWGZzZGZiakZMWWM2dmN4dE5XQ1h6SlVVdXdJem1yVXJJaUxybzItS2ZHYkJuRFRxUmNNOUFaOU41aEtqaVh6THlpdmcwQWxQUllTemF3SWxjc0pFU29qRGxFYkd3T3hTcEMzVDZuZVhDcjltdXRmdkp3ZkxmVGFJWXIwWi1sU1JoWTJGQTdnSDFVLW1MYmNhWHc0OEx6SEx0cVNLbWxEVjlnV1RVTkFUbmlOT2pQaEhMRDYzek5wVFNESTJlMWJGZnMtVjc2aC1PUmFtdUoycUxwekNsNFFmdnkyZDEyNkJjN0JGN3I3dF9vYXU2RHpySXNrRkRCUG8zd3EwLURwUFJPTnNSZzdfZ1VCSW1rYXJCZHpQNGFQc0M2RUgxa3dubGE3RzBvTWhNZERsRWJXQW9uTk5Ibw?oc=5",
      "resume": "",
@@ -360,16 +370,6 @@
      "image": null,
      "reprises": 1,
      "score": 3.94
-    },
-    {
-     "titre": "Il écoutait en boucle ses propres musiques créées par intelligence artificielle pour générer des droits d’auteur : l’arnaque à 8 millions de dollars devant la justice",
-     "lien": "https://news.google.com/rss/articles/CBMiqwJBVV95cUxQd3NOM0NETFg3alh0QVducHdET3JoazFudHZ2cWkyUWM3Ykh1WEptV25GaG01R2JGOHJ1ZXlJbU5YaFhjZ21sLVl1b2VZVmJHTGVER2szMmpleS1UTzVBU1Zfc1dLZm9MMXNLLWdTa2NOT0FzVkJacjNrUDhCVlRyRVM0V2QwMGxrZ29OeUI2SmtNa05LbHU5dzVreF8ya0ozY3N1NElZQnVLdk94OVNfZlRoWDh1WXYySThuazdHWVdwUEQtQ1p5b0prSEltRDRXWUEtd01hZnFFal9NcTJ4OVprcDJxT2lBREJnNXVNemN6eTY5aUp4bHVVMk1ZUkkweXNsZTBUeUVhb2FGOWhMZGRiOWlvWDFHLXN0SFhscFNQWTFuYnN6V292Zw?oc=5",
-     "resume": "",
-     "date": "2026-10-15T07:01:00+02:00",
-     "source": "Centre Presse Aveyron",
-     "image": null,
-     "reprises": 2,
-     "score": 2.98
     }
    ],
    "a_traduire": [
@@ -438,7 +438,7 @@
      "source": "CNews",
      "image": null,
      "reprises": 8,
-     "score": 23.32,
+     "score": 23.31,
      "libertes": true
     },
     {
@@ -460,7 +460,7 @@
      "source": "Ouest-France",
      "image": null,
      "reprises": 4,
-     "score": 6.05,
+     "score": 6.04,
      "libertes": false
     },
     {
