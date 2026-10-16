@@ -1,0 +1,503 @@
+{
+ "date": "2026-10-16",
+ "genere": "2026-10-16T07:07+02:00",
+ "journaux": [
+  {
+   "id": "figaro",
+   "nom": "Le Figaro",
+   "couleur": "#163860",
+   "une": {
+    "fichier": "unes/figaro.jpg",
+    "date": "2026-10-16",
+    "source": "https://static.milibris.com/thumbnail/issue/a684fb60-f397-43f5-8cd3-8e694e627e1a/front/catalog-cover-large.jpeg"
+   },
+   "articles": [
+    {
+     "titre": "Pays d’origine, vote… L’étude qui décrit l’impact de l’explosion des naturalisations depuis l’an 2000",
+     "lien": "https://www.lefigaro.fr/demain/societe/pays-d-origine-vote-l-etude-qui-decrit-l-impact-de-l-explosion-des-naturalisations-depuis-l-an-2000-20261015",
+     "resume": "EXCLUSIF - Selon ses auteurs, l’essor des acquisitions de nationalité française parmi la population étrangère aura « des effets sur le corps électoral en vue de l’élection présidentielle de 2027 ».",
+     "date": "2026-10-15T19:16:19+02:00",
+     "source": "",
+     "image": "https://i.f1g.fr/media/cms/3000x1687_crop/2026/10/15/a019fb59ca138cd59dea8628c06bb2458165d22c8c7aef5bd8d0cdca6113f3e3.jpg"
+    },
+    {
+     "titre": "EN DIRECT - Colère des lycéens : les organisations lycéennes ne veulent désormais négocier qu’avec Sébastien Lecornu",
+     "lien": "https://www.lefigaro.fr/actualite-france/en-direct-colere-des-lyceens-les-organisations-lyceennes-veulent-desormais-negocier-qu-avec-sebastien-lecornu-20261016",
+     "resume": "De nouveaux blocages sont attendus ce vendredi devant les lycées et universités françaises à la veille des vacances de la Toussaint et d’une journée de mobilisation nationale contre la vie chère.",
+     "date": "2026-10-16T07:04:02+02:00",
+     "source": "",
+     "image": "https://i.f1g.fr/media/cms/3000x1687_crop/2026/10/15/e26cde36e9ffd29c9237101df670c94ca9e808346ad42f4cb3804fc721f99d88.jpg"
+    },
+    {
+     "titre": "Laurence de Charette : « Derrière la crise des lycées, la grande faillite de la transmission »",
+     "lien": "https://www.lefigaro.fr/vox/societe/laurence-de-charette-derriere-la-crise-des-lycees-la-grande-faillite-de-la-transmission-20261015",
+     "resume": "CHRONIQUE - Pour la première fois, des dizaines de représentants de l’Éducation nationale ont été blessés.",
+     "date": "2026-10-15T21:30:00+02:00",
+     "source": "",
+     "image": "https://i.f1g.fr/media/cms/2000x1125_crop/2026/10/15/05c5a3f07eb88aea4b51acf8a62633abb05ca544e38f8401a3c60d7a06a0b02b.jpg"
+    },
+    {
+     "titre": "Mobilisation du 17 octobre : convergence «jaunes et jeunes», véritable «révolution» ou simple mode TikTok… À quoi s’attendre ?",
+     "lien": "https://www.lefigaro.fr/actualite-france/mobilisation-du-17-octobre-gilets-jaunes-saison-2-veritable-revolution-ou-simple-mode-tiktok-a-quoi-s-attendre-20261014",
+     "resume": "DÉCRYPTAGE - Le mouvement a pris un peu plus d’épaisseur ces derniers jours avec le ralliement de plusieurs figures de proue historiques des gilets jaunes. Parviendra-t-il à exister hors des réseaux sociaux ? Jeudi matin, plus de 1000 actions étaient…",
+     "date": "2026-10-15T15:18:41+02:00",
+     "source": "",
+     "image": "https://i.f1g.fr/media/cms/2850x1603_crop/2026/10/14/a9ddf27bd7218a45aba9f1f757d44a4a51ea3a192eb89be508aacfacc0ea1f37.jpg"
+    },
+    {
+     "titre": "Violences, moyens pour l’école, politisation… Le mouvement lycéen, ce sujet inattendu qui a fait irruption dans la vie familiale",
+     "lien": "https://www.lefigaro.fr/actualite-france/violences-moyens-pour-l-ecole-politisation-le-mouvement-lyceen-ce-sujet-inattendu-qui-a-fait-irruption-dans-la-vie-familiale-20261015",
+     "resume": "La révolte des lycéens a ressuscité le dialogue entre parents et enfants, qui se mettent à débattre de la mobilisation et de l’engagement.",
+     "date": "2026-10-15T20:30:00+02:00",
+     "source": "",
+     "image": "https://i.f1g.fr/media/cms/3000x2000_crop/2026/10/15/348d1667a195fc2af59102872ee83e955cfa963964da1c414a40b1070b330959.jpg"
+    },
+    {
+     "titre": "Tunnel sous la Manche : un bus percute un train, au moins 19 blessés",
+     "lien": "https://www.lefigaro.fr/faits-divers/tunnel-sous-la-manche-un-bus-percute-un-train-au-moins-19-blesses-20261015",
+     "resume": "Selon les premières informations, un minibus transportant des passagers s’est couché sur le flanc à l’entrée du tunnel, sur un passage à niveau, avant d’être percuté par un train de fret.",
+     "date": "2026-10-15T23:25:41+02:00",
+     "source": "",
+     "image": "https://i.f1g.fr/media/cms/orig/2026/10/15/663fb9fdcb2d8d078326097c86b22cac7ad94ae42947cf00254408bf0d0c8d29.JPG"
+    }
+   ],
+   "flux_utilise": "https://www.lefigaro.fr/rss/figaro_actualites.xml"
+  },
+  {
+   "id": "monde",
+   "nom": "Le Monde",
+   "couleur": "#111111",
+   "une": {
+    "fichier": "unes/monde.webp",
+    "date": "2026-10-16",
+    "source": "https://www.frontpages.com/t/2026/10/15/le-monde-234158ajh@2x.webp"
+   },
+   "articles": [
+    {
+     "titre": "Mouvement lycéen : un mois de mobilisation et le pari de la convergence « jeunes et jaunes »",
+     "lien": "https://www.lemonde.fr/societe/article/2026/10/16/mouvement-lyceen-un-mois-de-mobilisation-et-le-pari-de-la-convergence-jeunes-et-jaunes_6795111_3224.html",
+     "resume": "Les lycéens mobilisés comptent sur la large journée d’action de samedi 17 octobre pour donner du souffle à leurs revendications, alors que les vacances scolaires débutent et que le dialogue avec le gouvernement patine.",
+     "date": "2026-10-16T05:30:33+02:00",
+     "source": "",
+     "image": "https://img.lemde.fr/2026/10/13/0/0/2643/1322/644/322/60/0/596d97a_upload-1-vh97zih3rjes-asurp-maniflyce-e-107400.jpg"
+    },
+    {
+     "titre": "Aux Etats-Unis, trois enfants et un professeur tués lors d’une fusillade dans une école primaire de l’Oregon",
+     "lien": "https://www.lemonde.fr/international/article/2026/10/16/aux-etats-unis-une-fusillade-fait-au-moins-quatre-morts-dans-une-ecole-primaire-de-l-oregon_6794831_3210.html",
+     "resume": "L’auteur des coups de feu, un adolescent âgé de 16 ans, a été abattu par un passant armé, jeudi, avant que les policiers n’arrivent sur les lieux.",
+     "date": "2026-10-16T00:51:46+02:00",
+     "source": "",
+     "image": "https://img.lemde.fr/2026/10/15/176/0/5088/2544/644/322/60/0/cb7f703_ftp-1-spb8mgeaj3in-2026-10-15t220525z-395078352-rc2x3oaeghlx-rtrmadp-3-oregon-shooting.JPG"
+    },
+    {
+     "titre": "EN DIRECT, guerre en Ukraine : Volodymyr Zelensky n’est « pas le bon type pour trouver un accord », accuse Donald Trump",
+     "lien": "https://www.lemonde.fr/international/live/2026/10/16/en-direct-guerre-en-ukraine-donald-trump-juge-que-la-reprise-par-l-ukraine-des-frappes-sur-les-raffineries-russes-est-une-honte_6791198_3210.html",
+     "resume": "Le président américain a haussé le ton contre le président ukrainien, Volodymyr Zelensky, dans une déclaration à la chaîne Newsmax. « Je pense qu’il est plus difficile de travailler avec Zelensky qu’avec Poutine », a-t-il attaqué avant de lancer : « Il dit…",
+     "date": "2026-10-16T05:11:52+02:00",
+     "source": "",
+     "image": "https://img.lemde.fr/2026/10/15/30/0/5175/2587/644/322/60/0/a72be4f_ftp-1-bytusskijgrw-26a03d2ed31f45829afa9d740307e2a1-0-4e3d94439ed94fa79b492bd9d88a28d2.jpg"
+    },
+    {
+     "titre": "Carburants : les Vingt-Sept peinent à s’entendre pour faire baisser les prix de l’énergie, un cauchemar pour l’économie européenne",
+     "lien": "https://www.lemonde.fr/economie/article/2026/10/16/carburants-les-vingt-sept-peinent-a-s-entendre-pour-faire-baisser-les-prix-de-l-energie-un-cauchemar-pour-l-economie-europeenne_6795109_3234.html",
+     "resume": "Les chefs d’Etat et de gouvernement, réunis à Bruxelles les 15 et 16 octobre, sont divisés sur les mesures à prendre et manquent d’outils, au moment où l’Union européenne, qui achète encore du gaz russe, est fragilisée dans sa réponse à l’accord entre Trump…",
+     "date": "2026-10-16T05:30:27+02:00",
+     "source": "",
+     "image": "https://img.lemde.fr/2026/10/15/414/0/4938/2469/644/322/60/0/cf09aa7_ftp-1-jeuwmzcagckj-2026-10-15t085039z-1818786238-rc2k3oa14seq-rtrmadp-3-eu-summit.JPG"
+    },
+    {
+     "titre": "Au Népal, la vallée meurtrie par le « tsunami des montagnes » cherche le chemin du retour à la vie",
+     "lien": "https://www.lemonde.fr/planete/article/2026/10/16/au-nepal-la-vallee-meurtrie-par-le-tsunami-des-montagnes-cherche-le-chemin-du-retour-a-la-vie_6795110_3244.html",
+     "resume": "Le 26 août, un glissement de terrain emportant un glacier provoquait une crue dévastatrice et meurtrière dans la vallée de la Trishuli. Alors que plus de 5 000 personnes n’ont pas été retrouvées, beaucoup de ceux qui restent « souffrent de la culpabilité du…",
+     "date": "2026-10-16T05:30:15+02:00",
+     "source": "",
+     "image": "https://img.lemde.fr/2026/10/09/567/0/6804/3402/644/322/60/0/a37d092_ftp-1-ico1fdzqj7ta-2026-10-09t060037z-546745853-rc2w8naql22n-rtrmadp-3-climate-change-ipcc-science.JPG"
+    },
+    {
+     "titre": "« “Notre salut” tient du miracle : ce grand film politique plaît de la gauche à l’extrême droite sans susciter de polémiques alors qu’il en porte beaucoup »",
+     "lien": "https://www.lemonde.fr/idees/article/2026/10/16/notre-salut-tient-du-miracle-ce-grand-film-politique-plait-de-la-gauche-a-l-extreme-droite-sans-susciter-de-polemiques-alors-qu-il-en-porte-beaucoup_6795104_3232.html",
+     "resume": "Le film, qui relate le parcours d’un collabo ordinaire dans l’administration de Vichy, est un gros succès, malgré son thème ou les propos de son réalisateur et de son acteur principal, Swann Arlaud, remarque Michel Guerrin, chroniqueur au « Monde ».",
+     "date": "2026-10-16T05:25:16+02:00",
+     "source": "",
+     "image": "https://img.lemde.fr/2026/10/15/50/0/1600/800/644/322/60/0/73e9fb9_upload-1-f07febj6imjg-le65xsq.png"
+    }
+   ],
+   "flux_utilise": "https://www.lemonde.fr/rss/une.xml"
+  },
+  {
+   "id": "croix",
+   "nom": "La Croix",
+   "couleur": "#c8102e",
+   "une": {
+    "fichier": "unes/croix.webp",
+    "date": "2026-10-16",
+    "source": "https://www.frontpages.com/t/2026/10/16/la-croix-06230903t@2x.webp"
+   },
+   "articles": [
+    {
+     "titre": "Blocus des lycées : les « réponses concrètes » du gouvernement se font attendre",
+     "lien": "https://www.la-croix.com/politique/blocus-des-lycees-les-reponses-concretes-du-gouvernement-se-font-attendre-20261015",
+     "resume": "Mobilisées depuis plusieurs semaines pour de meilleures conditions d’études, les organisations lycéennes ont appelé à rejoindre, samedi 17 octobre 2026, les manifestations à l’appel des gilets jaunes. Le premier ministre Sébastien Lecornu se défend de…",
+     "date": "2026-10-16T06:55:06+02:00",
+     "source": "",
+     "image": "https://i.la-croix.com/x/2026/10/15/2563272-pour-sortir-du-mouvement-de-blocage-des-etudiants-.jpg"
+    },
+    {
+     "titre": "États-Unis : un tireur fait quatre morts, dont trois enfants, dans une école primaire de l’Oregon",
+     "lien": "https://www.la-croix.com/international/etats-unis-un-tireur-fait-quatre-morts-dont-trois-enfants-dans-une-ecole-primaire-de-l-oregon-20261016",
+     "resume": "Un adolescent de 16 ans a ouvert jeudi 15 octobre le feu à l'école primaire Silver Rail de Bend, en Oregon, tuant trois enfants et un enseignant.",
+     "date": "2026-10-16T06:48:14+02:00",
+     "source": "",
+     "image": "https://i.la-croix.com/x/2026/10/16/2563623-des-habitants-rendent-hommage-aux-victimes-de-la-f.jpg"
+    },
+    {
+     "titre": "Avec « Dopamine Chamber », Fontaines D.C. poursuit son renouveau rock",
+     "lien": "https://www.la-croix.com/culture/avec-dopamine-chamber-fontaines-dc-poursuit-son-renouveau-rock-20261015",
+     "resume": "Groupe de rock devenu incontournable, Fontaines D.C. sort ce vendredi 16 octobre 2026 Dopamine Chamber, admirable album aux relents psychédéliques. La formation irlandaise s’éloigne des riffs brutaux de ses débuts.",
+     "date": "2026-10-16T06:45:10+02:00",
+     "source": "",
+     "image": "https://i.la-croix.com/x/2026/10/15/2563140-grian-chatten-chanteur-du-groupe-irlandais-fontain.jpg"
+    },
+    {
+     "titre": "Présidentielle 2027 : pourquoi Marine Le Pen accélère sa campagne",
+     "lien": "https://www.la-croix.com/politique/presidentielle-2027-pourquoi-marine-le-pen-accelere-sa-campagne-20261015",
+     "resume": "En ce mois d’octobre, Marine Le Pen multiplie les déplacements et les prises de parole médiatiques. Objectif : prouver sa crédibilité, monter en puissance avant le congrès du parti le samedi 24 octobre, mais aussi faire oublier l’affaire Bardella.",
+     "date": "2026-10-16T06:35:15+02:00",
+     "source": "",
+     "image": "https://i.la-croix.com/x/2026/10/15/2563028-marine-le-pen-presidente-du-rassemblement-national.jpg"
+    },
+    {
+     "titre": "« Dans la peau de Samuel Paty » : à Marseille, la projection de « L’Abandon » pour sensibiliser les collégiens",
+     "lien": "https://www.la-croix.com/societe/dans-la-peau-de-samuel-paty-a-marseille-la-projection-de-l-abandon-pour-sensibiliser-les-collegiens-20261015",
+     "resume": "Alors que l’on commémorera les six ans de l’assassinat de Samuel Paty, vendredi 16 octobre, près de 300 élèves de troisième ont assisté à une projection du film qui retrace les derniers jours du professeur. Une séance organisée par le département et suivie…",
+     "date": "2026-10-16T06:33:10+02:00",
+     "source": "",
+     "image": "https://i.la-croix.com/x/2026/10/15/2562967-six-ans-apres-l-assassinat-de-samuel-paty-une-sean.jpg"
+    },
+    {
+     "titre": "« Personne ne se soucie de nous » : un an après le coup d’État à Madagascar, les désillusions de la Gen Z",
+     "lien": "https://www.la-croix.com/international/personne-ne-se-soucie-de-nous-un-an-apres-le-coup-d-etat-a-madagascar-les-desillusions-de-la-gen-z-20261015",
+     "resume": "Si le mouvement de protestation de la jeunesse malgache a permis, en octobre 2025, le renversement d’un régime corrompu, les nouvelles autorités ont confisqué le pouvoir et satisfont peu les revendications.",
+     "date": "2026-10-16T06:10:15+02:00",
+     "source": "",
+     "image": "https://i.la-croix.com/x/2026/10/15/2563146-lors-d-une-manifestation-de-la-jeunesse-malgache-s.jpg"
+    }
+   ],
+   "flux_utilise": "https://www.la-croix.com/feeds/rss/site.xml"
+  },
+  {
+   "id": "equipe",
+   "nom": "L'Équipe",
+   "couleur": "#e2001a",
+   "une": {
+    "fichier": "unes/equipe.webp",
+    "date": "2026-10-16",
+    "source": "https://www.frontpages.com/t/2026/10/16/l-equipe-0110058tz@2x.webp"
+   },
+   "articles": [
+    {
+     "titre": "La seconde chance a été la bonne : le parcours atypique de Chamsedin Kouranfal, révélation du début de saison de Reims en Ligue 2",
+     "lien": "https://www.lequipe.fr/Football/Actualites/La-seconde-chance-a-ete-la-bonne-le-parcours-atypique-de-chamsedin-kouranfal-revelation-du-debut-de-saison-de-reims-en-ligue-2/1736013#at_medium=RSS_feeds",
+     "resume": "Déniché par le Stade de Reims en Régional 1, où il devait poursuivre son apprentissage, Chamsedin Kouranfal a convaincu l'entraîneur, Nicolas Usaï, qui l'a vite intégré au groupe pro. Les Rémois reçoivent Dijon, vendredi soir (20 heures), pour la 9e journée…",
+     "date": "2026-10-16T06:25:00+02:00",
+     "source": "",
+     "image": "https://medias.lequipe.fr/img-photo-jpg/la-joie-de-chamsedin-kouranfal-apres-son-but-a-nancy-lors-de-la-victoire-de-reims-2-1-le-11-septembre-k-clement-icon-sport/1500000002623880/0:0,1888:1259-828-552-75/9edf0.jpg"
+    },
+    {
+     "titre": "« J'essaie de me persuader que je suis normale » : après ses quatre médailles aux Championnats d'Europe, Elena Colas raconte son changement de dimension",
+     "lien": "https://www.lequipe.fr/Gymnastique/Article/-j-essaie-de-me-persuader-que-je-suis-normale-apres-ses-quatre-medailles-aux-championnats-d-europe-elena-colas-raconte-son-changement-de-dimension/1725764#at_medium=RSS_feeds",
+     "resume": "Quadruple médaillée européenne cet été à tout juste 16 ans, Elena Colas a vu sa vie s'accélérer ces derniers mois. Entre notoriété nouvelle, changement d'entraîneur, lycée à distance et pépin physique, la gymnaste s'est livrée avant ses premiers Championnats…",
+     "date": "2026-10-16T05:55:00+02:00",
+     "source": "",
+     "image": "https://medias.lequipe.fr/img-photo-jpg/elena-colas-a-saint-etienne-mi-octobre-a-martin-l-equipe/1500000002612899/336:112,1903:1157-828-552-75/8447b.jpg"
+    },
+    {
+     "titre": "Vincent Esmiol, leader de la Diagonale des Fous après 80 km",
+     "lien": "https://www.lequipe.fr/Ultra-trail/Actualites/Vincent-esmiol-leader-de-la-diagonale-des-fous-apres-80-km/1736138#at_medium=RSS_feeds",
+     "resume": "Après 80 km, à Hell-Bourg dans le cirque de Salazie, c'est le Français Vincent Esmiol qui mènait la Diagonale des Fous, ce vendredi matin au lever du jour. Il devançait Hugo Deck, Jean-Philippe Tschumi et Tom Evans. Chez les femmes, Ruth Croft est devant.",
+     "date": "2026-10-16T05:51:13+02:00",
+     "source": "",
+     "image": "https://medias.lequipe.fr/img-photo-jpg/vincent-esmiol-leader-a-hell-bourg-au-80e-km-d-michel-l-equipe/1500000002624171/1:201,1180:987-828-552-75/d45bc.jpg"
+    },
+    {
+     "titre": "« C'est mamie cool en dehors, mais à la table, c'est mamie tueuse » : à 63 ans, Xialian Ni donne encore la leçon à ses adversaires aux Championnats d'Europe",
+     "lien": "https://www.lequipe.fr/Tennis-de-table/Actualites/-c-est-mamie-cool-en-dehors-mais-a-la-table-c-est-mamie-tueuse-xialian-ni-la-sexagenaire-qui-donne-encore-la-lecon-aux-europe/1736078#at_medium=RSS_feeds",
+     "resume": "Qualifiée pour les huitièmes de finale des Championnats d'Europe, Xialian Ni, Luxembourgeoise d'origine chinoise, n'a pas fini de s'amuser à la table, à 63 ans.",
+     "date": "2026-10-16T05:45:00+02:00",
+     "source": "",
+     "image": "https://medias.lequipe.fr/img-photo-jpg/apres-la-francaise-charlotte-lutz-la-veille-xialian-ni-a-elimine-l-ukrainienne-margaryta-pesotska-ce-jeudi-j-markovec-ettu/1500000002623998/0:0,799:533-828-552-75/5fb50.jpg"
+    },
+    {
+     "titre": "Taille, profils, carences : sur coups de pied arrêtés, le PSG a recommencé à subir face à Manchester City",
+     "lien": "https://www.lequipe.fr/Football/Article/Taille-profils-carences-sur-coups-de-pied-arretes-le-psg-a-recommence-a-subir-face-a-manchester-city/1736064#at_medium=RSS_feeds",
+     "resume": "En difficulté sur coups de pied arrêtés mercredi, les Parisiens n'en ont pas subi les conséquences. Simple alerte ou résurgence de difficultés que l'on pensait évacuées ?",
+     "date": "2026-10-16T05:40:00+02:00",
+     "source": "",
+     "image": "https://medias.lequipe.fr/img-photo-jpg/face-a-manchester-city-mercredi-la-defense-du-paris-sg-a-souffert-sur-certains-coups-de-pied-arretes-f-faugere-l-equipe/1500000002623968/0:0,1898:1265-828-552-75/23c65.jpg"
+    },
+    {
+     "titre": "Plus de 18 500 pas par jour : les enfants de 3 à 4 ans, ces grands sportifs méconnus",
+     "lien": "https://www.lequipe.fr/Respire/Pratique-sportive/Actualites/Plus-de-18-500-pas-par-jour-les-enfants-de-3-a-4-ans-ces-grands-sportifs-meconnus/1725697#at_medium=RSS_feeds",
+     "resume": "Une étude publiée fin septembre révèle que les enfants de 3 et 4 ans réalisent en moyenne 18 542 pas chaque jour. Avec, toutefois, de grosses disparités selon les régions rurales ou urbaines.",
+     "date": "2026-10-16T05:35:00+02:00",
+     "source": "",
+     "image": "https://medias.lequipe.fr/img-photo-jpg/tout-petits-grande-activite-physique-e-garnier-l-equipe/1500000002612724/0:0,1500:1000-828-552-75/18cf5.jpg"
+    }
+   ],
+   "flux_utilise": "https://dwh.lequipe.fr/api/edito/rss?path=/"
+  }
+ ],
+ "sections": [
+  {
+   "id": "monde",
+   "titre": "Actualité principale",
+   "sous_titre": "Les informations les plus importantes, partout dans le monde",
+   "items": [
+    {
+     "titre": "Guerre en Ukraine : Volodymyr Zelensky acte la reprise des frappes contre les raffineries russes, « une honte » selon Donald Trump",
+     "lien": "https://www.lemonde.fr/international/article/2026/10/16/guerre-en-ukraine-volodymyr-zelensky-acte-la-reprise-des-frappes-contre-les-raffineries-russes-une-honte-selon-donald-trump_6795219_3210.html",
+     "resume": "La fin de la trêve voulue par le président américain marque une escalade des tensions entre les deux chefs d’Etat, depuis l’accord entre Washington et Moscou sur la livraison de gazole russe.",
+     "date": "2026-10-16T06:47:03+02:00",
+     "source": "lemonde.fr",
+     "image": "https://img.lemde.fr/2026/10/07/1000/0/6000/3000/644/322/60/0/d429871_ftp-1-5hlwfqdpdo6j-2026-10-07t145925z-1886848509-rc26yna1bdl4-rtrmadp-3-ukraine-crisis-south-frontline.JPG",
+     "reprises": 13,
+     "score": 35.54
+    },
+    {
+     "titre": "Aux Etats-Unis, trois enfants et un professeur tués lors d’une fusillade dans une école primaire de l’Oregon",
+     "lien": "https://www.lemonde.fr/international/article/2026/10/16/aux-etats-unis-une-fusillade-fait-au-moins-quatre-morts-dans-une-ecole-primaire-de-l-oregon_6794831_3210.html",
+     "resume": "L’auteur des coups de feu, un adolescent âgé de 16 ans, a été abattu par un passant armé, jeudi, avant que les policiers n’arrivent sur les lieux.",
+     "date": "2026-10-16T00:51:46+02:00",
+     "source": "lemonde.fr",
+     "image": "https://img.lemde.fr/2026/10/15/176/0/5088/2544/644/322/60/0/cb7f703_ftp-1-spb8mgeaj3in-2026-10-15t220525z-395078352-rc2x3oaeghlx-rtrmadp-3-oregon-shooting.JPG",
+     "reprises": 8,
+     "score": 19.26
+    },
+    {
+     "titre": "Présidentielle 2027 : Raphaël Glucksmann dénonce la « capitulation » de Marine Le Pen sur l’aide à l’Ukraine",
+     "lien": "https://www.lemonde.fr/politique/article/2026/10/15/presidentielle-2027-raphael-glucksmann-denonce-la-capitulation-de-marine-le-pen-sur-l-aide-a-l-ukraine_6794796_823448.html",
+     "resume": "La promesse de la candidate RN de cesser l’aide financière de la France à l’Ukraine après six mois de pouvoir si elle était élue en 2027 reviendrait à « soumet[tre] l’ensemble de l’Europe à Vladimir Poutine », a estimé le candidat-social-démocrate.",
+     "date": "2026-10-15T21:55:47+02:00",
+     "source": "lemonde.fr",
+     "image": "https://img.lemde.fr/2026/10/12/231/0/4724/2362/644/322/60/0/9609a1f_upload-1-4gmrk05yuf4k-mmagnin-primaire-gauche-resultats-84.jpg",
+     "reprises": 3,
+     "score": 6.43
+    },
+    {
+     "titre": "Trump va-t-il larguer \"la mère de toutes les bombes\" sur l'Iran ?",
+     "lien": "https://www.france24.com/fr/%C3%A9missions/les-cl%C3%A9s-de-l-info/20261015-trump-va-t-il-larguer-la-m%C3%A8re-de-toutes-les-bombes-sur-l-iran",
+     "resume": "Elle pèse près de dix tonnes, mesure plus de neuf mètres de long et porte un surnom terrifiant : la mère de toutes les bombes. Selon CNN, les États-Unis envisagent de l'utiliser contre l'Iran. A moins que la seule évocation de son nom ne serve à faire peur à…",
+     "date": "2026-10-16T00:15:22+02:00",
+     "source": "france24.com",
+     "image": "https://s.france24.com/media/display/a2168134-c8e4-11f1-b4c0-638c1c1f5fd6/w:1024/p:16x9/FRAN261015-2339-Live-CS2339.jpg",
+     "reprises": 3,
+     "score": 6.41
+    },
+    {
+     "titre": "La nouvelle porte-parole de la Maison Blanche, Katie Zacharia, tente d’éteindre la polémique sur son parcours juridique",
+     "lien": "https://www.lemonde.fr/international/article/2026/10/16/la-nouvelle-porte-parole-de-la-maison-blanche-katie-zacharia-tente-d-eteindre-la-polemique-sur-son-parcours-juridique_6794997_3210.html",
+     "resume": "Critiquée pour s’être présentée comme avocate sans pouvoir prouver qu’elle avait réussi l’examen du barreau, Katie Zacharia a mis en avant son diplôme en droit et son expérience internationale en droit des affaires, acquise en Chine.",
+     "date": "2026-10-16T04:40:43+02:00",
+     "source": "lemonde.fr",
+     "image": "https://img.lemde.fr/2026/10/13/0/0/8256/4128/644/322/60/0/dc7d341_ftp-1-bs0bzv1auftk-5341463-01-06.jpg",
+     "reprises": 3,
+     "score": 5.55
+    },
+    {
+     "titre": "La France et l’Allemagne s’accordent sur l’avenir d’une industrie automobile « made in Europe »",
+     "lien": "https://www.lemonde.fr/economie/article/2026/10/15/la-france-et-l-allemagne-s-accordent-sur-l-avenir-d-une-industrie-automobile-made-in-europe_6794759_3234.html",
+     "resume": "Paris et Berlin s’accordent sur un compromis automobile, conciliant protection du marché européen et assouplissement des objectifs climatiques pour 2035.",
+     "date": "2026-10-15T20:02:54+02:00",
+     "source": "lemonde.fr",
+     "image": "https://img.lemde.fr/2026/10/12/886/0/8640/4320/644/322/60/0/c61a257_ftp-1-wkrtqdfjmu92-ea9ed94bc3be475ab7c4460dbfad0a56-1-214c8e81f638477d8e7c86e3b9d9147e.jpg",
+     "reprises": 3,
+     "score": 5.22
+    }
+   ],
+   "a_traduire": []
+  },
+  {
+   "id": "ia",
+   "titre": "Intelligence artificielle",
+   "sous_titre": "Modèles, entreprises, régulation, recherche",
+   "items": [
+    {
+     "titre": "Anthropic a annoncé aux investisseurs que les revenus du troisième trimestre ont atteint 16,8 milliards de dollars avant l'introduction en bourse.",
+     "lien": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQMEktQ1JETzVLVk1BOVRrOU1BQUZwZWxqZmxEejZDdGNjX2NyZGY0VVpvcUZUTUdrcF9BVTNnM1o2U201OVpob1lkUmN6eVV3TUxzM2tCZUJBdllKeTlTRXlpaElUYlE2VGtkNkNzQ3d5RGt4MzNxMlAwXzlnYnBrN0hHdmNBY0R3T0k4dDQ4SjJpWmx0QWVJdGF5THY?oc=5",
+     "resume": "",
+     "date": "2026-10-16T03:06:12+02:00",
+     "source": "fr.qz.com",
+     "image": null,
+     "reprises": 6,
+     "score": 13.55
+    },
+    {
+     "titre": "Anthropic accorde à un évaluateur externe de METR un accès au niveau des employés dans le cadre de son initiat",
+     "lien": "https://news.google.com/rss/articles/CBMizAJBVV95cUxPVkZmVU9JNThPaTYzNkFnV1UwZnZJZkhoUktkaF9jRnNsZ3V2N2QtZ3ZCQ2R3SGZoX1M1UE9CazBSc1J4YU96azlpMXJKY2RvVGxRc1JVaFNCd3lxcWR5ZVZMVTdFN3gwMElibVhZdWswcWYxVG13Q19RSDAyX3VFM3NiVm90QkNMVTFIdTJuX3hVTGRKNkNYOHJ2eHE2NGJFOWNTbVo1XzZaNi1XVkZBal9JMjdDV0dxN1ozcmIyM0xoVkM2eXdJSHRTeXltOTdzUEJBaVJyaE9HUEhGYXpVdGpTVlpXcU03b1ZWUmtTLTNXYUZtTU1HbjFPTlF6WXJwZjdEOTFyaEdUa0JEVVJHLXFmdHNQbDRYUnUyTmpqdHlMTU5lNjlxUmNmQ01UMjdkU0t3RF84bFVzWWtVTkE1WWc1clhlcUFMcndRY9IBzAJBVV95cUxPVkZmVU9JNThPaTYzNkFnV1UwZnZJZkhoUktkaF9jRnNsZ3V2N2QtZ3ZCQ2R3SGZoX1M1UE9CazBSc1J4YU96azlpMXJKY2RvVGxRc1JVaFNCd3lxcWR5ZVZMVTdFN3gwMElibVhZdWswcWYxVG13Q19RSDAyX3VFM3NiVm90QkNMVTFIdTJuX3hVTGRKNkNYOHJ2eHE2NGJFOWNTbVo1XzZaNi1XVkZBal9JMjdDV0dxN1ozcmIyM0xoVkM2eXdJSHRTeXltOTdzUEJBaVJyaE9HUEhGYXpVdGpTVlpXcU03b1ZWUmtTLTNXYUZtTU1HbjFPTlF6WXJwZjdEOTFyaEdUa0JEVVJHLXFmdHNQbDRYUnUyTmpqdHlMTU5lNjlxUmNmQ01UMjdkU0t3RF84bFVzWWtVTkE1WWc1clhlcUFMcndRYw?oc=5",
+     "resume": "",
+     "date": "2026-10-15T21:31:30+02:00",
+     "source": "Boursorama",
+     "image": null,
+     "reprises": 4,
+     "score": 8.34
+    },
+    {
+     "titre": "« Il y a une forte utilisation de l’IA sur les blocus » : comment l’intelligence artificielle a boosté la mobilisation lycéenne",
+     "lien": "https://news.google.com/rss/articles/CBMioAJBVV95cUxPMGo3T0JxM0h3MlhyaVliUzBqb2FYTm11c3JMbEpMZ1RJRERBRURaN1JxYlhlVkc1X3Q5WW9sMi1VR1VCWEx3UFhEel90MWg1WHJGX2FyWlFlNFVXVk1OMGRoTmQ5MDZLM0JEang4OUlManBvZ0IxSkhoQmxRODJtREhGc1RZUGpiazcxNVFGM01zNHE2N2lqTzRXX1NoMm5fN1RNUFFpclJoYzVISkRyY0o5S0tTeU9DeEViZkhhNlZvd3pWWEEtUzV1NUhpV1diNHUtUmdLUklwNHFCM00tRHJlTldqZ2ZfUkF3NHJ5ODh3TXY2RUg0QkczMXlfcVROYndhZV9DWkxZSVhfcUd6dloyTWpuUGNzWXlHM3RScU4?oc=5",
+     "resume": "",
+     "date": "2026-10-16T04:16:00+02:00",
+     "source": "Le Parisien",
+     "image": null,
+     "reprises": 4,
+     "score": 7.29
+    },
+    {
+     "titre": "Plusieurs États américains poursuivent en justice OpenAI",
+     "lien": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNeElNZjdPZXFfamtJT01JM1pYcEpKdWxHVlhhQ2JuaGM4ZWhnS0V5d2JnSDNtMUZseWxxZ3FBZktJTDgtTmFzSHV6a2Z0T0Uxd1Y2c1d6MFZrM3JHX0k5SGVKUjZUWGhhV29RNEFyRmVPeXVxdG9YR1hLalZLaWRWbVJrQy12SWo5aGlNYUpWamsxMmxNV1hpNEdkcjFFV1YzWXdIaQ?oc=5",
+     "resume": "",
+     "date": "2026-10-16T02:43:21+02:00",
+     "source": "Le Devoir",
+     "image": null,
+     "reprises": 2,
+     "score": 4.96
+    },
+    {
+     "titre": "« Les patrons de la Tech ont intérêt à nous faire croire qu’on parle avec Terminator plutôt qu'avec ChatGPT » : comment reprendre le contrôle sur l’IA ?",
+     "lien": "https://news.google.com/rss/articles/CBMinwJBVV95cUxNZFRSTS1QYk9MNl9zdndrN1dqTmJCUjRPZDJ5em9xbEUtWEJzRkNGUFJqMHN4SUdyMldtWlF0VzMzUm9mWVFjeW0yUlpkOC1kdzhORnJxMTl5alo3WUpfZWg4U1EybDlsZkhwOEJvVVVVaDh5OTdGWVRkd3FITW9QM3dvTDBrTjhZTjZrSEN2bm43bTZMWFBTa0cyeGdjTUhxZm1URjBYUlhvM1VwZDJsZGxVbXlPNDI0MDFoOFBxTUp2MzBYNlBqTzdNOWVNRVhyWUJncnFBcXp1MmJIaTdPeHdtU3kzOUc2S2FQOWlTMlFuWC1tTXFqYUItaG4xN1RQY3Y5RVRQMV9zdGxZcVIzYTlRX2dRaUNlM2d0THFOMA?oc=5",
+     "resume": "",
+     "date": "2026-10-16T06:45:22+02:00",
+     "source": "L'Humanité",
+     "image": null,
+     "reprises": 1,
+     "score": 3.64
+    }
+   ],
+   "a_traduire": [
+    {
+     "titre": "Bluesky’s AI tool now lets you make games and apps to share on social",
+     "lien": "https://www.theverge.com/tech/1012374/bluesky-ai-attie-small-social-games-apps",
+     "resume": "Bluesky's Attie AI tool, which initially launched earlier this year as a way to use AI to build your own feeds, now lets you make \"small\" social apps like games, polls, and dashboards that you can then share with others as their own websites. In an interview…",
+     "date": "2026-10-15T21:57:16+02:00",
+     "source": "theverge.com",
+     "image": null,
+     "reprises": 1,
+     "score": 1.45
+    },
+    {
+     "titre": "Amazon devices chief Panos Panay sees a future where AI devices replace the need to use apps",
+     "lien": "https://techcrunch.com/2026/10/15/amazon-devices-chief-panos-panay-sees-a-future-where-ai-devices-replace-the-need-to-use-apps/",
+     "resume": "Speaking at TechCrunch Disrupt, Amazon devices chief Panos Panay described a future where ambient AI devices work in the background, anticipating users' needs instead of waiting for commands.",
+     "date": "2026-10-15T21:55:25+02:00",
+     "source": "techcrunch.com",
+     "image": null,
+     "reprises": 1,
+     "score": 1.45
+    },
+    {
+     "titre": "Anthropic is letting METR researchers look under the hood with employee-level access",
+     "lien": "https://techcrunch.com/2026/10/15/anthropic-is-letting-metr-researchers-look-under-the-hood-with-employee-level-access/",
+     "resume": "METR will publish its own assessments of Anthropic’s risks, incidents, and practices, and the frontier AI model maker has given up the right to block them.",
+     "date": "2026-10-15T21:14:26+02:00",
+     "source": "techcrunch.com",
+     "image": null,
+     "reprises": 1,
+     "score": 1.3
+    },
+    {
+     "titre": "Meta and Apple team up to make Muse AI models run better on Macs",
+     "lien": "https://www.theverge.com/news/1012293/meta-apple-muse-spark-open-ai-model-mlx",
+     "resume": "Meta announced the Muse Spark Open AI model today, claiming that it's the \"most capable US open-weight model to date.\" But the company also says that it's the \"the first model in its class\" that can \"run on your desktop using two Apple M5 Ultra Mac Studios…",
+     "date": "2026-10-15T20:15:36+02:00",
+     "source": "theverge.com",
+     "image": null,
+     "reprises": 1,
+     "score": 1.29
+    },
+    {
+     "titre": "AI agents are coming to Rivian’s cars",
+     "lien": "https://techcrunch.com/2026/10/15/ai-agents-are-coming-to-rivians-cars/",
+     "resume": "We'll likely learn more about how this will work at the company's upcoming \"AI & Autonomy Day\" event in December.",
+     "date": "2026-10-15T17:02:36+02:00",
+     "source": "techcrunch.com",
+     "image": null,
+     "reprises": 1,
+     "score": 1.13
+    }
+   ]
+  },
+  {
+   "id": "droit",
+   "titre": "Actualité juridique",
+   "sous_titre": "Libertés fondamentales, grandes juridictions, culture juridique pour le CRFPA",
+   "items": [
+    {
+     "titre": "Marine Le Pen à l'assaut du Conseil constitutionnel",
+     "lien": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNYXRPMnA0Mld3R0E1NzBoT2lxOVZ1REJMSHcyel9ia2piUWZTSW5EZC1JbUtna1FraDB5WnZkVC1IaUF0dUFYUmMtNE9zVUFqaGQ5U3RrUEdKdHg3VGppSmZoTWswU0ZOYjlid1YtRG9oUU0wSWVTRnMyNDJHNFFQUmdpZ3JKeDFiaXRfUHZ4d3BXdGh0MWliajk0ZThZNFZZZWpadXc3N195c25Nei1tY2xCNndRcXM?oc=5",
+     "resume": "",
+     "date": "2026-10-15T07:42:20+02:00",
+     "source": "Radio France",
+     "image": null,
+     "reprises": 20,
+     "score": 43.62,
+     "libertes": true
+    },
+    {
+     "titre": "Niger : création d'un observatoire des droits de l’homme",
+     "lien": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOU1ozUUxVY0M3bnh1aXpRVnFwY004NnBxRFRFS25NZWRSMWxRUFp6Yy1nMk5IeDhNNUFqVGpuVmd3RVRBTFBWbmNHTU83Nmt6ZUh0Mk9JMTd6SnB4U3I5czFFOE44Q05keHY2dldrMjFEeDB1YWdyUkNHcVdodnhfbkdKRXJKaTJiSkJjcWVEZWtjbUpiWkxkVnNlWkN1UXRW?oc=5",
+     "resume": "",
+     "date": "2026-10-15T12:15:09+02:00",
+     "source": "Anadolu Ajansı",
+     "image": null,
+     "reprises": 5,
+     "score": 8.38,
+     "libertes": false
+    },
+    {
+     "titre": "Postes militaires inaccessibles aux séropositifs : des associations saisissent le Conseil d'État",
+     "lien": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxNUFRZVWdaM1RDcXltdjFVc3o1YV9id3FSZS1GR0QybHQ4MzY0QjJsTmRzQ2FQbjZtdDFrRTZscWc0emFpeUpZZWtMQ0ZYRE1hNGRqc2d4SWRwNGNHeXlTQXlheHBMLWZ3eDUydDhwSUl6U2JTUDBjWWp4NjhldEw5QmVQdGk0bzZHamFOVmluTkNVNkd6UFEyM2ktZzBvdVpPWTFzSWt6dXJxMmRTM3Y1S1I4dndfMk52VElpdFVkSUhGQ21rbmdTSmZOM2o5Qk1wREtGaWZ2Z1FGOU9lUlJON2RxSzhZdFpVS3VrMHln?oc=5",
+     "resume": "",
+     "date": "2026-10-15T10:47:30+02:00",
+     "source": "France 24",
+     "image": null,
+     "reprises": 4,
+     "score": 6.58,
+     "libertes": false
+    },
+    {
+     "titre": "Rejet du recours par le tribunal administratif concernant les élections municipales de Nîmes : Julien Sanchez (RN) saisit le Conseil d’État",
+     "lien": "https://news.google.com/rss/articles/CBMikAJBVV95cUxOdkNlRDFDVUhkaTZJekRwellQa1RmWXF5NEc5am9YTkVXbmpibFF2VUUydTYyekd3S1BvaFBqSnJjUHFvQ19zVHdvWWlwZlhLTEFCeHdCSXdFLWR1emtlWFh6LWYzV0I5Rk9wamRFZUZRdzluS2twSmxiZzBIM0hMRkhlYUFPcnhFZXkxMUlqc2ttdkxCSjVnMWtoZkFUN0dFWWdSTlZsVWxZNkVtTUtHV05xOVBLR2RLam1JLXJuT0VfVDZJLU5ITlpZR3U2RVFocjdNZnN3R2tDRFNzMHVDeW90MVRxTVRWbmFNZWNWaEQ4eU4wRy05cVRudW9IRjNQRkZzOThfOGZLbGpBcTcyaQ?oc=5",
+     "resume": "",
+     "date": "2026-10-15T18:13:00+02:00",
+     "source": "Midi Libre",
+     "image": null,
+     "reprises": 3,
+     "score": 5.95,
+     "libertes": false
+    },
+    {
+     "titre": "Moselle Open : la Cour de cassation valide la cession à ALL IN MOSELLE",
+     "lien": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNVlZqV0NVTTE0TjNBV3NZYUpFQm41WUo2czZFckZwaFMzV2F4Ry1Sd3Vyb0U0Vk9CanlaUC1LVzVJUUJMdGZZbTRqejg1UjFGdVFMZmVFTExKaXo5Y1Rkd2hIbjh6cWJBS21UdW1sM0lFSmdGM0RncXNYTC1haTBvN19fM0MzM2U0OVNIMTJQUXh5dw?oc=5",
+     "resume": "",
+     "date": "2026-10-13T09:21:37+02:00",
+     "source": "Moselle TV",
+     "image": null,
+     "reprises": 3,
+     "score": 4.77,
+     "libertes": false
+    },
+    {
+     "titre": "Relever les défis contemporains de la liberté d’expression",
+     "lien": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQSUp0SW5WalYyLWd3NkhQbXBuUDlGQnp6bE91RVlWTlRubk93aHp6aWNIdU9jVHB3MDFWUHRoNTQ4MWt4R3k3M0FZUnp6VERyWjJoVmJQQ0Z0b18wbjVyRXBjdlZkWVRiSzZrOFNKcjd0YUVsdkRCeC03Q3NLRXFJZ1lLWWhXZDZ6c2U1ZmtkdXBaZw?oc=5",
+     "resume": "",
+     "date": "2026-10-14T12:03:22+02:00",
+     "source": "La Revue politique et Parlementaire",
+     "image": null,
+     "reprises": 2,
+     "score": 3.31,
+     "libertes": true
+    }
+   ],
+   "a_traduire": []
+  }
+ ]
+}
