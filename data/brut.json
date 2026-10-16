@@ -1,6 +1,6 @@
 {
  "date": "2026-10-16",
- "genere": "2026-10-16T07:07+02:00",
+ "genere": "2026-10-16T07:09+02:00",
  "journaux": [
   {
    "id": "figaro",
@@ -74,6 +74,14 @@
    },
    "articles": [
     {
+     "titre": "EN DIRECT, guerre en Ukraine : Donald Trump critique Volodymyr Zelensky après la reprise des attaques sur les raffineries russes : « Il n’est pas le bon type pour trouver un accord »",
+     "lien": "https://www.lemonde.fr/international/live/2026/10/16/en-direct-guerre-en-ukraine-donald-trump-juge-que-la-reprise-par-l-ukraine-des-frappes-sur-les-raffineries-russes-est-une-honte_6791198_3210.html",
+     "resume": "« Je pense qu’il est plus difficile de travailler avec Zelensky qu’avec Poutine », a notamment dit le président américain sur la chaîne Newsmax.",
+     "date": "2026-10-16T05:11:52+02:00",
+     "source": "",
+     "image": "https://img.lemde.fr/2026/10/15/471/0/5269/2634/644/322/60/0/7570102_ftp-1-kkdob0x5gcrn-2026-10-15t040446z-2136569512-rc2g3oa0cwug-rtrmadp-3-usa-trump.JPG"
+    },
+    {
      "titre": "Mouvement lycéen : un mois de mobilisation et le pari de la convergence « jeunes et jaunes »",
      "lien": "https://www.lemonde.fr/societe/article/2026/10/16/mouvement-lyceen-un-mois-de-mobilisation-et-le-pari-de-la-convergence-jeunes-et-jaunes_6795111_3224.html",
      "resume": "Les lycéens mobilisés comptent sur la large journée d’action de samedi 17 octobre pour donner du souffle à leurs revendications, alors que les vacances scolaires débutent et que le dialogue avec le gouvernement patine.",
@@ -82,26 +90,10 @@
      "image": "https://img.lemde.fr/2026/10/13/0/0/2643/1322/644/322/60/0/596d97a_upload-1-vh97zih3rjes-asurp-maniflyce-e-107400.jpg"
     },
     {
-     "titre": "Aux Etats-Unis, trois enfants et un professeur tués lors d’une fusillade dans une école primaire de l’Oregon",
-     "lien": "https://www.lemonde.fr/international/article/2026/10/16/aux-etats-unis-une-fusillade-fait-au-moins-quatre-morts-dans-une-ecole-primaire-de-l-oregon_6794831_3210.html",
-     "resume": "L’auteur des coups de feu, un adolescent âgé de 16 ans, a été abattu par un passant armé, jeudi, avant que les policiers n’arrivent sur les lieux.",
-     "date": "2026-10-16T00:51:46+02:00",
-     "source": "",
-     "image": "https://img.lemde.fr/2026/10/15/176/0/5088/2544/644/322/60/0/cb7f703_ftp-1-spb8mgeaj3in-2026-10-15t220525z-395078352-rc2x3oaeghlx-rtrmadp-3-oregon-shooting.JPG"
-    },
-    {
-     "titre": "EN DIRECT, guerre en Ukraine : Volodymyr Zelensky n’est « pas le bon type pour trouver un accord », accuse Donald Trump",
-     "lien": "https://www.lemonde.fr/international/live/2026/10/16/en-direct-guerre-en-ukraine-donald-trump-juge-que-la-reprise-par-l-ukraine-des-frappes-sur-les-raffineries-russes-est-une-honte_6791198_3210.html",
-     "resume": "Le président américain a haussé le ton contre le président ukrainien, Volodymyr Zelensky, dans une déclaration à la chaîne Newsmax. « Je pense qu’il est plus difficile de travailler avec Zelensky qu’avec Poutine », a-t-il attaqué avant de lancer : « Il dit…",
-     "date": "2026-10-16T05:11:52+02:00",
-     "source": "",
-     "image": "https://img.lemde.fr/2026/10/15/30/0/5175/2587/644/322/60/0/a72be4f_ftp-1-bytusskijgrw-26a03d2ed31f45829afa9d740307e2a1-0-4e3d94439ed94fa79b492bd9d88a28d2.jpg"
-    },
-    {
      "titre": "Carburants : les Vingt-Sept peinent à s’entendre pour faire baisser les prix de l’énergie, un cauchemar pour l’économie européenne",
      "lien": "https://www.lemonde.fr/economie/article/2026/10/16/carburants-les-vingt-sept-peinent-a-s-entendre-pour-faire-baisser-les-prix-de-l-energie-un-cauchemar-pour-l-economie-europeenne_6795109_3234.html",
      "resume": "Les chefs d’Etat et de gouvernement, réunis à Bruxelles les 15 et 16 octobre, sont divisés sur les mesures à prendre et manquent d’outils, au moment où l’Union européenne, qui achète encore du gaz russe, est fragilisée dans sa réponse à l’accord entre Trump…",
-     "date": "2026-10-16T05:30:27+02:00",
+     "date": "2026-10-16T05:30:15+02:00",
      "source": "",
      "image": "https://img.lemde.fr/2026/10/15/414/0/4938/2469/644/322/60/0/cf09aa7_ftp-1-jeuwmzcagckj-2026-10-15t085039z-1818786238-rc2k3oa14seq-rtrmadp-3-eu-summit.JPG"
     },
@@ -114,12 +106,20 @@
      "image": "https://img.lemde.fr/2026/10/09/567/0/6804/3402/644/322/60/0/a37d092_ftp-1-ico1fdzqj7ta-2026-10-09t060037z-546745853-rc2w8naql22n-rtrmadp-3-climate-change-ipcc-science.JPG"
     },
     {
-     "titre": "« “Notre salut” tient du miracle : ce grand film politique plaît de la gauche à l’extrême droite sans susciter de polémiques alors qu’il en porte beaucoup »",
-     "lien": "https://www.lemonde.fr/idees/article/2026/10/16/notre-salut-tient-du-miracle-ce-grand-film-politique-plait-de-la-gauche-a-l-extreme-droite-sans-susciter-de-polemiques-alors-qu-il-en-porte-beaucoup_6795104_3232.html",
-     "resume": "Le film, qui relate le parcours d’un collabo ordinaire dans l’administration de Vichy, est un gros succès, malgré son thème ou les propos de son réalisateur et de son acteur principal, Swann Arlaud, remarque Michel Guerrin, chroniqueur au « Monde ».",
-     "date": "2026-10-16T05:25:16+02:00",
+     "titre": "Aux Etats-Unis, trois enfants et un professeur tués lors d’une fusillade dans une école primaire de l’Oregon",
+     "lien": "https://www.lemonde.fr/international/article/2026/10/16/aux-etats-unis-une-fusillade-fait-au-moins-quatre-morts-dans-une-ecole-primaire-de-l-oregon_6794831_3210.html",
+     "resume": "L’auteur des coups de feu, un adolescent âgé de 16 ans, a été abattu par un passant armé, jeudi, avant que les policiers n’arrivent sur les lieux.",
+     "date": "2026-10-16T00:51:46+02:00",
      "source": "",
-     "image": "https://img.lemde.fr/2026/10/15/50/0/1600/800/644/322/60/0/73e9fb9_upload-1-f07febj6imjg-le65xsq.png"
+     "image": "https://img.lemde.fr/2026/10/15/176/0/5088/2544/644/322/60/0/cb7f703_ftp-1-spb8mgeaj3in-2026-10-15t220525z-395078352-rc2x3oaeghlx-rtrmadp-3-oregon-shooting.JPG"
+    },
+    {
+     "titre": "« Instinct », le troisième album d’Angèle : « J’ai voulu laisser parler mes tripes, ma voix intérieure, sans trop arrondir les angles »",
+     "lien": "https://www.lemonde.fr/culture/article/2026/10/16/instinct-le-troisieme-album-d-angele-j-ai-voulu-laisser-parler-mes-tripes-ma-voix-interieure-sans-trop-arrondir-les-angles_6795181_3246.html",
+     "resume": "Avec des sons plus radicaux qui reflètent un monde chaotique, la chanteuse s’éloigne des ambiances guillerettes de ses débuts pour insuffler une urgence nouvelle, même si elle continue de composer des refrains accrocheurs.",
+     "date": "2026-10-16T06:00:31+02:00",
+     "source": "",
+     "image": "https://img.lemde.fr/2026/10/14/1264/0/3940/1970/644/322/60/0/23fa15c_upload-1-wzwhnzinueat-2s8a9493-1-kenza-le-bas.jpg"
     }
    ],
    "flux_utilise": "https://www.lemonde.fr/rss/une.xml"
@@ -196,6 +196,14 @@
    },
    "articles": [
     {
+     "titre": "Tentez le score parfait",
+     "lien": "https://www.lequipe.fr/jeux#at_medium=RSS_feeds",
+     "resume": "",
+     "date": "2026-10-16T06:51:00+02:00",
+     "source": "",
+     "image": "https://medias.lequipe.fr/img-photo-png/-/1500000000833469/0-828-552-75/0cb67.png"
+    },
+    {
      "titre": "La seconde chance a été la bonne : le parcours atypique de Chamsedin Kouranfal, révélation du début de saison de Reims en Ligue 2",
      "lien": "https://www.lequipe.fr/Football/Actualites/La-seconde-chance-a-ete-la-bonne-le-parcours-atypique-de-chamsedin-kouranfal-revelation-du-debut-de-saison-de-reims-en-ligue-2/1736013#at_medium=RSS_feeds",
      "resume": "Déniché par le Stade de Reims en Régional 1, où il devait poursuivre son apprentissage, Chamsedin Kouranfal a convaincu l'entraîneur, Nicolas Usaï, qui l'a vite intégré au groupe pro. Les Rémois reçoivent Dijon, vendredi soir (20 heures), pour la 9e journée…",
@@ -234,14 +242,6 @@
      "date": "2026-10-16T05:40:00+02:00",
      "source": "",
      "image": "https://medias.lequipe.fr/img-photo-jpg/face-a-manchester-city-mercredi-la-defense-du-paris-sg-a-souffert-sur-certains-coups-de-pied-arretes-f-faugere-l-equipe/1500000002623968/0:0,1898:1265-828-552-75/23c65.jpg"
-    },
-    {
-     "titre": "Plus de 18 500 pas par jour : les enfants de 3 à 4 ans, ces grands sportifs méconnus",
-     "lien": "https://www.lequipe.fr/Respire/Pratique-sportive/Actualites/Plus-de-18-500-pas-par-jour-les-enfants-de-3-a-4-ans-ces-grands-sportifs-meconnus/1725697#at_medium=RSS_feeds",
-     "resume": "Une étude publiée fin septembre révèle que les enfants de 3 et 4 ans réalisent en moyenne 18 542 pas chaque jour. Avec, toutefois, de grosses disparités selon les régions rurales ou urbaines.",
-     "date": "2026-10-16T05:35:00+02:00",
-     "source": "",
-     "image": "https://medias.lequipe.fr/img-photo-jpg/tout-petits-grande-activite-physique-e-garnier-l-equipe/1500000002612724/0:0,1500:1000-828-552-75/18cf5.jpg"
     }
    ],
    "flux_utilise": "https://dwh.lequipe.fr/api/edito/rss?path=/"
@@ -260,8 +260,8 @@
      "date": "2026-10-16T06:47:03+02:00",
      "source": "lemonde.fr",
      "image": "https://img.lemde.fr/2026/10/07/1000/0/6000/3000/644/322/60/0/d429871_ftp-1-5hlwfqdpdo6j-2026-10-07t145925z-1886848509-rc26yna1bdl4-rtrmadp-3-ukraine-crisis-south-frontline.JPG",
-     "reprises": 13,
-     "score": 35.54
+     "reprises": 15,
+     "score": 38.87
     },
     {
      "titre": "Aux Etats-Unis, trois enfants et un professeur tués lors d’une fusillade dans une école primaire de l’Oregon",
@@ -270,8 +270,8 @@
      "date": "2026-10-16T00:51:46+02:00",
      "source": "lemonde.fr",
      "image": "https://img.lemde.fr/2026/10/15/176/0/5088/2544/644/322/60/0/cb7f703_ftp-1-spb8mgeaj3in-2026-10-15t220525z-395078352-rc2x3oaeghlx-rtrmadp-3-oregon-shooting.JPG",
-     "reprises": 8,
-     "score": 19.26
+     "reprises": 7,
+     "score": 17.51
     },
     {
      "titre": "Présidentielle 2027 : Raphaël Glucksmann dénonce la « capitulation » de Marine Le Pen sur l’aide à l’Ukraine",
@@ -291,7 +291,7 @@
      "source": "france24.com",
      "image": "https://s.france24.com/media/display/a2168134-c8e4-11f1-b4c0-638c1c1f5fd6/w:1024/p:16x9/FRAN261015-2339-Live-CS2339.jpg",
      "reprises": 3,
-     "score": 6.41
+     "score": 6.31
     },
     {
      "titre": "La nouvelle porte-parole de la Maison Blanche, Katie Zacharia, tente d’éteindre la polémique sur son parcours juridique",
@@ -311,7 +311,7 @@
      "source": "lemonde.fr",
      "image": "https://img.lemde.fr/2026/10/12/886/0/8640/4320/644/322/60/0/c61a257_ftp-1-wkrtqdfjmu92-ea9ed94bc3be475ab7c4460dbfad0a56-1-214c8e81f638477d8e7c86e3b9d9147e.jpg",
      "reprises": 3,
-     "score": 5.22
+     "score": 5.21
     }
    ],
    "a_traduire": []
@@ -329,17 +329,7 @@
      "source": "fr.qz.com",
      "image": null,
      "reprises": 6,
-     "score": 13.55
-    },
-    {
-     "titre": "Anthropic accorde à un évaluateur externe de METR un accès au niveau des employés dans le cadre de son initiat",
-     "lien": "https://news.google.com/rss/articles/CBMizAJBVV95cUxPVkZmVU9JNThPaTYzNkFnV1UwZnZJZkhoUktkaF9jRnNsZ3V2N2QtZ3ZCQ2R3SGZoX1M1UE9CazBSc1J4YU96azlpMXJKY2RvVGxRc1JVaFNCd3lxcWR5ZVZMVTdFN3gwMElibVhZdWswcWYxVG13Q19RSDAyX3VFM3NiVm90QkNMVTFIdTJuX3hVTGRKNkNYOHJ2eHE2NGJFOWNTbVo1XzZaNi1XVkZBal9JMjdDV0dxN1ozcmIyM0xoVkM2eXdJSHRTeXltOTdzUEJBaVJyaE9HUEhGYXpVdGpTVlpXcU03b1ZWUmtTLTNXYUZtTU1HbjFPTlF6WXJwZjdEOTFyaEdUa0JEVVJHLXFmdHNQbDRYUnUyTmpqdHlMTU5lNjlxUmNmQ01UMjdkU0t3RF84bFVzWWtVTkE1WWc1clhlcUFMcndRY9IBzAJBVV95cUxPVkZmVU9JNThPaTYzNkFnV1UwZnZJZkhoUktkaF9jRnNsZ3V2N2QtZ3ZCQ2R3SGZoX1M1UE9CazBSc1J4YU96azlpMXJKY2RvVGxRc1JVaFNCd3lxcWR5ZVZMVTdFN3gwMElibVhZdWswcWYxVG13Q19RSDAyX3VFM3NiVm90QkNMVTFIdTJuX3hVTGRKNkNYOHJ2eHE2NGJFOWNTbVo1XzZaNi1XVkZBal9JMjdDV0dxN1ozcmIyM0xoVkM2eXdJSHRTeXltOTdzUEJBaVJyaE9HUEhGYXpVdGpTVlpXcU03b1ZWUmtTLTNXYUZtTU1HbjFPTlF6WXJwZjdEOTFyaEdUa0JEVVJHLXFmdHNQbDRYUnUyTmpqdHlMTU5lNjlxUmNmQ01UMjdkU0t3RF84bFVzWWtVTkE1WWc1clhlcUFMcndRYw?oc=5",
-     "resume": "",
-     "date": "2026-10-15T21:31:30+02:00",
-     "source": "Boursorama",
-     "image": null,
-     "reprises": 4,
-     "score": 8.34
+     "score": 13.53
     },
     {
      "titre": "« Il y a une forte utilisation de l’IA sur les blocus » : comment l’intelligence artificielle a boosté la mobilisation lycéenne",
@@ -358,8 +348,18 @@
      "date": "2026-10-16T02:43:21+02:00",
      "source": "Le Devoir",
      "image": null,
-     "reprises": 2,
-     "score": 4.96
+     "reprises": 3,
+     "score": 6.7
+    },
+    {
+     "titre": "Anthropic accorde à un évaluateur externe de METR un accès au niveau des employés dans le cadre de son initiat",
+     "lien": "https://news.google.com/rss/articles/CBMizAJBVV95cUxPVkZmVU9JNThPaTYzNkFnV1UwZnZJZkhoUktkaF9jRnNsZ3V2N2QtZ3ZCQ2R3SGZoX1M1UE9CazBSc1J4YU96azlpMXJKY2RvVGxRc1JVaFNCd3lxcWR5ZVZMVTdFN3gwMElibVhZdWswcWYxVG13Q19RSDAyX3VFM3NiVm90QkNMVTFIdTJuX3hVTGRKNkNYOHJ2eHE2NGJFOWNTbVo1XzZaNi1XVkZBal9JMjdDV0dxN1ozcmIyM0xoVkM2eXdJSHRTeXltOTdzUEJBaVJyaE9HUEhGYXpVdGpTVlpXcU03b1ZWUmtTLTNXYUZtTU1HbjFPTlF6WXJwZjdEOTFyaEdUa0JEVVJHLXFmdHNQbDRYUnUyTmpqdHlMTU5lNjlxUmNmQ01UMjdkU0t3RF84bFVzWWtVTkE1WWc1clhlcUFMcndRY9IBzAJBVV95cUxPVkZmVU9JNThPaTYzNkFnV1UwZnZJZkhoUktkaF9jRnNsZ3V2N2QtZ3ZCQ2R3SGZoX1M1UE9CazBSc1J4YU96azlpMXJKY2RvVGxRc1JVaFNCd3lxcWR5ZVZMVTdFN3gwMElibVhZdWswcWYxVG13Q19RSDAyX3VFM3NiVm90QkNMVTFIdTJuX3hVTGRKNkNYOHJ2eHE2NGJFOWNTbVo1XzZaNi1XVkZBal9JMjdDV0dxN1ozcmIyM0xoVkM2eXdJSHRTeXltOTdzUEJBaVJyaE9HUEhGYXpVdGpTVlpXcU03b1ZWUmtTLTNXYUZtTU1HbjFPTlF6WXJwZjdEOTFyaEdUa0JEVVJHLXFmdHNQbDRYUnUyTmpqdHlMTU5lNjlxUmNmQ01UMjdkU0t3RF84bFVzWWtVTkE1WWc1clhlcUFMcndRYw?oc=5",
+     "resume": "",
+     "date": "2026-10-15T21:31:30+02:00",
+     "source": "Boursorama",
+     "image": null,
+     "reprises": 3,
+     "score": 6.49
     },
     {
      "titre": "« Les patrons de la Tech ont intérêt à nous faire croire qu’on parle avec Terminator plutôt qu'avec ChatGPT » : comment reprendre le contrôle sur l’IA ?",
@@ -437,8 +437,8 @@
      "date": "2026-10-15T07:42:20+02:00",
      "source": "Radio France",
      "image": null,
-     "reprises": 20,
-     "score": 43.62,
+     "reprises": 19,
+     "score": 41.28,
      "libertes": true
     },
     {
@@ -460,7 +460,7 @@
      "source": "France 24",
      "image": null,
      "reprises": 4,
-     "score": 6.58,
+     "score": 6.64,
      "libertes": false
     },
     {
@@ -471,7 +471,7 @@
      "source": "Midi Libre",
      "image": null,
      "reprises": 3,
-     "score": 5.95,
+     "score": 6.21,
      "libertes": false
     },
     {
@@ -493,7 +493,7 @@
      "source": "La Revue politique et Parlementaire",
      "image": null,
      "reprises": 2,
-     "score": 3.31,
+     "score": 3.41,
      "libertes": true
     }
    ],
