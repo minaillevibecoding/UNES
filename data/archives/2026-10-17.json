@@ -1,0 +1,503 @@
+{
+ "date": "2026-10-17",
+ "genere": "2026-10-17T07:03+02:00",
+ "journaux": [
+  {
+   "id": "figaro",
+   "nom": "Le Figaro",
+   "couleur": "#163860",
+   "une": {
+    "fichier": "unes/figaro.jpg",
+    "date": "2026-10-17",
+    "source": "https://static.milibris.com/thumbnail/issue/d7cf315d-fab5-4cb8-8f10-387d926b57d5/front/catalog-cover-large.jpeg"
+   },
+   "articles": [
+    {
+     "titre": "De retour dans la rue, carrière politique avortée et démêlés judiciaires : que sont devenues les figures des «gilets jaunes» ?",
+     "lien": "https://www.lefigaro.fr/actualite-france/de-retour-dans-la-rue-carriere-politique-avortee-et-demeles-judiciaires-que-sont-devenues-les-figures-des-gilets-jaunes-20261017",
+     "resume": "PORTRAITS - Huit ans après la révolte des ronds-points, plusieurs visages du mouvement des «gilets jaunes» soutiennent la manifestation du samedi 17 octobre. Certaines comptent reprendre le chemin des rassemblements, tandis que d’autres ont définitivement…",
+     "date": "2026-10-17T07:00:00+02:00",
+     "source": "",
+     "image": "https://i.f1g.fr/media/cms/3000x1687_crop/2026/10/16/1c221131afd0aca91cb0adf2f180839b32ce706af7b54e8490999d29f2fb4031.jpg"
+    },
+    {
+     "titre": "« Un samedi très compliqué, avec les casseurs de l’ultragauche en embuscade » : ce que prévoient les autorités pour la mobilisation du 17 octobre",
+     "lien": "https://www.lefigaro.fr/actualite-france/un-samedi-tres-complique-avec-les-casseurs-de-l-ultragauche-en-embuscade-ce-que-prevoient-les-autorites-pour-la-mobilisation-du-17-octobre-20261016",
+     "resume": "DÉCRYPTAGE - Alors qu’environ 500 actions jugées « crédibles » et 90 défilés sont attendus dans le pays, les black blocs seront une fois encore au rendez-vous pour provoquer le chaos.",
+     "date": "2026-10-16T18:28:31+02:00",
+     "source": "",
+     "image": "https://i.f1g.fr/media/cms/3000x2000_crop/2026/10/16/36ea29399b9d890c13c464438766a6850024e96312f0c056e17aa41e9ea3b70d.jpg"
+    },
+    {
+     "titre": "Interpellations, dégâts matériels, cours manqués : le bilan accablant d’un mois de blocages et de casse lors du mouvement lycéen",
+     "lien": "https://www.lefigaro.fr/actualite-france/interpellations-degats-materiels-cours-manques-le-bilan-accablant-d-un-mois-de-blocages-et-de-casse-lors-du-mouvement-lyceen-20261016",
+     "resume": "DÉCRYPTAGE - Alors que les chiffres des blessés, des gardes à vue et du coût des dégradations ne cessent de gonfler, les familles s’inquiètent des heures de cours perdues et de la suite du mouvement.",
+     "date": "2026-10-16T18:59:13+02:00",
+     "source": "",
+     "image": "https://i.f1g.fr/media/cms/3000x2000_crop/2026/10/16/8bc74256e3b2fd585a6207fa46ba758f9c004d7ecec6ccd6d15e40f9f3038b74.jpg"
+    },
+    {
+     "titre": "Bérénice Levet : « La crise des lycéens est aussi une crise des adultes »",
+     "lien": "https://www.lefigaro.fr/vox/societe/berenice-levet-la-crise-des-lyceens-est-aussi-une-crise-des-adultes-20261016",
+     "resume": "TRIBUNE - La jeunesse va mal car elle n’a plus face à elle de véritables aînés, des êtres qui font autorité parce que leur parole vient de plus loin qu’eux-mêmes et qui transmettent la civilisation comme legs à faire sien, estime la philosophe*.",
+     "date": "2026-10-16T16:35:43+02:00",
+     "source": "",
+     "image": "https://i.f1g.fr/media/cms/3000x1687_crop/2026/10/16/8f18ebf9271bad1abbd487acf90851551376bcf1c5c3467f049823d3fc183714.jpg"
+    },
+    {
+     "titre": "Mobilisation du 17 octobre : les lycéens seront-ils au rendez-vous ?",
+     "lien": "https://etudiant.lefigaro.fr/article/lycee/mobilisation-du-17-octobre-les-lyceens-seront-ils-au-rendez-vous-20261016/",
+     "resume": "L’Union syndicale lycéenne a appelé tous les lycéens à se mobiliser ce samedi pour «enfin faire vivre la convergence des luttes».",
+     "date": "2026-10-17T00:10:05+02:00",
+     "source": "",
+     "image": "https://i.f1g.fr/media/cms/3000x1687_crop/2026/10/16/beb8f6d30e10609f338fc594081d48d5b1023a4069eaa7feea569901849e353e.jpg"
+    },
+    {
+     "titre": "Mobilisation du 17 octobre : bras de fer autour du parcours des manifestations parisiennes",
+     "lien": "https://www.lefigaro.fr/actualite-france/mobilisation-du-17-octobre-bras-de-fer-autour-du-parcours-des-manifestations-parisiennes-20261016",
+     "resume": "CARTE – Le préfet de police de Paris a interdit de manifester samedi dans plusieurs secteurs stratégiques de la capitale, autour du palais présidentiel, de Matignon et des Champs-Élysées.",
+     "date": "2026-10-16T19:42:20+02:00",
+     "source": "",
+     "image": "https://i.f1g.fr/media/cms/3000x2000_crop/2026/10/16/b161a7666acb617f2f01a80cca54a2cfaddd66bf8bb032308f8a457d9fc82c56.jpg"
+    }
+   ],
+   "flux_utilise": "https://www.lefigaro.fr/rss/figaro_actualites.xml"
+  },
+  {
+   "id": "monde",
+   "nom": "Le Monde",
+   "couleur": "#111111",
+   "une": {
+    "fichier": "unes/monde.webp",
+    "date": "2026-10-17",
+    "source": "https://www.frontpages.com/t/2026/10/16/le-monde-233239f9y@2x.webp"
+   },
+   "articles": [
+    {
+     "titre": "Entre Emmanuel Macron et la jeunesse, un divorce consommé",
+     "lien": "https://www.lemonde.fr/politique/article/2026/10/17/entre-emmanuel-macron-et-la-jeunesse-un-divorce-consomme_6795811_823448.html",
+     "resume": "Porteur d’un message d’émancipation sociale lors de son arrivée au pouvoir, le chef de l’Etat n’a cessé de creuser le fossé avec la jeune génération qui se mobilisera samedi 17 octobre. Lors de cette nouvelle journée de protestation, les lycéens ambitionnent…",
+     "date": "2026-10-17T05:30:19+02:00",
+     "source": "",
+     "image": "https://img.lemde.fr/2026/10/06/688/0/8256/4128/644/322/60/0/f01d9fc_upload-1-kq0mm4agcirc-dsc-5648.jpg"
+    },
+    {
+     "titre": "Mobilisation du 17 octobre : la préfecture interdit de manifester dans plusieurs secteurs de Paris, autour de l’Elysée et Matignon notamment",
+     "lien": "https://www.lemonde.fr/societe/article/2026/10/16/mobilisation-du-17-octobre-la-prefecture-interdit-de-manifester-dans-plusieurs-secteurs-de-paris-autour-de-l-elysee-et-matignon-notamment_6795587_3224.html",
+     "resume": "Dans le cadre de cette journée de mobilisation associant « gilets jaunes », étudiants et lycéens, les rassemblements et cortèges qui n’auront pas été déclarés seront interdits de 7 heures à 22 heures, a annoncé la préfecture de police.",
+     "date": "2026-10-16T18:56:28+02:00",
+     "source": "",
+     "image": "https://img.lemde.fr/2026/10/16/325/0/5560/2780/644/322/60/0/7d08c01_ftp-1-kmkld824qc0m-2026-10-16t081933z-933462372-rc284oaogd0j-rtrmadp-3-france-protest.JPG"
+    },
+    {
+     "titre": "Aux Etats-Unis, Katie Zacharia bat un record de brièveté comme porte-parole de la Maison Blanche",
+     "lien": "https://www.lemonde.fr/international/article/2026/10/17/aux-etats-unis-katie-zacharia-bat-un-record-de-brievete-comme-porte-parole-de-la-maison-blanche_6795675_3210.html",
+     "resume": "Choisie pour remplacer Karoline Leavitt, la porte-parole a enchaîné les bévues et a été écartée du poste par Donald Trump au bout de cinq jours.",
+     "date": "2026-10-17T00:59:07+02:00",
+     "source": "",
+     "image": "https://img.lemde.fr/2026/10/16/85/0/1024/512/644/322/60/0/700c42d_ftp-1-i1t9fuqub1x7-afp-d3j63n7-1024.jpg"
+    },
+    {
+     "titre": "EN DIRECT, guerre en Ukraine : Emmanuel Macron critique l’accord entre Moscou et Washington sur le diesel russe, le qualifiant de mesure « inappropriée, inefficace »",
+     "lien": "https://www.lemonde.fr/international/live/2026/10/17/en-direct-guerre-en-ukraine-emmanuel-macron-critique-l-accord-entre-moscou-et-washington-sur-le-diesel-russe-le-qualifiant-de-mesure-inappropriee-inefficace_6791198_3210.html",
+     "resume": "Le président français a également martelé, vendredi, que les Européens « ne lâcheront pas l’Ukraine » parce que « c’est une guerre de résistance face à la guerre d’agression russe ». Ursula von der Leyen a confirmé le trou de 70 milliards d’euros en 2027…",
+     "date": "2026-10-17T02:10:50+02:00",
+     "source": "",
+     "image": "https://img.lemde.fr/2026/10/16/118/0/5000/2500/644/322/60/0/13f25af_ftp-1-dyaraubxyu29-2026-10-16t172955z-1471415968-rc2h4oarl7t5-rtrmadp-3-eu-summit.JPG"
+    },
+    {
+     "titre": "Israël : pourquoi les résultats des élections législatives du 27 octobre vont demeurer incertains jusqu’au jour du scrutin, et même après",
+     "lien": "https://www.lemonde.fr/international/article/2026/10/16/israel-pourquoi-les-resultats-des-elections-legislatives-du-27-octobre-vont-demeurer-incertains-jusqu-au-jour-du-scrutin-et-meme-longtemps-apres_6795592_3210.html",
+     "resume": "A onze jours du scrutin, aucune majorité nette ne se détache dans les sondages. Entre gouvernement d’union nationale, recomposition des alliances et risque de blocage, plusieurs scénarios sont possibles.",
+     "date": "2026-10-16T19:05:03+02:00",
+     "source": "",
+     "image": "https://img.lemde.fr/2026/10/13/954/0/7502/3751/644/322/60/0/dd2a871_ftp-1-6xgnmo4icy7a-5344433-01-06.jpg"
+    },
+    {
+     "titre": "La cyberattaque des frigos de supermarché, un signal d’alarme pour tous les industriels et un rappel à la loi européenne pour la France",
+     "lien": "https://www.lemonde.fr/economie/article/2026/10/17/la-cyberattaque-des-frigos-de-supermarche-un-signal-d-alarme-pour-tous-les-industriels-et-un-rappel-a-la-loi-europeenne-pour-la-france_6795846_3234.html",
+     "resume": "L’incident qui a touché plus de 700 magasins démontre la vulnérabilité de nombreux équipements, parfois anodins, connectés à Internet. Il met aussi en lumière le retard qu’a pris la France à transposer dans son droit national deux directives européennes sur…",
+     "date": "2026-10-17T06:00:03+02:00",
+     "source": "",
+     "image": "https://img.lemde.fr/2026/10/13/379/0/3956/1978/644/322/60/0/d64326f_ftp-1-mwblazziimvq-2026-10-13t095504z-16906231-rc282oaqzrgl-rtrmadp-3-france-cyberattack.JPG"
+    }
+   ],
+   "flux_utilise": "https://www.lemonde.fr/rss/une.xml"
+  },
+  {
+   "id": "croix",
+   "nom": "La Croix",
+   "couleur": "#c8102e",
+   "une": {
+    "fichier": "unes/croix.webp",
+    "date": "2026-10-17",
+    "source": "https://www.frontpages.com/t/2026/10/17/la-croix-064100309@2x.webp"
+   },
+   "articles": [
+    {
+     "titre": "À Massy, le Centre Pompidou dévoile ses nouvelles réserves",
+     "lien": "https://www.la-croix.com/culture/a-massy-le-centre-pompidou-devoile-ses-nouvelles-reserves-20261016",
+     "resume": "Après trois week-ends de préfiguration à partir du 17 octobre, la « Fabrique de l’art » de Massy présentera une exposition au public en mars 2027, à partir des œuvres du Centre Pompidou qu’elle conservera en réserves.",
+     "date": "2026-10-17T07:00:21+02:00",
+     "source": "",
+     "image": "https://i.la-croix.com/x/2026/10/16/2560467-en-mars-2027-la-fabrique-de-l-art-a-massy-presente.jpg"
+    },
+    {
+     "titre": "Olivier Roy : « Ce qui arrive à la société française est bien plus qu’un coup de blues »",
+     "lien": "https://www.la-croix.com/culture/olivier-roy-ce-qui-arrive-a-la-societe-francaise-est-bien-plus-qu-un-coup-de-blues-20261016",
+     "resume": "Politologue et spécialiste de l’islam, Olivier Roy se penche dans un nouveau livre sur la vague populiste qui traverse le monde et ses enjeux de fond. Pour La Croix L’Hebdo, il revient aussi sur son parcours intellectuel, qui a fait de lui un chercheur écouté.",
+     "date": "2026-10-17T06:45:14+02:00",
+     "source": "",
+     "image": "https://i.la-croix.com/x/2026/10/16/2561654-olivier-roy-politologue-et-specialiste-de-l-islam-.jpg"
+    },
+    {
+     "titre": "Guerre au Moyen-Orient : l’Arabie saoudite encore ciblée… Le bilan du vendredi 16 octobre",
+     "lien": "https://www.la-croix.com/international/direct-guerre-iran-israel-usa-jour-116-moyen-orient-bilan-resume-aujourdhui-20261016",
+     "resume": "La coalition menée par l’Arabie saoudite a annoncé avoir déjoué de nouvelles attaques à Riyad, et dans d’autres régions. Téhéran réfute toute implication dans les frappes menées par les houthistes du Yémen. Retrouvez l’actualité du conflit au Moyen-Orient ce…",
+     "date": "2026-10-16T21:27:24+02:00",
+     "source": "",
+     "image": "https://i.la-croix.com/x/2026/10/16/2563760-une-iranienne-passe-devant-une-fresque-murale-repr.jpg"
+    },
+    {
+     "titre": "Guerre en Ukraine : ce qu’il faut retenir de la situation du vendredi 16 octobre",
+     "lien": "https://www.la-croix.com/international/ukraine-russie-jour-1696-point-conflit-ukrainien-poutine-aujourdhui-20261016",
+     "resume": "Vladimir Poutine estime qu’il reste à la Russie à conquérir un peu plus de 10 % de la région ukrainienne de Donetsk. Volodymyr Zelensky a demandé 70 milliards d’euros supplémentaires à ses alliés européens. Retrouvez l’actualité du conflit en Ukraine de ce…",
+     "date": "2026-10-16T21:25:56+02:00",
+     "source": "",
+     "image": "https://i.la-croix.com/x/2026/10/16/2563650-des-secouristes-ukrainiens-interviennent-sur-les-l.jpg"
+    },
+    {
+     "titre": "Au Brésil, la déforestation en Amazonie est au plus bas depuis près de 40 ans",
+     "lien": "https://www.la-croix.com/planete/au-bresil-la-deforestation-en-amazonie-est-au-plus-bas-depuis-pres-de-40-ans-20261016",
+     "resume": "Le gouvernement de Lula a présenté vendredi 16 octobre des chiffres historiques : la déforestation en Amazonie brésilienne n’a jamais été aussi faible depuis le début des relevés en 1988, une annonce aux enjeux politiques et climatiques majeurs.",
+     "date": "2026-10-16T21:24:40+02:00",
+     "source": "",
+     "image": "https://i.la-croix.com/x/2026/10/16/2564456-une-vue-de-l-amazonie-a-manaus-au-bresil-la-defore.jpg"
+    },
+    {
+     "titre": "Soudan : 30 morts après une frappe de drone sur un marché au Darfour",
+     "lien": "https://www.la-croix.com/international/soudan-30-morts-apres-une-frappe-de-drone-sur-un-marche-au-darfour-20261016",
+     "resume": "Une frappe de drone sur un marché de Nyala, au Darfour a tué 30 personnes et en a blessé 47 autres vendredi 16 octobre. Les paramilitaires, qui contrôlent la ville, accusent l’armée soudanaise d’avoir visé une zone civile densément peuplée.",
+     "date": "2026-10-16T21:12:06+02:00",
+     "source": "",
+     "image": "https://i.la-croix.com/x/2026/10/16/2564445-une-scene-de-rue-a-nyala-soudan-le-7-juillet-une-f.jpg"
+    }
+   ],
+   "flux_utilise": "https://www.la-croix.com/feeds/rss/site.xml"
+  },
+  {
+   "id": "equipe",
+   "nom": "L'Équipe",
+   "couleur": "#e2001a",
+   "une": {
+    "fichier": "unes/equipe.webp",
+    "date": "2026-10-17",
+    "source": "https://www.frontpages.com/t/2026/10/17/l-equipe-003828enq@2x.webp"
+   },
+   "articles": [
+    {
+     "titre": "Jens Berthel Askou, après la victoire de Toulouse au Mans : « On a la sensation de commencer à avoir ce qu'on pense mériter »",
+     "lien": "https://www.lequipe.fr/Football/Actualites/Jens-berthel-askou-apres-la-victoire-de-toulouse-au-mans-on-a-la-sensation-de-commencer-a-avoir-ce-qu-on-pense-meriter/1736403#at_medium=RSS_feeds",
+     "resume": "L'entraîneur toulousain Jens Berthel Askou était plus que satisfait après la nette victoire de son équipe au Mans (3-0), vendredi, au terme d'un match où le travail de son équipe effectué depuis le début de saison, comme son potentiel, ont fini par payer.",
+     "date": "2026-10-17T06:45:00+02:00",
+     "source": "",
+     "image": "https://medias.lequipe.fr/img-photo-jpg/jens-berthel-askou-et-toulouse-ont-gagne-3-0-au-mans-autissier-jean-baptiste-l-equipe/1500000002625048/0:0,2000:1333-828-552-75/31c36.jpg"
+    },
+    {
+     "titre": "Miotti - Hastings, le temps de l'alternance pour les deux concurrents à l'ouverture de Montpellier : « On essaie de les challenger et à un moment, il y en a un qui prendra le lead »",
+     "lien": "https://www.lequipe.fr/Rugby/Article/Miotti-hastings-le-temps-de-l-alternance-pour-les-deux-concurrents-a-l-ouverture-de-montpellier-on-essaie-de-les-challenger-et-a-un-moment-il-y-en-a-un-qui-prendra-le-lead/1736201#at_medium=RSS_feeds",
+     "resume": "En concurrence à l'ouverture à Montpellier, Domingo Miotti et la recrue Adam Hastings alternent les titularisations. Samedi soir (21 h), c'est l'Écossais qui débutera à Bath. Une question de profils mais pas que...",
+     "date": "2026-10-17T06:30:00+02:00",
+     "source": "",
+     "image": "https://medias.lequipe.fr/img-photo-jpg/domingo-miotti-et-adam-hastings-a-mounic-et-l-hahn-l-equipe/1500000002624537/0:0,1001:667-828-552-75/12bee.jpg"
+    },
+    {
+     "titre": "Entre ménagement, besoin de concerner tout le monde et de créer de l'incertitude : Luis Enrique, l'entraîneur du PSG, passe d'une logique à l'autre",
+     "lien": "https://www.lequipe.fr/Football/Article/Entre-menagement-besoin-de-concerner-tout-le-monde-et-de-creer-de-l-incertitude-luis-enrique-l-entraineur-du-psg-passe-d-une-logique-a-l-autre/1736331#at_medium=RSS_feeds",
+     "resume": "Les titulaires du PSG n'ont pas le choix : avant un grand match européen, ils savent que leur entraîneur, Luis Enrique, va réduire leur temps de jeu en Ligue 1. Mais la semaine a rappelé qu'il avait besoin, aussi, de créer de l'incertitude.",
+     "date": "2026-10-17T06:25:00+02:00",
+     "source": "",
+     "image": "https://medias.lequipe.fr/img-photo-jpg/luis-enrique-et-khvitcha-kvaratskhelia-lors-du-classique-entre-l-om-et-le-psg-1-2-le-20-septembre-p-lahalle-l-equipe/1500000002624858/38:27,1943:1297-828-552-75/60f49.jpg"
+    },
+    {
+     "titre": "Et pourtant, les bookmakers pensaient qu'il serait rapidement viré : Keith Andrews a fait taire les critiques avec Brentford, épatant 4e de Premier League",
+     "lien": "https://www.lequipe.fr/Football/Article/Decrie-a-son-arrivee-l-entraineur-de-brentford-keith-andrews-a-dejoue-tous-les-pronostics/1736339#at_medium=RSS_feeds",
+     "resume": "Keith Andrews, le manager de Brentford, a vite balayé les doutes que sa nomination avait fait naître à l'été 2025 pour succéder à Thomas Frank. Brentford, 4e au classement, espère continuer, sous sa férule, son bon début de saison face à Liverpool (16h).",
+     "date": "2026-10-17T06:05:00+02:00",
+     "source": "",
+     "image": "https://medias.lequipe.fr/img-photo-png/-/1500000000833469/0-828-552-75/0cb67.png"
+    },
+    {
+     "titre": "Des occasions mais un nul qui met d'emblée l'UBB dans une position compliquée en Coupe des champions : « Une certaine justice dans ce match »",
+     "lien": "https://www.lequipe.fr/Rugby/Article/Des-occasions-mais-un-nul-qui-met-d-emblee-l-ubb-dans-une-position-compliquee-en-coupe-des-champions-une-certaine-justice-dans-ce-match/1736394#at_medium=RSS_feeds",
+     "resume": "Tenue en échec par Gloucester vendredi (36-36), l'UBB n'a pas battu le record de victoires consécutives en Coupe des champions. Et s'est compliquée la suite de son parcours.",
+     "date": "2026-10-17T05:55:00+02:00",
+     "source": "",
+     "image": "https://medias.lequipe.fr/img-photo-png/-/1500000000833469/0-828-552-75/0cb67.png"
+    },
+    {
+     "titre": "Les Bleues corrigées pour le premier de leurs trois tests en Nouvelle-Zélande",
+     "lien": "https://www.lequipe.fr/Rugby/Actualites/Les-bleues-corrigees-pour-le-premier-de-leurs-trois-tests-en-nouvelle-zelande/1736407#at_medium=RSS_feeds",
+     "resume": "Une équipe de France rajeunie et inexpérimentée a été balayée comme rarement par les Black Ferns ce samedi à Hamilton (81-12), pour le premier de ses trois matches en Nouvelle-Zélande, dans le cadre du WXV. Les Bleues ne pourront que faire mieux lors des…",
+     "date": "2026-10-17T05:51:39+02:00",
+     "source": "",
+     "image": "https://medias.lequipe.fr/img-photo-png/-/1500000000833469/0-828-552-75/0cb67.png"
+    }
+   ],
+   "flux_utilise": "https://dwh.lequipe.fr/api/edito/rss?path=/"
+  }
+ ],
+ "sections": [
+  {
+   "id": "monde",
+   "titre": "Actualité principale",
+   "sous_titre": "Les informations les plus importantes, partout dans le monde",
+   "items": [
+    {
+     "titre": "Aux Etats-Unis, Katie Zacharia bat un record de brièveté comme porte-parole de la Maison Blanche",
+     "lien": "https://www.lemonde.fr/international/article/2026/10/17/aux-etats-unis-katie-zacharia-bat-un-record-de-brievete-comme-porte-parole-de-la-maison-blanche_6795675_3210.html",
+     "resume": "Choisie pour remplacer Karoline Leavitt, la porte-parole a enchaîné les bévues et a été écartée du poste par Donald Trump au bout de cinq jours.",
+     "date": "2026-10-17T00:59:07+02:00",
+     "source": "lemonde.fr",
+     "image": "https://img.lemde.fr/2026/10/16/85/0/1024/512/644/322/60/0/700c42d_ftp-1-i1t9fuqub1x7-afp-d3j63n7-1024.jpg",
+     "reprises": 11,
+     "score": 35.37
+    },
+    {
+     "titre": "EN DIRECT, guerre en Ukraine : Emmanuel Macron critique l’accord entre Moscou et Washington sur le diesel russe, le qualifiant de mesure « inappropriée, inefficace »",
+     "lien": "https://www.lemonde.fr/international/live/2026/10/17/en-direct-guerre-en-ukraine-emmanuel-macron-critique-l-accord-entre-moscou-et-washington-sur-le-diesel-russe-le-qualifiant-de-mesure-inappropriee-inefficace_6791198_3210.html",
+     "resume": "Le président français a également martelé, vendredi, que les Européens « ne lâcheront pas l’Ukraine » parce que « c’est une guerre de résistance face à la guerre d’agression russe ». Ursula von der Leyen a confirmé le trou de 70 milliards d’euros en 2027…",
+     "date": "2026-10-17T02:10:50+02:00",
+     "source": "lemonde.fr",
+     "image": "https://img.lemde.fr/2026/10/16/118/0/5000/2500/644/322/60/0/13f25af_ftp-1-dyaraubxyu29-2026-10-16t172955z-1471415968-rc2h4oarl7t5-rtrmadp-3-eu-summit.JPG",
+     "reprises": 8,
+     "score": 23.7
+    },
+    {
+     "titre": "Cisjordanie occupée : une journaliste du Washington Post rouée de coups par des colons israéliens",
+     "lien": "https://www.france24.com/fr/moyen-orient/20261016-cisjordanie-occup%C3%A9e-colons-isra%C3%A9liens-attaquent-oliveraie-journaliste-am%C3%A9ricaine-bless%C3%A9e-agriculteurs-paslestiniens",
+     "resume": "Une dizaine de colons israéliens a incendié une oliveraie vendredi en Cisjordanie occupée. Une photojournaliste américaine présente sur place a été rouée de coups alors qu'elle couvrait la récolte des olives par les agriculteurs palestiniens.",
+     "date": "2026-10-16T17:28:14+02:00",
+     "source": "© Ahmad Gharabli, AFP",
+     "image": "https://s.france24.com/media/display/03083cb6-c96d-11f1-8513-4dd8ac2cf3bf/w:1024/p:16x9/000-D3GA69H.jpg",
+     "reprises": 4,
+     "score": 9.77
+    },
+    {
+     "titre": "Fusillade dans l’Oregon : l’auteur présumé de la tuerie dans une école primaire y avait été élève en classe spécialisée",
+     "lien": "https://www.lemonde.fr/international/article/2026/10/17/etats-unis-l-auteur-presume-d-une-tuerie-dans-une-ecole-primaire-de-l-oregon-y-avait-ete-eleve-en-classe-specialisee_6795709_3210.html",
+     "resume": "L’adolescent, âgé de 16 ans, est soupçonné d’avoir tué trois enfants et une enseignante, jeudi, à l’école Silver Rail, à Bend, avant d’être abattu par le père de deux élèves.",
+     "date": "2026-10-17T01:45:17+02:00",
+     "source": "lemonde.fr",
+     "image": "https://img.lemde.fr/2026/10/16/85/0/1024/512/644/322/60/0/e341a1e_ftp-1-ijmuibamxi0z-afp-d3fu34z-1024.jpg",
+     "reprises": 2,
+     "score": 7.68
+    },
+    {
+     "titre": "Tous les candidats au poste de chef de l'ONU essuient un veto lors d'un vote indicatif au Conseil de sécurité",
+     "lien": "https://www.rfi.fr/fr/am%C3%A9riques/20261016-tous-les-candidats-au-poste-de-chef-de-l-onu-essuient-un-veto-lors-d-un-vote-au-conseil-de-s%C3%A9curit%C3%A9",
+     "resume": "Tous les candidats au poste de secrétaire général de l'ONU se sont vu opposer, vendredi 16 octobre, un veto par les membres permanents du Conseil de sécurité, a-t-on appris de source diplomatique. Au terme de ce vote indicatif, aucun des sept candidats n'a…",
+     "date": "2026-10-16T23:46:47+02:00",
+     "source": "© John Minchillo / AP",
+     "image": "https://s.rfi.fr/media/display/92cb68c0-3874-11ed-a8e5-005056bf30b7/w:1024/p:16x9/AP22260377223791.jpg",
+     "reprises": 2,
+     "score": 3.72
+    },
+    {
+     "titre": "Arrestation de 61 Marocains en Algérie : diffusion d'images truquées ?",
+     "lien": "https://www.france24.com/fr/%C3%A9missions/info-ou-intox/20261016-arrestation-de-61-marocains-en-alg%C3%A9rie-diffusion-d-images-truqu%C3%A9es",
+     "resume": "C'est une affaire qui fait couler beaucoup d'encre et qui alimente les tensions entre le Maroc et l'Algérie. 61 Marocains ont été arrêtés récemment près d'Oran, membres d'un réseau criminel selon les autorités d'Alger. Problème : certains médias algériens…",
+     "date": "2026-10-16T21:59:33+02:00",
+     "source": "france24.com",
+     "image": "https://s.france24.com/media/display/860eaf22-c99b-11f1-b3f1-2d1c143cdef3/w:1024/p:16x9/capture-93b064c7.jpg",
+     "reprises": 2,
+     "score": 3.6
+    }
+   ],
+   "a_traduire": []
+  },
+  {
+   "id": "ia",
+   "titre": "Intelligence artificielle",
+   "sous_titre": "Modèles, entreprises, régulation, recherche",
+   "items": [
+    {
+     "titre": "Selon le Financial Times, Anthropic propose à Blackstone un rendement à deux chiffres dans le cadre d'un accor",
+     "lien": "https://news.google.com/rss/articles/CBMi4gJBVV95cUxOWl9NWjlkVXlGXzJ5ZkN4MDhMYmd1OTFRUndqOGktVjJiUENKdGhOV0tONUE4UmlPTlZOUlNNRU9YX3o3MWliM3JHeVhpa2s5dWk2NzRSRVprcWxMRmVJcC1QYnZ0UmdPWTRYeDhzM1ZHaEZtVnp4emNKRWFlc0pYa0YweU5SQ21xREFKaGo0MlUtR2FOZlNRUDRtT3lWSkJLMUFSb3ZMeW9RRTd6ejBZVjVUNGpmWEtPdHhVOUZoNzRqdS1VZjBsOV8xVURPbFp4Z3FPbTBLNWVONVV5VG1aMFRRaGRUZVNLWWVSMkNmU3dWMUs4cjMxTUJGdE1LVVBLWnBnRXR2cC1WOUtzbHg2V2ttbmNyM1VlYU92M0hEQ243VTFRWlR0YWNET0dfR2wtSWphOVltc1I1MkNtV2lVNmM2YlRYM2JYYTkzQnotTjlGZnpxS2c1WXl6WjBpYS1QcnfSAeICQVVfeXFMTlpfTVo5ZFV5Rl8yeWZDeDA4TGJndTkxUVJ3ajhpLVYyYlBDSnRoTldLTjVBOFJpT05WTlJTTUVPWF96NzFpYjNyR3lYaWtrOXVpNjc0UkVaa3FsTEZlSXAtUGJ2dFJnT1k0WHg4czNWR2hGbVZ6eHpjSkVhZXNKWGtGMHlOUkNtcURBSmhqNDJVLUdhTmZTUVA0bU95VkpCSzFBUm92THlvUUU3enowWVY1VDRqZlhLT3R4VTlGaDc0anUtVWYwbDlfMVVET2xaeGdxT20wSzVlTjVVeVRtWjBUUWhkVGVTS1llUjJDZlN3VjFLOHIzMU1CRnRNS1VQS1pwZ0V0dnAtVjlLc2x4NldrbW5jcjNVZWFPdjNIRENuN1UxUVpUdGFjRE9HX0dsLUlqYTlZbXNSNTJDbVdpVTZjNmJUWDNiWGE5M0J6LU45RmZ6cUtnNVl5elowaWEtUHJ3?oc=5",
+     "resume": "",
+     "date": "2026-10-17T02:56:50+02:00",
+     "source": "Boursorama",
+     "image": null,
+     "reprises": 4,
+     "score": 8.44
+    },
+    {
+     "titre": "Anthropic présente discrètement son propre projet de loi sur la sécurité de l'IA aux législateurs, rapporte Po",
+     "lien": "https://news.google.com/rss/articles/CBMiowJBVV95cUxQVmtrQTQtRE5fTHRleXdTUklLc2NFNk9YYjJPMmZSWkY0TnhGRzI0Z3o0MXEzeXNJM1hGTVVQOEMwaVctN3NzNXYyb3Z3QzdXelJGcmNQdTJ3T21KcjZvTmQzWjVqTDg5S1Z5ZXlRLVNST194dnFjcDhYS3BMcjNTdEw4Y0o3LWQtaU1ud0Fld2pRbmNvR25Dckl5ekVHOFVyY0JvSV9VbVU3Y040QjNXWVZUYWJxZ05aQ0FUT09tcVNsMVBGM19BdWlTT0xHa0pqdFpJSk9GZHVIV1dZTmFpVkVUczFjYkFOd1dOSHNoSF95dnk5U2FJRkxKMVVTVHItNUpCT2tXNlZzVk93R2pZMHNUdklsbjBCRElSTkhkaUFoRlXSAaMCQVVfeXFMUFZra0E0LUROX0x0ZXl3U1JJS3NjRTZPWGIyTzJmUlpGNE54RkcyNGd6NDFxM3lzSTNYRk1VUDhDMGlXLTdzczV2Mm92d0M3V3pSRnJjUHUyd09tSnI2b05kM1o1akw4OUtWeWV5US1TUk9feHZxY3A4WEtwTHIzU3RMOGNKNy1kLWlNbndBZXdqUW5jb0duQ3JJeXpFRzhVcmNCb0lfVW1VN2NONEIzV1lWVGFicWdOWkNBVE9PbXFTbDFQRjNfQXVpU09MR2tKanRaSUpPRmR1SFdXWU5haVZFVHMxY2JBTndXTkhzaEhfeXZ5OVNhSUZMSjFVU1RyLTVKQk9rVzZWc1ZPd0dqWTBzVHZJbG4wQkRJUk5IZGlBaEZV?oc=5",
+     "resume": "",
+     "date": "2026-10-17T01:16:40+02:00",
+     "source": "Boursorama",
+     "image": null,
+     "reprises": 4,
+     "score": 6.92
+    },
+    {
+     "titre": "Anthropic signe un contrat de location pour son premier centre de données au Canada",
+     "lien": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQNEQ5RmNOeHRSbWRObktrRHJOOXdtZHpwUE5MeE5zeXpwRlRHWm5NT3YzTk4wZVN0ZWpoaHFrdVBxTTIyRF9FRkdzRnJSZHlMWHB1MVNtT0UxTDJzUjdVeXg5MnZneHh5UkJ5MTBNODd1VW1mWVRhSTNyWU1DcFhaVWlHemNaOVpZNlNVT3FzWmVNLTktTHlQV1JOdk40akZqZ0t5RzM2ZkpYWlBaYU9wLVB2OVNjU3FnamxwM0NBQ1pQNk8xclRV?oc=5",
+     "resume": "",
+     "date": "2026-10-17T00:51:42+02:00",
+     "source": "Zonebourse Suisse",
+     "image": null,
+     "reprises": 4,
+     "score": 6.92
+    },
+    {
+     "titre": "La présidentielle 2027 se jouera sous haute intelligence artificielle",
+     "lien": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPZ2k4Sl9pa3NTTlAtUjRObnhEN3RYak1VelNrSnRRY1RjRk9TQXpzdEVhLTBZenJPSEUtLU1YdFdhaHNxZ1otYzJMVE5YMWJJbmF0Skhuc1JxRVNNMlAtQjdDWndpY1VQbHZfcENVbGRiQjNZZWZreUJzUVVseVFtOXFGaG9jVlBfOEVvV0ctTDJIbjJxNkxtdldINWRJS3lsQl9FWE95RzU3MDg?oc=5",
+     "resume": "",
+     "date": "2026-10-16T17:27:54+02:00",
+     "source": "Maddyness",
+     "image": null,
+     "reprises": 2,
+     "score": 3.39
+    },
+    {
+     "titre": "Pourquoi les chiffres d'Anthropic et OpenAI commencent à inquiéter les marchés",
+     "lien": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxPZGIwX3Q1LTdsTkh6YTNlSEZCb1hOWFRsVTZRalBJdWRZd3RZNVRnR0lTMmNSaGI3RDY0eVdKb3QyaXBTeG1Pb05YazQ1bnk1TDlIMVVsWVdCeWlWeTBkb21ObVZJMnc1d1g5b3lkQ09nV0E5WTZhSzYyd3dYZUJUME9qQWlkMkR5YzhEQ3FQYkVTSHBNZWVmZWJGYl9MR2IwTU90NXBLeU9OWk9WSVN2TnZ3cVA3bzJtNHc3eHFyXzV1VDZjSG93dzBVWTJDS2k3d251SXJKM196QUhhdW1QMA?oc=5",
+     "resume": "",
+     "date": "2026-10-16T17:26:41+02:00",
+     "source": "Les Echos",
+     "image": null,
+     "reprises": 1,
+     "score": 3.12
+    }
+   ],
+   "a_traduire": [
+    {
+     "titre": "Replit is no longer working with Anthropic, CEO says",
+     "lien": "https://techcrunch.com/2026/10/16/replit-is-no-longer-working-with-anthropic-ceo-says/",
+     "resume": "Masad said the decision was made for a number of different reasons, including cost. Replit announced a partnership with OpenAI in August, but there was never any indication that it was no longer with Anthropic.",
+     "date": "2026-10-16T23:22:28+02:00",
+     "source": "techcrunch.com",
+     "image": null,
+     "reprises": 1,
+     "score": 1.47
+    },
+    {
+     "titre": "Meta’s new terms may allow it to train AI on news sites for free",
+     "lien": "https://www.theverge.com/tech/1012846/meta-business-terms-scrape-news-publishers",
+     "resume": "Meta's new terms appear to give it permission to crawl and scrape websites \"associated\" with the businesses that use its platforms - including online publishers, according to a report from Nieman Lab. The new terms, which go into effect on October 30th, say…",
+     "date": "2026-10-16T16:02:40+02:00",
+     "source": "theverge.com",
+     "image": null,
+     "reprises": 1,
+     "score": 1.35
+    },
+    {
+     "titre": "India becomes the latest country to report rogue AI agent activity",
+     "lien": "https://techcrunch.com/2026/10/16/india-becomes-the-latest-country-to-report-rogue-ai-agent-activity/",
+     "resume": "The agents got in through credentials and connection settings left exposed in app configurations, public code repositories, and overly permissive cloud roles.",
+     "date": "2026-10-16T19:52:24+02:00",
+     "source": "techcrunch.com",
+     "image": null,
+     "reprises": 1,
+     "score": 1.28
+    },
+    {
+     "titre": "Physical AI is more than robots, says the Nvidia veteran now investing in it",
+     "lien": "https://techcrunch.com/podcast/physical-ai-is-more-than-robots-says-the-nvidia-veteran-now-investing-in-it/",
+     "resume": "Amulya Vishwanath, who spent seven years leading product marketing for NVIDIA’s robotics platforms, says robotics is currently in its “Lego era,” with the basic building blocks like actuators, robotic hands, software, and safety standards still being…",
+     "date": "2026-10-16T18:30:00+02:00",
+     "source": "techcrunch.com",
+     "image": null,
+     "reprises": 1,
+     "score": 1.16
+    },
+    {
+     "titre": "Elorian’s first AI model wants to reason with images, not just about them",
+     "lien": "https://techcrunch.com/2026/10/16/elorians-first-ai-model-wants-to-reason-with-images-not-just-about-them/",
+     "resume": "According to Elorian's evaluations, Glimpse outperforms even GPT-6 Astra on scientific chart reasoning and short-form video captioning, with competitive results on other visual reasoning tasks.",
+     "date": "2026-10-16T18:01:37+02:00",
+     "source": "techcrunch.com",
+     "image": null,
+     "reprises": 1,
+     "score": 1.07
+    }
+   ]
+  },
+  {
+   "id": "droit",
+   "titre": "Actualité juridique",
+   "sous_titre": "Libertés fondamentales, grandes juridictions, culture juridique pour le CRFPA",
+   "items": [
+    {
+     "titre": "France: le président du Conseil constitutionnel Richard Ferrand s'attire les foudres du RN",
+     "lien": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNblhhdEMtS1BzMVJFcmhuZFUycGFGdmQyLUVGRHFORFphTTZ6eWs2NUliWXpXakpFUWJlV3E2T1BLV2Q1NVJhMV9hY3VCRWdKZVpLeDVSUVJzUFZuckE2LV9ibUNCYTNTRzBubWRfRTBxSGtSS0FuTFp4N2Z4dTdWd21yWjVwNjBiYWZtdlFmcWNnZWg2aXMzVUN3?oc=5",
+     "resume": "",
+     "date": "2026-10-17T00:06:40+02:00",
+     "source": "Yahoo Actualités",
+     "image": null,
+     "reprises": 31,
+     "score": 86.62,
+     "libertes": true
+    },
+    {
+     "titre": "Niger : création d'un observatoire des droits de l’homme",
+     "lien": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOU1ozUUxVY0M3bnh1aXpRVnFwY004NnBxRFRFS25NZWRSMWxRUFp6Yy1nMk5IeDhNNUFqVGpuVmd3RVRBTFBWbmNHTU83Nmt6ZUh0Mk9JMTd6SnB4U3I5czFFOE44Q05keHY2dldrMjFEeDB1YWdyUkNHcVdodnhfbkdKRXJKaTJiSkJjcWVEZWtjbUpiWkxkVnNlWkN1UXRW?oc=5",
+     "resume": "",
+     "date": "2026-10-15T12:15:09+02:00",
+     "source": "Anadolu Ajansı",
+     "image": null,
+     "reprises": 5,
+     "score": 7.37,
+     "libertes": false
+    },
+    {
+     "titre": "Décision n° 2026-1226 QPC du 16 octobre 2026",
+     "lien": "https://news.google.com/rss/articles/CBMid0FVX3lxTE53WjhiRzhSWkZkanZpRVNSdGRkVDVEYzZuT3BhQ2V2bG9UQ0tJMktyN1FDU2FiMDBGRm1NdGYtZWtuRVlteVF1YkR1bE53bTZEZm9RbWNKZmJRdE5LTDMwNGJyMWdwNmR3a0lHVUZqSTdhanlSdmdv?oc=5",
+     "resume": "",
+     "date": "2026-10-16T10:00:19+02:00",
+     "source": "Conseil constitutionnel",
+     "image": null,
+     "reprises": 1,
+     "score": 3.92,
+     "libertes": true
+    },
+    {
+     "titre": "Relever les défis contemporains de la liberté d’expression",
+     "lien": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQSUp0SW5WalYyLWd3NkhQbXBuUDlGQnp6bE91RVlWTlRubk93aHp6aWNIdU9jVHB3MDFWUHRoNTQ4MWt4R3k3M0FZUnp6VERyWjJoVmJQQ0Z0b18wbjVyRXBjdlZkWVRiSzZrOFNKcjd0YUVsdkRCeC03Q3NLRXFJZ1lLWWhXZDZ6c2U1ZmtkdXBaZw?oc=5",
+     "resume": "",
+     "date": "2026-10-14T12:03:22+02:00",
+     "source": "La Revue politique et Parlementaire",
+     "image": null,
+     "reprises": 2,
+     "score": 2.61,
+     "libertes": true
+    },
+    {
+     "titre": "Il lègue sa maison à son aide à domicile : face à ses enfants, la Cour de cassation rappelle ce principe qui change tout pour l'héritage",
+     "lien": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxPSk1wVGc5WDhrQlZVLWVCVkUzUm8xR0lVN2NWNFV4NkFxbW1CT3JqUll4aUx4TTlfY1pTc0dUdjJwQjB1ejhIVWdaY1h5UlEyTWl4OTA0V3BUR1djQ1dpcVZTa2FlNmVuU21OMnFrRVNhZFY2U1FxWV9vd2t4TmhtZVhIZDJlNnZsNlN6REk0NXRpOUdIMGgyQnJZQ1BiSlczUGFiVUtCM19QVXZSLWV6YTJVNWFpQ2gwRVBwMGFDVW1BTTJNdHZVYTBRSzVzeEFrMVdMS0dXU2VvZ1FSU3RSVGVBR0xqTTJ4bm1KSFpTVHNaN2VkQkgxeEN3?oc=5",
+     "resume": "",
+     "date": "2026-10-16T18:14:19+02:00",
+     "source": "Bourse Inside",
+     "image": null,
+     "reprises": 1,
+     "score": 1.49,
+     "libertes": false
+    },
+    {
+     "titre": "FLASH : Le Conseil d’État pose des réserves à l’interdiction des équipements de sécurité en manifestation",
+     "lien": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxNZUlibjJQUnZDTDh3NTdRejlaSE9wVUlvb01kVklORnk4R1h4MEJUUGF1cmF4WEVhenBMcHQ0UVdYbnlOOGl5VDJJWTNSdnlEbVRXenZqYU50aTZpMGFGN1YxTF9JelgwYmRpSzBUN3NxUHV1VkZteDFCenc0YVFDQTVsNzFoN0V3R05DdEdpUUdmNGxfd1ppVHJKd2dmellUcjhjMFlvTXZMLVlfSzFGd2prME9SNVZhd1p6WDlXV2tFT3RFMklpNGxMMnVDdERyejRaR2VxNXFJdHJKTE5NRmRQRzZXQk8wZml3?oc=5",
+     "resume": "",
+     "date": "2026-10-16T11:30:00+02:00",
+     "source": "Actu-Juridique",
+     "image": null,
+     "reprises": 1,
+     "score": 1.44,
+     "libertes": true
+    }
+   ],
+   "a_traduire": []
+  }
+ ]
+}
