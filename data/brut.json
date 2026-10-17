@@ -1,6 +1,6 @@
 {
  "date": "2026-10-17",
- "genere": "2026-10-17T07:06+02:00",
+ "genere": "2026-10-17T08:41+02:00",
  "journaux": [
   {
    "id": "figaro",
@@ -19,6 +19,22 @@
      "date": "2026-10-17T07:00:00+02:00",
      "source": "",
      "image": "https://i.f1g.fr/media/cms/3000x1687_crop/2026/10/16/1c221131afd0aca91cb0adf2f180839b32ce706af7b54e8490999d29f2fb4031.jpg"
+    },
+    {
+     "titre": "EN DIRECT - «Gilets jaunes», lycéens, syndicats : suivez les manifestations et les blocages du 17 octobre",
+     "lien": "https://www.lefigaro.fr/actualite-france/en-direct-gilets-jaunes-lyceens-syndicats-suivez-les-manifestations-et-les-blocages-du-17-octobre-20261017",
+     "resume": "Des «gilets jaunes», des lycéens et des étudiants, rejoints par des organisations syndicales, appellent à manifester ce samedi 17 octobre contre la vie chère, la hausse des prix des carburants et les difficultés des services publics. À Paris comme en…",
+     "date": "2026-10-17T08:35:03+02:00",
+     "source": "",
+     "image": "https://i.f1g.fr/media/cms/3000x2001_crop/2026/10/17/a35a38bb7e12a2233abd39948a914c02990fae83bf90995dc9ec984d77e2233f.jpg"
+    },
+    {
+     "titre": "Incendies, mobilier brisé, vols… La facture vertigineuse des dégradations dans les lycées",
+     "lien": "https://www.lefigaro.fr/social/incendies-mobilier-brise-vols-la-facture-vertigineuse-des-degradations-dans-les-lycees-20261017",
+     "resume": "DÉCRYPTAGE - Les dégradations commises en marge des récentes mobilisations lycéennes laissent une lourde facture aux régions, qui cherchent désormais à déterminer qui devra la régler.",
+     "date": "2026-10-17T06:30:00+02:00",
+     "source": "",
+     "image": "https://i.f1g.fr/media/cms/3000x1999_crop/2026/10/16/3d70bdfdeec5056ef6392c9b0c7d2c9219e0f4d0e3efd44c115b0afa6c6c6607.jpg"
     },
     {
      "titre": "« Un samedi très compliqué, avec les casseurs de l’ultragauche en embuscade » : ce que prévoient les autorités pour la mobilisation du 17 octobre",
@@ -43,22 +59,6 @@
      "date": "2026-10-16T16:35:43+02:00",
      "source": "",
      "image": "https://i.f1g.fr/media/cms/3000x1687_crop/2026/10/16/8f18ebf9271bad1abbd487acf90851551376bcf1c5c3467f049823d3fc183714.jpg"
-    },
-    {
-     "titre": "Mobilisation du 17 octobre : les lycéens seront-ils au rendez-vous ?",
-     "lien": "https://etudiant.lefigaro.fr/article/lycee/mobilisation-du-17-octobre-les-lyceens-seront-ils-au-rendez-vous-20261016/",
-     "resume": "L’Union syndicale lycéenne a appelé tous les lycéens à se mobiliser ce samedi pour «enfin faire vivre la convergence des luttes».",
-     "date": "2026-10-17T00:10:05+02:00",
-     "source": "",
-     "image": "https://i.f1g.fr/media/cms/3000x1687_crop/2026/10/16/beb8f6d30e10609f338fc594081d48d5b1023a4069eaa7feea569901849e353e.jpg"
-    },
-    {
-     "titre": "Mobilisation du 17 octobre : bras de fer autour du parcours des manifestations parisiennes",
-     "lien": "https://www.lefigaro.fr/actualite-france/mobilisation-du-17-octobre-bras-de-fer-autour-du-parcours-des-manifestations-parisiennes-20261016",
-     "resume": "CARTE – Le préfet de police de Paris a interdit de manifester samedi dans plusieurs secteurs stratégiques de la capitale, autour du palais présidentiel, de Matignon et des Champs-Élysées.",
-     "date": "2026-10-16T19:42:20+02:00",
-     "source": "",
-     "image": "https://i.f1g.fr/media/cms/3000x2000_crop/2026/10/16/b161a7666acb617f2f01a80cca54a2cfaddd66bf8bb032308f8a457d9fc82c56.jpg"
     }
    ],
    "flux_utilise": "https://www.lefigaro.fr/rss/figaro_actualites.xml"
@@ -76,7 +76,7 @@
     {
      "titre": "Entre Emmanuel Macron et la jeunesse, un divorce consommé",
      "lien": "https://www.lemonde.fr/politique/article/2026/10/17/entre-emmanuel-macron-et-la-jeunesse-un-divorce-consomme_6795811_823448.html",
-     "resume": "Porteur d’un message d’émancipation sociale lors de son arrivée au pouvoir, le chef de l’Etat n’a cessé de creuser le fossé avec la jeune génération qui se mobilisera samedi 17 octobre. Lors de cette nouvelle journée de protestation, les lycéens ambitionnent…",
+     "resume": "Porteur d’un message d’émancipation sociale lors de son arrivée au pouvoir, le chef de l’Etat n’a cessé de creuser le fossé avec la jeune génération, qui se mobilisera samedi 17 octobre. Lors de cette nouvelle journée de manifestations, les lycéens…",
      "date": "2026-10-17T05:30:19+02:00",
      "source": "",
      "image": "https://img.lemde.fr/2026/10/06/688/0/8256/4128/644/322/60/0/f01d9fc_upload-1-kq0mm4agcirc-dsc-5648.jpg"
@@ -93,17 +93,17 @@
      "titre": "Aux Etats-Unis, Katie Zacharia bat un record de brièveté comme porte-parole de la Maison Blanche",
      "lien": "https://www.lemonde.fr/international/article/2026/10/17/aux-etats-unis-katie-zacharia-bat-un-record-de-brievete-comme-porte-parole-de-la-maison-blanche_6795675_3210.html",
      "resume": "Choisie pour remplacer Karoline Leavitt, la porte-parole a enchaîné les bévues et a été écartée du poste par Donald Trump au bout de cinq jours.",
-     "date": "2026-10-17T00:59:07+02:00",
+     "date": "2026-10-17T00:59:06+02:00",
      "source": "",
      "image": "https://img.lemde.fr/2026/10/16/85/0/1024/512/644/322/60/0/700c42d_ftp-1-i1t9fuqub1x7-afp-d3j63n7-1024.jpg"
     },
     {
-     "titre": "EN DIRECT, guerre en Ukraine : Emmanuel Macron critique l’accord entre Moscou et Washington sur le diesel russe, le qualifiant de mesure « inappropriée, inefficace »",
-     "lien": "https://www.lemonde.fr/international/live/2026/10/17/en-direct-guerre-en-ukraine-emmanuel-macron-critique-l-accord-entre-moscou-et-washington-sur-le-diesel-russe-le-qualifiant-de-mesure-inappropriee-inefficace_6791198_3210.html",
-     "resume": "Le président français a également martelé, vendredi, que les Européens « ne lâcheront pas l’Ukraine » parce que « c’est une guerre de résistance face à la guerre d’agression russe ». Ursula von der Leyen a confirmé le trou de 70 milliards d’euros en 2027…",
-     "date": "2026-10-17T02:10:50+02:00",
+     "titre": "EN DIRECT, guerre en Ukraine : Donald Trump exempte la Russie de nouvelles sanctions, au nom de « l’intérêt national des Etats-Unis »",
+     "lien": "https://www.lemonde.fr/international/live/2026/10/17/en-direct-guerre-en-ukraine-donald-trump-exempte-la-russie-de-nouvelles-sanctions-au-nom-de-l-interet-national-des-etats-unis_6791198_3210.html",
+     "resume": "Dans un décret publié vendredi soir par la Maison Blanche, Donald Trump « exempte l’application des sanctions, restrictions et droits de douane prévues dans le Graham Act ». Cette loi constituait la première action majeure du Congrès contre Moscou depuis le…",
+     "date": "2026-10-17T07:09:26+02:00",
      "source": "",
-     "image": "https://img.lemde.fr/2026/10/16/118/0/5000/2500/644/322/60/0/13f25af_ftp-1-dyaraubxyu29-2026-10-16t172955z-1471415968-rc2h4oarl7t5-rtrmadp-3-eu-summit.JPG"
+     "image": "https://img.lemde.fr/2026/10/17/85/0/1024/512/644/322/60/0/90b4ea9_ftp-1-cc4zeebrkfbj-2300040401-1024.jpg"
     },
     {
      "titre": "Israël : pourquoi les résultats des élections législatives du 27 octobre vont demeurer incertains jusqu’au jour du scrutin, et même après",
@@ -117,7 +117,7 @@
      "titre": "La cyberattaque des frigos de supermarché, un signal d’alarme pour tous les industriels et un rappel à la loi européenne pour la France",
      "lien": "https://www.lemonde.fr/economie/article/2026/10/17/la-cyberattaque-des-frigos-de-supermarche-un-signal-d-alarme-pour-tous-les-industriels-et-un-rappel-a-la-loi-europeenne-pour-la-france_6795846_3234.html",
      "resume": "L’incident qui a touché plus de 700 magasins démontre la vulnérabilité de nombreux équipements, parfois anodins, connectés à Internet. Il met aussi en lumière le retard qu’a pris la France à transposer dans son droit national deux directives européennes sur…",
-     "date": "2026-10-17T06:00:03+02:00",
+     "date": "2026-10-17T06:00:00+02:00",
      "source": "",
      "image": "https://img.lemde.fr/2026/10/13/379/0/3956/1978/644/322/60/0/d64326f_ftp-1-mwblazziimvq-2026-10-13t095504z-16906231-rc282oaqzrgl-rtrmadp-3-france-cyberattack.JPG"
     }
@@ -129,58 +129,58 @@
    "nom": "La Croix",
    "couleur": "#c8102e",
    "une": {
-    "fichier": "unes/croix.webp",
+    "fichier": "unes/croix.jpg",
     "date": "2026-10-17",
-    "source": "https://www.frontpages.com/t/2026/10/17/la-croix-064100309@2x.webp"
+    "source": "https://img.kiosko.net/2026/10/17/fr/lacroix.750.jpg"
    },
    "articles": [
     {
-     "titre": "À Massy, le Centre Pompidou dévoile ses nouvelles réserves",
-     "lien": "https://www.la-croix.com/culture/a-massy-le-centre-pompidou-devoile-ses-nouvelles-reserves-20261016",
-     "resume": "Après trois week-ends de préfiguration à partir du 17 octobre, la « Fabrique de l’art » de Massy présentera une exposition au public en mars 2027, à partir des œuvres du Centre Pompidou qu’elle conservera en réserves.",
-     "date": "2026-10-17T07:00:21+02:00",
+     "titre": "Maladie mentale, perversion sexuelle, surveillance de l’Église : ce que révèlent les archives sur l’abbé Pierre",
+     "lien": "https://www.la-croix.com/religion/maladie-mentale-perversion-sexuelle-surveillance-de-l-eglise-ce-que-revelent-les-archives-sur-labbe-pierre-20261016",
+     "resume": "Deux ans après les premières révélations, une enquête historique inédite (1) vient éclairer la trajectoire de l’abbé Pierre et la manière dont l’Église a géré son cas. Des traumatismes de l’enfance à son possible lien au scandale sexuel des « ballets roses…",
+     "date": "2026-10-17T08:30:22+02:00",
      "source": "",
-     "image": "https://i.la-croix.com/x/2026/10/16/2560467-en-mars-2027-la-fabrique-de-l-art-a-massy-presente.jpg"
+     "image": "https://i.la-croix.com/x/2026/10/16/2564202-l-historienne-axelle-brodiez-dolino-fait-le-point-.jpg"
     },
     {
-     "titre": "Olivier Roy : « Ce qui arrive à la société française est bien plus qu’un coup de blues »",
-     "lien": "https://www.la-croix.com/culture/olivier-roy-ce-qui-arrive-a-la-societe-francaise-est-bien-plus-qu-un-coup-de-blues-20261016",
-     "resume": "Politologue et spécialiste de l’islam, Olivier Roy se penche dans un nouveau livre sur la vague populiste qui traverse le monde et ses enjeux de fond. Pour La Croix L’Hebdo, il revient aussi sur son parcours intellectuel, qui a fait de lui un chercheur écouté.",
-     "date": "2026-10-17T06:45:14+02:00",
+     "titre": "Manifestation du 17 octobre : la colère sociale peut-elle déboucher sur un mouvement de masse ?",
+     "lien": "https://www.la-croix.com/societe/manifestation-du-17-octobre-la-colere-sociale-peut-elle-deboucher-sur-un-mouvement-de-masse-20261016",
+     "resume": "Lancé sur TikTok, l’appel à manifester samedi 17 octobre 2026 ravive le spectre des gilets jaunes. Mais l’ampleur et les débouchés de cette mobilisation protéiforme restent incertains, tandis que le monde politique cherche encore comment se positionner.",
+     "date": "2026-10-17T08:30:18+02:00",
      "source": "",
-     "image": "https://i.la-croix.com/x/2026/10/16/2561654-olivier-roy-politologue-et-specialiste-de-l-islam-.jpg"
+     "image": "https://i.la-croix.com/x/2026/10/16/2564037-un-appel-a-manifester-samedi-17-octobre-2026-a-ete.jpg"
     },
     {
-     "titre": "Guerre au Moyen-Orient : l’Arabie saoudite encore ciblée… Le bilan du vendredi 16 octobre",
-     "lien": "https://www.la-croix.com/international/direct-guerre-iran-israel-usa-jour-116-moyen-orient-bilan-resume-aujourdhui-20261016",
-     "resume": "La coalition menée par l’Arabie saoudite a annoncé avoir déjoué de nouvelles attaques à Riyad, et dans d’autres régions. Téhéran réfute toute implication dans les frappes menées par les houthistes du Yémen. Retrouvez l’actualité du conflit au Moyen-Orient ce…",
-     "date": "2026-10-16T21:27:24+02:00",
+     "titre": "Au Pakistan, les femmes se saisissent du concours des Miss pour faire entendre leur voix",
+     "lien": "https://www.la-croix.com/international/au-pakistan-les-femmes-se-saisissent-du-concours-des-miss-pour-faire-entendre-leur-voix-20261016",
+     "resume": "Organisé à Lahore début octobre, le concours de beauté entendait promouvoir une autre image du Pakistan. Une ambition qui se heurte aux codes d’une société où le corps des femmes reste étroitement contrôlé.",
+     "date": "2026-10-17T08:15:09+02:00",
      "source": "",
-     "image": "https://i.la-croix.com/x/2026/10/16/2563760-une-iranienne-passe-devant-une-fresque-murale-repr.jpg"
+     "image": "https://i.la-croix.com/x/2026/10/16/2563116-miss-pakistan-organise-a-lahore-debut-octobre-n-es.jpeg"
     },
     {
-     "titre": "Guerre en Ukraine : ce qu’il faut retenir de la situation du vendredi 16 octobre",
-     "lien": "https://www.la-croix.com/international/ukraine-russie-jour-1696-point-conflit-ukrainien-poutine-aujourdhui-20261016",
-     "resume": "Vladimir Poutine estime qu’il reste à la Russie à conquérir un peu plus de 10 % de la région ukrainienne de Donetsk. Volodymyr Zelensky a demandé 70 milliards d’euros supplémentaires à ses alliés européens. Retrouvez l’actualité du conflit en Ukraine de ce…",
-     "date": "2026-10-16T21:25:56+02:00",
+     "titre": "Cuisine : des recettes afghanes pour découvrir une gastronomie méconnue",
+     "lien": "https://www.la-croix.com/art-de-vivre/cuisine-des-recettes-afghanes-pour-decouvrir-une-gastronomie-meconnue-20261016",
+     "resume": "Fondatrice de Kaboulyon à Lyon, Sadia Hessabi fait découvrir dans un livre la richesse méconnue de la gastronomie afghane, entre safran de Herat, épices subtiles et recettes de son enfance. Sonia Ezgulian a sélectionné deux recettes : les rouleaux de pâte…",
+     "date": "2026-10-17T08:00:02+02:00",
      "source": "",
-     "image": "https://i.la-croix.com/x/2026/10/16/2563650-des-secouristes-ukrainiens-interviennent-sur-les-l.jpg"
+     "image": "https://i.la-croix.com/x/2026/10/16/2560023-les-rouleaux-de-pate-farcis-de-sadia-hessabi-a-ret.jpg"
     },
     {
-     "titre": "Au Brésil, la déforestation en Amazonie est au plus bas depuis près de 40 ans",
-     "lien": "https://www.la-croix.com/planete/au-bresil-la-deforestation-en-amazonie-est-au-plus-bas-depuis-pres-de-40-ans-20261016",
-     "resume": "Le gouvernement de Lula a présenté vendredi 16 octobre des chiffres historiques : la déforestation en Amazonie brésilienne n’a jamais été aussi faible depuis le début des relevés en 1988, une annonce aux enjeux politiques et climatiques majeurs.",
-     "date": "2026-10-16T21:24:40+02:00",
+     "titre": "Marianne Doz, greffée du rein : « Ma vie a recommencé grâce à mon donneur »",
+     "lien": "https://www.la-croix.com/societe/marianne-doz-greffee-du-rein-ma-vie-a-recommence-grace-a-mon-donneur-20261016",
+     "resume": "À 48 ans, Marianne Doz, consultante dans un cabinet de conseil en santé, à Paris, vit avec le rein d’un autre depuis neuf ans. À l’occasion de la Journée mondiale du don d’organes et de la greffe, le 17 octobre, elle raconte ce tournant.",
+     "date": "2026-10-17T07:45:17+02:00",
      "source": "",
-     "image": "https://i.la-croix.com/x/2026/10/16/2564456-une-vue-de-l-amazonie-a-manaus-au-bresil-la-defore.jpg"
+     "image": "https://i.la-croix.com/x/2026/10/16/2550860-marianne-doz-et-son-chat-muffin-a-paris-le-27-sept.jpg"
     },
     {
-     "titre": "Soudan : 30 morts après une frappe de drone sur un marché au Darfour",
-     "lien": "https://www.la-croix.com/international/soudan-30-morts-apres-une-frappe-de-drone-sur-un-marche-au-darfour-20261016",
-     "resume": "Une frappe de drone sur un marché de Nyala, au Darfour a tué 30 personnes et en a blessé 47 autres vendredi 16 octobre. Les paramilitaires, qui contrôlent la ville, accusent l’armée soudanaise d’avoir visé une zone civile densément peuplée.",
-     "date": "2026-10-16T21:12:06+02:00",
+     "titre": "Le château de Chantilly expose son précieux diamant rose, un siècle après son vol rocambolesque",
+     "lien": "https://www.la-croix.com/culture/le-chateau-de-chantilly-expose-son-precieux-diamant-rose-un-siecle-apres-son-vol-rocambolesque-20261016",
+     "resume": "Ce diamant ultra pur avait été dérobé dans des circonstances rocambolesques, il y a tout juste cent ans. Des archives et des résultats d’analyses inédits accompagnent sa sortie exceptionnelle du coffre du musée Condé, du 17 octobre au 3 janvier 2027.",
+     "date": "2026-10-17T07:30:09+02:00",
      "source": "",
-     "image": "https://i.la-croix.com/x/2026/10/16/2564445-une-scene-de-rue-a-nyala-soudan-le-7-juillet-une-f.jpg"
+     "image": "https://i.la-croix.com/x/2026/10/16/2563849-derobe-dans-des-circonstances-rocambolesques-il-y-.jpg"
     }
    ],
    "flux_utilise": "https://www.la-croix.com/feeds/rss/site.xml"
@@ -190,58 +190,58 @@
    "nom": "L'Équipe",
    "couleur": "#e2001a",
    "une": {
-    "fichier": "unes/equipe.webp",
+    "fichier": "unes/equipe.jpg",
     "date": "2026-10-17",
-    "source": "https://www.frontpages.com/t/2026/10/17/l-equipe-003828enq@2x.webp"
+    "source": "https://img.kiosko.net/2026/10/17/fr/l_equip.750.jpg"
    },
    "articles": [
     {
-     "titre": "Jens Berthel Askou, après la victoire de Toulouse au Mans : « On a la sensation de commencer à avoir ce qu'on pense mériter »",
-     "lien": "https://www.lequipe.fr/Football/Actualites/Jens-berthel-askou-apres-la-victoire-de-toulouse-au-mans-on-a-la-sensation-de-commencer-a-avoir-ce-qu-on-pense-meriter/1736403#at_medium=RSS_feeds",
-     "resume": "L'entraîneur toulousain Jens Berthel Askou était plus que satisfait après la nette victoire de son équipe au Mans (3-0), vendredi, au terme d'un match où le travail de son équipe effectué depuis le début de saison, comme son potentiel, ont fini par payer.",
-     "date": "2026-10-17T06:45:00+02:00",
-     "source": "",
-     "image": "https://medias.lequipe.fr/img-photo-jpg/jens-berthel-askou-et-toulouse-ont-gagne-3-0-au-mans-autissier-jean-baptiste-l-equipe/1500000002625048/0:0,2000:1333-828-552-75/31c36.jpg"
-    },
-    {
-     "titre": "Miotti - Hastings, le temps de l'alternance pour les deux concurrents à l'ouverture de Montpellier : « On essaie de les challenger et à un moment, il y en a un qui prendra le lead »",
-     "lien": "https://www.lequipe.fr/Rugby/Article/Miotti-hastings-le-temps-de-l-alternance-pour-les-deux-concurrents-a-l-ouverture-de-montpellier-on-essaie-de-les-challenger-et-a-un-moment-il-y-en-a-un-qui-prendra-le-lead/1736201#at_medium=RSS_feeds",
-     "resume": "En concurrence à l'ouverture à Montpellier, Domingo Miotti et la recrue Adam Hastings alternent les titularisations. Samedi soir (21 h), c'est l'Écossais qui débutera à Bath. Une question de profils mais pas que...",
-     "date": "2026-10-17T06:30:00+02:00",
-     "source": "",
-     "image": "https://medias.lequipe.fr/img-photo-jpg/domingo-miotti-et-adam-hastings-a-mounic-et-l-hahn-l-equipe/1500000002624537/0:0,1001:667-828-552-75/12bee.jpg"
-    },
-    {
-     "titre": "Entre ménagement, besoin de concerner tout le monde et de créer de l'incertitude : Luis Enrique, l'entraîneur du PSG, passe d'une logique à l'autre",
-     "lien": "https://www.lequipe.fr/Football/Article/Entre-menagement-besoin-de-concerner-tout-le-monde-et-de-creer-de-l-incertitude-luis-enrique-l-entraineur-du-psg-passe-d-une-logique-a-l-autre/1736331#at_medium=RSS_feeds",
-     "resume": "Les titulaires du PSG n'ont pas le choix : avant un grand match européen, ils savent que leur entraîneur, Luis Enrique, va réduire leur temps de jeu en Ligue 1. Mais la semaine a rappelé qu'il avait besoin, aussi, de créer de l'incertitude.",
-     "date": "2026-10-17T06:25:00+02:00",
-     "source": "",
-     "image": "https://medias.lequipe.fr/img-photo-jpg/luis-enrique-et-khvitcha-kvaratskhelia-lors-du-classique-entre-l-om-et-le-psg-1-2-le-20-septembre-p-lahalle-l-equipe/1500000002624858/38:27,1943:1297-828-552-75/60f49.jpg"
-    },
-    {
-     "titre": "Et pourtant, les bookmakers pensaient qu'il serait rapidement viré : Keith Andrews a fait taire les critiques avec Brentford, épatant 4e de Premier League",
-     "lien": "https://www.lequipe.fr/Football/Article/Decrie-a-son-arrivee-l-entraineur-de-brentford-keith-andrews-a-dejoue-tous-les-pronostics/1736339#at_medium=RSS_feeds",
-     "resume": "Keith Andrews, le manager de Brentford, a vite balayé les doutes que sa nomination avait fait naître à l'été 2025 pour succéder à Thomas Frank. Brentford, 4e au classement, espère continuer, sous sa férule, son bon début de saison face à Liverpool (16h).",
-     "date": "2026-10-17T06:05:00+02:00",
+     "titre": "Densité et moyens limités, équipe nationale privilégiée : l'inexorable déclin des provinces irlandaises en Coupe des champions",
+     "lien": "https://www.lequipe.fr/Rugby/Actualites/Densite-et-moyens-limites-equipe-nationale-privilegiee-l-inexorable-declin-des-provinces-irlandaises-en-coupe-des-champions/1736320#at_medium=RSS_feeds",
+     "resume": "Les provinces irlandaises n'ont plus remporté la Coupe des champions depuis 2018. Le Leinster, dernier vainqueur, semble distancé par l'UBB et Toulouse, tandis que le Munster, l'Ulster et le Connacht sont beaucoup moins compétitifs que par le passé. Un…",
+     "date": "2026-10-17T08:26:00+02:00",
      "source": "",
      "image": "https://medias.lequipe.fr/img-photo-png/-/1500000000833469/0-828-552-75/0cb67.png"
     },
     {
-     "titre": "Des occasions mais un nul qui met d'emblée l'UBB dans une position compliquée en Coupe des champions : « Une certaine justice dans ce match »",
-     "lien": "https://www.lequipe.fr/Rugby/Article/Des-occasions-mais-un-nul-qui-met-d-emblee-l-ubb-dans-une-position-compliquee-en-coupe-des-champions-une-certaine-justice-dans-ce-match/1736394#at_medium=RSS_feeds",
-     "resume": "Tenue en échec par Gloucester vendredi (36-36), l'UBB n'a pas battu le record de victoires consécutives en Coupe des champions. Et s'est compliquée la suite de son parcours.",
-     "date": "2026-10-17T05:55:00+02:00",
+     "titre": "« On compte les heures » : à Bauer, une nouvelle tribune comme un trait d'union entre plus fervents supporters du Red Star, opposés à Saint-Étienne en Ligue 2",
+     "lien": "https://www.lequipe.fr/Football/Article/-on-compte-les-heures-a-bauer-une-tribune-comme-un-trait-d-union/1736326#at_medium=RSS_feeds",
+     "resume": "La rencontre au sommet de la Ligue 2 ce samedi (20 heures) entre le Red Star, 2e, et Saint-Étienne, le leader, sera aussi marquée par l'inauguration de la tribune Nord, très attendue par le kop audonien.",
+     "date": "2026-10-17T08:22:00+02:00",
      "source": "",
-     "image": "https://medias.lequipe.fr/img-photo-png/-/1500000000833469/0-828-552-75/0cb67.png"
+     "image": "https://medias.lequipe.fr/img-photo-jpg/la-nouvelle-tribune-nord-du-stade-bauer-ici-au-mois-d-aout-va-etre-ouverte-pour-la-premiere-fois-samedi-soir-dave-winter-icon-sport/1500000002624851/0:0,2000:1333-828-552-75/6f46c.jpg"
     },
     {
-     "titre": "Les Bleues corrigées pour le premier de leurs trois tests en Nouvelle-Zélande",
-     "lien": "https://www.lequipe.fr/Rugby/Actualites/Les-bleues-corrigees-pour-le-premier-de-leurs-trois-tests-en-nouvelle-zelande/1736407#at_medium=RSS_feeds",
-     "resume": "Une équipe de France rajeunie et inexpérimentée a été balayée comme rarement par les Black Ferns ce samedi à Hamilton (81-12), pour le premier de ses trois matches en Nouvelle-Zélande, dans le cadre du WXV. Les Bleues ne pourront que faire mieux lors des…",
-     "date": "2026-10-17T05:51:39+02:00",
+     "titre": "« Il faudra gérer » : avec le Betis, le PSG et le Real Madrid au menu des huit prochains jours, le FC Barcelone se prépare pour un enchaînement intense",
+     "lien": "https://www.lequipe.fr/Football/Actualites/-il-faudra-gerer-avec-le-betis-le-psg-et-le-real-madrid-au-menu-des-huit-prochains-jours-le-fc-barcelone-se-prepare-pour-un-enchainement-intense/1736354#at_medium=RSS_feeds",
+     "resume": "Le FC Barcelone, qui reçoit le Betis ce samedi (18h30), entend rester la seule équipe à avoir gagné tous ses matches cette saison, avant d'affronter le PSG puis le Real Madrid.",
+     "date": "2026-10-17T08:19:00+02:00",
      "source": "",
-     "image": "https://medias.lequipe.fr/img-photo-png/-/1500000000833469/0-828-552-75/0cb67.png"
+     "image": "https://medias.lequipe.fr/img-photo-jpg/hansi-flick-et-le-barca-entament-une-serie-de-trois-grosses-affiches-en-dix-jours-a-reau-l-equipe/1500000002624908/192:161,1916:1310-828-552-75/e0ac9.jpg"
+    },
+    {
+     "titre": "Dans la tête de Paulo Cesar, l'entraîneur du PSG, avant le choc d'Arkema Première Ligue contre OL Lyonnes",
+     "lien": "https://www.lequipe.fr/Football/Actualites/Dans-la-tete-de-paulo-cesar-l-entraineur-du-psg-avant-le-choc-d-arkema-premiere-ligue-contre-ol-lyonnes/1736364#at_medium=RSS_feeds",
+     "resume": "Avant le choc d'Arkema Première Ligue contre OL Lyonnes, samedi (21 heures), Paulo Cesar, l'entraîneur du PSG, nous a expliqué plusieurs aspects de son plan de jeu.",
+     "date": "2026-10-17T08:18:00+02:00",
+     "source": "",
+     "image": "https://medias.lequipe.fr/img-photo-jpg/paulo-cesar-l-entraineur-du-psg-lors-de-la-victoire-de-son-equipe-a-fleury-3-1-dimanche-dernier-en-arkema-premiere-ligue-kevin-clement-icon-sport/1500000002624949/0:0,2000:1333-828-552-75/8a6d1.jpg"
+    },
+    {
+     "titre": "À quelle heure et sur quelle chaîne voir Betis Séville-FC Barcelone en Liga ?",
+     "lien": "https://www.lequipe.fr/Football/Actualites/A-quelle-heure-et-sur-quelle-chaine-voir-real-betis-barcelone-en-liga/1736152#at_medium=RSS_feeds",
+     "resume": "Pour la 9e journée de Liga, le FC Barcelone (1er) se déplace sur la pelouse du Betis Séville (3e) samedi. Retrouvez ici toutes les informations concernant la rencontre.",
+     "date": "2026-10-17T08:15:00+02:00",
+     "source": "",
+     "image": "https://medias.lequipe.fr/img-photo-jpg/cette-saison-pedri-est-le-cinquieme-joueur-le-plus-utilise-par-hansi-flick-a-reau-l-equipe/1500000002624305/157:177,1690:1199-828-552-75/6ed1d.jpg"
+    },
+    {
+     "titre": "À quelle heure et sur quelle chaîne voir Strasbourg-PSG en Ligue 1 ?",
+     "lien": "https://www.lequipe.fr/Football/Actualites/A-quelle-heure-et-sur-quelle-chaine-voir-strasbourg-psg-en-ligue-1/1736151#at_medium=RSS_feeds",
+     "resume": "Pour la septième journée de Ligue 1, le PSG se déplace à la Meinau pour y affronter Strasbourg samedi (17h15). Retrouvez ici toutes les informations concernant la rencontre.",
+     "date": "2026-10-17T08:05:00+02:00",
+     "source": "",
+     "image": "https://medias.lequipe.fr/img-photo-jpg/lucas-beraldo-a-gauche-a-ouvert-le-score-face-au-mans-sur-penalty-19-lors-du-dernier-match-de-ligue-1-f-faugere-l-equipe/1500000002624303/0:0,2000:1333-828-552-75/3e9f7.jpg"
     }
    ],
    "flux_utilise": "https://dwh.lequipe.fr/api/edito/rss?path=/"
@@ -254,24 +254,24 @@
    "sous_titre": "Les informations les plus importantes, partout dans le monde",
    "items": [
     {
+     "titre": "EN DIRECT, guerre en Ukraine : Donald Trump exempte la Russie de nouvelles sanctions, au nom de « l’intérêt national des Etats-Unis »",
+     "lien": "https://www.lemonde.fr/international/live/2026/10/17/en-direct-guerre-en-ukraine-donald-trump-exempte-la-russie-de-nouvelles-sanctions-au-nom-de-l-interet-national-des-etats-unis_6791198_3210.html",
+     "resume": "Dans un décret publié vendredi soir par la Maison Blanche, Donald Trump « exempte l’application des sanctions, restrictions et droits de douane prévues dans le Graham Act ». Cette loi constituait la première action majeure du Congrès contre Moscou depuis le…",
+     "date": "2026-10-17T07:09:26+02:00",
+     "source": "lemonde.fr",
+     "image": "https://img.lemde.fr/2026/10/17/85/0/1024/512/644/322/60/0/90b4ea9_ftp-1-cc4zeebrkfbj-2300040401-1024.jpg",
+     "reprises": 12,
+     "score": 37.92
+    },
+    {
      "titre": "Aux Etats-Unis, Katie Zacharia bat un record de brièveté comme porte-parole de la Maison Blanche",
      "lien": "https://www.lemonde.fr/international/article/2026/10/17/aux-etats-unis-katie-zacharia-bat-un-record-de-brievete-comme-porte-parole-de-la-maison-blanche_6795675_3210.html",
      "resume": "Choisie pour remplacer Karoline Leavitt, la porte-parole a enchaîné les bévues et a été écartée du poste par Donald Trump au bout de cinq jours.",
-     "date": "2026-10-17T00:59:07+02:00",
+     "date": "2026-10-17T00:59:06+02:00",
      "source": "lemonde.fr",
      "image": "https://img.lemde.fr/2026/10/16/85/0/1024/512/644/322/60/0/700c42d_ftp-1-i1t9fuqub1x7-afp-d3j63n7-1024.jpg",
-     "reprises": 11,
-     "score": 35.31
-    },
-    {
-     "titre": "EN DIRECT, guerre en Ukraine : Emmanuel Macron critique l’accord entre Moscou et Washington sur le diesel russe, le qualifiant de mesure « inappropriée, inefficace »",
-     "lien": "https://www.lemonde.fr/international/live/2026/10/17/en-direct-guerre-en-ukraine-emmanuel-macron-critique-l-accord-entre-moscou-et-washington-sur-le-diesel-russe-le-qualifiant-de-mesure-inappropriee-inefficace_6791198_3210.html",
-     "resume": "Le président français a également martelé, vendredi, que les Européens « ne lâcheront pas l’Ukraine » parce que « c’est une guerre de résistance face à la guerre d’agression russe ». Ursula von der Leyen a confirmé le trou de 70 milliards d’euros en 2027…",
-     "date": "2026-10-17T02:10:50+02:00",
-     "source": "lemonde.fr",
-     "image": "https://img.lemde.fr/2026/10/16/118/0/5000/2500/644/322/60/0/13f25af_ftp-1-dyaraubxyu29-2026-10-16t172955z-1471415968-rc2h4oarl7t5-rtrmadp-3-eu-summit.JPG",
-     "reprises": 8,
-     "score": 23.46
+     "reprises": 6,
+     "score": 12.77
     },
     {
      "titre": "Cisjordanie occupée : une journaliste du Washington Post rouée de coups par des colons israéliens",
@@ -281,7 +281,17 @@
      "source": "© Ahmad Gharabli, AFP",
      "image": "https://s.france24.com/media/display/03083cb6-c96d-11f1-8513-4dd8ac2cf3bf/w:1024/p:16x9/000-D3GA69H.jpg",
      "reprises": 4,
-     "score": 9.75
+     "score": 9.33
+    },
+    {
+     "titre": "L’UE « ne lâchera pas l’Ukraine », assure Emmanuel Macron, dénonçant les « ambiguïtés » de certains, en allusion à Donald Trump",
+     "lien": "https://www.lemonde.fr/politique/article/2026/10/16/aide-a-l-ukraine-emmanuel-macron-temporise-apres-la-demande-de-kiev-d-une-rallonge-de-70-milliards-d-euros_6795632_823448.html",
+     "resume": "La présidente de la Commission européenne, Ursula von der Leyen, a confirmé de son côté que l’Ukraine aurait besoin de 70 milliards d’euros supplémentaires en 2027 – un déficit qui « devra être comblé ».",
+     "date": "2026-10-16T19:54:29+02:00",
+     "source": "lemonde.fr",
+     "image": "https://img.lemde.fr/2026/10/16/38/0/1024/512/644/322/60/0/e42eb0b_ftp-1-uuvmy5jlltpn-afp-d3ce9jl-1024.jpg",
+     "reprises": 2,
+     "score": 6.76
     },
     {
      "titre": "Fusillade dans l’Oregon : l’auteur présumé de la tuerie dans une école primaire y avait été élève en classe spécialisée",
@@ -290,28 +300,18 @@
      "date": "2026-10-17T01:45:17+02:00",
      "source": "lemonde.fr",
      "image": "https://img.lemde.fr/2026/10/16/85/0/1024/512/644/322/60/0/e341a1e_ftp-1-ijmuibamxi0z-afp-d3fu34z-1024.jpg",
-     "reprises": 2,
-     "score": 7.67
+     "reprises": 3,
+     "score": 5.05
     },
     {
-     "titre": "Tous les candidats au poste de chef de l'ONU essuient un veto lors d'un vote indicatif au Conseil de sécurité",
-     "lien": "https://www.rfi.fr/fr/am%C3%A9riques/20261016-tous-les-candidats-au-poste-de-chef-de-l-onu-essuient-un-veto-lors-d-un-vote-au-conseil-de-s%C3%A9curit%C3%A9",
-     "resume": "Tous les candidats au poste de secrétaire général de l'ONU se sont vu opposer, vendredi 16 octobre, un veto par les membres permanents du Conseil de sécurité, a-t-on appris de source diplomatique. Au terme de ce vote indicatif, aucun des sept candidats n'a…",
-     "date": "2026-10-16T23:46:47+02:00",
-     "source": "© John Minchillo / AP",
-     "image": "https://s.rfi.fr/media/display/92cb68c0-3874-11ed-a8e5-005056bf30b7/w:1024/p:16x9/AP22260377223791.jpg",
-     "reprises": 2,
-     "score": 3.72
-    },
-    {
-     "titre": "Arrestation de 61 Marocains en Algérie : diffusion d'images truquées ?",
-     "lien": "https://www.france24.com/fr/%C3%A9missions/info-ou-intox/20261016-arrestation-de-61-marocains-en-alg%C3%A9rie-diffusion-d-images-truqu%C3%A9es",
-     "resume": "C'est une affaire qui fait couler beaucoup d'encre et qui alimente les tensions entre le Maroc et l'Algérie. 61 Marocains ont été arrêtés récemment près d'Oran, membres d'un réseau criminel selon les autorités d'Alger. Problème : certains médias algériens…",
-     "date": "2026-10-16T21:59:33+02:00",
-     "source": "france24.com",
-     "image": "https://s.france24.com/media/display/860eaf22-c99b-11f1-b3f1-2d1c143cdef3/w:1024/p:16x9/capture-93b064c7.jpg",
-     "reprises": 2,
-     "score": 3.5
+     "titre": "Australie à la Coupe du monde de rugby 2023 : actualités, matches en direct, joueurs, compositions, calendriers et résultats des Wallabies.",
+     "lien": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFAxZkczaHJRazU0ck5MSnhscTQ3ZG5HXzV4QUxsM2NWYzdTcnNHY1IwRkx5TWk5UDBjVEIwM0JEZzlBdE05QndmTXoyaDdLaFFWU2tydA?oc=5",
+     "resume": "",
+     "date": "2026-10-17T01:48:54+02:00",
+     "source": "Rugbyrama",
+     "image": null,
+     "reprises": 1,
+     "score": 4.44
     }
    ],
    "a_traduire": []
@@ -329,17 +329,27 @@
      "source": "Boursorama",
      "image": null,
      "reprises": 4,
-     "score": 8.31
+     "score": 8.02
     },
     {
-     "titre": "Anthropic signe un contrat de location pour son premier centre de données au Canada",
+     "titre": "OpenAI poursuivie en justice concernant la sécurité des enfants et l'utilisation des données",
+     "lien": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQcTBocDBmWlNQbzdDUE9iTVFObXdjSUdjT2xkNVNCRVQ2Wl81ODM1a3loYUR3ZVJTZzAyZlFiZEcyaFFHQXlXdjVOaHQzaVNWamlVaGFIYS1BOXBYZEVCWlZHTngwVEN1YThjZHVudTI5YXQ1bzJ4c3lWVlQycVp2UVBVb1Z2R2d3UzMyd0FKdFVHRU9laGxsMw?oc=5",
+     "resume": "",
+     "date": "2026-10-16T22:59:55+02:00",
+     "source": "Malwarebytes",
+     "image": null,
+     "reprises": 4,
+     "score": 7.22
+    },
+    {
+     "titre": "Anthropic signe un bail pour son premier centre de données au Canada",
      "lien": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQNEQ5RmNOeHRSbWRObktrRHJOOXdtZHpwUE5MeE5zeXpwRlRHWm5NT3YzTk4wZVN0ZWpoaHFrdVBxTTIyRF9FRkdzRnJSZHlMWHB1MVNtT0UxTDJzUjdVeXg5MnZneHh5UkJ5MTBNODd1VW1mWVRhSTNyWU1DcFhaVWlHemNaOVpZNlNVT3FzWmVNLTktTHlQV1JOdk40akZqZ0t5RzM2ZkpYWlBaYU9wLVB2OVNjU3FnamxwM0NBQ1pQNk8xclRV?oc=5",
      "resume": "",
      "date": "2026-10-17T00:51:42+02:00",
      "source": "Zonebourse Suisse",
      "image": null,
      "reprises": 4,
-     "score": 6.91
+     "score": 6.7
     },
     {
      "titre": "Anthropic présente discrètement son propre projet de loi sur la sécurité de l'IA aux législateurs, rapporte Po",
@@ -349,40 +359,20 @@
      "source": "Boursorama",
      "image": null,
      "reprises": 4,
-     "score": 6.88
+     "score": 6.61
     },
     {
-     "titre": "Huit États américains poursuivent OpenAI en justice, invoquant des dangers pour les enfants",
-     "lien": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE04ZURKUHB3N2RWdzY2TFZmNmcyRE9LdzZNcDlyNVo5bk9mUDRBOC1QRFo1c1RRbGtNd1ZseWFWS0VQUFRjWTQyenJNLTF1XzVlYUdrWFdiN1M2aWY5OWFobkJKMXJOZlU?oc=5",
+     "titre": "Intelligence artificielle : Comment l'IA amende le budget 2027",
+     "lien": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNYUdSdHBTaHF0NjhKanZHS1Fkemx1dXhPYm5KOGR6OWNaelJEZUFSMDFEUldETTJPcXFxbnpBUlhVUVhzYUN6eFhpalJWSE81MGoxaEdKY3FkNTk4M3hnZDloWmprdmFNczdnVWZacUpCekduS3dVZ2d6amVWVDVwbmNDOXFwejN2bjZUNXZZQWhMcXpUQ3lUeg?oc=5",
      "resume": "",
-     "date": "2026-10-17T06:28:03+02:00",
-     "source": "NHKニュース",
+     "date": "2026-10-17T07:00:00+02:00",
+     "source": "Le Canard enchaîné",
      "image": null,
      "reprises": 3,
-     "score": 5.23
-    },
-    {
-     "titre": "La présidentielle 2027 se jouera sous haute intelligence artificielle",
-     "lien": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPZ2k4Sl9pa3NTTlAtUjRObnhEN3RYak1VelNrSnRRY1RjRk9TQXpzdEVhLTBZenJPSEUtLU1YdFdhaHNxZ1otYzJMVE5YMWJJbmF0Skhuc1JxRVNNMlAtQjdDWndpY1VQbHZfcENVbGRiQjNZZWZreUJzUVVseVFtOXFGaG9jVlBfOEVvV0ctTDJIbjJxNkxtdldINWRJS3lsQl9FWE95RzU3MDg?oc=5",
-     "resume": "",
-     "date": "2026-10-16T17:27:54+02:00",
-     "source": "Maddyness",
-     "image": null,
-     "reprises": 2,
-     "score": 3.39
+     "score": 5.78
     }
    ],
    "a_traduire": [
-    {
-     "titre": "Anthropic quietly pitches its own AI safety bill to lawmakers, Politico reports",
-     "lien": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxOTFVZUVJueXdndXdhQWRfV0tVWW9hUExHcEV3SU9NWTNwQkR5cnZQMnRxWFI3NUhHaW5Rc3lVSlppVUFVNC1RRmtVeUxTV3JUTGYzVm9abVdXYk0wOXlqUG45X0czU0xtWHZlWXZ2YXE0WFFtRlFNX1h2eWFKUGFhOVlEOFBCb011eW94dkhqVFYydUIzR1Y4aEo0elV2RHQwN1pqRE1yT0JhMmhKekNhTWlwRVlEWFlmWVdLOGhHQ0VHUE04cl83RllkT3VqcmtwR09YX05vVWpPaDRaZXdQTw?oc=5",
-     "resume": "",
-     "date": "2026-10-17T00:30:08+02:00",
-     "source": "TradingView",
-     "image": null,
-     "reprises": 1,
-     "score": 1.49
-    },
     {
      "titre": "Replit is no longer working with Anthropic, CEO says",
      "lien": "https://techcrunch.com/2026/10/16/replit-is-no-longer-working-with-anthropic-ceo-says/",
@@ -391,7 +381,7 @@
      "source": "techcrunch.com",
      "image": null,
      "reprises": 1,
-     "score": 1.47
+     "score": 1.44
     },
     {
      "titre": "Meta’s new terms may allow it to train AI on news sites for free",
@@ -401,7 +391,7 @@
      "source": "theverge.com",
      "image": null,
      "reprises": 1,
-     "score": 1.35
+     "score": 1.32
     },
     {
      "titre": "India becomes the latest country to report rogue AI agent activity",
@@ -411,7 +401,7 @@
      "source": "techcrunch.com",
      "image": null,
      "reprises": 1,
-     "score": 1.28
+     "score": 1.26
     },
     {
      "titre": "Physical AI is more than robots, says the Nvidia veteran now investing in it",
@@ -421,7 +411,17 @@
      "source": "techcrunch.com",
      "image": null,
      "reprises": 1,
-     "score": 1.16
+     "score": 1.13
+    },
+    {
+     "titre": "Elorian’s first AI model wants to reason with images, not just about them",
+     "lien": "https://techcrunch.com/2026/10/16/elorians-first-ai-model-wants-to-reason-with-images-not-just-about-them/",
+     "resume": "According to Elorian's evaluations, Glimpse outperforms even GPT-6 Astra on scientific chart reasoning and short-form video captioning, with competitive results on other visual reasoning tasks.",
+     "date": "2026-10-16T18:01:37+02:00",
+     "source": "techcrunch.com",
+     "image": null,
+     "reprises": 1,
+     "score": 1.05
     }
    ]
   },
@@ -431,26 +431,15 @@
    "sous_titre": "Libertés fondamentales, grandes juridictions, culture juridique pour le CRFPA",
    "items": [
     {
-     "titre": "Les parlementaires RN et UDR saisissent le Conseil constitutionnel pour réclamer \"la démission d'office\" de son président, Richard Ferrand",
-     "lien": "https://news.google.com/rss/articles/CBMikgJBVV95cUxOaEhmMXZHdGJNb09yMVVPdS1qUkxXb29iejkwRFZSLUtlODBad1VSTWFTZDlnNXhzelYyRXRFYU92ZEpzeGl5Mjl1cGdOcTl1aFdpcDVGZHh1R1VSanRfb0FvZzRqemxqdWJfV0ZSV2Jjb1ktZ0ptci1IZTN1VzJ6ZXRHR0dSdkxvQl96a0l2Mm5TSmRBdnlENUtCdm1PckR3U21VTE9WaHVDSllvazREeWlYLTVaLUc5aExLNUFidW5qSXNsWURpTkRKNXZrX2JJbEF0dHIwNGZ1QVd6RHdhcEpEaGl5b2d1N3JrUldUMzFLMmdmQzBfQ1Y3ZWktSGlrQzZMZ1BKb2hHNXBNU3htUE1R?oc=5",
+     "titre": "Le recours du RN contre Richard Ferrand, appelant à le débarquer de la présidence du Conseil constitutionnel, est-il fondé juridiquement",
+     "lien": "https://news.google.com/rss/articles/CBMipAJBVV95cUxPTnJhTTBwQmZobmVETzNHaEx4S3RkMkJGRmdiT3ZXOFFESDVWWWFwaVBHd2paVlVpYzNEaU83aklyREhDd19UNHZPT244bGVsQ1R2LWYzVEZ5eVNiUFQtQ3R1eUVidzBHOG1JVWpjWXVnRk9QX0VHWEVyTWRWUWcyXzFGaXVYS1NJT2x6SDFicDR1OUczdXRRaFNMZTdJWmpRV3VOVUxuT1FMQlNoUmtpOWlxSERvc2xvMzR6Vi1nbHVnYVNXa09RZ29UTUJOQ1B3YUNLWG9JN2RJZ0ptakJLQW1iZ3JWcVNGdkRQVDZOTjlJVEtTYUsxTmpjZEJlTFYzdjN1RFBNNDltQkctUUwzU1FyWk1uTzAwajg4b2EtZWFqQ291?oc=5",
      "resume": "",
-     "date": "2026-10-16T13:37:25+02:00",
+     "date": "2026-10-16T18:38:35+02:00",
      "source": "franceinfo",
      "image": null,
-     "reprises": 27,
-     "score": 70.88,
+     "reprises": 30,
+     "score": 83.69,
      "libertes": true
-    },
-    {
-     "titre": "Tennis. Moselle Open : la Cour de cassation valide définitivement la vente",
-     "lien": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNSFU3Wk1seDZudzhVUDFfSGVKbHpjMk4zMWYtLVVBSllUaWZaTjl0aE9rUlNydV9xbDRBQXdRbm1BQ2pBWlFLN0FETmp2VXl6TF95VDJJcDhGTUdvSEZnaE12cUlNZE5rN0xBQUhKZEFNZjVaQngyOGE5dExMSGk2NnkzTERuem45U1I0YWZaOWtzd0JCQ1FYR2xxOUJPYXJUaVN2RFlfeUwzVlBVcHlxQzZhWEhJaEU?oc=5",
-     "resume": "",
-     "date": "2026-10-14T12:30:00+02:00",
-     "source": "Le Republicain Lorrain",
-     "image": null,
-     "reprises": 2,
-     "score": 8.61,
-     "libertes": false
     },
     {
      "titre": "Niger : création d'un observatoire des droits de l’homme",
@@ -460,7 +449,7 @@
      "source": "Anadolu Ajansı",
      "image": null,
      "reprises": 5,
-     "score": 7.37,
+     "score": 7.24,
      "libertes": false
     },
     {
@@ -471,7 +460,7 @@
      "source": "Conseil constitutionnel",
      "image": null,
      "reprises": 1,
-     "score": 3.82,
+     "score": 3.79,
      "libertes": true
     },
     {
@@ -482,7 +471,7 @@
      "source": "La Revue politique et Parlementaire",
      "image": null,
      "reprises": 2,
-     "score": 2.61,
+     "score": 2.64,
      "libertes": true
     },
     {
@@ -493,8 +482,19 @@
      "source": "Bourse Inside",
      "image": null,
      "reprises": 1,
-     "score": 1.49,
+     "score": 1.48,
      "libertes": false
+    },
+    {
+     "titre": "FLASH : Le Conseil d’État pose des réserves à l’interdiction des équipements de sécurité en manifestation",
+     "lien": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxNZUlibjJQUnZDTDh3NTdRejlaSE9wVUlvb01kVklORnk4R1h4MEJUUGF1cmF4WEVhenBMcHQ0UVdYbnlOOGl5VDJJWTNSdnlEbVRXenZqYU50aTZpMGFGN1YxTF9JelgwYmRpSzBUN3NxUHV1VkZteDFCenc0YVFDQTVsNzFoN0V3R05DdEdpUUdmNGxfd1ppVHJKd2dmellUcjhjMFlvTXZMLVlfSzFGd2prME9SNVZhd1p6WDlXV2tFT3RFMklpNGxMMnVDdERyejRaR2VxNXFJdHJKTE5NRmRQRzZXQk8wZml3?oc=5",
+     "resume": "",
+     "date": "2026-10-16T11:30:00+02:00",
+     "source": "Actu-Juridique",
+     "image": null,
+     "reprises": 1,
+     "score": 1.42,
+     "libertes": true
     }
    ],
    "a_traduire": []
