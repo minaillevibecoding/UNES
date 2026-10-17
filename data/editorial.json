@@ -1,136 +1,162 @@
 {
- "date": "2026-10-16",
- "edito": "Volodymyr Zelensky annonce la reprise des frappes ukrainiennes contre les raffineries russes, mettant fin à la trêve voulue par Donald Trump, qui le juge « plus difficile » à gérer que Poutine. Dans l'Oregon, une fusillade dans une école primaire fait quatre morts, dont trois enfants. Les lycéens appellent à rejoindre la journée de mobilisation de samedi.",
+ "date": "2026-10-17",
+ "edito": "Lycéens, étudiants et « gilets jaunes » manifestent ce samedi ; la préfecture de police interdit les cortèges autour de l'Élysée, de Matignon et des Champs-Élysées. Emmanuel Macron critique l'accord russo-américain sur le gazole et assure que les Européens « ne lâcheront pas l'Ukraine ». Au Conseil de sécurité, les sept candidats au poste de secrétaire général de l'ONU se sont tous heurtés à un veto.",
  "journaux": {
   "figaro": {
-   "resume": "Le Figaro publie une étude exclusive sur l'essor des naturalisations depuis 2000 et son effet possible sur le corps électoral de 2027. Il suit aussi la mobilisation lycéenne à la veille des vacances.",
+   "resume": "Le Figaro consacre sa une à la mobilisation du 17 octobre : environ 500 actions et 90 défilés attendus, avec la crainte de casseurs. Il dresse aussi le bilan d'un mois de blocages.",
    "points": [
-    "Naturalisations : des « effets sur le corps électoral » attendus, selon les auteurs de l'étude.",
-    "Lycéens : les organisations ne veulent plus négocier qu'avec Sébastien Lecornu.",
-    "17 octobre : la convergence « jaunes et jeunes » en question.",
-    "Tunnel sous la Manche : un minibus percuté par un train de fret, au moins 19 blessés."
+    "Que sont devenues les figures des « gilets jaunes », huit ans après.",
+    "Les autorités redoutent un « samedi très compliqué ».",
+    "Blessés, gardes à vue, cours perdus : le bilan d'un mois de blocages.",
+    "Paris : manifestations interdites dans plusieurs secteurs stratégiques."
    ]
   },
   "monde": {
-   "resume": "Le Monde fait le point sur un mois de mobilisation lycéenne et sur les divisions des Vingt-Sept face à la flambée des prix de l'énergie. Il revient aussi sur la fusillade de l'Oregon.",
+   "resume": "Le Monde analyse le « divorce consommé » entre Emmanuel Macron et la jeunesse. Il revient aussi sur la cyberattaque des frigos de supermarché et le retard de la France à transposer deux directives européennes de cybersécurité.",
    "points": [
-    "Lycéens : le pari de la convergence avec les « gilets jaunes » samedi.",
-    "Carburants : les Vingt-Sept divisés et démunis au Conseil européen.",
-    "Trump : Zelensky n'est « pas le bon type pour trouver un accord ».",
-    "Népal : plus de 5 000 disparus après le « tsunami des montagnes »."
+    "Mobilisation : les cortèges non déclarés interdits de 7 heures à 22 heures à Paris.",
+    "Katie Zacharia écartée de la Maison Blanche au bout de cinq jours.",
+    "Ukraine : Ursula von der Leyen confirme un trou de 70 milliards d'euros pour 2027.",
+    "Israël : législatives du 27 octobre sans majorité claire dans les sondages."
    ]
   },
   "croix": {
-   "resume": "La Croix relève que les « réponses concrètes » promises aux lycéens se font attendre, et explique pourquoi Marine Le Pen accélère sa campagne avant le congrès du RN.",
+   "resume": "La Croix publie un entretien avec le politologue Olivier Roy sur la vague populiste et suit les conflits au Moyen-Orient, en Ukraine et au Soudan.",
    "points": [
-    "Les lycéens appellent à rejoindre les manifestations de samedi.",
-    "Oregon : un adolescent de 16 ans tue trois enfants et un enseignant.",
-    "Six ans après l'assassinat de Samuel Paty, une projection pour des collégiens marseillais.",
-    "Madagascar : un an après le coup d'État, la désillusion de la génération Z."
+    "Darfour : une frappe de drone sur un marché de Nyala fait 30 morts.",
+    "Brésil : la déforestation en Amazonie au plus bas depuis 1988.",
+    "Poutine affirme qu'il reste à conquérir un peu plus de 10 % de la région de Donetsk.",
+    "Massy : le Centre Pompidou dévoile ses nouvelles réserves."
    ]
   },
   "equipe": {
-   "resume": "L'Équipe raconte le parcours de Chamsedin Kouranfal, révélation de Reims, et suit la Diagonale des Fous à La Réunion.",
+   "resume": "L'Équipe retient la nette victoire de Toulouse au Mans (3-0) et la lourde défaite des Bleues en Nouvelle-Zélande (81-12).",
    "points": [
-    "Kouranfal, repêché en Régional 1, avant Reims-Dijon.",
-    "Diagonale des Fous : Vincent Esmiol en tête après 80 km.",
-    "Gymnastique : Elena Colas, quadruple médaillée européenne à 16 ans.",
-    "PSG : les coups de pied arrêtés, point faible face à City."
+    "Rugby : l'UBB tenue en échec par Gloucester (36-36).",
+    "Luis Enrique et la gestion des titulaires du PSG.",
+    "Brentford, 4e, défie Liverpool.",
+    "Montpellier : Miotti et Hastings alternent à l'ouverture."
    ]
   }
  },
  "sections": {
   "monde": [
    {
-    "titre": "Ukraine : Zelensky reprend les frappes contre les raffineries russes, Trump dénonce « une honte »",
-    "lien": "https://www.lemonde.fr/international/article/2026/10/16/guerre-en-ukraine-volodymyr-zelensky-acte-la-reprise-des-frappes-contre-les-raffineries-russes-une-honte-selon-donald-trump_6795219_3210.html",
+    "titre": "Mobilisation du 17 octobre : cortèges interdits dans plusieurs secteurs de Paris",
+    "lien": "https://www.lemonde.fr/societe/article/2026/10/16/mobilisation-du-17-octobre-la-prefecture-interdit-de-manifester-dans-plusieurs-secteurs-de-paris-autour-de-l-elysee-et-matignon-notamment_6795587_3224.html",
     "source": "Le Monde",
-    "date": "2026-10-16T06:47:03+02:00",
-    "resume": "La fin de la trêve voulue par Washington marque une escalade entre les deux présidents depuis l'accord américano-russe sur le gazole. Donald Trump juge Zelensky « plus difficile » que Poutine.",
-    "pourquoi": "La rupture entre Kiev et Washington s'aggrave."
+    "date": "2026-10-16T18:56:28+02:00",
+    "resume": "Pour cette journée associant « gilets jaunes », étudiants et lycéens, les rassemblements non déclarés sont interdits de 7 heures à 22 heures autour de l'Élysée, de Matignon et des Champs-Élysées.",
+    "pourquoi": "Un test pour le mouvement lycéen, qui entre en vacances."
    },
    {
-    "titre": "Oregon : trois enfants et un enseignant tués dans une école primaire",
-    "lien": "https://www.lemonde.fr/international/article/2026/10/16/aux-etats-unis-une-fusillade-fait-au-moins-quatre-morts-dans-une-ecole-primaire-de-l-oregon_6794831_3210.html",
+    "titre": "Macron critique l'accord russo-américain sur le gazole",
+    "lien": "https://www.lemonde.fr/international/live/2026/10/17/en-direct-guerre-en-ukraine-emmanuel-macron-critique-l-accord-entre-moscou-et-washington-sur-le-diesel-russe-le-qualifiant-de-mesure-inappropriee-inefficace_6791198_3210.html",
     "source": "Le Monde",
-    "date": "2026-10-16T00:51:46+02:00",
-    "resume": "L'auteur des tirs, un adolescent de 16 ans, a été abattu par un passant armé avant l'arrivée de la police, à l'école Silver Rail de Bend.",
-    "pourquoi": "Une nouvelle tuerie scolaire aux États-Unis, quelques jours après l'attaque d'Aubagne."
+    "date": "2026-10-17T02:10:50+02:00",
+    "resume": "Le président assure que les Européens « ne lâcheront pas l'Ukraine », face à « une guerre d'agression russe ». Ursula von der Leyen confirme un besoin de financement de 70 milliards d'euros en 2027.",
+    "pourquoi": "L'Europe doit combler le retrait américain."
    },
    {
-    "titre": "Prix de l'énergie : les Vingt-Sept peinent à s'entendre",
-    "lien": "https://www.lemonde.fr/economie/article/2026/10/16/carburants-les-vingt-sept-peinent-a-s-entendre-pour-faire-baisser-les-prix-de-l-energie-un-cauchemar-pour-l-economie-europeenne_6795109_3234.html",
-    "source": "Le Monde",
-    "date": "2026-10-16T05:30:27+02:00",
-    "resume": "Réunis à Bruxelles les 15 et 16 octobre, les chefs d'État et de gouvernement sont divisés et manquent d'outils, alors que l'UE achète encore du gaz russe.",
-    "pourquoi": "L'accord Trump-Poutine fragilise la réponse européenne."
+    "titre": "ONU : tous les candidats au secrétariat général bloqués par un veto",
+    "lien": "https://www.rfi.fr/fr/am%C3%A9riques/20261016-tous-les-candidats-au-poste-de-chef-de-l-onu-essuient-un-veto-lors-d-un-vote-au-conseil-de-s%C3%A9curit%C3%A9",
+    "source": "RFI",
+    "date": "2026-10-16T23:46:47+02:00",
+    "resume": "Lors d'un vote indicatif vendredi, chacun des sept candidats s'est vu opposer un veto par au moins un membre permanent du Conseil de sécurité.",
+    "pourquoi": "La succession d'António Guterres s'annonce bloquée."
    },
    {
-    "titre": "Paris et Berlin s'accordent sur l'automobile « made in Europe »",
-    "lien": "https://www.lemonde.fr/economie/article/2026/10/15/la-france-et-l-allemagne-s-accordent-sur-l-avenir-d-une-industrie-automobile-made-in-europe_6794759_3234.html",
-    "source": "Le Monde",
-    "date": "2026-10-15T20:02:54+02:00",
-    "resume": "Le compromis concilie protection du marché européen et assouplissement des objectifs climatiques pour 2035.",
-    "pourquoi": "Un tournant pour l'industrie automobile face à la concurrence chinoise."
+    "titre": "Cisjordanie : une journaliste du Washington Post frappée par des colons",
+    "lien": "https://www.france24.com/fr/moyen-orient/20261016-cisjordanie-occup%C3%A9e-colons-isra%C3%A9liens-attaquent-oliveraie-journaliste-am%C3%A9ricaine-bless%C3%A9e-agriculteurs-paslestiniens",
+    "source": "France 24",
+    "date": "2026-10-16T17:28:14+02:00",
+    "resume": "Une dizaine de colons ont incendié une oliveraie ; la photojournaliste américaine, qui couvrait la récolte des olives, a été rouée de coups.",
+    "pourquoi": "Les violences de colons visent désormais aussi la presse étrangère."
    },
    {
-    "titre": "Tunnel sous la Manche : un minibus percuté par un train de fret",
-    "lien": "https://www.lefigaro.fr/faits-divers/tunnel-sous-la-manche-un-bus-percute-un-train-au-moins-19-blesses-20261015",
-    "source": "Le Figaro",
-    "date": "2026-10-15T23:25:41+02:00",
-    "resume": "Le minibus s'est couché sur le flanc sur un passage à niveau à l'entrée du tunnel avant d'être percuté. Au moins 19 personnes sont blessées.",
-    "pourquoi": "Un accident rare sur un axe majeur."
+    "titre": "Soudan : 30 morts dans une frappe de drone sur un marché du Darfour",
+    "lien": "https://www.la-croix.com/international/soudan-30-morts-apres-une-frappe-de-drone-sur-un-marche-au-darfour-20261016",
+    "source": "La Croix",
+    "date": "2026-10-16T21:12:06+02:00",
+    "resume": "La frappe sur un marché de Nyala a aussi fait 47 blessés. Les paramilitaires, qui contrôlent la ville, accusent l'armée.",
+    "pourquoi": "Les civils restent les premières victimes de la guerre."
+   },
+   {
+    "titre": "Brésil : la déforestation en Amazonie au plus bas depuis 1988",
+    "lien": "https://www.la-croix.com/planete/au-bresil-la-deforestation-en-amazonie-est-au-plus-bas-depuis-pres-de-40-ans-20261016",
+    "source": "La Croix",
+    "date": "2026-10-16T21:24:40+02:00",
+    "resume": "Le gouvernement Lula a présenté des chiffres historiques, les plus faibles depuis le début des relevés.",
+    "pourquoi": "Un argument de poids pour Lula, en pleine présidentielle."
    }
   ],
   "ia": [
    {
-    "titre": "Anthropic annonce 16,8 milliards de dollars de revenus au troisième trimestre",
-    "lien": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQMEktQ1JETzVLVk1BOVRrOU1BQUZwZWxqZmxEejZDdGNjX2NyZGY0VVpvcUZUTUdrcF9BVTNnM1o2U201OVpob1lkUmN6eVV3TUxzM2tCZUJBdllKeTlTRXlpaElUYlE2VGtkNkNzQ3d5RGt4MzNxMlAwXzlnYnBrN0hHdmNBY0R3T0k4dDQ4SjJpWmx0QWVJdGF5THY?oc=5",
-    "source": "Quartz",
-    "date": "2026-10-16T03:06:12+02:00",
-    "resume": "Selon Quartz, Anthropic a communiqué ce chiffre à ses investisseurs, en amont d'une possible introduction en Bourse.",
-    "pourquoi": "La croissance des laboratoires d'IA atteint des niveaux inédits."
+    "titre": "Anthropic présente son propre projet de loi sur la sécurité de l'IA",
+    "lien": "https://news.google.com/rss/articles/CBMiowJBVV95cUxQVmtrQTQtRE5fTHRleXdTUklLc2NFNk9YYjJPMmZSWkY0TnhGRzI0Z3o0MXEzeXNJM1hGTVVQOEMwaVctN3NzNXYyb3Z3QzdXelJGcmNQdTJ3T21KcjZvTmQzWjVqTDg5S1Z5ZXlRLVNST194dnFjcDhYS3BMcjNTdEw4Y0o3LWQtaU1ud0Fld2pRbmNvR25Dckl5ekVHOFVyY0JvSV9VbVU3Y040QjNXWVZUYWJxZ05aQ0FUT09tcVNsMVBGM19BdWlTT0xHa0pqdFpJSk9GZHVIV1dZTmFpVkVUczFjYkFOd1dOSHNoSF95dnk5U2FJRkxKMVVTVHItNUpCT2tXNlZzVk93R2pZMHNUdklsbjBCRElSTkhkaUFoRlXSAaMCQVVfeXFMUFZra0E0LUROX0x0ZXl3U1JJS3NjRTZPWGIyTzJmUlpGNE54RkcyNGd6NDFxM3lzSTNYRk1VUDhDMGlXLTdzczV2Mm92d0M3V3pSRnJjUHUyd09tSnI2b05kM1o1akw4OUtWeWV5US1TUk9feHZxY3A4WEtwTHIzU3RMOGNKNy1kLWlNbndBZXdqUW5jb0duQ3JJeXpFRzhVcmNCb0lfVW1VN2NONEIzV1lWVGFicWdOWkNBVE9PbXFTbDFQRjNfQXVpU09MR2tKanRaSUpPRmR1SFdXWU5haVZFVHMxY2JBTndXTkhzaEhfeXZ5OVNhSUZMSjFVU1RyLTVKQk9rVzZWc1ZPd0dqWTBzVHZJbG4wQkRJUk5IZGlBaEZV?oc=5",
+    "source": "Boursorama",
+    "date": "2026-10-17T01:16:40+02:00",
+    "resume": "Selon Politico, cité par Boursorama, Anthropic soumet discrètement aux législateurs américains un texte sur la sécurité de l'IA.",
+    "pourquoi": "Les laboratoires cherchent à écrire eux-mêmes les règles qui les encadreront."
    },
    {
-    "titre": "Anthropic ouvre ses coulisses aux chercheurs de METR",
-    "lien": "https://techcrunch.com/2026/10/15/anthropic-is-letting-metr-researchers-look-under-the-hood-with-employee-level-access/",
-    "source": "TechCrunch",
-    "date": "2026-10-15T21:14:26+02:00",
-    "resume": "Les évaluateurs de METR obtiennent un accès équivalent à celui des salariés. Ils publieront leurs propres évaluations des risques, incidents et pratiques d'Anthropic, que l'entreprise a renoncé à pouvoir bloquer.",
-    "pourquoi": "Un précédent pour l'audit externe des modèles de pointe."
-   },
-   {
-    "titre": "Meta lance Muse Spark Open, conçu pour tourner sur des Mac",
-    "lien": "https://www.theverge.com/news/1012293/meta-apple-muse-spark-open-ai-model-mlx",
+    "titre": "Les nouvelles conditions de Meta pourraient lui permettre d'entraîner son IA sur les sites d'information",
+    "lien": "https://www.theverge.com/tech/1012846/meta-business-terms-scrape-news-publishers",
     "source": "The Verge",
-    "date": "2026-10-15T20:15:36+02:00",
-    "resume": "Meta présente Muse Spark Open comme « le modèle à poids ouverts américain le plus performant à ce jour », utilisable sur deux Mac Studio M5 Ultra grâce à un partenariat avec Apple.",
-    "pourquoi": "L'IA de pointe devient exécutable en local, hors du cloud."
+    "date": "2026-10-16T16:02:40+02:00",
+    "resume": "Selon Nieman Lab, les conditions applicables au 30 octobre autoriseraient Meta à explorer les sites « associés » aux entreprises utilisant ses plateformes, dont les éditeurs de presse.",
+    "pourquoi": "Le conflit entre IA et droits des éditeurs s'étend."
    },
    {
-    "titre": "Comment l'IA a dopé la mobilisation lycéenne",
-    "lien": "https://news.google.com/rss/articles/CBMioAJBVV95cUxPMGo3T0JxM0h3MlhyaVliUzBqb2FYTm11c3JMbEpMZ1RJRERBRURaN1JxYlhlVkc1X3Q5WW9sMi1VR1VCWEx3UFhEel90MWg1WHJGX2FyWlFlNFVXVk1OMGRoTmQ5MDZLM0JEang4OUlManBvZ0IxSkhoQmxRODJtREhGc1RZUGpiazcxNVFGM01zNHE2N2lqTzRXX1NoMm5fN1RNUFFpclJoYzVISkRyY0o5S0tTeU9DeEViZkhhNlZvd3pWWEEtUzV1NUhpV1diNHUtUmdLUklwNHFCM00tRHJlTldqZ2ZfUkF3NHJ5ODh3TXY2RUg0QkczMXlfcVROYndhZV9DWkxZSVhfcUd6dloyTWpuUGNzWXlHM3RScU4?oc=5",
-    "source": "Le Parisien",
-    "date": "2026-10-16T04:16:00+02:00",
-    "resume": "Le Parisien décrit l'usage massif de l'IA par les lycéens mobilisés pour organiser les blocus.",
-    "pourquoi": "Les outils d'IA deviennent des instruments d'organisation politique."
+    "titre": "L'Inde signale à son tour des agents d'IA incontrôlés",
+    "lien": "https://techcrunch.com/2026/10/16/india-becomes-the-latest-country-to-report-rogue-ai-agent-activity/",
+    "source": "TechCrunch",
+    "date": "2026-10-16T19:52:24+02:00",
+    "resume": "Les agents se sont introduits via des identifiants et paramètres de connexion exposés dans des configurations d'applications, des dépôts de code publics ou des droits cloud trop permissifs.",
+    "pourquoi": "Les agents autonomes deviennent un nouveau risque de cybersécurité."
+   },
+   {
+    "titre": "Replit cesse de travailler avec Anthropic",
+    "lien": "https://techcrunch.com/2026/10/16/replit-is-no-longer-working-with-anthropic-ceo-says/",
+    "source": "TechCrunch",
+    "date": "2026-10-16T23:22:28+02:00",
+    "resume": "Son PDG évoque plusieurs raisons, dont le coût. Replit avait annoncé un partenariat avec OpenAI en août.",
+    "pourquoi": "La concurrence entre fournisseurs de modèles se joue aussi sur les prix."
    }
   ],
   "droit": [
    {
-    "titre": "Postes militaires fermés aux séropositifs : des associations saisissent le Conseil d'État",
-    "lien": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxNUFRZVWdaM1RDcXltdjFVc3o1YV9id3FSZS1GR0QybHQ4MzY0QjJsTmRzQ2FQbjZtdDFrRTZscWc0emFpeUpZZWtMQ0ZYRE1hNGRqc2d4SWRwNGNHeXlTQXlheHBMLWZ3eDUydDhwSUl6U2JTUDBjWWp4NjhldEw5QmVQdGk0bzZHamFOVmluTkNVNkd6UFEyM2ktZzBvdVpPWTFzSWt6dXJxMmRTM3Y1S1I4dndfMk52VElpdFVkSUhGQ21rbmdTSmZOM2o5Qk1wREtGaWZ2Z1FGOU9lUlJON2RxSzhZdFpVS3VrMHln?oc=5",
-    "source": "France 24",
-    "date": "2026-10-15T10:47:30+02:00",
-    "resume": "Des associations contestent devant le Conseil d'État l'exclusion des personnes séropositives de certains postes militaires, rapporte France 24.",
-    "libertes": "Principe d'égalité et interdiction des discriminations fondées sur l'état de santé ; égal accès aux emplois publics (art. 6 DDHC).",
-    "angle_crfpa": "Contrôle de la proportionnalité d'une restriction fondée sur l'aptitude physique : l'exclusion générale est-elle justifiée par les exigences du service au regard des traitements actuels ?"
+    "titre": "QPC : l'inéligibilité des policiers aux municipales jugée conforme",
+    "lien": "https://news.google.com/rss/articles/CBMid0FVX3lxTE53WjhiRzhSWkZkanZpRVNSdGRkVDVEYzZuT3BhQ2V2bG9UQ0tJMktyN1FDU2FiMDBGRm1NdGYtZWtuRVlteVF1YkR1bE53bTZEZm9RbWNKZmJRdE5LTDMwNGJyMWdwNmR3a0lHVUZqSTdhanlSdmdv?oc=5",
+    "source": "Conseil constitutionnel",
+    "date": "2026-10-16T10:00:19+02:00",
+    "resume": "Le Conseil constitutionnel valide le 5° de l'article L. 231 du code électoral, qui rend les fonctionnaires des corps actifs de la police nationale inéligibles pendant six mois au conseil municipal dans les communes de leur ressort. Elle ne vise pas ceux dont le ressort est national, ni les retraités.",
+    "libertes": "Droit d'éligibilité (art. 6 DDHC), concilié avec la liberté de l'électeur et l'égalité devant le suffrage.",
+    "angle_crfpa": "Contrôle restreint (« manifestement inappropriées ») et interprétation stricte des inéligibilités. Décision n° 2026-1226 QPC du 16 octobre 2026."
+   },
+   {
+    "titre": "Le Conseil d'État pose des réserves à l'interdiction des équipements de protection en manifestation",
+    "lien": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxNZUlibjJQUnZDTDh3NTdRejlaSE9wVUlvb01kVklORnk4R1h4MEJUUGF1cmF4WEVhenBMcHQ0UVdYbnlOOGl5VDJJWTNSdnlEbVRXenZqYU50aTZpMGFGN1YxTF9JelgwYmRpSzBUN3NxUHV1VkZteDFCenc0YVFDQTVsNzFoN0V3R05DdEdpUUdmNGxfd1ppVHJKd2dmellUcjhjMFlvTXZMLVlfSzFGd2prME9SNVZhd1p6WDlXV2tFT3RFMklpNGxMMnVDdERyejRaR2VxNXFJdHJKTE5NRmRQRzZXQk8wZml3?oc=5",
+    "source": "Actu-Juridique",
+    "date": "2026-10-16T11:30:00+02:00",
+    "resume": "Saisi en référé par la LDH et le Syndicat des avocats de France contre un arrêté de la préfète de l'Hérault interdisant casques, masques ou lunettes près des lycées, le Conseil d'État assortit la mesure de réserves, selon Actu-Juridique. Le 9 octobre, il avait jugé qu'un arrêté parisien limité à deux jours ne portait pas atteinte par lui-même à la liberté de manifester.",
+    "libertes": "Liberté de manifestation, de réunion et d'aller et venir.",
+    "angle_crfpa": "Référé-liberté (art. L. 521-2 CJA) et contrôle de proportionnalité des mesures de police : durée, périmètre et nécessité."
+   },
+   {
+    "titre": "Validation de la « clause de sauvegarde » des laboratoires : le Conseil constitutionnel l'admet",
+    "lien": "https://www.conseil-constitutionnel.fr/decision/2026/20261225QPC.htm",
+    "source": "Conseil constitutionnel",
+    "date": "2026-10-16",
+    "resume": "Le Conseil juge que l'assiette de la contribution intégrait à tort des remises commerciales, contraires à la prise en compte des facultés contributives. Il valide pourtant la loi qui confirme les montants 2021-2024, eu égard à un risque financier d'au moins 600 millions d'euros.",
+    "libertes": "Garantie des droits (art. 16 DDHC) et égalité devant les charges publiques (art. 13 DDHC).",
+    "angle_crfpa": "Une validation peut couvrir une assiette partiellement inconstitutionnelle si la conciliation n'est pas manifestement déséquilibrée. Décision n° 2026-1225 QPC du 16 octobre 2026."
    }
   ]
  },
  "notion": {
-  "titre": "L'égal accès aux emplois publics",
-  "texte": "« Tous les citoyens étant égaux à ses yeux sont également admissibles à toutes dignités, places et emplois publics, selon leur capacité, et sans autre distinction que celle de leurs vertus et de leurs talents. » Le juge admet des conditions d'aptitude, mais seulement si elles sont justifiées par les exigences de l'emploi.",
-  "reference": "Déclaration des droits de l'homme et du citoyen de 1789, art. 6"
+  "titre": "Les lois de validation",
+  "texte": "Le législateur peut valider rétroactivement un acte dont la légalité est contestée, mais sans empiéter sur les fonctions du juge : il doit respecter les décisions passées en force de chose jugée et poursuivre un motif impérieux d'intérêt général. Le Conseil vient d'appliquer ce contrôle à la « clause de sauvegarde » des laboratoires pharmaceutiques (2026-1225 QPC du 16 octobre 2026).",
+  "reference": "Cons. const., 22 juillet 1980, n° 80-119 DC, Validation d'actes administratifs"
  }
 }
