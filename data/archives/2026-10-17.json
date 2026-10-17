@@ -1,6 +1,6 @@
 {
  "date": "2026-10-17",
- "genere": "2026-10-17T07:03+02:00",
+ "genere": "2026-10-17T07:06+02:00",
  "journaux": [
   {
    "id": "figaro",
@@ -261,7 +261,7 @@
      "source": "lemonde.fr",
      "image": "https://img.lemde.fr/2026/10/16/85/0/1024/512/644/322/60/0/700c42d_ftp-1-i1t9fuqub1x7-afp-d3j63n7-1024.jpg",
      "reprises": 11,
-     "score": 35.37
+     "score": 35.31
     },
     {
      "titre": "EN DIRECT, guerre en Ukraine : Emmanuel Macron critique l’accord entre Moscou et Washington sur le diesel russe, le qualifiant de mesure « inappropriée, inefficace »",
@@ -271,7 +271,7 @@
      "source": "lemonde.fr",
      "image": "https://img.lemde.fr/2026/10/16/118/0/5000/2500/644/322/60/0/13f25af_ftp-1-dyaraubxyu29-2026-10-16t172955z-1471415968-rc2h4oarl7t5-rtrmadp-3-eu-summit.JPG",
      "reprises": 8,
-     "score": 23.7
+     "score": 23.46
     },
     {
      "titre": "Cisjordanie occupée : une journaliste du Washington Post rouée de coups par des colons israéliens",
@@ -281,7 +281,7 @@
      "source": "© Ahmad Gharabli, AFP",
      "image": "https://s.france24.com/media/display/03083cb6-c96d-11f1-8513-4dd8ac2cf3bf/w:1024/p:16x9/000-D3GA69H.jpg",
      "reprises": 4,
-     "score": 9.77
+     "score": 9.75
     },
     {
      "titre": "Fusillade dans l’Oregon : l’auteur présumé de la tuerie dans une école primaire y avait été élève en classe spécialisée",
@@ -291,7 +291,7 @@
      "source": "lemonde.fr",
      "image": "https://img.lemde.fr/2026/10/16/85/0/1024/512/644/322/60/0/e341a1e_ftp-1-ijmuibamxi0z-afp-d3fu34z-1024.jpg",
      "reprises": 2,
-     "score": 7.68
+     "score": 7.67
     },
     {
      "titre": "Tous les candidats au poste de chef de l'ONU essuient un veto lors d'un vote indicatif au Conseil de sécurité",
@@ -311,7 +311,7 @@
      "source": "france24.com",
      "image": "https://s.france24.com/media/display/860eaf22-c99b-11f1-b3f1-2d1c143cdef3/w:1024/p:16x9/capture-93b064c7.jpg",
      "reprises": 2,
-     "score": 3.6
+     "score": 3.5
     }
    ],
    "a_traduire": []
@@ -329,17 +329,7 @@
      "source": "Boursorama",
      "image": null,
      "reprises": 4,
-     "score": 8.44
-    },
-    {
-     "titre": "Anthropic présente discrètement son propre projet de loi sur la sécurité de l'IA aux législateurs, rapporte Po",
-     "lien": "https://news.google.com/rss/articles/CBMiowJBVV95cUxQVmtrQTQtRE5fTHRleXdTUklLc2NFNk9YYjJPMmZSWkY0TnhGRzI0Z3o0MXEzeXNJM1hGTVVQOEMwaVctN3NzNXYyb3Z3QzdXelJGcmNQdTJ3T21KcjZvTmQzWjVqTDg5S1Z5ZXlRLVNST194dnFjcDhYS3BMcjNTdEw4Y0o3LWQtaU1ud0Fld2pRbmNvR25Dckl5ekVHOFVyY0JvSV9VbVU3Y040QjNXWVZUYWJxZ05aQ0FUT09tcVNsMVBGM19BdWlTT0xHa0pqdFpJSk9GZHVIV1dZTmFpVkVUczFjYkFOd1dOSHNoSF95dnk5U2FJRkxKMVVTVHItNUpCT2tXNlZzVk93R2pZMHNUdklsbjBCRElSTkhkaUFoRlXSAaMCQVVfeXFMUFZra0E0LUROX0x0ZXl3U1JJS3NjRTZPWGIyTzJmUlpGNE54RkcyNGd6NDFxM3lzSTNYRk1VUDhDMGlXLTdzczV2Mm92d0M3V3pSRnJjUHUyd09tSnI2b05kM1o1akw4OUtWeWV5US1TUk9feHZxY3A4WEtwTHIzU3RMOGNKNy1kLWlNbndBZXdqUW5jb0duQ3JJeXpFRzhVcmNCb0lfVW1VN2NONEIzV1lWVGFicWdOWkNBVE9PbXFTbDFQRjNfQXVpU09MR2tKanRaSUpPRmR1SFdXWU5haVZFVHMxY2JBTndXTkhzaEhfeXZ5OVNhSUZMSjFVU1RyLTVKQk9rVzZWc1ZPd0dqWTBzVHZJbG4wQkRJUk5IZGlBaEZV?oc=5",
-     "resume": "",
-     "date": "2026-10-17T01:16:40+02:00",
-     "source": "Boursorama",
-     "image": null,
-     "reprises": 4,
-     "score": 6.92
+     "score": 8.31
     },
     {
      "titre": "Anthropic signe un contrat de location pour son premier centre de données au Canada",
@@ -349,7 +339,27 @@
      "source": "Zonebourse Suisse",
      "image": null,
      "reprises": 4,
-     "score": 6.92
+     "score": 6.91
+    },
+    {
+     "titre": "Anthropic présente discrètement son propre projet de loi sur la sécurité de l'IA aux législateurs, rapporte Po",
+     "lien": "https://news.google.com/rss/articles/CBMiowJBVV95cUxQVmtrQTQtRE5fTHRleXdTUklLc2NFNk9YYjJPMmZSWkY0TnhGRzI0Z3o0MXEzeXNJM1hGTVVQOEMwaVctN3NzNXYyb3Z3QzdXelJGcmNQdTJ3T21KcjZvTmQzWjVqTDg5S1Z5ZXlRLVNST194dnFjcDhYS3BMcjNTdEw4Y0o3LWQtaU1ud0Fld2pRbmNvR25Dckl5ekVHOFVyY0JvSV9VbVU3Y040QjNXWVZUYWJxZ05aQ0FUT09tcVNsMVBGM19BdWlTT0xHa0pqdFpJSk9GZHVIV1dZTmFpVkVUczFjYkFOd1dOSHNoSF95dnk5U2FJRkxKMVVTVHItNUpCT2tXNlZzVk93R2pZMHNUdklsbjBCRElSTkhkaUFoRlXSAaMCQVVfeXFMUFZra0E0LUROX0x0ZXl3U1JJS3NjRTZPWGIyTzJmUlpGNE54RkcyNGd6NDFxM3lzSTNYRk1VUDhDMGlXLTdzczV2Mm92d0M3V3pSRnJjUHUyd09tSnI2b05kM1o1akw4OUtWeWV5US1TUk9feHZxY3A4WEtwTHIzU3RMOGNKNy1kLWlNbndBZXdqUW5jb0duQ3JJeXpFRzhVcmNCb0lfVW1VN2NONEIzV1lWVGFicWdOWkNBVE9PbXFTbDFQRjNfQXVpU09MR2tKanRaSUpPRmR1SFdXWU5haVZFVHMxY2JBTndXTkhzaEhfeXZ5OVNhSUZMSjFVU1RyLTVKQk9rVzZWc1ZPd0dqWTBzVHZJbG4wQkRJUk5IZGlBaEZV?oc=5",
+     "resume": "",
+     "date": "2026-10-17T01:16:40+02:00",
+     "source": "Boursorama",
+     "image": null,
+     "reprises": 4,
+     "score": 6.88
+    },
+    {
+     "titre": "Huit États américains poursuivent OpenAI en justice, invoquant des dangers pour les enfants",
+     "lien": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE04ZURKUHB3N2RWdzY2TFZmNmcyRE9LdzZNcDlyNVo5bk9mUDRBOC1QRFo1c1RRbGtNd1ZseWFWS0VQUFRjWTQyenJNLTF1XzVlYUdrWFdiN1M2aWY5OWFobkJKMXJOZlU?oc=5",
+     "resume": "",
+     "date": "2026-10-17T06:28:03+02:00",
+     "source": "NHKニュース",
+     "image": null,
+     "reprises": 3,
+     "score": 5.23
     },
     {
      "titre": "La présidentielle 2027 se jouera sous haute intelligence artificielle",
@@ -360,19 +370,19 @@
      "image": null,
      "reprises": 2,
      "score": 3.39
-    },
-    {
-     "titre": "Pourquoi les chiffres d'Anthropic et OpenAI commencent à inquiéter les marchés",
-     "lien": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxPZGIwX3Q1LTdsTkh6YTNlSEZCb1hOWFRsVTZRalBJdWRZd3RZNVRnR0lTMmNSaGI3RDY0eVdKb3QyaXBTeG1Pb05YazQ1bnk1TDlIMVVsWVdCeWlWeTBkb21ObVZJMnc1d1g5b3lkQ09nV0E5WTZhSzYyd3dYZUJUME9qQWlkMkR5YzhEQ3FQYkVTSHBNZWVmZWJGYl9MR2IwTU90NXBLeU9OWk9WSVN2TnZ3cVA3bzJtNHc3eHFyXzV1VDZjSG93dzBVWTJDS2k3d251SXJKM196QUhhdW1QMA?oc=5",
-     "resume": "",
-     "date": "2026-10-16T17:26:41+02:00",
-     "source": "Les Echos",
-     "image": null,
-     "reprises": 1,
-     "score": 3.12
     }
    ],
    "a_traduire": [
+    {
+     "titre": "Anthropic quietly pitches its own AI safety bill to lawmakers, Politico reports",
+     "lien": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxOTFVZUVJueXdndXdhQWRfV0tVWW9hUExHcEV3SU9NWTNwQkR5cnZQMnRxWFI3NUhHaW5Rc3lVSlppVUFVNC1RRmtVeUxTV3JUTGYzVm9abVdXYk0wOXlqUG45X0czU0xtWHZlWXZ2YXE0WFFtRlFNX1h2eWFKUGFhOVlEOFBCb011eW94dkhqVFYydUIzR1Y4aEo0elV2RHQwN1pqRE1yT0JhMmhKekNhTWlwRVlEWFlmWVdLOGhHQ0VHUE04cl83RllkT3VqcmtwR09YX05vVWpPaDRaZXdQTw?oc=5",
+     "resume": "",
+     "date": "2026-10-17T00:30:08+02:00",
+     "source": "TradingView",
+     "image": null,
+     "reprises": 1,
+     "score": 1.49
+    },
     {
      "titre": "Replit is no longer working with Anthropic, CEO says",
      "lien": "https://techcrunch.com/2026/10/16/replit-is-no-longer-working-with-anthropic-ceo-says/",
@@ -412,16 +422,6 @@
      "image": null,
      "reprises": 1,
      "score": 1.16
-    },
-    {
-     "titre": "Elorian’s first AI model wants to reason with images, not just about them",
-     "lien": "https://techcrunch.com/2026/10/16/elorians-first-ai-model-wants-to-reason-with-images-not-just-about-them/",
-     "resume": "According to Elorian's evaluations, Glimpse outperforms even GPT-6 Astra on scientific chart reasoning and short-form video captioning, with competitive results on other visual reasoning tasks.",
-     "date": "2026-10-16T18:01:37+02:00",
-     "source": "techcrunch.com",
-     "image": null,
-     "reprises": 1,
-     "score": 1.07
     }
    ]
   },
@@ -431,15 +431,26 @@
    "sous_titre": "Libertés fondamentales, grandes juridictions, culture juridique pour le CRFPA",
    "items": [
     {
-     "titre": "France: le président du Conseil constitutionnel Richard Ferrand s'attire les foudres du RN",
-     "lien": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNblhhdEMtS1BzMVJFcmhuZFUycGFGdmQyLUVGRHFORFphTTZ6eWs2NUliWXpXakpFUWJlV3E2T1BLV2Q1NVJhMV9hY3VCRWdKZVpLeDVSUVJzUFZuckE2LV9ibUNCYTNTRzBubWRfRTBxSGtSS0FuTFp4N2Z4dTdWd21yWjVwNjBiYWZtdlFmcWNnZWg2aXMzVUN3?oc=5",
+     "titre": "Les parlementaires RN et UDR saisissent le Conseil constitutionnel pour réclamer \"la démission d'office\" de son président, Richard Ferrand",
+     "lien": "https://news.google.com/rss/articles/CBMikgJBVV95cUxOaEhmMXZHdGJNb09yMVVPdS1qUkxXb29iejkwRFZSLUtlODBad1VSTWFTZDlnNXhzelYyRXRFYU92ZEpzeGl5Mjl1cGdOcTl1aFdpcDVGZHh1R1VSanRfb0FvZzRqemxqdWJfV0ZSV2Jjb1ktZ0ptci1IZTN1VzJ6ZXRHR0dSdkxvQl96a0l2Mm5TSmRBdnlENUtCdm1PckR3U21VTE9WaHVDSllvazREeWlYLTVaLUc5aExLNUFidW5qSXNsWURpTkRKNXZrX2JJbEF0dHIwNGZ1QVd6RHdhcEpEaGl5b2d1N3JrUldUMzFLMmdmQzBfQ1Y3ZWktSGlrQzZMZ1BKb2hHNXBNU3htUE1R?oc=5",
      "resume": "",
-     "date": "2026-10-17T00:06:40+02:00",
-     "source": "Yahoo Actualités",
+     "date": "2026-10-16T13:37:25+02:00",
+     "source": "franceinfo",
      "image": null,
-     "reprises": 31,
-     "score": 86.62,
+     "reprises": 27,
+     "score": 70.88,
      "libertes": true
+    },
+    {
+     "titre": "Tennis. Moselle Open : la Cour de cassation valide définitivement la vente",
+     "lien": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNSFU3Wk1seDZudzhVUDFfSGVKbHpjMk4zMWYtLVVBSllUaWZaTjl0aE9rUlNydV9xbDRBQXdRbm1BQ2pBWlFLN0FETmp2VXl6TF95VDJJcDhGTUdvSEZnaE12cUlNZE5rN0xBQUhKZEFNZjVaQngyOGE5dExMSGk2NnkzTERuem45U1I0YWZaOWtzd0JCQ1FYR2xxOUJPYXJUaVN2RFlfeUwzVlBVcHlxQzZhWEhJaEU?oc=5",
+     "resume": "",
+     "date": "2026-10-14T12:30:00+02:00",
+     "source": "Le Republicain Lorrain",
+     "image": null,
+     "reprises": 2,
+     "score": 8.61,
+     "libertes": false
     },
     {
      "titre": "Niger : création d'un observatoire des droits de l’homme",
@@ -460,7 +471,7 @@
      "source": "Conseil constitutionnel",
      "image": null,
      "reprises": 1,
-     "score": 3.92,
+     "score": 3.82,
      "libertes": true
     },
     {
@@ -484,17 +495,6 @@
      "reprises": 1,
      "score": 1.49,
      "libertes": false
-    },
-    {
-     "titre": "FLASH : Le Conseil d’État pose des réserves à l’interdiction des équipements de sécurité en manifestation",
-     "lien": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxNZUlibjJQUnZDTDh3NTdRejlaSE9wVUlvb01kVklORnk4R1h4MEJUUGF1cmF4WEVhenBMcHQ0UVdYbnlOOGl5VDJJWTNSdnlEbVRXenZqYU50aTZpMGFGN1YxTF9JelgwYmRpSzBUN3NxUHV1VkZteDFCenc0YVFDQTVsNzFoN0V3R05DdEdpUUdmNGxfd1ppVHJKd2dmellUcjhjMFlvTXZMLVlfSzFGd2prME9SNVZhd1p6WDlXV2tFT3RFMklpNGxMMnVDdERyejRaR2VxNXFJdHJKTE5NRmRQRzZXQk8wZml3?oc=5",
-     "resume": "",
-     "date": "2026-10-16T11:30:00+02:00",
-     "source": "Actu-Juridique",
-     "image": null,
-     "reprises": 1,
-     "score": 1.44,
-     "libertes": true
     }
    ],
    "a_traduire": []
