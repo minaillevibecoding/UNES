@@ -1,6 +1,6 @@
 {
  "date": "2026-10-18",
- "genere": "2026-10-18T07:05+02:00",
+ "genere": "2026-10-18T07:06+02:00",
  "journaux": [
   {
    "id": "figaro",
@@ -261,7 +261,7 @@
      "source": "lemonde.fr",
      "image": "https://img.lemde.fr/2026/10/17/85/0/1024/512/644/322/60/0/bd686be_ftp-1-pdmmx21qu0wk-2300213132-1024.jpg",
      "reprises": 14,
-     "score": 30.05
+     "score": 30.11
     },
     {
      "titre": "Mobilisation massive en France contre la vie chère suivie de scènes de chaos",
@@ -271,7 +271,7 @@
      "source": "© AFP, Christophe Archambault",
      "image": "https://s.france24.com/media/display/fade05d4-ca34-11f1-a821-6313a763b466/w:1024/p:16x9/000-D3KU7LC.jpg",
      "reprises": 8,
-     "score": 20.9
+     "score": 20.89
     },
     {
      "titre": "En Cisjordanie occupée, des colons attaquent un convoi diplomatique européen et frappent un maire français",
@@ -281,7 +281,7 @@
      "source": "lemonde.fr",
      "image": "https://img.lemde.fr/2026/10/17/103/0/3455/1727/644/322/60/0/fd3f3fb_ftp-1-ttnrvtxvrili-2026-10-17t171942z-2076966206-rc245oaxmepl-rtrmadp-3-israel-palestinians-settlers-attack-diplomats.JPG",
      "reprises": 7,
-     "score": 15.48
+     "score": 15.38
     },
     {
      "titre": "Le pape Léon XIV, jugé « apte » à quitter l’hôpital, est de retour au Vatican, quatre jours après son opération au poumon",
@@ -291,7 +291,7 @@
      "source": "lemonde.fr",
      "image": "https://img.lemde.fr/2026/10/17/316/0/3792/1896/644/322/60/0/76b7fd7_ftp-1-1xrhsljnshdx-f04fbd2e5b7d416ca3114f5653c3db13-1-28c68cd11ed645d98cbcbace2261b78b.jpg",
      "reprises": 5,
-     "score": 11.16
+     "score": 11.09
     },
     {
      "titre": "Aux Etats-unis, dans les manifestations « No Kings », les opposants à Donald Trump entre espoir de changement et inquiétudes",
@@ -301,7 +301,7 @@
      "source": "lemonde.fr",
      "image": "https://img.lemde.fr/2026/10/18/85/0/1024/512/644/322/60/0/3f87db7_ftp-1-bak1vxxif5by-2300224891-1024.jpg",
      "reprises": 3,
-     "score": 5.37
+     "score": 5.32
     },
     {
      "titre": "En Albanie, les manifestants protestent un cinquième jour d’affilée pour exiger la démission du premier ministre",
@@ -328,8 +328,18 @@
      "date": "2026-10-17T11:12:15+02:00",
      "source": "Boursorama",
      "image": null,
-     "reprises": 4,
-     "score": 7.59
+     "reprises": 3,
+     "score": 5.93
+    },
+    {
+     "titre": "Les embauches de techniciens juniors chez Anthropic ont chuté à 9 % alors que le nombre d'agents a atteint 6 fois plus.",
+     "lien": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxQUHhNNFZiT29uSkIzcm90c3pxNlNDaDV4UWlnZHg3b3ZaYmcwTmdyNlF0cE5vbDVnQ1Vtek0yajhNN3JWcXFwV2hSdmh1dEJ5TG5VVllYVmVVTG9OV3B6UUJYeDVZYm9WeW5pOHZmN3RudXRhV3FseFE5Z1VweXBoR0RtUGdIUDRsOC0xdFNVbHpmelU5V3I5XzdkQlVNRUVBSlFuQUZFT1FRRVRZemRSeThvMmsxc2paUlVnd3h0T3FNOFI1NzhRMFNFVEVYOXVrMEp4VHIyWmEzTktwalQtYg?oc=5",
+     "resume": "",
+     "date": "2026-10-18T03:28:11+02:00",
+     "source": "FourWeekMBA",
+     "image": null,
+     "reprises": 3,
+     "score": 4.67
     },
     {
      "titre": "Un modèle pourrait être bloqué s'il risque de tuer 50 personnes: faute de loi fédérale, Anthropic propose son propre texte pour encadrer l'IA",
@@ -339,7 +349,17 @@
      "source": "BFM",
      "image": null,
      "reprises": 2,
-     "score": 4.31
+     "score": 4.26
+    },
+    {
+     "titre": "Intelligence artificielle en santé : comment bien l'utiliser ?",
+     "lien": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNclFvcjZXV1NITWJoQWNzZTkxS0lrTmVydUNsTVdYUDgwcTNaSktrMGd4NHgtRktBaE1JeG1zdkZqaEVvM0Mxb1B4UWJGd1pjQkE1QWNLNm9DUEJEUW9wOEVwbGtFa1RGZ3c5SGZBdVQxSXBvQ3MyYk83RE9sTDNLd2tmTXdMYm51RWJXOVY3LWJEU0ZKbWliTURMWlBRaHdfUE5GOUNB?oc=5",
+     "resume": "",
+     "date": "2026-10-17T15:45:00+02:00",
+     "source": "Magazine Avantages",
+     "image": null,
+     "reprises": 3,
+     "score": 4.04
     },
     {
      "titre": "IA : Anthropic préfère qu'un juge suspende un nouveau modèle considéré comme dangereux",
@@ -350,26 +370,6 @@
      "image": null,
      "reprises": 1,
      "score": 3.55
-    },
-    {
-     "titre": "Intelligence artificielle, entre progrès et vertige",
-     "lien": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOZEJ6V0ptU3VGWEpFV3V1Zk9LWVFrZVAyamZGeEpLdjgzQXFRUjNlSUJiRmk0ZFhWbGxqRjFPck1Wanl3blROajRDcG11bW9rNnBDMEJSaWZNbTZ0d1UxRzB5cXI4Ym80TURhWkVTaHRhMUJiVmVLd3JfUjNEMHQ3LUF5OUd5ek01V3c3WA?oc=5",
-     "resume": "",
-     "date": "2026-10-18T03:00:12+02:00",
-     "source": "France TV",
-     "image": null,
-     "reprises": 2,
-     "score": 3.27
-    },
-    {
-     "titre": "L’IA d’OpenAI se sert dans un portefeuille crypto, cette nouvelle affaire inquiète",
-     "lien": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOQ21LMm9EYVV6WHRQZXZycXZ4WjhRaG1WVzN6dF9nRFpyNFl2LVAzams4TFN2UTZjcnF3cHUtY0l2RkgtY084MG16M2gwSlotbE5PVmMyQXV3YUZ5RnBDWWxPT1VwSjl2UlZoU0E1RzJoV0VjRGVYblcxUUk2MzQtTTFsT19odDJxVmJNb2JBdkhLRE53bWJOUklkTmhENDY0c2tXbEM3YVlzQTNRLXVPdU5R?oc=5",
-     "resume": "",
-     "date": "2026-10-17T19:11:00+02:00",
-     "source": "PhonAndroid",
-     "image": null,
-     "reprises": 1,
-     "score": 2.75
     }
    ],
    "a_traduire": [
@@ -428,7 +428,7 @@
      "source": "franceinfo",
      "image": null,
      "reprises": 32,
-     "score": 84.34,
+     "score": 85.83,
      "libertes": true
     },
     {
@@ -439,7 +439,7 @@
      "source": "Anadolu Ajansı",
      "image": null,
      "reprises": 4,
-     "score": 5.09,
+     "score": 5.16,
      "libertes": false
     },
     {
@@ -450,7 +450,7 @@
      "source": "Conseil constitutionnel",
      "image": null,
      "reprises": 1,
-     "score": 3.52,
+     "score": 3.65,
      "libertes": true
     },
     {
