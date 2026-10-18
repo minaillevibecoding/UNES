@@ -1,162 +1,153 @@
 {
- "date": "2026-10-17",
- "edito": "Lycéens, étudiants et « gilets jaunes » manifestent ce samedi ; la préfecture de police interdit les cortèges autour de l'Élysée, de Matignon et des Champs-Élysées. Emmanuel Macron critique l'accord russo-américain sur le gazole et assure que les Européens « ne lâcheront pas l'Ukraine ». Au Conseil de sécurité, les sept candidats au poste de secrétaire général de l'ONU se sont tous heurtés à un veto.",
+ "date": "2026-10-18",
+ "edito": "Entre 550 000 et 800 000 personnes ont manifesté samedi contre la vie chère, mais la journée a tourné à l'émeute dans plusieurs villes : pillages, hôtel de ville de Limoges incendié, 1 200 interpellations selon Sébastien Lecornu. Donald Trump gèle de nouvelles sanctions contre la Russie. En Cisjordanie, des colons attaquent un convoi diplomatique européen et frappent un maire français.",
  "journaux": {
   "figaro": {
-   "resume": "Le Figaro consacre sa une à la mobilisation du 17 octobre : environ 500 actions et 90 défilés attendus, avec la crainte de casseurs. Il dresse aussi le bilan d'un mois de blocages.",
+   "resume": "Le Figaro raconte une journée de « guérilla urbaine » en marge des manifestations du 17 octobre et la condamnation unanime des violences par la classe politique.",
    "points": [
-    "Que sont devenues les figures des « gilets jaunes », huit ans après.",
-    "Les autorités redoutent un « samedi très compliqué ».",
-    "Blessés, gardes à vue, cours perdus : le bilan d'un mois de blocages.",
-    "Paris : manifestations interdites dans plusieurs secteurs stratégiques."
+    "Sébastien Lecornu annonce 1 200 interpellations.",
+    "Limoges : l'hôtel de ville « en grande partie perdu » après un incendie.",
+    "Saint-Étienne : un manifestant de 17 ans perd une main en ramassant une grenade ; l'IGPN saisie.",
+    "Une partie de la gauche met en cause la doctrine de maintien de l'ordre."
    ]
   },
   "monde": {
-   "resume": "Le Monde analyse le « divorce consommé » entre Emmanuel Macron et la jeunesse. Il revient aussi sur la cyberattaque des frigos de supermarché et le retard de la France à transposer deux directives européennes de cybersécurité.",
+   "resume": "Le Monde décrit des manifestations d'ampleur conclues dans le chaos et revient sur les exemptions de sanctions accordées par Trump à la Russie.",
    "points": [
-    "Mobilisation : les cortèges non déclarés interdits de 7 heures à 22 heures à Paris.",
-    "Katie Zacharia écartée de la Maison Blanche au bout de cinq jours.",
-    "Ukraine : Ursula von der Leyen confirme un trou de 70 milliards d'euros pour 2027.",
-    "Israël : législatives du 27 octobre sans majorité claire dans les sondages."
+    "800 000 manifestants selon les organisateurs, 550 000 selon le ministre de l'intérieur.",
+    "Trump gèle une loi sanctionnant les importateurs d'hydrocarbures russes.",
+    "Michigan : une shérif tient tête à la politique migratoire de Trump.",
+    "Une omoplate de Néandertalien perforée par un projectile de bois, il y a 75 000 ans."
    ]
   },
   "croix": {
-   "resume": "La Croix publie un entretien avec le politologue Olivier Roy sur la vague populiste et suit les conflits au Moyen-Orient, en Ukraine et au Soudan.",
+   "resume": "La Croix revient sur les émeutes et pillages qui ont suivi la mobilisation, et sur l'attaque d'un convoi diplomatique européen en Cisjordanie.",
    "points": [
-    "Darfour : une frappe de drone sur un marché de Nyala fait 30 morts.",
-    "Brésil : la déforestation en Amazonie au plus bas depuis 1988.",
-    "Poutine affirme qu'il reste à conquérir un peu plus de 10 % de la région de Donetsk.",
-    "Massy : le Centre Pompidou dévoile ses nouvelles réserves."
+    "Des cortèges « bon enfant » puis des violences d'une intensité rare.",
+    "Dans l'Ain, les anciens ronds-points des « gilets jaunes » presque déserts.",
+    "New Delhi : la moitié des électeurs menacés de radiation des listes.",
+    "« Replica », documentaire sur les compagnons virtuels en Chine, primé à Albertville."
    ]
   },
   "equipe": {
-   "resume": "L'Équipe retient la nette victoire de Toulouse au Mans (3-0) et la lourde défaite des Bleues en Nouvelle-Zélande (81-12).",
+   "resume": "L'Équipe retient la victoire du PSG à Strasbourg (3-1), assombrie par les blessures de Nuno Mendes et Akliouche, et l'enjeu du déplacement de l'OM à Angers.",
    "points": [
-    "Rugby : l'UBB tenue en échec par Gloucester (36-36).",
-    "Luis Enrique et la gestion des titulaires du PSG.",
-    "Brentford, 4e, défie Liverpool.",
-    "Montpellier : Miotti et Hastings alternent à l'ouverture."
+    "PSG : turnover en première période, renversement en seconde.",
+    "OM : chantier prioritaire sur les coups de pied arrêtés.",
+    "Teddy Thomas, 20 essais en 31 matches avec Toulouse.",
+    "OL : au moins huit changements contre Nice."
    ]
   }
  },
  "sections": {
   "monde": [
    {
-    "titre": "Mobilisation du 17 octobre : cortèges interdits dans plusieurs secteurs de Paris",
-    "lien": "https://www.lemonde.fr/societe/article/2026/10/16/mobilisation-du-17-octobre-la-prefecture-interdit-de-manifester-dans-plusieurs-secteurs-de-paris-autour-de-l-elysee-et-matignon-notamment_6795587_3224.html",
+    "titre": "17 octobre : une mobilisation massive conclue dans le chaos",
+    "lien": "https://www.lemonde.fr/societe/article/2026/10/18/mobilisation-du-17-octobre-des-manifestations-d-ampleur-conclues-dans-le-chaos_6797034_3224.html",
     "source": "Le Monde",
-    "date": "2026-10-16T18:56:28+02:00",
-    "resume": "Pour cette journée associant « gilets jaunes », étudiants et lycéens, les rassemblements non déclarés sont interdits de 7 heures à 22 heures autour de l'Élysée, de Matignon et des Champs-Élysées.",
-    "pourquoi": "Un test pour le mouvement lycéen, qui entre en vacances."
+    "date": "2026-10-18T06:20:45+02:00",
+    "resume": "Des centaines de milliers de personnes ont défilé contre la vie chère. Dans plusieurs villes, pillages et affrontements ont suivi ; la mairie de Limoges a été incendiée et un jeune de 17 ans a perdu une main à Saint-Étienne en ramassant une grenade.",
+    "pourquoi": "Le mouvement lycéen et social change de nature, et le maintien de l'ordre est mis en cause."
    },
    {
-    "titre": "Macron critique l'accord russo-américain sur le gazole",
-    "lien": "https://www.lemonde.fr/international/live/2026/10/17/en-direct-guerre-en-ukraine-emmanuel-macron-critique-l-accord-entre-moscou-et-washington-sur-le-diesel-russe-le-qualifiant-de-mesure-inappropriee-inefficace_6791198_3210.html",
+    "titre": "Trump exempte la Russie de nouvelles sanctions",
+    "lien": "https://www.lemonde.fr/international/article/2026/10/18/trump-exempte-la-russie-de-nouvelles-sanctions-alors-que-moscou-cible-les-infrastructures-energetiques-ukrainiennes_6796993_3210.html",
     "source": "Le Monde",
-    "date": "2026-10-17T02:10:50+02:00",
-    "resume": "Le président assure que les Européens « ne lâcheront pas l'Ukraine », face à « une guerre d'agression russe ». Ursula von der Leyen confirme un besoin de financement de 70 milliards d'euros en 2027.",
-    "pourquoi": "L'Europe doit combler le retrait américain."
+    "date": "2026-10-18T06:00:22+02:00",
+    "resume": "Le président américain a gelé une loi prévoyant de lourdes sanctions contre les importateurs d'hydrocarbures russes, après l'accord sur le gazole du 11 octobre, alors que Moscou frappe les infrastructures énergétiques ukrainiennes.",
+    "pourquoi": "Washington s'éloigne encore de la ligne européenne."
    },
    {
-    "titre": "ONU : tous les candidats au secrétariat général bloqués par un veto",
-    "lien": "https://www.rfi.fr/fr/am%C3%A9riques/20261016-tous-les-candidats-au-poste-de-chef-de-l-onu-essuient-un-veto-lors-d-un-vote-au-conseil-de-s%C3%A9curit%C3%A9",
-    "source": "RFI",
-    "date": "2026-10-16T23:46:47+02:00",
-    "resume": "Lors d'un vote indicatif vendredi, chacun des sept candidats s'est vu opposer un veto par au moins un membre permanent du Conseil de sécurité.",
-    "pourquoi": "La succession d'António Guterres s'annonce bloquée."
+    "titre": "Cisjordanie : des colons attaquent un convoi diplomatique européen",
+    "lien": "https://www.lemonde.fr/international/article/2026/10/18/en-cisjordanie-des-colons-attaquent-un-convoi-diplomatique-europeen-et-frappent-un-maire-du-nord-de-la-france_6796789_3210.html",
+    "source": "Le Monde",
+    "date": "2026-10-18T03:00:50+02:00",
+    "resume": "Un maire du nord de la France a été roué de coups. Le bureau de Benyamin Nétanyahou estime que les diplomates auraient dû coordonner leur déplacement avec l'armée.",
+    "pourquoi": "Après une journaliste américaine, des diplomates européens sont visés."
    },
    {
-    "titre": "Cisjordanie : une journaliste du Washington Post frappée par des colons",
-    "lien": "https://www.france24.com/fr/moyen-orient/20261016-cisjordanie-occup%C3%A9e-colons-isra%C3%A9liens-attaquent-oliveraie-journaliste-am%C3%A9ricaine-bless%C3%A9e-agriculteurs-paslestiniens",
-    "source": "France 24",
-    "date": "2026-10-16T17:28:14+02:00",
-    "resume": "Une dizaine de colons ont incendié une oliveraie ; la photojournaliste américaine, qui couvrait la récolte des olives, a été rouée de coups.",
-    "pourquoi": "Les violences de colons visent désormais aussi la presse étrangère."
+    "titre": "Léon XIV de retour au Vatican quatre jours après son opération",
+    "lien": "https://www.lemonde.fr/international/article/2026/10/18/le-pape-leon-xiv-juge-apte-a-quitter-l-hopital-est-de-retour-au-vatican-quatre-jours-apres-son-operation-au-poumon_6796756_3210.html",
+    "source": "Le Monde",
+    "date": "2026-10-18T01:37:42+02:00",
+    "resume": "Opéré d'un nodule pulmonaire cancéreux, le pape se trouve dans un « état clinique absolument satisfaisant », selon l'un de ses médecins.",
+    "pourquoi": "Une sortie rapide qui rassure sur sa santé."
    },
    {
-    "titre": "Soudan : 30 morts dans une frappe de drone sur un marché du Darfour",
-    "lien": "https://www.la-croix.com/international/soudan-30-morts-apres-une-frappe-de-drone-sur-un-marche-au-darfour-20261016",
+    "titre": "États-Unis : nouvelle journée de manifestations « No Kings » contre Trump",
+    "lien": "https://www.lemonde.fr/international/article/2026/10/18/aux-etats-unis-dans-les-manifestations-no-kings-les-opposants-a-donald-trump-entre-espoir-de-changement-et-inquietudes_6797035_3210.html",
+    "source": "Le Monde",
+    "date": "2026-10-18T06:25:08+02:00",
+    "resume": "Le principal mouvement de contestation anti-Trump a de nouveau rassemblé dans tout le pays, à une quinzaine de jours des élections de mi-mandat.",
+    "pourquoi": "Un baromètre de la mobilisation démocrate avant les midterms."
+   },
+   {
+    "titre": "Inde : à New Delhi, la moitié des électeurs menacés de perdre leur droit de vote",
+    "lien": "https://www.la-croix.com/international/a-new-delhi-la-moitie-des-citoyens-menaces-de-perdre-leur-droit-de-vote-20261017",
     "source": "La Croix",
-    "date": "2026-10-16T21:12:06+02:00",
-    "resume": "La frappe sur un marché de Nyala a aussi fait 47 blessés. Les paramilitaires, qui contrôlent la ville, accusent l'armée.",
-    "pourquoi": "Les civils restent les premières victimes de la guerre."
-   },
-   {
-    "titre": "Brésil : la déforestation en Amazonie au plus bas depuis 1988",
-    "lien": "https://www.la-croix.com/planete/au-bresil-la-deforestation-en-amazonie-est-au-plus-bas-depuis-pres-de-40-ans-20261016",
-    "source": "La Croix",
-    "date": "2026-10-16T21:24:40+02:00",
-    "resume": "Le gouvernement Lula a présenté des chiffres historiques, les plus faibles depuis le début des relevés.",
-    "pourquoi": "Un argument de poids pour Lula, en pleine présidentielle."
+    "date": "2026-10-17T16:51:58+02:00",
+    "resume": "La mise à jour contestée des listes électorales a déjà supprimé plus de 130 millions d'inscrits dans le pays.",
+    "pourquoi": "Une atteinte massive potentielle au suffrage dans la plus grande démocratie du monde."
    }
   ],
   "ia": [
    {
-    "titre": "Anthropic présente son propre projet de loi sur la sécurité de l'IA",
-    "lien": "https://news.google.com/rss/articles/CBMiowJBVV95cUxQVmtrQTQtRE5fTHRleXdTUklLc2NFNk9YYjJPMmZSWkY0TnhGRzI0Z3o0MXEzeXNJM1hGTVVQOEMwaVctN3NzNXYyb3Z3QzdXelJGcmNQdTJ3T21KcjZvTmQzWjVqTDg5S1Z5ZXlRLVNST194dnFjcDhYS3BMcjNTdEw4Y0o3LWQtaU1ud0Fld2pRbmNvR25Dckl5ekVHOFVyY0JvSV9VbVU3Y040QjNXWVZUYWJxZ05aQ0FUT09tcVNsMVBGM19BdWlTT0xHa0pqdFpJSk9GZHVIV1dZTmFpVkVUczFjYkFOd1dOSHNoSF95dnk5U2FJRkxKMVVTVHItNUpCT2tXNlZzVk93R2pZMHNUdklsbjBCRElSTkhkaUFoRlXSAaMCQVVfeXFMUFZra0E0LUROX0x0ZXl3U1JJS3NjRTZPWGIyTzJmUlpGNE54RkcyNGd6NDFxM3lzSTNYRk1VUDhDMGlXLTdzczV2Mm92d0M3V3pSRnJjUHUyd09tSnI2b05kM1o1akw4OUtWeWV5US1TUk9feHZxY3A4WEtwTHIzU3RMOGNKNy1kLWlNbndBZXdqUW5jb0duQ3JJeXpFRzhVcmNCb0lfVW1VN2NONEIzV1lWVGFicWdOWkNBVE9PbXFTbDFQRjNfQXVpU09MR2tKanRaSUpPRmR1SFdXWU5haVZFVHMxY2JBTndXTkhzaEhfeXZ5OVNhSUZMSjFVU1RyLTVKQk9rVzZWc1ZPd0dqWTBzVHZJbG4wQkRJUk5IZGlBaEZV?oc=5",
-    "source": "Boursorama",
-    "date": "2026-10-17T01:16:40+02:00",
-    "resume": "Selon Politico, cité par Boursorama, Anthropic soumet discrètement aux législateurs américains un texte sur la sécurité de l'IA.",
-    "pourquoi": "Les laboratoires cherchent à écrire eux-mêmes les règles qui les encadreront."
+    "titre": "Anthropic propose qu'un juge puisse suspendre un modèle dangereux",
+    "lien": "https://news.google.com/rss/articles/CBMiqwJBVV95cUxOeG93cEFHWjhQUjNZNGE4Z3ZWQzU3dnBhSEtSTkowQ0R6UmNyRG9SNGRMR0NNazk5WldXbjhqd0xaWDYwY1NJaU5vUWE1Zm1oZ2NyVDFyand2V3JnUDA3ajVReWpWWm9yTmdWbFR1bFAzZk05WEpudEdRYktQQ0RDTUtXdlpfR0hMVEZTOFFVQW5fdGkzLU9WRXpIVmwwSUxJQTZ4MzVyX25ZbXRFd1ktXzVMUW5JZFhnbW9ITE1ZZGpQOVFUaU92SGdBcFZ2MTdHeWF3TFppYVRLVWJNSnhVNmtEcVhvRGlBOGZmdzFwVVFZdlhqOE03emVGUEJzSDdzQXY0ZjJsZGQ5VXA5akk4MWNPQ190dFRseE9DNTZHNjNwRzViZmJWSGNsaw?oc=5",
+    "source": "BFM",
+    "date": "2026-10-17T15:13:31+02:00",
+    "resume": "Faute de loi fédérale, Anthropic soumet son propre texte : un modèle pourrait être bloqué s'il présente un risque de faire au moins 50 morts, et un juge pourrait en suspendre le déploiement, selon BFM et La Tribune.",
+    "pourquoi": "Un laboratoire propose de confier au juge le contrôle des risques extrêmes de l'IA."
    },
    {
-    "titre": "Les nouvelles conditions de Meta pourraient lui permettre d'entraîner son IA sur les sites d'information",
-    "lien": "https://www.theverge.com/tech/1012846/meta-business-terms-scrape-news-publishers",
+    "titre": "Les sites web se ferment aux agents d'IA",
+    "lien": "https://www.theverge.com/ai-artificial-intelligence/1013195/ai-agents-blocked-web",
     "source": "The Verge",
-    "date": "2026-10-16T16:02:40+02:00",
-    "resume": "Selon Nieman Lab, les conditions applicables au 30 octobre autoriseraient Meta à explorer les sites « associés » aux entreprises utilisant ses plateformes, dont les éditeurs de presse.",
-    "pourquoi": "Le conflit entre IA et droits des éditeurs s'étend."
+    "date": "2026-10-17T15:00:00+02:00",
+    "resume": "Alors qu'OpenAI, Meta, Google et d'autres promettent des agents capables d'agir en ligne à notre place, de plus en plus de sites leur bloquent l'accès, constate The Verge.",
+    "pourquoi": "La promesse des agents se heurte aux intérêts des éditeurs de sites."
    },
    {
-    "titre": "L'Inde signale à son tour des agents d'IA incontrôlés",
-    "lien": "https://techcrunch.com/2026/10/16/india-becomes-the-latest-country-to-report-rogue-ai-agent-activity/",
-    "source": "TechCrunch",
-    "date": "2026-10-16T19:52:24+02:00",
-    "resume": "Les agents se sont introduits via des identifiants et paramètres de connexion exposés dans des configurations d'applications, des dépôts de code publics ou des droits cloud trop permissifs.",
-    "pourquoi": "Les agents autonomes deviennent un nouveau risque de cybersécurité."
+    "titre": "Jack Clark (Anthropic) : l'impact de l'IA s'accélère et pourrait doper la croissance",
+    "lien": "https://news.google.com/rss/articles/CBMiqAJBVV95cUxQQzhWRVpiRHhFQlpJMGQwV04zVnJWTklTU2FVOUJkMHZHR2R3YzQ2UFZNRVZkTVRHUFVMOGtKM2JIRWtNVFhPeWpNYkMtUHRWYlVBbFktUzBKbHBLaFBzZk1XUVNJbTZMMHQ5Z09XYmZBZWZjV21GM2tMRF83ei1OLXc2SHM5UktuY3R4Y09ha0R0QVlyZFM3RkRSSi1YUVN1a2JFR0ZxZTJ4ekpFdmlTcWRhZlBOY0pEUHBIUDJpTHZvUENFUGFxMGRRMjVLVjlRQUtpalF2SlJIVWdYeG9uX3Z0QVNsTWVPSEg3c0h0R3psc2xVSW9iNF82aWV3cWhlcjFDZWVBemRHOG5XQ09laHBfN3ZySTVjdE9SLTJ5MHdHcUF0VDlKVdIBqAJBVV95cUxQQzhWRVpiRHhFQlpJMGQwV04zVnJWTklTU2FVOUJkMHZHR2R3YzQ2UFZNRVZkTVRHUFVMOGtKM2JIRWtNVFhPeWpNYkMtUHRWYlVBbFktUzBKbHBLaFBzZk1XUVNJbTZMMHQ5Z09XYmZBZWZjV21GM2tMRF83ei1OLXc2SHM5UktuY3R4Y09ha0R0QVlyZFM3RkRSSi1YUVN1a2JFR0ZxZTJ4ekpFdmlTcWRhZlBOY0pEUHBIUDJpTHZvUENFUGFxMGRRMjVLVjlRQUtpalF2SlJIVWdYeG9uX3Z0QVNsTWVPSEg3c0h0R3psc2xVSW9iNF82aWV3cWhlcjFDZWVBemRHOG5XQ09laHBfN3ZySTVjdE9SLTJ5MHdHcUF0VDlKVQ?oc=5",
+    "source": "Boursorama",
+    "date": "2026-10-17T11:12:15+02:00",
+    "resume": "Le cofondateur d'Anthropic estime que les effets de l'IA s'accélèrent rapidement et pourraient stimuler considérablement le PIB, rapporte Boursorama.",
+    "pourquoi": "Les laboratoires défendent un scénario de croissance forte."
    },
    {
-    "titre": "Replit cesse de travailler avec Anthropic",
-    "lien": "https://techcrunch.com/2026/10/16/replit-is-no-longer-working-with-anthropic-ceo-says/",
+    "titre": "Anthropic : des effectifs moins juniors et plus de temps en réunion",
+    "lien": "https://techcrunch.com/2026/10/17/anthropic-says-its-workforce-has-become-less-junior-and-is-spending-more-time-in-meetings/",
     "source": "TechCrunch",
-    "date": "2026-10-16T23:22:28+02:00",
-    "resume": "Son PDG évoque plusieurs raisons, dont le coût. Replit avait annoncé un partenariat avec OpenAI en août.",
-    "pourquoi": "La concurrence entre fournisseurs de modèles se joue aussi sur les prix."
+    "date": "2026-10-17T22:21:19+02:00",
+    "resume": "L'entreprise indique que la composition de ses équipes et la nature du travail ont nettement changé en un an.",
+    "pourquoi": "Un premier aperçu de l'effet de l'IA sur le travail chez ceux qui la conçoivent."
    }
   ],
   "droit": [
    {
-    "titre": "QPC : l'inéligibilité des policiers aux municipales jugée conforme",
-    "lien": "https://news.google.com/rss/articles/CBMid0FVX3lxTE53WjhiRzhSWkZkanZpRVNSdGRkVDVEYzZuT3BhQ2V2bG9UQ0tJMktyN1FDU2FiMDBGRm1NdGYtZWtuRVlteVF1YkR1bE53bTZEZm9RbWNKZmJRdE5LTDMwNGJyMWdwNmR3a0lHVUZqSTdhanlSdmdv?oc=5",
-    "source": "Conseil constitutionnel",
-    "date": "2026-10-16T10:00:19+02:00",
-    "resume": "Le Conseil constitutionnel valide le 5° de l'article L. 231 du code électoral, qui rend les fonctionnaires des corps actifs de la police nationale inéligibles pendant six mois au conseil municipal dans les communes de leur ressort. Elle ne vise pas ceux dont le ressort est national, ni les retraités.",
-    "libertes": "Droit d'éligibilité (art. 6 DDHC), concilié avec la liberté de l'électeur et l'égalité devant le suffrage.",
-    "angle_crfpa": "Contrôle restreint (« manifestement inappropriées ») et interprétation stricte des inéligibilités. Décision n° 2026-1226 QPC du 16 octobre 2026."
+    "titre": "Le RN et l'UDR saisissent le Conseil constitutionnel pour demander la « démission d'office » de Richard Ferrand",
+    "lien": "https://news.google.com/rss/articles/CBMikgJBVV95cUxOaEhmMXZHdGJNb09yMVVPdS1qUkxXb29iejkwRFZSLUtlODBad1VSTWFTZDlnNXhzelYyRXRFYU92ZEpzeGl5Mjl1cGdOcTl1aFdpcDVGZHh1R1VSanRfb0FvZzRqemxqdWJfV0ZSV2Jjb1ktZ0ptci1IZTN1VzJ6ZXRHR0dSdkxvQl96a0l2Mm5TSmRBdnlENUtCdm1PckR3U21VTE9WaHVDSllvazREeWlYLTVaLUc5aExLNUFidW5qSXNsWURpTkRKNXZrX2JJbEF0dHIwNGZ1QVd6RHdhcEpEaGl5b2d1N3JrUldUMzFLMmdmQzBfQ1Y3ZWktSGlrQzZMZ1BKb2hHNXBNU3htUE1R?oc=5",
+    "source": "franceinfo",
+    "date": "2026-10-16T13:37:25+02:00",
+    "resume": "Les parlementaires RN et UDR demandent au Conseil de constater la démission d'office de son président, après ses critiques contre les projets de référendum de Marine Le Pen, rapporte franceinfo.",
+    "libertes": "Indépendance du juge constitutionnel et devoir de réserve de ses membres.",
+    "angle_crfpa": "La démission d'office d'un membre ne peut être constatée que par le Conseil lui-même, dans les cas prévus par l'ordonnance organique du 7 novembre 1958."
    },
    {
-    "titre": "Le Conseil d'État pose des réserves à l'interdiction des équipements de protection en manifestation",
-    "lien": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxNZUlibjJQUnZDTDh3NTdRejlaSE9wVUlvb01kVklORnk4R1h4MEJUUGF1cmF4WEVhenBMcHQ0UVdYbnlOOGl5VDJJWTNSdnlEbVRXenZqYU50aTZpMGFGN1YxTF9JelgwYmRpSzBUN3NxUHV1VkZteDFCenc0YVFDQTVsNzFoN0V3R05DdEdpUUdmNGxfd1ppVHJKd2dmellUcjhjMFlvTXZMLVlfSzFGd2prME9SNVZhd1p6WDlXV2tFT3RFMklpNGxMMnVDdERyejRaR2VxNXFJdHJKTE5NRmRQRzZXQk8wZml3?oc=5",
-    "source": "Actu-Juridique",
-    "date": "2026-10-16T11:30:00+02:00",
-    "resume": "Saisi en référé par la LDH et le Syndicat des avocats de France contre un arrêté de la préfète de l'Hérault interdisant casques, masques ou lunettes près des lycées, le Conseil d'État assortit la mesure de réserves, selon Actu-Juridique. Le 9 octobre, il avait jugé qu'un arrêté parisien limité à deux jours ne portait pas atteinte par lui-même à la liberté de manifester.",
-    "libertes": "Liberté de manifestation, de réunion et d'aller et venir.",
-    "angle_crfpa": "Référé-liberté (art. L. 521-2 CJA) et contrôle de proportionnalité des mesures de police : durée, périmètre et nécessité."
-   },
-   {
-    "titre": "Validation de la « clause de sauvegarde » des laboratoires : le Conseil constitutionnel l'admet",
-    "lien": "https://www.conseil-constitutionnel.fr/decision/2026/20261225QPC.htm",
-    "source": "Conseil constitutionnel",
-    "date": "2026-10-16",
-    "resume": "Le Conseil juge que l'assiette de la contribution intégrait à tort des remises commerciales, contraires à la prise en compte des facultés contributives. Il valide pourtant la loi qui confirme les montants 2021-2024, eu égard à un risque financier d'au moins 600 millions d'euros.",
-    "libertes": "Garantie des droits (art. 16 DDHC) et égalité devant les charges publiques (art. 13 DDHC).",
-    "angle_crfpa": "Une validation peut couvrir une assiette partiellement inconstitutionnelle si la conciliation n'est pas manifestement déséquilibrée. Décision n° 2026-1225 QPC du 16 octobre 2026."
+    "titre": "« Gouvernement des juges » : les menaces politiques qui pèsent sur le Conseil constitutionnel",
+    "lien": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxNbVZ4RnNqbzVoRHVyYURvUFEtZjV2c3ExZXVFMEMweS1EeEN0MjBwTEZfdUFKeDRGNFNfWTFaZ1dVSHp1T19qcFY0c0tnUTdOUGtBazI1SE1TeC03MWxCbkE4bGFIUFpNbUVTc3NuSDN0U1FjVjZzU2RDbmR4cmY5LWx6U1BhR3NiY3ZPd0JmMzlZQ25CODdSN0ppZkxrRmduRDRENTdDYkVHWGx2NHVJOVJOQVdhdU5HT19LLWdGdG5LRW5abnB2akowM0RlRXZTcTVPaWN6Tm5kUQ?oc=5",
+    "source": "The Conversation",
+    "date": "2026-10-16T14:07:26+02:00",
+    "resume": "The Conversation analyse la multiplication des attaques politiques contre le Conseil constitutionnel et leurs ressorts.",
+    "libertes": "État de droit et garantie des droits (art. 16 DDHC).",
+    "angle_crfpa": "Le grief de « gouvernement des juges » est un classique : le Conseil rappelle qu'il ne dispose pas d'un pouvoir d'appréciation identique à celui du Parlement."
    }
   ]
  },
  "notion": {
-  "titre": "Les lois de validation",
-  "texte": "Le législateur peut valider rétroactivement un acte dont la légalité est contestée, mais sans empiéter sur les fonctions du juge : il doit respecter les décisions passées en force de chose jugée et poursuivre un motif impérieux d'intérêt général. Le Conseil vient d'appliquer ce contrôle à la « clause de sauvegarde » des laboratoires pharmaceutiques (2026-1225 QPC du 16 octobre 2026).",
-  "reference": "Cons. const., 22 juillet 1980, n° 80-119 DC, Validation d'actes administratifs"
+  "titre": "Le Conseil constitutionnel n'est pas le Parlement",
+  "texte": "Saisi de la loi sur l'interruption volontaire de grossesse, le Conseil juge que l'article 61 de la Constitution « ne lui confère pas un pouvoir général d'appréciation et de décision identique à celui du Parlement ». Il refuse aussi de contrôler la conformité des lois aux traités, ce qui ouvrira la voie au contrôle de conventionnalité par les juges ordinaires.",
+  "reference": "Cons. const., 15 janvier 1975, n° 74-54 DC, Loi relative à l'interruption volontaire de la grossesse"
  }
 }
