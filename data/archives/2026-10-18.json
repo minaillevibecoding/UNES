@@ -1,0 +1,493 @@
+{
+ "date": "2026-10-18",
+ "genere": "2026-10-18T07:05+02:00",
+ "journaux": [
+  {
+   "id": "figaro",
+   "nom": "Le Figaro",
+   "couleur": "#163860",
+   "une": {
+    "fichier": "unes/figaro.jpg",
+    "date": "2026-10-17",
+    "source": "https://static.milibris.com/thumbnail/issue/d7cf315d-fab5-4cb8-8f10-387d926b57d5/front/catalog-cover-large.jpeg"
+   },
+   "articles": [
+    {
+     "titre": "EN DIRECT - Manifestations du 17 octobre : Sébastien Lecornu annonce 1 200 interpellations, 150 policiers et gendarmes blessés",
+     "lien": "https://www.lefigaro.fr/actualite-france/en-direct-gilets-jaunes-lyceens-syndicats-suivez-les-manifestations-et-les-blocages-du-17-octobre-20261017",
+     "resume": "Des «Gilets jaunes», des lycéens et des étudiants, rejoints par des organisations syndicales, ont manifesté samedi contre la vie chère, la hausse des prix des carburants et les difficultés des services publics. À Paris comme en régions, les rassemblements…",
+     "date": "2026-10-18T04:48:24+02:00",
+     "source": "",
+     "image": "https://i.f1g.fr/media/cms/3000x2000_crop/2026/10/18/e940046b820398aa3bf8676f769c85a4598c85d683b37a77ed31efd2f58348b8.jpg"
+    },
+    {
+     "titre": "Des scènes de guérilla urbaine et des pillages à la chaîne : notre récit d’une journée de violences débridées qui ont enflammé la France",
+     "lien": "https://www.lefigaro.fr/actualite-france/des-scenes-de-guerilla-urbaine-et-des-pillages-a-la-chaine-notre-recit-d-une-journee-de-violences-debridees-qui-ont-enflamme-la-france-20261017",
+     "resume": "REPORTAGE - Dès leurs prémices, les manifestations «contre la vie chère» du 17 octobre ont dégénéré, donnant lieu à des flambées de violences inédites dans de nombreuses villes françaises.",
+     "date": "2026-10-17T23:54:05+02:00",
+     "source": "",
+     "image": "https://i.f1g.fr/media/cms/3000x2001_crop/2026/10/17/dd74e48e5ab00a68c33ac70ab3630db69ab153959fe08acdc92ae023d00f7f72.jpg"
+    },
+    {
+     "titre": "«Chaos», «casseurs déterminés», «pourrissement»… La classe politique condamne la violence des manifestations mais ne s’accorde pas sur les causes",
+     "lien": "https://www.lefigaro.fr/politique/chaos-casseurs-determines-pourrissement-la-classe-politique-condamne-la-violence-des-manifestations-mais-ne-s-accorde-pas-sur-les-causes-20261017",
+     "resume": "Pour une partie de la gauche, le pourrissement de la mobilisation qui a rassemblé entre 550.000 et 800.000 personnes en France est surtout le fruit d’une «doctrine de maintien de l’ordre» violente.",
+     "date": "2026-10-17T23:51:33+02:00",
+     "source": "",
+     "image": "https://i.f1g.fr/media/cms/3000x2001_crop/2026/10/17/0129c3afb4213db889ac97498746ee1695aaf5304ca4596af1cdd274022d772d.jpg"
+    },
+    {
+     "titre": "«Il est en grande partie perdu» : les images terribles de l’incendie de l’hôtel de ville de Limoges, en marge de la manifestation du 17 octobre",
+     "lien": "https://www.lefigaro.fr/actualite-france/les-images-terribles-de-l-incendie-de-l-hotel-de-ville-de-limoges-en-marge-de-la-manifestation-du-17-octobre-20261017",
+     "resume": "Un groupe d’individus cagoulés s’est introduit dans la mairie de Limoges avant qu’un incendie ne s’y déclare.",
+     "date": "2026-10-17T22:19:26+02:00",
+     "source": "",
+     "image": "https://i.f1g.fr/media/cms/orig/2026/10/17/5b2414be75d74b447d11264b7228ed5e3eb844cf504b4d02a7ba163c0a757217.jpg"
+    },
+    {
+     "titre": "À Saint-Étienne, une enquête ouverte après qu’un jeune homme de 17 ans a perdu sa main en ramassant une grenade",
+     "lien": "https://www.lefigaro.fr/actualite-france/a-saint-etienne-un-jeune-homme-de-17-ans-perd-sa-main-en-ramassant-une-grenade-20261017",
+     "resume": "Le manifestant de 17 ans se serait saisi de l’objet lancé par les forces de l’ordre. Le modèle de la grenade n’est pas connu. Une enquête a été confiée à l’IGPN.",
+     "date": "2026-10-17T20:24:55+02:00",
+     "source": "",
+     "image": "https://i.f1g.fr/media/cms/orig/2026/10/17/bad908c132f0e047733f387e273c3127ed1467daf6d0dd5248496fad9bca4dfb.JPG"
+    },
+    {
+     "titre": "Paris, Lyon, Marseille, Limoges… : les images des scènes de violences lors des manifestations du 17 octobre",
+     "lien": "https://www.lefigaro.fr/actualite-france/paris-lyon-marseille-les-images-des-scenes-de-violences-et-de-scenes-lors-des-manifestations-du-17-octobre-20261017",
+     "resume": "Quelque 800 000 personnes ont participé aux actions et défilés partout en France, samedi, contre la «vie chère», selon plusieurs organisations associées à cette mobilisation nationale. Dans plusieurs villes, les manifestations ont vite tourné à l’émeute.",
+     "date": "2026-10-17T22:30:23+02:00",
+     "source": "",
+     "image": null
+    }
+   ],
+   "flux_utilise": "https://www.lefigaro.fr/rss/figaro_actualites.xml"
+  },
+  {
+   "id": "monde",
+   "nom": "Le Monde",
+   "couleur": "#111111",
+   "une": {
+    "fichier": "unes/monde.webp",
+    "date": "2026-10-18",
+    "source": "https://www.frontpages.com/t/2026/10/17/le-monde-2328347jq@2x.webp"
+   },
+   "articles": [
+    {
+     "titre": "Mobilisation du 17 octobre : des manifestations d’ampleur conclues dans le chaos",
+     "lien": "https://www.lemonde.fr/societe/article/2026/10/18/mobilisation-du-17-octobre-des-manifestations-d-ampleur-conclues-dans-le-chaos_6797034_3224.html",
+     "resume": "Des centaines de milliers de personnes ont manifesté samedi, 800 000 selon les organisateurs, 550 000 selon le ministre de l’intérieur, Laurent Nuñez. Dans plusieurs villes, le même schéma s’est répété : d’un côté une foule de manifestants, de l’autre des…",
+     "date": "2026-10-18T06:20:45+02:00",
+     "source": "",
+     "image": "https://img.lemde.fr/2026/10/18/18/0/3000/1500/644/322/60/0/245d294_upload-1-7pb0gadkxl2w-asurp-manif17oct-108908.jpg"
+    },
+    {
+     "titre": "Trump exempte la Russie de nouvelles sanctions, alors que Moscou cible les infrastructures énergétiques ukrainiennes",
+     "lien": "https://www.lemonde.fr/international/article/2026/10/18/trump-exempte-la-russie-de-nouvelles-sanctions-alors-que-moscou-cible-les-infrastructures-energetiques-ukrainiennes_6796993_3210.html",
+     "resume": "Le président des Etats-Unis a gelé l’application d’une loi prévoyant de lourdes sanctions contre les importateurs d’hydrocarbures russes. Après l’accord annoncé le 11 octobre pour acheter du gazole à la Russie, Donald Trump multiplie les parades pour montrer…",
+     "date": "2026-10-18T06:00:22+02:00",
+     "source": "",
+     "image": "https://img.lemde.fr/2026/10/17/85/0/1024/512/644/322/60/0/bd686be_ftp-1-pdmmx21qu0wk-2300213132-1024.jpg"
+    },
+    {
+     "titre": "Une omoplate de Néandertalien perforée par un projectile de bois découverte",
+     "lien": "https://www.lemonde.fr/sciences/article/2026/10/17/une-omoplate-de-neandertalien-perforee-par-un-projectile-de-bois-decouverte_6796409_1650684.html",
+     "resume": "Les restes d’un individu inhumé il y a 75 000 ans dans la grotte de Shanidar, dans le Kurdistan irakien, portent les traces de graves blessures, dont la dernière a été fatale.",
+     "date": "2026-10-17T17:00:07+02:00",
+     "source": "",
+     "image": "https://img.lemde.fr/2026/10/16/81/0/2346/1173/644/322/60/0/b9db82a_upload-1-zpbpfud0hncr-scapula.jpg"
+    },
+    {
+     "titre": "Dans le Michigan, une shérif contre Trump : « Dès que j’ai pris mes fonctions, nous avons arrêté toute coopération avec la police de l’immigration »",
+     "lien": "https://www.lemonde.fr/m-le-mag/article/2026/10/17/dans-le-michigan-une-sherif-contre-trump-des-que-j-ai-pris-mes-fonctions-nous-avons-arrete-toute-cooperation-avec-la-police-de-l-immigration_6796481_4500055.html",
+     "resume": "Elue en 2024, à seulement 33 ans, la shérif du comté de Washtenaw, dans le Michigan, Alyshia Dyer, a remporté une bataille décisive face à l’administration Trump et sa politique de lutte contre l’immigration illégale. Elle a défendu le droit de la police…",
+     "date": "2026-10-17T18:00:07+02:00",
+     "source": "",
+     "image": "https://img.lemde.fr/2026/10/13/748/0/7398/3699/644/322/60/0/29d09d2_upload-1-gocki0h2plbf-787-sem-sherriff-004.jpg"
+    },
+    {
+     "titre": "« La cyberattaque visant les congélateurs des supermarchés montre à quel point Internet et le monde physique sont désormais imbriqués »",
+     "lien": "https://www.lemonde.fr/idees/article/2026/10/18/la-cyberattaque-visant-les-congelateurs-des-supermarches-montre-a-quel-point-internet-et-le-monde-physique-sont-desormais-imbriques_6796994_3232.html",
+     "resume": "Les hackeurs ne s’intéressent pas qu’à nos données. Leurs actions, comme le piratage, dans la nuit du 11 au 12 octobre, de plusieurs centaines de magasins, entraînant la destruction de grandes quantités de nourriture, ont des conséquences matérielles très…",
+     "date": "2026-10-18T06:00:25+02:00",
+     "source": "",
+     "image": "https://img.lemde.fr/2026/10/17/500/0/6048/3024/644/322/60/0/3c60043_upload-1-0anpf1hu1dh8-maxnewsspecialtwo756945.jpg"
+    },
+    {
+     "titre": "Abel Ferrara : « Avant il y avait encore un business pour le cinéma. Maintenant, c’est fini, tout est entre les mains d’Amazon ou de Netflix »",
+     "lien": "https://www.lemonde.fr/cinema/article/2026/10/17/abel-ferrara-avant-il-y-avait-encore-un-business-pour-le-cinema-maintenant-c-est-fini-tout-est-entre-les-mains-d-amazon-ou-de-netflix_6796305_3476.html",
+     "resume": "A l’occasion de la sortie de ses Mémoires, le cinéaste américain revient sur une filmographie marquée par la violence, le crime et la masculinité destructrice.",
+     "date": "2026-10-17T14:00:09+02:00",
+     "source": "",
+     "image": "https://img.lemde.fr/2026/10/12/1425/0/5098/2549/644/322/60/0/c6f5dbd_upload-1-qlkcrylxk7ag-gettyimages-2284516107.jpg"
+    }
+   ],
+   "flux_utilise": "https://www.lemonde.fr/rss/une.xml"
+  },
+  {
+   "id": "croix",
+   "nom": "La Croix",
+   "couleur": "#c8102e",
+   "une": {
+    "fichier": "unes/croix.jpg",
+    "date": "2026-10-17",
+    "source": "https://img.kiosko.net/2026/10/17/fr/lacroix.750.jpg"
+   },
+   "articles": [
+    {
+     "titre": "Manifestation du 17 octobre : des scènes d’émeutes et des pillages à l’issue de la mobilisation",
+     "lien": "https://www.la-croix.com/societe/manifestation-du-17-octobre-des-scenes-d-emeutes-et-des-pillages-a-lissue-de-la-mobilisation-20261017",
+     "resume": "De Paris à Marseille, la journée de mobilisation contre la « vie chère » a réuni des centaines de milliers de personnes samedi 17 octobre mais s’est conclue par des affrontements et des scènes de chaos d’une intensité rare.",
+     "date": "2026-10-17T22:05:37+02:00",
+     "source": "",
+     "image": "https://i.la-croix.com/x/2026/10/17/2565120-des-manifestants-alimentent-un-feu-sur-la-chaussee.jpg"
+    },
+    {
+     "titre": "Manifestation du 17 octobre : retrouvez le déroulé de cette journée de mobilisation et de violence",
+     "lien": "https://www.la-croix.com/societe/manifestation-du-17-octobre-appels-corteges-suivez-la-journee-de-mobilisation-20261017",
+     "resume": "Partie des réseaux sociaux, relayée par les organisations lycéennes et étudiantes, la mobilisation a donné lieu à des manifestations bon enfant mais aussi, dans les grandes villes, à des pillages et des violences en marge des cortèges, visant notamment des…",
+     "date": "2026-10-17T20:31:22+02:00",
+     "source": "",
+     "image": "https://i.la-croix.com/x/2026/10/17/2564982-un-manifestant-jette-une-chaise-au-feu-lors-d-une-.jpg"
+    },
+    {
+     "titre": "Maman, je vis avec une IA : Replica, un film sur les « petits amis » virtuels en Chine",
+     "lien": "https://www.la-croix.com/culture/maman-je-vis-avec-une-ia-replica-un-film-sur-les-petits-amis-virtuels-en-chine-20261017",
+     "resume": "La 25e édition du Grand Bivouac à Albertville, festival du cinéma documentaire, a notamment récompensé le film Replica, un document rare sur l’usage en Chine de compagnons numériques. Le reste de la sélection a mis l’accent cette année sur des trajectoires…",
+     "date": "2026-10-17T19:30:35+02:00",
+     "source": "",
+     "image": "https://i.la-croix.com/x/2026/10/17/2565030-datacenter-extendo-a-belfort.jpg"
+    },
+    {
+     "titre": "En Cisjordanie, des colons attaquent un convoi diplomatique européen et frappent un maire français",
+     "lien": "https://www.la-croix.com/international/en-cisjordanie-des-colons-attaquent-un-convoi-diplomatique-europeen-et-frappent-un-maire-francais-20261017",
+     "resume": "Des colons israéliens ont attaqué, samedi 17 octobre, un convoi de diplomates européens qui effectuaient une visite en Cisjordanie occupée, rouant de coups un maire français.",
+     "date": "2026-10-17T17:59:55+02:00",
+     "source": "",
+     "image": "https://i.la-croix.com/x/2026/10/17/2564943-heidi-lavin-photojournaliste-americaine-pour-le-wa.jpg"
+    },
+    {
+     "titre": "À New Delhi, la moitié des citoyens menacés de perdre leur droit de vote",
+     "lien": "https://www.la-croix.com/international/a-new-delhi-la-moitie-des-citoyens-menaces-de-perdre-leur-droit-de-vote-20261017",
+     "resume": "La mise à jour controversée des registres électoraux, qui a déjà abouti à la suppression de plus de 130 millions de votants à travers le pays, se déroule en ce moment à New Delhi. En parallèle, la capitale indienne est secouée par des manifestations que le…",
+     "date": "2026-10-17T16:51:58+02:00",
+     "source": "",
+     "image": "https://i.la-croix.com/x/2026/10/17/2564866-des-membres-du-cockroach-janta-party-cjp-participe.jpg"
+    },
+    {
+     "titre": "17 octobre : sur les routes de l’Ain, des manifestants déçus, mais déterminés",
+     "lien": "https://www.la-croix.com/societe/17-octobre-sur-les-routes-de-l-ain-des-manifestants-decus-mais-determines-20261017",
+     "resume": "Rond-point, péages, … de nombreux sites anciennement occupés par les Gilets Jaunes et répertoriés comme lieux de mobilisation sur le territoire, étaient quasiment déserts ce 17 octobre. De quoi susciter la déception chez certains manifestants déterminés qui…",
+     "date": "2026-10-17T16:32:09+02:00",
+     "source": "",
+     "image": "https://i.la-croix.com/x/2026/10/17/2564881-journee-nationale-de-mobilisation-pour-denoncer-la.jpg"
+    }
+   ],
+   "flux_utilise": "https://www.la-croix.com/feeds/rss/site.xml"
+  },
+  {
+   "id": "equipe",
+   "nom": "L'Équipe",
+   "couleur": "#e2001a",
+   "une": {
+    "fichier": "unes/equipe.webp",
+    "date": "2026-10-18",
+    "source": "https://www.frontpages.com/t/2026/10/18/l-equipe-010953bg1@2x.webp"
+   },
+   "articles": [
+    {
+     "titre": "Pau, brillant en Top 14, se réjouit d'accueillir les Anglais de Leicester pour la première journée de la Coupe des champions : « C'est bien de changer de papier peint de temps en temps »",
+     "lien": "https://www.lequipe.fr/Rugby/Article/Pau-brillant-en-top-14-se-rejouit-d-accueillir-les-anglais-de-leicester-pour-la-premiere-journee-de-la-coupe-des-champions-c-est-bien-de-changer-de-papier-peint-de-temps-en-temps/1736497#at_medium=RSS_feeds",
+     "resume": "La Section paloise ouvre dimanche (14 h) sa campagne européenne en recevant les Leicester Tigers, après avoir affronté Northampton et Bristol la saison dernière. Une habitude anglaise qui oxygène et inspire des Palois portés sur le jeu offensif.",
+     "date": "2026-10-18T06:30:00+02:00",
+     "source": "",
+     "image": "https://medias.lequipe.fr/img-photo-jpg/l-arriere-palois-theo-attissogbe-est-ravi-de-retrouver-un-adversaire-anglais-en-coupe-des-champions-a-mounic-l-equipe/1500000002625480/0:0,1999:1332-828-552-75/188a0.jpg"
+    },
+    {
+     "titre": "Un large turnover pour commencer, des entrées gagnantes mais Nuno Mendes et Akliouche blessés, le plan du PSG à Strasbourg était presque parfait",
+     "lien": "https://www.lequipe.fr/Football/Article/Un-large-turnover-pour-commencer-des-entrees-gagnantes-mais-nuno-mendes-et-akliouche-blesses-le-plan-du-psg-a-strasbourg-etait-presque-parfait/1736606#at_medium=RSS_feeds",
+     "resume": "Comme prévu, le PSG a renversé Strasbourg (3-1) samedi en faisant entrer ses meilleurs arguments en deuxième période. Mais Nuno Mendes et Maghnes Akliouche sont rentrés blessés d'Alsace.",
+     "date": "2026-10-18T06:10:00+02:00",
+     "source": "",
+     "image": "https://medias.lequipe.fr/img-photo-jpg/de-gauche-a-droite-khvitcha-kvaratskhelia-ousmane-dembele-luis-enrique-et-ferran-torres-lors-de-la-victoire-du-psg-a-strasbourg-3-1-samedi-p-lahalle-l-equipe/1500000002625767/32:11,1972:1304-828-552-75/05e12.jpg"
+    },
+    {
+     "titre": "L'OM a besoin d'une série pour éviter un mauvais film lors de son déplacement à Angers",
+     "lien": "https://www.lequipe.fr/Football/Article/En-deplacement-a-angers-en-ligue-1-l-om-a-besoin-d-une-serie-pour-eviter-un-mauvais-film/1736592#at_medium=RSS_feeds",
+     "resume": "Les Marseillais se déplacent à Angers, ce dimanche après-midi (15 heures) pour le compte de la 7e journée de Ligue 1, avec l'espoir de confirmer la victoire à Troyes, la semaine dernière. Un deuxième succès d'affilée qui serait une première cette saison.",
+     "date": "2026-10-18T06:05:00+02:00",
+     "source": "",
+     "image": "https://medias.lequipe.fr/img-photo-jpg/amine-harit-au-centre-buteur-a-troyes-dimanche-dernier-et-ses-coequipiers-viseront-un-deuxieme-succes-d-affilee-en-ligue-1-a-angers-ce-dimanche-f-faugere-l-equipe/1500000002625737/255:173,1980:1323-828-552-75/85df0.jpg"
+    },
+    {
+     "titre": "« Beaucoup de choses à corriger » : dominé sur coups de pied arrêtés, l'OM veut rendre les coups",
+     "lien": "https://www.lequipe.fr/Football/Article/-beaucoup-de-choses-a-corriger-domine-sur-coups-de-pied-arretes-l-om-veut-rendre-les-coups/1736583#at_medium=RSS_feeds",
+     "resume": "La troupe de Bruno Genesio est en difficulté sur les phases arrêtées, défensives comme offensives, et le staff olympien en a fait un chantier prioritaire avant le déplacement à Angers dimanche (15 heures).",
+     "date": "2026-10-18T06:00:00+02:00",
+     "source": "",
+     "image": "https://medias.lequipe.fr/img-photo-jpg/battu-sur-un-corner-jeudi-en-ligue-europa-contre-l-olympiakos-0-1-l-om-est-en-difficulte-sur-les-phases-arretees-a-reau-l-equipe/1500000002625715/70:230,1558:1222-828-552-75/22bd2.jpg"
+    },
+    {
+     "titre": "Toulousain depuis l'été 2025, l'ailier Teddy Thomas, titulaire face à Exeter, a retrouvé toute son efficacité offensive : « Ici, je m'éclate vraiment »",
+     "lien": "https://www.lequipe.fr/Rugby/Article/Toulousain-depuis-l-ete-2025-l-ailier-teddy-thomas-qui-va-commencer-le-match-face-a-exeter-a-retrouve-toute-son-efficacite-offensive-ici-je-m-eclate-vraiment/1736529#at_medium=RSS_feeds",
+     "resume": "À 33 ans, Teddy Thomas semble vivre les meilleures années de sa vie de rugbyman au Stade Toulousain. L'ailier international, qui a déjà planté 20 essais en 31 matches sous le maillot rouge et noir, sera encore titulaire face à Exeter, ce dimanche après-midi…",
+     "date": "2026-10-18T05:55:00+02:00",
+     "source": "",
+     "image": "https://medias.lequipe.fr/img-photo-jpg/teddy-thomas-apporte-toutes-ses-qualites-de-finisseur-au-stade-toulousain-f-faugere-l-equipe/1500000002625543/80:149,1857:1333-828-552-75/4a0cc.jpg"
+    },
+    {
+     "titre": "Vive le turnover à l'OL : pour la réception de Nice, Paulo Fonseca devrait effectuer au moins huit changements par rapport au match de Ligue Europa",
+     "lien": "https://www.lequipe.fr/Football/Article/Vive-le-turnover-pour-la-reception-de-nice-paulo-fonseca-le-coach-de-l-ol-devrait-effectuer-au-moins-huit-changements-par-rapport-a-jeudi-en-ligue-europa/1736550#at_medium=RSS_feeds",
+     "resume": "Pour la troisième fois de la saison, Paulo Fonseca, l'entraîneur de l'OL, va chambouler son onze de départ avec au moins huit changements, pour la venue de Nice (dimanche, 20 h 45). Afin de gagner en fraîcheur mais aussi pour concerner tout son effectif.",
+     "date": "2026-10-18T05:50:00+02:00",
+     "source": "",
+     "image": "https://medias.lequipe.fr/img-photo-jpg/contre-anderlecht-le-16-septembre-a-bruxelles-victoire-de-l-ol-2-1-paulo-fonseca-avait-titularise-remy-descamps-dans-le-but-et-mads-bistrup-au-milieu-de-terrain-a-gauche-franck-faugere-l-equipe/1500000002625596/66:412,1511:1376-828-552-75/df773.jpg"
+    }
+   ],
+   "flux_utilise": "https://dwh.lequipe.fr/api/edito/rss?path=/"
+  }
+ ],
+ "sections": [
+  {
+   "id": "monde",
+   "titre": "Actualité principale",
+   "sous_titre": "Les informations les plus importantes, partout dans le monde",
+   "items": [
+    {
+     "titre": "Trump exempte la Russie de nouvelles sanctions, alors que Moscou cible les infrastructures énergétiques ukrainiennes",
+     "lien": "https://www.lemonde.fr/international/article/2026/10/18/trump-exempte-la-russie-de-nouvelles-sanctions-alors-que-moscou-cible-les-infrastructures-energetiques-ukrainiennes_6796993_3210.html",
+     "resume": "Le président des Etats-Unis a gelé l’application d’une loi prévoyant de lourdes sanctions contre les importateurs d’hydrocarbures russes. Après l’accord annoncé le 11 octobre pour acheter du gazole à la Russie, Donald Trump multiplie les parades pour montrer…",
+     "date": "2026-10-18T06:00:22+02:00",
+     "source": "lemonde.fr",
+     "image": "https://img.lemde.fr/2026/10/17/85/0/1024/512/644/322/60/0/bd686be_ftp-1-pdmmx21qu0wk-2300213132-1024.jpg",
+     "reprises": 14,
+     "score": 30.05
+    },
+    {
+     "titre": "Mobilisation massive en France contre la vie chère suivie de scènes de chaos",
+     "lien": "https://www.france24.com/fr/france/20261017-affrontements-incendies-sc%C3%A8nes-de-chaos-%C3%A0-l-issue-des-manifestations-contre-la-vie-ch%C3%A8re-macron-melenchon-paris",
+     "resume": "Entre 550 000 et 800 000 personnes ont manifesté samedi en France contre la vie chère, selon la police et les organisateurs. Mais la mobilisation a été marquée par des violences, des pillages et des dégradations dans plusieurs villes. L'exécutif dénonce des…",
+     "date": "2026-10-17T22:29:14+02:00",
+     "source": "© AFP, Christophe Archambault",
+     "image": "https://s.france24.com/media/display/fade05d4-ca34-11f1-a821-6313a763b466/w:1024/p:16x9/000-D3KU7LC.jpg",
+     "reprises": 8,
+     "score": 20.9
+    },
+    {
+     "titre": "En Cisjordanie occupée, des colons attaquent un convoi diplomatique européen et frappent un maire français",
+     "lien": "https://www.lemonde.fr/international/article/2026/10/18/en-cisjordanie-des-colons-attaquent-un-convoi-diplomatique-europeen-et-frappent-un-maire-du-nord-de-la-france_6796789_3210.html",
+     "resume": "Le bureau du premier ministre israélien, Benyamin Nétanyahou, a affirmé que les diplomates auraient dû coordonner leurs déplacements avec l’armée de l’Etat hébreu. Il a aussi mis en avant le fait que l’édile du nord de la France roué de coups, Bernard…",
+     "date": "2026-10-18T03:00:50+02:00",
+     "source": "lemonde.fr",
+     "image": "https://img.lemde.fr/2026/10/17/103/0/3455/1727/644/322/60/0/fd3f3fb_ftp-1-ttnrvtxvrili-2026-10-17t171942z-2076966206-rc245oaxmepl-rtrmadp-3-israel-palestinians-settlers-attack-diplomats.JPG",
+     "reprises": 7,
+     "score": 15.48
+    },
+    {
+     "titre": "Le pape Léon XIV, jugé « apte » à quitter l’hôpital, est de retour au Vatican, quatre jours après son opération au poumon",
+     "lien": "https://www.lemonde.fr/international/article/2026/10/18/le-pape-leon-xiv-juge-apte-a-quitter-l-hopital-est-de-retour-au-vatican-quatre-jours-apres-son-operation-au-poumon_6796756_3210.html",
+     "resume": "Après avoir été opéré d’un nodule pulmonaire cancéreux à la polyclinique Gemelli de Rome, le souverain pontife de 71 ans se trouve dans un « état clinique absolument satisfaisant », a affirmé l’un de ses médecins.",
+     "date": "2026-10-18T01:37:42+02:00",
+     "source": "lemonde.fr",
+     "image": "https://img.lemde.fr/2026/10/17/316/0/3792/1896/644/322/60/0/76b7fd7_ftp-1-1xrhsljnshdx-f04fbd2e5b7d416ca3114f5653c3db13-1-28c68cd11ed645d98cbcbace2261b78b.jpg",
+     "reprises": 5,
+     "score": 11.16
+    },
+    {
+     "titre": "Aux Etats-unis, dans les manifestations « No Kings », les opposants à Donald Trump entre espoir de changement et inquiétudes",
+     "lien": "https://www.lemonde.fr/international/article/2026/10/18/aux-etats-unis-dans-les-manifestations-no-kings-les-opposants-a-donald-trump-entre-espoir-de-changement-et-inquietudes_6797035_3210.html",
+     "resume": "Les défilés « No Kings », le principal mouvement de contestation anti-Trump, ont à nouveau rassemblé, samedi, à travers tout le pays. Une mobilisation matinée d’appréhensions, à une quinzaine de jours du scrutin crucial des Midterms.",
+     "date": "2026-10-18T06:25:08+02:00",
+     "source": "lemonde.fr",
+     "image": "https://img.lemde.fr/2026/10/18/85/0/1024/512/644/322/60/0/3f87db7_ftp-1-bak1vxxif5by-2300224891-1024.jpg",
+     "reprises": 3,
+     "score": 5.37
+    },
+    {
+     "titre": "En Albanie, les manifestants protestent un cinquième jour d’affilée pour exiger la démission du premier ministre",
+     "lien": "https://www.lemonde.fr/international/article/2026/10/17/en-albanie-les-manifestants-protestent-un-cinquieme-jour-d-affilee-pour-exiger-la-demission-du-premier-ministre_6796552_3210.html",
+     "resume": "Quelques centaines de personnes, certaines masquées, se sont rassemblées samedi, vers midi, devant le ministère de l’éducation et les actions de protestation se sont ensuite étendues à l’ensemble de la capitale.",
+     "date": "2026-10-17T19:28:54+02:00",
+     "source": "lemonde.fr",
+     "image": "https://img.lemde.fr/2026/10/17/85/0/1024/512/644/322/60/0/46d7eef_ftp-1-aa9sfmyjbdwl-afp-d3lb6jx-1024.jpg",
+     "reprises": 3,
+     "score": 4.62
+    }
+   ],
+   "a_traduire": []
+  },
+  {
+   "id": "ia",
+   "titre": "Intelligence artificielle",
+   "sous_titre": "Modèles, entreprises, régulation, recherche",
+   "items": [
+    {
+     "titre": "Selon M. Clark, d'Anthropic, l'impact de l'IA s'accélère rapidement et pourrait considérablement stimuler le P",
+     "lien": "https://news.google.com/rss/articles/CBMiqAJBVV95cUxQQzhWRVpiRHhFQlpJMGQwV04zVnJWTklTU2FVOUJkMHZHR2R3YzQ2UFZNRVZkTVRHUFVMOGtKM2JIRWtNVFhPeWpNYkMtUHRWYlVBbFktUzBKbHBLaFBzZk1XUVNJbTZMMHQ5Z09XYmZBZWZjV21GM2tMRF83ei1OLXc2SHM5UktuY3R4Y09ha0R0QVlyZFM3RkRSSi1YUVN1a2JFR0ZxZTJ4ekpFdmlTcWRhZlBOY0pEUHBIUDJpTHZvUENFUGFxMGRRMjVLVjlRQUtpalF2SlJIVWdYeG9uX3Z0QVNsTWVPSEg3c0h0R3psc2xVSW9iNF82aWV3cWhlcjFDZWVBemRHOG5XQ09laHBfN3ZySTVjdE9SLTJ5MHdHcUF0VDlKVdIBqAJBVV95cUxQQzhWRVpiRHhFQlpJMGQwV04zVnJWTklTU2FVOUJkMHZHR2R3YzQ2UFZNRVZkTVRHUFVMOGtKM2JIRWtNVFhPeWpNYkMtUHRWYlVBbFktUzBKbHBLaFBzZk1XUVNJbTZMMHQ5Z09XYmZBZWZjV21GM2tMRF83ei1OLXc2SHM5UktuY3R4Y09ha0R0QVlyZFM3RkRSSi1YUVN1a2JFR0ZxZTJ4ekpFdmlTcWRhZlBOY0pEUHBIUDJpTHZvUENFUGFxMGRRMjVLVjlRQUtpalF2SlJIVWdYeG9uX3Z0QVNsTWVPSEg3c0h0R3psc2xVSW9iNF82aWV3cWhlcjFDZWVBemRHOG5XQ09laHBfN3ZySTVjdE9SLTJ5MHdHcUF0VDlKVQ?oc=5",
+     "resume": "",
+     "date": "2026-10-17T11:12:15+02:00",
+     "source": "Boursorama",
+     "image": null,
+     "reprises": 4,
+     "score": 7.59
+    },
+    {
+     "titre": "Un modèle pourrait être bloqué s'il risque de tuer 50 personnes: faute de loi fédérale, Anthropic propose son propre texte pour encadrer l'IA",
+     "lien": "https://news.google.com/rss/articles/CBMiqwJBVV95cUxOeG93cEFHWjhQUjNZNGE4Z3ZWQzU3dnBhSEtSTkowQ0R6UmNyRG9SNGRMR0NNazk5WldXbjhqd0xaWDYwY1NJaU5vUWE1Zm1oZ2NyVDFyand2V3JnUDA3ajVReWpWWm9yTmdWbFR1bFAzZk05WEpudEdRYktQQ0RDTUtXdlpfR0hMVEZTOFFVQW5fdGkzLU9WRXpIVmwwSUxJQTZ4MzVyX25ZbXRFd1ktXzVMUW5JZFhnbW9ITE1ZZGpQOVFUaU92SGdBcFZ2MTdHeWF3TFppYVRLVWJNSnhVNmtEcVhvRGlBOGZmdzFwVVFZdlhqOE03emVGUEJzSDdzQXY0ZjJsZGQ5VXA5akk4MWNPQ190dFRseE9DNTZHNjNwRzViZmJWSGNsaw?oc=5",
+     "resume": "",
+     "date": "2026-10-17T15:13:31+02:00",
+     "source": "BFM",
+     "image": null,
+     "reprises": 2,
+     "score": 4.31
+    },
+    {
+     "titre": "IA : Anthropic préfère qu'un juge suspende un nouveau modèle considéré comme dangereux",
+     "lien": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxOaEl3ZUZQcHBrTS0tVmZOMWU3UlV6LW1Ua1BpUFlmNTZyakM4dXBUQVBrTEl5OHBJZzZ4MnNsVnQwWXpuVFlxZ0RVQzE5R3lObjE3YjhpTmVwVTNWSVB1Y0dIVnIyUEk1ajNHWUlyQ2NZOFRjckx0S1hIZEQwM1pKbzgwLUlUdGJFYlRNdzA5THU1N2lZeHE4dF9QNkRaSFlNVEtBdllkODJGX0ZkNVI0dGxGNUdiY084YWg2Rno3UzNHY1FoRnVSLW1uWGQ2VFBuR3FGcg?oc=5",
+     "resume": "",
+     "date": "2026-10-17T18:33:13+02:00",
+     "source": "La Tribune",
+     "image": null,
+     "reprises": 1,
+     "score": 3.55
+    },
+    {
+     "titre": "Intelligence artificielle, entre progrès et vertige",
+     "lien": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOZEJ6V0ptU3VGWEpFV3V1Zk9LWVFrZVAyamZGeEpLdjgzQXFRUjNlSUJiRmk0ZFhWbGxqRjFPck1Wanl3blROajRDcG11bW9rNnBDMEJSaWZNbTZ0d1UxRzB5cXI4Ym80TURhWkVTaHRhMUJiVmVLd3JfUjNEMHQ3LUF5OUd5ek01V3c3WA?oc=5",
+     "resume": "",
+     "date": "2026-10-18T03:00:12+02:00",
+     "source": "France TV",
+     "image": null,
+     "reprises": 2,
+     "score": 3.27
+    },
+    {
+     "titre": "L’IA d’OpenAI se sert dans un portefeuille crypto, cette nouvelle affaire inquiète",
+     "lien": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOQ21LMm9EYVV6WHRQZXZycXZ4WjhRaG1WVzN6dF9nRFpyNFl2LVAzams4TFN2UTZjcnF3cHUtY0l2RkgtY084MG16M2gwSlotbE5PVmMyQXV3YUZ5RnBDWWxPT1VwSjl2UlZoU0E1RzJoV0VjRGVYblcxUUk2MzQtTTFsT19odDJxVmJNb2JBdkhLRE53bWJOUklkTmhENDY0c2tXbEM3YVlzQTNRLXVPdU5R?oc=5",
+     "resume": "",
+     "date": "2026-10-17T19:11:00+02:00",
+     "source": "PhonAndroid",
+     "image": null,
+     "reprises": 1,
+     "score": 2.75
+    }
+   ],
+   "a_traduire": [
+    {
+     "titre": "Anthropic says its workforce has become less junior and is spending more time in meetings",
+     "lien": "https://techcrunch.com/2026/10/17/anthropic-says-its-workforce-has-become-less-junior-and-is-spending-more-time-in-meetings/",
+     "resume": "The composition of Anthropic’s workforce and the type of work getting done have changed significantly in the past year.",
+     "date": "2026-10-17T22:21:19+02:00",
+     "source": "techcrunch.com",
+     "image": null,
+     "reprises": 1,
+     "score": 3.95
+    },
+    {
+     "titre": "Websites are closing their doors to AI agents",
+     "lien": "https://www.theverge.com/ai-artificial-intelligence/1013195/ai-agents-blocked-web",
+     "resume": "Autonomous agents are the hottest thing in AI. OpenAI, Meta, Google, Instinct, and others promise their agents can scour the internet on your behalf, doing anything from booking a dinner reservation and cleaning out your inbox to buying new shoes. But what…",
+     "date": "2026-10-17T15:00:00+02:00",
+     "source": "theverge.com",
+     "image": null,
+     "reprises": 1,
+     "score": 1.33
+    },
+    {
+     "titre": "Anthropic quietly pitches its own AI safety bill to lawmakers, Politico reports",
+     "lien": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxPVEhDTHAyeC03ak1JZU1sUmpTaHBNQmlpUlZUYnFnXzNpTUN6bEcxTURzWFlwa0VYUEE2a1UzQ0NZclZRZDRDYU9UU3FwMDQxdVFidG9udzhWVzNGOElNZXlIOWl2Z3drWHppWWNsU295NVRxR0dYNUpZNFliWlZ1Z3RZSnhUSTNyMENYOHA0cWd0SzByaDlCVHFPT3BONTJSYXlCakIyb0VaU28xdWpmWFZhYjBkZ0xCb3hTZWZsT2c3NFdwWWpsbnR3UFBoUkV3c3BaalBRY1BkcjNLVEpXUg?oc=5",
+     "resume": "",
+     "date": "2026-10-17T01:14:49+02:00",
+     "source": "TradingView",
+     "image": null,
+     "reprises": 1,
+     "score": 1.1
+    },
+    {
+     "titre": "India becomes the latest country to report rogue AI agent activity",
+     "lien": "https://techcrunch.com/2026/10/16/india-becomes-the-latest-country-to-report-rogue-ai-agent-activity/",
+     "resume": "The agents got in through credentials and connection settings left exposed in app configurations, public code repositories, and overly permissive cloud roles.",
+     "date": "2026-10-16T19:52:24+02:00",
+     "source": "techcrunch.com",
+     "image": null,
+     "reprises": 1,
+     "score": 0.78
+    }
+   ]
+  },
+  {
+   "id": "droit",
+   "titre": "Actualité juridique",
+   "sous_titre": "Libertés fondamentales, grandes juridictions, culture juridique pour le CRFPA",
+   "items": [
+    {
+     "titre": "Les parlementaires RN et UDR saisissent le Conseil constitutionnel pour réclamer \"la démission d'office\" de son président, Richard Ferrand",
+     "lien": "https://news.google.com/rss/articles/CBMikgJBVV95cUxOaEhmMXZHdGJNb09yMVVPdS1qUkxXb29iejkwRFZSLUtlODBad1VSTWFTZDlnNXhzelYyRXRFYU92ZEpzeGl5Mjl1cGdOcTl1aFdpcDVGZHh1R1VSanRfb0FvZzRqemxqdWJfV0ZSV2Jjb1ktZ0ptci1IZTN1VzJ6ZXRHR0dSdkxvQl96a0l2Mm5TSmRBdnlENUtCdm1PckR3U21VTE9WaHVDSllvazREeWlYLTVaLUc5aExLNUFidW5qSXNsWURpTkRKNXZrX2JJbEF0dHIwNGZ1QVd6RHdhcEpEaGl5b2d1N3JrUldUMzFLMmdmQzBfQ1Y3ZWktSGlrQzZMZ1BKb2hHNXBNU3htUE1R?oc=5",
+     "resume": "",
+     "date": "2026-10-16T13:37:25+02:00",
+     "source": "franceinfo",
+     "image": null,
+     "reprises": 32,
+     "score": 84.34,
+     "libertes": true
+    },
+    {
+     "titre": "Niger : création d'un observatoire des droits de l’homme",
+     "lien": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOU1ozUUxVY0M3bnh1aXpRVnFwY004NnBxRFRFS25NZWRSMWxRUFp6Yy1nMk5IeDhNNUFqVGpuVmd3RVRBTFBWbmNHTU83Nmt6ZUh0Mk9JMTd6SnB4U3I5czFFOE44Q05keHY2dldrMjFEeDB1YWdyUkNHcVdodnhfbkdKRXJKaTJiSkJjcWVEZWtjbUpiWkxkVnNlWkN1UXRW?oc=5",
+     "resume": "",
+     "date": "2026-10-15T12:15:09+02:00",
+     "source": "Anadolu Ajansı",
+     "image": null,
+     "reprises": 4,
+     "score": 5.09,
+     "libertes": false
+    },
+    {
+     "titre": "Décision n° 2026-1226 QPC du 16 octobre 2026",
+     "lien": "https://news.google.com/rss/articles/CBMid0FVX3lxTE53WjhiRzhSWkZkanZpRVNSdGRkVDVEYzZuT3BhQ2V2bG9UQ0tJMktyN1FDU2FiMDBGRm1NdGYtZWtuRVlteVF1YkR1bE53bTZEZm9RbWNKZmJRdE5LTDMwNGJyMWdwNmR3a0lHVUZqSTdhanlSdmdv?oc=5",
+     "resume": "",
+     "date": "2026-10-16T10:00:19+02:00",
+     "source": "Conseil constitutionnel",
+     "image": null,
+     "reprises": 1,
+     "score": 3.52,
+     "libertes": true
+    },
+    {
+     "titre": "La censure, c’est la liberté d’expression…",
+     "lien": "https://news.google.com/rss/articles/CBMid0FVX3lxTFA5bkIzanFzeVpBbUxEU2dJZk1neUJoR2FveEVheVVGdF9WUXV5VjhjblJFZ2ZaU3owRC14eS1zQ2ZFd0hqTkZzZ1ZscklFYTg3MFcxR1lJQVpRTXNFVVlFSXFuU3FtRmJkMkxza1hadmxfMGtiOHhn?oc=5",
+     "resume": "",
+     "date": "2026-10-15T16:41:19+02:00",
+     "source": "Causeur",
+     "image": null,
+     "reprises": 2,
+     "score": 2.4,
+     "libertes": true
+    },
+    {
+     "titre": "Poulailler à Havrenne : Rochefort s'incline, tandis que Marche-en-Famenne conteste au Conseil d'État",
+     "lien": "https://news.google.com/rss/articles/CBMihgJBVV95cUxOSzF4ZzNWa3hSeTVaY2RlLUtoTVprX0tTVnBUajVMcWp3MGRJRDBmcVJWVVhlOUk2YkxzVXhpU1c3X192OXV5RHpkWUhJT2dpMnV1dm9zSERsNkxhYVlSQXlqM25aZ0kzSVZlSW1yVTZ0LXBuNnJzUGRvQ2hjWVZHdThaWDJ5WjdSWmRENXI1d3hqX3lNNnd2WmkxaDV0ME9CbkFLSFRzelJhX0RfTktFb1RIRElUaWRxOWJRS3RnZlE0bHZYc2hWZVk2NmNUa1BWQVVodzRLQzFnN2dZOWNPdTg0VW1mZzhEc25Pd0M1RnYwYWFtb2V4Ty02SkNJWENxTGZ0VHR3?oc=5",
+     "resume": "",
+     "date": "2026-10-15T11:54:00+02:00",
+     "source": "L'Avenir",
+     "image": null,
+     "reprises": 2,
+     "score": 1.75,
+     "libertes": false
+    },
+    {
+     "titre": "Haro sur le « gouvernement des juges » : ces menaces que les politiques font peser sur le Conseil constitutionnel",
+     "lien": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxNbVZ4RnNqbzVoRHVyYURvUFEtZjV2c3ExZXVFMEMweS1EeEN0MjBwTEZfdUFKeDRGNFNfWTFaZ1dVSHp1T19qcFY0c0tnUTdOUGtBazI1SE1TeC03MWxCbkE4bGFIUFpNbUVTc3NuSDN0U1FjVjZzU2RDbmR4cmY5LWx6U1BhR3NiY3ZPd0JmMzlZQ25CODdSN0ppZkxrRmduRDRENTdDYkVHWGx2NHVJOVJOQVdhdU5HT19LLWdGdG5LRW5abnB2akowM0RlRXZTcTVPaWN6Tm5kUQ?oc=5",
+     "resume": "",
+     "date": "2026-10-16T14:07:26+02:00",
+     "source": "The Conversation",
+     "image": null,
+     "reprises": 1,
+     "score": 1.26,
+     "libertes": true
+    }
+   ],
+   "a_traduire": []
+  }
+ ]
+}
