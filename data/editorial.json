@@ -1,153 +1,136 @@
 {
- "date": "2026-10-18",
- "edito": "Entre 550 000 et 800 000 personnes ont manifesté samedi contre la vie chère, mais la journée a tourné à l'émeute dans plusieurs villes : pillages, hôtel de ville de Limoges incendié, 1 200 interpellations selon Sébastien Lecornu. Donald Trump gèle de nouvelles sanctions contre la Russie. En Cisjordanie, des colons attaquent un convoi diplomatique européen et frappent un maire français.",
+ "date": "2026-10-19",
+ "edito": "Après un week-end de violences et 2 397 interpellations, Emmanuel Macron a exprimé sa « colère » et sa « honte » et promis la « transparence » sur le maintien de l'ordre ; il a refusé la démission de Laurent Nuñez. Paris a connu une deuxième nuit de pillages. La COP17 sur la biodiversité s'ouvre à Erevan.",
  "journaux": {
   "figaro": {
-   "resume": "Le Figaro raconte une journée de « guérilla urbaine » en marge des manifestations du 17 octobre et la condamnation unanime des violences par la classe politique.",
+   "resume": "Le Figaro consacre sa une au « fiasco sécuritaire » du 17 octobre et à la démission de Laurent Nuñez, refusée par Emmanuel Macron. Paris a subi une deuxième nuit de pillages.",
    "points": [
-    "Sébastien Lecornu annonce 1 200 interpellations.",
-    "Limoges : l'hôtel de ville « en grande partie perdu » après un incendie.",
-    "Saint-Étienne : un manifestant de 17 ans perd une main en ramassant une grenade ; l'IGPN saisie.",
-    "Une partie de la gauche met en cause la doctrine de maintien de l'ordre."
+    "Nuñez maintenu au nom de la « continuité du commandement », chargé de faire la transparence sur les défaillances.",
+    "Marseille : polémique sur un dispositif de sécurité jugé sous-dimensionné.",
+    "Défaut d'anticipation et effectifs débordés : les raisons du fiasco.",
+    "La presse étrangère sidérée par « un pays plus fracturé que jamais »."
    ]
   },
   "monde": {
-   "resume": "Le Monde décrit des manifestations d'ampleur conclues dans le chaos et revient sur les exemptions de sanctions accordées par Trump à la Russie.",
+   "resume": "Le Monde décrit un président dépassé et vilipendé, et donne la parole à de jeunes manifestants qui condamnent la casse mais dénoncent la brutalité policière.",
    "points": [
-    "800 000 manifestants selon les organisateurs, 550 000 selon le ministre de l'intérieur.",
-    "Trump gèle une loi sanctionnant les importateurs d'hydrocarbures russes.",
-    "Michigan : une shérif tient tête à la politique migratoire de Trump.",
-    "Une omoplate de Néandertalien perforée par un projectile de bois, il y a 75 000 ans."
+    "Les oppositions fustigent l'allocution de Macron.",
+    "Trump et le Kremlin convergent pour y voir un « chaos migratoire ».",
+    "COP17 à Erevan : 196 délégations face à l'érosion de la biodiversité.",
+    "Aix-en-Provence : le procès d'un triple homicide lié à la montée de la DZ Mafia."
    ]
   },
   "croix": {
-   "resume": "La Croix revient sur les émeutes et pillages qui ont suivi la mobilisation, et sur l'attaque d'un convoi diplomatique européen en Cisjordanie.",
+   "resume": "La Croix fait le bilan d'un week-end de chaos et s'inquiète du décrochage des lycéens les plus fragiles après des semaines de blocages.",
    "points": [
-    "Des cortèges « bon enfant » puis des violences d'une intensité rare.",
-    "Dans l'Ain, les anciens ronds-points des « gilets jaunes » presque déserts.",
-    "New Delhi : la moitié des électeurs menacés de radiation des listes.",
-    "« Replica », documentaire sur les compagnons virtuels en Chine, primé à Albertville."
+    "2 397 interpellations après les manifestations.",
+    "Le ministère promet une évaluation des heures de cours perdues.",
+    "COP17 : bilan à mi-parcours des objectifs 2030.",
+    "Félix Lebrun champion d'Europe de tennis de table à 20 ans."
    ]
   },
   "equipe": {
-   "resume": "L'Équipe retient la victoire du PSG à Strasbourg (3-1), assombrie par les blessures de Nuno Mendes et Akliouche, et l'enjeu du déplacement de l'OM à Angers.",
+   "resume": "L'Équipe se tourne déjà vers PSG-Barça mardi en Ligue des champions et salue la victoire de Toulouse sur Exeter (43-40), malgré une heure en infériorité numérique.",
    "points": [
-    "PSG : turnover en première période, renversement en seconde.",
-    "OM : chantier prioritaire sur les coups de pied arrêtés.",
-    "Teddy Thomas, 20 essais en 31 matches avec Toulouse.",
-    "OL : au moins huit changements contre Nice."
+    "Ligue 1 : cinq leaders ce lundi matin.",
+    "Toulouse perd Chocobares et Menoncello sur blessure.",
+    "Tennis de table : bilan historique pour les Bleus à Ljubljana.",
+    "WNBA : Gabby Williams et les Valkyries mènent la finale."
    ]
   }
  },
  "sections": {
   "monde": [
    {
-    "titre": "17 octobre : une mobilisation massive conclue dans le chaos",
-    "lien": "https://www.lemonde.fr/societe/article/2026/10/18/mobilisation-du-17-octobre-des-manifestations-d-ampleur-conclues-dans-le-chaos_6797034_3224.html",
-    "source": "Le Monde",
-    "date": "2026-10-18T06:20:45+02:00",
-    "resume": "Des centaines de milliers de personnes ont défilé contre la vie chère. Dans plusieurs villes, pillages et affrontements ont suivi ; la mairie de Limoges a été incendiée et un jeune de 17 ans a perdu une main à Saint-Étienne en ramassant une grenade.",
-    "pourquoi": "Le mouvement lycéen et social change de nature, et le maintien de l'ordre est mis en cause."
+    "titre": "Violences du 17 octobre : Macron promet fermeté et « transparence »",
+    "lien": "https://www.france24.com/fr/france/20261018-col%C3%A8re-et-honte-transparence-attendue-ce-qu-il-faut-retenir-de-l-allocution-d-emmanuel-macron",
+    "source": "France 24",
+    "date": "2026-10-18T21:27:04+02:00",
+    "resume": "Le chef de l'État a fait part de sa « colère » et de sa « honte ». Laurent Nuñez lui a présenté sa démission, qu'il a refusée, en le chargeant de faire la lumière sur les défaillances d'anticipation et de renseignement.",
+    "pourquoi": "Une crise politique s'ouvre sur le maintien de l'ordre."
    },
    {
-    "titre": "Trump exempte la Russie de nouvelles sanctions",
-    "lien": "https://www.lemonde.fr/international/article/2026/10/18/trump-exempte-la-russie-de-nouvelles-sanctions-alors-que-moscou-cible-les-infrastructures-energetiques-ukrainiennes_6796993_3210.html",
-    "source": "Le Monde",
-    "date": "2026-10-18T06:00:22+02:00",
-    "resume": "Le président américain a gelé une loi prévoyant de lourdes sanctions contre les importateurs d'hydrocarbures russes, après l'accord sur le gazole du 11 octobre, alors que Moscou frappe les infrastructures énergétiques ukrainiennes.",
-    "pourquoi": "Washington s'éloigne encore de la ligne européenne."
-   },
-   {
-    "titre": "Cisjordanie : des colons attaquent un convoi diplomatique européen",
-    "lien": "https://www.lemonde.fr/international/article/2026/10/18/en-cisjordanie-des-colons-attaquent-un-convoi-diplomatique-europeen-et-frappent-un-maire-du-nord-de-la-france_6796789_3210.html",
-    "source": "Le Monde",
-    "date": "2026-10-18T03:00:50+02:00",
-    "resume": "Un maire du nord de la France a été roué de coups. Le bureau de Benyamin Nétanyahou estime que les diplomates auraient dû coordonner leur déplacement avec l'armée.",
-    "pourquoi": "Après une journaliste américaine, des diplomates européens sont visés."
-   },
-   {
-    "titre": "Léon XIV de retour au Vatican quatre jours après son opération",
-    "lien": "https://www.lemonde.fr/international/article/2026/10/18/le-pape-leon-xiv-juge-apte-a-quitter-l-hopital-est-de-retour-au-vatican-quatre-jours-apres-son-operation-au-poumon_6796756_3210.html",
-    "source": "Le Monde",
-    "date": "2026-10-18T01:37:42+02:00",
-    "resume": "Opéré d'un nodule pulmonaire cancéreux, le pape se trouve dans un « état clinique absolument satisfaisant », selon l'un de ses médecins.",
-    "pourquoi": "Une sortie rapide qui rassure sur sa santé."
-   },
-   {
-    "titre": "États-Unis : nouvelle journée de manifestations « No Kings » contre Trump",
-    "lien": "https://www.lemonde.fr/international/article/2026/10/18/aux-etats-unis-dans-les-manifestations-no-kings-les-opposants-a-donald-trump-entre-espoir-de-changement-et-inquietudes_6797035_3210.html",
-    "source": "Le Monde",
-    "date": "2026-10-18T06:25:08+02:00",
-    "resume": "Le principal mouvement de contestation anti-Trump a de nouveau rassemblé dans tout le pays, à une quinzaine de jours des élections de mi-mandat.",
-    "pourquoi": "Un baromètre de la mobilisation démocrate avant les midterms."
-   },
-   {
-    "titre": "Inde : à New Delhi, la moitié des électeurs menacés de perdre leur droit de vote",
-    "lien": "https://www.la-croix.com/international/a-new-delhi-la-moitie-des-citoyens-menaces-de-perdre-leur-droit-de-vote-20261017",
+    "titre": "Un week-end de chaos : 2 397 interpellations",
+    "lien": "https://www.la-croix.com/sous-pression-l-executif-tente-de-reprendre-la-main-apres-le-chaos-20261019",
     "source": "La Croix",
-    "date": "2026-10-17T16:51:58+02:00",
-    "resume": "La mise à jour contestée des listes électorales a déjà supprimé plus de 130 millions d'inscrits dans le pays.",
-    "pourquoi": "Une atteinte massive potentielle au suffrage dans la plus grande démocratie du monde."
+    "date": "2026-10-19T07:00:22+02:00",
+    "resume": "Paris a connu une deuxième nuit de pillages, et des tentatives d'intrusion ont eu lieu à Lyon, Marseille et près de Nantes.",
+    "pourquoi": "Les violences se prolongent au-delà de la journée de mobilisation."
+   },
+   {
+    "titre": "Trump expulse des migrants vers des pays africains, en dépit du droit international",
+    "lien": "https://www.lemonde.fr/afrique/video/2026/10/18/comment-l-administration-de-donald-trump-utilise-des-pays-africains-pour-expulser-des-migrants-en-depit-du-droit-international_6797087_3212.html",
+    "source": "Le Monde",
+    "date": "2026-10-18T18:00:02+02:00",
+    "resume": "Sur 28 000 personnes expulsées des États-Unis entre début 2025 et août 2026, plus de 500 ont été envoyées en Afrique, le plus souvent sans lien avec le pays de destination, selon le Deportation Data Project.",
+    "pourquoi": "Une pratique qui contourne le principe de non-refoulement."
+   },
+   {
+    "titre": "Ukraine : nouvelles frappes russes sur Kiev",
+    "lien": "https://www.lemonde.fr/international/live/2026/10/19/en-direct-guerre-en-ukraine-la-capitale-kiev-visee-par-de-nouvelles-frappes-russes-au-cours-de-la-nuit_6796922_3210.html",
+    "source": "Le Monde",
+    "date": "2026-10-19T06:25:00+02:00",
+    "resume": "Une femme de 21 ans a été tuée et plusieurs personnes blessées, selon le maire Vitali Klitschko.",
+    "pourquoi": "Moscou poursuit ses frappes malgré le rapprochement avec Washington."
+   },
+   {
+    "titre": "Albanie : Edi Rama exclut de démissionner après six jours de manifestations",
+    "lien": "https://www.lemonde.fr/international/article/2026/10/19/en-albanie-le-premier-ministre-exclut-toute-demission-au-sixieme-jour-de-violentes-manifestations_6797333_3210.html",
+    "source": "Le Monde",
+    "date": "2026-10-19T00:48:41+02:00",
+    "resume": "Le premier ministre dénonce « l'œuvre d'une main extérieure » ; le mouvement est marqué par des affrontements et des dégradations.",
+    "pourquoi": "Une crise politique majeure dans un pays candidat à l'UE."
+   },
+   {
+    "titre": "Biodiversité : la COP17 s'ouvre à Erevan",
+    "lien": "https://www.lemonde.fr/planete/article/2026/10/19/cop17-sur-la-biodiversite-a-erevan-les-leviers-dont-dispose-la-communaute-internationale-pour-corriger-la-trajectoire-avant-qu-il-ne-soit-trop-tard_6797481_3244.html",
+    "source": "Le Monde",
+    "date": "2026-10-19T06:00:34+02:00",
+    "resume": "Pendant deux semaines, 196 délégations évaluent les efforts, négocient les financements Nord-Sud et la place des peuples autochtones.",
+    "pourquoi": "Bilan à mi-parcours des objectifs mondiaux fixés pour 2030."
    }
   ],
   "ia": [
    {
-    "titre": "Anthropic propose qu'un juge puisse suspendre un modèle dangereux",
-    "lien": "https://news.google.com/rss/articles/CBMiqwJBVV95cUxOeG93cEFHWjhQUjNZNGE4Z3ZWQzU3dnBhSEtSTkowQ0R6UmNyRG9SNGRMR0NNazk5WldXbjhqd0xaWDYwY1NJaU5vUWE1Zm1oZ2NyVDFyand2V3JnUDA3ajVReWpWWm9yTmdWbFR1bFAzZk05WEpudEdRYktQQ0RDTUtXdlpfR0hMVEZTOFFVQW5fdGkzLU9WRXpIVmwwSUxJQTZ4MzVyX25ZbXRFd1ktXzVMUW5JZFhnbW9ITE1ZZGpQOVFUaU92SGdBcFZ2MTdHeWF3TFppYVRLVWJNSnhVNmtEcVhvRGlBOGZmdzFwVVFZdlhqOE03emVGUEJzSDdzQXY0ZjJsZGQ5VXA5akk4MWNPQ190dFRseE9DNTZHNjNwRzViZmJWSGNsaw?oc=5",
-    "source": "BFM",
-    "date": "2026-10-17T15:13:31+02:00",
-    "resume": "Faute de loi fédérale, Anthropic soumet son propre texte : un modèle pourrait être bloqué s'il présente un risque de faire au moins 50 morts, et un juge pourrait en suspendre le déploiement, selon BFM et La Tribune.",
-    "pourquoi": "Un laboratoire propose de confier au juge le contrôle des risques extrêmes de l'IA."
-   },
-   {
-    "titre": "Les sites web se ferment aux agents d'IA",
-    "lien": "https://www.theverge.com/ai-artificial-intelligence/1013195/ai-agents-blocked-web",
-    "source": "The Verge",
-    "date": "2026-10-17T15:00:00+02:00",
-    "resume": "Alors qu'OpenAI, Meta, Google et d'autres promettent des agents capables d'agir en ligne à notre place, de plus en plus de sites leur bloquent l'accès, constate The Verge.",
-    "pourquoi": "La promesse des agents se heurte aux intérêts des éditeurs de sites."
-   },
-   {
-    "titre": "Jack Clark (Anthropic) : l'impact de l'IA s'accélère et pourrait doper la croissance",
-    "lien": "https://news.google.com/rss/articles/CBMiqAJBVV95cUxQQzhWRVpiRHhFQlpJMGQwV04zVnJWTklTU2FVOUJkMHZHR2R3YzQ2UFZNRVZkTVRHUFVMOGtKM2JIRWtNVFhPeWpNYkMtUHRWYlVBbFktUzBKbHBLaFBzZk1XUVNJbTZMMHQ5Z09XYmZBZWZjV21GM2tMRF83ei1OLXc2SHM5UktuY3R4Y09ha0R0QVlyZFM3RkRSSi1YUVN1a2JFR0ZxZTJ4ekpFdmlTcWRhZlBOY0pEUHBIUDJpTHZvUENFUGFxMGRRMjVLVjlRQUtpalF2SlJIVWdYeG9uX3Z0QVNsTWVPSEg3c0h0R3psc2xVSW9iNF82aWV3cWhlcjFDZWVBemRHOG5XQ09laHBfN3ZySTVjdE9SLTJ5MHdHcUF0VDlKVdIBqAJBVV95cUxQQzhWRVpiRHhFQlpJMGQwV04zVnJWTklTU2FVOUJkMHZHR2R3YzQ2UFZNRVZkTVRHUFVMOGtKM2JIRWtNVFhPeWpNYkMtUHRWYlVBbFktUzBKbHBLaFBzZk1XUVNJbTZMMHQ5Z09XYmZBZWZjV21GM2tMRF83ei1OLXc2SHM5UktuY3R4Y09ha0R0QVlyZFM3RkRSSi1YUVN1a2JFR0ZxZTJ4ekpFdmlTcWRhZlBOY0pEUHBIUDJpTHZvUENFUGFxMGRRMjVLVjlRQUtpalF2SlJIVWdYeG9uX3Z0QVNsTWVPSEg3c0h0R3psc2xVSW9iNF82aWV3cWhlcjFDZWVBemRHOG5XQ09laHBfN3ZySTVjdE9SLTJ5MHdHcUF0VDlKVQ?oc=5",
-    "source": "Boursorama",
-    "date": "2026-10-17T11:12:15+02:00",
-    "resume": "Le cofondateur d'Anthropic estime que les effets de l'IA s'accélèrent rapidement et pourraient stimuler considérablement le PIB, rapporte Boursorama.",
-    "pourquoi": "Les laboratoires défendent un scénario de croissance forte."
-   },
-   {
-    "titre": "Anthropic : des effectifs moins juniors et plus de temps en réunion",
-    "lien": "https://techcrunch.com/2026/10/17/anthropic-says-its-workforce-has-become-less-junior-and-is-spending-more-time-in-meetings/",
+    "titre": "Anthropic consacre 5 % de son capital à un fonds d'intérêt public",
+    "lien": "https://techcrunch.com/2026/10/18/anthropic-says-its-committing-5-of-its-shares-to-a-public-benefit-fund/",
     "source": "TechCrunch",
-    "date": "2026-10-17T22:21:19+02:00",
-    "resume": "L'entreprise indique que la composition de ses équipes et la nature du travail ont nettement changé en un an.",
-    "pourquoi": "Un premier aperçu de l'effet de l'IA sur le travail chez ceux qui la conçoivent."
+    "date": "2026-10-18T22:37:40+02:00",
+    "resume": "L'entreprise annonce qu'elle engagera 5 % de ses actions dans un « fonds d'intérêt public ».",
+    "pourquoi": "Un geste de gouvernance qui intervient en amont d'une possible introduction en Bourse."
+   },
+   {
+    "titre": "Jack Clark (Anthropic) : l'IA non régulée, c'est une Formule 1 sans freins",
+    "lien": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOZDh0WkJxOXJPMzVMVUhhd21fNF9od0VHaUtpbmw4X1FJV3lSLVBfX1AyZ2VqOVZyelpSMUNKVUpWd2pwcHZyU1d4cnR5c2ZFSGZkRlpKa1hJLURGQkVGSDc3eEZzeUhaVFRxbDBaN0I1Qmk3RzFVeEp6MHpINVdfbklHd0VMenlHNDg5Y2ZVb2czWFlmakxSeHoxX0RHaE5JT0FOdy1B?oc=5",
+    "source": "The Media Leader",
+    "date": "2026-10-19T00:05:56+02:00",
+    "resume": "Le cofondateur d'Anthropic plaide pour un encadrement de l'IA, rapporte The Media Leader.",
+    "pourquoi": "Dans la continuité du projet de loi proposé par Anthropic aux législateurs américains."
+   },
+   {
+    "titre": "La Bourse sud-coréenne recule sur fond d'inquiétudes liées à l'IA",
+    "lien": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxNa1NER21DMkM3LUNHbnM2b1JIbU9OYTJZbWx5ZmdRek9IV0N6ZmQyZGQxOUw0QlJsQ3Y0Mzc3V3lLR2dab2U1RTZjUVM3SlNrTU1HZGp3RXNyNkxtVjdQSlltaDBDUG9CVERuaTZQXzJ1RGsxczdlQzNEVW4tS1NfRXA4enBsemFJSWppVGFha0lqQ3FkUTVRLUZYYkZLYnEyX0ZLaC1LUUFfSnJrNFZfajUwMGFyRm5LbTlmUk45eGROR3p1Y3FPLTBhVklFdzhacHROVllEZ3VpeG1HM2xyd3B0dl9yZFN2WmRCdEVqRQ?oc=5",
+    "source": "Zonebourse",
+    "date": "2026-10-19T04:34:11+02:00",
+    "resume": "Les actions sud-coréennes ont ouvert la semaine en baisse, sous l'effet des inquiétudes liées à l'intelligence artificielle, rapporte Zonebourse.",
+    "pourquoi": "Les marchés deviennent sensibles aux doutes sur la valorisation du secteur."
    }
   ],
   "droit": [
    {
-    "titre": "Le RN et l'UDR saisissent le Conseil constitutionnel pour demander la « démission d'office » de Richard Ferrand",
-    "lien": "https://news.google.com/rss/articles/CBMikgJBVV95cUxOaEhmMXZHdGJNb09yMVVPdS1qUkxXb29iejkwRFZSLUtlODBad1VSTWFTZDlnNXhzelYyRXRFYU92ZEpzeGl5Mjl1cGdOcTl1aFdpcDVGZHh1R1VSanRfb0FvZzRqemxqdWJfV0ZSV2Jjb1ktZ0ptci1IZTN1VzJ6ZXRHR0dSdkxvQl96a0l2Mm5TSmRBdnlENUtCdm1PckR3U21VTE9WaHVDSllvazREeWlYLTVaLUc5aExLNUFidW5qSXNsWURpTkRKNXZrX2JJbEF0dHIwNGZ1QVd6RHdhcEpEaGl5b2d1N3JrUldUMzFLMmdmQzBfQ1Y3ZWktSGlrQzZMZ1BKb2hHNXBNU3htUE1R?oc=5",
-    "source": "franceinfo",
-    "date": "2026-10-16T13:37:25+02:00",
-    "resume": "Les parlementaires RN et UDR demandent au Conseil de constater la démission d'office de son président, après ses critiques contre les projets de référendum de Marine Le Pen, rapporte franceinfo.",
-    "libertes": "Indépendance du juge constitutionnel et devoir de réserve de ses membres.",
-    "angle_crfpa": "La démission d'office d'un membre ne peut être constatée que par le Conseil lui-même, dans les cas prévus par l'ordonnance organique du 7 novembre 1958."
-   },
-   {
-    "titre": "« Gouvernement des juges » : les menaces politiques qui pèsent sur le Conseil constitutionnel",
-    "lien": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxNbVZ4RnNqbzVoRHVyYURvUFEtZjV2c3ExZXVFMEMweS1EeEN0MjBwTEZfdUFKeDRGNFNfWTFaZ1dVSHp1T19qcFY0c0tnUTdOUGtBazI1SE1TeC03MWxCbkE4bGFIUFpNbUVTc3NuSDN0U1FjVjZzU2RDbmR4cmY5LWx6U1BhR3NiY3ZPd0JmMzlZQ25CODdSN0ppZkxrRmduRDRENTdDYkVHWGx2NHVJOVJOQVdhdU5HT19LLWdGdG5LRW5abnB2akowM0RlRXZTcTVPaWN6Tm5kUQ?oc=5",
-    "source": "The Conversation",
-    "date": "2026-10-16T14:07:26+02:00",
-    "resume": "The Conversation analyse la multiplication des attaques politiques contre le Conseil constitutionnel et leurs ressorts.",
-    "libertes": "État de droit et garantie des droits (art. 16 DDHC).",
-    "angle_crfpa": "Le grief de « gouvernement des juges » est un classique : le Conseil rappelle qu'il ne dispose pas d'un pouvoir d'appréciation identique à celui du Parlement."
+    "titre": "Liberté d'expression ou apologie du terrorisme ? Rima Hassan jugée à Paris",
+    "lien": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNODlpZ3cwX28tTXRzY1kzakpwa3lUUFpTWFFvaHIxTUVOb3UtRmhaRHhyNmJPN0hXX2hyYnRkTXFlRktrc0ZpY0piSXdPWS1iWURjZ2w3TkRpdWRqcEkzZlZreldhYjJBSkRDWExmenRpeUM3bEZXNTNOUTRUMHFIRElBTV9rYWtxMVJ3aXlIUjhuZjZjZzlDeHU3SU9lemVLQmpXUTl4WVVOU3hmb0EzanVmaGJIVFRFYzFQRjRNT25qUTFEd0dIWENKMXBjalFmTWlj?oc=5",
+    "source": "Le Télégramme",
+    "date": "2026-10-19T06:10:01+02:00",
+    "resume": "L'eurodéputée LFI est jugée pendant deux jours à Paris pour apologie du terrorisme, après un renvoi du procès en juillet, rapportent Le Télégramme et Le Club des juristes.",
+    "libertes": "Liberté d'expression (art. 11 DDHC, art. 10 Conv. EDH) face à la répression de l'apologie du terrorisme.",
+    "angle_crfpa": "Délit de l'art. 421-2-5 du code pénal, jugé conforme à la Constitution (2018-706 QPC) ; la CEDH admet sa répression sous contrôle de proportionnalité (Rouillan c. France, 2022)."
    }
   ]
  },
  "notion": {
-  "titre": "Le Conseil constitutionnel n'est pas le Parlement",
-  "texte": "Saisi de la loi sur l'interruption volontaire de grossesse, le Conseil juge que l'article 61 de la Constitution « ne lui confère pas un pouvoir général d'appréciation et de décision identique à celui du Parlement ». Il refuse aussi de contrôler la conformité des lois aux traités, ce qui ouvrira la voie au contrôle de conventionnalité par les juges ordinaires.",
-  "reference": "Cons. const., 15 janvier 1975, n° 74-54 DC, Loi relative à l'interruption volontaire de la grossesse"
+  "titre": "Le délit d'apologie du terrorisme",
+  "texte": "Le Conseil constitutionnel juge conforme le délit d'apologie d'actes de terrorisme : l'atteinte à la liberté d'expression est nécessaire, adaptée et proportionnée à l'objectif de prévention des actes terroristes, car l'apologie consiste à présenter ces actes sous un jour favorable, ce qui est susceptible d'inciter à leur commission.",
+  "reference": "Cons. const., 18 mai 2018, n° 2018-706 QPC, M. Jean-Marc R."
  }
 }
