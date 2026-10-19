@@ -1,6 +1,6 @@
 {
  "date": "2026-10-19",
- "genere": "2026-10-19T07:13+02:00",
+ "genere": "2026-10-19T07:15+02:00",
  "journaux": [
   {
    "id": "figaro",
@@ -261,7 +261,7 @@
      "source": "lemonde.fr",
      "image": "https://img.lemde.fr/2026/10/15/0/0/1920/960/644/322/60/0/cb6ed61_upload-1-m0s6mhfygc3n-migrants-expulsion-us-afrique-sans0.png",
      "reprises": 9,
-     "score": 17.65
+     "score": 17.62
     },
     {
      "titre": "🔴\"Colère et honte\", \"transparence\" attendue... Ce qu'il faut retenir de l'allocution d'Emmanuel Macron",
@@ -281,7 +281,7 @@
      "source": "lemonde.fr",
      "image": "https://img.lemde.fr/2026/10/18/932/0/5594/2797/644/322/60/0/b002a14_ftp-1-xnoihogpii4w-2026-10-18t235422z-1304641961-rc2x5oa93zjs-rtrmadp-3-ukraine-crisis-attack-kyiv.JPG",
      "reprises": 6,
-     "score": 13.75
+     "score": 13.74
     },
     {
      "titre": "Le pape Léon XIV remercie les fidèles réunis place Saint-Pierre après son opération et annonce la reprise progressive de ses activités",
@@ -291,7 +291,7 @@
      "source": "lemonde.fr",
      "image": "https://img.lemde.fr/2026/10/18/96/0/2670/1335/644/322/60/0/3fc080d_ftp-1-1gbvgiqz9me8-2026-10-18t111310z-301354690-rc2n5oamrnuj-rtrmadp-3-pope-health-prayer.JPG",
      "reprises": 4,
-     "score": 9.73
+     "score": 9.72
     },
     {
      "titre": "En Albanie, le premier ministre exclut toute démission au sixième jour de violentes manifestations",
@@ -301,7 +301,7 @@
      "source": "lemonde.fr",
      "image": "https://img.lemde.fr/2026/10/18/255/0/3033/1516/644/322/60/0/d91aabd_ftp-1-jd86tb6wrquj-2026-10-18t165322z-11837022-rc2q5oa2xy15-rtrmadp-3-albania-protest.JPG",
      "reprises": 4,
-     "score": 7.2
+     "score": 7.18
     },
     {
      "titre": "Mobilisation en France, manifestations en Albanie, violences en Cisjordanie : la semaine en images",
@@ -311,7 +311,7 @@
      "source": "© Thibaud Moritz, AFP",
      "image": "https://s.france24.com/media/display/1c4f8a14-ca0b-11f1-a0b5-6313a763b466/w:1024/p:16x9/000-D3K887M.jpg",
      "reprises": 3,
-     "score": 6.75
+     "score": 6.74
     }
    ],
    "a_traduire": []
@@ -329,7 +329,7 @@
      "source": "Boursorama",
      "image": null,
      "reprises": 8,
-     "score": 27.22
+     "score": 27.21
     },
     {
      "titre": "Les actions sud-coréennes entament la semaine en baisse sur fond d’inquiétudes liées à l’intelligence artificielle (IA)",
@@ -339,7 +339,7 @@
      "source": "Zonebourse Suisse",
      "image": null,
      "reprises": 3,
-     "score": 4.67
+     "score": 4.65
     },
     {
      "titre": "Avallon : La Fabrik explore l'intelligence artificielle lors des \"Cafés du vendredi\"",
