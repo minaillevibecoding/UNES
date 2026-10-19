@@ -1,35 +1,36 @@
 == Journaux
   ok   16  https://www.lemonde.fr/rss/une.xml
   ok   50  https://dwh.lequipe.fr/api/edito/rss?path=/
-  ok   19  https://www.lefigaro.fr/rss/figaro_actualites.xml
+  ok   20  https://www.lefigaro.fr/rss/figaro_actualites.xml
   ok   50  https://www.la-croix.com/feeds/rss/site.xml
   kiosko https://www.kiosko.net/fr/: URLError
-  kiosko https://www.kiosko.net/fr/geo/Paris.html: HTTPError
+  kiosko https://www.kiosko.net/fr/geo/Paris.html: URLError
   kiosko https://fr.kiosko.net/fr/: URLError
   kiosko : 0 journaux repérés : 
-  une Le Figaro (milibris, édition du 2026-10-17): https://static.milibris.com/thumbnail/issue/d7cf315d-fab5-4cb8-8f10-387d926b57d5/front/catalog-cover-large.jpeg
+  une Le Figaro (milibris, édition du 2026-10-19): https://static.milibris.com/thumbnail/issue/e2a5f74a-bb6d-4724-998b-87def71e36a9/front/catalog-cover-large.jpeg
   une Le Monde (frontpages, édition du 2026-10-18): https://www.frontpages.com/t/2026/10/17/le-monde-2328347jq@2x.webp
   une La Croix (kiosko, édition du 2026-10-18): https://img.kiosko.net/2026/10/18/fr/lacroix.750.jpg
-  une Le Figaro (frontpages, édition du 2026-10-17): https://www.frontpages.com/t/2026/10/17/le-figaro-013316u0j@2x.webp
+  une La Croix (frontpages, édition du 2026-10-19): https://www.frontpages.com/t/2026/10/19/la-croix-063236eyh@2x.webp
   une L'Équipe (kiosko, édition du 2026-10-18): https://img.kiosko.net/2026/10/18/fr/l_equip.750.jpg
+  une L'Équipe (frontpages, édition du 2026-10-19): https://www.frontpages.com/t/2026/10/19/l-equipe-010951q2r@2x.webp
 == Sections
+  ok   20  https://www.lemonde.fr/international/rss_full.xml
   ok   24  https://www.france24.com/fr/rss
   ok   23  https://www.rfi.fr/fr/rss
-  ok   20  https://www.lemonde.fr/international/rss_full.xml
+  ok   54  https://news.google.com/rss/search?q=monde%20international%20when%3A1d&hl=fr&gl=FR&ceid=FR:fr
   ok   20  https://www.francetvinfo.fr/monde.rss
-  ok   60  https://news.google.com/rss/search?q=monde%20international%20when%3A1d&hl=fr&gl=FR&ceid=FR:fr
-  ok   69  https://news.google.com/rss/headlines/section/topic/WORLD?hl=fr&gl=FR&ceid=FR:fr
-  ok   20  https://techcrunch.com/category/artificial-intelligence/feed/
+  ok   70  https://news.google.com/rss/headlines/section/topic/WORLD?hl=fr&gl=FR&ceid=FR:fr
   ok   10  https://www.theverge.com/rss/ai-artificial-intelligence/index.xml
-  ok   15  https://www.numerama.com/tech/intelligence-artificielle/feed/
-  ok  100  https://news.google.com/rss/search?q=intelligence%20artificielle%20when%3A1d&hl=fr&gl=FR&ceid=FR:fr
   ok  100  https://news.google.com/rss/search?q=OpenAI%20OR%20Anthropic%20OR%20%22Google%20DeepMind%22%20OR%20%22Mistral%
+  ok   20  https://techcrunch.com/category/artificial-intelligence/feed/
+  ok  100  https://news.google.com/rss/search?q=intelligence%20artificielle%20when%3A1d&hl=fr&gl=FR&ceid=FR:fr
+  ok   15  https://www.numerama.com/tech/intelligence-artificielle/feed/
   ok    0  https://siecledigital.fr/intelligence-artificielle/feed/
-  ok   41  https://news.google.com/rss/search?q=%22Conseil%20d%27%C3%89tat%22%20d%C3%A9cision%20when%3A3d&hl=fr&gl=FR&cei
-  ok   57  https://news.google.com/rss/search?q=%22libert%C3%A9s%20fondamentales%22%20OR%20%22libert%C3%A9%20d%27expressi
-  ok   23  https://news.google.com/rss/search?q=%22Conseil%20constitutionnel%22%20France%20-Cameroun%20-S%C3%A9n%C3%A9gal
-  ok   15  https://news.google.com/rss/search?q=CEDH%20OR%20%22Cour%20europ%C3%A9enne%20des%20droits%20de%20l%27homme%22%
-  ok   58  https://news.google.com/rss/search?q=%22Cour%20de%20cassation%22%20arr%C3%AAt%20when%3A3d&hl=fr&gl=FR&ceid=FR:
-  ok   10  https://www.dalloz-actualite.fr/rss.xml
-== Éditorial Claude fusionné
+  ok   10  https://news.google.com/rss/search?q=CEDH%20OR%20%22Cour%20europ%C3%A9enne%20des%20droits%20de%20l%27homme%22%
+  ok   31  https://news.google.com/rss/search?q=%22Conseil%20d%27%C3%89tat%22%20d%C3%A9cision%20when%3A3d&hl=fr&gl=FR&cei
+  ok   61  https://news.google.com/rss/search?q=%22Cour%20de%20cassation%22%20arr%C3%AAt%20when%3A3d&hl=fr&gl=FR&ceid=FR:
+  ok   26  https://news.google.com/rss/search?q=%22Conseil%20constitutionnel%22%20France%20-Cameroun%20-S%C3%A9n%C3%A9gal
+  ok   56  https://news.google.com/rss/search?q=%22libert%C3%A9s%20fondamentales%22%20OR%20%22libert%C3%A9%20d%27expressi
+  ERR ParseError: not well-formed (invalid token): line 17, column 55  https://www.dalloz-actualite.fr/rss.xml
+editorial.json daté du 2026-10-18 : ignoré
 == site/index.html écrit
