@@ -1,6 +1,6 @@
 {
  "date": "2026-10-20",
- "genere": "2026-10-20T07:08+02:00",
+ "genere": "2026-10-20T07:10+02:00",
  "journaux": [
   {
    "id": "figaro",
@@ -24,15 +24,15 @@
      "titre": "EN DIRECT - Violences urbaines : «On déploiera un dispositif policier très important» samedi, prévient Laurent Nuñez, les premiers couvre-feux en vigueur",
      "lien": "https://www.lefigaro.fr/actualite-france/en-direct-couvre-feu-paris-police-violences-urbaines-crise-politique-19-octobre-etat-d-urgence-20261020",
      "resume": "Paris, Lyon, Lille ou encore Bordeaux et Nice : les autorités ont décrété des couvre-feux partiels à partir de la nuit de lundi à mardi, en réponse aux violences urbaines qui ont touché de nombreuses villes en France ce week-end.",
-     "date": "2026-10-20T07:00:03+02:00",
+     "date": "2026-10-20T07:10:03+02:00",
      "source": "",
      "image": "https://i.f1g.fr/media/cms/3000x2000_crop/2026/10/20/3f776c379b5c08970aec54b2e73bf2eb3483eb1a8bc29430af8250eba4e98467.jpg"
     },
     {
      "titre": "« La France brûle » : aux États-Unis, les émeutes s’invitent dans la campagne pour les midterms",
      "lien": "https://www.lefigaro.fr/international/la-france-brule-aux-etats-unis-les-emeutes-s-invitent-dans-la-campagne-pour-les-midterms-20261020",
-     "resume": "RÉCIT - Les images des manifestations et des émeutes en France ont été abondamment été relayées et commentées aux États-Unis par la droite américaine.",
-     "date": "2026-10-20T07:00:49+02:00",
+     "resume": "RÉCIT - Les images des manifestations et des émeutes en France ont été abondamment relayées et commentées aux États-Unis par la droite américaine.",
+     "date": "2026-10-20T07:09:00+02:00",
      "source": "",
      "image": "https://i.f1g.fr/media/cms/3000x2001_crop/2026/10/20/83e728fc06432726cf092965b6ac2a1fd263a5037838000d2985c4a8f2e4d6e2.jpg"
     },
@@ -261,7 +261,7 @@
      "source": "© Ana Beltran, Reuters",
      "image": "https://s.france24.com/media/display/5ff9c2b8-cc0c-11f1-9977-6313a763b466/w:1024/p:16x9/2026-10-19T192543Z-1902429832-RC2I6OAJNUOO-RTRMADP-3-EUROPE-WEATHER-SPAIN-1.jpg",
      "reprises": 5,
-     "score": 18.25
+     "score": 18.37
     },
     {
      "titre": "EN DIRECT, guerre en Ukraine : « La Russie s’est bien comportée avec l’Ukraine. Elle n’a pas fait grand-chose », estime Donald Trump",
@@ -271,7 +271,7 @@
      "source": "lemonde.fr",
      "image": "https://img.lemde.fr/2026/10/19/726/0/8094/4047/644/322/60/0/6571a1e_ftp-1-0r4srxcqkrfb-d820246eb270471f96ba348adf723ee9-0-a67d0b5779eb4f6e91760746416a70b8.jpg",
      "reprises": 4,
-     "score": 13.94
+     "score": 14.05
     },
     {
      "titre": "Benyamin Nétanyahou met en scène sa proximité avec Donald Trump, à une semaine des élections législatives en Israël",
@@ -281,7 +281,7 @@
      "source": "lemonde.fr",
      "image": "https://img.lemde.fr/2026/10/18/85/0/1023/511/644/322/60/0/2f2998e_ftp-1-pxdscihx4op1-afp-d3ne7g3-1024.jpg",
      "reprises": 3,
-     "score": 6.44
+     "score": 6.45
     },
     {
      "titre": "\"Clown\", \"corrompu\" : débat houleux entre Lula et Flavio Bolsonaro",
@@ -291,7 +291,7 @@
      "source": "franceinfo.fr",
      "image": "https://www.franceinfo.fr/pictures/4fzcFI5smhl-yaVKGLAwgJY81Us/0x0:1080x1920/fit-in/432x243/filters:upscale():fill(blur):format(jpg)/2026/10/19/6ad613be93e82724347851.jpg",
      "reprises": 4,
-     "score": 6.06
+     "score": 5.98
     },
     {
      "titre": "En Grèce, au moins 12 migrants meurent lors de deux accidents en mer Egée",
@@ -301,7 +301,7 @@
      "source": "franceinfo.fr",
      "image": "https://www.franceinfo.fr/pictures/5Fyg3pbujq8X-Daq3065V08gSPE/0x443:4252x2835/432x243/filters:format(jpg)/2026/10/19/6ad5e96420d3b569766459.jpg",
      "reprises": 4,
-     "score": 5.8
+     "score": 5.81
     },
     {
      "titre": "L'Iran accuse les États-Unis d'être responsables de \"l'insécurité\" dans le détroit d'Ormuz - Monde - International",
@@ -328,18 +328,8 @@
      "date": "2026-10-20T01:16:43+02:00",
      "source": "Boursorama",
      "image": null,
-     "reprises": 5,
-     "score": 11.5
-    },
-    {
-     "titre": "Nscale, soutenue par Nvidia, et Anthropic seraient en pourparlers pour un nouvel accord de 45 milliards de dol",
-     "lien": "https://news.google.com/rss/articles/CBMi6AJBVV95cUxQSXcwcTZBdVBkU3VVYWxqbGlvOUlQYjQ5OWpQTFNSMEMxS25GaV9wVnlnU3p3eUowVHhIVHFxUlp2Z3RWcGQwLVhfZDBMcy1ZcF9ZVl93LS1hRnhiM1F4N05RYkpPS3Zicnh6Zk9ISmxWODhXeTlFcXhJT2xtR2g5SGJuenFZc2QzVXNjbFV4SGNndVBBQjZ6WVNxdHY1YlVBMG9uLUd0eEJQQ1gydzhXZUx6clNGQnJOdU5hMkdjXzJueG9Iam9oRzdtVV9Hd25pSUM5Z0JuTVdRSGFnaFltSDV5cUZDSHBUeWRaQUgxUlZBSVBnX0Z1Ynh2dnpPdlFKeHlHZnVSYUxrV2g5a04wcTJWejdOcVp2T1ZqZFBabHFuc1RaNnNHVUNJWGFMM0FRbnk1OG8zMndHSnhtUXZEdnhCQ3RfVjZJaFFVQ1lTOHp1c1FsVXZuTmE4MDZoUDZfdzlXTzF6Q2HSAegCQVVfeXFMUEl3MHE2QXVQZFN1VWFsamxpbzlJUGI0OTlqUExTUjBDMUtuRmlfcFZ5Z1N6d3lKMFR4SFRxcVJadmd0VnBkMC1YX2QwTHMtWXBfWVZfdy0tYUZ4YjNReDdOUWJKT0t2YnJ4emZPSEpsVjg4V3k5RXF4SU9sbUdoOUhibnpxWXNkM1VzY2xVeEhjZ3VQQUI2ellTcXR2NWJVQTBvbi1HdHhCUENYMnc4V2VMenJTRkJyTnVOYTJHY18ybnhvSGpvaEc3bVVfR3duaUlDOWdCbk1XUUhhZ2hZbUg1eXFGQ0hwVHlkWkFIMVJWQUlQZ19GdWJ4dnZ6T3ZRSnh5R2Z1UmFMa1doOWtOMHEyVno3TnFadk9WamRQWmxxbnNUWjZzR1VDSVhhTDNBUW55NThvMzJ3R0p4bVF2RHZ4QkN0X1Y2SWhRVUNZUzh6dXNRbFV2bk5hODA2aFA2X3c5V08xekNh?oc=5",
-     "resume": "",
-     "date": "2026-10-19T23:44:22+02:00",
-     "source": "Boursorama",
-     "image": null,
-     "reprises": 2,
-     "score": 10.84
+     "reprises": 6,
+     "score": 15.07
     },
     {
      "titre": "Intelligence artificielle : micro dans une salle de réunion, possible espionnage saoudien, ingénieur arrêté… que se passe-t-il chez OpenAI ?",
@@ -349,7 +339,17 @@
      "source": "Sud Ouest",
      "image": null,
      "reprises": 4,
-     "score": 9.21
+     "score": 9.16
+    },
+    {
+     "titre": "Nscale, soutenue par Nvidia, et Anthropic seraient en pourparlers pour un nouvel accord de 45 milliards de dol",
+     "lien": "https://news.google.com/rss/articles/CBMi6AJBVV95cUxQSXcwcTZBdVBkU3VVYWxqbGlvOUlQYjQ5OWpQTFNSMEMxS25GaV9wVnlnU3p3eUowVHhIVHFxUlp2Z3RWcGQwLVhfZDBMcy1ZcF9ZVl93LS1hRnhiM1F4N05RYkpPS3Zicnh6Zk9ISmxWODhXeTlFcXhJT2xtR2g5SGJuenFZc2QzVXNjbFV4SGNndVBBQjZ6WVNxdHY1YlVBMG9uLUd0eEJQQ1gydzhXZUx6clNGQnJOdU5hMkdjXzJueG9Iam9oRzdtVV9Hd25pSUM5Z0JuTVdRSGFnaFltSDV5cUZDSHBUeWRaQUgxUlZBSVBnX0Z1Ynh2dnpPdlFKeHlHZnVSYUxrV2g5a04wcTJWejdOcVp2T1ZqZFBabHFuc1RaNnNHVUNJWGFMM0FRbnk1OG8zMndHSnhtUXZEdnhCQ3RfVjZJaFFVQ1lTOHp1c1FsVXZuTmE4MDZoUDZfdzlXTzF6Q2HSAegCQVVfeXFMUEl3MHE2QXVQZFN1VWFsamxpbzlJUGI0OTlqUExTUjBDMUtuRmlfcFZ5Z1N6d3lKMFR4SFRxcVJadmd0VnBkMC1YX2QwTHMtWXBfWVZfdy0tYUZ4YjNReDdOUWJKT0t2YnJ4emZPSEpsVjg4V3k5RXF4SU9sbUdoOUhibnpxWXNkM1VzY2xVeEhjZ3VQQUI2ellTcXR2NWJVQTBvbi1HdHhCUENYMnc4V2VMenJTRkJyTnVOYTJHY18ybnhvSGpvaEc3bVVfR3duaUlDOWdCbk1XUUhhZ2hZbUg1eXFGQ0hwVHlkWkFIMVJWQUlQZ19GdWJ4dnZ6T3ZRSnh5R2Z1UmFMa1doOWtOMHEyVno3TnFadk9WamRQWmxxbnNUWjZzR1VDSVhhTDNBUW55NThvMzJ3R0p4bVF2RHZ4QkN0X1Y2SWhRVUNZUzh6dXNRbFV2bk5hODA2aFA2X3c5V08xekNh?oc=5",
+     "resume": "",
+     "date": "2026-10-19T23:44:22+02:00",
+     "source": "Boursorama",
+     "image": null,
+     "reprises": 1,
+     "score": 9.04
     },
     {
      "titre": "Le canari coréen dans la mine de charbon de l’intelligence artificielle",
@@ -359,7 +359,7 @@
      "source": "Zonebourse Suisse",
      "image": null,
      "reprises": 1,
-     "score": 3.27
+     "score": 3.28
     },
     {
      "titre": "La participation d’1% d’Eric Schmidt dans Anthropic avant son introduction en bourse",
@@ -438,7 +438,7 @@
      "source": "Orange Actualités",
      "image": null,
      "reprises": 1,
-     "score": 8.13,
+     "score": 8.09,
      "libertes": true
     },
     {
@@ -449,7 +449,7 @@
      "source": "https://www.parlons-politique.fr/",
      "image": null,
      "reprises": 4,
-     "score": 7.03,
+     "score": 7.11,
      "libertes": true
     },
     {
@@ -460,8 +460,19 @@
      "source": "RTL",
      "image": null,
      "reprises": 3,
-     "score": 6.96,
+     "score": 6.95,
      "libertes": true
+    },
+    {
+     "titre": "Le président de la Cour dans la Cité du Vatican pour un sommet sur « les juges, le contentieux climatique et les droits de l’homme »",
+     "lien": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQMnNYVDFvZ2tGdUtlRGg0LTlnWUc2UGFwMzJ3Q2VvWDBUTWJkNUxrbHg4bjZGVmV4Vk5nTXRybmNabHQ5ZmdvcDNCbzZZSVc5U2U5UzJiREYwTGo2NXBhT3IwN0o3VDAxUGNnYTRCZzdFR3JJY3FuNlZKTC1rbW5McDE1ci00dF91SWNuZ1dxdUxEU0NicWhIQlpsUUtyU0ZNWUhEZ2xIZXJHYmxMa0owRzRPby1ZNXh1MmN3?oc=5",
+     "resume": "",
+     "date": "2026-10-19T19:50:40+02:00",
+     "source": "ECHR",
+     "image": null,
+     "reprises": 2,
+     "score": 6.44,
+     "libertes": false
     },
     {
      "titre": "La Cour de cassation décide ce mercredi 21 octobre si Paolo Falzone doit être à nouveau jugé",
@@ -483,17 +494,6 @@
      "image": null,
      "reprises": 2,
      "score": 2.93,
-     "libertes": true
-    },
-    {
-     "titre": "La réunion du RN au Juch fait réagir les habitants, partagés entre colère et liberté d’expression",
-     "lien": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxPYkZ2c2lHMjc2aHZaN1Y2amM4ZkZJMjBPT2duMjFFVlVjRmd5U1FkZ2llSTdrb29BWk5WRXJ3OHJJRzg3WFljMi1SLVBhSFpEUHlWRE1aWXVRaHE0c0FOU2FkS01aUFpqQnpUcHFGR0VhcExYR2pVNW9mRHZLNWJRT1ZQZUR4Q01FUnNoQnI0R2xDQXVvN19teWRCdG5HdnQwMjdjU29aZ0VCTzNYZG5QV0JLemJ4M2xyb1BzY2ZmY1puZzZKd0dJQ1VWZWxUckYzTzN6OEFkQm93Q2xQdk5uN3VHSFh6clBCTjlUdldIVkNmdVQ1?oc=5",
-     "resume": "",
-     "date": "2026-10-20T06:00:03+02:00",
-     "source": "Le Télégramme",
-     "image": null,
-     "reprises": 1,
-     "score": 1.59,
      "libertes": true
     }
    ],
