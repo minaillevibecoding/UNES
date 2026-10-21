@@ -1,6 +1,6 @@
 {
  "date": "2026-10-21",
- "genere": "2026-10-21T07:10+02:00",
+ "genere": "2026-10-21T07:12+02:00",
  "journaux": [
   {
    "id": "figaro",
@@ -196,6 +196,14 @@
    },
    "articles": [
     {
+     "titre": "Obtiendrez-vous le Dix sur Dix ?",
+     "lien": "https://www.lequipe.fr/jeux#at_medium=RSS_feeds",
+     "resume": "",
+     "date": "2026-10-21T06:44:00+02:00",
+     "source": "",
+     "image": "https://medias.lequipe.fr/img-photo-png/-/1500000000833469/0-828-552-75/0cb67.png"
+    },
+    {
      "titre": "Motivé par la concurrence et plus serein que la saison passée : comment Berke Özer s'est imposé dans le but de Lille",
      "lien": "https://www.lequipe.fr/Football/Article/Motive-par-la-concurrence-et-plus-serein-que-la-saison-passee-comment-berke-ozer-s-est-impose-dans-le-but-de-lille/1737288#at_medium=RSS_feeds",
      "resume": "Berke Özer, le gardien turc du LOSC, pas perturbé par l'arrivée du Paraguayen Orlando Gil, est devenu un élément clé de l'équipe et pourrait très vite réintégrer la sélection turque, alors qu'il affrontera Galatasaray ce mercredi soir (18 h 45) en Ligue des…",
@@ -234,14 +242,6 @@
      "date": "2026-10-21T06:02:00+02:00",
      "source": "",
      "image": "https://medias.lequipe.fr/img-photo-jpg/38e-minute-felicite-par-vitinha-a-droite-desire-doue-celebre-son-ouverture-du-score-etienne-garnier-l-equipe/1500000002628523/0:112,2000:1445-828-552-75/2f50c.jpg"
-    },
-    {
-     "titre": "Himad Abdelli est sorti du tunnel avec l'OM : « Ça l'a vacciné sur le fait qu'il fallait être costaud mentalement »",
-     "lien": "https://www.lequipe.fr/Football/Article/Himad-abdelli-est-sorti-du-tunnel-avec-l-om-ca-l-a-vaccine-sur-le-fait-qu-il-fallait-etre-costaud-mentalement/1737314#at_medium=RSS_feeds",
-     "resume": "Arrivé à Marseille en pleine crise l'hiver dernier, écarté du groupe en fin de saison, le milieu Himad Abdelli est apaisé, affûté, et s'exprime mieux.",
-     "date": "2026-10-21T05:30:00+02:00",
-     "source": "",
-     "image": "https://medias.lequipe.fr/img-photo-jpg/himad-abdelli-face-a-lilian-raolisoa-lors-de-la-victoire-de-l-om-a-angers-5-2-dimanche-e-garnier-l-equipe/1500000002628191/0:0,2000:1333-828-552-75/8f820.jpg"
     }
    ],
    "flux_utilise": "https://dwh.lequipe.fr/api/edito/rss?path=/"
@@ -281,7 +281,7 @@
      "source": "lemonde.fr",
      "image": "https://img.lemde.fr/2026/10/20/212/0/3936/1968/644/322/60/0/ba9c11c_ftp-1-tznzu6vw01ph-f63f163fac5e4ffab1076608ad0a7cf0-2-2d96bc17ae3143f28697d4b433133adc.jpg",
      "reprises": 4,
-     "score": 9.09
+     "score": 9.15
     },
     {
      "titre": "Un drone aérien utilisé pour évacuer un soldat blessé en Ukraine, une première selon Kiev",
@@ -304,14 +304,14 @@
      "score": 6.62
     },
     {
-     "titre": "Tout le monde s’arrache Varela : l’Inter étudie son profil, le Benifca peut s’aligner sur l’offre, mais ne dispose pas de la « clause de rachat »",
-     "lien": "https://news.google.com/rss/articles/CBMilwJBVV95cUxOcEdRbTU2VUQ0Z25pZHN3QV9zeHVuS3huX1o4ZXFoWWtIS0NhSmJJaUo2bmFXdHRwUlpaX1JFVkpSLWczVUNrN3ZvY0ZmaThuWUgxWndwQk1uaUFwTzJha09wT2VkaExWMTlsOUJFZ2Q4Vk1IanRfbU00QTNUNTIwWVRRSGZ4eGJDN1FIM1lSS2NjbmszSGtSbUxtelNFWklYYnlwX3FoREx2N2lBX3BILW92QnNGS2V4d0FfUXVZbHVVZ0g5LURNYm9uVXc4ejZtLWFNTXk2LUJENWV0U0xVR3Q4My0wTnA0MUc4VFljcDB2bTY0SEtqcFhoQjRRRmlhS2w1eEFNNEdyS3ozWW1nbDZ5YTlvb0U?oc=5",
-     "resume": "",
-     "date": "2026-10-20T20:26:12+02:00",
-     "source": "Goal.com",
-     "image": null,
-     "reprises": 2,
-     "score": 6.49
+     "titre": "La junte du Burkina Faso rétablit la peine de mort",
+     "lien": "https://www.lemonde.fr/afrique/article/2026/10/20/la-junte-du-burkina-faso-retablit-la-peine-de-mort_6797981_3212.html",
+     "resume": "Le régime militaire avait annoncé officiellement son intention de rétablir la peine de mort en adoptant un projet de loi en décembre dernier. Elle avait été abolie en 2018.",
+     "date": "2026-10-20T21:23:02+02:00",
+     "source": "lemonde.fr",
+     "image": "https://img.lemde.fr/2026/10/20/663/0/7962/3981/644/322/60/0/78161f2_upload-1-ezngw1vzd0jj-000-468c99v.jpg",
+     "reprises": 3,
+     "score": 5.35
     }
    ],
    "a_traduire": []
@@ -328,8 +328,8 @@
      "date": "2026-10-20T23:49:00+02:00",
      "source": "Boursier.com",
      "image": null,
-     "reprises": 5,
-     "score": 18.18
+     "reprises": 6,
+     "score": 21.99
     },
     {
      "titre": "OpenAI affirme que ses agents d’intelligence artificielle (IA) ont affaibli le système interne de surveillance",
@@ -339,7 +339,7 @@
      "source": "Zonebourse Suisse",
      "image": null,
      "reprises": 3,
-     "score": 12.77
+     "score": 12.76
     },
     {
      "titre": "Googlebook : que valent ces nouveaux ordinateurs portables sous Android et dopés à l’intelligence artificielle ?",
@@ -349,7 +349,7 @@
      "source": "Dordogne Libre",
      "image": null,
      "reprises": 3,
-     "score": 4.86
+     "score": 4.85
     },
     {
      "titre": "SpaceX : +161 % de chiffre d'affaires, 4,4 milliards de bénéfices, l'IA propulse les résultats au-delà des attentes",
@@ -359,7 +359,7 @@
      "source": "FranceTransactions.com",
      "image": null,
      "reprises": 2,
-     "score": 4.58
+     "score": 4.56
     },
     {
      "titre": "Le fonds d'intérêt général d'Anthropic et sa comparaison avec d'autres grandes initiatives philanthropiques",
@@ -421,7 +421,7 @@
      "source": "theverge.com",
      "image": null,
      "reprises": 1,
-     "score": 1.29
+     "score": 1.28
     }
    ]
   },
@@ -442,17 +442,6 @@
      "libertes": true
     },
     {
-     "titre": "Le maire de Pfastatt saisit le Conseil d'Etat après l'annulation des élections municipales par le tribunal administratif",
-     "lien": "https://news.google.com/rss/articles/CBMimwJBVV95cUxPd1N2bUNNYldub0xxdmluVElaVlBjVEZ4S3RONjdTdkw1czlwRFNFNUFDUlVCU3BpQnRZckxsQ1laY2NFOG4tdDdCX25oc1pDLU9RNTN3eS13Q3FCd0diOGowczlQTGxWVDYwUnZHSVh3Z1VvMmxDVG5SbUNQMHdKaUY0eXdMZlVVUm5KX2ZxcXJpanZJczE5dDlPQ0hZU2xPZkhZdFY2M0FkWC1zbXMyN2RhTndPZ09Ob09RenZzZHNLX29JS3pDY1ZTbjBVZkpKN3gydmdHb3VxRW9Bd1BZOXlTT3czMVhJNlhqcWxvMVYxTmpZTnp1SGdGSVhpN2NfV2VpWS1IQlluMmdDZVRabW9tcWttQm9INmRV?oc=5",
-     "resume": "",
-     "date": "2026-10-20T11:14:04+02:00",
-     "source": "France 3 Régions",
-     "image": null,
-     "reprises": 5,
-     "score": 9.49,
-     "libertes": false
-    },
-    {
      "titre": "Le Conseil constitutionnel annule l’article 3 de la loi sur la réforme bancaire",
      "lien": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNSzBBNVBTM0dEd0RYbFItUnpfZm5BZGdBRVYzZF90ZlpUVnpXVGMwOUxFcTFYWUIyc0hNVENOVmp1eGdOV1VFSTlXMDZGZFdKVnZXZWpXS0JWNnMwOGF2NzhnUDlYN0pVU1JnV1VOQ1hDOFRZM3l5ZGlBdS1SMkxLVHhjYXJRMmR5dHpDYURxbG1fVEk5YUxFVl83MnVmdmRCQ05lTE5fMkw4SmZNaVNKeS0xOFVsVk1LdUtN?oc=5",
      "resume": "",
@@ -460,8 +449,19 @@
      "source": "Ici Beyrouth",
      "image": null,
      "reprises": 4,
-     "score": 8.57,
+     "score": 8.56,
      "libertes": true
+    },
+    {
+     "titre": "Le maire de Pfastatt saisit le Conseil d'Etat après l'annulation des élections municipales par le tribunal administratif",
+     "lien": "https://news.google.com/rss/articles/CBMimwJBVV95cUxPd1N2bUNNYldub0xxdmluVElaVlBjVEZ4S3RONjdTdkw1czlwRFNFNUFDUlVCU3BpQnRZckxsQ1laY2NFOG4tdDdCX25oc1pDLU9RNTN3eS13Q3FCd0diOGowczlQTGxWVDYwUnZHSVh3Z1VvMmxDVG5SbUNQMHdKaUY0eXdMZlVVUm5KX2ZxcXJpanZJczE5dDlPQ0hZU2xPZkhZdFY2M0FkWC1zbXMyN2RhTndPZ09Ob09RenZzZHNLX29JS3pDY1ZTbjBVZkpKN3gydmdHb3VxRW9Bd1BZOXlTT3czMVhJNlhqcWxvMVYxTmpZTnp1SGdGSVhpN2NfV2VpWS1IQlluMmdDZVRabW9tcWttQm9INmRV?oc=5",
+     "resume": "",
+     "date": "2026-10-20T11:14:04+02:00",
+     "source": "France 3 Régions",
+     "image": null,
+     "reprises": 4,
+     "score": 7.33,
+     "libertes": false
     },
     {
      "titre": "La Cour européenne des droits de l’homme reçoit un prix pour la protection de l’indépendance judiciaire",
@@ -471,7 +471,7 @@
      "source": "ECHR",
      "image": null,
      "reprises": 2,
-     "score": 5.66,
+     "score": 5.65,
      "libertes": false
     },
     {
@@ -493,7 +493,7 @@
      "source": "Trends-Tendances",
      "image": null,
      "reprises": 2,
-     "score": 3.22,
+     "score": 3.12,
      "libertes": true
     }
    ],
