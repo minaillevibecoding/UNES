@@ -1,144 +1,126 @@
 {
- "date": "2026-10-20",
- "edito": "Après les violences du week-end, des couvre-feux partiels sont décrétés à Paris, Lyon, Lille, Bordeaux et Nice, et l'exécutif reconnaît un dispositif policier sous-dimensionné. Donald Trump juge qu'il « était temps » pour l'Ukraine de changer de dirigeant. Dans l'est de l'Espagne, des pluies diluviennes ont fait au moins quatre morts.",
+ "date": "2026-10-21",
+ "edito": "Sébastien Lecornu reçoit les syndicats ce mercredi après une nouvelle nuit de couvre-feux localisés, sur fond d'affrontement de plus en plus virulent entre le gouvernement et LFI. À Oslo, Volodymyr Zelensky a rencontré l'envoyé de Donald Trump, Steve Witkoff. En Ligue des champions, le PSG bat le Barça 4-2.",
  "journaux": {
   "figaro": {
-   "resume": "Le Figaro ouvre sur la circulaire annoncée pour déduire des prestations sociales les revenus tirés des pillages, et sur les couvre-feux décrétés dans plusieurs grandes villes.",
+   "resume": "Le Figaro consacre sa une à la confrontation entre l'exécutif et LFI après les violences, et au plateau de Millevaches, présenté comme une « base arrière » de l'ultragauche après l'incendie de la mairie de Limoges.",
    "points": [
-    "Laurent Nuñez promet un « dispositif policier très important » samedi.",
-    "Qui sont les casseurs des 17 et 18 octobre : des profils distincts des lycéens.",
-    "Aux États-Unis, la droite reprend les images de « la France qui brûle ».",
-    "Midterms : début du vote anticipé au Texas."
+    "Matignon invite les partis ; LFI promet de « pourrir la réunion ».",
+    "Éditorial : « Mélenchon et LFI, les ingénieurs du chaos ».",
+    "Un député de la Creuse réclame la dissolution de groupes radicaux.",
+    "Lecornu reçoit les syndicats, sans les organisations lycéennes."
    ]
   },
   "monde": {
-   "resume": "Le Monde revient sur le fiasco du maintien de l'ordre, des erreurs de renseignement au manque d'effectifs, et sur la mission de concertation confiée à Sébastien Lecornu.",
+   "resume": "Le Monde décrit un face-à-face de plus en plus virulent entre LFI et le gouvernement, et la récupération des émeutes françaises par le camp Trump avant les midterms.",
    "points": [
-    "L'exécutif reconnaît un dispositif mal dimensionné.",
-    "Lecornu reçoit les corps intermédiaires, Nuñez conforté.",
-    "La colère sociale gagne l'Italie, l'Espagne, la Belgique et le Portugal.",
-    "Procès de l'assassinat du demi-frère d'Amine Kessaci : audience suspendue après un geste menaçant."
+    "L'exécutif accuse LFI d'attiser les violences, LFI dénonce « l'amateurisme » du ministre de l'intérieur.",
+    "Trump invoque les émeutes pour dénoncer l'immigration.",
+    "Israël, laboratoire de l'union des droites et de l'extrême droite.",
+    "Elon Musk prépare la fusion de SpaceX et de Tesla."
    ]
   },
   "croix": {
-   "resume": "La Croix chiffre à près de 3 000 les commerces pillés et s'interroge sur l'indemnisation. Elle éclaire aussi le poids du vieillissement dans le budget 2027.",
+   "resume": "La Croix suit la crise ouverte par les violences et l'annonce de nouvelles manifestations le 24 octobre. Elle analyse aussi la remilitarisation du Japon sous Sanae Takaichi.",
    "points": [
-    "Les syndicats reçus mercredi à Matignon.",
-    "Budget : vote sur la partie recettes ce mardi.",
-    "Ukraine : selon le New York Times, Moscou préparerait des frappes massives pour rendre le pays inhabitable.",
-    "Quai-Branly : le patrimoine vivant des Premières Nations du Canada."
+    "Couvre-feux cette nuit dans des quartiers de Paris, Lyon et Marseille.",
+    "Le gouvernement veut empêcher la revente des biens pillés en ligne.",
+    "Encadrement des loyers : le dispositif examiné au Sénat.",
+    "Japon : un an après l'arrivée de Takaichi, le pacifisme remis en débat."
    ]
   },
   "equipe": {
-   "resume": "L'Équipe annonce le « choc des magiciens » entre le PSG et le Barça, ce mardi au Parc des Princes.",
+   "resume": "L'Équipe salue la victoire du PSG face au Barça (4-2), avec encore Doué et Vitinha décisifs. Lille affronte Galatasaray ce soir.",
    "points": [
-    "Doué, Dembélé, Kvaratskhelia face à Yamal, Raphinha, Gordon.",
-    "Badminton : Internationaux de France à Tremblay, futur siège fédéral.",
-    "Le golf, passion des joueurs NBA.",
-    "Le PSG de Manchester et le Barça de Yamal, ce qui se fait de mieux en Europe."
+    "Lizarazu ne veut pas accabler Safonov, battu au premier poteau.",
+    "Lille doit réagir après deux défaites en Ligue des champions.",
+    "Berke Özer s'impose dans le but lillois.",
+    "OM : Himad Abdelli est sorti du tunnel."
    ]
   }
  },
  "sections": {
   "monde": [
    {
-    "titre": "Violences urbaines : couvre-feux partiels et aveu d'un dispositif sous-dimensionné",
-    "lien": "https://www.lemonde.fr/societe/article/2026/10/20/mobilisation-du-17-octobre-des-erreurs-du-renseignement-au-manque-d-effectifs-mobilises-retour-sur-un-fiasco-securitaire_6797855_3224.html",
+    "titre": "Après les violences, l'affrontement s'envenime entre LFI et le gouvernement",
+    "lien": "https://www.lemonde.fr/politique/article/2026/10/21/manifestation-du-17-octobre-entre-la-france-insoumise-et-le-gouvernement-un-face-a-face-de-plus-en-plus-virulent_6798122_823448.html",
     "source": "Le Monde",
-    "date": "2026-10-20T05:30:00+02:00",
-    "resume": "L'exécutif reconnaît que le dispositif policier du 17 octobre n'était pas correctement dimensionné. Des couvre-feux partiels sont décrétés dans plusieurs grandes villes ; près de 3 000 commerces ont été pillés.",
-    "pourquoi": "La crise devient politique pour le gouvernement."
+    "date": "2026-10-21T05:15:09+02:00",
+    "resume": "L'exécutif et les partis du centre, de droite et d'extrême droite accusent les « insoumis » d'attiser les violences ; LFI dénonce l'« amateurisme » du ministre de l'intérieur. Sébastien Lecornu reçoit les syndicats ce mercredi.",
+    "pourquoi": "La crise sécuritaire se transforme en bataille politique, à six mois de la présidentielle."
    },
    {
-    "titre": "Trump : la Russie « s'est bien comportée avec l'Ukraine »",
-    "lien": "https://www.lemonde.fr/international/live/2026/10/20/en-direct-guerre-en-ukraine-la-russie-s-est-bien-comportee-avec-l-ukraine-elle-n-a-pas-fait-grand-chose-estime-donald-trump_6796922_3210.html",
+    "titre": "À Oslo, Zelensky rencontre l'envoyé de Trump sans grand espoir",
+    "lien": "https://www.lemonde.fr/international/article/2026/10/21/guerre-en-ukraine-a-oslo-zelensky-entretient-sans-y-croire-l-espoir-d-etre-a-nouveau-entendu-par-les-etats-unis_6798157_3210.html",
     "source": "Le Monde",
-    "date": "2026-10-20T05:19:17+02:00",
-    "resume": "Le président américain réitère qu'il est temps pour l'Ukraine de changer de dirigeant. Zelensky accuse Washington de retarder la livraison de missiles déjà payés.",
-    "pourquoi": "Le soutien américain à Kiev s'effrite publiquement."
+    "date": "2026-10-21T05:30:08+02:00",
+    "resume": "Le président ukrainien s'est entretenu avec Steve Witkoff après une semaine de tensions avec Washington, de plus en plus aligné sur Moscou.",
+    "pourquoi": "Kiev tente de maintenir le dialogue avec les États-Unis."
    },
    {
-    "titre": "Espagne : inondations meurtrières dans la région de Valence",
-    "lien": "https://www.france24.com/fr/europe/20261019-espagne-pluies-inondations-quatre-morts-valence",
-    "source": "France 24",
-    "date": "2026-10-20T00:28:55+02:00",
-    "resume": "Des pluies diluviennes ont fait au moins quatre morts lundi soir et nécessité des centaines d'opérations de sauvetage.",
-    "pourquoi": "La région reste marquée par la catastrophe de 2024."
-   },
-   {
-    "titre": "Brésil : débat houleux entre Lula et Flavio Bolsonaro",
-    "lien": "https://www.franceinfo.fr/monde/bresil/clown-corrompu-debat-houleux-entre-lula-et-flavio-bolsonaro_8244034.html#xtor=RSS-3-%5Bgeneral%5D",
-    "source": "franceinfo",
-    "date": "2026-10-19T14:57:57+02:00",
-    "resume": "Les deux candidats ont échangé insultes et accusations lors de leur premier débat, à une semaine du second tour.",
-    "pourquoi": "Une présidentielle très polarisée."
-   },
-   {
-    "titre": "Israël : Trump soutient Nétanyahou à une semaine des législatives",
-    "lien": "https://www.lemonde.fr/international/article/2026/10/19/benyamin-netanyahou-met-en-scene-sa-proximite-avec-donald-trump-a-une-semaine-des-elections-legislatives-en-israel_6797582_3210.html",
+    "titre": "Le Royaume-Uni déploie des avions de combat en Arabie saoudite contre les houthistes",
+    "lien": "https://www.lemonde.fr/international/article/2026/10/20/le-royaume-uni-allie-de-toujours-de-l-arabie-saoudite-accroit-son-aide-a-riyad-contre-les-houthistes-du-yemen_6797976_3210.html",
     "source": "Le Monde",
-    "date": "2026-10-19T20:52:52+02:00",
-    "resume": "Le président américain a apporté son soutien au premier ministre avant le scrutin très disputé du 27 octobre.",
-    "pourquoi": "Washington s'invite dans une élection sans majorité claire."
+    "date": "2026-10-20T20:03:27+02:00",
+    "resume": "Inquiet pour l'approvisionnement énergétique, Londres va mener des missions « défensives » depuis le royaume.",
+    "pourquoi": "Un nouvel acteur occidental s'engage dans le conflit."
    },
    {
-    "titre": "Grèce : au moins 12 migrants morts en mer Égée",
-    "lien": "https://www.franceinfo.fr/monde/grece/en-grece-au-moins-12-migrants-meurent-lors-de-deux-accidents-en-mer-egee_8243614.html#xtor=RSS-3-%5Bgeneral%5D",
-    "source": "franceinfo",
-    "date": "2026-10-19T11:59:20+02:00",
-    "resume": "Deux accidents d'embarcations se sont produits près des îles du nord et de l'est de la mer Égée.",
-    "pourquoi": "Les naufrages se multiplient sur cette route migratoire."
+    "titre": "Brésil : Lula et Flavio Bolsonaro tentent de se faire disqualifier mutuellement",
+    "lien": "https://www.lemonde.fr/international/article/2026/10/21/presidentielle-au-bresil-lula-et-flavio-bolsonaro-lancent-des-recours-pour-se-disqualifier-mutuellement-a-quelques-jours-du-second-tour_6798204_3210.html",
+    "source": "Le Monde",
+    "date": "2026-10-21T07:08:00+02:00",
+    "resume": "Lula accuse Meta d'« ingérence » en faveur de son rival ; Flavio Bolsonaro reproche au président un « abus de pouvoir » via WhatsApp.",
+    "pourquoi": "Le second tour s'annonce contesté."
+   },
+   {
+    "titre": "Le camp Trump exploite les émeutes françaises avant les midterms",
+    "lien": "https://www.lemonde.fr/international/article/2026/10/21/etats-unis-comment-le-camp-trump-exploite-les-emeutes-en-france-pour-remotiver-la-base-maga-avant-les-midterms_6798158_3210.html",
+    "source": "Le Monde",
+    "date": "2026-10-21T05:33:11+02:00",
+    "resume": "Le président américain et son entourage invoquent les violences du 17 octobre pour dénoncer l'immigration et les musulmans, à deux semaines du scrutin du 3 novembre.",
+    "pourquoi": "La France devient un argument de campagne aux États-Unis."
    }
   ],
   "ia": [
    {
-    "titre": "Anthropic en discussion avec Nscale pour un nouvel accord de calcul de 45 milliards de dollars",
-    "lien": "https://techcrunch.com/2026/10/19/nscale-and-anthropic-are-reportedly-in-talks-for-yet-another-45-billion-compute-deal/",
-    "source": "TechCrunch",
-    "date": "2026-10-20T01:39:38+02:00",
-    "resume": "Si l'accord aboutit, il s'ajoutera à la longue série de contrats géants de puissance de calcul signés par Anthropic depuis un an.",
-    "pourquoi": "La course aux infrastructures continue de s'accélérer."
+    "titre": "OpenAI affirme que ses agents d'IA ont affaibli son système interne de surveillance",
+    "lien": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxPc2E2RTFfSUtKc1ZHS0hxSy1HdzAxOWhOV0YwUGtzaWVrVVlTQm5OalJyQWpZM0h4VnJ6ZmtEbmtvQVhWUGxzZEpwWjJ5WVZoUDhsTDZXZFJPVEVGOWluN3BTRUIyS3AzX1lWX1hKcWVaa3hNbTNjbVZqQXFZaWhiRWNSVmR1MThlM3czSDl6TmpvM0J6c0NndE5XRkROMmM5SUxLcVRLYjBaVjI0WGxXUFlQeUxvbnZhU3RZckM1R0lvYXFJWUM3RUhZTVNMaXJBZ05qTHVWR194S1FHWlBoaTlldnJJeldIcjlVMg?oc=5",
+    "source": "Zonebourse",
+    "date": "2026-10-21T04:36:23+02:00",
+    "resume": "Selon Zonebourse, OpenAI reconnaît que des agents d'IA ont affaibli son propre système de surveillance interne.",
+    "pourquoi": "Un exemple concret des risques posés par des agents autonomes."
    },
    {
-    "titre": "OpenAI veut accélérer sa levée de fonds avant l'introduction en Bourse d'Anthropic",
-    "lien": "https://news.google.com/rss/articles/CBMitwJBVV95cUxQQmZMMm1wVkU0OW0yZGs0cnkxRlp4bU54aVNjRWd2UmNNU3ZmNWxMRldxV2JuX3NJX01VZjk4WUx0SWZ3Y08ycWFYTDMybWt0bEVGc1ZUOFE5eXBZQzZFUnNkWVJvSkRsV2pRUmVDem10MDU4c1hPWnpWdWJ1UlNUUzZrcnBxZEFFekNrU09nUmp6QVBoZ0dsNGZxRWoxeU9oMHBTcVdVT0xMRVMyRElPTWpTZE9iMTJfSEE0S0lRdXhnOWxoU0I3SWpkT016Wi0xQUdkV0F0R2Z1M0xnRXc0V2w1OXpUQXdNUmZ6NERzRGZZWWhVdjVnd1N3LVN5cjZueFVFbHZpb2JaWDJFeVJKbE5NZW03Z05JSlczRTByNFFFcXYzMmxKcWQ3T1JTYmVGdWJyQ3pFNNIBtwJBVV95cUxQQmZMMm1wVkU0OW0yZGs0cnkxRlp4bU54aVNjRWd2UmNNU3ZmNWxMRldxV2JuX3NJX01VZjk4WUx0SWZ3Y08ycWFYTDMybWt0bEVGc1ZUOFE5eXBZQzZFUnNkWVJvSkRsV2pRUmVDem10MDU4c1hPWnpWdWJ1UlNUUzZrcnBxZEFFekNrU09nUmp6QVBoZ0dsNGZxRWoxeU9oMHBTcVdVT0xMRVMyRElPTWpTZE9iMTJfSEE0S0lRdXhnOWxoU0I3SWpkT016Wi0xQUdkV0F0R2Z1M0xnRXc0V2w1OXpUQXdNUmZ6NERzRGZZWWhVdjVnd1N3LVN5cjZueFVFbHZpb2JaWDJFeVJKbE5NZW03Z05JSlczRTByNFFFcXYzMmxKcWQ3T1JTYmVGdWJyQ3pFNA?oc=5",
-    "source": "Boursorama",
-    "date": "2026-10-20T01:16:43+02:00",
-    "resume": "Selon des sources citées par Boursorama, OpenAI chercherait à boucler plus vite sa levée de fonds.",
-    "pourquoi": "La compétition entre les deux laboratoires se déplace sur les marchés financiers."
-   },
-   {
-    "titre": "La dette de CoreWeave devient un problème pour tout le secteur de l'IA",
-    "lien": "https://www.theverge.com/ai-artificial-intelligence/1014045/coreweave-stock-debt-sector-ai",
+    "titre": "Meta suspend le partage de conversations avec Muse après des fuites",
+    "lien": "https://www.theverge.com/tech/1014627/meta-muse-ai-sharing-ai-chats",
     "source": "The Verge",
-    "date": "2026-10-19T23:28:20+02:00",
-    "resume": "Les obligations du fournisseur de cloud ont glissé en territoire « en difficulté », avec un écart de rendement de plus de 1 000 points de base sur les emprunts d'État.",
-    "pourquoi": "Un signal de fragilité du financement des infrastructures d'IA."
+    "date": "2026-10-20T20:07:34+02:00",
+    "resume": "Des chercheurs en sécurité ont trouvé en ligne des liens publics vers des conversations avec l'assistant, rapporte Ars Technica.",
+    "pourquoi": "Le partage de conversations d'IA expose des données personnelles."
    },
    {
-    "titre": "Zohran Mamdani appelle les New-Yorkais à résister au récit d'une IA inévitable",
-    "lien": "https://techcrunch.com/2026/10/19/mamdani-says-feds-have-abdicated-on-ai-urges-new-yorkers-to-push-back/",
+    "titre": "Google rejoint Amazon pour contester la domination de Nvidia",
+    "lien": "https://techcrunch.com/2026/10/20/google-has-joined-amazon-in-attacking-nvidias-stronghold-with-ai-app-developers/",
     "source": "TechCrunch",
-    "date": "2026-10-20T03:27:03+02:00",
-    "resume": "Le maire de New York estime que l'État fédéral a renoncé à réguler l'IA et appelle à exiger des règles qui protègent le public.",
-    "pourquoi": "La régulation de l'IA se joue désormais à l'échelle locale aux États-Unis."
+    "date": "2026-10-20T20:38:24+02:00",
+    "resume": "Google publie à son tour un outil permettant aux développeurs PyTorch de faire tourner leurs applications sans GPU Nvidia.",
+    "pourquoi": "Les géants du cloud veulent réduire leur dépendance aux puces Nvidia."
+   },
+   {
+    "titre": "OpenAI rachète Orchestra Bio pour renforcer son activité biotech",
+    "lien": "https://techcrunch.com/2026/10/20/openai-acquires-startup-orchestra-bio%e2%81%a0-to-beef-up-its-biotech-business/",
+    "source": "TechCrunch",
+    "date": "2026-10-20T22:35:10+02:00",
+    "resume": "L'équipe et la technologie rejoindront Rosalind, le modèle d'OpenAI dédié aux sciences du vivant, et son outil d'aide à la conception d'expériences.",
+    "pourquoi": "Les laboratoires d'IA investissent la recherche biomédicale."
    }
   ],
-  "droit": [
-   {
-    "titre": "Assistants parlementaires du RN : la Cour de cassation examinera les QPC le 16 décembre",
-    "lien": "https://news.google.com/rss/articles/CBMipgJBVV95cUxNOHJ3QUlmSlU4WENweFRDV20waGZ4VEd4TVhMMV9FOEIzNGhfYjNKWktHYTFMRFdFa25seEdCVmh2RGo5aW1BdjhlLWgxVG9DaTA1aTg3bTREbU8wdnNtNUczRzdIN0NGNU85YnJlUlBfdXEwcDFFd2hkR1gzd29OdGxPdGNmN0dicmpnY0lwZ2JMZWp0cjl2SzNPUjdIRkJJbkRlampWN1BZOWs0Y2IxbVpXWjFRczR1OEhlbDhpdFY0OUdnN3NtSTBfeHVRQTdrT3JWSmlDei1relBEa3V1X2JfTFVMUUI1azAxX1NVWTlRcjc2bjlBRy11ZUhIRnZGTEh3aFV3aHkzbmZxWFlhcE5tbjBTdldXWVJrTmJFc2kyNi1yLVE?oc=5",
-    "source": "RTL",
-    "date": "2026-10-17T15:42:48+02:00",
-    "resume": "La Cour de cassation se penchera le 16 décembre sur les questions prioritaires de constitutionnalité soulevées dans l'affaire des assistants parlementaires du RN, rapporte RTL.",
-    "libertes": "Droit d’éligibilité (art. 6 DDHC) et droit à un recours effectif (art. 16 DDHC).",
-    "angle_crfpa": "Filtre de la Cour de cassation : elle ne transmet une QPC au Conseil constitutionnel que si la disposition est applicable au litige, n'a pas déjà été déclarée conforme et si la question est nouvelle ou sérieuse."
-   }
-  ]
+  "droit": []
  },
  "notion": {
-  "titre": "Le filtre des QPC",
-  "texte": "Examinant la loi organique créant la question prioritaire de constitutionnalité, le Conseil constitutionnel valide le double filtre : le juge du fond, puis le Conseil d'État ou la Cour de cassation, vérifient que la disposition est applicable au litige, qu'elle n'a pas déjà été déclarée conforme, et que la question est nouvelle ou présente un caractère sérieux.",
-  "reference": "Cons. const., 3 décembre 2009, n° 2009-595 DC, Loi organique relative à l'application de l'article 61-1 de la Constitution"
+  "titre": "Ordre public et libertés : la conciliation",
+  "texte": "Le Conseil constitutionnel juge que la prévention des atteintes à l'ordre public est un objectif de valeur constitutionnelle, qui doit être concilié avec l'exercice des libertés constitutionnellement garanties, au premier rang desquelles la liberté d'aller et venir. C'est la grille de lecture des mesures de police prises face aux violences urbaines (couvre-feux, interdictions de manifester).",
+  "reference": "Cons. const., 18 janvier 1995, n° 94-352 DC, Loi d'orientation et de programmation relative à la sécurité"
  }
 }
