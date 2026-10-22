@@ -1,6 +1,6 @@
 {
  "date": "2026-10-22",
- "genere": "2026-10-22T07:12+02:00",
+ "genere": "2026-10-22T07:13+02:00",
  "journaux": [
   {
    "id": "figaro",
@@ -254,16 +254,6 @@
    "sous_titre": "Les informations les plus importantes, partout dans le monde",
    "items": [
     {
-     "titre": "Guerre en Ukraine : galvanisé par le soutien de Donald Trump, Vladimir Poutine ne cède rien",
-     "lien": "https://www.lemonde.fr/international/article/2026/10/21/guerre-en-ukraine-galvanise-par-le-soutien-de-donald-trump-vladimir-poutine-ne-cede-rien_6798307_3210.html",
-     "resume": "Reçu par le président russe près de Saint-Pétersbourg, mercredi, Steve Witkoff, l’émissaire de Donald Trump, a rendu hommage au maître du Kremlin, saluant son profil « humanitaire ». Il n’en est pas moins reparti sans obtenir la moindre concession de son…",
-     "date": "2026-10-21T21:08:49+02:00",
-     "source": "lemonde.fr",
-     "image": "https://img.lemde.fr/2026/10/21/97/0/4487/2243/644/322/60/0/20dc4fc_ftp-1-uhfdf7a71ui4-d07c917c76644fbca518f81f0150e33f-0-bbd01f44e6374c8792c7d096035e9d02.jpg",
-     "reprises": 5,
-     "score": 14.74
-    },
-    {
      "titre": "EN DIRECT, guerre en Ukraine : plus de 600 drones ont été lancés en direction de Moscou, selon le maire ; quinze blessés dans des frappes sur Kiev",
      "lien": "https://www.lemonde.fr/international/live/2026/10/22/en-direct-guerre-en-ukraine-plus-de-600-drones-ont-ete-lances-en-direction-de-moscou-selon-le-maire-quinze-blesses-dans-des-frappes-sur-kiev_6796922_3210.html",
      "resume": "Le maire de Moscou, Sergueï Sobianine, a rapporté que 163 drones s’étaient approchés de Moscou durant la nuit, et que deux personnes avaient été blessées.",
@@ -271,7 +261,17 @@
      "source": "lemonde.fr",
      "image": "https://img.lemde.fr/2026/10/22/481/0/5780/2890/644/322/60/0/a12bcb8_ftp-1-4h5xagrfpy0o-afp-d4292zq.jpg",
      "reprises": 6,
-     "score": 14.61
+     "score": 16.45
+    },
+    {
+     "titre": "Guerre en Ukraine : galvanisé par le soutien de Donald Trump, Vladimir Poutine ne cède rien",
+     "lien": "https://www.lemonde.fr/international/article/2026/10/21/guerre-en-ukraine-galvanise-par-le-soutien-de-donald-trump-vladimir-poutine-ne-cede-rien_6798307_3210.html",
+     "resume": "Reçu par le président russe près de Saint-Pétersbourg, mercredi, Steve Witkoff, l’émissaire de Donald Trump, a rendu hommage au maître du Kremlin, saluant son profil « humanitaire ». Il n’en est pas moins reparti sans obtenir la moindre concession de son…",
+     "date": "2026-10-21T21:08:49+02:00",
+     "source": "lemonde.fr",
+     "image": "https://img.lemde.fr/2026/10/21/97/0/4487/2243/644/322/60/0/20dc4fc_ftp-1-uhfdf7a71ui4-d07c917c76644fbca518f81f0150e33f-0-bbd01f44e6374c8792c7d096035e9d02.jpg",
+     "reprises": 5,
+     "score": 14.71
     },
     {
      "titre": "« Vladimir Poutine a-t-il vraiment cru que j’étais un espion ? » : le journaliste américain Evan Gershkovich, ex-otage du Kremlin, se livre sur sa détention",
@@ -280,8 +280,8 @@
      "date": "2026-10-22T06:00:26+02:00",
      "source": "lemonde.fr",
      "image": "https://img.lemde.fr/2026/10/20/7/0/1500/750/644/322/60/0/e48c941_ftp-1-3m6b2zwqnryw-449007-3523743.jpg",
-     "reprises": 6,
-     "score": 14.2
+     "reprises": 7,
+     "score": 12.12
     },
     {
      "titre": "Les Etats-Unis ordonnent le départ d’une partie des employés de leur ambassade à Riyad",
@@ -290,18 +290,8 @@
      "date": "2026-10-21T22:54:31+02:00",
      "source": "lemonde.fr",
      "image": "https://img.lemde.fr/2026/03/03/300/0/3600/1800/644/322/60/0/7bd8d09_ftp-1-zdpsz71q50xg-5351499-01-06.jpg",
-     "reprises": 4,
-     "score": 7.68
-    },
-    {
-     "titre": "Le pape Léon XIV n’aura pas besoin de traitement après son opération au poumon, annonce le Vatican",
-     "lien": "https://www.lemonde.fr/international/article/2026/10/22/le-pape-leon-xiv-n-aura-pas-besoin-de-traitement-apres-son-operation-au-poumon-annonce-le-vatican_6798380_3210.html",
-     "resume": "Le souverain pontife maintient sa tournée en Amérique latine du 6 au 17 novembre, après avoir été opéré d’un nodule pulmonaire cancéreux.",
-     "date": "2026-10-22T01:40:52+02:00",
-     "source": "lemonde.fr",
-     "image": "https://img.lemde.fr/2026/10/21/688/0/8256/4128/644/322/60/0/e262cba_ftp-1-i0jezqs1z4in-afp-d3xh83n.jpg",
      "reprises": 3,
-     "score": 5.16
+     "score": 5.66
     },
     {
      "titre": "Meta condamné à verser 25 milliards de dollars au Nouveau-Mexique après le scandale Cambridge Analytica",
@@ -312,6 +302,16 @@
      "image": "https://img.lemde.fr/2026/10/21/389/0/4308/2154/644/322/60/0/44e9007_upload-1-h7sh5o76lndx-063-2297773733.jpg",
      "reprises": 3,
      "score": 5.14
+    },
+    {
+     "titre": "Le pape Léon XIV n’aura pas besoin de traitement après son opération au poumon, annonce le Vatican",
+     "lien": "https://www.lemonde.fr/international/article/2026/10/22/le-pape-leon-xiv-n-aura-pas-besoin-de-traitement-apres-son-operation-au-poumon-annonce-le-vatican_6798380_3210.html",
+     "resume": "Le souverain pontife maintient sa tournée en Amérique latine du 6 au 17 novembre, après avoir été opéré d’un nodule pulmonaire cancéreux.",
+     "date": "2026-10-22T01:40:52+02:00",
+     "source": "lemonde.fr",
+     "image": "https://img.lemde.fr/2026/10/21/688/0/8256/4128/644/322/60/0/e262cba_ftp-1-i0jezqs1z4in-afp-d3xh83n.jpg",
+     "reprises": 3,
+     "score": 5.13
     }
    ],
    "a_traduire": []
@@ -328,8 +328,8 @@
      "date": "2026-10-21T18:40:10+02:00",
      "source": "franceinfo",
      "image": null,
-     "reprises": 9,
-     "score": 18.49
+     "reprises": 10,
+     "score": 20.28
     },
     {
      "titre": "Les modèles d’OpenAI arrivent sur Google Cloud",
@@ -339,7 +339,7 @@
      "source": "OpenAI",
      "image": null,
      "reprises": 6,
-     "score": 12.61
+     "score": 12.58
     },
     {
      "titre": "Laureline Serieys, ex Uber, rejoint OpenAI pour diriger la France",
@@ -349,7 +349,7 @@
      "source": "Maddyness",
      "image": null,
      "reprises": 7,
-     "score": 11.85
+     "score": 11.82
     },
     {
      "titre": "Anthropic dévoile l'application d'agent IA “Claude Duet”",
@@ -359,7 +359,7 @@
      "source": "Boursorama",
      "image": null,
      "reprises": 3,
-     "score": 4.95
+     "score": 4.96
     },
     {
      "titre": "SpaceX et Super Micro ravivent la flamme de l'IA à Wall Street",
@@ -369,7 +369,7 @@
      "source": "Boursorama",
      "image": null,
      "reprises": 1,
-     "score": 4.4
+     "score": 4.39
     }
    ],
    "a_traduire": [
@@ -394,6 +394,16 @@
      "score": 1.45
     },
     {
+     "titre": "Anthropic Commits $450 Billion to Cloud Computing Ahead of IPO",
+     "lien": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQSTNBZVRBRlZFSHk2UGpNbXJhSUQtSHJrRjRIdDh3ZFI3MTJXUzcyYzhzTnN0SlVtR3FFZURIUzF4blA2LXVyeC0wOUxaekFHWkZKclBRSjVkU2VVTWQ5S0NZNUUtQ19mX0dlUGgyYlBiMno2RE1CZUNqRm80UDlyT2pYQ2puTFFpYW1ZTG1OVzdQQnZEbS1fajVqMzBrdFVSZEpVcnR3b0RtU19QcVhQck9aekstVVZNdlp1Mg?oc=5",
+     "resume": "",
+     "date": "2026-10-21T14:18:12+02:00",
+     "source": "TradingView",
+     "image": null,
+     "reprises": 1,
+     "score": 1.32
+    },
+    {
      "titre": "Anthropic takes on Muse with Claude Duet, its new AI agent",
      "lien": "https://www.theverge.com/ai-artificial-intelligence/1015843/anthropic-claude-duet-ai-agent",
      "resume": "Anthropic just announced an AI agent competitor to Meta's Muse and OpenAI's Dots: Claude Duet. The new agent, designed for professionals and small business owners, is launching as a \"research preview,\" according to Anthropic, and it's available as a…",
@@ -412,16 +422,6 @@
      "image": null,
      "reprises": 1,
      "score": 1.21
-    },
-    {
-     "titre": "OpenAI says an AI agent lied about disabling its safety monitoring system",
-     "lien": "https://www.theverge.com/ai-artificial-intelligence/1015316/openai-ai-agent-disabling-monitoring-systems",
-     "resume": "OpenAI disclosed a pair of safety incidents that involved AI agents weakening their safety monitoring systems during internal coding tasks. In one incident, OpenAI says its GPT-6 Astra agent disabled its safety monitor when copying reference code - and then…",
-     "date": "2026-10-21T15:57:43+02:00",
-     "source": "theverge.com",
-     "image": null,
-     "reprises": 1,
-     "score": 1.04
     }
    ]
   },
@@ -437,8 +437,8 @@
      "date": "2026-10-21T15:33:52+02:00",
      "source": "Acteurs Publics",
      "image": null,
-     "reprises": 22,
-     "score": 52.91,
+     "reprises": 21,
+     "score": 50.74,
      "libertes": false
     },
     {
@@ -449,7 +449,7 @@
      "source": "CLCV",
      "image": null,
      "reprises": 10,
-     "score": 24.93,
+     "score": 25.22,
      "libertes": false
     },
     {
@@ -459,8 +459,8 @@
      "date": "2026-10-20T11:14:04+02:00",
      "source": "France 3 Régions",
      "image": null,
-     "reprises": 5,
-     "score": 8.49,
+     "reprises": 4,
+     "score": 6.62,
      "libertes": false
     },
     {
@@ -471,7 +471,7 @@
      "source": "Business AM",
      "image": null,
      "reprises": 3,
-     "score": 4.84,
+     "score": 4.86,
      "libertes": false
     },
     {
@@ -482,7 +482,7 @@
      "source": "20 Minutes",
      "image": null,
      "reprises": 2,
-     "score": 4.18,
+     "score": 4.17,
      "libertes": true
     },
     {
