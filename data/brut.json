@@ -1,6 +1,6 @@
 {
- "date": "2026-10-21",
- "genere": "2026-10-21T08:46+02:00",
+ "date": "2026-10-22",
+ "genere": "2026-10-22T07:12+02:00",
  "journaux": [
   {
    "id": "figaro",
@@ -8,57 +8,57 @@
    "couleur": "#163860",
    "une": {
     "fichier": "unes/figaro.jpg",
-    "date": "2026-10-21",
-    "source": "https://static.milibris.com/thumbnail/issue/dda13bea-b0bf-48ab-b1a1-cfdd8b4b4760/front/catalog-cover-large.jpeg"
+    "date": "2026-10-22",
+    "source": "https://static.milibris.com/thumbnail/issue/aab1370e-d18f-4700-b54f-d6869a9834ff/front/catalog-cover-large.jpeg"
    },
    "articles": [
     {
-     "titre": "Incendie de la mairie de Limoges : le plateau de Millevaches, cette «base arrière» de l’ultragauche qui est dans le viseur des élus locaux",
-     "lien": "https://www.lefigaro.fr/actualite-france/le-plateau-de-millevaches-cette-base-arriere-de-l-ultragauche-qui-est-dans-le-viseur-des-elus-locaux-20261021",
-     "resume": "RÉCIT - Depuis l’incendie de l’hôtel de ville de Limoges, les regards se tournent vers ce territoire rural du Limousin où la mouvance radicale a pris racine il y a près de vingt ans. Le député de la Creuse Bartolomé Lenoir réclame la dissolution des groupes…",
-     "date": "2026-10-21T06:57:23+02:00",
+     "titre": "«Bombe météorologique», vents «violents» jusqu’à 130 km/h, trafic ferroviaire perturbé… La tempête Austen s’apprête à frapper la France",
+     "lien": "https://www.lefigaro.fr/meteo/bombe-meteorologique-vents-violents-jusqu-a-130-km-h-trafic-ferroviaire-perturbe-la-tempete-austen-s-apprete-a-frapper-la-france-20261021",
+     "resume": "Première tempête de l’automne, Austen doit toucher le nord-ouest de la France dès la nuit de jeudi à vendredi. Des perturbations dans les transports et des chutes d’arbres sont à craindre.",
+     "date": "2026-10-22T06:47:35+02:00",
      "source": "",
-     "image": "https://i.f1g.fr/media/cms/3000x2000_crop/2026/10/20/ed9bb931c1554f14dbba8783b1b3d299b4d84dd0f1c242db6d77860977d39419.jpg"
+     "image": "https://i.f1g.fr/media/cms/orig/2026/10/22/94b0d3088163322254387109c7b8cc2bc4cae61fd3bbdf39b70df3273d9d46b1.jpg"
     },
     {
-     "titre": "Incendie de la mairie de Limoges : David Lisnard dénonce les «camps d’entraînement terroristes sur le plateau de Millevaches»",
-     "lien": "https://www.lefigaro.fr/elections/presidentielles/candidats/incendie-de-la-mairie-de-limoges-david-lisnard-denonce-les-camps-d-entrainement-terroristes-sur-le-plateau-de-millevaches-20261020",
-     "resume": "Le candidat à la présidentielle et maire de Cannes pointe la responsabilité de militants radicaux dans l’incendie de la mairie de Limoges.",
-     "date": "2026-10-20T11:22:02+02:00",
+     "titre": "La pluie et les rafales reviennent par l’ouest avant l’arrivée de la tempête Austen : découvrez la météo du jeudi 22 octobre",
+     "lien": "https://www.lefigaro.fr/meteo/la-pluie-et-les-rafales-reviennent-par-l-ouest-avant-l-arrivee-de-la-tempete-austen-decouvrez-la-meteo-du-jeudi-22-octobre-20261021",
+     "resume": "Le temps se dégrade ce jeudi avec l’arrivée d’une perturbation atlantique, apportant pluies et vent de plus en plus soutenu. L’ouest et le nord retrouvent une ambiance automnale, tandis que l’est et surtout le sud-est profitent encore d’un temps calme et…",
+     "date": "2026-10-21T15:07:14+02:00",
      "source": "",
-     "image": "https://i.f1g.fr/media/cms/orig/2026/10/20/770f56f8264752eef4c83b07ed6999b0b42f1dbbc6ef95e84556c20393221f2d.JPG"
+     "image": "https://i.f1g.fr/media/cms/orig/2026/10/21/6d5b017402978335602ee198c4c557c8c51a85a10584def071cff99dcd688a75.jpg"
     },
     {
-     "titre": "Membre de l’ultragauche, fiché S, parents militants… Ce que l’on sait de Hodei C.D., le principal suspect de l’incendie de la mairie de Limoges",
-     "lien": "https://www.lefigaro.fr/faits-divers/membre-de-l-ultragauche-fiche-s-parents-militants-ce-que-l-on-sait-de-hodei-c-d-le-principal-suspect-de-l-incendie-de-la-mairie-de-limoges-20261020",
-     "resume": "Âgé de 34 ans, le jeune homme a été interpellé au saut du lit mardi matin chez ses parents, à Val-d’Issoire, une petite commune située à une cinquantaine de kilomètres de Limoges. Son père, adepte de la «désobéissance civile» avait lui-même déjà été impliqué…",
-     "date": "2026-10-20T17:33:11+02:00",
+     "titre": "Climat : El Niño pourrait «littéralement dépasser les échelles de suivi» actuelles, alerte l'ONU",
+     "lien": "https://www.lefigaro.fr/sciences/climat-el-nino-pourrait-litteralement-depasser-les-echelles-de-suivi-actuelles-alerte-l-onu-20261021",
+     "resume": "Le phénomène El Niño actuel va encore s’intensifier dans les prochains mois et pourrait atteindre une intensité sans précédent, selon l’Organisation météorologique mondiale (OMM) de l’ONU.",
+     "date": "2026-10-21T14:45:57+02:00",
      "source": "",
-     "image": "https://i.f1g.fr/media/cms/3000x2199_crop/2026/10/20/a5837404d5df99cae717d37d1ecf3fa37ad3c4c4a36536d54b1afd75659f70b5.jpg"
+     "image": "https://i.f1g.fr/media/cms/orig/2026/10/21/bac34977152ec045d049c22f4f7a20f2a5364ffa738b049394d2dd316b492040.JPG"
     },
     {
-     "titre": "« Qu’elle brûle jusqu’à la dernière pierre ! » : à Limoges, le récit heure par heure de l’attaque des émeutiers et de l’incendie de l’hôtel de ville",
-     "lien": "https://www.lefigaro.fr/actualite-france/qu-elle-brule-jusqu-a-la-derniere-pierre-a-limoges-le-recit-heure-par-heure-de-l-attaque-des-emeutiers-et-de-l-incendie-de-l-hotel-de-ville-20261020",
-     "resume": "RÉCIT - Échauffourées avec les forces de l’ordre à l’entrée de la ville l’après-midi, incendie et la chute du beffroi de la mairie dans la soirée… la préfecture de la Haute-Vienne a vécu un samedi cauchemardesque sous les assauts de plusieurs milliers…",
-     "date": "2026-10-20T17:24:50+02:00",
+     "titre": "«Si l’État n’intervient pas, il va y avoir un drame» : les commerçants de toute la France s’organisent avant l’acte II des «gilets jaunes»",
+     "lien": "https://www.lefigaro.fr/conso/si-l-etat-n-intervient-pas-il-va-y-avoir-un-drame-les-commercants-de-toute-la-france-s-organisent-avant-l-acte-ii-des-gilets-jaunes-20261022",
+     "resume": "Entre attentisme face à une mobilisation prévue ce samedi 24 octobre dont on ignore encore tout, et volonté de ne pas revivre les mêmes scènes de chaos, ils sont mobilisés et ne comptent pas se laisser faire.",
+     "date": "2026-10-22T07:03:47+02:00",
      "source": "",
-     "image": "https://i.f1g.fr/media/cms/2000x1334_crop/2026/10/20/cd3398d407a7f7816d5cf0b3d8c242eb674c27c78cfde6e2265a1a1f2a8f4f07.jpg"
+     "image": "https://i.f1g.fr/media/cms/3000x1939_crop/2026/10/21/782854774bc3c6568cd65d86f6f769b470410c730d27523cb24f1c53f5450a3f.jpg"
     },
     {
-     "titre": "Partis politiques invités à Matignon après les violences : «On va y aller, on va te pourrir la réunion», lance Mélenchon à Lecornu",
-     "lien": "https://www.lefigaro.fr/elections/presidentielles/candidats/partis-politiques-invites-a-matignon-apres-les-violences-on-va-y-aller-on-va-te-pourrir-la-reunion-dit-melenchon-a-lecornu-20261020",
-     "resume": "Le premier ministre a fait parvenir mardi une lettre aux différents partis pour expliquer sa démarche, sur fond de tirs croisés entre l’exécutif et LFI, qui se renvoient la responsabilité des scènes de chaos observées ce week-end.",
-     "date": "2026-10-21T07:09:31+02:00",
+     "titre": "Maintien de l’ordre : le rapport choc du Sénat pour en finir avec les casseurs",
+     "lien": "https://www.lefigaro.fr/actualite-france/maintien-de-l-ordre-le-rapport-choc-du-senat-pour-en-finir-avec-les-casseurs-20261021",
+     "resume": "EXCLUSIF - La Commission des lois de la Haute Assemblée dégaine 30 mesures à adopter pour mieux anticiper les troubles, renforcer l’efficacité opérationnelle des unités et sanctionner plus durement factieux et pilleurs.",
+     "date": "2026-10-21T12:36:30+02:00",
      "source": "",
-     "image": "https://i.f1g.fr/media/cms/orig/2026/10/21/7d363bfabd46681132408174eea37d6debc4cce3d31347f68ce7d23b4c079f4c.jpg"
+     "image": "https://i.f1g.fr/media/cms/3000x2001_crop/2026/10/21/185f49712f883c7c53714e03f319cb5410bbd426748a4efec372ab22acea5eb6.jpg"
     },
     {
-     "titre": "L’éditorial de Vincent Trémolet de Villers : « Mélenchon et LFI, les ingénieurs du chaos »",
-     "lien": "https://www.lefigaro.fr/vox/politique/l-editorial-de-vincent-tremolet-de-villers-melenchon-et-lfi-les-ingenieurs-du-chaos-20261020",
-     "resume": "Les derniers événements nous renseignent sur l’absence de scrupule d’un écosystème militant qui, dans la difficulté, hisse à son sommet le complotisme radical chic.",
-     "date": "2026-10-20T20:25:41+02:00",
+     "titre": "17 octobre : après le chaos, comment la police traque les pillards en fuite",
+     "lien": "https://www.lefigaro.fr/actualite-france/17-octobre-apres-le-chaos-comment-la-police-traque-les-pillards-en-fuite-20261021",
+     "resume": "DÉCRYPTAGE - Lancés dans une véritable course contre la montre pour retrouver les casseurs avant qu’ils ne repassent à l’action, les services d’investigation exploitent le moindre indice et passent au crible les réseaux sociaux.",
+     "date": "2026-10-21T21:04:42+02:00",
      "source": "",
-     "image": "https://i.f1g.fr/media/cms/1918x1079_crop/2026/10/20/fe861256ee5fe1d9b12833818851bbed4149bc2b9eb651abc4a9b153b4a3e1fc.jpg"
+     "image": "https://i.f1g.fr/media/cms/3000x1687_crop/2026/10/21/a6bd8195d9e611d20d39ac81db54d17c03e396aae2065df562f7809deff6ecb4.jpg"
     }
    ],
    "flux_utilise": "https://www.lefigaro.fr/rss/figaro_actualites.xml"
@@ -69,57 +69,57 @@
    "couleur": "#111111",
    "une": {
     "fichier": "unes/monde.webp",
-    "date": "2026-10-21",
-    "source": "https://www.frontpages.com/t/2026/10/20/le-monde-2322138r0@2x.webp"
+    "date": "2026-10-22",
+    "source": "https://www.frontpages.com/t/2026/10/21/le-monde-234350jm9@2x.webp"
    },
    "articles": [
     {
-     "titre": "Manifestations du 17 octobre : entre LFI et le gouvernement, un face-à-face de plus en plus virulent qui resserre les rangs à gauche",
-     "lien": "https://www.lemonde.fr/politique/article/2026/10/21/manifestation-du-17-octobre-entre-la-france-insoumise-et-le-gouvernement-un-face-a-face-de-plus-en-plus-virulent_6798122_823448.html",
-     "resume": "L’exécutif, comme les partis du bloc central, de la droite et de l’extrême droite, accusent les « insoumis » d’attiser les violences. Le président du Sénat, Gérard Larcher (Les Républicains), a estimé, mardi, que la question de l’interdiction de La France…",
-     "date": "2026-10-21T05:15:07+02:00",
+     "titre": "« Brillant » mais pas « politique », le ministre de l’éducation nationale, Edouard Geffray, se retrouve sur la brèche",
+     "lien": "https://www.lemonde.fr/politique/article/2026/10/22/brillant-mais-pas-politique-le-ministre-de-l-education-edouard-geffray-se-retrouve-sur-la-breche_6798552_823448.html",
+     "resume": "Le ministre de l’éducation nationale doit présenter, lundi 26 octobre, les mesures censées répondre aux revendications du mouvement lycéen, un mois après le début de la crise entre l’exécutif et la jeunesse, la plus aiguë depuis vingt ans.",
+     "date": "2026-10-22T05:30:46+02:00",
      "source": "",
-     "image": "https://img.lemde.fr/2026/10/21/434/0/5213/2606/644/322/60/0/e8e9fcb_upload-1-c4bk3a7tqcu8-cbi1348067.JPG"
+     "image": "https://img.lemde.fr/2026/10/21/1500/0/4000/2000/644/322/60/0/7544f99_upload-1-zwhpkht4tzfv-kzihnioglu-pol-edouard-geffray-20102026-40.jpg"
     },
     {
-     "titre": "Etats-Unis : comment le camp Trump exploite les émeutes en France pour remotiver la base MAGA avant les midterms",
-     "lien": "https://www.lemonde.fr/international/article/2026/10/21/etats-unis-comment-le-camp-trump-exploite-les-emeutes-en-france-pour-remotiver-la-base-maga-avant-les-midterms_6798158_3210.html",
-     "resume": "Le président américain et son entourage se sont appuyés à plusieurs reprises sur les violences du 17 octobre pour dénoncer l’immigration et les musulmans, prévenant qu’une victoire des démocrates aux élections de mi-mandat, le 3 novembre, exposait les…",
-     "date": "2026-10-21T05:33:10+02:00",
+     "titre": "Affaire Thélyson Orélien : l’IA a été utilisée pour l’écriture du roman, annonce son éditeur canadien, qui met fin à sa collaboration avec l’auteur",
+     "lien": "https://www.lemonde.fr/pixels/article/2026/10/21/l-ia-a-ete-utilisee-pour-l-ecriture-du-roman-de-thelyson-orelien-annonce-son-editeur-canadien-qui-met-fin-a-sa-collaboration-avec-l-auteur_6798291_4408996.html",
+     "resume": "Une analyse externe approfondie de l’ensemble des versions de travail du roman a révélé « des traces de balises d’IA dans les métadonnées », font savoir les Editions du Boréal. « Le livre a été écrit par moi », explique Thélyson Orélien, en reconnaissant…",
+     "date": "2026-10-21T18:42:57+02:00",
      "source": "",
-     "image": "https://img.lemde.fr/2026/10/20/0/0/5229/2614/644/322/60/0/de4843e_ftp-1-tdywbzmai3gh-2301055953.jpg"
+     "image": "https://img.lemde.fr/2026/09/25/543/0/6500/3250/644/322/60/0/4a45fb5_ftp-1-q1fsbwugu7bn-2026-09-25t140339z-1315286628-rc2donaoykx2-rtrmadp-3-france-book-ai.JPG"
     },
     {
-     "titre": "Guerre en Ukraine : à Oslo, Zelensky entretient, sans y croire, l’espoir d’être à nouveau entendu par les Etats-Unis",
-     "lien": "https://www.lemonde.fr/international/article/2026/10/21/guerre-en-ukraine-a-oslo-zelensky-entretient-sans-y-croire-l-espoir-d-etre-a-nouveau-entendu-par-les-etats-unis_6798157_3210.html",
-     "resume": "Le président ukrainien s’est entretenu avec l’envoyé spécial de Donald Trump, Steve Witkoff, mardi en Norvège, après une semaine de montée de tensions entre Kiev et Washington, alors que la Maison Blanche est de plus en plus alignée avec Moscou.",
-     "date": "2026-10-21T05:30:08+02:00",
+     "titre": "Guerre en Ukraine : galvanisé par le soutien de Donald Trump, Vladimir Poutine ne cède rien",
+     "lien": "https://www.lemonde.fr/international/article/2026/10/21/guerre-en-ukraine-galvanise-par-le-soutien-de-donald-trump-vladimir-poutine-ne-cede-rien_6798307_3210.html",
+     "resume": "Reçu par le président russe près de Saint-Pétersbourg, mercredi, Steve Witkoff, l’émissaire de Donald Trump, a rendu hommage au maître du Kremlin, saluant son profil « humanitaire ». Il n’en est pas moins reparti sans obtenir la moindre concession de son…",
+     "date": "2026-10-21T21:08:49+02:00",
      "source": "",
-     "image": "https://img.lemde.fr/2026/10/20/0/0/7877/3938/644/322/60/0/388bbd7_ftp-1-qvdqqpqoyiw0-4f37462fec3a4f8e99112d24b561af3c-0-2164cbd79302415e87706581e3e7d5dd.jpg"
+     "image": "https://img.lemde.fr/2026/10/21/97/0/4487/2243/644/322/60/0/20dc4fc_ftp-1-uhfdf7a71ui4-d07c917c76644fbca518f81f0150e33f-0-bbd01f44e6374c8792c7d096035e9d02.jpg"
     },
     {
-     "titre": "PSG-Barcelone : Paris l’emporte au terme d’un match spectaculaire, grâce à la force de son milieu et à Lucas Hernandez en héros inattendu",
-     "lien": "https://www.lemonde.fr/sport/article/2026/10/21/psg-barcelone-paris-l-emporte-au-terme-d-un-match-spectaculaire-grace-a-la-force-de-son-milieu-et-a-lucas-hernandez-en-heros-inattendu_6798117_3242.html",
-     "resume": "Le double champion d’Europe a confirmé sa suprématie sur la scène continentale en dominant le Barça (4-2), mardi, en Ligue des champions. Un succès de prestige après une fin de rencontre assez folle.",
-     "date": "2026-10-21T05:00:11+02:00",
+     "titre": "A la cour d’assises des Bouches-du-Rhône, derrière un triple narchomicide barbare, des preuves matérielles compromettantes",
+     "lien": "https://www.lemonde.fr/societe/article/2026/10/22/a-la-cour-d-assises-des-bouches-du-rhone-derriere-un-triple-narchomicide-barbare-des-preuves-materielles-compromettantes_6798514_3224.html",
+     "resume": "Cinq accusés sont soupçonnés d’avoir organisé et d’avoir participé à un guet-apens ayant conduit aux assassinats, le 29 décembre 2020, de Réda Khaldi, Nassim Loubani et Brahim Chabane, le demi-frère du militant Amine Kessaci.",
+     "date": "2026-10-22T05:00:03+02:00",
      "source": "",
-     "image": "https://img.lemde.fr/2026/10/20/161/0/2526/1263/644/322/60/0/05c0a91_ftp-1-aumgtp0jhhlw-2026-10-20t193023z-1562590480-up1emak1i6mao-rtrmadp-3-soccer-champions-psg-bar.JPG"
+     "image": "https://img.lemde.fr/2026/10/19/120/0/1024/512/644/322/60/0/cd23f71_ftp-1-1a1k1d50kyxd-afp-d3qa9r2-1024.jpg"
     },
     {
-     "titre": "Un Mirage 2000-D de l’armée française s’est écrasé près de Nancy, faisant au moins un mort",
-     "lien": "https://www.lemonde.fr/societe/article/2026/10/21/des-recherches-lancees-en-meurthe-et-moselle-apres-le-possible-crash-d-un-avion-militaire_6798200_3224.html",
-     "resume": "L’accident de l’appareil de la base aérienne 133 de Nancy-Ochey s’est produit à proximité de Rogéville vers 23 heures. Les recherches se poursuivent pour retrouver un deuxième membre d’équipage.",
-     "date": "2026-10-21T06:35:41+02:00",
+     "titre": "L’Omnibus X, cheval de Troie des « pesticides génétiques » en Europe",
+     "lien": "https://www.lemonde.fr/planete/article/2026/10/22/l-omnibus-x-cheval-de-troie-des-pesticides-genetiques-en-europe_6798555_3244.html",
+     "resume": "La Commission européenne, qui souhaite assouplir la réglementation sur les produits phytosanitaires, prévoit de classer comme « produits de biocontrôle » les nouveaux pesticides à ARN interférent. Un statut qui en faciliterait l’usage, mais sans moyen d’en…",
+     "date": "2026-10-22T05:45:10+02:00",
      "source": "",
-     "image": "https://img.lemde.fr/2021/02/10/656/0/6720/3360/644/322/60/0/380f83b_812569822-000-1bs129.jpg"
+     "image": "https://img.lemde.fr/2026/10/20/473/0/5678/2839/644/322/60/0/9ff93cc_ftp-1-iagxyb0apwbd-afp-d3td7nn.jpg"
     },
     {
-     "titre": "L’action climatique est « dangereusement insuffisante », alertent les Nations unies face au dépassement annoncé du seuil de 1,5 °C de réchauffement",
-     "lien": "https://www.lemonde.fr/planete/article/2026/10/21/l-action-climatique-est-dangereusement-insuffisante-alertent-les-nations-unies-face-au-depassement-annonce-du-seuil-de-1-5-c-de-rechauffement_6798118_3244.html",
-     "resume": "A quelques jours de l’ouverture de la COP31 en Turquie, le Progamme des Nations unies pour l’environnement prévoit, si les politiques actuelles se poursuivent, que le réchauffement atteindrait 2,8 °C d’ici à 2100 et s’accentuerait par la suite.",
-     "date": "2026-10-21T05:00:14+02:00",
+     "titre": "A la Paris Games Week, le grand paradoxe du jeu vidéo en France : une demande dynamique mais des studios en souffrance",
+     "lien": "https://www.lemonde.fr/pixels/article/2026/10/22/a-la-paris-games-week-le-grand-paradoxe-du-jeu-video-en-france-une-demande-dynamique-mais-des-studios-en-souffrance_6798556_4408996.html",
+     "resume": "Le plus grand salon français dédié au jeu vidéo ouvre ses portes jeudi 22 octobre. Alors que la pratique reste très répandue dans le pays, les professionnels subissent de plein fouet une violente crise économique, qui ébranle même les champions du secteur.",
+     "date": "2026-10-22T06:00:08+02:00",
      "source": "",
-     "image": "https://img.lemde.fr/2026/10/20/251/0/2997/1498/644/322/60/0/67fe086_upload-1-7dtagdec2qav-le-monde-ciren-030.jpg"
+     "image": "https://img.lemde.fr/2024/10/22/500/0/6000/3000/644/322/60/0/8d8d26a_5038803-01-06.jpg"
     }
    ],
    "flux_utilise": "https://www.lemonde.fr/rss/une.xml"
@@ -129,58 +129,58 @@
    "nom": "La Croix",
    "couleur": "#c8102e",
    "une": {
-    "fichier": "unes/croix.jpg",
-    "date": "2026-10-21",
-    "source": "https://img.kiosko.net/2026/10/21/fr/lacroix.750.jpg"
+    "fichier": "unes/croix.webp",
+    "date": "2026-10-22",
+    "source": "https://www.frontpages.com/t/2026/10/22/la-croix-064406c65@2x.webp"
    },
    "articles": [
     {
-     "titre": "Guerre en Ukraine : Witkoff va rencontrer Poutine ; les pourparlers d’Oslo jugés « positifs »",
-     "lien": "https://www.la-croix.com/international/guerre-en-ukraine-witkoff-va-rencontrer-poutine-les-pourparlers-d-oslo-juges-positifs-20261021",
-     "resume": "Steve Witkoff, émissaire de Donald Trump, est arrivé à Saint-Pétersbourg pour rencontrer Vladimir Poutine. Les discussions de la veille avec Volodymyr Zelensky à Oslo ont été jugées « positives » par les Américains. Suivez l’actualité du mercredi 21 octobre…",
-     "date": "2026-10-21T08:41:08+02:00",
+     "titre": "Intempéries dans le Sud-Est : le bilan monte à 4 morts et 1 disparu",
+     "lien": "https://www.la-croix.com/planete/intemperies-dans-le-sud-est-le-bilan-monte-a-4-morts-et-1-disparu-20261022",
+     "resume": "Les intempéries qui ont frappé le sud-est de la France en début de semaine ont fait au moins quatre morts et un disparu, selon un bilan publié mercredi 21 octobre par la préfecture des Bouches-du-Rhône.",
+     "date": "2026-10-22T07:06:00+02:00",
      "source": "",
-     "image": "https://i.la-croix.com/x/2026/10/21/2568148-volodymyr-zelensky-s-est-rendu-en-norvege-ou-il-a-.jpg"
+     "image": "https://i.la-croix.com/x/2026/10/22/2569240-saint-martin-de-crau-mercredi-21-octobre-suite-aux.jpg"
     },
     {
-     "titre": "Intempéries : un homme porté disparu en Haute-Corse retrouvé mort",
-     "lien": "https://www.la-croix.com/societe/intemperies-un-homme-porte-disparu-en-haute-corse-retrouve-mort-20261021",
-     "resume": "Un homme porté disparu mardi 20 octobre à Ghisonaccia a été retrouvé mort en Haute-Corse, placée en vigilance rouge pluie-inondation. Les intempéries liées à la goutte froide « Adam » ont également causé un décès près de Marseille.",
-     "date": "2026-10-21T08:40:49+02:00",
+     "titre": "Bernard Lavilliers, l’éternel lutteur de la chanson, de retour avec un album de révolte et d’espérance",
+     "lien": "https://www.la-croix.com/culture/bernard-lavilliers-l-eternel-lutteur-de-la-chanson-de-retour-avec-un-album-de-revolte-et-desperance-20261021",
+     "resume": "Rite cruel, le 23e album de Bernard Lavilliers, disponible le 23 octobre 2026, célèbre le pouvoir des mots contre la barbarie. Entre colère, espoirs et résistance face aux périls, le chanteur raconte ce disque cinglant et chaloupé.",
+     "date": "2026-10-22T06:55:11+02:00",
      "source": "",
-     "image": "https://i.la-croix.com/x/2026/10/21/2568150-un-homme-qui-avait-disparu-dans-les-intemperies-de.jpg"
+     "image": "https://i.la-croix.com/x/2026/10/21/2568490-l-artiste-stephanois-bernard-lavilliers-sort-un-no.jpg"
     },
     {
-     "titre": "« La Gradiva », « Karma », « Marie Madeleine »… Les sorties cinéma du mercredi 21 octobre 2026",
-     "lien": "https://www.la-croix.com/culture/la-gradiva-karma-marie-madeleine-les-sorties-cinema-du-mercredi-21-octobre-2026-20261021",
-     "resume": "La Gradiva, de Marine Atlan ; Karma, de Guillaume Canet ; Une femme aujourd’hui, de Robert Guédiguian ; Marie Madeleine, de Gessica Généus : voici les films qui sortent en salles ce mercredi 21 octobre 2026, notés par la rédaction.",
-     "date": "2026-10-21T08:39:40+02:00",
+     "titre": "Guerre en Ukraine : attaques réciproques ; la fin de la conflit « proche » selon Trump",
+     "lien": "https://www.la-croix.com/international/ukraine-russie-jour-1700-point-conflit-ukrainien-poutine-aujourdhui-20261022",
+     "resume": "L’Ukraine et la Russie ont mené des attaques réciproques, quelques heures seulement après des pourparlers russo-américains. Donald Trump a affirmé que la fin du conflit était proche. Retrouvez l’actualité du jeudi 22 octobre sur la guerre en Ukraine.",
+     "date": "2026-10-22T06:50:07+02:00",
      "source": "",
-     "image": "https://i.la-croix.com/x/2026/10/21/2567840-la-gradiva-de-marine-atlan-grand-prix-de-la-semain.jpg"
+     "image": "https://i.la-croix.com/x/2026/10/22/2569228-degats-causes-par-une-frappe-de-drone-russe-sur-un.jpg"
     },
     {
-     "titre": "« Une société sans colonne vertébrale spirituelle et sans limites perd son âme et sa jeunesse »",
-     "lien": "https://www.la-croix.com/a-vif/une-societe-sans-colonne-vertebrale-spirituelle-et-sans-limites-perd-son-ame-et-sa-jeunesse-20261021",
-     "resume": "Après les émeutes du samedi 17 octobre, une voix venue du monde rural, celle d’Arnaud Favart, interpelle : et si la violence des émeutiers n’était que le reflet d’une société qui repousse sans cesse ses propres limites, de l’agriculture intensive aux réseaux…",
-     "date": "2026-10-21T08:39:02+02:00",
+     "titre": "DIRECT. Manifestation du 24 octobre : couvre-feux, dispositif… Suivez l’actualité du jour",
+     "lien": "https://www.la-croix.com/societe/direct-manifestation-17-octobre-jour-6-violences-couvre-feu-dispositif-aujourdhui-20261022",
+     "resume": "Des gilets jaunes ont appelé à des manifestations et à un « acte II » samedi 24 octobre. Hier soir, des couvre-feux ont été reconduits à Paris et à Lyon pour éviter les violences et les pillages. Après avoir rencontré les syndicats, Lecornu reçoit les partis…",
+     "date": "2026-10-22T06:49:30+02:00",
      "source": "",
-     "image": "https://i.la-croix.com/x/2026/10/21/2567266-l-office-de-tourisme-de-lyon-incendie-lors-des-eme.jpg"
+     "image": "https://i.la-croix.com/x/2026/10/22/2568872-sebastien-lecornu-a-gauche-au-ministere-de-l-inter.jpg"
     },
     {
-     "titre": "Nancy : au moins un mort dans le crash d’un avion de chasse Mirage-2000D",
-     "lien": "https://www.la-croix.com/societe/nancy-au-moins-un-mort-dans-le-crash-d-un-avion-de-chasse-mirage-2000d-20261021",
-     "resume": "Un Mirage-2000D de la base aérienne de Nancy-Ochey s’est écrasé mardi soir près de Rogéville, en Meurthe-et-Moselle. L’accident, survenu vers 23 heures lors d’un vol d’entraînement, a coûté la vie à au moins un membre de l’équipage, a-t-on appris mercredi 21…",
-     "date": "2026-10-21T08:08:12+02:00",
+     "titre": "Violences du 17 octobre : pourquoi l’exécutif continue de charger LFI",
+     "lien": "https://www.la-croix.com/politique/violences-du-17-octobre-pourquoi-l-executif-continue-de-charger-lfi-20261021",
+     "resume": "Après les violences du 17 octobre, l’exécutif multiplie les accusations contre La France insoumise et ses liens supposés avec l’ultragauche. Une stratégie qui place le mouvement au centre des débats et suscite des critiques jusque dans la gauche…",
+     "date": "2026-10-22T06:34:17+02:00",
      "source": "",
-     "image": "https://i.la-croix.com/x/2026/10/21/2568113-un-mirage-2000-s-est-ecrase-pres-de-nancy-au-moins.jpg"
+     "image": "https://i.la-croix.com/x/2026/10/21/2568830-jean-luc-melenchon-entoures-de-plusieurs-elus-lfi-.jpg"
     },
     {
-     "titre": "DIRECT. Manifestation du 24 octobre : dispositif policier « massif » ; les syndicats attendus à Matignon",
-     "lien": "https://www.la-croix.com/societe/direct-manifestation-17-octobre-jour-5-violences-couvre-feu-annonces-nunez-aujourdhui-20261021",
-     "resume": "De nouvelles actions et manifestations ont été annoncées samedi 24 octobre, faisant craindre de nouveaux risques d’émeutes. Des couvre-feux ont eu lieu cette nuit dans des quartiers de Paris, Lyon, et Marseille, pour limiter les violences. Suivez la…",
-     "date": "2026-10-21T07:54:06+02:00",
+     "titre": "Face aux attaques houthistes visant Riyad, l’Égypte s’engage à reculons",
+     "lien": "https://www.la-croix.com/international/face-aux-attaques-houthistes-visant-riyad-l-egypte-sengage-a-reculons-20261021",
+     "resume": "Le Parlement égyptien se hâte lentement, en réponse à la demande du président Al Sissi de voter l’autorisation d’un soutien militaire à l’Arabie saoudite. Pendant ce temps, le grand imam d’Al-Azhar propose une médiation politico-religieuse pour résoudre le…",
+     "date": "2026-10-22T06:32:14+02:00",
      "source": "",
-     "image": "https://i.la-croix.com/x/2026/10/21/2568090-un-helicoptere-de-la-gendarmerie-a-de-nouveau-patr.jpg"
+     "image": "https://i.la-croix.com/x/2026/10/21/2568809-le-president-egyptien-abdel-fattah-al-sissi-a-g-ac.jpg"
     }
    ],
    "flux_utilise": "https://www.la-croix.com/feeds/rss/site.xml"
@@ -190,61 +190,61 @@
    "nom": "L'Équipe",
    "couleur": "#e2001a",
    "une": {
-    "fichier": "unes/equipe.jpg",
-    "date": "2026-10-21",
-    "source": "https://img.kiosko.net/2026/10/21/fr/l_equip.750.jpg"
+    "fichier": "unes/equipe.webp",
+    "date": "2026-10-22",
+    "source": "https://www.frontpages.com/t/2026/10/22/l-equipe-010007taq@2x.webp"
    },
    "articles": [
     {
-     "titre": "Les notes de PSG-FC Barcelone : Hernandez irrésistible, Martin invisible",
-     "lien": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQR0hoejl4ZGltbU54bS1DZXJCeUNOdjBfR0lyNm1hV1lFYV9OTFpLVXJIVEV1WXBpd2xja1djRHVZRjNMWThwN3psb1NOYnozamNGTTRfRV9mYUZiVjJQYjhxYTVhV1NuXzM0R0cxNlRJOUd6bTU3blpDSE1CLW1sU1ViZ2ZBMFVNZVdNcmk3VEVjSklfNXpXY1JCcGxwTDZ6MTU2cXhTaUwzV2puZ0MzOW5yWVVlTWtj?oc=5",
+     "titre": "Le résumé vidéo de Raptors - Bulls avec le retour de Kawhi Leonard",
+     "lien": "https://www.lequipe.fr/Basket/Video/Nba-nba-le-resume-de-toronto-raptors-chicago-bulls-avec-le-retour-de-kawhi-leonard/20243775#at_medium=RSS_feeds",
      "resume": "",
-     "date": "2026-10-21T00:23:19+02:00",
-     "source": "L'Équipe",
-     "image": null
+     "date": "2026-10-22T06:51:00+02:00",
+     "source": "",
+     "image": "https://medias.lequipe.fr/img-photo-png/-/1500000000833469/0-828-552-75/0cb67.png"
     },
     {
-     "titre": "Lucas Hernandez après la victoire du PSG face au FC Barcelone : « J'ai fait comme toujours : donner mon maximum sur le terrain »",
-     "lien": "https://news.google.com/rss/articles/CBMigAJBVV95cUxPZGMxckZ1bHZZeXhpZ19wVTFjeV9mcGpDZnRJUlF5S2xmSUdGWDlmU0RwUkZPbkNCZDhhOXB6LWwyd253NWt1WDJHZi04MWJnUk54TWZ0dkRoYTNOLUJoZ2RPWkZJeHJRYmRYZkdnVWswQVhmRWFYRzlCYlgwc2hOQjFYdno0TFZWdG53NFhPb05zMW5LUGQ2bWhZVjdEcE5VbE5Cc3JJVm5NdFBIYjlfOWpIUjdLV29oaWNMWUtaQzVYeTlGajl5WWRDTFZnRWV2cjZ2NGIwS1lLZS1Gc1VQTmFEdTlDTmtEOEJEMUd0UkM3V0JuREljV0luYVJkcE9X?oc=5",
-     "resume": "",
-     "date": "2026-10-20T23:31:01+02:00",
-     "source": "L'Équipe",
-     "image": null
+     "titre": "Après deux défaites en Ligue Europa, l'OM veut profiter de son regain de confiance en L1 pour lancer sa campagne européenne",
+     "lien": "https://www.lequipe.fr/Football/Article/Apres-deux-defaites-en-ligue-europa-l-om-veut-profiter-de-son-regain-de-confiance-en-l1-pour-lancer-sa-campagne-europeenne/1737633#at_medium=RSS_feeds",
+     "resume": "Après deux déconvenues face au Besiktas (1-4) et l'Olympiakos (0-1), l'OM est obligé de prendre des points dans l'antre de Sturm Graz, un adversaire autrichien que Bruno Genesio connaît bien.",
+     "date": "2026-10-22T06:44:00+02:00",
+     "source": "",
+     "image": "https://medias.lequipe.fr/img-photo-jpg/amine-harit-nayef-aguerd-et-igor-paixao-tout-a-leur-joie-apres-la-victoire-a-angers-dimanche-5-2-e-garnier-l-equipe/1500000002629496/0:0,919:613-828-552-75/cb69d.jpg"
     },
     {
-     "titre": "PSG-FC Barcelone : un avant-match calme aux abords du Parc des Princes",
-     "lien": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOSzFWM0o2YjJHNjN1QWQzMVhHQ2hPS3ljSVJfcTRfYThvZ3FDT0lDdWZreGh6bllrSjZISjNJcEp5MUFyOGUxVFE0d2Z2eEFscGlCaDVCZTJfTi1DLWN1bFh4SjQ4YkFtRXcxcVZzTDc1UXducURJVDRsQnVoenVsV3Y0LTN5RWhoUGt0Z1VEVWU1SXNqQ2p3ZDlOX2VyODIySWtMVWthTGl6OUhFQWZyZVhMRnZYNGxnLWhz?oc=5",
+     "titre": "Le résumé vidéo de Rockets - Mavericks avec le duel de Durant et Flagg",
+     "lien": "https://www.lequipe.fr/Basket/Video/Nba-nba-le-resume-de-houston-rockets-dallas-mavericks-avec-le-duel-entre-kevin-durant-et-cooper-flagg/20243774#at_medium=RSS_feeds",
      "resume": "",
-     "date": "2026-10-20T19:27:01+02:00",
-     "source": "L'Équipe",
-     "image": null
+     "date": "2026-10-22T06:38:00+02:00",
+     "source": "",
+     "image": "https://medias.lequipe.fr/img-photo-png/-/1500000000833469/0-828-552-75/0cb67.png"
     },
     {
-     "titre": "« Tout le monde n'a pas pleinement compris ce que j'essayais d'exprimer » : Elina Svitolina publie un nouveau message après l'annonce de sa séparation avec Gaël Monfils",
-     "lien": "https://news.google.com/rss/articles/CBMitwJBVV95cUxPc1d6bksxalhiYnFPUGxUS3hGT0o5bHEyWEo3alhWbVFEVzJERWJDSzl1eEpEZHJLX1h0LXY0cEN6TzVKdTg3UV9acXFyX2daNHpnUlFaTUJYOTdzRW5SWG15NldmNXVBSEtJRTE3Q19LX0J1cDdGU19UdzJUeWNPYTZ2d2ZvLXRYc1Vtak52eHUxQTNEVTNEUXJIenlDSG5abnI3R0VZYlhpb1FTRkgyS2RhdlRtOVJmVXhyNGhmUmdSb0tWQkVvSTJfX05selBpVFJnci1wM0dnVHFWSW5EekY3Q0hPM25kdlB5OHBWY2M3eEI2blh5c1NFc2JXUmlCSUM0WndrUWlzUjNaRGprX0g1ZGh5TE5ramNXT2NGa1A3Um8td3l0SERvcGZCakNKc3RtcTdDQQ?oc=5",
-     "resume": "",
-     "date": "2026-10-20T10:45:46+02:00",
-     "source": "L'Équipe",
-     "image": null
+     "titre": "« Je pense qu'on a le niveau d'un top 12 ou 15 au niveau mondial » : qualifiés pour la finale du concours général, Anthony Mansard et Naël Sakouhi progressent à leur rythme",
+     "lien": "https://www.lequipe.fr/Gymnastique/Actualites/-je-pense-qu-on-a-le-niveau-d-un-top-12-ou-15-au-niveau-mondial-qualifies-pour-la-finale-du-concours-general-anthony-mansard-et-nael-sakouhi-progressent-a-leur-rythme/1737564#at_medium=RSS_feeds",
+     "resume": "À 19 ans, les jeunes Français Anthony Mansard et Naël Sakouhi disputent ce jeudi le concours général, dont le titre devrait se jouer entre Japonais. Tous deux estiment avoir encore un petit cap à franchir pour figurer dans le top 8 mondial.",
+     "date": "2026-10-22T06:28:00+02:00",
+     "source": "",
+     "image": "https://medias.lequipe.fr/img-photo-jpg/nael-sakouhi-dimanche-lors-des-qualifications-m-rosca-l-equipe/1500000002629272/91:121,1816:1271-828-552-75/86840.jpg"
     },
     {
-     "titre": "Rattrapé à deux reprises, le PSG finit par infliger sa première défaite de la saison au FC Barcelone dans le choc de la Ligue des champions",
-     "lien": "https://news.google.com/rss/articles/CBMimAJBVV95cUxNVXljR2tPNmlmeVRYcDR2TG9PRGYzQkVMTzYyUUFOc0syWjlDME83T0VCOUluT0Q0ek4tMmN3VkRCYnRFVXRpRjhmdVVXaExoeTZMd09QdVQtYXM3TzZMRGhIaHhQakZDYUFZZTZEZmZreHhxbXpldDFjb0RuVk9YbXVxYkpQY09FVjhubklfLTFsSUxDSU91VjE0WjljNTZ3eXNWUjhLM0pudWMwcEZRMnhDb1ZSX1lXdVJhcmxPd2lQd0xUT2JHbzhLVU5nRXJFV0hNTjlrbGc3bnhIQUJiY3JaYnZYU1AzSWhaSk5UYmdfWGI1ODJyWTd1MzRUbkxfVjBHZ3Nnd2tXc3FBSnA1RmF3eFFYN29D?oc=5",
+     "titre": "Le résumé vidéo de Heat - Timberwolves avec les 45 points d'Edwards",
+     "lien": "https://www.lequipe.fr/Basket/Video/Nba-nba-le-resume-de-miami-heat-minnesota-timberwolves-avec-les-45-points-d-anthony-edwards/20243773#at_medium=RSS_feeds",
      "resume": "",
-     "date": "2026-10-20T22:58:09+02:00",
-     "source": "L'Équipe",
-     "image": null
+     "date": "2026-10-22T06:27:00+02:00",
+     "source": "",
+     "image": "https://medias.lequipe.fr/img-photo-png/-/1500000000833469/0-828-552-75/0cb67.png"
     },
     {
-     "titre": "Arrivé en janvier, Almamy Touré reste aux Girondins de Bordeaux et va évoluer en R1",
-     "lien": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNd2FCNzVfTWtpQURtcGRtdENnNFV2NWFCVkVDbEl2UUhGZXhEb1BKb2FQZnctaTRJaHJkUy04aXRjaktrYm94VmRaYWJNRHJrUms3Nkx2VFVjcElyMnJaakh0T3EteEZ5Zi1PTnotNWsxUTJhM2tzekF3MFRjX1NreXBCNldVbU4tbTlHMzVrcExKVWlyUXJvcDZraUExdnpfeXNDYTZnbG1NTTI1b0lVSXA3R01CZG9HaXhub3JpZ2c3OWZ1RVpMa2hEbzQ0Zw?oc=5",
-     "resume": "",
-     "date": "2026-10-20T15:15:49+02:00",
-     "source": "L'Équipe",
-     "image": null
+     "titre": "Rendre son OL renversant : le défi de Paulo Fonseca, dont l'équipe n'a jamais gagné à l'extérieur après avoir été menée",
+     "lien": "https://www.lequipe.fr/Football/Article/Rendre-son-ol-renversant-le-defi-de-paulo-fonseca-dont-l-equipe-n-a-jamais-gagne-a-l-exterieur-apres-avoir-ete-menee/1737612#at_medium=RSS_feeds",
+     "resume": "Paulo Fonseca n'a encore jamais gagné avec l'OL quand il a été mené à l'extérieur (15 matches, 1 nul, 14 défaites). Si le cas se présente encore cette semaine, à Hoffenheim en Ligue Europa (jeudi à 21 heures) ou à Paris, le moment serait bien choisi pour…",
+     "date": "2026-10-22T06:12:00+02:00",
+     "source": "",
+     "image": "https://medias.lequipe.fr/img-photo-jpg/sur-le-terrain-de-lens-le-9-octobre-le-lyon-de-corentin-tolisso-ici-au-duel-avec-florian-thauvin-mene-de-deux-buts-n-etait-pas-parvenu-a-retourner-la-situation-defaite-1-2-jean-baptiste-autissier-l-equipe/1500000002629413/0:0,2000:1333-828-552-75/ab272.jpg"
     }
    ],
-   "flux_utilise": "https://news.google.com/rss/search?q=site%3Alequipe.fr%20when%3A1d&hl=fr&gl=FR&ceid=FR:fr"
+   "flux_utilise": "https://dwh.lequipe.fr/api/edito/rss?path=/"
   }
  ],
  "sections": [
@@ -254,64 +254,64 @@
    "sous_titre": "Les informations les plus importantes, partout dans le monde",
    "items": [
     {
-     "titre": "Guerre en Ukraine : à Oslo, Zelensky entretient, sans y croire, l’espoir d’être à nouveau entendu par les Etats-Unis",
-     "lien": "https://www.lemonde.fr/international/article/2026/10/21/guerre-en-ukraine-a-oslo-zelensky-entretient-sans-y-croire-l-espoir-d-etre-a-nouveau-entendu-par-les-etats-unis_6798157_3210.html",
-     "resume": "Le président ukrainien s’est entretenu avec l’envoyé spécial de Donald Trump, Steve Witkoff, mardi en Norvège, après une semaine de montée de tensions entre Kiev et Washington, alors que la Maison Blanche est de plus en plus alignée avec Moscou.",
-     "date": "2026-10-21T05:30:08+02:00",
+     "titre": "Guerre en Ukraine : galvanisé par le soutien de Donald Trump, Vladimir Poutine ne cède rien",
+     "lien": "https://www.lemonde.fr/international/article/2026/10/21/guerre-en-ukraine-galvanise-par-le-soutien-de-donald-trump-vladimir-poutine-ne-cede-rien_6798307_3210.html",
+     "resume": "Reçu par le président russe près de Saint-Pétersbourg, mercredi, Steve Witkoff, l’émissaire de Donald Trump, a rendu hommage au maître du Kremlin, saluant son profil « humanitaire ». Il n’en est pas moins reparti sans obtenir la moindre concession de son…",
+     "date": "2026-10-21T21:08:49+02:00",
      "source": "lemonde.fr",
-     "image": "https://img.lemde.fr/2026/10/20/0/0/7877/3938/644/322/60/0/388bbd7_ftp-1-qvdqqpqoyiw0-4f37462fec3a4f8e99112d24b561af3c-0-2164cbd79302415e87706581e3e7d5dd.jpg",
-     "reprises": 8,
-     "score": 18.58
+     "image": "https://img.lemde.fr/2026/10/21/97/0/4487/2243/644/322/60/0/20dc4fc_ftp-1-uhfdf7a71ui4-d07c917c76644fbca518f81f0150e33f-0-bbd01f44e6374c8792c7d096035e9d02.jpg",
+     "reprises": 5,
+     "score": 14.74
     },
     {
-     "titre": "France en direct : Sébastien Lecornu reçoit les syndicats avant de nouvelles manifestations",
-     "lien": "https://www.france24.com/fr/france/20261020-en-direct-france-sebastien-lecornu-recoit-syndicats-avant-nouvelles-manifestations-police-lyceens",
-     "resume": "Après une nouvelle nuit de couvre-feux localisés pour empêcher les violences du week-end de se reproduire, Sébastien Lecornu reçoit mercredi les organisations syndicales, pour évoquer avec elles la sécurisation des cortèges et les réponses aux lycéens, qui…",
-     "date": "2026-10-21T01:40:07+02:00",
-     "source": "© Julien De Rosa, AFP via AP",
-     "image": "https://s.france24.com/media/display/23d432a4-ccdf-11f1-8279-2d1c143cdef3/w:1024/p:16x9/AP26292307296615.jpg",
-     "reprises": 7,
-     "score": 15.71
-    },
-    {
-     "titre": "Présidentielle au Brésil : Lula et Flavio Bolsonaro lancent des recours pour se disqualifier mutuellement, à quelques jours du second tour",
-     "lien": "https://www.lemonde.fr/international/article/2026/10/21/presidentielle-au-bresil-lula-et-flavio-bolsonaro-lancent-des-recours-pour-se-disqualifier-mutuellement-a-quelques-jours-du-second-tour_6798204_3210.html",
-     "resume": "Le président sortant de gauche, Lula, accuse Meta d’« ingérence » au profit du candidat d’extrême droite, Flavio Bolsonaro, qui estime en retour que Lula s’est livré à un « abus de pouvoir » par le biais de publications massives sur la messagerie WhatsApp.",
-     "date": "2026-10-21T07:07:59+02:00",
+     "titre": "EN DIRECT, guerre en Ukraine : plus de 600 drones ont été lancés en direction de Moscou, selon le maire ; quinze blessés dans des frappes sur Kiev",
+     "lien": "https://www.lemonde.fr/international/live/2026/10/22/en-direct-guerre-en-ukraine-plus-de-600-drones-ont-ete-lances-en-direction-de-moscou-selon-le-maire-quinze-blesses-dans-des-frappes-sur-kiev_6796922_3210.html",
+     "resume": "Le maire de Moscou, Sergueï Sobianine, a rapporté que 163 drones s’étaient approchés de Moscou durant la nuit, et que deux personnes avaient été blessées.",
+     "date": "2026-10-22T05:47:02+02:00",
      "source": "lemonde.fr",
-     "image": "https://img.lemde.fr/2026/10/20/868/0/5205/2602/644/322/60/0/d74d4d8_ftp-1-2det9zobvfxs-2026-10-20t181927z-1055677473-rc227oar0ilt-rtrmadp-3-brazil-election.JPG",
+     "image": "https://img.lemde.fr/2026/10/22/481/0/5780/2890/644/322/60/0/a12bcb8_ftp-1-4h5xagrfpy0o-afp-d4292zq.jpg",
      "reprises": 6,
-     "score": 13.84
+     "score": 14.61
     },
     {
-     "titre": "EN DIRECT, guerre en Ukraine : une attaque de drones russe fait deux morts dans la région de Kharkiv, selon les autorités locales",
-     "lien": "https://www.lemonde.fr/international/live/2026/10/21/en-direct-guerre-en-ukraine-une-attaque-de-drones-russe-fait-deux-morts-dans-la-region-de-kharkiv-selon-les-autorites-locales_6796922_3210.html",
-     "resume": "Les victimes sont « une femme de 81 ans et un homme de 83 ans », a annoncé Oleh Synehoubov, chef de l’administration militaire de l’oblast, au cours de la nuit ⁠de mardi à mercredi.",
-     "date": "2026-10-21T05:47:58+02:00",
+     "titre": "« Vladimir Poutine a-t-il vraiment cru que j’étais un espion ? » : le journaliste américain Evan Gershkovich, ex-otage du Kremlin, se livre sur sa détention",
+     "lien": "https://www.lemonde.fr/m-le-mag/article/2026/10/22/vladimir-poutine-a-t-il-vraiment-cru-que-j-etais-un-espion-le-journaliste-americain-evan-gershkovich-ex-otage-du-kremlin-se-livre-sur-sa-detention_6798561_4500055.html",
+     "resume": "Accusé injustement d’espionnage, l’ancien correspondant américain du « Wall Street Journal » en Russie a été détenu pendant seize mois dans une prison moscovite, en 2023 et 2024. Pour tenter de surmonter le traumatisme de cette expérience, il a décidé…",
+     "date": "2026-10-22T06:00:26+02:00",
      "source": "lemonde.fr",
-     "image": "https://img.lemde.fr/2026/10/20/212/0/3936/1968/644/322/60/0/ba9c11c_ftp-1-tznzu6vw01ph-f63f163fac5e4ffab1076608ad0a7cf0-2-2d96bc17ae3143f28697d4b433133adc.jpg",
-     "reprises": 3,
-     "score": 9.3
+     "image": "https://img.lemde.fr/2026/10/20/7/0/1500/750/644/322/60/0/e48c941_ftp-1-3m6b2zwqnryw-449007-3523743.jpg",
+     "reprises": 6,
+     "score": 14.2
     },
     {
-     "titre": "Le Royaume-Uni, allié de toujours de l’Arabie saoudite, accroît son aide à Riyad contre les houthistes du Yémen",
-     "lien": "https://www.lemonde.fr/international/article/2026/10/20/le-royaume-uni-allie-de-toujours-de-l-arabie-saoudite-accroit-son-aide-a-riyad-contre-les-houthistes-du-yemen_6797976_3210.html",
-     "resume": "Soucieux des répercussions du conflit au Moyen-Orient sur l’approvisionnement énergétique, Londres va déployer des avions de combat dans le royaume pour des missions « défensives ». Un déploiement qui prolonge une alliance militaire ancienne avec Riyad.",
-     "date": "2026-10-20T20:03:27+02:00",
+     "titre": "Les Etats-Unis ordonnent le départ d’une partie des employés de leur ambassade à Riyad",
+     "lien": "https://www.lemonde.fr/international/article/2026/10/21/les-etats-unis-ordonnent-le-depart-d-une-partie-des-employes-de-leur-ambassade-a-riyad_6798311_3210.html",
+     "resume": "Les autorités saoudiennes ont annoncé la mort de trois personnes dans une attaque contre l’aéroport international à Dammam, dans l’est du pays. Des explosions ont, par ailleurs, été signalées près du détroit d’Ormuz.",
+     "date": "2026-10-21T22:54:31+02:00",
      "source": "lemonde.fr",
-     "image": "https://img.lemde.fr/2026/10/16/85/0/1024/512/644/322/60/0/247ae75_ftp-1-dvxypr7tnu2p-afp-d3et6t6-1024.jpg",
+     "image": "https://img.lemde.fr/2026/03/03/300/0/3600/1800/644/322/60/0/7bd8d09_ftp-1-zdpsz71q50xg-5351499-01-06.jpg",
      "reprises": 4,
-     "score": 6.69
+     "score": 7.68
     },
     {
-     "titre": "Un drone aérien utilisé pour évacuer un soldat blessé en Ukraine, une première selon Kiev",
-     "lien": "https://www.franceinfo.fr/monde/europe/manifestations-en-ukraine/guerre-en-ukraine-un-combattant-blesse-evacue-du-champ-de-bataille-par-un-drone-aerien-une-premiere_8245759.html#xtor=RSS-3-%5Bgeneral%5D",
-     "resume": "L'armée ukrainienne a diffusé les images de l'évacuation d'un soldat blessé grâce à un drone aérien. Cette opération, menée par la 92e brigade, a permis de secourir un combattant isolé en zone de combat depuis plusieurs jours.",
-     "date": "2026-10-20T16:38:14+02:00",
-     "source": "franceinfo.fr",
-     "image": "https://www.franceinfo.fr/pictures/r4Da_2z2OIHFAXea6FhtG-1Z-Ks/0x0:800x450/432x243/filters:format(jpg)/2026/10/20/6ad77c6e290fe964779585.jpg",
+     "titre": "Le pape Léon XIV n’aura pas besoin de traitement après son opération au poumon, annonce le Vatican",
+     "lien": "https://www.lemonde.fr/international/article/2026/10/22/le-pape-leon-xiv-n-aura-pas-besoin-de-traitement-apres-son-operation-au-poumon-annonce-le-vatican_6798380_3210.html",
+     "resume": "Le souverain pontife maintient sa tournée en Amérique latine du 6 au 17 novembre, après avoir été opéré d’un nodule pulmonaire cancéreux.",
+     "date": "2026-10-22T01:40:52+02:00",
+     "source": "lemonde.fr",
+     "image": "https://img.lemde.fr/2026/10/21/688/0/8256/4128/644/322/60/0/e262cba_ftp-1-i0jezqs1z4in-afp-d3xh83n.jpg",
      "reprises": 3,
-     "score": 6.25
+     "score": 5.16
+    },
+    {
+     "titre": "Meta condamné à verser 25 milliards de dollars au Nouveau-Mexique après le scandale Cambridge Analytica",
+     "lien": "https://www.lemonde.fr/international/article/2026/10/21/meta-condamne-a-verser-25-milliards-de-dollars-au-nouveau-mexique-apres-le-scandale-cambridge-analytica_6798305_3210.html",
+     "resume": "Il s’agit de « l’un des plus importants jugements, sinon le plus important, obtenus par un Etat contre une entreprise dans l’histoire américaine », s’est félicité le procureur général du Nouveau-Mexique. La somme grossira de 3,75 milliards de dollars par an,…",
+     "date": "2026-10-21T20:52:28+02:00",
+     "source": "lemonde.fr",
+     "image": "https://img.lemde.fr/2026/10/21/389/0/4308/2154/644/322/60/0/44e9007_upload-1-h7sh5o76lndx-063-2297773733.jpg",
+     "reprises": 3,
+     "score": 5.14
     }
    ],
    "a_traduire": []
@@ -322,106 +322,106 @@
    "sous_titre": "Modèles, entreprises, régulation, recherche",
    "items": [
     {
-     "titre": "OpenAI affirme que ses agents d’intelligence artificielle (IA) ont affaibli le système interne de surveillance",
-     "lien": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxPc2E2RTFfSUtKc1ZHS0hxSy1HdzAxOWhOV0YwUGtzaWVrVVlTQm5OalJyQWpZM0h4VnJ6ZmtEbmtvQVhWUGxzZEpwWjJ5WVZoUDhsTDZXZFJPVEVGOWluN3BTRUIyS3AzX1lWX1hKcWVaa3hNbTNjbVZqQXFZaWhiRWNSVmR1MThlM3czSDl6TmpvM0J6c0NndE5XRkROMmM5SUxLcVRLYjBaVjI0WGxXUFlQeUxvbnZhU3RZckM1R0lvYXFJWUM3RUhZTVNMaXJBZ05qTHVWR194S1FHWlBoaTlldnJJeldIcjlVMg?oc=5",
+     "titre": "L'intelligence artificielle a été utilisée dans l'écriture du roman de Thélyson Orélien, affirme son éditeur canadien, qui met fin à sa relation avec l'écrivain",
+     "lien": "https://news.google.com/rss/articles/CBMi2AJBVV95cUxPdFcxTmhrelY3V2ZCT1JTX0pSWkZ1S1ZfSXFEYktXY1Y3WWlacWRvYVVxdXdNUEVsQVVlbS1Zd1JuUFEza3Q2MHpQMHJuR2dXd1hjUWQxZE5ibU90TTZ6Ukx4UXNMNnpady1UUmdHRzZZWG91eE1UZDNoa1JiSktjSjVtT09YTm10Tmt1NFlVQjZiQ25mSm5QX0lSNWRCV3RleHhhNEVUMURTZkdEa1E5azdTUzV3QUEwYW9TdzBEdk9ITmJWSVplWTVTODhHR3NGdXRUTFRKSDgzZzV3ZGZJS3gzUms2cERfMUxKUlFkR1c0T0hQNlJxZjdCYVpVRW1QMXZmQ0VEcmtKZXNFZktIeFpQRThJT2tQWWtUaTdnWDlQSXM3ekZYbDFkbFc5M3NWb0dZSmRYWFJxWFJqUThkVUEzWDRSYlNPYW5mWkN2ODFGazAzTzIwcA?oc=5",
      "resume": "",
-     "date": "2026-10-21T04:36:23+02:00",
-     "source": "Zonebourse Suisse",
+     "date": "2026-10-21T18:40:10+02:00",
+     "source": "franceinfo",
      "image": null,
-     "reprises": 4,
-     "score": 14.14
+     "reprises": 9,
+     "score": 18.49
     },
     {
-     "titre": "Anthropic, le géant de l'IA qui vise une IPO à 2.000 milliards, a perdu 80 milliards de dollars au premier semestre !",
-     "lien": "https://news.google.com/rss/articles/CBMiiAJBVV95cUxORjJvUXlGdDlRWjFkRzVJVEw1VEdrUThrQWR2blJnS3kzQk1vYjNJSHgzS29qUEtMdkR4Wk9IdnlpWVdWWEJJbHRtRklnSmdVbUZ5dXVGa3l5VDdQclZyRW1oRTFNM0Z5Tm9rN21Ec2lyczFVMW5WZGhvZUZMVVBpbURUal9lUEpLRmRuZlRWUHdXYUdBcWs0OVRpeDdKZEtsXzVobkpHSXNmUnlxQzBoQUluQzhtN0JlelpQQ3hoSWowMS1VMzEyeF9DZVNQcHlsQTNZVkFpaEpYcU1ENm5MeFJmY1NmMjljOXNYcWFUVUNKZ0tUNklmMUo4X19PYkhtelQ3bzJYdzY?oc=5",
+     "titre": "Les modèles d’OpenAI arrivent sur Google Cloud",
+     "lien": "https://news.google.com/rss/articles/CBMiakFVX3lxTE81aGpPZU9hZVg0czU1dHozYXFPRDEwdjV0YVhCOUU4S3RQRGRXSHhBNGNuN3NSdEktX0FnTTJ6a2RBTUVLZlhCdW4yT0gwRE9DVERmNTZzM1JrQXJVQnA4WmdTYXFrcEZodHc?oc=5",
      "resume": "",
-     "date": "2026-10-20T23:49:00+02:00",
-     "source": "Boursier.com",
+     "date": "2026-10-22T02:42:54+02:00",
+     "source": "OpenAI",
      "image": null,
-     "reprises": 4,
-     "score": 10.45
+     "reprises": 6,
+     "score": 12.61
     },
     {
-     "titre": "Googlebook : que valent ces nouveaux ordinateurs portables sous Android et dopés à l’intelligence artificielle ?",
-     "lien": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxNVTcxMXFPMjNqd1d2ZWxBdnlpdENwamZNTlhWWnFTS25BN0NRajhGWkotNHhTaEVpckdKX1BabjRoUHRVYVBnR1RvSTdCQ3lOcHVKQU14UnlUR01xYm1VT3JRaWlLWUVmWEZHbTdzbjNBc0l0aC1oaXVOLUJSQlVMY3BlVzk1OTNGckMyZUM4X045a3RudzFyM1RXWHZQSVlKQnJuYVlWNVQxVXRKakhkTVZ5X0hfdWxkYUtnaXVNTEpzUWp1S09tbDhJcTF0Q3NlYnhEUExWX05nUy02UTFER1QzSEZsRnZtcmpnTnRZMWJXQzZ3U1E?oc=5",
+     "titre": "Laureline Serieys, ex Uber, rejoint OpenAI pour diriger la France",
+     "lien": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNMWtGcHlHTGxsUUY1cEhKbXU5cktJR2M1SjVOU1J5SURta050cDVVMjBJWWIwTzBVbThjTlREMlBEMUZlb3hmZ2FNT1RjcU51VW12ZFc1VzNQZ25rNmtTTmUtdkZCRFBiZW94YS1TWWh3WU93bTd5OExwZzFvMTBTZU01cm8xOFB5TW1LZkZBMmRIR3dESncwWnp4Q3EyV2hocm5V?oc=5",
      "resume": "",
-     "date": "2026-10-21T06:00:00+02:00",
-     "source": "Dordogne Libre",
+     "date": "2026-10-21T20:37:16+02:00",
+     "source": "Maddyness",
+     "image": null,
+     "reprises": 7,
+     "score": 11.85
+    },
+    {
+     "titre": "Anthropic dévoile l'application d'agent IA “Claude Duet”",
+     "lien": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPYlRqeXk3dU1ZaUJ3TTRmMnh3dGZ4X0dmemYtaDVzZ0xUY3B3VDhON1hpZFUtMmNZZW1YaGV4WDdUYXFqZGhiS28tM0ZiNHJYTTdLc1hEOC1taEpuOXhQQVJVaUZjTEpyLUVmLTVIbTMzejBqTloxVFlYbVQ1eEF3dmhXMFgxYVZ0MlE4QThPUmJCa2VyUGFLaDZ3VUlpV0w0cGFXMGRoZk5jRWZQOF85Rk5tdU1QbHRhd1hEWEYwb09BNWl6Q1dqMDVfV0E5QWZqRnfSAdIBQVVfeXFMT2JUanl5N3VNWWlCd000ZjJ4d3RmeF9HZnpmLWg1c2dMVGNwd1Q4TjdYaWRVLTJjWWVtWGhleFg3VGFxamRoYktvLTNGYjRyWE03S3NYRDgtbWhKbjl4UEFSVWlGY0xKci1FZi01SG0zM3owak5aMVRZWG1UNXhBd3ZoVzBYMWFWdDJROEE4T1JiQmtlclBhS2g2d1VJaVdMNHBhVzBkaGZOY0VmUDhfOUZObXVNUGx0YXdYRFhGMG9PQTVpekNXajA1X1dBOUFmakZ3?oc=5",
+     "resume": "",
+     "date": "2026-10-21T22:17:27+02:00",
+     "source": "Boursorama",
      "image": null,
      "reprises": 3,
-     "score": 4.76
+     "score": 4.95
     },
     {
-     "titre": "SpaceX : +161 % de chiffre d'affaires, 4,4 milliards de bénéfices, l'IA propulse les résultats au-delà des attentes",
-     "lien": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOVlRtM1IyODFjY3U0cTlHb19vR2V2Y1U3VGt4cGVJd19XaGtJYTQ1aEdXZFJkSDF5VXJ3Y1dXTkdKbHV6bEF5TjdaN19lSHh5VnAxa3Q5VlRObEwxMGxzcnZuYkU2TTN5UVFhNkZVd1VaZFFKNkdwVWVGVmNpR1NrcEpqbE5kMDFIMnRnNnl0bFpBWm8xUEhMdEVmc1MwT0lN?oc=5",
+     "titre": "SpaceX et Super Micro ravivent la flamme de l'IA à Wall Street",
+     "lien": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxNUWVvVDVvSjE5d0FtbDBoXzN0U2VWOXFuX09VU1FfRFAtYURSSWtLSnU0d2ZXMk5LQmhIZGVxalRnLWtZZ2dRQ0R3YmpRVlZjTGlVZHZzSkV1bmRZLU9VSktMVDlwdzJXelMzTHhxQ3NuOFdKLUlGb3oyMWhpRV9BSkxlOXpWLWRKdmRNUTVrNVU2U3g3WUxGWXBOaTdWVWoxUlZCOW1DSmpNX3dCSzdOOXZZTXo1NWpMQnNROG4yZVhjZl8yYk1GTFJRQnRjMHpuRndyR0Q5MXhQNU9Z0gHcAUFVX3lxTE1RZW9UNW9KMTl3QW1sMGhfM3RTZVY5cW5fT1VTUV9EUC1hRFJJa0tKdTR3ZlcyTktCaEhkZXFqVGcta1lnZ1FDRHdialFWVmNMaVVkdnNKRXVuZFktT1VKS0xUOXB3Mld6UzNMeHFDc244V0otSUZvejIxaGlFX0FKTGU5elYtZEp2ZE1RNWs1VTZTeDdZTEZZcE5pN1ZVajFSVkI5bUNKak1fd0JLN045dllNejU1akxCc1E4bjJlWGNmXzJiTUZMUlFCdGMwem5Gd3JHRDkxeFA1T1k?oc=5",
      "resume": "",
-     "date": "2026-10-21T06:08:09+02:00",
-     "source": "FranceTransactions.com",
+     "date": "2026-10-21T22:08:00+02:00",
+     "source": "Boursorama",
      "image": null,
-     "reprises": 2,
-     "score": 4.34
-    },
-    {
-     "titre": "OpenAI acquiert Orchestra Bio pour automatiser la coordination du développement de médicaments",
-     "lien": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPX29TNURyRkJjMnJyQXFrR2k0WXlNNmNDMzI3MF94WDI0NWs2RXZJMm1BNEx1djUxSEZDMFNiYXFFTFl4ajBqRzlMaUJmb1EybjRhaF9UbW1aazZndVhMZUpBWVk2bEZEX3Z1UWt4ZkJTc1I3SnNybHVNSlJUWHplV2d3SmQtVTBiamZVNFF4RUR4SEpwZVBWblE3NjdVV05nNkUtUmRkN3Z3RE1kYWFIaDkySjdDdF9MUkVTaEVPSy0wYmdTZFlId2oxbU5jOVFGbWI4?oc=5",
-     "resume": "",
-     "date": "2026-10-21T07:01:34+02:00",
-     "source": "ZDNET",
-     "image": null,
-     "reprises": 2,
-     "score": 2.74
+     "reprises": 1,
+     "score": 4.4
     }
    ],
    "a_traduire": [
     {
-     "titre": "Google’s more personalized Gemini AI is heading to your car",
-     "lien": "https://www.theverge.com/tech/1014999/google-gemini-ai-cars-android-auto",
-     "resume": "Google is bringing Personal Intelligence to Gemini AI in your car. With this update, Gemini in Android Auto and cars with Google built-in can tap into your information across Google apps, including Gmail, Calendar, Maps, Photos, YouTube, and Search. As an…",
-     "date": "2026-10-21T00:11:34+02:00",
+     "titre": "Meta to create a new class of shares to fund AI push",
+     "lien": "https://www.theverge.com/tech/1015799/meta-shares-class-ai-q3-2026-earnings",
+     "resume": "Meta says it's issuing a new class of shares to fund its AI initiatives. As part of its third-quarter earnings report released on Wednesday, the company says the non-voting stock will also go toward potential acquisitions and employee compensation, with…",
+     "date": "2026-10-21T23:30:02+02:00",
      "source": "theverge.com",
      "image": null,
      "reprises": 1,
-     "score": 1.46
+     "score": 1.47
     },
     {
-     "titre": "OpenAI acquires startup Orchestra Bio⁠ to beef up its biotech business",
-     "lien": "https://techcrunch.com/2026/10/20/openai-acquires-startup-orchestra-bio%e2%81%a0-to-beef-up-its-biotech-business/",
-     "resume": "OpenAI says it's adding Orchestra's team and technology to work on Rosalind, its AI model for life sciences research, and to its related Rosalind Workbench tool, a harness that aims to help researchers plan experiments and analyze results.",
-     "date": "2026-10-20T22:35:10+02:00",
+     "titre": "Recursive launches Flint, a laptop coding model it says was largely built by AI",
+     "lien": "https://techcrunch.com/2026/10/21/recursive-launches-flint-a-laptop-coding-model-it-says-was-largely-built-by-ai/",
+     "resume": "Startup Recursive has released Flint, a free, laptop-sized coding model built largely by its own AI research system, as an early test of AI that improves itself.",
+     "date": "2026-10-21T22:27:41+02:00",
      "source": "techcrunch.com",
      "image": null,
      "reprises": 1,
-     "score": 1.43
+     "score": 1.45
     },
     {
-     "titre": "Trump’s FTC Subpoenas OpenAI and Anthropic. Inside the $500 Billion Threat Faced by Microsoft, Amazon, and Google",
-     "lien": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQVzZheWpybE1RNTFES1BCQUVqdktSZzA1QnRuRjY2OV91MGt1cXZSakFZQU5TM1h2UnY5VTY2RGxBZ0h4R05fQkZJOElWM2FwTlBBTGhJUnJKRG1MUktxTXhxWEpXTWFTaDdvak0wT241ZXBDcFZvanBtNmlPSTJMekNNbUlxdTQwaXd4TTNRMUdHb2w0dWtfYmp6a3FxUWVEa0tWaU1JZXNHSFUzdGNtSTk1bmh6NHpqMnZ0ZF93T2NxVjN3X0lXaERSV25ZZHRnTFI0?oc=5",
-     "resume": "",
-     "date": "2026-10-20T20:56:15+02:00",
-     "source": "TIKR.com",
-     "image": null,
-     "reprises": 1,
-     "score": 1.4
-    },
-    {
-     "titre": "Google has joined Amazon in attacking Nvidia’s stronghold with AI app developers",
-     "lien": "https://techcrunch.com/2026/10/20/google-has-joined-amazon-in-attacking-nvidias-stronghold-with-ai-app-developers/",
-     "resume": "Google has joined Amazon in releasing a developer tool that makes it easy for PyTorch users to move their apps off Nvidia GPUs.",
-     "date": "2026-10-20T20:38:24+02:00",
-     "source": "techcrunch.com",
-     "image": null,
-     "reprises": 1,
-     "score": 1.27
-    },
-    {
-     "titre": "Meta pauses Muse sharing after researchers find AI chats on the web",
-     "lien": "https://www.theverge.com/tech/1014627/meta-muse-ai-sharing-ai-chats",
-     "resume": "Meta says it paused a Muse feature that lets you share conversations with the AI assistant after researchers found the URLs publicly available on the web, as reported by Ars Technica. In a report published this week, researchers at the security firm Claroc…",
-     "date": "2026-10-20T20:07:34+02:00",
+     "titre": "Anthropic takes on Muse with Claude Duet, its new AI agent",
+     "lien": "https://www.theverge.com/ai-artificial-intelligence/1015843/anthropic-claude-duet-ai-agent",
+     "resume": "Anthropic just announced an AI agent competitor to Meta's Muse and OpenAI's Dots: Claude Duet. The new agent, designed for professionals and small business owners, is launching as a \"research preview,\" according to Anthropic, and it's available as a…",
+     "date": "2026-10-21T21:53:20+02:00",
      "source": "theverge.com",
      "image": null,
      "reprises": 1,
-     "score": 1.26
+     "score": 1.31
+    },
+    {
+     "titre": "Walmart is inviting AI agents to shop for you",
+     "lien": "https://www.theverge.com/ai-artificial-intelligence/1015715/walmart-ai-shopping-agents",
+     "resume": "Walmart will soon let AI agents shop on its website for you. Next month, the retail giant will allow you to use an AI agent on the site, with systems in place to let you approve and review purchases and set spending limits. The embrace of AI agents stands in…",
+     "date": "2026-10-21T21:30:00+02:00",
+     "source": "theverge.com",
+     "image": null,
+     "reprises": 1,
+     "score": 1.21
+    },
+    {
+     "titre": "OpenAI says an AI agent lied about disabling its safety monitoring system",
+     "lien": "https://www.theverge.com/ai-artificial-intelligence/1015316/openai-ai-agent-disabling-monitoring-systems",
+     "resume": "OpenAI disclosed a pair of safety incidents that involved AI agents weakening their safety monitoring systems during internal coding tasks. In one incident, OpenAI says its GPT-6 Astra agent disabled its safety monitor when copying reference code - and then…",
+     "date": "2026-10-21T15:57:43+02:00",
+     "source": "theverge.com",
+     "image": null,
+     "reprises": 1,
+     "score": 1.04
     }
    ]
   },
@@ -431,15 +431,26 @@
    "sous_titre": "Libertés fondamentales, grandes juridictions, culture juridique pour le CRFPA",
    "items": [
     {
-     "titre": "Discrimination liée au handicap : les conditions de reconnaissance précisées par la Cour de cassation",
-     "lien": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxOUzRVYXlZTWZjbTI1NW1veThNVVI3ZjdLd1NxdTlxTFEySG5lRGlqNlh6WktpdWFUY3NWWGhjT25MNWFkRHFfVTZGMkxLMy05WlRlWXViSGdlQ2pZcm1qMXhsZ0FGQU0ySWJhTDdZWVJRaWxSZDB4eU90emFjejMtT192bXNoU3VJZzNnUWJqWXp6eDhqd0k3YWY5VTlBeVJLdDkzRXdmNm4zZFBjdmtHUURRSGluY2NqN0N5Yy1HM01uT29zSlhFZXc3S2JqNFdJdWZBTXliUEFNRUEwd1FfbmZnOFQ1dw?oc=5",
+     "titre": "Le Conseil d’État annule la sanction d'un militaire après avoir écarté un reproche disciplinaire contredit par le dossier",
+     "lien": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxQWU9TTkJpYzBWSmdHYXpncGduX3g4eE81dmJCaFpBelZLT2VOZGpNUHRia2RQX1lxM0laaE9LTUwyLS1udnQ5ellxWXdPWVhoM1MzcEduZGdKcWRDRnhzRTZkSDRfandTY2VFYnhDUXpPSUtTN29PaWhrTUVpaXBMaWhTYjctMDVMT3Jfb3VvVXctYWo1N2ptUHhWM0paVk9KRzduQXJJNjF3a0lKNjRXYk40d2VWYlZnaWdxS0VKOXYxUEwzX1lXYVlfWGxYdm1lYjJadEl1cW03REdzN18xUkx5TjVCNEtuLUJr?oc=5",
      "resume": "",
-     "date": "2026-10-21T08:30:00+02:00",
-     "source": "LE MAG' JURIDIQUE",
+     "date": "2026-10-21T15:33:52+02:00",
+     "source": "Acteurs Publics",
      "image": null,
-     "reprises": 7,
-     "score": 14.06,
-     "libertes": true
+     "reprises": 22,
+     "score": 52.91,
+     "libertes": false
+    },
+    {
+     "titre": "5G d'Orange : la Cour de cassation donne définitivement raison à la CLCV",
+     "lien": "https://news.google.com/rss/articles/CBMingFBVV95cUxOb081bjdJYURFLXpOSEllWXcxUGduckZxZDlJVTU4XzdQcmxXRW1haDBhSTlRd1NVT3ZnS3lIXy1kZnVid00tT2VjYnlCRmRqYUlBOFNNTlNtMEJLZHNTbDNOZVVkc09Rb2ptUE1zNmUyLUFNWUJEeGUtQmhLMmt4ck9WNzZjUG5ZWmVncElqclpMNVJTVktKZzRrSHJQQQ?oc=5",
+     "resume": "",
+     "date": "2026-10-21T09:00:00+02:00",
+     "source": "CLCV",
+     "image": null,
+     "reprises": 10,
+     "score": 24.93,
+     "libertes": false
     },
     {
      "titre": "Le maire de Pfastatt saisit le Conseil d'Etat après l'annulation des élections municipales par le tribunal administratif",
@@ -449,19 +460,30 @@
      "source": "France 3 Régions",
      "image": null,
      "reprises": 5,
-     "score": 9.52,
+     "score": 8.49,
      "libertes": false
     },
     {
-     "titre": "Cour de cassation: Falzone et Ullens au cœur des décisions",
-     "lien": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPcWNuZDlkNi1xR1BCMW4zaDBUcDNKb0FxeGlpWkstNGt2RDNYZjdqTVExMDRqeFlyQXk2RUtfUjdwQ1NUekRldzk5a1dfOUV4WDE3Y25kb2I1TFpCMkZEdVRqMnE1eENBR3ZfUmVEM09BS1VGUG8zYlpkSy1ZeWdIZXJtX1pXSHlMcjF5ZGI0Q1dGbDJCRVBBYzRSRS1DaHVJVGtSNFF5N3dJM1c3U3Fxb2x3US1pYnRDakQxQ1NQRmV3cnNTWFZmOXdscTdLdVFkMzA0d1lR?oc=5",
+     "titre": "Cour de cassation : un disque de stationnement bleu suffit en cas de panne du parcmètre",
+     "lien": "https://news.google.com/rss/articles/CBMisAFBVV95cUxObXBIVEFSR2I3SjUzWm8tUzl5MlI0UnNnUnZLVlZwM3JQbmU5ZS1LODViaXVzNVFkU0hJSXNSNWFSMHpiOTI5M3VXdnplcEp4SUVCcEU2SkNwX1lveTh0TDVuUDFUbTJRSFNFYU9TRjViV0paOVRPWWRZR1VIUEZmX1d5eExzM24xbmVyQ1ZDMmd2S2h1MjFkOTcxeFJPU0NMYjdJZndZZXdxQzhUZG1hcQ?oc=5",
      "resume": "",
-     "date": "2026-10-21T08:39:29+02:00",
-     "source": "RTL Info",
+     "date": "2026-10-21T17:29:00+02:00",
+     "source": "Business AM",
      "image": null,
-     "reprises": 4,
-     "score": 8.92,
+     "reprises": 3,
+     "score": 4.84,
      "libertes": false
+    },
+    {
+     "titre": "« ACAB », slogan illégal ou liberté d’expression ?",
+     "lien": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNd1IzUnlWRE14QkhLRE1FODRfMmZzNGJPN2RQODRvVDZzUkUwZFBtQmVVN19yYlVjZWJFb0dId2VNNmtyVkM2QXVpQ3ZVMXRsQzdZWFlOQ3NaWlRmTHNHcHM1amZDc1lEM2ZUbFQyMzJTNXpSbzV4NHVXNWN3LWZVZmlEaTh2amd4OTlRMkhBRUJvZw?oc=5",
+     "resume": "",
+     "date": "2026-10-22T05:02:00+02:00",
+     "source": "20 Minutes",
+     "image": null,
+     "reprises": 2,
+     "score": 4.18,
+     "libertes": true
     },
     {
      "titre": "Le Conseil constitutionnel annule l’article 3 de la loi sur la réforme bancaire",
@@ -470,30 +492,8 @@
      "date": "2026-10-20T19:15:05+02:00",
      "source": "Ici Beyrouth",
      "image": null,
-     "reprises": 4,
-     "score": 8.51,
-     "libertes": true
-    },
-    {
-     "titre": "La Cour européenne des droits de l’homme reçoit un prix pour la protection de l’indépendance judiciaire",
-     "lien": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOMVQ0ZDJTY0swcTJwb0ZBaUFBQW4zSUdJWVFFbEQ2RE52QnpDejExRmJPV3NGSEZJX3BFWFJTQjE3aFhPcDc1azR2QmdmcDRLT3dyMUlIUHBKMmtqdF9UOU5rWERMY2MwSC1raEhhY0FQb0k4Y2YwWThiTDNhRk5pR2RLbGJfa29BZGZxdV9EdVZIOEl3UC03MG16ZUJlS1dROHU4ODNna2dEaFBH?oc=5",
-     "resume": "",
-     "date": "2026-10-19T12:44:20+02:00",
-     "source": "ECHR",
-     "image": null,
      "reprises": 2,
-     "score": 5.62,
-     "libertes": false
-    },
-    {
-     "titre": "Deux milliards pour faire pencher l’Amérique : le prix de la liberté d’expression",
-     "lien": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPQXNwa0U0cTNtM3d4U1hPWlFNQVlER0RuRFAwa1lpd0FPS05ocWpaT1FYVmN2X3FQYVY2UGV4QUt5OWtsSGtzcUtESVRFS2ZDbHR4SGdrSk9oMkpEQlJwZ21RdHlpQllZX1pNR2I4NFE0b0JJRW1uekROOHAzNF8xTGQyUGk5bFJiVm9JR0lOMndRWmFKdUxQOS1VWkc0ZHdlOWtObzY0c2ZsbDhjOEI2aGdCYi11dUZuMGgzWl8yZ3ZjTk1vbkxQNW0zNFhhbDVUdEE?oc=5",
-     "resume": "",
-     "date": "2026-10-20T15:57:36+02:00",
-     "source": "Trends-Tendances",
-     "image": null,
-     "reprises": 2,
-     "score": 3.23,
+     "score": 3.56,
      "libertes": true
     }
    ],
