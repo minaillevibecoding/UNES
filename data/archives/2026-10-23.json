@@ -1,6 +1,6 @@
 {
  "date": "2026-10-23",
- "genere": "2026-10-23T07:09+02:00",
+ "genere": "2026-10-23T07:11+02:00",
  "journaux": [
   {
    "id": "figaro",
@@ -261,7 +261,7 @@
      "source": "lemonde.fr",
      "image": "https://img.lemde.fr/2026/10/23/142/0/1706/853/644/322/60/0/dde5891_ftp-1-bthve5kcsrui-acaf3f89616e4211a5f860227dd074ba-0-543ee40a38cc4f9d8e54704428e14884.jpg",
      "reprises": 6,
-     "score": 12.86
+     "score": 12.83
     },
     {
      "titre": "Nigera : l'OMS en alerte après un premier cas d'Ebola",
@@ -270,8 +270,8 @@
      "date": "2026-10-22T19:38:27+02:00",
      "source": "france24.com",
      "image": "https://s.france24.com/media/display/280d8846-ce3f-11f1-9259-97baf3e9dd31/w:1024/p:16x9/Nigeria-00-00-00-00-Still001.jpg",
-     "reprises": 6,
-     "score": 9.71
+     "reprises": 7,
+     "score": 11.93
     },
     {
      "titre": "EN DIRECT, guerre en Ukraine : Donald Trump affirme qu’Elon Musk a relancé son réseau satellitaire Starlink pour Kiev",
@@ -291,7 +291,7 @@
      "source": "© Thibaud Moritz, AFP",
      "image": "https://s.france24.com/media/display/4b764810-ce56-11f1-a86e-8d87bc3aeb3a/w:1024/p:16x9/000-D3MD4CT.jpg",
      "reprises": 4,
-     "score": 6.93
+     "score": 6.91
     },
     {
      "titre": "Midterms 2026 : comment Donald Trump profite de la crise politique en France",
@@ -328,8 +328,18 @@
      "date": "2026-10-22T10:29:30+02:00",
      "source": "BDM",
      "image": null,
-     "reprises": 14,
-     "score": 26.29
+     "reprises": 13,
+     "score": 24.21
+    },
+    {
+     "titre": "OpenAI en passe de lever jusqu’à 30 milliards de dollars, valorisation à 1,25 billion de dollars",
+     "lien": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNTVlwS1FGaDhMWTZfNGphc0FOdV9HWWt2M2U3NkNnRmdNLU41cVlBTjJuLUt5czcxN21reWFoVGpNME9mbVJ3eUhpeHV1YkNHRHNIMVIyZFo2OGhYMFNvbk9QelRNN0k3dDRoTnhycWpUREVHdlBvaEg3X1RHa0VYRTZyWDJ5Z043aWc3V09NMDlncS1nOGo2c2NaM0hpX0N3Q1ppdlRZbFZfeHItaS1zeGxzOFRtQmNpUGtMek96aWx1eWZRQWVHLTJB?oc=5",
+     "resume": "",
+     "date": "2026-10-23T05:10:55+02:00",
+     "source": "https://renseignementeconomique.fr/",
+     "image": null,
+     "reprises": 4,
+     "score": 8.8
     },
     {
      "titre": "Uber déploie ChatGPT Work pour tous ses employés avec OpenAI",
@@ -339,37 +349,27 @@
      "source": "OpenAI",
      "image": null,
      "reprises": 2,
-     "score": 5.98
+     "score": 6.02
     },
     {
-     "titre": "Les inquiétudes sur l’intelligence artificielle font plonger Wall Street",
-     "lien": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxQRFc0UW1Pb09DNHZsOVk1dm4xRlJPYW16Mkg1eGM2M2FBaWdPWWpoa3ZGM2FrUjd0Sy01S1NYOGY2RXNGTmwzVzJzQ2NGZktTbVhEMkdzbVQ2WlMtcFd3OW5pc2RBdFFrQU5yRnM2Z05GLW1FNUFYN0pNUkRkRWxfaFBWTHJDQVNDQm51UmNBaDJxdHVBb2lzaEJnVWN5TXBaQjRfSmNldlEycWZuOHZEaUZCLWNqU3Rmd19IOVZ6aTlOMS1Sb05ibTFERng3d04wLU5GVW5pNVc?oc=5",
+     "titre": "Le yen s’envole, les remous autour de l’intelligence artificielle déclenchent une ruée vers les valeurs refuges",
+     "lien": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxNT3YzQnVGbnRxRDg1N21LMUlOeUFadjhFUG5TYWRrdnpuSFhKTUVvN0FwMkRGTExaWWYycGk3cG1jN3dBUkV5SnFXejdBcjZlVTlWVlI5ZEhSYWExNG9qeTdzazBFemVRdVl4cDc1elBzSVZpNVZlSGdzV2FfUHNnWTFYaS1CSHJyVWRIZWZWbHEtWmZpNUNleHNtSVNXWXE5M1p5VnJQTGQ1VmlUb1JoNnFQeXNwQlQ1M3AzdEdhdThVMHFjNzlyQi1ldzIyN1ZZeDJDTzFqUVZkczJVeUhSdlliRlBtb1A5X1NtUg?oc=5",
      "resume": "",
-     "date": "2026-10-23T06:04:31+02:00",
-     "source": "Le Monde.fr",
+     "date": "2026-10-23T04:07:21+02:00",
+     "source": "Zonebourse Suisse",
      "image": null,
-     "reprises": 3,
-     "score": 5.25
+     "reprises": 1,
+     "score": 4.37
     },
     {
-     "titre": "OpenAI valorisé à 1.250 milliards de dollars à l'issue d'un nouveau tour de table",
-     "lien": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPLU84QVFzcE9BazAwT3h4LXQxeEV1d0JJWExfT3VMM2xWNnk2bUh4THkxcVhJYkxPbGxHUE1HOXpwOWMxeENIVTY5NC1GanBzOUxXS3lVbEh3dHNSVnRQaFluNmsxczY0TWtKQlJob2tZSVN4RkI0dGNKcHRKeTZjYmpEUDNkRUxLMkJuaEJTWWR3SzVtM0RzN0dqUks2R2Y2MEprWkwwSGxsQ2dzLTFMUV9nM1NJU2xaQnIwZg?oc=5",
+     "titre": "Deux agents de code d'OpenAI ont affaibli la surveillance des dérives de ses modèles",
+     "lien": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPUjNtWkJCZ2ktdG5uY0RiTnV4M3hReDQydk1qX3dYaUppWkpyTzE2ejR5X0hVMTZpQ3RUNnd3cjFSMkRzT0ltUWJoOWxoaDZ0M2x4dUF6X1dFbEw0MHlKN0dobVUyejItM2pMREEyb25RUnZZU05EenZxVlFvZWxCaW9qNTA5ZVB0UU9MRnMtNzRDZl9iWkkxeS1hVHJ0d3VVVGZzeFVIdk1NZXdqbHB0b25jeXRQSHRa?oc=5",
      "resume": "",
-     "date": "2026-10-22T23:12:37+02:00",
-     "source": "ABC Bourse",
+     "date": "2026-10-22T13:46:00+02:00",
+     "source": "ActuIA",
      "image": null,
      "reprises": 3,
-     "score": 4.72
-    },
-    {
-     "titre": "L'introduction en bourse d'Anthropic fait figure d'exception alors que les inquiétudes sur le marché de l'IA m",
-     "lien": "https://news.google.com/rss/articles/CBMi0AJBVV95cUxQYzlmVWRyX25xdkZBZkg1ck5BcGFJdERvRlBTNDMzUXFQWmdwMVZIMmNMSk51YjF4cXY2R0doQjF3RTZaVElrdXV6cm5POTBQVndxRGkzOU5IdEg0b3ZsZEtNQTRGUEF6M3J3YUZJZjk4b3pzSksyWDVIRmx5VmJRTG9TaUdZbFRrMWt2Yl9KVHF2eUxVQXJPc3NKcEJHcUtSN3pTV1V4b2JNUnNaYU84UFlNbGN6VDNoV09rb20tWGF3R2tualJQZ1duLWd4dHBESHhTdFFyQVEyUEg3VlFJYjZ3S2ZYR1VISU1FclM0ckl3a3RvQ25JRTVYSWRQcUl1NDNwSlMtcWljeTJrZ0xOcXd5bW5ONGZUZFEySWF2VW5GazMxdGFvTl8yaU5lYzQ1b2JZLTlLQmNxLTZ4czJVdDhlU2hIQVhjMzFCaVRlREvSAdACQVVfeXFMUGM5ZlVkcl9ucXZGQWZINXJOQXBhSXREb0ZQUzQzM1FxUFpncDFWSDJjTEpOdWIxeHF2NkdHaEIxd0U2WlRJa3V1enJuTzkwUFZ3cURpMzlOSHRING92bGRLTUE0RlBBejNyd2FGSWY5OG96c0pLMlg1SEZseVZiUUxvU2lHWWxUazFrdmJfSlRxdnlMVUFyT3NzSnBCR3FLUjd6U1dVeG9iTVJzWmFPOFBZTWxjelQzaFdPa29tLVhhd0drbmpSUGdXbi1neHRwREh4U3RRckFRMlBIN1ZRSWI2d0tmWEdVSElNRXJTNHJJd2t0b0NuSUU1WElkUHFJdTQzcEpTLXFpY3kya2dMTnF3eW1uTjRmVGRRMklhdlVuRmszMXRhb05fMmlOZWM0NW9iWS05S0JjcS02eHMyVXQ4ZVNoSEFYYzMxQmlUZURL?oc=5",
-     "resume": "",
-     "date": "2026-10-22T18:23:51+02:00",
-     "source": "Boursorama",
-     "image": null,
-     "reprises": 3,
-     "score": 4.63
+     "score": 4.1
     }
    ],
    "a_traduire": [
@@ -437,8 +437,8 @@
      "date": "2026-10-22T22:08:05+02:00",
      "source": "franceinfo",
      "image": null,
-     "reprises": 21,
-     "score": 43.97,
+     "reprises": 18,
+     "score": 38.72,
      "libertes": true
     },
     {
@@ -449,7 +449,7 @@
      "source": "La Gazette des Communes",
      "image": null,
      "reprises": 14,
-     "score": 31.87,
+     "score": 31.85,
      "libertes": true
     },
     {
@@ -493,7 +493,7 @@
      "source": "Business AM",
      "image": null,
      "reprises": 3,
-     "score": 4.07,
+     "score": 4.08,
      "libertes": false
     }
    ],
