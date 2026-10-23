@@ -1,6 +1,6 @@
 {
  "date": "2026-10-23",
- "genere": "2026-10-23T07:11+02:00",
+ "genere": "2026-10-23T08:45+02:00",
  "journaux": [
   {
    "id": "figaro",
@@ -13,28 +13,28 @@
    },
    "articles": [
     {
-     "titre": "EN DIRECT - Mobilisation du 24 octobre : Macron en première ligne avec les lycéens et les forces de l’ordre, Lecornu attendu à Limoges",
-     "lien": "https://www.lefigaro.fr/actualite-france/en-direct-mobilisation-24-octobre-manifestations-paris-emmanuel-macron-lyceens-sebastien-lecornu-20261023",
-     "resume": "Après plus d’un mois de crise, le chef de l’État reçoit les organisations lycéennes pour la première fois depuis le début de la contestation et va à la rencontre des forces de l’ordre, à la veille d’une nouvelle journée de mobilisations strictement encadrées.",
-     "date": "2026-10-23T06:44:02+02:00",
+     "titre": "EN DIRECT - Tempête Austen : 23 départements en alerte orange dont l’Île-de-France, des rafales de vents jusqu’à 160 km/h en Bretagne",
+     "lien": "https://www.lefigaro.fr/meteo/en-direct-tempete-austen-vents-meteo-vigilance-orange-rafales-bretagne-finistere-ile-de-france-20261023",
+     "resume": "De «nombreuses» lignes de train seront suspendues «préventivement» vendredi «en prévision du passage de la tempête Austen» en Île-de-France, a indiqué jeudi soir la SNCF, au lendemain de l’annonce de mesures semblables en Normandie et en Bretagne.",
+     "date": "2026-10-23T08:40:15+02:00",
      "source": "",
-     "image": "https://i.f1g.fr/media/cms/3000x2001_crop/2026/10/23/62273129d068f8e7c8932a5e14a774820885d46ba970a13b63fea0e737aabf31.jpg"
+     "image": "https://i.f1g.fr/media/cms/3000x2000_crop/2026/10/23/32183586b77a262df82dbec0d163d74d0c774f113312b7a21896b5c182ca51b2.jpg"
     },
     {
-     "titre": "« Samedi, je n’ouvrirai pas parce que j’ai peur » : à Marseille, les commerçants redoutent le 24 octobre",
-     "lien": "https://www.lefigaro.fr/marseille/samedi-je-n-ouvrirai-pas-parce-que-j-ai-peur-a-marseille-les-commercants-redoutent-le-24-octobre-20261023",
-     "resume": "TÉMOIGNAGES - Alors que 500 boutiques de la ville ont été touchées lors des violences du 17 octobre, les commerçants épargnés par les pillages hésitent à ouvrir leurs portes ce week-end. Certains ont même vidé leurs stocks.",
-     "date": "2026-10-23T06:30:00+02:00",
+     "titre": "Tempête Austen : 161.000 foyers privés d’électricité en France, annonce Enedis",
+     "lien": "https://www.lefigaro.fr/conjoncture/tempete-austen-161-000-foyers-prives-d-electricite-en-france-annonce-enedis-20261023",
+     "resume": "La majorité des habitations concernées se situe en Bretagne. Enedis se dit prête à intervenir dès que la situation le permettra.",
+     "date": "2026-10-23T08:07:45+02:00",
      "source": "",
-     "image": "https://i.f1g.fr/media/cms/3000x2000_crop/2026/10/22/3f63d9418f7b0f044d56c4c29f1c054ce8d133a8f775a6f60dcdd84f5dfd826b.jpg"
+     "image": "https://i.f1g.fr/media/cms/orig/2026/10/23/19bf68e3ce2f6bb48cb9e1e990fba20f995ddb7af63056bc45df8a67166abbed.JPG"
     },
     {
-     "titre": "Emmanuel Macron et Édouard Philippe, «gilets jaunes» et cagoules noires : histoire d’une malédiction",
-     "lien": "https://www.lefigaro.fr/elections/presidentielles/emmanuel-macron-et-edouard-philippe-gilets-jaunes-et-cagoules-noires-histoire-d-une-malediction-20261022",
-     "resume": "ANALYSE - Après avoir été l’un de ceux par qui la «saison 1» du mouvement est arrivée en 2018, l’ex-premier ministre aujourd’hui candidat pourrait être l’un de ceux que la «saison 2» va emporter en 2027.",
-     "date": "2026-10-22T12:05:47+02:00",
+     "titre": "Transports en Île-de-France : le trafic de plusieurs lignes de train interrompu ce vendredi en raison de la tempête Austen",
+     "lien": "https://www.lefigaro.fr/conjoncture/transports-en-ile-de-france-le-trafic-de-plusieurs-lignes-de-train-interrompu-ce-vendredi-en-raison-de-la-tempete-austen-20261022",
+     "resume": "Des perturbations sont à prévoir sur le réseau francilien, alors que de fortes rafales de vent sont attendues ce vendredi 23 octobre sur une partie de l’Île-de-France.",
+     "date": "2026-10-23T08:26:24+02:00",
      "source": "",
-     "image": "https://i.f1g.fr/media/cms/1918x1079_crop/2026/10/21/03ea8c5c9992c03a39d3ced4965507265eeaa9801e3186d482911cc9cb93738f.jpg"
+     "image": "https://i.f1g.fr/media/cms/orig/2026/10/22/4694986192bd184a6165a102137b62b1c65d8cd64c201eeeafaa73c9c300672e.JPG"
     },
     {
      "titre": "Conseil de sécurité à l’Élysée, réunion à Matignon… Emmanuel Macron et Sébastien Lecornu préparent un week-end tendu",
@@ -45,20 +45,20 @@
      "image": "https://i.f1g.fr/media/cms/2984x1679_crop/2026/10/22/3125a4a089069e403b25afeb5193f5ad9f3c7e073cc79e5c443d1d5228f8dec3.jpg"
     },
     {
-     "titre": "«Bombe météorologique», vents «violents» jusqu’à 150 km/h, trafic ferroviaire perturbé… La tempête Austen s’apprête à frapper la France",
-     "lien": "https://www.lefigaro.fr/meteo/bombe-meteorologique-vents-violents-jusqu-a-130-km-h-trafic-ferroviaire-perturbe-la-tempete-austen-s-apprete-a-frapper-la-france-20261021",
-     "resume": "Première tempête de l’automne, Austen doit toucher le nord-ouest de la France dès la nuit de jeudi à vendredi, avant de se propager dans une large partie du territoire. Des perturbations dans les transports et des chutes d’arbres sont à craindre.",
-     "date": "2026-10-22T21:38:41+02:00",
+     "titre": "EN DIRECT - Mobilisation du 24 octobre : Macron en première ligne avec les lycéens et les forces de l’ordre, Aubry dénonce «la pente autoritaire» du gouvernement",
+     "lien": "https://www.lefigaro.fr/actualite-france/en-direct-mobilisation-24-octobre-manifestations-paris-emmanuel-macron-lyceens-sebastien-lecornu-20261023",
+     "resume": "Après plus d’un mois de crise, le chef de l’État reçoit les organisations lycéennes pour la première fois depuis le début de la contestation et va à la rencontre des forces de l’ordre, à la veille d’une nouvelle journée de mobilisations strictement encadrées.",
+     "date": "2026-10-23T08:44:02+02:00",
      "source": "",
-     "image": "https://i.f1g.fr/media/cms/orig/2026/10/22/552837037ac558c91e46e60fd4e11c7268dd81d1f10ac5d4157196eca9080947.jpg"
+     "image": "https://i.f1g.fr/media/cms/3000x2001_crop/2026/10/23/62273129d068f8e7c8932a5e14a774820885d46ba970a13b63fea0e737aabf31.jpg"
     },
     {
-     "titre": "Transports en Île-de-France : le trafic de plusieurs lignes de train interrompu ce vendredi en raison de la tempête Austen",
-     "lien": "https://www.lefigaro.fr/conjoncture/transports-en-ile-de-france-le-trafic-de-plusieurs-lignes-de-train-interrompu-ce-vendredi-en-raison-de-la-tempete-austen-20261022",
-     "resume": "Des perturbations sont à prévoir sur le réseau francilien, alors que de fortes rafales de vent sont attendues ce vendredi 23 octobre sur une partie de l’Île-de-France.",
-     "date": "2026-10-22T20:54:59+02:00",
+     "titre": "« Samedi, je n’ouvrirai pas parce que j’ai peur » : à Marseille, les commerçants redoutent le 24 octobre",
+     "lien": "https://www.lefigaro.fr/marseille/samedi-je-n-ouvrirai-pas-parce-que-j-ai-peur-a-marseille-les-commercants-redoutent-le-24-octobre-20261023",
+     "resume": "TÉMOIGNAGES - Alors que 500 boutiques de la ville ont été touchées lors des violences du 17 octobre, les commerçants épargnés par les pillages hésitent à ouvrir leurs portes ce week-end. Certains ont même vidé leurs stocks.",
+     "date": "2026-10-23T06:30:00+02:00",
      "source": "",
-     "image": "https://i.f1g.fr/media/cms/orig/2026/10/22/4694986192bd184a6165a102137b62b1c65d8cd64c201eeeafaa73c9c300672e.JPG"
+     "image": "https://i.f1g.fr/media/cms/3000x2000_crop/2026/10/22/3f63d9418f7b0f044d56c4c29f1c054ce8d133a8f775a6f60dcdd84f5dfd826b.jpg"
     }
    ],
    "flux_utilise": "https://www.lefigaro.fr/rss/figaro_actualites.xml"
@@ -82,36 +82,28 @@
      "image": "https://img.lemde.fr/2026/10/22/621/0/7449/3724/644/322/60/0/326f95c_ftp-1-34v5swxkbtth-afp-d43e86c.jpg"
     },
     {
-     "titre": "Les interdictions de manifester pleuvent sur toute la France, au risque de malmener l’Etat de droit",
+     "titre": "Manifestations du 24 octobre : les interdictions se multiplient partout en France, au risque de malmener l’Etat de droit",
      "lien": "https://www.lemonde.fr/politique/article/2026/10/23/les-interdictions-de-manifester-pleuvent-sur-toute-la-france-au-risque-de-malmener-l-etat-de-droit_6798944_823448.html",
-     "resume": "Avant une nouvelle journée de mobilisation, samedi 24 octobre, et par crainte de nouveaux débordements et pillages, les restrictions à la liberté d’aller et venir et de défiler se multiplient, suscitant de vives critiques de la part de plusieurs associations…",
+     "resume": "Avant une nouvelle journée de mobilisation, samedi, et par crainte de nouveaux débordements et pillages, les restrictions à la liberté d’aller et venir et de défiler se multiplient, suscitant de vives critiques de la part de plusieurs associations de défense…",
      "date": "2026-10-23T05:45:02+02:00",
      "source": "",
      "image": "https://img.lemde.fr/2026/10/21/375/0/4500/2250/644/322/60/0/d5276cd_upload-1-ihypahrmaiul-18-20102026-dscf4479-couvre-feu-paris-carrot.jpg"
     },
     {
+     "titre": "Tempête Austen : 23 départements du nord et de l’ouest de la France en vigilance orange, plus de 160 000 foyers privés d’électricité",
+     "lien": "https://www.lemonde.fr/planete/article/2026/10/23/tempete-austen-23-departements-du-nord-et-de-l-ouest-de-la-france-en-vigilance-orange-plus-de-160-000-foyers-prives-d-electricite_6799023_3244.html",
+     "resume": "La tempête Austen entraîne la fermeture du village de la Route du rhum, à Saint-Malo, et perturbe fortement la circulation ferroviaire dans l’ouest et le nord du pays.",
+     "date": "2026-10-23T07:18:07+02:00",
+     "source": "",
+     "image": "https://img.lemde.fr/2026/10/22/779/0/5838/2919/644/322/60/0/5562365_ftp-1-hnnabkunwpmz-afp-d44a2g3.jpg"
+    },
+    {
      "titre": "Avec plus de 50 000 décès liés à la chaleur dont les deux tiers attribués au changement climatique, l’été 2026 a été le plus meurtrier dans les villes d’Europe",
      "lien": "https://www.lemonde.fr/planete/article/2026/10/23/avec-plus-de-50-000-deces-lies-a-la-chaleur-dont-les-deux-tiers-attribues-au-changement-climatique-l-ete-2026-a-ete-le-plus-meurtrier-dans-les-villes-d-europe_6798935_3244.html",
      "resume": "Selon une étude menée par deux institutions britanniques et portant sur 854 agglomérations, les canicules de 2026 ont été beaucoup plus meurtrières que celles de 2003 ou 2022.",
-     "date": "2026-10-23T05:00:24+02:00",
+     "date": "2026-10-23T05:00:19+02:00",
      "source": "",
      "image": "https://img.lemde.fr/2026/07/17/218/0/5432/2716/644/322/60/0/bcdf974_upload-1-kaobjqiugfxa-chaudauchu-58.jpg"
-    },
-    {
-     "titre": "Les inquiétudes sur l’intelligence artificielle font plonger Wall Street",
-     "lien": "https://www.lemonde.fr/economie/article/2026/10/23/les-inquietudes-sur-l-intelligence-artificielle-font-plonger-wall-street_6798868_3234.html",
-     "resume": "L’annonce de Meta, le groupe de Mark Zuckerberg, qui veut lancer une nouvelle levée de capital pour financer ses immenses investissements, a nourri, jeudi, les interrogations des investisseurs sur la capacité des sociétés du secteur à dégager des profits.",
-     "date": "2026-10-23T04:45:08+02:00",
-     "source": "",
-     "image": "https://img.lemde.fr/2026/10/22/408/0/4894/2447/644/322/60/0/9e77a4e_ftp-1-cfcpsqjwnhkv-f05ea25eafe448359a25760f42e91231-0-d1686de9061547a4851f0f09b6bee43e.jpg"
-    },
-    {
-     "titre": "Au procès de l’explosion de la rue de Trévise, à Paris, le plombier, le maçon et le conducteur de travaux",
-     "lien": "https://www.lemonde.fr/societe/article/2026/10/23/au-proces-de-l-explosion-de-la-rue-de-trevise-a-paris-le-plombier-le-macon-et-le-conducteur-de-travaux_6798767_3224.html",
-     "resume": "Un collecteur d’eaux usées dans les caves du 6, rue de Trévise, et un trou récurrent dans le trottoir, devant la porte cochère de l’immeuble, ont été au centre des débats, jeudi 22 octobre, au tribunal judiciaire de Paris.",
-     "date": "2026-10-23T02:15:07+02:00",
-     "source": "",
-     "image": "https://img.lemde.fr/2026/10/16/85/0/1024/512/644/322/60/0/9c7cd2b_ftp-1-wpvboajt13nu-afp-d3gq6zq-1024.jpg"
     },
     {
      "titre": "Au Brésil, pourquoi les classes moyennes ont tourné le dos à Lula",
@@ -120,6 +112,14 @@
      "date": "2026-10-23T05:00:28+02:00",
      "source": "",
      "image": "https://img.lemde.fr/2026/10/22/605/0/7248/3624/644/322/60/0/2274461_upload-1-23eo3pnue0gy-br-elections-minasgerais-108.jpg"
+    },
+    {
+     "titre": "Les inquiétudes sur l’intelligence artificielle font plonger Wall Street",
+     "lien": "https://www.lemonde.fr/economie/article/2026/10/23/les-inquietudes-sur-l-intelligence-artificielle-font-plonger-wall-street_6798868_3234.html",
+     "resume": "L’annonce de Meta, le groupe de Mark Zuckerberg, qui veut lancer une nouvelle levée de capital pour financer ses immenses investissements, a nourri, jeudi, les interrogations des investisseurs sur la capacité des sociétés du secteur à dégager des profits.",
+     "date": "2026-10-23T04:45:08+02:00",
+     "source": "",
+     "image": "https://img.lemde.fr/2026/10/22/408/0/4894/2447/644/322/60/0/9e77a4e_ftp-1-cfcpsqjwnhkv-f05ea25eafe448359a25760f42e91231-0-d1686de9061547a4851f0f09b6bee43e.jpg"
     }
    ],
    "flux_utilise": "https://www.lemonde.fr/rss/une.xml"
@@ -129,58 +129,58 @@
    "nom": "La Croix",
    "couleur": "#c8102e",
    "une": {
-    "fichier": "unes/croix.webp",
+    "fichier": "unes/croix.jpg",
     "date": "2026-10-23",
-    "source": "https://www.frontpages.com/t/2026/10/23/la-croix-0629146z8@2x.webp"
+    "source": "https://img.kiosko.net/2026/10/23/fr/lacroix.750.jpg"
    },
    "articles": [
     {
-     "titre": "Chine : 16 morts dans un séisme de magnitude 7 au Tibet",
-     "lien": "https://www.la-croix.com/chine-16-morts-dans-un-seisme-de-magnitude-7-au-tibet-20261022",
-     "resume": "Un séisme de magnitude 7 a frappé le Tibet jeudi 22 octobre, faisant 16 morts et 32 blessés. L’épicentre, localisé dans le canton de Maru, a provoqué l’effondrement de plus de 300 maisons. Les opérations de secours sont en cours.",
-     "date": "2026-10-23T06:56:43+02:00",
+     "titre": "DIRECT. Manifestation du 24 octobre : lycéens à l’Élysée ; conseil de défense… Suivez la situation",
+     "lien": "https://www.la-croix.com/societe/direct-manifestation-17-octobre-jour-7-violences-couvre-feu-dispositif-aujourdhui-20261023",
+     "resume": "Emmanuel Macron présidera à 9 heures un conseil de défense à l’issue duquel des « décisions supplémentaires » sont attendues en matière de sécurité. Les représentants des lycéens sont attendus à l’Élysée à 15 heures. Suivez l’actualité du mouvement de…",
+     "date": "2026-10-23T08:43:51+02:00",
      "source": "",
-     "image": "https://i.la-croix.com/x/2024/08/08/1552968-un-technicien-de-l-institut-national-de-sismologie.jpg"
+     "image": "https://i.la-croix.com/x/2026/10/23/2569942-certains-commerces-posent-des-panneaux-de-bois-pou.jpg"
     },
     {
-     "titre": "70 ans du soulèvement hongrois contre les Soviétiques : sur la trace des « Gavroches » de Budapest",
-     "lien": "https://www.la-croix.com/culture/70-ans-du-soulevement-hongrois-contre-les-sovietiques-sur-la-trace-des-gavroches-de-budapest-20261022",
-     "resume": "La Hongrie commémore vendredi 23 octobre 2026 les 70 ans du soulèvement antisoviétique de 1956. Le journaliste français Phil Casoar et l’historienne hongroise Eszter Balazs ont retracé dans un livre le destin d’un couple de jeunes insurgés devenus des icônes…",
-     "date": "2026-10-23T06:55:03+02:00",
+     "titre": "Avec les mobilisations des 17 et 24 octobre, le secteur du commerce connaît une nouvelle crise",
+     "lien": "https://www.la-croix.com/economie/avec-les-mobilisations-des-17-et-24-octobre-le-secteur-du-commerce-connait-une-nouvelle-crise-20261023",
+     "resume": "Les dégradations en marge des manifestations du 17 octobre ont provoqué la sidération parmi les commerçants. Elles s’ajoutent à une succession de crises plus larges, notamment pour les magasins de centre-ville, qui augmentent l’inquiétude pour l’avenir.",
+     "date": "2026-10-23T08:36:57+02:00",
      "source": "",
-     "image": "https://i.la-croix.com/x/2026/10/22/2569804-dans-leur-enquete-sur-le-soulevement-antisovietiqu.jpg"
+     "image": "https://i.la-croix.com/x/2026/10/22/2569663-la-devanture-d-un-magasin-dont-les-vitrines-ont-et.jpg"
     },
     {
-     "titre": "Crise sociale et taux d’emprunt à 5 % : la France prise en étau entre la rue et les marchés financiers",
-     "lien": "https://www.la-croix.com/economie/crise-sociale-et-taux-d-emprunt-a-5-la-france-prise-en-etau-entre-la-rue-et-les-marches-financiers-20261022",
-     "resume": "Le taux d’emprunt de la France est désormais installé au-dessus de 5 % et l’agence de notation Moody’s pourrait dégrader la note souveraine du pays, dans un contexte de défiance accentué par les événements du 17 octobre. En 2028, la charge de la dette…",
-     "date": "2026-10-23T06:32:06+02:00",
+     "titre": "« Impossible » sur arte.tv : duel de haute volée entre un juge et un accusé",
+     "lien": "https://www.la-croix.com/culture/impossible-sur-artetv-duel-de-haute-volee-entre-un-juge-et-un-accuse-20261023",
+     "resume": "Cette adaptation réussie du roman d’Erri de Luca met en scène le face-à-face entre un juge et un vieil homme accusé d’avoir poussé dans un ravin un ancien camarade de lutte politique. Un thriller aux dialogues tranchants, à voir ce vendredi 23 octobre à 20 h…",
+     "date": "2026-10-23T08:06:53+02:00",
      "source": "",
-     "image": "https://i.la-croix.com/x/2026/10/22/2569679-dans-les-bureaux-de-l-agence-france-tresor-aft-cha.jpg"
+     "image": "https://i.la-croix.com/x/2026/10/23/2569473-fabrizio-bentivoglio-incarne-enzo-tovoli-un-septua.jpg"
     },
     {
-     "titre": "Manifestations du 17 octobre : comment lutter contre la polarisation politique en pleine crise sociale",
-     "lien": "https://www.la-croix.com/politique/manifestations-du-17-octobre-comment-lutter-contre-la-polarisation-politique-en-pleine-crise-sociale-20261022",
-     "resume": "Depuis le 17 octobre, le jeu politique se focalise sur l’opposition entre le Rassemblement national, dans le rôle du parti de l’ordre, et La France insoumise, dans celui du parti de la rue. Face à la tenaille des extrêmes, le bloc central est en grande…",
-     "date": "2026-10-23T06:30:03+02:00",
+     "titre": "L’absolutisme français : un système inefficace menacé, encore une fois, par la révolution",
+     "lien": "https://www.la-croix.com/a-vif/l-absolutisme-francais-un-systeme-inefficace-menace-encore-une-fois-par-la-revolution-20261023",
+     "resume": "De la monarchie d’Ancien Régime au macronisme, la France perpétue une culture du pouvoir vertical. Un système où l’État prétend tout savoir, au détriment de la société civile. Jusqu’au jour où…",
+     "date": "2026-10-23T08:06:21+02:00",
      "source": "",
-     "image": "https://i.la-croix.com/x/2026/10/22/2569742-l-assemblee-nationale-a-paris-lors-dune-seance-de-.jpg"
+     "image": "https://i.la-croix.com/x/2026/10/22/2569916-le-president-emmanuel-macron-au-centre-au-cote-du-.jpg"
     },
     {
-     "titre": "Manifestation du 24 octobre : des interdictions dans les grandes villes… Toutes les informations du jeudi 22 octobre",
-     "lien": "https://www.la-croix.com/societe/direct-manifestation-17-octobre-jour-6-violences-couvre-feu-dispositif-aujourdhui-20261022",
-     "resume": "Des gilets jaunes ont appelé à des manifestations et à un « acte II » samedi 24 octobre, date pour laquelle des arrêtés préfectoraux interdisent les rassemblements, notamment à Lyon, à Marseille, ou dans des zones d’autres grandes villes. Retrouvez la…",
-     "date": "2026-10-23T06:13:24+02:00",
+     "titre": "Tempête Austen : 23 départements en vigilance orange vent ; 161 000 foyers privés d’électricité",
+     "lien": "https://www.la-croix.com/planete/tempete-austen-23-departements-en-vigilance-orange-vent-161-000-foyers-prives-d-electricite-20261023",
+     "resume": "Avec des rafales atteignant 140 km/h, la tempête Austen plonge ce vendredi 161 000 foyers dans le noir, principalement en Bretagne. Vingt-trois départements sont en vigilance orange, et la SNCF annonce des perturbations ferroviaires majeures.",
+     "date": "2026-10-23T07:16:33+02:00",
      "source": "",
-     "image": "https://i.la-croix.com/x/2026/10/22/2569914-patrouille-des-forces-de-l-ordre-dans-les-rues-de-.jpg"
+     "image": "https://i.la-croix.com/x/2026/10/23/2570213-la-tempete-austen-qui-touche-le-nord-et-l-ouest-de.jpg"
     },
     {
-     "titre": "Le temps de Dieu, c'est maintenant. Commentaire de l’Évangile du vendredi 23 octobre",
-     "lien": "https://www.la-croix.com/religion/le-temps-de-dieu-c-est-maintenant-commentaire-de-l-evangile-du-vendredi-23-octobre-20261019",
-     "resume": "Vendredi de la 29e Semaine du Temps Ordinaire (Lc 12,54-59)",
-     "date": "2026-10-23T05:57:00+02:00",
+     "titre": "Portugal : un projet de centre d’histoire dédié au dictateur Salazar voit le jour malgré les critiques",
+     "lien": "https://www.la-croix.com/culture/portugal-un-projet-de-centre-d-histoire-dedie-au-dictateur-salazar-voit-le-jour-malgre-les-critiques-20261022",
+     "resume": "Après d’intenses polémiques et en dépit d’une tendance révisionniste, un « centre d’interprétation » consacré au régime du dictateur, au pouvoir de 1933 à 1974, doit ouvrir ce vendredi 23 octobre dans le nord du pays.",
+     "date": "2026-10-23T07:15:18+02:00",
      "source": "",
-     "image": "https://i.la-croix.com/x/2026/10/19/2566270-a-l-occasion-de-la-journee-mondiale-de-la-resilien.jpg"
+     "image": "https://i.la-croix.com/x/2026/10/22/2569624-antonio-oliveira-de-salazar-a-dirige-le-regime-dic.jpg"
     }
    ],
    "flux_utilise": "https://www.la-croix.com/feeds/rss/site.xml"
@@ -190,58 +190,58 @@
    "nom": "L'Équipe",
    "couleur": "#e2001a",
    "une": {
-    "fichier": "unes/equipe.webp",
+    "fichier": "unes/equipe.jpg",
     "date": "2026-10-23",
-    "source": "https://www.frontpages.com/t/2026/10/23/l-equipe-0106059r3@2x.webp"
+    "source": "https://img.kiosko.net/2026/10/23/fr/l_equip.750.jpg"
    },
    "articles": [
     {
-     "titre": "Animées par la honte et la colère, les Bleues ont « envie de montrer qu'elles valent mieux » contre la Nouvelle-Zélande",
-     "lien": "https://www.lequipe.fr/Rugby/Actualites/Animees-par-la-honte-et-la-colere-les-bleues-ont-envie-de-montrer-qu-elles-valent-mieux-contre-la-nouvelle-zelande/1737837#at_medium=RSS_feeds",
-     "resume": "Humiliées la semaine dernière à Hamilton (81-12), les Bleues se doivent une revanche à elles-mêmes. Contre les Néo-Zélandaises dans la nuit de vendredi à samedi à Whangarei (4h05), elles seront animées par la honte et la colère.",
-     "date": "2026-10-23T06:47:00+02:00",
+     "titre": "« C'était mon rêve d'avoir l'occasion de courir en Afrique » : Lewis Hamilton veut prolonger sa carrière pour participer au GP du Rwanda",
+     "lien": "https://www.lequipe.fr/Formule-1/Actualites/Heureux-du-retour-d-un-grand-prix-en-afrique-lewis-hamilton-pourrait-prolonger-sa-carriere-pour-y-participer/1737959#at_medium=RSS_feeds",
+     "resume": "Lors d'une conférence de presse, ce jeudi, en marge du Grand Prix des États-Unis, Lewis Hamilton a exprimé sa joie du retour annoncé de la F1 en Afrique, au Rwanda, au début des années 2030. Le Britannique pourrait poursuivre sa carrière jusque-là pour vivre…",
+     "date": "2026-10-23T08:07:54+02:00",
      "source": "",
-     "image": "https://medias.lequipe.fr/img-photo-jpg/les-bleues-ont-encaisse-13-essais-la-semaine-derniere-a-hamilton-s-watts-d-lintott-icon-sport/1500000002630414/0:0,2000:1333-828-552-75/6d722.jpg"
+     "image": "https://medias.lequipe.fr/img-photo-png/-/1500000000833469/0-828-552-75/0cb67.png"
     },
     {
-     "titre": "Leader offensif de Nancy, l'ancienne pépite du PSG Ilyes Housni se révèle enfin en Ligue 2 : « C'est le genre de joueur qu'on vient voir dans un stade »",
-     "lien": "https://www.lequipe.fr/Football/Article/Leader-offensif-de-nancy-l-ancienne-pepite-du-psg-ilyes-housni-se-revele-enfin-en-ligue-2-c-est-le-genre-de-joueur-qu-on-vient-voir-dans-un-stade/1737883#at_medium=RSS_feeds",
-     "resume": "Ancien espoir du PSG, Ilyes Housni est devenu le fer de lance de Nancy, 5e de Ligue 2. De quoi nourrir les ambitions des Lorrains avant la réception de Laval, lanterne rouge, ce vendredi (20 heures), pour la 10e journée.",
-     "date": "2026-10-23T06:31:00+02:00",
+     "titre": "« Monsieur le Président, je peux vous faire la bise s'il vous plaît ? » : le pari de Jean-Pierre Papin, qui a embrassé François Mitterrand après la victoire de l'OM en Coupe de France",
+     "lien": "https://www.lequipe.fr/Football/Actualites/-monsieur-le-president-je-peux-vous-faire-la-bise-s-il-vous-plait-le-pari-de-jean-pierre-papin-qui-a-embrasse-francois-mitterrand-apres-la-victoire-de-l-om-en-coupe-de-france/1737884#at_medium=RSS_feeds",
+     "resume": "En 1989, l'OM remporte son premier titre depuis dix-sept ans en battant Monaco (4-3) en finale de la Coupe de France, avec un triplé de Jean-Pierre Papin. Dans « JPP », le nouveau documentaire de L'Équipe explore, l'attaquant raconte les coulisses de la bise…",
+     "date": "2026-10-23T08:05:00+02:00",
      "source": "",
-     "image": "https://medias.lequipe.fr/img-photo-jpg/ilyes-housni-a-droite-devant-frederic-guilbert-lors-de-la-defaite-de-nancy-a-nantes-0-1-le-7-septembre-f-pestellini-icon-sport/1500000002630504/0:0,2000:1333-828-552-75/a45f8.jpg"
+     "image": "https://medias.lequipe.fr/img-photo-jpg/-/1500000002630505/0:0,1500:1000-828-552-75/fa33f.jpg"
     },
     {
-     "titre": "Auteur d'un but sublime, Paris Brunner a enfilé le costume du héros pour Monaco contre Fribourg en Ligue Conférence",
-     "lien": "https://www.lequipe.fr/Football/Actualites/Auteur-d-un-but-sublime-paris-brunner-a-enfile-le-costume-du-heros-pour-monaco-contre-fribourg-en-ligue-conference/1737945#at_medium=RSS_feeds",
-     "resume": "Auteur d'un but exceptionnel à l'aide d'un coup du sombrero, Paris Brunner a guidé son équipe vers la victoire contre Fribourg (3-0), ce jeudi en Ligue Conférence, et étoffé sa grille de stats. Il est, avec Lamine Camara, l'homme du début de saison côté…",
-     "date": "2026-10-23T06:23:00+02:00",
+     "titre": "Chidekh, tête en l'air repenti, est enfin à sa place",
+     "lien": "https://www.lequipe.fr/Tennis/Article/-la-vie-d-etudiant-m-aurait-plu-aussi-syndrome-de-l-imposteur-et-gaffes-derriere-lui-clement-chidekh-est-enfin-a-sa-place/1737734#at_medium=RSS_feeds",
+     "resume": "",
+     "date": "2026-10-23T08:01:00+02:00",
      "source": "",
-     "image": "https://medias.lequipe.fr/img-photo-jpg/paris-brunner-au-duel-avec-matthias-ginter-ce-jeudi-lors-de-monaco-fribourg-3-0-en-ligue-conference-philippe-magoni-ap/1500000002630659/0:0,2000:1333-828-552-75/dfc02.jpg"
+     "image": "https://medias.lequipe.fr/img-photo-png/-/1500000000833469/0-828-552-75/0cb67.png"
     },
     {
-     "titre": "Gautier Lloris-Lucas Tousart, une charnière centrale par défaut mais qui fait l'affaire à Brest",
-     "lien": "https://www.lequipe.fr/Football/Actualites/Gautier-lloris-lucas-tousart-une-charniere-centrale-par-defaut-mais-qui-fait-l-affaire-a-brest/1737763#at_medium=RSS_feeds",
-     "resume": "En raison des blessures, ce sont les expérimentés Gautier Lloris et Lucas Tousart qui se sont installés en défense centrale, à Brest, qui accueille Nice vendredi soir (20h45).",
-     "date": "2026-10-23T06:12:00+02:00",
+     "titre": "Une journée dans la peau de l'équipe de France... des commerçants",
+     "lien": "https://www.lequipe.fr/Tous-sports/Actualites/Une-journee-dans-la-peau-de-l-equipe-de-france-des-commercants/1724439#at_medium=RSS_feeds",
+     "resume": "",
+     "date": "2026-10-23T08:00:00+02:00",
      "source": "",
-     "image": "https://medias.lequipe.fr/img-photo-jpg/gautier-lloris-et-lucas-tousart-lors-de-la-victoire-de-brest-contre-angers-5-1-le-10-octobre-en-ligue-1-f-pestellini-icon-sport/1500000002630234/223:238,1849:1322-828-552-75/e4a1d.jpg"
+     "image": "https://medias.lequipe.fr/img-photo-png/-/1500000000833469/0-828-552-75/0cb67.png"
     },
     {
-     "titre": "« C'est primordial pour nous » : pourquoi et comment Nice entretient sa mémoire avant de se déplacer à Brest et de rendre hommage à Éric Roy",
-     "lien": "https://www.lequipe.fr/Football/Article/-c-est-primordial-pour-nous-pourquoi-et-comment-nice-entretient-sa-memoire-avant-de-se-deplacer-a-brest-et-de-rendre-hommage-a-eric-roy/1737840#at_medium=RSS_feeds",
-     "resume": "À l'heure de rendre un nouvel hommage à Éric Roy, le Gym, qui se déplace ce vendredi à Brest (20h45), montre cette saison sa capacité à renforcer le lien entre son passé et son présent.",
-     "date": "2026-10-23T06:03:00+02:00",
+     "titre": "Les 32 points de Tyrese Maxey pour Philadelphie",
+     "lien": "https://www.lequipe.fr/Basket/Video/Nba-les-32-points-de-tyrese-maxey-pour-philadelphie/20243891#at_medium=RSS_feeds",
+     "resume": "",
+     "date": "2026-10-23T07:55:00+02:00",
      "source": "",
-     "image": "https://medias.lequipe.fr/img-photo-jpg/le-portrait-d-eric-roy-decede-le-17-juin-avait-ete-affiche-sur-ecran-geant-a-l-allianz-riviera-lors-de-nice-lorient-0-0-le-22-aout-a-l-occasion-de-la-premiere-journee-de-ligue-1-emilian-baldow-icon-sport/1500000002630416/272:217,1851:1270-828-552-75/e0c7b.jpg"
+     "image": "https://medias.lequipe.fr/img-photo-png/-/1500000000833469/0-828-552-75/0cb67.png"
     },
     {
-     "titre": "« Nous rêvons d'avoir l'une des meilleures académies en France » : treize ans plus tard, Le Mans retrouve un centre de formation",
-     "lien": "https://www.lequipe.fr/Football/Article/-nous-revons-d-avoir-l-une-des-meilleures-academies-en-france-treize-ans-plus-tard-le-mans-retrouve-un-centre-de-formation/1737409#at_medium=RSS_feeds",
-     "resume": "Inauguré la semaine dernière, le nouveau centre de formation du club sarthois a pour objectif de permettre au promu en Ligue 1 de pérenniser sa présence au plus haut niveau.",
-     "date": "2026-10-23T05:43:00+02:00",
+     "titre": "Antonelli champion du monde ce week-end si...",
+     "lien": "https://www.lequipe.fr/Formule-1/Actualites/Kimi-antonelli-champion-du-monde-des-le-prochain-gp-a-austin-si/1724995#at_medium=RSS_feeds",
+     "resume": "",
+     "date": "2026-10-23T07:53:00+02:00",
      "source": "",
-     "image": "https://medias.lequipe.fr/img-photo-jpg/le-nouveau-centre-de-formation-a-ete-inaugure-au-mans-le-mans-fc/1500000002628815/0:0,2000:1333-828-552-75/9362f.jpg"
+     "image": "https://medias.lequipe.fr/img-photo-png/-/1500000000833469/0-828-552-75/0cb67.png"
     }
    ],
    "flux_utilise": "https://dwh.lequipe.fr/api/edito/rss?path=/"
@@ -254,44 +254,54 @@
    "sous_titre": "Les informations les plus importantes, partout dans le monde",
    "items": [
     {
-     "titre": "En Chine, le séisme de magnitude 7 qui a frappé la région du Tibet fait au moins 16 morts et des dizaines de blessés",
+     "titre": "En Chine, le séisme de magnitude 7 qui a frappé la région du Tibet a fait au moins 16 morts et des dizaines de blessés",
      "lien": "https://www.lemonde.fr/planete/article/2026/10/22/en-chine-le-seisme-de-magnitude-7-qui-a-frappe-la-region-du-tibet-fait-16-morts-et-des-dizaines-de-blesses_6798655_3245.html",
      "resume": "Un séisme majeur a frappé jeudi soir la région du Tibet, en Chine. La secousse, survenue à 22 h 33, heure locale, a eu lieu dans une zone régulièrement touchée par des tremblements de terre.",
      "date": "2026-10-22T22:52:16+02:00",
      "source": "lemonde.fr",
      "image": "https://img.lemde.fr/2026/10/23/142/0/1706/853/644/322/60/0/dde5891_ftp-1-bthve5kcsrui-acaf3f89616e4211a5f860227dd074ba-0-543ee40a38cc4f9d8e54704428e14884.jpg",
      "reprises": 6,
-     "score": 12.83
+     "score": 14.1
     },
     {
-     "titre": "Nigera : l'OMS en alerte après un premier cas d'Ebola",
-     "lien": "https://www.france24.com/fr/vid%C3%A9o/20261022-nigera-l-oms-en-alerte-apr%C3%A8s-un-premier-cas-d-ebola",
-     "resume": "L'Organisation mondiale de la santé (OMS) a prévenu jeudi que l'Afrique était confrontée à une épidémie d'Ebola \"plus complexe\", car le virus a voyagé d'Afrique de l'Est jusqu'au Nigeria, qui a signalé le premier cas dans l'ouest du continent.",
-     "date": "2026-10-22T19:38:27+02:00",
+     "titre": "Guerre en Ukraine : Trump affirme que Musk a rétabli l'accès à son réseau satellitaire Starlink",
+     "lien": "https://www.france24.com/fr/europe/20261023-guerre-en-ukraine-trump-affirme-que-musk-a-r%C3%A9tabli-l-acc%C3%A8s-%C3%A0-son-r%C3%A9seau-satellitaire-starlink",
+     "resume": "Donald Trump a affirmé jeudi qu'Elon Musk avait rétabli l'accès au réseau satellitaire Starlink, essentiel pour l'armée ukrainienne. Kiev s'était plaint de restrictions de connexion à Starshield, sa déclinaison militaire, qu'elle l'utilise en particulier…",
+     "date": "2026-10-23T08:33:36+02:00",
+     "source": "© Stringer, Reuters",
+     "image": "https://s.france24.com/media/display/8b0223f8-cea8-11f1-bca1-bd65831edece/w:1024/p:16x9/2026-10-21T074436Z-1248184118-RC2A4OASOPG5-RTRMADP-3-UKRAINE-CRISIS-RUBIO.jpg",
+     "reprises": 4,
+     "score": 9.08
+    },
+    {
+     "titre": "Un nouveau sacre de championne du monde de longboard pour Alice Lemoigne",
+     "lien": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQc0RIN0pMeUxxUWRwdHE2ejJESzZmc1RQaHFYZHN1TWt1aDdURmpOeGpGZ3c5bllKenltSjdfUkJGS0NVSjVUWGZON1V6dFBkVWIxZk1yVzVjclYwY0tRR0t2UzdDd3pQTF9lWlZ4OGJqaWJRMHY2ZFhOVUp5M0JPRGlHbmVrR2VPNUR6WHYtY043SU1WVDRSYnpIUGZLZmdQZlFLbkZGb3c2eTlHUXZuTTRrY2NOMW44Zk9ucDlwdjNZZw?oc=5",
+     "resume": "",
+     "date": "2026-10-23T07:24:40+02:00",
+     "source": "Outre-mer La 1ère",
+     "image": null,
+     "reprises": 4,
+     "score": 6.94
+    },
+    {
+     "titre": "🔴 En direct : Emmanuel Macron s’entretient avec les forces de l’ordre et les lycéens ce vendredi",
+     "lien": "https://www.france24.com/fr/france/20261022-en-direct-france-macron-recoit-lyceens-rencontre-forces-de-l-ordre-lecornu-limoges-manifestations",
+     "resume": "Pour la première fois depuis le début de la contestation, il y a plus d’un mois, Emmanuel Macron reçoit vendredi après-midi les organisations lycéennes à l'Élysée. Il se rendra également auprès des forces de l'ordre. De son côté, Sébastien Lecornu est…",
+     "date": "2026-10-23T08:11:21+02:00",
      "source": "france24.com",
-     "image": "https://s.france24.com/media/display/280d8846-ce3f-11f1-9259-97baf3e9dd31/w:1024/p:16x9/Nigeria-00-00-00-00-Still001.jpg",
-     "reprises": 7,
-     "score": 11.93
+     "image": null,
+     "reprises": 3,
+     "score": 5.77
     },
     {
-     "titre": "EN DIRECT, guerre en Ukraine : Donald Trump affirme qu’Elon Musk a relancé son réseau satellitaire Starlink pour Kiev",
-     "lien": "https://www.lemonde.fr/international/live/2026/10/23/en-direct-guerre-en-ukraine-donald-trump-affirme-qu-elon-musk-a-relance-son-reseau-satellitaire-starlink-pour-kiev_6796922_3210.html",
-     "resume": "Le « Wall Street Journal » a rapporté que, selon des responsables américains, le président républicain avait appelé Elon Musk, mercredi, pour lui demander de lever le bridage du système. L’Ukraine avait fait état de limitations dans sa capacité de connexion…",
-     "date": "2026-10-23T06:39:42+02:00",
+     "titre": "Procès sur la mort de Diego Maradona : verdict attendu le 22 décembre après une cinquantaine d’audiences et six mois de débats",
+     "lien": "https://www.lemonde.fr/international/article/2026/10/23/proces-sur-la-mort-de-diego-maradona-verdict-attendu-le-22-decembre-apres-une-cinquantaine-d-audiences-et-six-mois-de-debats_6798800_3210.html",
+     "resume": "L’accusation a requis de quatre à douze ans de prison contre six des sept accusés, des professionnels de santé jugés pour de potentielles négligences fatales lors d’une hospitalisation à domicile de l’idole du foot argentin, mort en novembre 2020.",
+     "date": "2026-10-23T04:00:52+02:00",
      "source": "lemonde.fr",
-     "image": "https://img.lemde.fr/2026/10/21/239/0/3810/1905/644/322/60/0/27e9897_ftp-1-cdbxqjn2k2te-2026-10-21t074436z-1248184118-rc2a4oasopg5-rtrmadp-3-ukraine-crisis-rubio.JPG",
-     "reprises": 4,
-     "score": 7.85
-    },
-    {
-     "titre": "24 octobre : Macron serre la vis sur les manifestations, interdites à Marseille et à Lyon",
-     "lien": "https://www.france24.com/fr/france/20261022-24-octobre-macron-serre-la-vis-sur-les-manifestations-interdites-%C3%A0-marseille-et-%C3%A0-lyon",
-     "resume": "Emmanuel Macron a annoncé jeudi que seules les manifestations organisées par des syndicats seront autorisées le 24 octobre, lors d'une nouvelle journée de mobilisation pour le pouvoir d'achat. Les préfets du Rhône et des Bouches-du-Rhône ont interdit les…",
-     "date": "2026-10-22T22:39:21+02:00",
-     "source": "© Thibaud Moritz, AFP",
-     "image": "https://s.france24.com/media/display/4b764810-ce56-11f1-a86e-8d87bc3aeb3a/w:1024/p:16x9/000-D3MD4CT.jpg",
-     "reprises": 4,
-     "score": 6.91
+     "image": "https://img.lemde.fr/2026/10/21/516/0/6192/3096/644/322/60/0/1364015_ftp-1-yhnwfoeiyf1f-2026-10-21t132442z-1520221250-rc2p7oagzpeb-rtrmadp-3-argentina-maradona-court.JPG",
+     "reprises": 3,
+     "score": 5.49
     },
     {
      "titre": "Midterms 2026 : comment Donald Trump profite de la crise politique en France",
@@ -300,18 +310,8 @@
      "date": "2026-10-22T17:10:19+02:00",
      "source": "lemonde.fr",
      "image": "https://img.lemde.fr/2026/10/22/407/0/4889/2444/644/322/60/0/09a58b0_ftp-1-vnxmkldd9apd-8f8954de78d94df795fa5ef44f83702f-1-d26759f879df45f0859a3115ed4137ca.jpg",
-     "reprises": 4,
-     "score": 6.25
-    },
-    {
-     "titre": "Procès sur la mort de Diego Maradona : verdict attendu le 22 décembre après une cinquantaine d’audiences et six mois de débats",
-     "lien": "https://www.lemonde.fr/international/article/2026/10/23/proces-sur-la-mort-de-diego-maradona-verdict-attendu-le-22-decembre-apres-une-cinquantaine-d-audiences-et-six-mois-de-debats_6798800_3210.html",
-     "resume": "L’accusation a requis de quatre à douze ans de prison contre six des sept accusés, des professionnels de santé jugés pour potentielles négligences fatales lors d’une hospitalisation à domicile de l’idole du foot argentin, mort en novembre 2020.",
-     "date": "2026-10-23T04:00:54+02:00",
-     "source": "lemonde.fr",
-     "image": "https://img.lemde.fr/2026/10/21/516/0/6192/3096/644/322/60/0/1364015_ftp-1-yhnwfoeiyf1f-2026-10-21t132442z-1520221250-rc2p7oagzpeb-rtrmadp-3-argentina-maradona-court.JPG",
      "reprises": 3,
-     "score": 5.96
+     "score": 5.28
     }
    ],
    "a_traduire": []
@@ -328,8 +328,8 @@
      "date": "2026-10-22T10:29:30+02:00",
      "source": "BDM",
      "image": null,
-     "reprises": 13,
-     "score": 24.21
+     "reprises": 12,
+     "score": 21.69
     },
     {
      "titre": "OpenAI en passe de lever jusqu’à 30 milliards de dollars, valorisation à 1,25 billion de dollars",
@@ -338,38 +338,38 @@
      "date": "2026-10-23T05:10:55+02:00",
      "source": "https://renseignementeconomique.fr/",
      "image": null,
-     "reprises": 4,
-     "score": 8.8
+     "reprises": 3,
+     "score": 6.55
     },
     {
-     "titre": "Uber déploie ChatGPT Work pour tous ses employés avec OpenAI",
-     "lien": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5YTS13dXViNDFUdUJTb1dkVXV1VkdDU01DYllZaWtlOEUwS0FVVjdiMUY3Vy1SYUhpWTRXRW9maHZYSUNUdEE5QURlNjhjV0dOb1NtVXFHSEt6OUl4MDlzeWRpT1lVUldQ?oc=5",
+     "titre": "Avec OpenAI, Uber offre ChatGPT Work à tout son personnel",
+     "lien": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5hV0RFM3doNHVmMnkyV1NueVdudUZXcDQwZ3ZCVEc1cFZHbF8zclhJZHR6enhsX1QyaklGOUZYRzJzVnBYMkVDb3RTUWFjMlN2cklobmxsVkJscV9tTVRJM2pBZGVBNFFU?oc=5",
      "resume": "The ride-share giant previously deployed a much smaller pilot for ChatGPT Work but is now taking the enterprise agent company-wide.",
-     "date": "2026-10-23T02:40:03+02:00",
+     "date": "2026-10-23T03:57:01+02:00",
      "source": "OpenAI",
      "image": null,
      "reprises": 2,
-     "score": 6.02
+     "score": 5.92
     },
     {
-     "titre": "Le yen s’envole, les remous autour de l’intelligence artificielle déclenchent une ruée vers les valeurs refuges",
-     "lien": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxNT3YzQnVGbnRxRDg1N21LMUlOeUFadjhFUG5TYWRrdnpuSFhKTUVvN0FwMkRGTExaWWYycGk3cG1jN3dBUkV5SnFXejdBcjZlVTlWVlI5ZEhSYWExNG9qeTdzazBFemVRdVl4cDc1elBzSVZpNVZlSGdzV2FfUHNnWTFYaS1CSHJyVWRIZWZWbHEtWmZpNUNleHNtSVNXWXE5M1p5VnJQTGQ1VmlUb1JoNnFQeXNwQlQ1M3AzdEdhdThVMHFjNzlyQi1ldzIyN1ZZeDJDTzFqUVZkczJVeUhSdlliRlBtb1A5X1NtUg?oc=5",
+     "titre": "Anthropic, créateur de Claude, perd 80 milliards de dollars en six mois malgré des revenus records",
+     "lien": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPNWNqNUpneWJYT2xMdG1UZXVWRUpzaEt2b1cwQVJHLS03TThwNFotSDg2ZEFFcXZVendwb2pIUDdrVW82OXo5Uk1LQ2ROQnRpSzJ3VGxqVTQ2V3BxaTZFTWhkRmpFSUY0ejZVNHBSRUxvbERlYUdsSXZfRmJJU2pheFB2bjdtZkd4dl9xRDZ3?oc=5",
      "resume": "",
-     "date": "2026-10-23T04:07:21+02:00",
-     "source": "Zonebourse Suisse",
-     "image": null,
-     "reprises": 1,
-     "score": 4.37
-    },
-    {
-     "titre": "Deux agents de code d'OpenAI ont affaibli la surveillance des dérives de ses modèles",
-     "lien": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPUjNtWkJCZ2ktdG5uY0RiTnV4M3hReDQydk1qX3dYaUppWkpyTzE2ejR5X0hVMTZpQ3RUNnd3cjFSMkRzT0ltUWJoOWxoaDZ0M2x4dUF6X1dFbEw0MHlKN0dobVUyejItM2pMREEyb25RUnZZU05EenZxVlFvZWxCaW9qNTA5ZVB0UU9MRnMtNzRDZl9iWkkxeS1hVHJ0d3VVVGZzeFVIdk1NZXdqbHB0b25jeXRQSHRa?oc=5",
-     "resume": "",
-     "date": "2026-10-22T13:46:00+02:00",
-     "source": "ActuIA",
+     "date": "2026-10-23T05:00:00+02:00",
+     "source": "Vanity Fair",
      "image": null,
      "reprises": 3,
-     "score": 4.1
+     "score": 4.84
+    },
+    {
+     "titre": "L'IA va-t-elle dépasser les chercheurs en mathématiques ?",
+     "lien": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOdDhMcVJ4RTJoSUZrVjRiT3k5Q2dVanhtUC0xZ0FLeXJwRjRIOTdPZkluSWhKamlPVUlEOWJNeTZkNTYtM1VpZ2tjR1M2WktvUnBSQUxfcHZWQl9FLWcwYjdianNLUldlMERvT3JFVUJNcVBMczVJa1BGRkU3OHVvaU5RNWhra3V6eTJuM0d2SXQ4SkdtS2Rwc0FOUmY0M25aY2RnSEV5bHEyQ0NrbkYxWEJsRk9tQTVhR1RSWjRHVVdNUQ?oc=5",
+     "resume": "",
+     "date": "2026-10-23T07:00:08+02:00",
+     "source": "Les Echos",
+     "image": null,
+     "reprises": 1,
+     "score": 3.54
     }
    ],
    "a_traduire": [
@@ -381,7 +381,7 @@
      "source": "theverge.com",
      "image": null,
      "reprises": 2,
-     "score": 3.73
+     "score": 3.68
     },
     {
      "titre": "Uber rival inDrive eyes 2027 robotaxi tests in Central Asia with Pony.ai and Nvidia",
@@ -391,7 +391,7 @@
      "source": "techcrunch.com",
      "image": null,
      "reprises": 1,
-     "score": 1.58
+     "score": 1.55
     },
     {
      "titre": "Left alone with nothing to do, AI agents started playing",
@@ -401,7 +401,7 @@
      "source": "techcrunch.com",
      "image": null,
      "reprises": 1,
-     "score": 1.4
+     "score": 1.37
     },
     {
      "titre": "Someone hacked the Switch 2 by using an old game and AI",
@@ -411,7 +411,7 @@
      "source": "theverge.com",
      "image": null,
      "reprises": 1,
-     "score": 1.27
+     "score": 1.25
     },
     {
      "titre": "1Password launches a way for AI agents to log in on your behalf without seeing your password",
@@ -421,7 +421,7 @@
      "source": "techcrunch.com",
      "image": null,
      "reprises": 1,
-     "score": 1.2
+     "score": 1.18
     }
    ]
   },
@@ -437,8 +437,8 @@
      "date": "2026-10-22T22:08:05+02:00",
      "source": "franceinfo",
      "image": null,
-     "reprises": 18,
-     "score": 38.72,
+     "reprises": 20,
+     "score": 41.24,
      "libertes": true
     },
     {
@@ -449,7 +449,7 @@
      "source": "La Gazette des Communes",
      "image": null,
      "reprises": 14,
-     "score": 31.85,
+     "score": 31.67,
      "libertes": true
     },
     {
@@ -460,7 +460,7 @@
      "source": "CLCV",
      "image": null,
      "reprises": 6,
-     "score": 10.34,
+     "score": 10.26,
      "libertes": false
     },
     {
@@ -471,7 +471,7 @@
      "source": "Informat.ro",
      "image": null,
      "reprises": 1,
-     "score": 7.13,
+     "score": 7.05,
      "libertes": true
     },
     {
@@ -482,7 +482,7 @@
      "source": "Ici Beyrouth",
      "image": null,
      "reprises": 2,
-     "score": 4.86,
+     "score": 4.87,
      "libertes": true
     },
     {
@@ -493,7 +493,7 @@
      "source": "Business AM",
      "image": null,
      "reprises": 3,
-     "score": 4.08,
+     "score": 4.03,
      "libertes": false
     }
    ],
