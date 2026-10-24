@@ -1,6 +1,6 @@
 {
  "date": "2026-10-24",
- "genere": "2026-10-24T07:10+02:00",
+ "genere": "2026-10-24T08:42+02:00",
  "journaux": [
   {
    "id": "figaro",
@@ -13,52 +13,52 @@
    },
    "articles": [
     {
-     "titre": "Acte II du 24 octobre : quel sera le parcours de la manifestation parisienne ?",
-     "lien": "https://www.lefigaro.fr/actualite-france/acte-ii-du-24-octobre-quel-sera-le-parcours-de-la-manifestation-parisienne-20261021",
-     "resume": "CARTE – Alors que la Préfecture de police de Paris avait approuvé ce jeudi le parcours des syndicats entre Bastille et Nation, les autorités veulent désormais que le cortège s’élance de la Porte de Vincennes et rejoigne la Porte d’Italie.",
-     "date": "2026-10-23T17:45:48+02:00",
+     "titre": "Manifestations du 24 octobre : après le fiasco, l’épreuve de vérité pour le gouvernement",
+     "lien": "https://www.lefigaro.fr/actualite-france/manifestations-du-24-octobre-apres-le-fiasco-l-epreuve-de-verite-pour-le-gouvernement-20261023",
+     "resume": "DÉCRYPTAGE - À l’heure de l’« acte II » de la fronde sociale, les centres-villes se barricadent, des manifestations sont interdites dans plusieurs villes et 70.000 membres des forces de l’ordre sont mobilisés. Emmanuel Macron sait qu’il n’a pas le droit à…",
+     "date": "2026-10-23T19:25:46+02:00",
      "source": "",
-     "image": "https://i.f1g.fr/media/cms/3000x2001_crop/2026/10/21/6fc418889e7737f4595a118b86fb508bf96761875186716e6078ff85a7bf217e.jpg"
+     "image": "https://i.f1g.fr/media/cms/3000x2001_crop/2026/10/23/64614c5271f25284eb6de89316d8acc8a14bc49c9e42cd1d2fd9849703bb7ac1.jpg"
     },
     {
-     "titre": "«Acte II» le 24 octobre : la préfecture interdit le parcours Bastille-Nation de la manifestation parisienne demain",
+     "titre": "Guillaume Tabard : « Avant l’acte II du 24 octobre, deux batailles de communication opposées pour le gouvernement »",
+     "lien": "https://www.lefigaro.fr/politique/guillaume-tabard-avant-l-acte-ii-du-24-octobre-deux-batailles-de-communication-opposees-pour-le-gouvernement-20261023",
+     "resume": "CONTRE-POINT - Meilleure anticipation, meilleure organisation : tout est fait pour éviter de revivre le chaos et le fiasco du 17 octobre. Mais aucune précaution ne vaut garantie.",
+     "date": "2026-10-23T19:15:51+02:00",
+     "source": "",
+     "image": "https://i.f1g.fr/media/cms/3000x1688_crop/2026/10/23/08a0f47565ae89c8a1d623271786594c6faece8e54cf1e594e0aa8aa01415887.jpg"
+    },
+    {
+     "titre": "Interdire les manifestations qui ne sont pas organisées par des syndicats : quand Emmanuel Macron se prend les pieds dans le tapis constitutionnel",
+     "lien": "https://www.lefigaro.fr/actualite-france/interdire-les-manifestations-qui-ne-sont-pas-organisees-par-des-syndicats-quand-emmanuel-macron-se-prend-les-pieds-dans-le-tapis-constitutionnel-20261023",
+     "resume": "DÉCRYPTAGE - La Liberté de manifester a comme limite les risques à l’ordre public, non la légitimité des manifestants.",
+     "date": "2026-10-23T17:29:05+02:00",
+     "source": "",
+     "image": "https://i.f1g.fr/media/cms/3000x2000_crop/2026/10/23/7f21543157f51d5761e9652689cb6bb1af733cca7d1e54286783f75f055e9832.jpg"
+    },
+    {
+     "titre": "Alexandre Devecchio : «2005-2026, comment l’émeute est devenue la norme en France»",
+     "lien": "https://www.lefigaro.fr/vox/societe/alexandre-devecchio-2005-2026-comment-l-emeute-est-devenue-la-norme-en-france-20261022",
+     "resume": "LA BATAILLE DES IDÉES - Vingt et un ans après les journées d’émeutes de 2005, la violence et la casse systématiques sont devenues un rituel auquel plus aucun Français ne semble pouvoir échapper.",
+     "date": "2026-10-22T18:00:00+02:00",
+     "source": "",
+     "image": "https://i.f1g.fr/media/cms/2847x1601_crop/2026/10/21/a6917759819ddbf46a4bf978759c3f7de75306f14acf52f5e78317d198838f26.jpg"
+    },
+    {
+     "titre": "EN DIRECT - Manifestations du 24 octobre : 70.000 forces de l’ordre mobilisées dans tout le pays, le congrès du RN sous haute surveillance",
+     "lien": "https://www.lefigaro.fr/actualite-france/en-direct-mobilisation-manifestations-24-octobre-etudiants-lyceens-acte-ii-gilets-jaunes-orleans-congres-du-rn-20261024",
+     "resume": "Une semaine après les violences du 17 octobre, une nouvelle journée de mobilisation se tient ce samedi sous haute surveillance dans plusieurs villes de France, avec une attention particulière à Orléans, où se tient le congrès du RN.",
+     "date": "2026-10-24T08:42:02+02:00",
+     "source": "",
+     "image": "https://i.f1g.fr/media/cms/3000x2000_crop/2026/10/24/f497c9c214024c9684531098a3edd7c26e075bc194d09e1a575e25592d874f0d.jpg"
+    },
+    {
+     "titre": "«Acte II» le 24 octobre : la préfecture interdit le parcours Bastille-Nation de la manifestation parisienne",
      "lien": "https://www.lefigaro.fr/actualite-france/en-direct-mobilisation-24-octobre-manifestations-paris-emmanuel-macron-lyceens-sebastien-lecornu-20261023",
      "resume": "Après plus d’un mois de crise, Emmanuel Macron est monté en première ligne vendredi dans la contestation des lycéens en recevant pour la première fois leurs représentants, à la veille d’une nouvelle journée de mobilisations strictement encadrées.",
-     "date": "2026-10-24T01:27:25+02:00",
+     "date": "2026-10-24T08:27:38+02:00",
      "source": "",
      "image": "https://i.f1g.fr/media/cms/3000x2000_crop/2026/10/23/025796fee99da1581421482395b18ba7689c932279d42affdc58229acaad390d.jpg"
-    },
-    {
-     "titre": "Château de Versailles, Opéra de Paris, musée du Louvre… plusieurs lieux culturels fermés samedi en marge des manifestations",
-     "lien": "https://www.lefigaro.fr/culture/chateau-de-versailles-opera-de-paris-musee-du-louvre-plusieurs-lieux-culturels-fermes-samedi-en-marge-des-manifestations-20261023",
-     "resume": "Face aux risques de débordements lors des manifestations prévues samedi, plusieurs institutions culturelles ont annoncé des fermetures, totales ou partielles.",
-     "date": "2026-10-23T22:13:40+02:00",
-     "source": "",
-     "image": "https://i.f1g.fr/media/cms/orig/2026/10/23/2c715512d3b9a6cec7150442b29fea467567da98743e2192019205f5119ac69e.JPG"
-    },
-    {
-     "titre": "Retrait du mobilier urbain, des poubelles, des vélos en libre-service… Les villes vident leurs rues avant l’Acte II des «gilets jaunes»",
-     "lien": "https://www.lefigaro.fr/social/retrait-du-mobilier-urbain-des-poubelles-des-velos-en-libre-service-les-villes-vident-leurs-rues-avant-l-acte-ii-des-gilets-jaunes-20261023",
-     "resume": "À Paris, «des tournées spécifiques» sont d’ores et déjà organisées pour retirer les objets lourds ou inflammables susceptibles d’être utilisés lors de dégradations.",
-     "date": "2026-10-23T19:51:23+02:00",
-     "source": "",
-     "image": "https://i.f1g.fr/media/cms/3000x2001_crop/2026/10/23/dd70bd4781549ddff1f27d8619fa0326d7f77cb87ed585e8bacc5eabbfa52e83.jpg"
-    },
-    {
-     "titre": "«Ce sont les commerçants qui seront jugés coupables, pas les casseurs» : l’alerte d’une fédération professionnelle sur les risques de l’«autodéfense»",
-     "lien": "https://www.lefigaro.fr/social/ce-sont-les-commercants-qui-seront-juges-coupables-pas-les-casseurs-l-alerte-d-une-federation-professionnelle-sur-les-risques-de-l-autodefense-20261023",
-     "resume": "ENTRETIEN - À la veille de «l’acte II» de la mobilisation, samedi 24 octobre, les commerçants se préparent au pire. Face à l’impuissance de l’État, certains sont tentés de se faire justice eux-mêmes, prévient Thierry Véron, président de la Fédération des…",
-     "date": "2026-10-23T20:30:33+02:00",
-     "source": "",
-     "image": "https://i.f1g.fr/media/cms/1200x800_crop/2026/10/23/837f5af0dbca2440800aa286c84321eed812412a29aaa78119069686f7ee726a.jpg"
-    },
-    {
-     "titre": "Mortiers, pillages et défense du Negresco : après le chaos du 17 octobre, Nice à l’épreuve de l’« Acte II »",
-     "lien": "https://www.lefigaro.fr/nice/mortiers-pillages-et-defense-du-negresco-apres-le-chaos-du-17-octobre-nice-a-l-epreuve-de-l-acte-ii-20261023",
-     "resume": "ENQUÊTE - Les émeutes ont choqué dans une ville très touristique peu habituée aux débordements. Samedi 24 octobre, les autorités promettent une réponse à la hauteur de l’enjeu.",
-     "date": "2026-10-23T15:00:55+02:00",
-     "source": "",
-     "image": "https://i.f1g.fr/media/cms/2966x1669_crop/2026/10/23/77105856cb29cd3222bd3ce7fae9d7cace2c565848dfd26c3257c833150ee162.jpg"
     }
    ],
    "flux_utilise": "https://www.lefigaro.fr/rss/figaro_actualites.xml"
@@ -74,12 +74,12 @@
    },
    "articles": [
     {
-     "titre": "Après l’attaque meurtrière de Trappes, qualifiée de « raciste » par Emmanuel Macron, les mystères des motivations de Kevin T., le tireur présumé",
-     "lien": "https://www.lemonde.fr/societe/article/2026/10/24/apres-l-attaque-meurtriere-de-trappes-qualifiee-de-raciste-par-emmanuel-macron-les-mysteres-des-motivations-de-kevin-t-le-tireur-presume_6799181_3224.html",
-     "resume": "Un homme de 26 ans a été tué et cinq personnes, dont une enfant de 12 ans, ont été blessées au cours d’une attaque à l’arme automatique d’une rare violence dans les Yvelines. Alors que la justice antiterroriste s’est saisie de l’affaire, sous une…",
-     "date": "2026-10-24T00:24:49+02:00",
+     "titre": "A Trappes, après les tirs meurtriers, la colère et le fatalisme face au racisme ambiant : « On savait qu’un jour ou l’autre, une telle attaque allait arriver »",
+     "lien": "https://www.lemonde.fr/societe/article/2026/10/24/a-trappes-apres-les-tirs-meurtriers-la-colere-et-le-fatalisme-face-au-racisme-ambiant-on-savait-qu-un-jour-ou-l-autre-une-telle-attaque-allait-arriver_6799654_3224.html",
+     "resume": "Comme le maire de la ville, Ali Rabeh, les habitants rencontrés par « Le Monde » voient dans l’attaque qui a tué et blessé plusieurs passants dans les rues des Yvelines, vendredi matin, la conséquence de discours qui font des musulmans et des populations…",
+     "date": "2026-10-24T06:50:11+02:00",
      "source": "",
-     "image": "https://img.lemde.fr/2026/10/23/136/0/1616/808/644/322/60/0/b03ea59_upload-1-t5yjb7qjgxj5-6959c1f8-4cf3-4ff5-889c-226e8f874ada.jpeg"
+     "image": "https://img.lemde.fr/2026/10/24/1020/0/6240/3120/644/322/60/0/5d333e4_upload-1-teph6q0xlevn-18-trappes-attentat-raciste-hleuqeux-dsc5688.jpg"
     },
     {
      "titre": "EN DIRECT, manifestations du 24 octobre : des centaines de défilés attendus dans plusieurs villes de France, dans un contexte de très forte tension",
@@ -93,7 +93,7 @@
      "titre": "Congrès du RN : Orléans se prépare à être l’épicentre de mobilisations d’ampleur",
      "lien": "https://www.lemonde.fr/politique/article/2026/10/23/congres-du-rn-orleans-se-prepare-a-etre-l-epicentre-de-mobilisations-d-ampleur_6799146_823448.html",
      "resume": "De 20 000 à 30 000 opposants sont attendus en marge du congrès du Rassemblement national, samedi 24 octobre. De nombreux commerces seront fermés et les transports à l’arrêt dans une ville mise sous cloche.",
-     "date": "2026-10-23T21:47:21+02:00",
+     "date": "2026-10-23T21:47:15+02:00",
      "source": "",
      "image": "https://img.lemde.fr/2026/10/23/0/0/3000/1500/644/322/60/0/8b8bb92_upload-1-ipilupl24ok5-orleans-asurp-100774.jpg"
     },
@@ -101,7 +101,7 @@
      "titre": "L’agence Moody’s ne dégrade pas la note de la France malgré l’incertitude budgétaire et politique",
      "lien": "https://www.lemonde.fr/economie/article/2026/10/24/l-agence-moody-s-ne-degrade-pas-la-note-de-la-france-malgre-l-incertitude-budgetaire-et-politique_6799214_3234.html",
      "resume": "Contrairement aux prévisions de beaucoup d’économistes, l’entreprise américaine de notation a maintenu, vendredi, la note de la dette souveraine à Aa3, se démarquant de l’appréciation portée par les agences S&P et Fitch sur la solvabilité française.",
-     "date": "2026-10-24T00:52:22+02:00",
+     "date": "2026-10-24T00:52:18+02:00",
      "source": "",
      "image": "https://img.lemde.fr/2026/10/07/666/0/8000/4000/644/322/60/0/55ae34b_upload-1-zd5zslpi3kq2-jmug261006039.jpg"
     },
@@ -114,12 +114,12 @@
      "image": "https://img.lemde.fr/2026/10/21/546/0/3000/1500/644/322/60/0/bbb4158_upload-1-pzh93pfqpmqa-020-2271938579.jpg"
     },
     {
-     "titre": "La diplomatie de Giorgia Meloni, une politique au cœur de l’internationale réactionnaire",
-     "lien": "https://www.lemonde.fr/international/article/2026/10/23/la-diplomatie-de-giorgia-meloni-une-politique-au-c-ur-de-l-internationale-reactionnaire_6799132_3210.html",
-     "resume": "« Meloni, quatre années au pouvoir » (5/6). La présidente du conseil italien, d’extrême droite, cultive ses affinités idéologiques avec les dirigeants les plus conservateurs, comme Donald Trump, Javier Milei ou Viktor Orban. Et œuvre en Europe, grâce à ses…",
-     "date": "2026-10-23T19:30:08+02:00",
+     "titre": "Donald Trump a fait déposer un recours préventif en cas de défaite du candidat républicain lors du scrutin sénatorial en Alaska",
+     "lien": "https://www.lemonde.fr/international/article/2026/10/24/donald-trump-a-fait-deposer-un-recours-preventif-en-cas-de-defaite-du-candidat-republicain-lors-du-scrutin-senatorial-en-alaska_6799346_3210.html",
+     "resume": "Le président américain a dit avoir demandé à son administration de bloquer la validation des résultats en cas de succès démocrate, arguant que la présence d’un candidat homonyme au sénateur républicain sortant pouvait induire en erreur les électeurs.",
+     "date": "2026-10-24T03:26:30+02:00",
      "source": "",
-     "image": "https://img.lemde.fr/2026/10/21/0/0/3000/1500/644/322/60/0/331adb5_upload-1-zqr55i2qlwlo-063-2210747392.jpg"
+     "image": "https://img.lemde.fr/2026/10/14/304/0/5500/2750/644/322/60/0/bdee892_ftp-1-cghpxtaeev8i-2026-10-14t020742z-1832093200-rc2q2oa52piu-rtrmadp-3-usa-trump.JPG"
     }
    ],
    "flux_utilise": "https://www.lemonde.fr/rss/une.xml"
@@ -129,11 +129,35 @@
    "nom": "La Croix",
    "couleur": "#c8102e",
    "une": {
-    "fichier": "unes/croix.webp",
+    "fichier": "unes/croix.jpg",
     "date": "2026-10-24",
-    "source": "https://www.frontpages.com/t/2026/10/24/la-croix-0645240nm@2x.webp"
+    "source": "https://img.kiosko.net/2026/10/24/fr/lacroix.750.jpg"
    },
    "articles": [
+    {
+     "titre": "Législatives en Serbie : les étudiants veulent rallier les seniors à leur cause pour battre Aleksandar Vucic",
+     "lien": "https://www.la-croix.com/international/legislatives-en-serbie-les-etudiants-veulent-rallier-les-seniors-a-leur-cause-pour-battre-aleksandar-vucic-20261023",
+     "resume": "Avant les législatives anticipées du dimanche 25 octobre 2026, la liste étudiante, opposée au camp d’Aleksandar Vucic, mise sur le porte-à-porte pour atteindre un électorat âgé, souvent informé par les seules télévisions pro gouvernementales.",
+     "date": "2026-10-24T08:39:09+02:00",
+     "source": "",
+     "image": "https://i.la-croix.com/x/2026/10/23/2570290-le-president-aleksandar-vucic-le-22-octobre-a-belg.jpg"
+    },
+    {
+     "titre": "Présidentielle 2027 : Marine Le Pen et Jordan Bardella continuent de mettre en scène leur tandem",
+     "lien": "https://www.la-croix.com/politique/presidentielle-2027-marine-le-pen-et-jordan-bardella-continuent-de-mettre-en-scene-leur-tandem-20261023",
+     "resume": "Le 19e congrès du Rassemblement national (RN), lors duquel Jordan Bardella devrait être réélu président du parti, se tient samedi 24 octobre 2026 dans un contexte très tendu. L’occasion pour le parti de faire oublier les révélations de Mediapart.",
+     "date": "2026-10-24T08:15:18+02:00",
+     "source": "",
+     "image": "https://i.la-croix.com/x/2026/10/23/2570605-marine-le-pen-presidente-du-groupe-rn-a-l-assemble.jpg"
+    },
+    {
+     "titre": "Manifestations : une jeunesse tiraillée dans son rapport à la violence",
+     "lien": "https://www.la-croix.com/societe/manifestations-une-jeunesse-tiraillee-dans-son-rapport-a-la-violence-20261023",
+     "resume": "Alors qu’une nouvelle journée de manifestation samedi 24 octobre 2026 fait craindre des débordements, plusieurs étudiants et lycéens racontent à La Croix le rapport ambigu qu’ils entretiennent avec la violence physique.",
+     "date": "2026-10-24T08:01:20+02:00",
+     "source": "",
+     "image": "https://i.la-croix.com/x/2026/10/23/2570411-samedi-17-octobre-2026-lors-de-la-manifestation-co.jpg"
+    },
     {
      "titre": "Le figuier stérile : Dieu nous donne le temps de porter du fruit. Commentaire de l’Évangile du samedi 24 octobre",
      "lien": "https://www.la-croix.com/religion/le-figuier-sterile-dieu-nous-donne-le-temps-de-porter-du-fruit-commentaire-de-l-evangile-du-samedi-24-octobre-20261019",
@@ -157,30 +181,6 @@
      "date": "2026-10-23T23:29:34+02:00",
      "source": "",
      "image": "https://i.la-croix.com/x/2026/10/23/2567789-une-eglise-qui-ne-met-pas-de-limites-a-l-amour-qui.jpeg"
-    },
-    {
-     "titre": "Tirs à Trappes : un mort et cinq blessés, Macron sur place... Le point sur la situation",
-     "lien": "https://www.la-croix.com/societe/trappes-et-la-verriere-un-homme-ouvre-le-feu-et-fait-au-moins-un-mort-et-quatre-blesses-20261023",
-     "resume": "Un homme a ouvert le feu depuis son véhicule vendredi 23 octobre à Trappes et La Verrière, faisant un mort et blessant quatre personnes, dont une fillette de 12 ans. L’auteur des tirs a été interpellé à Coignières. Le parquet national antiterroriste est saisi.",
-     "date": "2026-10-23T21:21:45+02:00",
-     "source": "",
-     "image": "https://i.la-croix.com/x/2026/10/23/2570921-le-president-francais-emmanuel-macron-marche-aux-c.jpg"
-    },
-    {
-     "titre": "Manifestation du 24 octobre : interdictions, dispositif de sécurité… Toutes les informations du vendredi 23 octobre",
-     "lien": "https://www.la-croix.com/societe/direct-manifestation-17-octobre-jour-7-violences-couvre-feu-dispositif-aujourdhui-20261023",
-     "resume": "70 000 policiers et gendarmes seront déployés dans toute la France ce samedi 24 octobre. Les représentants des lycéens sont arrivés à l’Élysée cet après-midi à 15 heures. Retrouvez l’actualité du mouvement de protestation ce vendredi 23 octobre 2026.",
-     "date": "2026-10-23T21:21:28+02:00",
-     "source": "",
-     "image": "https://i.la-croix.com/x/2026/10/23/2569942-certains-commerces-posent-des-panneaux-de-bois-pou.jpg"
-    },
-    {
-     "titre": "Mouvement lycéen : après leur rencontre avec Macron, les représentants appellent à continuer à se mobiliser",
-     "lien": "https://www.la-croix.com/politique/mouvement-lyceen-apres-leur-rencontre-avec-macron-les-representants-appellent-a-continuer-a-se-mobiliser-20261023",
-     "resume": "Reçus vendredi 23 octobre à l’Élysée par Emmanuel Macron, les représentants des lycéens appellent à poursuivre la mobilisation. Une rencontre avec le premier ministre Sébastien Lecornu est prévue lundi, avec des annonces concrètes attendues sur Parcoursup.",
-     "date": "2026-10-23T21:18:54+02:00",
-     "source": "",
-     "image": "https://i.la-croix.com/x/2026/10/23/2570940-l-ensemble-des-representants-des-lyceens-globaleme.jpg"
     }
    ],
    "flux_utilise": "https://www.la-croix.com/feeds/rss/site.xml"
@@ -190,58 +190,58 @@
    "nom": "L'Équipe",
    "couleur": "#e2001a",
    "une": {
-    "fichier": "unes/equipe.webp",
+    "fichier": "unes/equipe.jpg",
     "date": "2026-10-24",
-    "source": "https://www.frontpages.com/t/2026/10/24/l-equipe-004548n8o@2x.webp"
+    "source": "https://img.kiosko.net/2026/10/24/fr/l_equip.750.jpg"
    },
    "articles": [
     {
-     "titre": "Aux barres asymétriques, Keylia Nemour et Elena Colas ont plus d'un tour dans leur sac et de belles prouesses en réserve",
-     "lien": "https://www.lequipe.fr/Gymnastique/Actualites/Aux-barres-asymetriques-keylia-nemour-et-elena-colas-ont-plus-d-un-tour-dans-leur-sac-et-de-belles-prouesses-en-reserve/1738194#at_medium=RSS_feeds",
-     "resume": "Ce n'est pas un hasard si Kaylia Nemour et Elena Colas excellent aux barres asymétriques, dont elles disputeront la finale ce samedi.",
-     "date": "2026-10-24T06:40:00+02:00",
+     "titre": "Ronaldinho fera bel et bien son retour sur les terrains avec un club de Serie C italienne",
+     "lien": "https://www.lequipe.fr/Football/Actualites/Ronaldinho-fera-bel-et-bien-son-retour-sur-les-terrains-avec-un-club-de-serie-c-italienne/1738232#at_medium=RSS_feeds",
+     "resume": "Retraité depuis 2018 Ronaldinho, Ballon d'Or 2005, devrait officiellement retrouver les terrains le 15 novembre avec Ravenne, club italien de Troisième Division qu'il a rejoint cet été, à l'occasion du derby face à Forli.",
+     "date": "2026-10-24T08:14:54+02:00",
      "source": "",
-     "image": "https://medias.lequipe.fr/img-photo-jpg/elena-colas-aux-barres-asymetriques-sur-ces-championnats-du-monde-a-rotterdam-m-rosca-l-equipe/1500000002631449/153:177,1878:1327-828-552-75/4daf3.jpg"
+     "image": "https://medias.lequipe.fr/img-photo-jpg/ronaldinho-a-rejoint-ravenne-a-l-ete-2026-a-reau-l-equipe/1500000002631654/0:0,2000:1333-828-552-75/202d9.jpg"
     },
     {
-     "titre": "Le résumé vidéo de Heat - Pistons avec les 36 points d'Antetokounmpo",
-     "lien": "https://www.lequipe.fr/Basket/Video/Nba-nba-le-resume-video-de-miami-heat-detroit-pistons-avec-les-36-points-de-giannis-antetokounmpo/20243953#at_medium=RSS_feeds",
-     "resume": "",
-     "date": "2026-10-24T06:36:00+02:00",
+     "titre": "« Il va sûrement marquer un avant et un après » : l'Europe complètement sous le charme de Désiré Doué",
+     "lien": "https://www.lequipe.fr/Football/Article/-il-va-surement-marquer-un-avant-et-un-apres-l-europe-completement-sous-le-charme-de-desire-doue/1738170#at_medium=RSS_feeds",
+     "resume": "Au-delà des frontières françaises, les performances de l'attaquant du PSG Désiré Doué ont marqué les esprits ces dernières semaines.",
+     "date": "2026-10-24T08:13:00+02:00",
+     "source": "",
+     "image": "https://medias.lequipe.fr/img-photo-jpg/desire-doue-mardi-lors-de-la-victoire-du-psg-face-au-fc-barcelone-4-2-en-ligue-des-champions-p-lahalle-l-equipe/1500000002631409/212:28,1989:1212-828-552-75/f7b17.jpg"
+    },
+    {
+     "titre": "Véritable rebond ou simple illusion : Tottenham a enfin gagné, mais tous les doutes ne sont pas encore effacés",
+     "lien": "https://www.lequipe.fr/Football/Article/Veritable-rebond-ou-simple-illusion-tottenham-a-enfin-gagne-mais-tous-les-doutes-ne-sont-pas-encore-effaces/1738054#at_medium=RSS_feeds",
+     "resume": "La victoire des Spurs, lundi contre Coventry City (3-1), neuf jours après le nul obtenu contre Manchester United (1-1), ne suffit pas à balayer les doutes qui les entourent avant de se déplacer à Chelsea, ce samedi (18h30).",
+     "date": "2026-10-24T08:01:00+02:00",
      "source": "",
      "image": "https://medias.lequipe.fr/img-photo-png/-/1500000000833469/0-828-552-75/0cb67.png"
     },
     {
-     "titre": "« C'est un peu le joueur du futur » : Désiré Doué, c'est aussi un gros potentiel marketing",
-     "lien": "https://www.lequipe.fr/Football/Article/-c-est-un-peu-le-joueur-du-futur-desire-doue-un-potentiel-qui-ne-se-limite-pas-au-terrain/1738113#at_medium=RSS_feeds",
-     "resume": "Jeune, talentueux, spectaculaire, alliant physique et technique, Désiré Doué jouit d'un potentiel marketing assez rare.",
-     "date": "2026-10-24T06:33:00+02:00",
+     "titre": "Giannis Antetokounmpo, Domantas Sabonis, Trae Young... les stats marquantes en NBA de la nuit du 23 au 24 octobre 2026",
+     "lien": "https://www.lequipe.fr/Basket/Actualites/Giannis-antetokounmpo-domantas-sabonis-trae-young-les-stats-marquantes-en-nba-de-la-nuit-du-23-au-24-octobre-2026/1738230#at_medium=RSS_feeds",
+     "resume": "Retrouvez les statistiques individuelles de la nuit NBA du 23 au 24 octobre 2026 avec les meilleurs marqueurs, rebondeurs, passeurs ainsi que les meilleures performances des Français.",
+     "date": "2026-10-24T08:00:07+02:00",
      "source": "",
-     "image": "https://medias.lequipe.fr/img-photo-jpg/la-celebration-de-desire-doue-apres-son-but-face-a-manchester-city-le-14-octobre-4-2-p-lahalle-l-equipe/1500000002631285/0:0,2000:1333-828-552-75/fd501.jpg"
+     "image": "https://medias.lequipe.fr/img-photo-jpg/nov-13-2024-milwaukee-wisconsin-usa-milwaukee-bucks-forward-giannis-antetokounmpo-34-celebrates-after-scoring-during-overtime-against-the-detroit-pistons-at-fiserv-forum-mandatory-credit-jeff-hanisch-imagn-images/1500000002086257/0-828-552-75/db606.jpg"
     },
     {
-     "titre": "« Chacun doit cultiver et renforcer sa propre histoire » : le directeur sportif lorientais Laurent Koscielny raconte la vie d'un club en multipropriété",
-     "lien": "https://www.lequipe.fr/Football/Article/-chacun-doit-cultiver-et-renforcer-sa-propre-histoire-le-directeur-sportif-lorientais-laurent-koscielny-raconte-la-vie-d-un-club-en-multipropriete/1737774#at_medium=RSS_feeds",
-     "resume": "Laurent Koscielny, le directeur sportif du FC Lorient, affirme l'identité de son club passé sous contrôle américain, dans le cadre d'une multipropriété.",
-     "date": "2026-10-24T06:27:00+02:00",
-     "source": "",
-     "image": "https://medias.lequipe.fr/img-photo-jpg/le-directeur-sportif-du-fc-lorient-laurent-koscielny-au-siege-du-club-a-ploemeur-debut-octobre-bernard-le-bars-l-equipe/1500000002630270/0:0,2000:1333-828-552-75/e0ee8.jpg"
-    },
-    {
-     "titre": "Le résumé vidéo de Celtics - Knicks avec les 36 points de Jayson Tatum",
-     "lien": "https://www.lequipe.fr/Basket/Video/Nba-nba-le-resume-video-de-boston-celtics-new-york-knicks-avec-les-36-points-de-jayson-tatum/20243952#at_medium=RSS_feeds",
+     "titre": "Une journée dans la peau de l'équipe de France... des commerçants",
+     "lien": "https://www.lequipe.fr/Tous-sports/Actualites/Une-journee-dans-la-peau-de-l-equipe-de-france-des-commercants/1724439#at_medium=RSS_feeds",
      "resume": "",
-     "date": "2026-10-24T06:19:00+02:00",
+     "date": "2026-10-24T08:00:00+02:00",
      "source": "",
      "image": "https://medias.lequipe.fr/img-photo-png/-/1500000000833469/0-828-552-75/0cb67.png"
     },
     {
-     "titre": "Après le départ de Jocelyn Blanchard, visé par la justice, Troyes désire enfin de la stabilité à la direction sportive",
-     "lien": "https://www.lequipe.fr/Football/Article/Apres-le-depart-de-jocelyn-blanchard-vise-par-la-justice-troyes-desire-enfin-de-la-stabilite-a-la-direction-sportive/1738099#at_medium=RSS_feeds",
-     "resume": "En six mois, trois personnes se sont relayées à la tête de la direction sportive de Troyes. Et depuis plus d'une semaine et avant d'affronter Toulouse dimanche (17h15), un successeur est recherché à Jocelyn Blanchard, arrivé en juillet et écarté pour une…",
-     "date": "2026-10-24T06:19:00+02:00",
+     "titre": "Les drôles de soirées du PSG pour le Ballon d'Or",
+     "lien": "https://www.lequipe.fr/Football/Article/Report-d-un-choc-le-soir-de-la-ceremonie-pour-la-deuxieme-annee-d-affilee-et-de-nombreux-blesses-paris-et-le-ballon-d-or-maudit/1738197#at_medium=RSS_feeds",
+     "resume": "",
+     "date": "2026-10-24T07:59:00+02:00",
      "source": "",
-     "image": "https://medias.lequipe.fr/img-photo-jpg/john-macbeath-a-gauche-membre-du-board-de-city-group-et-edwin-pindi-president-de-l-estac-en-mai-a-bibard-icon-sport/1500000002631268/0:0,2000:1333-828-552-75/9cf09.jpg"
+     "image": "https://medias.lequipe.fr/img-photo-png/-/1500000000833469/0-828-552-75/0cb67.png"
     }
    ],
    "flux_utilise": "https://dwh.lequipe.fr/api/edito/rss?path=/"
@@ -254,16 +254,6 @@
    "sous_titre": "Les informations les plus importantes, partout dans le monde",
    "items": [
     {
-     "titre": "Cisjordanie : en réponse à une attaque contre des militaires israéliens, Nétanyahou promet des destructions d’ampleur et encore plus de colonies",
-     "lien": "https://www.lemonde.fr/international/article/2026/10/23/cisjordanie-en-reponse-a-la-mort-de-deux-militaires-israeliens-netanyahou-promet-des-destructions-d-ampleur-et-encore-plus-de-colonies_6799138_3210.html",
-     "resume": "Après la mort de deux soldats près d’Hébron, le premier ministre israélien a promis « une opération très vaste de l’armée », mais l’état-major semble plus modéré, à quatre jours d’élections législatives décisives.",
-     "date": "2026-10-23T20:01:39+02:00",
-     "source": "lemonde.fr",
-     "image": "https://img.lemde.fr/2026/10/23/251/0/3011/1505/644/322/60/0/ff2ff0e_ftp-1-rrehap36ghnu-afp-d48r7v7.jpg",
-     "reprises": 5,
-     "score": 12.66
-    },
-    {
      "titre": "Emmanuel Macron appelle à l'unité après l'attaque \"terroriste raciste\" de Trappes",
      "lien": "https://www.france24.com/fr/france/20261023-les-r%C3%A9actions-politiques-de-tout-bord-se-multiplient-apr%C3%A8s-la-fusillade-meurtri%C3%A8re-%C3%A0-trappele",
      "resume": "Le président Emmanuel Macron a dénoncé vendredi soir à Trappes un \"attentat terroriste raciste\" et a appelé à l'unité, après la fusillade survenue dans la matinée, qui a fait un mort et plusieurs blessés. Une enquête a été ouverte par le Parquet national…",
@@ -271,17 +261,27 @@
      "source": "© Hannah McKay,  AFP",
      "image": "https://s.france24.com/media/display/10d79bd4-cf08-11f1-a815-bba4eee3dc72/w:1024/p:16x9/c72450042ec681bdd95a3809c927a4b194b1bef3.jpg",
      "reprises": 5,
-     "score": 11.01
+     "score": 10.68
     },
     {
-     "titre": "EN DIRECT, guerre en Ukraine : des négociations directes avec la Russie sous médiation américaine prévues pour novembre, confirme Volodymyr Zelensky",
-     "lien": "https://www.lemonde.fr/international/live/2026/10/24/en-direct-guerre-en-ukraine-des-negociations-directes-avec-la-russie-sous-mediation-americaine-prevues-pour-novembre-confirme-volodymyr-zelensky_6796922_3210.html",
-     "resume": "La Maison Blanche a par ailleurs annoncé que Moscou et Kiev avaient « accepté de suspendre temporairement toutes les opérations militaires à Olechky », une ville sous occupation russe dans l’oblast de Kherson, à partir de mardi, « afin de permettre…",
-     "date": "2026-10-24T07:04:45+02:00",
+     "titre": "Cisjordanie : en réponse à une attaque contre des militaires israéliens, Nétanyahou promet des destructions d’ampleur et encore plus de colonies",
+     "lien": "https://www.lemonde.fr/international/article/2026/10/23/cisjordanie-en-reponse-a-la-mort-de-deux-militaires-israeliens-netanyahou-promet-des-destructions-d-ampleur-et-encore-plus-de-colonies_6799138_3210.html",
+     "resume": "Après la mort de deux soldats près d’Hébron, le premier ministre israélien a promis « une opération très vaste de l’armée », mais l’état-major semble plus modéré, à quatre jours d’élections législatives décisives.",
+     "date": "2026-10-23T20:01:39+02:00",
      "source": "lemonde.fr",
-     "image": "https://img.lemde.fr/2026/10/22/0/0/3796/1898/644/322/60/0/17d8244_ftp-1-4a0sdnmn29j7-afp-d46g49e.jpg",
+     "image": "https://img.lemde.fr/2026/10/23/251/0/3011/1505/644/322/60/0/ff2ff0e_ftp-1-rrehap36ghnu-afp-d48r7v7.jpg",
+     "reprises": 4,
+     "score": 10.59
+    },
+    {
+     "titre": "La Russie et l'Ukraine acceptent un cessez-le-feu dans la ville ukrainienne d'Olechky",
+     "lien": "https://www.rfi.fr/fr/europe/20261023-la-russie-et-l-ukraine-acceptent-un-cessez-le-feu-dans-la-ville-ukrainienne-d-olechky",
+     "resume": "La Première dame des États-Unis, Melania Trump, a dit vendredi 23 octobre 2026 avoir obtenu un cessez-le-feu dans la ville ukrainienne d'Olechky, occupée par les forces russes et qui manque de vivres et de médicaments.",
+     "date": "2026-10-23T19:05:18+02:00",
+     "source": "© 34th Separate Marine Brigade \"Borysfen\"/Handout via REUTERS",
+     "image": "https://s.rfi.fr/media/display/d10917de-cf03-11f1-98be-5b4a75578ebb/w:1024/p:16x9/2026-10-06T154730Z-1343676881-RC2RXNAI8IHD-RTRMADP-3-UKRAINE-CRISIS-OLESHKY.jpg",
      "reprises": 5,
-     "score": 8.75
+     "score": 8.31
     },
     {
      "titre": "Présidentielle au Brésil: Lula et le fils Bolsonaro s'affrontent lors d’un dernier débat au ton plus policé",
@@ -291,27 +291,27 @@
      "source": "© Bruna Prado / AP",
      "image": "https://s.rfi.fr/media/display/e11dfef0-cf62-11f1-a523-bdb9616e85cf/w:1024/p:16x9/AP26297024010203.jpg",
      "reprises": 4,
-     "score": 8.14
+     "score": 8.12
     },
     {
-     "titre": "La Russie et l'Ukraine acceptent un cessez-le-feu dans la ville ukrainienne d'Olechky",
-     "lien": "https://www.rfi.fr/fr/europe/20261023-la-russie-et-l-ukraine-acceptent-un-cessez-le-feu-dans-la-ville-ukrainienne-d-olechky",
-     "resume": "La Première dame des États-Unis, Melania Trump, a dit vendredi 23 octobre 2026 avoir obtenu un cessez-le-feu dans la ville ukrainienne d'Olechky, occupée par les forces russes et qui manque de vivres et de médicaments.",
-     "date": "2026-10-23T19:05:18+02:00",
-     "source": "© 34th Separate Marine Brigade \"Borysfen\"/Handout via REUTERS",
-     "image": "https://s.rfi.fr/media/display/d10917de-cf03-11f1-98be-5b4a75578ebb/w:1024/p:16x9/2026-10-06T154730Z-1343676881-RC2RXNAI8IHD-RTRMADP-3-UKRAINE-CRISIS-OLESHKY.jpg",
-     "reprises": 4,
-     "score": 7.11
+     "titre": "Le nid d’aigle d’Hitler en Bavière incendié, un suspect arrêté",
+     "lien": "https://www.lemonde.fr/international/article/2026/10/24/le-nid-d-aigle-d-hitler-en-baviere-incendie-un-suspect-arrete_6799514_3210.html",
+     "resume": "Les pompiers, alertés par l’alarme incendie peu avant 22 heures, n’ont trouvé personne à l’intérieur du bâtiment, complètement en feu à leur arrivée. La piste d’un acte criminel est examinée.",
+     "date": "2026-10-24T05:31:20+02:00",
+     "source": "lemonde.fr",
+     "image": "https://img.lemde.fr/2026/10/24/0/0/2000/1000/644/322/60/0/7adcdbe_ftp-1-g3gpy9a7hrun-2026-10-24t023709z-974251543-rc2e9oajg49z-rtrmadp-3-germany-fire.JPG",
+     "reprises": 3,
+     "score": 8.03
     },
     {
-     "titre": "Tirs dans les Yvelines : un mort et des blessés, le tireur soupçonné de racisme",
-     "lien": "https://www.france24.com/fr/vid%C3%A9o/20261023-tirs-dans-les-yvelines-un-mort-et-des-bless%C3%A9s-le-tireur-soup%C3%A7onn%C3%A9-de-racisme",
-     "resume": "Un homme soupçonné d'avoir voulu s'en prendre à des personnes issues de l'immigration a tué une personne et fait cinq blessées vendredi dans les Yvelines après voir tiré en rafale depuis une voiture, un \"attentat à connotation raciste, probablement…",
-     "date": "2026-10-23T18:04:07+02:00",
-     "source": "france24.com",
-     "image": "https://s.france24.com/media/display/231ea7d6-cefb-11f1-ad7b-bdb9616e85cf/w:1024/p:16x9/FR-20261023-170108-170943-CS.jpg",
+     "titre": "Elections législatives en Israël : « Les idées illibérales, jadis cantonnées aux marges politiques et religieuses, sont devenues majoritaires »",
+     "lien": "https://www.lemonde.fr/idees/article/2026/10/24/elections-legislatives-en-israel-les-idees-illiberales-jadis-cantonnees-aux-marges-politiques-et-religieuses-sont-devenues-majoritaires_6799659_3232.html",
+     "resume": "Les Européens, qui espèrent qu’un nouveau gouvernement pourra restaurer l’« ancien Israël » après les élections prévues le 27 octobre, se trompent, développe la chercheuse Beth Oppenheim, dans une tribune au « Monde ».",
+     "date": "2026-10-24T07:30:03+02:00",
+     "source": "lemonde.fr",
+     "image": "https://img.lemde.fr/2026/02/25/125/0/1500/750/644/322/60/0/4c1a8b9_upload-1-fuqnmbhuvzxd-frame-1127.jpg",
      "reprises": 2,
-     "score": 6.04
+     "score": 6.07
     }
    ],
    "a_traduire": []
@@ -328,8 +328,8 @@
      "date": "2026-10-23T22:05:28+02:00",
      "source": "Zonebourse Suisse",
      "image": null,
-     "reprises": 7,
-     "score": 27.38
+     "reprises": 6,
+     "score": 25.26
     },
     {
      "titre": "OpenAI valorisé \"seulement\" 1.250 milliards de dollars ?",
@@ -339,7 +339,17 @@
      "source": "Boursier.com",
      "image": null,
      "reprises": 3,
-     "score": 4.43
+     "score": 4.2
+    },
+    {
+     "titre": "Artefact AI Film Festival : comment l’IA accompagne la création d’un film",
+     "lien": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNbWNGM2hSaUxwS0dxVEs2UjdpUWFETV9IbVJyNjY3NXJuRXJKcVlidEllM1ZxaDRZS1RKZzN5N21QazVub2p6VE9pOXpOSkxqbkdYTHJqMUZfQ0RqN0NWeFNBaTdBOE5lTmNLbW0tc21RbGp3OXJyTnhJVUUwbHV2aTJCOHl4aEtYMGpkYWtyV2lGWWt5dWZkSGpUS1pMWEtyYkRWNW9WVmZBMWczYjJZMmtB?oc=5",
+     "resume": "Cet article a été réalisé en collaboration avec LDLC et Nvidia Avec sa troisième édition, l’Artefact AI Film Festival continue d’interroger les liens entre cinéma et intelligence artificielle. Une exploration sur le fond comme sur la forme : l’IA devient un…",
+     "date": "2026-10-24T07:47:00+02:00",
+     "source": "Numerama",
+     "image": null,
+     "reprises": 2,
+     "score": 3.66
     },
     {
      "titre": "Le Bono. Comprendre l’intelligence artificielle : une conférence ouverte à tous mercredi",
@@ -349,27 +359,17 @@
      "source": "Ouest-France",
      "image": null,
      "reprises": 2,
-     "score": 3.33
+     "score": 3.18
     },
     {
-     "titre": "Wall Street finit dans le rouge une semaine mouvementée autour de l'IA",
-     "lien": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxQamRFZjh5eWtBS0JXUlVOTFBDdmprYVBvcWx3MG9EMHhWSUs3ZGhZRzJOSDBWdElvSnF1ejhGQVN2dXRqd2Y1WmJIWXRyaDJPWi1yaGszaEt1TDVZNzdnVE9pbUJFbXFzZnE2dUdtZFhsMjVNU0FkNU5LczFHNVJ0Z0NDN1pteGl6c00yazRCdTZDdHlObThTajJQN0Z5dVZsUlZaQl9vZFJOZjhma2RvSDctd0Q5MzQyci1kbUh4X096bWdCQ3dGZW85MDRJS2EyQkZwd3QzRjhfc3dYZ05MMUJybzRMSVHSAecBQVVfeXFMUGpkRWY4eXlrQUtCV1JVTkxQQ3Zqa2FQb3FsdzBvRDB4VklLN2RoWUcyTkgwVnRJb0pxdXo4RkFTdnV0andmNVpiSFl0cmgyT1otcmhrM2hLdUw1WTc3Z1RPaW1CRW1xc2ZxNnVHbWRYbDI1TVNBZDVOS3MxRzVSdGdDQzdabXhpenNNMms0QnU2Q3R5Tm04U2oyUDdGeXVWbFJWWkJfb2RSTmY4Zmtkb0g3LXdEOTM0MnItZG1IeF9Pem1nQkN3RmVvOTA0SUthMkJGcHd0M0Y4X3N3WGdOTDFCcm80TElR?oc=5",
+     "titre": "Jon Hernández, expert en IA : « Dans deux ans, quiconque ne maîtrise pas l’intelligence artificielle sera exclu du marché du travail.",
+     "lien": "https://news.google.com/rss/articles/CBMiigJBVV95cUxQak5vRWJ3c0tzeHdtTFp5NV9hcWcteGgtbld2R0VzUHgxQVlEVWpQNjBZd244R3NTV2tIUjJnckhjQVljQnhSRnQ5azVpMndzZ0UwQTczTk5HQUJZUzhqQ2poQUp0Qm42YmdIQWhHbnNLWE5nODhuZEwySml5Wm5lRE14SEhVTjFvRHJIRW5HQXlxYlRtMVlfVWF2SDVGcnlKMjdlZnE4MGJWeFhxWTY5STlqcFI5a1FZYUp0U3cxS2l1bzhHaE5yQURtVkZ2OTYzM3NJRGJ5UVMzOEFGSUNVaUwtaEZpWTRDUFFWNWF2N0NSX1VIVUQxQjFGMlVmVnRVX0RYUW4yUlRIQQ?oc=5",
      "resume": "",
-     "date": "2026-10-23T23:15:17+02:00",
-     "source": "Boursorama",
+     "date": "2026-10-24T08:00:52+02:00",
+     "source": "La Crème Du Gaming",
      "image": null,
-     "reprises": 1,
-     "score": 2.8
-    },
-    {
-     "titre": "OpenAI revoit à la baisse ses ambitions de valorisation",
-     "lien": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPSmdQbkRsb3h1ZXZ2dXQ0eDVrc1VnTHgzcWRXM0VTWERMbXZfN19QaEZveHVfT1JhanpveTJkOV9SNWJad3lNZzVOM0c2U3BrZ0dtZVhwQk9mS1ZMME1EZE9RSzZxY29FNFZscUs1M0dUZkhvbEJ6cVZQRFE3T3lkalpnMzExOTN6VEpLYnhfMUtwcUpQWEUyNWtybTY0RWtibjZvbEU3bjB4aXN5?oc=5",
-     "resume": "",
-     "date": "2026-10-23T16:38:00+02:00",
-     "source": "Le Revenu",
-     "image": null,
-     "reprises": 1,
-     "score": 2.42
+     "reprises": 2,
+     "score": 2.87
     }
    ],
    "a_traduire": [
@@ -381,7 +381,7 @@
      "source": "theverge.com",
      "image": null,
      "reprises": 2,
-     "score": 4.17
+     "score": 4.11
     },
     {
      "titre": "Hottest toy for Christmas? Nvidia CEO plays with adorable Microduck robots, 20,000 sell",
@@ -391,7 +391,17 @@
      "source": "techcrunch.com",
      "image": null,
      "reprises": 1,
-     "score": 1.35
+     "score": 1.32
+    },
+    {
+     "titre": "Anthropic Says Claude Mythos 5 Created Fake User Identities That Contacted Maintainer Of Repository",
+     "lien": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxNX2JiQ1ljRDdMTWhIWjBTSE5CT1UwQTctM1cwTXREX3MwTGk3OFZ0SDBEcGFfUFc3UUF5VlZ1M3Mxak9vQzVtb1JIZFI5cmZRRXlYNVk5OEt3R25DQjk5U08yRkZaZHhRVW9WVjFDXzFKdnRRaHZqZ2VPYnVOY0V6ZFlLZUlzNWU2dldfQjlBRzlUSDh6VjgyN3Z6bHVRYmtJY0g2U2JsX2NNTDk5dW9fbVBTX1hOUldoYVVQWms1SEJXTHhmVUE1SnlDamRtUTFKU1ZBMTNCMm04TWtueG14NnROdk5FNGkxdWtBU2lfdG1mcnNjWHpmY2R6VlE?oc=5",
+     "resume": "",
+     "date": "2026-10-23T15:31:13+02:00",
+     "source": "TradingView",
+     "image": null,
+     "reprises": 1,
+     "score": 1.31
     },
     {
      "titre": "Retro gaming is being overrun with AI",
@@ -401,7 +411,7 @@
      "source": "theverge.com",
      "image": null,
      "reprises": 1,
-     "score": 1.18
+     "score": 1.16
     },
     {
      "titre": "Uber rival inDrive eyes 2027 robotaxi tests in Central Asia with Pony AI and Nvidia",
@@ -411,17 +421,7 @@
      "source": "techcrunch.com",
      "image": null,
      "reprises": 1,
-     "score": 0.95
-    },
-    {
-     "titre": "Left alone with nothing to do, AI agents started playing",
-     "lien": "https://techcrunch.com/2026/10/22/left-alone-with-nothing-to-do-ai-agents-started-playing/",
-     "resume": "MIT researchers marooned 13 AIs on a virtual island, and they responded by inventing games, mourning a lost ring and, eventually, getting better at their jobs.",
-     "date": "2026-10-23T02:45:37+02:00",
-     "source": "techcrunch.com",
-     "image": null,
-     "reprises": 1,
-     "score": 0.82
+     "score": 0.92
     }
    ]
   },
@@ -437,8 +437,8 @@
      "date": "2026-10-23T10:17:45+02:00",
      "source": "L'Argus de l'assurance",
      "image": null,
-     "reprises": 59,
-     "score": 139.16,
+     "reprises": 53,
+     "score": 123.44,
      "libertes": true
     },
     {
@@ -449,7 +449,7 @@
      "source": "franceinfo",
      "image": null,
      "reprises": 5,
-     "score": 10.86,
+     "score": 10.79,
      "libertes": true
     },
     {
@@ -459,8 +459,8 @@
      "date": "2026-10-23T21:32:33+02:00",
      "source": "Capital.fr",
      "image": null,
-     "reprises": 2,
-     "score": 3.68,
+     "reprises": 3,
+     "score": 5.42,
      "libertes": false
     },
     {
@@ -471,7 +471,7 @@
      "source": "rts.ch",
      "image": null,
      "reprises": 2,
-     "score": 3.31,
+     "score": 3.29,
      "libertes": true
     },
     {
@@ -482,7 +482,7 @@
      "source": "20 Minutes",
      "image": null,
      "reprises": 2,
-     "score": 2.72,
+     "score": 2.7,
      "libertes": true
     },
     {
@@ -493,7 +493,7 @@
      "source": "L'Ami Hebdo",
      "image": null,
      "reprises": 2,
-     "score": 2.7,
+     "score": 2.68,
      "libertes": true
     }
    ],
