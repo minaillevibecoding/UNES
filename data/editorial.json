@@ -1,145 +1,121 @@
 {
- "date": "2026-10-23",
- "edito": "Emmanuel Macron reprend la main sur le maintien de l'ordre : seuls les défilés syndicaux seront autorisés samedi, et les manifestations sont interdites à Lyon et Marseille ; un recours est déposé devant le Conseil d'État. Au Tibet, un séisme de magnitude 7 fait au moins 16 morts. La tempête Austen frappe le nord-ouest de la France.",
+ "date": "2026-10-24",
+ "edito": "Journée sous tension : la France se réveille au lendemain de l'attaque de Trappes, qualifiée d'« attentat terroriste raciste » par Emmanuel Macron, et à la veille d'un « Acte II » de mobilisation encadré par 70 000 policiers et gendarmes. En droit, le Conseil constitutionnel censure le gel des cotisations des complémentaires santé au nom de la liberté d'entreprendre.",
  "journaux": {
   "figaro": {
-   "resume": "Le Figaro montre un Emmanuel Macron « en première ligne » avant la mobilisation de samedi : il reçoit pour la première fois les organisations lycéennes et rencontre les forces de l'ordre.",
+   "resume": "Le Figaro consacre sa une à l'« Acte II » du 24 octobre, vu sous l'angle de l'ordre public et des commerçants.",
    "points": [
-    "Conseil de sécurité à l'Élysée et réunion à Matignon avant l'« acte II ».",
-    "Marseille : 500 boutiques touchées le 17 octobre, des commerçants n'ouvriront pas samedi.",
-    "Édouard Philippe et la « malédiction » des gilets jaunes.",
-    "Tempête Austen : rafales jusqu'à 150 km/h, trains interrompus en Île-de-France."
+    "La préfecture de police interdit le parcours Bastille-Nation de la manifestation parisienne, pourtant approuvé jeudi.",
+    "Versailles, l'Opéra de Paris et le Louvre ferment totalement ou partiellement samedi.",
+    "Les villes retirent mobilier urbain, poubelles et vélos en libre-service avant les défilés.",
+    "Nice, marquée par les émeutes du 17 octobre, se prépare à « l'Acte II »."
    ]
   },
   "monde": {
-   "resume": "Le Monde s'inquiète de la multiplication des interdictions de manifester, « au risque de malmener l'État de droit », et revient sur la chute de Wall Street liée aux doutes sur l'IA.",
+   "resume": "Le Monde ouvre sur l'attaque de Trappes et les interrogations sur les motivations du tireur.",
    "points": [
-    "Macron demande que seuls les défilés syndicaux soient autorisés samedi.",
-    "Été 2026 : plus de 50 000 décès liés à la chaleur, dont deux tiers attribués au changement climatique.",
-    "Procès de l'explosion de la rue de Trévise.",
-    "Brésil : pourquoi les classes moyennes ont tourné le dos à Lula."
+    "Trappes : un homme de 26 ans tué, cinq blessés dont une enfant de 12 ans ; Emmanuel Macron parle d'attaque « raciste ».",
+    "Manifestations du 24 octobre : des centaines de défilés attendus, 70 000 policiers et gendarmes déployés.",
+    "Moody's maintient la note de la France à Aa3, contre l'attente de nombreux économistes.",
+    "Orléans attend de 20 000 à 30 000 opposants en marge du congrès du RN."
    ]
   },
   "croix": {
-   "resume": "La Croix décrit une France prise en étau entre la rue et les marchés, avec un taux d'emprunt au-dessus de 5 %, et s'interroge sur la polarisation entre RN et LFI.",
+   "resume": "La Croix fait le point sur Trappes et sur la journée de mobilisation, avec un regard sur le mouvement lycéen.",
    "points": [
-    "Moody's pourrait dégrader la note de la France.",
-    "Tibet : 16 morts et plus de 300 maisons effondrées.",
-    "70 ans du soulèvement hongrois de 1956.",
-    "Interdictions de rassemblement à Lyon, Marseille et dans d'autres grandes villes."
+    "Tirs à Trappes et La Verrière : un mort et plusieurs blessés, dont une fillette de 12 ans.",
+    "Manifestation du 24 octobre : interdictions et dispositif de sécurité détaillés.",
+    "Reçus à l'Élysée, les représentants des lycéens appellent à poursuivre la mobilisation ; une rencontre avec le premier ministre est prévue.",
+    "Cuisine : deux recettes accessibles de Paul Bocuse, qui aurait eu 100 ans cette année."
    ]
   },
   "equipe": {
-   "resume": "L'Équipe retient le but exceptionnel de Paris Brunner pour Monaco face à Fribourg (3-0) et la revanche attendue des Bleues face à la Nouvelle-Zélande.",
+   "resume": "L'Équipe met en avant la NBA avec le tir manqué de Victor Wembanyama.",
    "points": [
-    "Rugby : les Bleues, humiliées 81-12, veulent se racheter.",
-    "Nancy : Ilyes Housni se révèle en Ligue 2.",
-    "Brest-Nice ce soir, hommage à Éric Roy.",
-    "Le Mans inaugure son nouveau centre de formation."
+    "Malgré 25 points et 13 rebonds de Wembanyama, les Spurs perdent 110-114 contre Houston.",
+    "Maxime Lopez et Ilan Kebbal, duo complice du Paris FC.",
+    "Vannes, toujours sans victoire, reçoit Clermont ; Jean-Noël Spitzer défend sa vision du jeu.",
+    "Lakers-Clippers : 28 points pour Austin Reaves."
    ]
   }
  },
  "sections": {
   "monde": [
    {
-    "titre": "Mobilisation du 24 octobre : seuls les défilés syndicaux autorisés",
-    "lien": "https://www.france24.com/fr/france/20261022-24-octobre-macron-serre-la-vis-sur-les-manifestations-interdites-%C3%A0-marseille-et-%C3%A0-lyon",
+    "titre": "Trappes : Macron dénonce un « attentat terroriste raciste »",
+    "lien": "https://www.france24.com/fr/france/20261023-les-r%C3%A9actions-politiques-de-tout-bord-se-multiplient-apr%C3%A8s-la-fusillade-meurtri%C3%A8re-%C3%A0-trappele",
     "source": "France 24",
-    "date": "2026-10-22T22:39:21+02:00",
-    "resume": "Emmanuel Macron a annoncé que seules les manifestations organisées par des syndicats seraient autorisées samedi. Les préfets du Rhône et des Bouches-du-Rhône ont interdit les rassemblements.",
-    "pourquoi": "Une restriction inédite de la liberté de manifester, contestée devant le Conseil d'État."
+    "date": "2026-10-23T21:57:19+02:00",
+    "resume": "Une fusillade à Trappes et La Verrière (Yvelines) a fait un mort et plusieurs blessés vendredi. Le parquet national antiterroriste s'est saisi de l'enquête ; Emmanuel Macron a appelé à l'unité.",
+    "pourquoi": "Une qualification terroriste fondée sur un mobile raciste, à la veille d'une journée de mobilisation sous haute tension."
    },
    {
-    "titre": "Tibet : un séisme de magnitude 7 fait au moins 16 morts",
-    "lien": "https://www.lemonde.fr/planete/article/2026/10/22/en-chine-le-seisme-de-magnitude-7-qui-a-frappe-la-region-du-tibet-fait-16-morts-et-des-dizaines-de-blesses_6798655_3245.html",
+    "titre": "Cisjordanie : Nétanyahou promet une « opération très vaste »",
+    "lien": "https://www.lemonde.fr/international/article/2026/10/23/cisjordanie-en-reponse-a-la-mort-de-deux-militaires-israeliens-netanyahou-promet-des-destructions-d-ampleur-et-encore-plus-de-colonies_6799138_3210.html",
     "source": "Le Monde",
-    "date": "2026-10-22T22:52:16+02:00",
-    "resume": "La secousse a frappé jeudi soir le canton de Maru, faisant aussi 32 blessés et plus de 300 maisons effondrées.",
-    "pourquoi": "Une région régulièrement frappée par de violents séismes."
+    "date": "2026-10-23T20:01:39+02:00",
+    "resume": "Après la mort de deux soldats près d'Hébron, le premier ministre israélien promet destructions et nouvelles colonies, alors que l'état-major semble plus modéré.",
+    "pourquoi": "La réponse intervient à quatre jours de législatives décisives en Israël."
    },
    {
-    "titre": "Ebola : l'OMS en alerte après un premier cas au Nigeria",
-    "lien": "https://www.france24.com/fr/vid%C3%A9o/20261022-nigera-l-oms-en-alerte-apr%C3%A8s-un-premier-cas-d-ebola",
-    "source": "France 24",
-    "date": "2026-10-22T19:38:27+02:00",
-    "resume": "Le virus a voyagé d'Afrique de l'Est jusqu'au Nigeria, premier cas signalé dans l'ouest du continent ; l'OMS évoque une épidémie « plus complexe ».",
-    "pourquoi": "Le pays le plus peuplé d'Afrique est touché."
-   },
-   {
-    "titre": "Ukraine : Trump affirme que Musk a relancé Starlink pour Kiev",
-    "lien": "https://www.lemonde.fr/international/live/2026/10/23/en-direct-guerre-en-ukraine-donald-trump-affirme-qu-elon-musk-a-relance-son-reseau-satellitaire-starlink-pour-kiev_6796922_3210.html",
+    "titre": "Ukraine : négociations directes avec la Russie annoncées sous médiation américaine",
+    "lien": "https://www.lemonde.fr/international/live/2026/10/24/en-direct-guerre-en-ukraine-des-negociations-directes-avec-la-russie-sous-mediation-americaine-prevues-pour-novembre-confirme-volodymyr-zelensky_6796922_3210.html",
     "source": "Le Monde",
-    "date": "2026-10-23T06:39:42+02:00",
-    "resume": "Selon le Wall Street Journal, le président américain a demandé à Elon Musk de lever le bridage du réseau, dont l'Ukraine dénonçait les limitations.",
-    "pourquoi": "Le soutien technologique américain à Kiev reste suspendu à Washington."
+    "date": "2026-10-24T07:04:45+02:00",
+    "resume": "Selon la Maison Blanche, Moscou et Kiev ont aussi accepté de suspendre temporairement les opérations militaires à Olechky, ville occupée de l'oblast de Kherson, à partir de mardi.",
+    "pourquoi": "Première perspective de pourparlers directs, avec une trêve locale à visée humanitaire."
    },
    {
-    "titre": "Été 2026 : plus de 50 000 morts liées à la chaleur",
-    "lien": "https://www.lemonde.fr/planete/article/2026/10/23/avec-plus-de-50-000-deces-lies-a-la-chaleur-dont-les-deux-tiers-attribues-au-changement-climatique-l-ete-2026-a-ete-le-plus-meurtrier-dans-les-villes-d-europe_6798935_3244.html",
-    "source": "Le Monde",
-    "date": "2026-10-23T05:00:24+02:00",
-    "resume": "Selon une étude britannique portant sur 854 agglomérations, deux tiers de ces décès sont attribuables au changement climatique ; les canicules ont été plus meurtrières qu'en 2003 ou 2022.",
-    "pourquoi": "Un bilan qui chiffre le coût humain du réchauffement."
+    "titre": "Brésil : dernier débat Lula–Flavio Bolsonaro avant le second tour",
+    "lien": "https://www.rfi.fr/fr/am%C3%A9riques/20261024-pr%C3%A9sidentielle-au-br%C3%A9sil-lula-et-le-fils-bolsonaro-s-affrontent-lors-d-un-dernier-d%C3%A9bat-au-ton-plus-polic%C3%A9",
+    "source": "RFI",
+    "date": "2026-10-24T06:37:06+02:00",
+    "resume": "Après un premier débat émaillé d'insultes, les deux candidats ont modéré le ton vendredi, à l'avant-veille du second tour.",
+    "pourquoi": "Le scrutin de dimanche décide de l'orientation de la première puissance d'Amérique latine."
    }
   ],
   "ia": [
    {
-    "titre": "Les inquiétudes sur l'IA font plonger Wall Street",
-    "lien": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxQRFc0UW1Pb09DNHZsOVk1dm4xRlJPYW16Mkg1eGM2M2FBaWdPWWpoa3ZGM2FrUjd0Sy01S1NYOGY2RXNGTmwzVzJzQ2NGZktTbVhEMkdzbVQ2WlMtcFd3OW5pc2RBdFFrQU5yRnM2Z05GLW1FNUFYN0pNUkRkRWxfaFBWTHJDQVNDQm51UmNBaDJxdHVBb2lzaEJnVWN5TXBaQjRfSmNldlEycWZuOHZEaUZCLWNqU3Rmd19IOVZ6aTlOMS1Sb05ibTFERng3d04wLU5GVW5pNVc?oc=5",
-    "source": "Le Monde",
-    "date": "2026-10-23T06:04:31+02:00",
-    "resume": "L'annonce par Meta d'une nouvelle levée de capital pour financer ses investissements a ravivé les doutes sur la rentabilité du secteur.",
-    "pourquoi": "Les marchés commencent à douter du modèle économique de l'IA."
-   },
-   {
-    "titre": "OpenAI valorisé 1 250 milliards de dollars après un nouveau tour de table",
-    "lien": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPLU84QVFzcE9BazAwT3h4LXQxeEV1d0JJWExfT3VMM2xWNnk2bUh4THkxcVhJYkxPbGxHUE1HOXpwOWMxeENIVTY5NC1GanBzOUxXS3lVbEh3dHNSVnRQaFluNmsxczY0TWtKQlJob2tZSVN4RkI0dGNKcHRKeTZjYmpEUDNkRUxLMkJuaEJTWWR3SzVtM0RzN0dqUks2R2Y2MEprWkwwSGxsQ2dzLTFMUV9nM1NJU2xaQnIwZg?oc=5",
-    "source": "ABC Bourse",
-    "date": "2026-10-22T23:12:37+02:00",
-    "resume": "Selon ABC Bourse, OpenAI atteint cette valorisation à l'issue d'une nouvelle levée de fonds, en amont de l'introduction en Bourse d'Anthropic.",
-    "pourquoi": "La course aux capitaux entre laboratoires s'intensifie."
-   },
-   {
-    "titre": "Microsoft affirme que son outil d'IA diagnostique mieux que les médecins",
-    "lien": "https://www.theverge.com/ai-artificial-intelligence/1016690/suleyman-microsoft-diagnostic-orchestrator-science-medical-superintelligence",
+    "titre": "OpenAI entraîne désormais ses modèles de pointe sans accès à internet",
+    "lien": "https://www.theverge.com/ai-artificial-intelligence/1018021/openai-training-top-ai-models-no-internet",
     "source": "The Verge",
-    "date": "2026-10-22T20:00:00+02:00",
-    "resume": "Mustafa Suleyman, patron de Microsoft AI, assure que l'apport de l'IA à la santé « est enfin là ». Ces résultats sont ceux revendiqués par l'entreprise.",
-    "pourquoi": "La santé est présentée comme la démonstration la plus claire de l'utilité de l'IA."
+    "date": "2026-10-23T23:11:07+02:00",
+    "resume": "Après une série d'incidents de piratage menés par des modèles hors de contrôle, OpenAI indique avoir construit un environnement de test hors ligne où ses modèles accèdent à des pages web indexées et mises en cache.",
+    "pourquoi": "Un laboratoire majeur reconnaît que ses modèles posent un risque de sécurité suffisant pour les couper du réseau."
    },
    {
-    "titre": "1Password permet aux agents d'IA de se connecter sans voir vos mots de passe",
-    "lien": "https://techcrunch.com/2026/10/22/1password-launches-a-way-for-ai-agents-to-log-in-on-your-behalf-without-seeing-your-password/",
-    "source": "TechCrunch",
-    "date": "2026-10-22T21:07:09+02:00",
-    "resume": "La nouvelle fonction laisse un agent accéder aux comptes personnels d'un utilisateur tout en protégeant ses identifiants.",
-    "pourquoi": "La sécurité des agents devient un marché."
+    "titre": "OpenAI revoit à la baisse ses ambitions de valorisation",
+    "lien": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPSmdQbkRsb3h1ZXZ2dXQ0eDVrc1VnTHgzcWRXM0VTWERMbXZfN19QaEZveHVfT1JhanpveTJkOV9SNWJad3lNZzVOM0c2U3BrZ0dtZVhwQk9mS1ZMME1EZE9RSzZxY29FNFZscUs1M0dUZkhvbEJ6cVZQRFE3T3lkalpnMzExOTN6VEpLYnhfMUtwcUpQWEUyNWtybTY0RWtibjZvbEU3bjB4aXN5?oc=5",
+    "source": "Le Revenu",
+    "date": "2026-10-23T16:38:00+02:00",
+    "resume": "Selon Le Revenu et Boursier.com, OpenAI viserait une valorisation d'environ 1 250 milliards de dollars, en deçà de ses ambitions, au terme d'une semaine agitée pour les valeurs de l'IA à Wall Street.",
+    "pourquoi": "Un signal de prudence des investisseurs sur la bulle supposée de l'IA."
    }
   ],
   "droit": [
    {
-    "titre": "Interdictions de manifester : un recours devant le Conseil d'État",
-    "lien": "https://news.google.com/rss/articles/CBMitgJBVV95cUxQM2lTMW1UZmdYWWI3c2l2RVYzSHZ2X1h2WjljSktGLVVZTkNXTVpPdHZVSzdnZXR2V2V3bnVWbUVWMnNWY2t1dTVqanNiYlowQ2UzSkptaFJVRFdsUUM0ZXZ6WFU4dlRlNnNZM05SeHdmVDZlZktuUnNZbHExTkU1UF9ieFctRnd2T3ZhVG9tenpLMXA1Y3ZETTJnS1AwYTdxNkI3S1RzdmoyRFpOT3o3NzNseDlEeUUxc29KNXRKdzZkSjBVeERzLXRpS0VaeHZKZkJzc2VjbWZ3ZzJKTURaQ1l5RS1vXzBPNGFBVHJwMHBsTWlnWDJyQWt2TGQyQTcyQW51b0xSYm9nT2Myc3ZGcWQ5TDdpTnlUUlJvb01Odm5tLW1YRWxMMG9aTmd1OG04MGNobS1R?oc=5",
-    "source": "franceinfo",
-    "date": "2026-10-22T22:08:05+02:00",
-    "resume": "Un recours a été déposé après l'annonce par Emmanuel Macron que seules les manifestations syndicales seraient autorisées samedi, rapporte franceinfo. Le Monde relève que les interdictions se multiplient, « au risque de malmener l'État de droit ».",
-    "libertes": "Liberté de manifester (droit d'expression collective des idées et des opinions) et liberté d'aller et venir.",
-    "angle_crfpa": "Une interdiction générale réservée à certains organisateurs pose la question de sa nécessité et de sa proportionnalité ; le juge du référé-liberté contrôle chaque arrêté au cas par cas."
+    "titre": "Le Conseil constitutionnel censure le gel des cotisations des complémentaires santé",
+    "lien": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxNV1o0bS1oVGtDclhXQXJMTWtmc1plNWFaMC1nR3pxVlEyRkZUYk1UMDBIYW5faU80VEVaTW9xSTFUSVNGLVU0MFRIMEhJbGI5cWdKU2RmX1p3SElYSnVGUVRVTjNwZHJZSC1jZkVKU09hOXJmbkU2YlpWX251d0YtV2xQa0ZIdVE0MndlNWhpdkliZGxrd0Q0bW90NWdsdTJibnR0WkhvVWs0T0p0WU5nNTc1NHhPUVVnWHhpUFZYRzYyQ0t5OTc5M2ZtRjhVYmVoMDVsUFYxMEhTc1ZLemxN?oc=5",
+    "source": "L'Argus de l'assurance",
+    "date": "2026-10-23T10:17:45+02:00",
+    "resume": "Décision n° 2026-1230/1231 QPC du 23 octobre 2026 : l'article 13 de la LFSS pour 2026, qui interdisait toute hausse des cotisations d'assurance maladie complémentaire par rapport à 2025, est déclaré contraire à la Constitution. Le Conseil admet un objectif d'intérêt général (protéger les assurés d'une répercussion de la nouvelle contribution), mais juge que le gel, qui interdit toute hausse « quelle qu'en soit la cause », porte une atteinte disproportionnée.",
+    "libertes": "Liberté d'entreprendre et liberté contractuelle.",
+    "angle_crfpa": "Bon exemple du contrôle de proportionnalité des atteintes à la liberté d'entreprendre : objectif d'intérêt général reconnu, mais mesure générale et absolue jugée excessive. À rapprocher de la jurisprudence sur les blocages de prix et les cavaliers ajoutés par amendement."
    },
    {
-    "titre": "Taxe de séjour : les amendes visant Airbnb jugées conformes à la Constitution",
-    "lien": "https://news.google.com/rss/articles/CBMixgJBVV95cUxOaGtsZGhwMkxWSkJSSDVXRklrQUNGUUpkTEk0QkdMVFh0MUtBcVpRSk5aeUd6bEoxZmwxSWliUURFZENNZ3hzM2pwTXpOTWtzUExwRXN2Vk9xQkIxYVdxLXpGUkZvZG5mX0JIOS01YzcwWTdhandpcnNzQ0JVRkxSMnlvOTlTZXdVUmFhd1cxZXdZaFBnZjI1V1Eybm41amM1eHgtd3l4UWZmcWhlbjdIZGNZNlNvckRWdEtIT1lweVN1SVpwelpyRkNsZHcxZzgyYU02M1NxZVpqbkF2d3YwTUR4QjJIakVWRThvdnJablNPVEN1MGRIeTZVclA5SjZ3NEdqYVlmdDJtWlZweDBUOVFlamg4VUlqRjhmY19nUnQzNlBPRjJtMWZqX3NaaHNydXhTUEdaTlRucTRZSVJ2M291N3V6UQ?oc=5",
-    "source": "La Gazette des Communes",
-    "date": "2026-10-22T14:02:00+02:00",
-    "resume": "Dans sa décision du 31 juillet 2026, le Conseil constitutionnel a jugé que l'amende sanctionnant le défaut de collecte de la taxe de séjour, multipliée par le nombre de nuitées, n'est pas manifestement disproportionnée, même cumulée. La Gazette des communes analyse sa portée pour les collectivités.",
-    "libertes": "Principes de nécessité et de proportionnalité des peines (art. 8 DDHC).",
-    "angle_crfpa": "Aucune exigence constitutionnelle n'impose une règle de non-cumul pour des amendes fiscales sanctionnant des manquements distincts."
+    "titre": "CEDH : la Suisse condamnée pour procès inéquitable dans l'affaire Brian Keller (« Carlos »)",
+    "lien": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNVlVhdkM0ZnhRVndyemEyNXBlZjFpamJqM1I3SmhUVTNFOURoaTZZOVltWWFma0VNS3JEXzRNNU85OGM1SkZwYnI5YmNkTk5jdnRDdUlGd1ZrcS1jMDZDVDJ5dnpwSEtjSDVVeGhlQ2syM1VSSFBUWmdRSWY2Um9PZzlrWlVUQlpja1FrWHZ6RHRLbE5QdXdpZnFXclNYTDI3RS1qQjVzellNckVzaHlXMktBajgzSW00TVE?oc=5",
+    "source": "RTS",
+    "date": "2026-10-22T14:18:10+02:00",
+    "resume": "Selon la presse suisse (RTS, Blick), la Cour retient une violation de l'article 6 § 1 : pendant son recours au Tribunal fédéral sur ses conditions de détention à Pöschwies, des éléments nouveaux ont été versés au dossier sans qu'il puisse y répondre. Les griefs tirés des articles 3 et 8 sont irrecevables faute d'épuisement des voies de recours internes.",
+    "libertes": "Droit à un procès équitable : principe du contradictoire.",
+    "angle_crfpa": "Rappel que le contradictoire couvre toute pièce susceptible d'influer sur la décision, même devant une juridiction suprême ; et illustration de la condition d'épuisement des voies internes (art. 35 Conv. EDH)."
    }
   ]
  },
  "notion": {
-  "titre": "Le référé-liberté",
-  "texte": "Saisi d'une demande justifiée par l'urgence, le juge des référés peut ordonner toutes mesures nécessaires à la sauvegarde d'une liberté fondamentale à laquelle une personne publique aurait porté une atteinte grave et manifestement illégale. Il se prononce dans un délai de quarante-huit heures. C'est la voie utilisée contre les arrêtés d'interdiction de manifester.",
-  "reference": "Code de justice administrative, art. L. 521-2 (loi du 30 juin 2000)"
+  "titre": "La liberté d'entreprendre",
+  "texte": "Le Conseil constitutionnel l'a consacrée en 1982, à propos des nationalisations, en la rattachant à l'article 4 de la Déclaration de 1789. Elle n'est ni générale ni absolue : le législateur peut la limiter pour des exigences constitutionnelles ou un motif d'intérêt général, à condition que l'atteinte ne soit pas disproportionnée au regard de l'objectif poursuivi. C'est ce contrôle qui a conduit à la censure du gel des cotisations des complémentaires santé.",
+  "reference": "Cons. const., 16 janvier 1982, n° 81-132 DC, Loi de nationalisation"
  }
 }
