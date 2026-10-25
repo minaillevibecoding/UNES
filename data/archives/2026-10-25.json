@@ -1,0 +1,503 @@
+{
+ "date": "2026-10-25",
+ "genere": "2026-10-25T06:09+01:00",
+ "journaux": [
+  {
+   "id": "figaro",
+   "nom": "Le Figaro",
+   "couleur": "#163860",
+   "une": {
+    "fichier": "unes/figaro.jpg",
+    "date": "2026-10-24",
+    "source": "https://static.milibris.com/thumbnail/issue/183cd106-e9c1-43fc-88e4-27903ac7b15e/front/catalog-cover-large.jpeg"
+   },
+   "articles": [
+    {
+     "titre": "Des cortèges calmes, moins de casse, des heurts contenus… Une nouvelle journée de mobilisation sous haute surveillance partout en France",
+     "lien": "https://www.lefigaro.fr/actualite-france/des-corteges-calmes-moins-de-casse-des-heurts-contenus-une-nouvelle-journee-de-mobilisation-sous-haute-surveillance-partout-en-france-20261024",
+     "resume": "REPORTAGE - Une semaine après les scènes de chaos du 17 octobre, les manifestations contre la vie chère se sont déroulées dans un calme relatif ce samedi. Malgré des affrontements en fin de cortège dans plusieurs grandes villes, les forces de l’ordre sont…",
+     "date": "2026-10-25T00:01:49+02:00",
+     "source": "",
+     "image": "https://i.f1g.fr/media/cms/1920x1080_crop/2026/10/24/d5690d8df550fcca7f53cf5c12fb53b68869b884094abae494d781a5bf71f46d.jpg"
+    },
+    {
+     "titre": "Elon Musk accuse l'Ukraine de violer les conditions d'utilisation de Starlink",
+     "lien": "https://www.lefigaro.fr/international/elon-musk-accuse-l-ukraine-de-violer-les-conditions-d-utilisation-de-starlink-20261025",
+     "resume": "Kiev dépend de ce système de communication par satellites ainsi que de sa version de niveau militaire, Starshield, pour se défendre contre les attaques russes de missiles et de drones.",
+     "date": "2026-10-25T04:19:52+01:00",
+     "source": "",
+     "image": "https://i.f1g.fr/media/cms/3000x2001_crop/2026/10/25/325895bb11c44eb3545488d96ee4ad6a2274372455b07f1a122a869612c7a10b.jpg"
+    },
+    {
+     "titre": "Manifestations du 24 octobre : «les cortèges se sont bien passés», Nuñez salue l’engagement des forces de l’ordre",
+     "lien": "https://www.lefigaro.fr/actualite-france/en-direct-mobilisation-manifestations-24-octobre-etudiants-lyceens-acte-ii-gilets-jaunes-orleans-congres-du-rn-20261024",
+     "resume": "Au total, 410.000 manifestants se sont mobilisés en France selon l’Intérieur, 800.000 d’après la CGT. Près de 1000 personnes ont été interpellées.",
+     "date": "2026-10-25T05:58:53+01:00",
+     "source": "",
+     "image": "https://i.f1g.fr/media/cms/1920x1080_crop/2026/10/24/b16766171b823a274c45d3981256be282e3cbceb85f9ead0400359a4f23aa804.jpg"
+    },
+    {
+     "titre": "Manifestations du 24 octobre : qu’est-ce que Bitchat, cette appli de messagerie sans internet qui connaît un pic de téléchargements ?",
+     "lien": "https://www.lefigaro.fr/secteur/high-tech/manifestations-du-24-octobre-qu-est-ce-que-bitchat-cette-appli-de-messagerie-sans-internet-qui-connait-un-pic-de-telechargements-20261024",
+     "resume": "Pourtant encore méconnue du grand public, cette application lancée par Jack Dorsey, cofondateur de Twitter, caracole en tête des téléchargements sur l’App Store depuis quelques jours. Elle a notamment déjà été utilisée par les manifestants au Népal, en Iran…",
+     "date": "2026-10-24T15:50:01+02:00",
+     "source": "",
+     "image": "https://i.f1g.fr/media/cms/1606x979_crop/2026/10/24/8ddfc51b6ce9234dec1d072ecf7428d76c6b5803787164c15579f2ffca7a90d5.png"
+    },
+    {
+     "titre": "Les «gilets jaunes» confirment une nouvelle mobilisation le 31 octobre contre la «dérive autoritaire» du gouvernement",
+     "lien": "https://www.lefigaro.fr/actualite-france/les-gilets-jaunes-confirment-une-nouvelle-mobilisation-le-31-octobre-contre-la-derive-autoritaire-du-gouvernement-20261024",
+     "resume": "«Nos libertés sont attaquées», dénoncent les «gilets jaunes», fustigeant l’interdiction de nombreux cortèges en France ce samedi 24 octobre, une semaine après les violences et pillages qui ont secoué le pays.",
+     "date": "2026-10-24T15:33:43+02:00",
+     "source": "",
+     "image": "https://i.f1g.fr/media/cms/orig/2026/10/24/bb7762303e374a7b38407971272538c76c87dacac65d76f9e13e6fc1b0c50a8b.JPG"
+    },
+    {
+     "titre": "«On va tous se transformer en sauvages, alors ?» : ces Français excédés et terrifiés face à l’impuissance publique",
+     "lien": "https://www.lefigaro.fr/actualite-france/on-va-tous-se-transformer-en-sauvages-alors-ces-francais-excedes-et-terrifies-face-a-l-impuissance-publique-20261024",
+     "resume": "RÉCIT - Alors que plus de six citoyens sur dix envisagent désormais de se protéger par leurs propres moyens, certains font le choix radical de quitter la France.",
+     "date": "2026-10-24T09:51:12+02:00",
+     "source": "",
+     "image": "https://i.f1g.fr/media/cms/3000x1687_crop/2026/10/23/96fc8a3cd9d876f4b8999a0234ac354dc0416bf795bc23b32db9355f51e1025d.jpg"
+    }
+   ],
+   "flux_utilise": "https://www.lefigaro.fr/rss/figaro_actualites.xml"
+  },
+  {
+   "id": "monde",
+   "nom": "Le Monde",
+   "couleur": "#111111",
+   "une": {
+    "fichier": "unes/monde.webp",
+    "date": "2026-10-25",
+    "source": "https://www.frontpages.com/t/2026/10/24/le-monde-232023pmb@2x.webp"
+   },
+   "articles": [
+    {
+     "titre": "Une journée de forte mobilisation sans incidents majeurs : « le droit de manifester est aussi important que le droit de vote »",
+     "lien": "https://www.lemonde.fr/politique/article/2026/10/25/une-journee-de-forte-mobilisation-sans-incidents-majeurs-le-droit-de-manifester-est-aussi-important-que-le-droit-de-vote_6799929_823448.html",
+     "resume": "Malgré des autorisations et des parcours souvent décidés à la dernière minute, près de 410 000 personnes – 800 000 selon la CGT – ont défilé dans le calme, samedi en France, contre la vie chère, en soutien aux lycéens ou pour les libertés publiques. Des…",
+     "date": "2026-10-25T04:45:07+01:00",
+     "source": "",
+     "image": "https://img.lemde.fr/2026/10/25/375/0/4500/2250/644/322/60/0/86bd2e6_upload-1-y2ckfrebjyrp-3324102026-1a0a5294-acteii-manifestation-carrot.jpg"
+    },
+    {
+     "titre": "Attentat raciste de Trappes : le tireur présumé a dit avoir voulu venger les commerçants pillés le 17 octobre et avoir ciblé des personnes selon leur couleur de peau",
+     "lien": "https://www.lemonde.fr/societe/article/2026/10/24/attentat-raciste-de-trappes-le-tireur-presume-a-dit-avoir-voulu-venger-les-commercants-pilles-le-17-octobre-et-avoir-cible-des-personnes-de-couleur_6799689_3224.html",
+     "resume": "D’après les informations du « Monde », l’homme soupçonné d’avoir tué une personne et blessé cinq autres, dans les Yvelines, a déclaré aux policiers vouloir s’en prendre aux « Noirs » et aux « Arabes ». Un exemplaire de « Mein Kampf » a été découvert à son…",
+     "date": "2026-10-24T12:29:45+02:00",
+     "source": "",
+     "image": "https://img.lemde.fr/2026/10/24/954/0/6240/3120/644/322/60/0/8d26038_upload-1-izzv81mmyl7v-10-trappes-attentat-raciste-hleuqeux-dsc5500.jpg"
+    },
+    {
+     "titre": "A Orléans, le Rassemblement national tient son congrès sous haute tension et sans suspense",
+     "lien": "https://www.lemonde.fr/politique/article/2026/10/24/a-orleans-le-rassemblement-national-tient-son-congres-sous-haute-tension-et-sans-suspense_6799729_823448.html",
+     "resume": "Sans concurrent, Jordan Bardella a été confirmé président du parti d’extrême droite, samedi 24 octobre, tout en devant adouber des « marinistes », en ouverture d’un lancement de campagne aux allures de camp retranché.",
+     "date": "2026-10-24T21:48:58+02:00",
+     "source": "",
+     "image": "https://img.lemde.fr/2026/10/25/962/365/2076/1038/644/322/60/0/820eda8_upload-1-o57svszztdre-rn-orleans-asurp-203043.jpg"
+    },
+    {
+     "titre": "A Gaza, au Liban et en Syrie, comment Israël utilise les « zones tampons » pour étendre sa domination régionale",
+     "lien": "https://www.lemonde.fr/international/article/2026/10/25/a-gaza-au-liban-et-en-syrie-comment-israel-utilise-les-zones-tampons-pour-etendre-sa-domination-regionale_6800032_3210.html",
+     "resume": "Depuis le « cessez-le-feu » d’octobre 2025, l’Etal hébreu présente les territoires qu’il occupe sur ces trois fronts comme des ceintures de sécurité, destinées à protéger ses frontières. Dans ces zones, le déploiement de l’armée s’accompagne de destructions…",
+     "date": "2026-10-25T05:30:15+01:00",
+     "source": "",
+     "image": "https://img.lemde.fr/2026/10/19/64/0/3073/1536/644/322/60/0/bdf5350_upload-1-aomyr08r1b24-appel.png"
+    },
+    {
+     "titre": "Au Brésil, Lula et Flavio Bolsonaro sont au coude-à-coude après une campagne de l’entre-deux-tours à couteaux tirés",
+     "lien": "https://www.lemonde.fr/international/article/2026/10/25/au-bresil-lula-et-flavio-bolsonaro-sont-au-coude-a-coude-apres-une-campagne-de-l-entre-deux-tours-a-couteaux-tires_6799995_3210.html",
+     "resume": "En retard sur le candidat d’extrême droite à l’issue du premier tour de la présidentielle, le 4 octobre, le président a depuis bénéficié de la mobilisation massive de ses partisans. Et a pris quelques mesures de dernière minute pour tenter de remporter un…",
+     "date": "2026-10-25T05:00:13+01:00",
+     "source": "",
+     "image": "https://img.lemde.fr/2026/10/22/753/0/7944/3972/644/322/60/0/d1be180_ftp-1-xyq40xbaweqn-afp-d448237.jpg"
+    },
+    {
+     "titre": "EN DIRECT, guerre en Ukraine : Elon Musk accuse Kiev de violer les conditions d’utilisation du réseau Starlink",
+     "lien": "https://www.lemonde.fr/international/live/2026/10/25/en-direct-guerre-en-ukraine-elon-musk-accuse-kiev-de-violer-les-conditions-d-utilisation-du-reseau-starlink_6799896_3210.html",
+     "resume": "« Les conditions d’utilisation [du réseau de communication par satellites] Starlink sont restées cohérentes : il s’agit d’un système civil, et non d’un moyen de tuer. Toute violation de ces conditions entraînera la fin du service », a écrit le magnat de la…",
+     "date": "2026-10-25T04:27:01+01:00",
+     "source": "",
+     "image": "https://img.lemde.fr/2026/10/25/0/0/6252/3126/644/322/60/0/051d711_upload-1-n53txwjmnce2-063-2297775036.jpg"
+    }
+   ],
+   "flux_utilise": "https://www.lemonde.fr/rss/une.xml"
+  },
+  {
+   "id": "croix",
+   "nom": "La Croix",
+   "couleur": "#c8102e",
+   "une": {
+    "fichier": "unes/croix.jpg",
+    "date": "2026-10-24",
+    "source": "https://img.kiosko.net/2026/10/24/fr/lacroix.750.jpg"
+   },
+   "articles": [
+    {
+     "titre": "Le feijoa, ou goyavier du Brésil, exotique et savoureux",
+     "lien": "https://www.la-croix.com/art-de-vivre/le-feijoa-ou-goyavier-du-bresil-exotique-et-savoureux-20261022",
+     "resume": "Le feijoa, buisson trapu, arbore en fin de printemps de grandes fleurs blanches à 4 pétales ébouriffés de foisonnantes et longues étamines rouges. Elles deviennent des fruits délicieux en fin d’automne.",
+     "date": "2026-10-25T04:00:13+01:00",
+     "source": "",
+     "image": "https://i.la-croix.com/x/2026/10/22/2554941-la-fleuraison-du-feijoa-en-fin-de-printemps-est-su.jpeg"
+    },
+    {
+     "titre": "Le RN peaufine ses instances en vue de la présidentielle 2027",
+     "lien": "https://www.la-croix.com/politique/le-rn-peaufine-ses-instances-en-vue-de-la-presidentielle-2027-20261024",
+     "resume": "Le Rassemblement national a organisé samedi 24 octobre son XIXe congrès à Orléans (Loiret). Une formalité qui a permis de réélire à la quasi-unanimité Jordan Bardella comme président du parti.",
+     "date": "2026-10-24T21:16:27+02:00",
+     "source": "",
+     "image": "https://i.la-croix.com/x/2026/10/24/2571587-jordan-bardella-a-ete-reelu-president-du-rassemble.jpg"
+    },
+    {
+     "titre": "À Paris, des manifestants calmes et aux revendications disparates",
+     "lien": "https://www.la-croix.com/societe/a-paris-des-manifestants-calmes-et-aux-revendications-disparates-20261024",
+     "resume": "Une semaine après les débordements du 17 octobre, 110 00 manifestants ont défilé ce samedi 24 octobre à Paris contre la vie chère et en soutien à la jeunesse. Mis à part des débordements en fin de journée, le cortège s’est déroulé dans une ambiance festive…",
+     "date": "2026-10-24T21:01:23+02:00",
+     "source": "",
+     "image": "https://i.la-croix.com/x/2026/10/24/2571490-110-000-personnes-ont-manifeste-samedi-24-octobre-.jpg"
+    },
+    {
+     "titre": "Après l’attentat raciste, Trappes entre inquiétude et colère",
+     "lien": "https://www.la-croix.com/societe/apres-l-attentat-raciste-trappes-entre-inquietude-et-colere-20261024",
+     "resume": "Hier, vendredi 23 octobre, un homme a ouvert le feu sur des passants, à Trappes et à La Verrière, dans les Yvelines. L’attaque, qualifiée d’attentat terroriste raciste par Emmanuel Macron, a fait un mort et cinq blessés dont une fillette de 12 ans.",
+     "date": "2026-10-24T19:03:53+02:00",
+     "source": "",
+     "image": "https://i.la-croix.com/x/2026/10/24/2571531-un-manifestant-tient-une-pancarte-sur-laquelle-est.jpg"
+    },
+    {
+     "titre": "En Belgique, la mobilisation des jeunes continue dans le sillage de leurs voisins français",
+     "lien": "https://www.la-croix.com/international/en-belgique-la-mobilisation-des-jeunes-continue-dans-le-sillage-de-leurs-voisins-francais-20261024",
+     "resume": "Plusieurs centaines de personnes étaient réunies samedi dans le centre de Bruxelles, une semaine après la mobilisation du 17 octobre et ses débordements. Moins nombreux que lors des précédents rassemblements, les manifestants ont témoigné de leur solidarité…",
+     "date": "2026-10-24T18:40:33+02:00",
+     "source": "",
+     "image": "https://i.la-croix.com/x/2026/10/24/2571521-des-manifestants-se-rassemblent-place-albertine-a-.jpg"
+    },
+    {
+     "titre": "Violences urbaines : une déclaration des responsables des cultes du Havre, pour le respect et la paix sociale",
+     "lien": "https://www.la-croix.com/religion/violences-urbaines-une-declaration-des-responsables-des-cultes-du-havre-pour-le-respect-et-la-paix-sociale-20261024",
+     "resume": "Cinq jours après les violences urbaines du 17 octobre 2026 au Havre, les représentants des grandes religions de la ville ont uni leurs voix pour dénoncer les débordements et réclamer des réponses politiques face au mal-être de la jeunesse.",
+     "date": "2026-10-24T17:29:29+02:00",
+     "source": "",
+     "image": "https://i.la-croix.com/x/2026/10/24/2571483-hotel-de-ville-du-havre.jpg"
+    }
+   ],
+   "flux_utilise": "https://www.la-croix.com/feeds/rss/site.xml"
+  },
+  {
+   "id": "equipe",
+   "nom": "L'Équipe",
+   "couleur": "#e2001a",
+   "une": {
+    "fichier": "unes/equipe.webp",
+    "date": "2026-10-25",
+    "source": "https://www.frontpages.com/t/2026/10/25/l-equipe-0121195z2@2x.webp"
+   },
+   "articles": [
+    {
+     "titre": "« C'est un peu comme Messi contre Cristiano Ronaldo » : Lamine Yamal-Kylian Mbappé, duel brûlant au coeur du Clasico",
+     "lien": "https://www.lequipe.fr/Football/Article/-c-est-un-peu-comme-messi-contre-cristiano-ronaldo-lamine-yamal-kylian-mbappe-duel-brulant-au-coeur-du-clasico/1738346#at_medium=RSS_feeds",
+     "resume": "Le premier Clasico de la saison, ce dimanche soir (21 heures) au Camp Nou, offrira un dernier duel sur le terrain entre Lamine Yamal et Kylian Mbappé juste avant la cérémonie, lundi, du Ballon d'Or « France Football ». Que remportera, peut-être, l'un des…",
+     "date": "2026-10-25T05:47:00+01:00",
+     "source": "",
+     "image": "https://medias.lequipe.fr/img-photo-jpg/lamine-yamal-et-kylian-mbappe-s-affrontent-dimanche-soir-au-camp-nou-montage-l-equipe/1500000002632055/0:0,1500:1000-828-552-75/0fbea.jpg"
+    },
+    {
+     "titre": "« Ici, c'est une piste de fans » : comment Austin a permis à la F1 de conquérir l'Amérique",
+     "lien": "https://www.lequipe.fr/Formule-1/Article/-ici-c-est-une-piste-de-fan-comment-austin-a-permis-a-la-f1-de-conquerir-l-amerique/1738419#at_medium=RSS_feeds",
+     "resume": "C'est sur le circuit texan qu'en 2012 la F1 a discrètement lancé la reconquête de l'Amérique, cinq ans après avoir déserté le pays dans la quasi-indifférence. Quatorze ans plus tard, le « Circuit des Amériques » s'est transformé et a pris de l'ampleur, à…",
+     "date": "2026-10-25T05:45:00+01:00",
+     "source": "",
+     "image": "https://medias.lequipe.fr/img-photo-jpg/le-premier-virage-le-turn-1-en-haut-d-une-ligne-droite-avec-un-denivele-de-41-metres-et-11-de-pente-est-toujours-aussi-iconique-xpb-icon-sport/1500000002632204/0:0,918:612-828-552-75/ef89d.jpg"
+    },
+    {
+     "titre": "La sonorisation de l'arbitrage, fausse bonne idée qui n'apporte pas plus d'explications aux décisions du VAR et contribue à sortir les arbitres de leur rôle",
+     "lien": "https://www.lequipe.fr/Football/Article/La-sonorisation-de-l-arbitrage-fausse-bonne-idee-qui-n-apporte-pas-plus-d-explications-aux-decisions-du-var-et-contribue-a-sortir-les-arbitres-de-leur-role/1738462#at_medium=RSS_feeds",
+     "resume": "Généralisée cette saison, la sonorisation des arbitres se réduit à un gadget qui n'apporte aucune explication, et qui peut avoir des effets négatifs en les exposant toujours davantage.",
+     "date": "2026-10-25T05:41:00+01:00",
+     "source": "",
+     "image": "https://medias.lequipe.fr/img-photo-jpg/apres-appel-du-var-mathieu-vernice-n-a-finalement-pas-accorde-de-penalty-a-lens-samedi-face-au-paris-fc-2-1-e-garnier-l-equipe/1500000002632342/0:0,1500:1000-828-552-75/e88f4.jpg"
+    },
+    {
+     "titre": "Entre tauliers à gérer, équipe type à dénicher et des blessures en pagaille, Davide Ancelotti cherche encore la bonne carburation à Lille",
+     "lien": "https://www.lequipe.fr/Football/Article/Entre-tauliers-a-gerer-equipe-type-a-denicher-et-des-blessures-en-pagaille-davide-ancelotti-cherche-encore-la-bonne-carburation-a-lille/1738431#at_medium=RSS_feeds",
+     "resume": "En dépit de sa quatrième place en Ligue 1, le LOSC ne montre pas grand-chose dans le jeu cette saison, surtout en Coupe d'Europe. Et la patte de son nouvel entraîneur italien tarde à se faire sentir.",
+     "date": "2026-10-25T05:31:00+01:00",
+     "source": "",
+     "image": "https://medias.lequipe.fr/img-photo-jpg/davide-ancelotti-lors-du-match-contre-arsenal-3-0-le-13-octobre-p-lahalle-l-equipe/1500000002632227/0:0,2000:1333-828-552-75/ececb.jpg"
+    },
+    {
+     "titre": "Extraordinaire en C1 le mardi et sorti à la mi-temps en Premier League le samedi : avec Rayan Cherki, c'est tout ou rien cette saison à Manchester City",
+     "lien": "https://www.lequipe.fr/Football/Actualites/Sorti-a-la-mi-temps-lors-d-aston-villa-manchester-city-rayan-cherki-a-une-nouvelle-fois-montre-qu-avec-lui-c-etait-tout-ou-rien-cette-saison/1738448#at_medium=RSS_feeds",
+     "resume": "Quatre jours après une prestation majuscule en Ligue des champions contre l'AEK Athènes (5-1), Rayan Cherki a été sorti à la mi-temps ce samedi lors de la défaite de Manchester City sur la pelouse d'Aston Villa (1-2). Et a confirmé une tendance : depuis le…",
+     "date": "2026-10-25T05:26:00+01:00",
+     "source": "",
+     "image": "https://medias.lequipe.fr/img-photo-jpg/rayan-cherki-a-ete-sorti-a-la-mi-temps-par-son-entraineur-enzo-maresca-m-rickett-icon-sport/1500000002632273/7:7,728:487-828-552-75/6e642.jpg"
+    },
+    {
+     "titre": "Repris par Lens dans la dernière demi-heure, le Paris FC n'est pas encore prêt à jouer les premiers rôles en Ligue 1",
+     "lien": "https://www.lequipe.fr/Football/Actualites/Repris-par-lens-dans-la-derniere-demi-heure-le-paris-fc-n-est-pas-encore-pret-a-jouer-les-premiers-roles-en-ligue-1/1738469#at_medium=RSS_feeds",
+     "resume": "Devant au score à la pause après avoir beaucoup subi, les joueurs du Paris FC ont craqué en fin de match (2-1) et ont manqué l'occasion de prendre seuls la première place au classement. Il leur reste du travail.",
+     "date": "2026-10-25T00:40:17+02:00",
+     "source": "",
+     "image": "https://medias.lequipe.fr/img-photo-jpg/les-parisiens-de-lassine-sinayoko-ont-mene-au-score-a-lens-avant-de-craquer-e-garnier-l-equipe/1500000002632350/381:354,1555:1138-828-552-75/33c98.jpg"
+    }
+   ],
+   "flux_utilise": "https://dwh.lequipe.fr/api/edito/rss?path=/"
+  }
+ ],
+ "sections": [
+  {
+   "id": "monde",
+   "titre": "Actualité principale",
+   "sous_titre": "Les informations les plus importantes, partout dans le monde",
+   "items": [
+    {
+     "titre": "\"Les cortèges se sont bien passés\", affirme Laurent Nuñez, qui recense près de 1 000 interpellations",
+     "lien": "https://www.france24.com/fr/france/20261024-les-cort%C3%A8ges-se-sont-bien-pass%C3%A9s-d%C3%A9clare-nu%C3%B1ez-qui-comptabilise-pr%C3%A8s-de-1-000-interpellations",
+     "resume": "Entre 410 000 et 800 000 personnes ont défilé lors de la mobilisation sociale en France, samedi 24 octobre. Si le ministre de l'Intérieur Laurent Nuñez a estimé que \"les cortèges se sont bien passés\", il a recensé près de 1 000 interpellations.",
+     "date": "2026-10-24T22:24:19+02:00",
+     "source": "© Thibault Camus, AP",
+     "image": "https://s.france24.com/media/display/9b2132ac-cfe7-11f1-b4e6-4b25c96ec90e/w:1024/p:16x9/AP26297483587746.jpg",
+     "reprises": 5,
+     "score": 16.52
+    },
+    {
+     "titre": "En Cisjordanie, environ 2 000 Palestiniens déplacés par l’armée israélienne après la mort de deux soldats ; l’Etat hébreu annonce un bouclage du territoire mardi",
+     "lien": "https://www.lemonde.fr/international/article/2026/10/25/en-cisjordanie-environ-2-000-palestiniens-deplaces-par-l-armee-israelienne-apres-la-mort-de-deux-soldats-l-etat-hebreu-annonce-un-bouclage-du-territoire-mardi_6799712_3211.html",
+     "resume": "Benyamin Nétanyahou avait annoncé, vendredi, une opération militaire majeure en Cisjordanie, quelques heures après une attaque meurtrière à un checkpoint près de Hébron, durant laquelle deux soldats israéliens ont été tués.",
+     "date": "2026-10-25T04:45:53+01:00",
+     "source": "lemonde.fr",
+     "image": "https://img.lemde.fr/2026/10/24/684/0/8192/4096/644/322/60/0/4ea2329_ftp-1-vrqxbf6cjefm-afp-d4ax3e3.jpg",
+     "reprises": 6,
+     "score": 12.79
+    },
+    {
+     "titre": "Au Brésil, Lula et Flavio Bolsonaro sont au coude-à-coude après une campagne de l’entre-deux-tours à couteaux tirés",
+     "lien": "https://www.lemonde.fr/international/article/2026/10/25/au-bresil-lula-et-flavio-bolsonaro-sont-au-coude-a-coude-apres-une-campagne-de-l-entre-deux-tours-a-couteaux-tires_6799995_3210.html",
+     "resume": "En retard sur le candidat d’extrême droite à l’issue du premier tour de la présidentielle, le 4 octobre, le président a depuis bénéficié de la mobilisation massive de ses partisans. Et a pris quelques mesures de dernière minute pour tenter de remporter un…",
+     "date": "2026-10-25T05:00:13+01:00",
+     "source": "lemonde.fr",
+     "image": "https://img.lemde.fr/2026/10/22/753/0/7944/3972/644/322/60/0/d1be180_ftp-1-xyq40xbaweqn-afp-d448237.jpg",
+     "reprises": 6,
+     "score": 12.5
+    },
+    {
+     "titre": "Yémen : les Houthis revendiquent des attaques en Arabie saoudite et à Aden",
+     "lien": "https://www.france24.com/fr/moyen-orient/20261024-cisjordanie-l-arm%C3%A9e-isra%C3%A9lienne-d%C3%A9place-des-palestiniens-%C3%A0-h%C3%A9bron-apr%C3%A8s-une-attaque-meurtri%C3%A8re",
+     "resume": "Les ⁠combattants houthis ont ​affirmé avoir lancé samedi des ​attaques contre des installations pétrolières et des aéroports saoudiens. La ‌coalition dirigée par l'Arabie ⁠saoudite, qui combat le groupe ‌yéménite allié de l'Iran, a dit ⁠avoir intercepté des…",
+     "date": "2026-10-24T20:17:32+02:00",
+     "source": "© AFP",
+     "image": "https://s.france24.com/media/display/1192dd1a-cfd3-11f1-97a7-bdb9616e85cf/w:1024/p:16x9/King-Khalid-International-Airport.jpg",
+     "reprises": 4,
+     "score": 7.86
+    },
+    {
+     "titre": "Guerre en Ukraine : des frappes russes dans les régions de Dnipropetrovsk et de Kharkiv font quatre morts. Retrouvez les informations du 18 au 24 octobre.",
+     "lien": "https://www.lemonde.fr/international/live/2026/10/25/en-direct-guerre-en-ukraine-au-moins-quatre-morts-dans-des-frappes-russes-dans-les-regions-de-dnipropetrovsk-et-de-kharkiv_6796922_3210.html",
+     "resume": "Une personne a été tuée et quatre autres ont été blessées dans une attaque ayant visé la ville ukrainienne de Kharkiv, dans le nord-est du pays, a annoncé Oleh Synehoubov, chef de l’administration militaire régionale, dans la nuit de samedi à dimanche.",
+     "date": "2026-10-25T01:00:49+02:00",
+     "source": "lemonde.fr",
+     "image": "https://img.lemde.fr/2026/10/23/145/0/6000/3000/644/322/60/0/190a159_ftp-1-mht8qwc7behq-8e25412aae66497f806d6c49cd90786b-1-046d3fe5da0d4c2aa7fae7f33701a472.jpg",
+     "reprises": 3,
+     "score": 6.65
+    },
+    {
+     "titre": "Le dirigeant Kim Jong Un de retour en Corée du Nord après une brève visite à la frontière chinoise",
+     "lien": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxQc1QxR0xmeU9FbHVxTzBpV0w1TFFCOEpLM2pJWXNBREFBZnhzRVRxMnBmWUotXzR1VEFCUVFfX3M2QUNXSXNVRjRXS1V2T0lnX2NYUlBDd3dtRUE0YjdtTURBSkxwX3VBUEtnU3JHYjgxbFhJdnJ6RFZNNmp2SVl4aU5qVUk2dWJYajlpVWpxdEJmT2h6b0NTcFlYR3BzZGJDd2pTbjNkRjMxWWxRY1JIX3FkYmtCaFliR1I3ZkxjcmxDZjFmTXphcVJuTVVyb2daY0ZfNDFBQ1lKT00xeGtBZ2l0aGwyQQ?oc=5",
+     "resume": "",
+     "date": "2026-10-24T14:31:43+02:00",
+     "source": "tv5monde",
+     "image": null,
+     "reprises": 2,
+     "score": 6.26
+    }
+   ],
+   "a_traduire": []
+  },
+  {
+   "id": "ia",
+   "titre": "Intelligence artificielle",
+   "sous_titre": "Modèles, entreprises, régulation, recherche",
+   "items": [
+    {
+     "titre": "OpenAI reprend la formation en IA de pointe après une refonte de ses mesures de sécurité et révèle une faille",
+     "lien": "https://news.google.com/rss/articles/CBMiygJBVV95cUxQVmthSVpyaXl1clN6bG1aUEJ1QmQ5VTRfZmEzVV9hOG9JSksyTEJwckpQc09aWHdZOG8xcHY1NW1vc3JYSVV0WVZVTkc0NEYtSHVWLXk0elVwalJiZ0IxUm1RMS1BNlFzbWNJLTl0Y2RGcmJiOTRHVjRwSE5sSXFsMTYtVldvRFFIWFg4ZTNIeENIeWo1bVJiZVJFSkFRaWVRTHNlWmhsSmRKVjNHdmxYYTk3RTdmS1FVVnZ1V01meEJBVHB4QVVtcUozMUhpU2Q4VndjcEZISWNhbWJsMVl5eUNHMzJqT19yNGdPYm1JdzZBZEJ3QWtyRl9vV1huSW9iS0dEaW5SaTdiNXI4b3gwV09aWnNOUzA0YVVCRmJ6VVFud2JnUXU5Y0kzcmZPS2NNWU9EaUV5NWR1OEFlMGVadjZjbWpfdGV1dEHSAcoCQVVfeXFMUFZrYUlacml5dXJTemxtWlBCdUJkOVU0X2ZhM1VfYThvSUpLMkxCcHJKUHNPWlh3WThvMXB2NTVtb3NyWElVdFlWVU5HNDRGLUh1Vi15NHpVcGpSYmdCMVJtUTEtQTZRc21jSS05dGNkRnJiYjk0R1Y0cEhObElxbDE2LVZXb0RRSFhYOGUzSHhDSHlqNW1SYmVSRUpBUWllUUxzZVpobEpkSlYzR3ZsWGE5N0U3ZktRVVZ2dVdNZnhCQVRweEFVbXFKMzFIaVNkOFZ3Y3BGSEljYW1ibDFZeXlDRzMyak9fcjRnT2JtSXc2QWRCd0FrckZfb1dYbklvYktHRGluUmk3YjVyOG94MFdPWlpzTlMwNGFVQkZielVRbndiZ1F1OWNJM3JmT0tjTVlPRGlFeTVkdThBZTBlWnY2Y21qX3RldXRB?oc=5",
+     "resume": "",
+     "date": "2026-10-24T02:50:24+02:00",
+     "source": "Boursorama",
+     "image": null,
+     "reprises": 2,
+     "score": 5.11
+    },
+    {
+     "titre": "Confiner l'IA devient un casse-tête : après sa pause de 11 jours, OpenAI explique pourquoi couper Internet ne suffit pas",
+     "lien": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxNbWd3UU1XOEdibG8wbHpDYUxldVVaYUtyOGtaREVhdmRVSUVPV1gwNnd1bUUxNnhMTXVrd1JESXcwSmFfSUpSRlF5blpMTUwwelp2R0ctUlc5TTRoNTFLWkxLbmx1R0M1TXI4OHVydjhwR0p3Wm05dThJeG54aU9XLVNRLWtBY3BzXzBjaGYxSjBlaGFKWlRQNmZQenRoQ1FaLXVZN29mbVRHd29nVzc0anpWSURJSlRBYWZhVHNocWRfcDZsN1FoRzc1RlI2bVFydU1zX0pmTURJaXhLRXVOeHlZRWxWMzRwSzViR0R5cmxBdw?oc=5",
+     "resume": "Comment empêcher des IA de franchir les limites qu’on leur impose ? OpenAI détaille ses protections après plusieurs incidents survenus récemment. Ses tests montrent notamment que des agents peuvent communiquer sans réseau, en détournant le matériel qu’ils…",
+     "date": "2026-10-24T10:05:47+02:00",
+     "source": "Numerama",
+     "image": null,
+     "reprises": 2,
+     "score": 3.44
+    },
+    {
+     "titre": "Jon Hernández, expert en intelligence artificielle : « Les gens utilisent ChatGPT pour rechercher des connaissances, comme s’il s’agissait de Google, et c’est leur plus grande erreur.",
+     "lien": "https://news.google.com/rss/articles/CBMiugJBVV95cUxNbnpUc04xaTRqZXY3azVHOFkyX3VpeDlqamg0WlRZQVg3TGVqOWU1MFN2UWJ0MWM5OERnclRiT0RxVTFITFI5UTNURmxjZGRzWmUyYlRMcWdHTDFjdkIzcHZERmxNQlF2TnRLMXQ1MjZMaFdzc3I4d3kzbEhtRDRHWTdTcFcwVEhyYnM1cGZ2M1JRYXVGbC1YejZQalRuSXBvcVUycW9FVnBaQXVlWjBCNFpKT2pVSXdqSG5ONWhfeG9vNXU4c3RTWnFiZzFKRWFVUGp4dzRZcnNQVnJYOVNIQzJoMkttaW5vY0kyRFdCSXBMWlhTbVZXcndhcUlPcmF5NVlDaGNNZV9SWDNmaXBWbDJrenRsSlgyTjVkbFR5MTFxbFYwdlZ3MHJhSk43cm1rTFdpMlRhY2VOUQ?oc=5",
+     "resume": "",
+     "date": "2026-10-24T19:00:52+02:00",
+     "source": "La Crème Du Gaming",
+     "image": null,
+     "reprises": 1,
+     "score": 2.98
+    },
+    {
+     "titre": "Course à l’IA : OpenAI évoque les trois issues possibles, dont une fin « terrible »",
+     "lien": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQYnM4cUZ6cXZmR3ZMZFVIdU5YTHNUNjVLZDFHOTJKVWpCY0M1TU9mNzhWSjNHMF96Yy1nMEFSTTFXLUlabERYcGlkcnFLTFB5Ul9xZEhvNlRmbmRGbWgtVXRPa05iMEpaOU0xb1BNUVhyN04wSEs4TzdHXzdsQnU3b0lFOTN5cXVGblpRY1Q0QzZUNHRTNnVIeTI0LVFRLTVfaTgxc1hPUGNhM1E2RzhSMEVhcw?oc=5",
+     "resume": "",
+     "date": "2026-10-24T13:06:49+02:00",
+     "source": "01net.com",
+     "image": null,
+     "reprises": 1,
+     "score": 2.98
+    },
+    {
+     "titre": "Mistral AI : quel poids face aux géants américains et chinois ?",
+     "lien": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPSnFVUU80SUV4cEYybUJKUHlvTDRtLXF6d053RGJyQmNnYUNOWE5hZmpnSHM2eHJmSXpUQ01lX0ZucndzVmxQN0t6RGU0UlVKaHJHT2xRcFFBRUVmd3dXc3J4SnlKVlIyd01nUHIzZTh4cGF2Y0RLRUUxX0ZyS2RoM2VMMWMyWXN6d2ZEUA?oc=5",
+     "resume": "",
+     "date": "2026-10-24T10:01:23+02:00",
+     "source": "Major Prépa",
+     "image": null,
+     "reprises": 1,
+     "score": 2.48
+    }
+   ],
+   "a_traduire": [
+    {
+     "titre": "OpenAI now trains its frontier AI models with no internet access",
+     "lien": "https://www.theverge.com/ai-artificial-intelligence/1018021/openai-training-top-ai-models-no-internet",
+     "resume": "OpenAI is now training its most advanced AI models without internet access following a string of rogue hacking incidents. In a blog post on Friday, OpenAI says it built an offline testing environment where AI models can interact with indexed and cached web…",
+     "date": "2026-10-23T23:11:07+02:00",
+     "source": "theverge.com",
+     "image": null,
+     "reprises": 2,
+     "score": 3.0
+    },
+    {
+     "titre": "Blue Planet III is keeping the rough edges in the age of AI",
+     "lien": "https://www.theverge.com/ai-artificial-intelligence/1018205/blue-planet-iii-authentic-organic-ai",
+     "resume": "BBC's Blue Planet III is looking to prove its authenticity by leaving in the less-than-perfect shots. Previous incarnations of the nature series were defined by their gorgeous, crystal-clear footage that seemed almost too good to be real. But one dead…",
+     "date": "2026-10-24T23:29:12+02:00",
+     "source": "theverge.com",
+     "image": null,
+     "reprises": 1,
+     "score": 1.47
+    },
+    {
+     "titre": "The AI graveyard: a running list of projects and startups that didn’t make it",
+     "lien": "https://techcrunch.com/2026/10/24/the-ai-graveyard-a-running-list-of-projects-and-startups-that-didnt-make-it/",
+     "resume": "From Apple's repeatedly delayed Siri AI to OpenAI's messy \"super app\" launch, here's a look at the AI projects that shut down or missed expectations.",
+     "date": "2026-10-24T21:00:00+02:00",
+     "source": "techcrunch.com",
+     "image": null,
+     "reprises": 1,
+     "score": 1.43
+    },
+    {
+     "titre": "Amazon a utilisé un outil d'intelligence artificielle pour évaluer le risque de syndicalisation dans ses entrepôts canadiens - The Globe and Mail",
+     "lien": "https://news.google.com/rss/articles/CBMid0FVX3lxTFAxemNjM1NtdW53UHk0NW5zNkg5dnNJMUZWZEVwcjVpMktEdXFQeThId1hDSUJNcDFOOXF4X1JSV0VxRWVDY1dFa1NORjJyN253YzJhbks1UmtqbENRQ3RCT2NBUTdjOVhON2NkSXoxT2k2Mld4VFlN?oc=5",
+     "resume": "",
+     "date": "2026-10-24T09:03:41+02:00",
+     "source": "TradingView",
+     "image": null,
+     "reprises": 1,
+     "score": 1.23
+    },
+    {
+     "titre": "Here are the top AI agents that can live in your text messages",
+     "lien": "https://techcrunch.com/2026/10/24/all-the-ai-agents-that-can-live-in-your-text-messages/",
+     "resume": "We created a list of the most notable AI agents that can live in your text messages, from general assistants to agents designed for families, travel, and work.",
+     "date": "2026-10-24T16:00:00+02:00",
+     "source": "techcrunch.com",
+     "image": null,
+     "reprises": 1,
+     "score": 1.22
+    }
+   ]
+  },
+  {
+   "id": "droit",
+   "titre": "Actualité juridique",
+   "sous_titre": "Libertés fondamentales, grandes juridictions, culture juridique pour le CRFPA",
+   "items": [
+    {
+     "titre": "Gel des tarifs santé : le Conseil constitutionnel a tranché",
+     "lien": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxNV1o0bS1oVGtDclhXQXJMTWtmc1plNWFaMC1nR3pxVlEyRkZUYk1UMDBIYW5faU80VEVaTW9xSTFUSVNGLVU0MFRIMEhJbGI5cWdKU2RmX1p3SElYSnVGUVRVTjNwZHJZSC1jZkVKU09hOXJmbkU2YlpWX251d0YtV2xQa0ZIdVE0MndlNWhpdkliZGxrd0Q0bW90NWdsdTJibnR0WkhvVWs0T0p0WU5nNTc1NHhPUVVnWHhpUFZYRzYyQ0t5OTc5M2ZtRjhVYmVoMDVsUFYxMEhTc1ZLemxN?oc=5",
+     "resume": "",
+     "date": "2026-10-23T10:17:45+02:00",
+     "source": "L'Argus de l'assurance",
+     "image": null,
+     "reprises": 33,
+     "score": 65.35,
+     "libertes": true
+    },
+    {
+     "titre": "Interdiction de manifester : le Conseil d'État rejette les recours après les déclarations d'Emmanuel Macron",
+     "lien": "https://news.google.com/rss/articles/CBMijAJBVV95cUxPUmhKTUVic0UtN2ZMMC1zLWdxY3hrRmdJcG1xc0pORzZ0U3pMNFhWcVNFQ2ZEOE9oeUxlRFZ3REtxUTNHbnpReXRHWW1rdnZYM2NmOGNWSVN3QVFlRzlZM0lRWUU3OEhQYUk1T3dUWmF6dDNNTzdjMkNsV0lCZEVRLTZ6N21lM29YNUg3TWhlQzRDUm1UX2loekZONW1TLUstTWJBUmNiR09BSUJuZVhMNnNzRWRwVHZ6OHdNQWxXTWtpM3hERUVJT0QtczcwWVRmbmtGODJGeXkxU1FFM1BDOFNQNGRQT1BMQTB1bmFVMWRLZm9VbWxma0diNUJGbTZBUGdUT01veFNkTkhG?oc=5",
+     "resume": "",
+     "date": "2026-10-24T08:08:55+02:00",
+     "source": "Orange Actualités",
+     "image": null,
+     "reprises": 4,
+     "score": 8.11,
+     "libertes": false
+    },
+    {
+     "titre": "Tròp Violans dénonce un « acharnement judiciaire » après deux décisions de la Cour de cassation",
+     "lien": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxNbjBlandnaGtQaDdHTHdHTG9yaU45THhDSzBmcjczSWloQnZOLTZyM3RoSVhyNDAzMUxMcVR1eE9CQUFjWWxLYmFzcUlncF9pcWJydllvSzdCOGtQT0U2aFhiNE14RzFPZFNjNEtGR1lpMjU3X1o1QnNqWnE2c0NvZndwYnlYU3dXZ3VzVTJ0Tmw0cUYyajJhV1NEZXJCUnN1TEttN3p4VVJkQ3VydEFVNFNzN2FTV19vczVDT3lfQ01xd2hfbVJfVzdiaHRobHM2Q3E3aFRQUQ?oc=5",
+     "resume": "",
+     "date": "2026-10-24T13:00:03+02:00",
+     "source": "Outre-mer La 1ère",
+     "image": null,
+     "reprises": 3,
+     "score": 5.85,
+     "libertes": false
+    },
+    {
+     "titre": "Florange. A La Passerelle, la liberté d’expression jette un pont entre les générations",
+     "lien": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNM3Npcms4SjVvS0hYWGlXRk1CaU9VWmF2bXhxUkNxQ3psWHJkYjRFRk9KSEdjU3Nudi05N3lXeWRza3ROOTI3Tm5leVV3TTI2bUFtb3RaWVhEMk1KNkJ1YXBzNGE1UEp0U0JxYzhWc0MxRUJGZXZLaFNtWGZYV1pWVXNmenNpakZsNjhKenlDME1xckJQWGdtbkY0Y3lJLXphVFkzYXdLTEx6WldzOGY0amx0MnNISlg2OTUtVFYtSUduV1dzNk9MX1k5TmJyYUpKVDVF?oc=5",
+     "resume": "",
+     "date": "2026-10-25T06:00:10+01:00",
+     "source": "Le Republicain Lorrain",
+     "image": null,
+     "reprises": 2,
+     "score": 5.06,
+     "libertes": true
+    },
+    {
+     "titre": "La CEDH a rejeté les plaintes de cinq juges concernant le paiement échelonné d’arriérés salariaux obtenus en justice",
+     "lien": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPel93WVYzZ09XcUtleTJGMEJJY3RIYUY2eHVuSGtUREdobWRiOWZ4UFVDS0k0dmo4LWZoTnFDS2tVbTE2WHQ2Ym14SHRIVDZmM0JmQkVxRGNNd0V4ZE9MSnhCb29acC03dG5xWnUzdy1KWG1WRVQ5aHlBWm1laXJKMElfWXdid0RBLTlyZ0tZN000ejlrb0pWY3ZUbjlwcDZrQzItNXp0QkRYUUxXX0RZci0wcndISGRJSnc?oc=5",
+     "resume": "",
+     "date": "2026-10-22T11:24:30+02:00",
+     "source": "Informat.ro",
+     "image": null,
+     "reprises": 1,
+     "score": 4.36,
+     "libertes": true
+    },
+    {
+     "titre": "CEDH : la Suisse condamnée dans l'affaire Brian K., alias «Carlos»",
+     "lien": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNVlVhdkM0ZnhRVndyemEyNXBlZjFpamJqM1I3SmhUVTNFOURoaTZZOVltWWFma0VNS3JEXzRNNU85OGM1SkZwYnI5YmNkTk5jdnRDdUlGd1ZrcS1jMDZDVDJ5dnpwSEtjSDVVeGhlQ2syM1VSSFBUWmdRSWY2Um9PZzlrWlVUQlpja1FrWHZ6RHRLbE5QdXdpZnFXclNYTDI3RS1qQjVzellNckVzaHlXMktBajgzSW00TVE?oc=5",
+     "resume": "",
+     "date": "2026-10-22T14:18:10+02:00",
+     "source": "rts.ch",
+     "image": null,
+     "reprises": 2,
+     "score": 2.98,
+     "libertes": true
+    }
+   ],
+   "a_traduire": []
+  }
+ ]
+}
