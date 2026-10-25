@@ -1,6 +1,6 @@
 {
  "date": "2026-10-25",
- "genere": "2026-10-25T06:57+01:00",
+ "genere": "2026-10-25T07:42+01:00",
  "journaux": [
   {
    "id": "figaro",
@@ -90,12 +90,12 @@
      "image": "https://img.lemde.fr/2026/10/24/954/0/6240/3120/644/322/60/0/8d26038_upload-1-izzv81mmyl7v-10-trappes-attentat-raciste-hleuqeux-dsc5500.jpg"
     },
     {
-     "titre": "A Orléans, le Rassemblement national tient son congrès sous haute tension et sans suspense",
-     "lien": "https://www.lemonde.fr/politique/article/2026/10/24/a-orleans-le-rassemblement-national-tient-son-congres-sous-haute-tension-et-sans-suspense_6799729_823448.html",
-     "resume": "Sans concurrent, Jordan Bardella a été confirmé président du parti d’extrême droite, samedi 24 octobre, tout en devant adouber des « marinistes », en ouverture d’un lancement de campagne aux allures de camp retranché.",
-     "date": "2026-10-24T21:48:58+02:00",
+     "titre": "A Orléans, une manifestation antifasciste empreinte de gravité et marquée par la division des gauches",
+     "lien": "https://www.lemonde.fr/politique/article/2026/10/25/a-orleans-une-manifestation-antifasciste-empreinte-de-gravite-et-marquee-par-la-division-des-gauches_6799962_823448.html",
+     "resume": "L’attentat raciste de Trappes et l’urgence de s’unir contre l’extrême droite étaient dans tous les esprits à la manifestation de samedi contre le congrès du RN, dans la ville du Loiret. Mais les dissensions restent fortes entre les gauches.",
+     "date": "2026-10-25T05:00:11+01:00",
      "source": "",
-     "image": "https://img.lemde.fr/2026/10/25/962/365/2076/1038/644/322/60/0/820eda8_upload-1-o57svszztdre-rn-orleans-asurp-203043.jpg"
+     "image": "https://img.lemde.fr/2026/10/25/500/0/3000/1500/644/322/60/0/47294b4_upload-1-pn1yedwofppk-manifantifa-orleans-asurp-101503.jpg"
     },
     {
      "titre": "A Gaza, au Liban et en Syrie, comment Israël utilise les « zones tampons » pour étendre sa domination régionale",
@@ -130,8 +130,8 @@
    "couleur": "#c8102e",
    "une": {
     "fichier": "unes/croix.jpg",
-    "date": "2026-10-24",
-    "source": "https://img.kiosko.net/2026/10/24/fr/lacroix.750.jpg"
+    "date": "2026-10-25",
+    "source": "https://img.kiosko.net/2026/10/25/fr/lacroix.750.jpg"
    },
    "articles": [
     {
@@ -190,11 +190,43 @@
    "nom": "L'Équipe",
    "couleur": "#e2001a",
    "une": {
-    "fichier": "unes/equipe.webp",
+    "fichier": "unes/equipe.jpg",
     "date": "2026-10-25",
-    "source": "https://www.frontpages.com/t/2026/10/25/l-equipe-0121195z2@2x.webp"
+    "source": "https://img.kiosko.net/2026/10/25/fr/l_equip.750.jpg"
    },
    "articles": [
+    {
+     "titre": "La nuit des Français en NBA : un duel de premier de la draft entre Risacher et Wembanyama, Alexandre Sarr et Bilal Coulibaly utiles aux Washington Wizards",
+     "lien": "https://www.lequipe.fr/Basket/Video/Nba-la-nuit-des-francais-en-nba-un-duel-de-premier-de-la-draft-entre-risacher-et-wembanyama-alexandre-sarr-et-bilal-coulibaly-utiles-aux-washington-wizards/20244016#at_medium=RSS_feeds",
+     "resume": "",
+     "date": "2026-10-25T07:09:00+01:00",
+     "source": "",
+     "image": "https://medias.lequipe.fr/img-photo-png/-/1500000000833469/0-828-552-75/0cb67.png"
+    },
+    {
+     "titre": "Relevez le défi sport du jour",
+     "lien": "https://www.lequipe.fr/jeux#at_medium=RSS_feeds",
+     "resume": "",
+     "date": "2026-10-25T07:04:00+01:00",
+     "source": "",
+     "image": "https://medias.lequipe.fr/img-photo-png/-/1500000000833469/0-828-552-75/0cb67.png"
+    },
+    {
+     "titre": "« Je me refuse à penser au titre » : Kimi Antonelli ne se met pas la pression à Austin",
+     "lien": "https://www.lequipe.fr/Formule-1/Article/-je-me-refuse-a-penser-au-titre-kimi-antonelli-ne-se-met-pas-la-pression-a-austin/1738369#at_medium=RSS_feeds",
+     "resume": "Pour que le pilote italien de Mercedes soit sacré dès ce week-end à Austin, il faudrait un énorme concours de circonstances : Kimi Antonelli devra s'imposer tout en tablant sur des contre-performances de George Russell et de Lewis Hamilton. Mais tout est…",
+     "date": "2026-10-25T07:00:00+01:00",
+     "source": "",
+     "image": "https://medias.lequipe.fr/img-photo-jpg/a-austin-kimi-antonelli-a-deja-une-occasion-d-etre-titre-il-devra-compter-125-points-d-avance-sur-ses-rivaux-a-l-issue-du-gp-des-ameriques-pour-ne-plus-pouvoir-etre-rejoint-lors-des-cinq-dernieres-manches-a-mounic-l-equipe/1500000002632107/0:0,2000:1333-828-552-75/faf45.jpg"
+    },
+    {
+     "titre": "Première victoire de la saison pour les San Antonio Spurs, Victor Wembanyama passe une bonne soirée contre une équipe de Dallas diminuée",
+     "lien": "https://www.lequipe.fr/Basket/Actualites/Premiere-victoire-de-la-saison-pour-les-san-antonio-spurs-victor-wembanyama-passe-une-bonne-soiree-contre-une-equipe-de-dallas-diminuee/1738472#at_medium=RSS_feeds",
+     "resume": "Les absences de Cooper Flagg (épaule) et Kyrie Irving (ménagé) ont largement affaibli les Dallas Mavericks samedi soir à domicile. Ce qui a permis aux San Antonio Spurs de Victor Wembanyama (23 points, 7 rebonds) d'aller chercher chez leur voisin leur…",
+     "date": "2026-10-25T06:50:23+01:00",
+     "source": "",
+     "image": "https://medias.lequipe.fr/img-photo-png/-/1500000000833469/0-828-552-75/0cb67.png"
+    },
     {
      "titre": "Le résumé vidéo de Dallas Mavericks - San Antonio Spurs et la première victoire des Spurs de Victor Wembanyama pour la saison 2026-2027",
      "lien": "https://www.lequipe.fr/Basket/Video/Nba-nba-le-resume-video-de-dallas-mavericks-san-antonio-spurs-et-la-premiere-victoire-des-spurs-de-victor-wembanyama-pour-la-saison-2026-2027/20244015#at_medium=RSS_feeds",
@@ -210,38 +242,6 @@
      "date": "2026-10-25T05:47:00+01:00",
      "source": "",
      "image": "https://medias.lequipe.fr/img-photo-jpg/lamine-yamal-et-kylian-mbappe-s-affrontent-dimanche-soir-au-camp-nou-montage-l-equipe/1500000002632055/0:0,1500:1000-828-552-75/0fbea.jpg"
-    },
-    {
-     "titre": "« Ici, c'est une piste de fans » : comment Austin a permis à la F1 de conquérir l'Amérique",
-     "lien": "https://www.lequipe.fr/Formule-1/Article/-ici-c-est-une-piste-de-fan-comment-austin-a-permis-a-la-f1-de-conquerir-l-amerique/1738419#at_medium=RSS_feeds",
-     "resume": "C'est sur le circuit texan qu'en 2012 la F1 a discrètement lancé la reconquête de l'Amérique, cinq ans après avoir déserté le pays dans la quasi-indifférence. Quatorze ans plus tard, le « Circuit des Amériques » s'est transformé et a pris de l'ampleur, à…",
-     "date": "2026-10-25T05:45:00+01:00",
-     "source": "",
-     "image": "https://medias.lequipe.fr/img-photo-jpg/le-premier-virage-le-turn-1-en-haut-d-une-ligne-droite-avec-un-denivele-de-41-metres-et-11-de-pente-est-toujours-aussi-iconique-xpb-icon-sport/1500000002632204/0:0,918:612-828-552-75/ef89d.jpg"
-    },
-    {
-     "titre": "La sonorisation de l'arbitrage, fausse bonne idée qui n'apporte pas plus d'explications aux décisions du VAR et contribue à sortir les arbitres de leur rôle",
-     "lien": "https://www.lequipe.fr/Football/Article/La-sonorisation-de-l-arbitrage-fausse-bonne-idee-qui-n-apporte-pas-plus-d-explications-aux-decisions-du-var-et-contribue-a-sortir-les-arbitres-de-leur-role/1738462#at_medium=RSS_feeds",
-     "resume": "Généralisée cette saison, la sonorisation des arbitres se réduit à un gadget qui n'apporte aucune explication, et qui peut avoir des effets négatifs en les exposant toujours davantage.",
-     "date": "2026-10-25T05:41:00+01:00",
-     "source": "",
-     "image": "https://medias.lequipe.fr/img-photo-jpg/apres-appel-du-var-mathieu-vernice-n-a-finalement-pas-accorde-de-penalty-a-lens-samedi-face-au-paris-fc-2-1-e-garnier-l-equipe/1500000002632342/0:0,1500:1000-828-552-75/e88f4.jpg"
-    },
-    {
-     "titre": "Entre tauliers à gérer, équipe type à dénicher et des blessures en pagaille, Davide Ancelotti cherche encore la bonne carburation à Lille",
-     "lien": "https://www.lequipe.fr/Football/Article/Entre-tauliers-a-gerer-equipe-type-a-denicher-et-des-blessures-en-pagaille-davide-ancelotti-cherche-encore-la-bonne-carburation-a-lille/1738431#at_medium=RSS_feeds",
-     "resume": "En dépit de sa quatrième place en Ligue 1, le LOSC ne montre pas grand-chose dans le jeu cette saison, surtout en Coupe d'Europe. Et la patte de son nouvel entraîneur italien tarde à se faire sentir.",
-     "date": "2026-10-25T05:31:00+01:00",
-     "source": "",
-     "image": "https://medias.lequipe.fr/img-photo-jpg/davide-ancelotti-lors-du-match-contre-arsenal-3-0-le-13-octobre-p-lahalle-l-equipe/1500000002632227/0:0,2000:1333-828-552-75/ececb.jpg"
-    },
-    {
-     "titre": "Extraordinaire en C1 le mardi et sorti à la mi-temps en Premier League le samedi : avec Rayan Cherki, c'est tout ou rien cette saison à Manchester City",
-     "lien": "https://www.lequipe.fr/Football/Actualites/Sorti-a-la-mi-temps-lors-d-aston-villa-manchester-city-rayan-cherki-a-une-nouvelle-fois-montre-qu-avec-lui-c-etait-tout-ou-rien-cette-saison/1738448#at_medium=RSS_feeds",
-     "resume": "Quatre jours après une prestation majuscule en Ligue des champions contre l'AEK Athènes (5-1), Rayan Cherki a été sorti à la mi-temps ce samedi lors de la défaite de Manchester City sur la pelouse d'Aston Villa (1-2). Et a confirmé une tendance : depuis le…",
-     "date": "2026-10-25T05:26:00+01:00",
-     "source": "",
-     "image": "https://medias.lequipe.fr/img-photo-jpg/rayan-cherki-a-ete-sorti-a-la-mi-temps-par-son-entraineur-enzo-maresca-m-rickett-icon-sport/1500000002632273/7:7,728:487-828-552-75/6e642.jpg"
     }
    ],
    "flux_utilise": "https://dwh.lequipe.fr/api/edito/rss?path=/"
@@ -260,8 +260,8 @@
      "date": "2026-10-25T05:00:13+01:00",
      "source": "lemonde.fr",
      "image": "https://img.lemde.fr/2026/10/22/753/0/7944/3972/644/322/60/0/d1be180_ftp-1-xyq40xbaweqn-afp-d448237.jpg",
-     "reprises": 7,
-     "score": 17.24
+     "reprises": 8,
+     "score": 24.85
     },
     {
      "titre": "\"Les cortèges se sont bien passés\", affirme Laurent Nuñez, qui recense près de 1 000 interpellations",
@@ -271,7 +271,7 @@
      "source": "© Thibault Camus, AP",
      "image": "https://s.france24.com/media/display/9b2132ac-cfe7-11f1-b4e6-4b25c96ec90e/w:1024/p:16x9/AP26297483587746.jpg",
      "reprises": 5,
-     "score": 16.34
+     "score": 15.83
     },
     {
      "titre": "En Cisjordanie, 2 000 Palestiniens déplacés par l’armée israélienne après la mort de deux soldats ; l’Etat hébreu annonce un bouclage du territoire mardi, jour des élections législatives",
@@ -280,18 +280,28 @@
      "date": "2026-10-25T04:45:53+01:00",
      "source": "lemonde.fr",
      "image": "https://img.lemde.fr/2026/10/24/684/0/8192/4096/644/322/60/0/4ea2329_ftp-1-vrqxbf6cjefm-afp-d4ax3e3.jpg",
-     "reprises": 7,
-     "score": 16.24
+     "reprises": 6,
+     "score": 11.93
     },
     {
-     "titre": "Le dirigeant Kim Jong Un de retour en Corée du Nord après une brève visite à la frontière chinoise",
-     "lien": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxQc1QxR0xmeU9FbHVxTzBpV0w1TFFCOEpLM2pJWXNBREFBZnhzRVRxMnBmWUotXzR1VEFCUVFfX3M2QUNXSXNVRjRXS1V2T0lnX2NYUlBDd3dtRUE0YjdtTURBSkxwX3VBUEtnU3JHYjgxbFhJdnJ6RFZNNmp2SVl4aU5qVUk2dWJYajlpVWpxdEJmT2h6b0NTcFlYR3BzZGJDd2pTbjNkRjMxWWxRY1JIX3FkYmtCaFliR1I3ZkxjcmxDZjFmTXphcVJuTVVyb2daY0ZfNDFBQ1lKT00xeGtBZ2l0aGwyQQ?oc=5",
-     "resume": "",
-     "date": "2026-10-24T14:31:43+02:00",
-     "source": "tv5monde",
-     "image": null,
-     "reprises": 3,
-     "score": 7.95
+     "titre": "Législatives en Serbie : Aleksandar Vucic menacé de défaite électorale après quatorze ans au pouvoir",
+     "lien": "https://www.lemonde.fr/international/article/2026/10/25/legislatives-en-serbie-aleksandar-vucic-menace-de-defaite-electorale-apres-quatorze-ans-au-pouvoir_6800045_3210.html",
+     "resume": "Malgré un usage immodéré des ressources administratives pour remporter des législatives très disputées, ce dimanche 25 octobre, le président démissionnaire, qui brigue le poste de premier ministre, apparaît en position délicate. La société civile craint…",
+     "date": "2026-10-25T06:00:09+01:00",
+     "source": "lemonde.fr",
+     "image": "https://img.lemde.fr/2026/10/22/188/0/4332/2166/644/322/60/0/dec29ac_ftp-1-irfk7q5n6qrm-2a0f8acf42b14db4a821f1b58cdc19ae-0-131277667e9c49f5b10fc053ec35c76d.jpg",
+     "reprises": 6,
+     "score": 11.75
+    },
+    {
+     "titre": "En Italie, des manifestations à l’ampleur limitée contre la hausse du coût de la vie après un déploiement massif des forces de l’ordre et de l’armée",
+     "lien": "https://www.lemonde.fr/international/article/2026/10/24/en-italie-des-manifestations-a-l-ampleur-limitee-contre-la-hausse-du-cout-de-la-vie-apres-un-massif-deploiement-de-forces-de-l-ordre_6799731_3210.html",
+     "resume": "Le gouvernement d’extrême droite de la première ministre Giorgia Meloni a approuvé cette semaine des réformes sécuritaires strictes à la suite des violences, qui présentaient des similitudes avec les manifestations en France.",
+     "date": "2026-10-24T22:30:01+02:00",
+     "source": "lemonde.fr",
+     "image": "https://img.lemde.fr/2026/10/24/491/0/5900/2950/644/322/60/0/663d4dd_ftp-1-xgb3obngfkja-2026-10-24t151135z-974136982-rc2r9oaqz5as-rtrmadp-3-italy-protest.JPG",
+     "reprises": 4,
+     "score": 7.55
     },
     {
      "titre": "Yémen : les Houthis revendiquent des attaques en Arabie saoudite et à Aden",
@@ -301,17 +311,7 @@
      "source": "© AFP",
      "image": "https://s.france24.com/media/display/1192dd1a-cfd3-11f1-97a7-bdb9616e85cf/w:1024/p:16x9/King-Khalid-International-Airport.jpg",
      "reprises": 4,
-     "score": 7.65
-    },
-    {
-     "titre": "Guerre en Ukraine : des frappes russes dans les régions de Dnipropetrovsk et de Kharkiv font quatre morts. Retrouvez les informations du 18 au 24 octobre.",
-     "lien": "https://www.lemonde.fr/international/live/2026/10/25/en-direct-guerre-en-ukraine-au-moins-quatre-morts-dans-des-frappes-russes-dans-les-regions-de-dnipropetrovsk-et-de-kharkiv_6796922_3210.html",
-     "resume": "Une personne a été tuée et quatre autres ont été blessées dans une attaque ayant visé la ville ukrainienne de Kharkiv, dans le nord-est du pays, a annoncé Oleh Synehoubov, chef de l’administration militaire régionale, dans la nuit de samedi à dimanche.",
-     "date": "2026-10-25T01:00:49+02:00",
-     "source": "lemonde.fr",
-     "image": "https://img.lemde.fr/2026/10/23/145/0/6000/3000/644/322/60/0/190a159_ftp-1-mht8qwc7behq-8e25412aae66497f806d6c49cd90786b-1-046d3fe5da0d4c2aa7fae7f33701a472.jpg",
-     "reprises": 3,
-     "score": 6.55
+     "score": 7.09
     }
    ],
    "a_traduire": []
@@ -328,8 +328,18 @@
      "date": "2026-10-24T02:50:24+02:00",
      "source": "Boursorama",
      "image": null,
+     "reprises": 3,
+     "score": 6.41
+    },
+    {
+     "titre": "Intelligence artificielle : c’est quoi ce problème « d’alignement », qui fait tant polémique ces derniers mois ?",
+     "lien": "https://news.google.com/rss/articles/CBMiqgJBVV95cUxNbFZmYkQzSWdPS0dfTEJrNm15UkJDNDdiWnA1dC03ZlMtWVM4bTRXTzRyeUNIS0N5TXp5a0lYQVZJd05lbTRmZ3FxNFRiQk5YM205eHk1ODY2aWhOX2lBUXBzSWRySkxmaHJKX2xWQzU5OTgzNmNPZVJBM0J0THRMYVRQU0psVzZNWF9nOWQtYmVadkFTZnVCMy1HQTZ4cG9ubWZXU0piOXJXRTZldUtiY0VocjIxdHdCRGNlMTNrUl9uSElVa240TW9pLXR2S2FVQ3JHRXhTTzlwQWozaENvei1HTTEtTnZrcUZBR1VCX3c0TWgzdmJRZ3pQNUlldEJ2d3p1cUYyWmZtOURoNlBTNUpaaUNvZEFlUkxGd3RQNjFsOEpTbWJMZmh3?oc=5",
+     "resume": "",
+     "date": "2026-10-25T07:00:10+01:00",
+     "source": "Ouest-France",
+     "image": null,
      "reprises": 2,
-     "score": 5.02
+     "score": 3.72
     },
     {
      "titre": "Confiner l'IA devient un casse-tête : après sa pause de 11 jours, OpenAI explique pourquoi couper Internet ne suffit pas",
@@ -339,17 +349,7 @@
      "source": "Numerama",
      "image": null,
      "reprises": 2,
-     "score": 3.41
-    },
-    {
-     "titre": "Jon Hernández, expert en intelligence artificielle : « Les gens utilisent ChatGPT pour rechercher des connaissances, comme s’il s’agissait de Google, et c’est leur plus grande erreur.",
-     "lien": "https://news.google.com/rss/articles/CBMiugJBVV95cUxNbnpUc04xaTRqZXY3azVHOFkyX3VpeDlqamg0WlRZQVg3TGVqOWU1MFN2UWJ0MWM5OERnclRiT0RxVTFITFI5UTNURmxjZGRzWmUyYlRMcWdHTDFjdkIzcHZERmxNQlF2TnRLMXQ1MjZMaFdzc3I4d3kzbEhtRDRHWTdTcFcwVEhyYnM1cGZ2M1JRYXVGbC1YejZQalRuSXBvcVUycW9FVnBaQXVlWjBCNFpKT2pVSXdqSG5ONWhfeG9vNXU4c3RTWnFiZzFKRWFVUGp4dzRZcnNQVnJYOVNIQzJoMkttaW5vY0kyRFdCSXBMWlhTbVZXcndhcUlPcmF5NVlDaGNNZV9SWDNmaXBWbDJrenRsSlgyTjVkbFR5MTFxbFYwdlZ3MHJhSk43cm1rTFdpMlRhY2VOUQ?oc=5",
-     "resume": "",
-     "date": "2026-10-24T19:00:52+02:00",
-     "source": "La Crème Du Gaming",
-     "image": null,
-     "reprises": 1,
-     "score": 2.95
+     "score": 3.39
     },
     {
      "titre": "Course à l’IA : OpenAI évoque les trois issues possibles, dont une fin « terrible »",
@@ -359,17 +359,17 @@
      "source": "01net.com",
      "image": null,
      "reprises": 1,
-     "score": 2.94
+     "score": 2.9
     },
     {
-     "titre": "Mistral AI : quel poids face aux géants américains et chinois ?",
-     "lien": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPSnFVUU80SUV4cEYybUJKUHlvTDRtLXF6d053RGJyQmNnYUNOWE5hZmpnSHM2eHJmSXpUQ01lX0ZucndzVmxQN0t6RGU0UlVKaHJHT2xRcFFBRUVmd3dXc3J4SnlKVlIyd01nUHIzZTh4cGF2Y0RLRUUxX0ZyS2RoM2VMMWMyWXN6d2ZEUA?oc=5",
+     "titre": "« Je n’ai pas la force de lutter contre l’IA » : face aux ravages de l’automatisation, une partie des jeunes se tourne vers des métiers manuels",
+     "lien": "https://news.google.com/rss/articles/CBMirwJBVV95cUxNS1NkcVFjbUt6UXVJb05ybVQxOVMxX2ZiNkF5dndYdUNtYWdkWENUeWR3dm15bFJpaE9vNGstWDN3Yk9UdHpIRkZZelZEbl9Vc0s5T2ljYzlIU0RGSmJLM0dBWmZZSEVBVGM1XzkyWVpfUFdCd3doaW50OUM0cHE4ODJQaHVxNngtLS1QT29IZ29uNU93ZEg1WVMwem5YUDhQLVctbFpZV2FYRHloQVJzX1JYVm9WcW5lOGV5QWpBRFdSZlRJOEpmM3ZlZ2N5ZXNpalJTWnVTc2pFMFBTM3BZZGQtYUZCVUw4QUFNQnZiQVFtMmJKTHYtWVBFUFhKUjFmelU1elB2ZDR0SUlGZU8wWkd5WHFaRmJ4aC1hWU8zTFhjYlFCazdMQWdhYTJreGc?oc=5",
      "resume": "",
-     "date": "2026-10-24T10:01:23+02:00",
-     "source": "Major Prépa",
+     "date": "2026-10-25T05:30:11+01:00",
+     "source": "Le Monde.fr",
      "image": null,
      "reprises": 1,
-     "score": 2.44
+     "score": 1.56
     }
    ],
    "a_traduire": [
@@ -381,7 +381,7 @@
      "source": "theverge.com",
      "image": null,
      "reprises": 2,
-     "score": 2.98
+     "score": 2.95
     },
     {
      "titre": "Blue Planet III is keeping the rough edges in the age of AI",
@@ -391,7 +391,7 @@
      "source": "theverge.com",
      "image": null,
      "reprises": 1,
-     "score": 1.46
+     "score": 1.45
     },
     {
      "titre": "The AI graveyard: a running list of projects and startups that didn’t make it",
@@ -401,7 +401,7 @@
      "source": "techcrunch.com",
      "image": null,
      "reprises": 1,
-     "score": 1.42
+     "score": 1.4
     },
     {
      "titre": "Amazon a utilisé un outil d'intelligence artificielle pour évaluer le risque de syndicalisation dans ses entrepôts canadiens - The Globe and Mail",
@@ -411,7 +411,7 @@
      "source": "TradingView",
      "image": null,
      "reprises": 1,
-     "score": 1.22
+     "score": 1.21
     },
     {
      "titre": "Here are the top AI agents that can live in your text messages",
@@ -421,7 +421,7 @@
      "source": "techcrunch.com",
      "image": null,
      "reprises": 1,
-     "score": 1.2
+     "score": 1.19
     }
    ]
   },
@@ -437,8 +437,8 @@
      "date": "2026-10-23T10:17:45+02:00",
      "source": "L'Argus de l'assurance",
      "image": null,
-     "reprises": 40,
-     "score": 85.12,
+     "reprises": 33,
+     "score": 65.17,
      "libertes": true
     },
     {
@@ -448,8 +448,8 @@
      "date": "2026-10-22T22:08:05+02:00",
      "source": "franceinfo",
      "image": null,
-     "reprises": 4,
-     "score": 8.08,
+     "reprises": 6,
+     "score": 11.98,
      "libertes": true
     },
     {
@@ -460,7 +460,7 @@
      "source": "Outre-mer La 1ère",
      "image": null,
      "reprises": 3,
-     "score": 5.83,
+     "score": 5.81,
      "libertes": false
     },
     {
@@ -471,7 +471,7 @@
      "source": "Le Republicain Lorrain",
      "image": null,
      "reprises": 2,
-     "score": 5.11,
+     "score": 5.03,
      "libertes": true
     },
     {
@@ -482,18 +482,18 @@
      "source": "Informat.ro",
      "image": null,
      "reprises": 1,
-     "score": 2.28,
+     "score": 4.68,
      "libertes": true
     },
     {
-     "titre": "CEDH : la Suisse condamnée dans l'affaire Brian K., alias «Carlos»",
-     "lien": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNVlVhdkM0ZnhRVndyemEyNXBlZjFpamJqM1I3SmhUVTNFOURoaTZZOVltWWFma0VNS3JEXzRNNU85OGM1SkZwYnI5YmNkTk5jdnRDdUlGd1ZrcS1jMDZDVDJ5dnpwSEtjSDVVeGhlQ2syM1VSSFBUWmdRSWY2Um9PZzlrWlVUQlpja1FrWHZ6RHRLbE5QdXdpZnFXclNYTDI3RS1qQjVzellNckVzaHlXMktBajgzSW00TVE?oc=5",
+     "titre": "Manifestations interdites à Gap : l’intersyndicale soutient un référé-liberté contre l’arrêté préfectoral",
+     "lien": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxPdnVqOG5vLUxOdGlidURvMFh4akZtOWZGWExhQjVPakJZWDBpNGh2Qi1jRXVmcmZPRlY4R2tsTUhKM1dja2Nic2l4ZXlzc2x0VG5ENW1BZ1dmdTBjbEhRR0YwVHhCa1ZJdVU1a29HT0xLckpLTFh1bkFBUzY1ZXhzVDZYcFB3WkVCRWdZbFM0aXIwOUR0Q1MyZXJISDZYTE9lRGd0cjJPa09HTzBvMnNpcTZ5Y1A4UUZPVHAwaUNYR0UyajNfV3VtQk9lMTVYbGZ2OExxWXBWZThUN0JVa200akJYeXNFSW9UTk5wNWhNVQ?oc=5",
      "resume": "",
-     "date": "2026-10-22T14:18:10+02:00",
-     "source": "rts.ch",
+     "date": "2026-10-23T17:20:19+02:00",
+     "source": "Alpes 1",
      "image": null,
-     "reprises": 1,
-     "score": 1.05,
+     "reprises": 2,
+     "score": 2.84,
      "libertes": true
     }
    ],
