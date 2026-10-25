@@ -1,121 +1,112 @@
 {
- "date": "2026-10-24",
- "edito": "Journée sous tension : la France se réveille au lendemain de l'attaque de Trappes, qualifiée d'« attentat terroriste raciste » par Emmanuel Macron, et à la veille d'un « Acte II » de mobilisation encadré par 70 000 policiers et gendarmes. En droit, le Conseil constitutionnel censure le gel des cotisations des complémentaires santé au nom de la liberté d'entreprendre.",
+ "date": "2026-10-25",
+ "edito": "L'« Acte II » s'est déroulé sans incidents majeurs : 410 000 manifestants selon l'Intérieur, 800 000 selon la CGT, près de 1 000 interpellations. La veille, le juge des référés du Conseil d'État avait refusé de suspendre les propos d'Emmanuel Macron sur l'interdiction des rassemblements non syndicaux, faute de décision juridiquement établie. Au Brésil, second tour serré entre Lula et Flavio Bolsonaro.",
  "journaux": {
   "figaro": {
-   "resume": "Le Figaro consacre sa une à l'« Acte II » du 24 octobre, vu sous l'angle de l'ordre public et des commerçants.",
+   "resume": "Le Figaro titre sur une journée de mobilisation plus calme, sous haute surveillance.",
    "points": [
-    "La préfecture de police interdit le parcours Bastille-Nation de la manifestation parisienne, pourtant approuvé jeudi.",
-    "Versailles, l'Opéra de Paris et le Louvre ferment totalement ou partiellement samedi.",
-    "Les villes retirent mobilier urbain, poubelles et vélos en libre-service avant les défilés.",
-    "Nice, marquée par les émeutes du 17 octobre, se prépare à « l'Acte II »."
+    "Cortèges calmes, moins de casse, heurts contenus, une semaine après le chaos du 17 octobre.",
+    "Laurent Nuñez salue les forces de l'ordre : 410 000 manifestants selon l'Intérieur, près de 1 000 interpellations.",
+    "Elon Musk accuse l'Ukraine de violer les conditions d'utilisation de Starlink.",
+    "Les « gilets jaunes » annoncent une nouvelle mobilisation le 31 octobre."
    ]
   },
   "monde": {
-   "resume": "Le Monde ouvre sur l'attaque de Trappes et les interrogations sur les motivations du tireur.",
+   "resume": "Le Monde retient une forte mobilisation sans incidents majeurs et fait des révélations sur le tireur de Trappes.",
    "points": [
-    "Trappes : un homme de 26 ans tué, cinq blessés dont une enfant de 12 ans ; Emmanuel Macron parle d'attaque « raciste ».",
-    "Manifestations du 24 octobre : des centaines de défilés attendus, 70 000 policiers et gendarmes déployés.",
-    "Moody's maintient la note de la France à Aa3, contre l'attente de nombreux économistes.",
-    "Orléans attend de 20 000 à 30 000 opposants en marge du congrès du RN."
+    "Près de 410 000 manifestants (800 000 selon la CGT) ont défilé dans le calme samedi.",
+    "Trappes : selon Le Monde, le tireur présumé a dit aux policiers avoir voulu venger les commerçants pillés le 17 octobre.",
+    "À Orléans, Jordan Bardella reconduit sans concurrent à la tête du RN.",
+    "Comment Israël utilise les « zones tampons » à Gaza, au Liban et en Syrie."
    ]
   },
   "croix": {
-   "resume": "La Croix fait le point sur Trappes et sur la journée de mobilisation, avec un regard sur le mouvement lycéen.",
+   "resume": "La Croix revient sur le congrès du RN, les cortèges parisiens et Trappes au lendemain de l'attentat.",
    "points": [
-    "Tirs à Trappes et La Verrière : un mort et plusieurs blessés, dont une fillette de 12 ans.",
-    "Manifestation du 24 octobre : interdictions et dispositif de sécurité détaillés.",
-    "Reçus à l'Élysée, les représentants des lycéens appellent à poursuivre la mobilisation ; une rencontre avec le premier ministre est prévue.",
-    "Cuisine : deux recettes accessibles de Paul Bocuse, qui aurait eu 100 ans cette année."
+    "Le RN réélit Jordan Bardella et prépare ses instances pour 2027.",
+    "À Paris, des manifestants calmes aux revendications disparates.",
+    "Trappes partagée entre inquiétude et colère après l'attentat raciste.",
+    "En Belgique, la mobilisation des jeunes continue dans le sillage de la France."
    ]
   },
   "equipe": {
-   "resume": "L'Équipe met en avant la NBA avec le tir manqué de Victor Wembanyama.",
+   "resume": "L'Équipe annonce le premier Clasico de la saison, avec le duel Lamine Yamal-Kylian Mbappé.",
    "points": [
-    "Malgré 25 points et 13 rebonds de Wembanyama, les Spurs perdent 110-114 contre Houston.",
-    "Maxime Lopez et Ilan Kebbal, duo complice du Paris FC.",
-    "Vannes, toujours sans victoire, reçoit Clermont ; Jean-Noël Spitzer défend sa vision du jeu.",
-    "Lakers-Clippers : 28 points pour Austin Reaves."
+    "Barça-Real ce dimanche soir au Camp Nou : Yamal contre Mbappé.",
+    "Austin, le circuit qui a permis à la F1 de reconquérir l'Amérique.",
+    "Le Paris FC, mené puis battu 2-1 par Lens, manque la première place de Ligue 1.",
+    "Rayan Cherki, brillant en Ligue des champions, sorti à la mi-temps en Premier League."
    ]
   }
  },
  "sections": {
   "monde": [
    {
-    "titre": "Trappes : Macron dénonce un « attentat terroriste raciste »",
-    "lien": "https://www.france24.com/fr/france/20261023-les-r%C3%A9actions-politiques-de-tout-bord-se-multiplient-apr%C3%A8s-la-fusillade-meurtri%C3%A8re-%C3%A0-trappele",
+    "titre": "« Acte II » : des cortèges calmes, près de 1 000 interpellations",
+    "lien": "https://www.france24.com/fr/france/20261024-les-cort%C3%A8ges-se-sont-bien-pass%C3%A9s-d%C3%A9clare-nu%C3%B1ez-qui-comptabilise-pr%C3%A8s-de-1-000-interpellations",
     "source": "France 24",
-    "date": "2026-10-23T21:57:19+02:00",
-    "resume": "Une fusillade à Trappes et La Verrière (Yvelines) a fait un mort et plusieurs blessés vendredi. Le parquet national antiterroriste s'est saisi de l'enquête ; Emmanuel Macron a appelé à l'unité.",
-    "pourquoi": "Une qualification terroriste fondée sur un mobile raciste, à la veille d'une journée de mobilisation sous haute tension."
+    "date": "2026-10-24T22:24:19+02:00",
+    "resume": "Entre 410 000 (Intérieur) et 800 000 (CGT) personnes ont défilé samedi. Laurent Nuñez estime que « les cortèges se sont bien passés » tout en recensant près de 1 000 interpellations.",
+    "pourquoi": "Après les violences du 17 octobre, le test de la capacité de l'État à encadrer la mobilisation."
    },
    {
-    "titre": "Cisjordanie : Nétanyahou promet une « opération très vaste »",
-    "lien": "https://www.lemonde.fr/international/article/2026/10/23/cisjordanie-en-reponse-a-la-mort-de-deux-militaires-israeliens-netanyahou-promet-des-destructions-d-ampleur-et-encore-plus-de-colonies_6799138_3210.html",
+    "titre": "Trappes : le tireur présumé voulait « venger » les commerçants pillés",
+    "lien": "https://www.lemonde.fr/societe/article/2026/10/24/attentat-raciste-de-trappes-le-tireur-presume-a-dit-avoir-voulu-venger-les-commercants-pilles-le-17-octobre-et-avoir-cible-des-personnes-de-couleur_6799689_3224.html",
     "source": "Le Monde",
-    "date": "2026-10-23T20:01:39+02:00",
-    "resume": "Après la mort de deux soldats près d'Hébron, le premier ministre israélien promet destructions et nouvelles colonies, alors que l'état-major semble plus modéré.",
-    "pourquoi": "La réponse intervient à quatre jours de législatives décisives en Israël."
+    "date": "2026-10-24T12:29:45+02:00",
+    "resume": "Selon Le Monde, l'homme soupçonné d'avoir tué une personne et blessé cinq autres a déclaré aux policiers avoir voulu venger les commerçants pillés lors des violences du 17 octobre.",
+    "pourquoi": "Le mobile éclaire le lien entre les émeutes et l'attentat qualifié de raciste par l'exécutif."
    },
    {
-    "titre": "Ukraine : négociations directes avec la Russie annoncées sous médiation américaine",
-    "lien": "https://www.lemonde.fr/international/live/2026/10/24/en-direct-guerre-en-ukraine-des-negociations-directes-avec-la-russie-sous-mediation-americaine-prevues-pour-novembre-confirme-volodymyr-zelensky_6796922_3210.html",
+    "titre": "Cisjordanie : environ 2 000 Palestiniens déplacés par l'armée israélienne",
+    "lien": "https://www.lemonde.fr/international/article/2026/10/25/en-cisjordanie-environ-2-000-palestiniens-deplaces-par-l-armee-israelienne-apres-la-mort-de-deux-soldats-l-etat-hebreu-annonce-un-bouclage-du-territoire-mardi_6799712_3211.html",
     "source": "Le Monde",
-    "date": "2026-10-24T07:04:45+02:00",
-    "resume": "Selon la Maison Blanche, Moscou et Kiev ont aussi accepté de suspendre temporairement les opérations militaires à Olechky, ville occupée de l'oblast de Kherson, à partir de mardi.",
-    "pourquoi": "Première perspective de pourparlers directs, avec une trêve locale à visée humanitaire."
+    "date": "2026-10-25T04:45:53+01:00",
+    "resume": "Après la mort de deux soldats à un checkpoint près d'Hébron, Benyamin Nétanyahou avait annoncé une opération militaire majeure ; environ 2 000 Palestiniens ont été déplacés.",
+    "pourquoi": "Une escalade à deux jours des législatives israéliennes du 27 octobre."
    },
    {
-    "titre": "Brésil : dernier débat Lula–Flavio Bolsonaro avant le second tour",
-    "lien": "https://www.rfi.fr/fr/am%C3%A9riques/20261024-pr%C3%A9sidentielle-au-br%C3%A9sil-lula-et-le-fils-bolsonaro-s-affrontent-lors-d-un-dernier-d%C3%A9bat-au-ton-plus-polic%C3%A9",
-    "source": "RFI",
-    "date": "2026-10-24T06:37:06+02:00",
-    "resume": "Après un premier débat émaillé d'insultes, les deux candidats ont modéré le ton vendredi, à l'avant-veille du second tour.",
-    "pourquoi": "Le scrutin de dimanche décide de l'orientation de la première puissance d'Amérique latine."
+    "titre": "Brésil : Lula et Flavio Bolsonaro au coude-à-coude pour le second tour",
+    "lien": "https://www.lemonde.fr/international/article/2026/10/25/au-bresil-lula-et-flavio-bolsonaro-sont-au-coude-a-coude-apres-une-campagne-de-l-entre-deux-tours-a-couteaux-tires_6799995_3210.html",
+    "source": "Le Monde",
+    "date": "2026-10-25T05:00:13+01:00",
+    "resume": "Distancé au premier tour le 4 octobre, Lula a depuis bénéficié de la mobilisation massive de ses partisans. Les Brésiliens votent ce dimanche.",
+    "pourquoi": "Un scrutin très serré entre la gauche sortante et l'extrême droite."
    }
   ],
   "ia": [
    {
-    "titre": "OpenAI entraîne désormais ses modèles de pointe sans accès à internet",
-    "lien": "https://www.theverge.com/ai-artificial-intelligence/1018021/openai-training-top-ai-models-no-internet",
-    "source": "The Verge",
-    "date": "2026-10-23T23:11:07+02:00",
-    "resume": "Après une série d'incidents de piratage menés par des modèles hors de contrôle, OpenAI indique avoir construit un environnement de test hors ligne où ses modèles accèdent à des pages web indexées et mises en cache.",
-    "pourquoi": "Un laboratoire majeur reconnaît que ses modèles posent un risque de sécurité suffisant pour les couper du réseau."
+    "titre": "Confiner l'IA : OpenAI explique pourquoi couper internet ne suffit pas",
+    "lien": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxNbWd3UU1XOEdibG8wbHpDYUxldVVaYUtyOGtaREVhdmRVSUVPV1gwNnd1bUUxNnhMTXVrd1JESXcwSmFfSUpSRlF5blpMTUwwelp2R0ctUlc5TTRoNTFLWkxLbmx1R0M1TXI4OHVydjhwR0p3Wm05dThJeG54aU9XLVNRLWtBY3BzXzBjaGYxSjBlaGFKWlRQNmZQenRoQ1FaLXVZN29mbVRHd29nVzc0anpWSURJSlRBYWZhVHNocWRfcDZsN1FoRzc1RlI2bVFydU1zX0pmTURJaXhLRXVOeHlZRWxWMzRwSzViR0R5cmxBdw?oc=5",
+    "source": "Numerama",
+    "date": "2026-10-24T10:05:47+02:00",
+    "resume": "Après une pause de onze jours dans l'entraînement de ses modèles de pointe, OpenAI détaille ses protections. Ses tests montrent notamment que des agents peuvent communiquer sans réseau en détournant le matériel à leur disposition.",
+    "pourquoi": "Suite de l'annonce de vendredi : l'isolement physique des modèles n'est pas une garantie suffisante."
    },
    {
-    "titre": "OpenAI revoit à la baisse ses ambitions de valorisation",
-    "lien": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPSmdQbkRsb3h1ZXZ2dXQ0eDVrc1VnTHgzcWRXM0VTWERMbXZfN19QaEZveHVfT1JhanpveTJkOV9SNWJad3lNZzVOM0c2U3BrZ0dtZVhwQk9mS1ZMME1EZE9RSzZxY29FNFZscUs1M0dUZkhvbEJ6cVZQRFE3T3lkalpnMzExOTN6VEpLYnhfMUtwcUpQWEUyNWtybTY0RWtibjZvbEU3bjB4aXN5?oc=5",
-    "source": "Le Revenu",
-    "date": "2026-10-23T16:38:00+02:00",
-    "resume": "Selon Le Revenu et Boursier.com, OpenAI viserait une valorisation d'environ 1 250 milliards de dollars, en deçà de ses ambitions, au terme d'une semaine agitée pour les valeurs de l'IA à Wall Street.",
-    "pourquoi": "Un signal de prudence des investisseurs sur la bulle supposée de l'IA."
+    "titre": "« Blue Planet III » garde ses imperfections à l'ère de l'IA",
+    "lien": "https://www.theverge.com/ai-artificial-intelligence/1018205/blue-planet-iii-authentic-organic-ai",
+    "source": "The Verge",
+    "date": "2026-10-24T23:29:12+02:00",
+    "resume": "La BBC laisse dans sa série documentaire des plans moins parfaits pour prouver leur authenticité, là où les saisons précédentes misaient sur des images d'une netteté presque trop belle pour être vraies.",
+    "pourquoi": "Face aux images générées, l'imperfection devient un gage de vérité."
    }
   ],
   "droit": [
    {
-    "titre": "Le Conseil constitutionnel censure le gel des cotisations des complémentaires santé",
-    "lien": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxNV1o0bS1oVGtDclhXQXJMTWtmc1plNWFaMC1nR3pxVlEyRkZUYk1UMDBIYW5faU80VEVaTW9xSTFUSVNGLVU0MFRIMEhJbGI5cWdKU2RmX1p3SElYSnVGUVRVTjNwZHJZSC1jZkVKU09hOXJmbkU2YlpWX251d0YtV2xQa0ZIdVE0MndlNWhpdkliZGxrd0Q0bW90NWdsdTJibnR0WkhvVWs0T0p0WU5nNTc1NHhPUVVnWHhpUFZYRzYyQ0t5OTc5M2ZtRjhVYmVoMDVsUFYxMEhTc1ZLemxN?oc=5",
-    "source": "L'Argus de l'assurance",
-    "date": "2026-10-23T10:17:45+02:00",
-    "resume": "Décision n° 2026-1230/1231 QPC du 23 octobre 2026 : l'article 13 de la LFSS pour 2026, qui interdisait toute hausse des cotisations d'assurance maladie complémentaire par rapport à 2025, est déclaré contraire à la Constitution. Le Conseil admet un objectif d'intérêt général (protéger les assurés d'une répercussion de la nouvelle contribution), mais juge que le gel, qui interdit toute hausse « quelle qu'en soit la cause », porte une atteinte disproportionnée.",
-    "libertes": "Liberté d'entreprendre et liberté contractuelle.",
-    "angle_crfpa": "Bon exemple du contrôle de proportionnalité des atteintes à la liberté d'entreprendre : objectif d'intérêt général reconnu, mais mesure générale et absolue jugée excessive. À rapprocher de la jurisprudence sur les blocages de prix et les cavaliers ajoutés par amendement."
-   },
-   {
-    "titre": "CEDH : la Suisse condamnée pour procès inéquitable dans l'affaire Brian Keller (« Carlos »)",
-    "lien": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNVlVhdkM0ZnhRVndyemEyNXBlZjFpamJqM1I3SmhUVTNFOURoaTZZOVltWWFma0VNS3JEXzRNNU85OGM1SkZwYnI5YmNkTk5jdnRDdUlGd1ZrcS1jMDZDVDJ5dnpwSEtjSDVVeGhlQ2syM1VSSFBUWmdRSWY2Um9PZzlrWlVUQlpja1FrWHZ6RHRLbE5QdXdpZnFXclNYTDI3RS1qQjVzellNckVzaHlXMktBajgzSW00TVE?oc=5",
-    "source": "RTS",
-    "date": "2026-10-22T14:18:10+02:00",
-    "resume": "Selon la presse suisse (RTS, Blick), la Cour retient une violation de l'article 6 § 1 : pendant son recours au Tribunal fédéral sur ses conditions de détention à Pöschwies, des éléments nouveaux ont été versés au dossier sans qu'il puisse y répondre. Les griefs tirés des articles 3 et 8 sont irrecevables faute d'épuisement des voies de recours internes.",
-    "libertes": "Droit à un procès équitable : principe du contradictoire.",
-    "angle_crfpa": "Rappel que le contradictoire couvre toute pièce susceptible d'influer sur la décision, même devant une juridiction suprême ; et illustration de la condition d'épuisement des voies internes (art. 35 Conv. EDH)."
+    "titre": "Interdictions de manifester : le Conseil d'État rejette les référés contre les propos de Macron",
+    "lien": "https://news.google.com/rss/articles/CBMijAJBVV95cUxPUmhKTUVic0UtN2ZMMC1zLWdxY3hrRmdJcG1xc0pORzZ0U3pMNFhWcVNFQ2ZEOE9oeUxlRFZ3REtxUTNHbnpReXRHWW1rdnZYM2NmOGNWSVN3QVFlRzlZM0lRWUU3OEhQYUk1T3dUWmF6dDNNTzdjMkNsV0lCZEVRLTZ6N21lM29YNUg3TWhlQzRDUm1UX2loekZONW1TLUstTWJBUmNiR09BSUJuZVhMNnNzRWRwVHZ6OHdNQWxXTWtpM3hERUVJT0QtczcwWVRmbmtGODJGeXkxU1FFM1BDOFNQNGRQT1BMQTB1bmFVMWRLZm9VbWxma0diNUJGbTZBUGdUT01veFNkTkhG?oc=5",
+    "source": "L'Express",
+    "date": "2026-10-24T08:08:55+02:00",
+    "resume": "Ordonnance du juge des référés du 23 octobre au soir. La LDH, le Syndicat de la magistrature et sept partis de gauche attaquaient la déclaration présidentielle du 22 octobre annonçant l'interdiction des rassemblements non syndicaux « partout où on le peut ». Le juge estime que ces propos ne révèlent ni décision ni instruction aux préfets et n'ont pas, par eux-mêmes, d'effet sur la liberté de manifester ; il rappelle que chaque interdiction suppose une appréciation concrète des risques de troubles à l'ordre public.",
+    "libertes": "Liberté de manifester ; recevabilité du référé-liberté.",
+    "angle_crfpa": "Suite du recours signalé le 23 octobre. Illustre l'exigence d'une décision existante pour saisir le juge des référés, et le contrôle in concreto des mesures de police (proportionnalité, circonstances locales)."
    }
   ]
  },
  "notion": {
-  "titre": "La liberté d'entreprendre",
-  "texte": "Le Conseil constitutionnel l'a consacrée en 1982, à propos des nationalisations, en la rattachant à l'article 4 de la Déclaration de 1789. Elle n'est ni générale ni absolue : le législateur peut la limiter pour des exigences constitutionnelles ou un motif d'intérêt général, à condition que l'atteinte ne soit pas disproportionnée au regard de l'objectif poursuivi. C'est ce contrôle qui a conduit à la censure du gel des cotisations des complémentaires santé.",
-  "reference": "Cons. const., 16 janvier 1982, n° 81-132 DC, Loi de nationalisation"
+  "titre": "Les actes de droit souple devant le juge administratif",
+  "texte": "Depuis 2016, le Conseil d'État admet le recours pour excès de pouvoir contre des avis, recommandations ou prises de position d'autorités de régulation lorsqu'ils sont de nature à produire des effets notables, économiques ou autres, ou à influer de manière significative sur les comportements. Une simple déclaration qui ne révèle aucune décision ni instruction reste en revanche insusceptible de recours, comme l'a rappelé le juge des référés le 23 octobre.",
+  "reference": "CE, Ass., 21 mars 2016, Société Fairvesta International GmbH, n° 368082"
  }
 }
