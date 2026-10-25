@@ -1,6 +1,6 @@
 {
  "date": "2026-10-25",
- "genere": "2026-10-25T06:09+01:00",
+ "genere": "2026-10-25T06:57+01:00",
  "journaux": [
   {
    "id": "figaro",
@@ -196,6 +196,14 @@
    },
    "articles": [
     {
+     "titre": "Le résumé vidéo de Dallas Mavericks - San Antonio Spurs et la première victoire des Spurs de Victor Wembanyama pour la saison 2026-2027",
+     "lien": "https://www.lequipe.fr/Basket/Video/Nba-nba-le-resume-video-de-dallas-mavericks-san-antonio-spurs-et-la-premiere-victoire-des-spurs-de-victor-wembanyama-pour-la-saison-2026-2027/20244015#at_medium=RSS_feeds",
+     "resume": "",
+     "date": "2026-10-25T06:22:00+01:00",
+     "source": "",
+     "image": "https://medias.lequipe.fr/img-photo-png/-/1500000000833469/0-828-552-75/0cb67.png"
+    },
+    {
      "titre": "« C'est un peu comme Messi contre Cristiano Ronaldo » : Lamine Yamal-Kylian Mbappé, duel brûlant au coeur du Clasico",
      "lien": "https://www.lequipe.fr/Football/Article/-c-est-un-peu-comme-messi-contre-cristiano-ronaldo-lamine-yamal-kylian-mbappe-duel-brulant-au-coeur-du-clasico/1738346#at_medium=RSS_feeds",
      "resume": "Le premier Clasico de la saison, ce dimanche soir (21 heures) au Camp Nou, offrira un dernier duel sur le terrain entre Lamine Yamal et Kylian Mbappé juste avant la cérémonie, lundi, du Ballon d'Or « France Football ». Que remportera, peut-être, l'un des…",
@@ -234,14 +242,6 @@
      "date": "2026-10-25T05:26:00+01:00",
      "source": "",
      "image": "https://medias.lequipe.fr/img-photo-jpg/rayan-cherki-a-ete-sorti-a-la-mi-temps-par-son-entraineur-enzo-maresca-m-rickett-icon-sport/1500000002632273/7:7,728:487-828-552-75/6e642.jpg"
-    },
-    {
-     "titre": "Repris par Lens dans la dernière demi-heure, le Paris FC n'est pas encore prêt à jouer les premiers rôles en Ligue 1",
-     "lien": "https://www.lequipe.fr/Football/Actualites/Repris-par-lens-dans-la-derniere-demi-heure-le-paris-fc-n-est-pas-encore-pret-a-jouer-les-premiers-roles-en-ligue-1/1738469#at_medium=RSS_feeds",
-     "resume": "Devant au score à la pause après avoir beaucoup subi, les joueurs du Paris FC ont craqué en fin de match (2-1) et ont manqué l'occasion de prendre seuls la première place au classement. Il leur reste du travail.",
-     "date": "2026-10-25T00:40:17+02:00",
-     "source": "",
-     "image": "https://medias.lequipe.fr/img-photo-jpg/les-parisiens-de-lassine-sinayoko-ont-mene-au-score-a-lens-avant-de-craquer-e-garnier-l-equipe/1500000002632350/381:354,1555:1138-828-552-75/33c98.jpg"
     }
    ],
    "flux_utilise": "https://dwh.lequipe.fr/api/edito/rss?path=/"
@@ -254,6 +254,16 @@
    "sous_titre": "Les informations les plus importantes, partout dans le monde",
    "items": [
     {
+     "titre": "Au Brésil, Lula et Flavio Bolsonaro sont au coude-à-coude après une campagne de l’entre-deux-tours à couteaux tirés",
+     "lien": "https://www.lemonde.fr/international/article/2026/10/25/au-bresil-lula-et-flavio-bolsonaro-sont-au-coude-a-coude-apres-une-campagne-de-l-entre-deux-tours-a-couteaux-tires_6799995_3210.html",
+     "resume": "En retard sur le candidat d’extrême droite à l’issue du premier tour de la présidentielle, le 4 octobre, le président a depuis bénéficié de la mobilisation massive de ses partisans. Et a pris quelques mesures de dernière minute pour tenter de remporter un…",
+     "date": "2026-10-25T05:00:13+01:00",
+     "source": "lemonde.fr",
+     "image": "https://img.lemde.fr/2026/10/22/753/0/7944/3972/644/322/60/0/d1be180_ftp-1-xyq40xbaweqn-afp-d448237.jpg",
+     "reprises": 7,
+     "score": 17.24
+    },
+    {
      "titre": "\"Les cortèges se sont bien passés\", affirme Laurent Nuñez, qui recense près de 1 000 interpellations",
      "lien": "https://www.france24.com/fr/france/20261024-les-cort%C3%A8ges-se-sont-bien-pass%C3%A9s-d%C3%A9clare-nu%C3%B1ez-qui-comptabilise-pr%C3%A8s-de-1-000-interpellations",
      "resume": "Entre 410 000 et 800 000 personnes ont défilé lors de la mobilisation sociale en France, samedi 24 octobre. Si le ministre de l'Intérieur Laurent Nuñez a estimé que \"les cortèges se sont bien passés\", il a recensé près de 1 000 interpellations.",
@@ -261,27 +271,27 @@
      "source": "© Thibault Camus, AP",
      "image": "https://s.france24.com/media/display/9b2132ac-cfe7-11f1-b4e6-4b25c96ec90e/w:1024/p:16x9/AP26297483587746.jpg",
      "reprises": 5,
-     "score": 16.52
+     "score": 16.34
     },
     {
-     "titre": "En Cisjordanie, environ 2 000 Palestiniens déplacés par l’armée israélienne après la mort de deux soldats ; l’Etat hébreu annonce un bouclage du territoire mardi",
+     "titre": "En Cisjordanie, 2 000 Palestiniens déplacés par l’armée israélienne après la mort de deux soldats ; l’Etat hébreu annonce un bouclage du territoire mardi, jour des élections législatives",
      "lien": "https://www.lemonde.fr/international/article/2026/10/25/en-cisjordanie-environ-2-000-palestiniens-deplaces-par-l-armee-israelienne-apres-la-mort-de-deux-soldats-l-etat-hebreu-annonce-un-bouclage-du-territoire-mardi_6799712_3211.html",
      "resume": "Benyamin Nétanyahou avait annoncé, vendredi, une opération militaire majeure en Cisjordanie, quelques heures après une attaque meurtrière à un checkpoint près de Hébron, durant laquelle deux soldats israéliens ont été tués.",
      "date": "2026-10-25T04:45:53+01:00",
      "source": "lemonde.fr",
      "image": "https://img.lemde.fr/2026/10/24/684/0/8192/4096/644/322/60/0/4ea2329_ftp-1-vrqxbf6cjefm-afp-d4ax3e3.jpg",
-     "reprises": 6,
-     "score": 12.79
+     "reprises": 7,
+     "score": 16.24
     },
     {
-     "titre": "Au Brésil, Lula et Flavio Bolsonaro sont au coude-à-coude après une campagne de l’entre-deux-tours à couteaux tirés",
-     "lien": "https://www.lemonde.fr/international/article/2026/10/25/au-bresil-lula-et-flavio-bolsonaro-sont-au-coude-a-coude-apres-une-campagne-de-l-entre-deux-tours-a-couteaux-tires_6799995_3210.html",
-     "resume": "En retard sur le candidat d’extrême droite à l’issue du premier tour de la présidentielle, le 4 octobre, le président a depuis bénéficié de la mobilisation massive de ses partisans. Et a pris quelques mesures de dernière minute pour tenter de remporter un…",
-     "date": "2026-10-25T05:00:13+01:00",
-     "source": "lemonde.fr",
-     "image": "https://img.lemde.fr/2026/10/22/753/0/7944/3972/644/322/60/0/d1be180_ftp-1-xyq40xbaweqn-afp-d448237.jpg",
-     "reprises": 6,
-     "score": 12.5
+     "titre": "Le dirigeant Kim Jong Un de retour en Corée du Nord après une brève visite à la frontière chinoise",
+     "lien": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxQc1QxR0xmeU9FbHVxTzBpV0w1TFFCOEpLM2pJWXNBREFBZnhzRVRxMnBmWUotXzR1VEFCUVFfX3M2QUNXSXNVRjRXS1V2T0lnX2NYUlBDd3dtRUE0YjdtTURBSkxwX3VBUEtnU3JHYjgxbFhJdnJ6RFZNNmp2SVl4aU5qVUk2dWJYajlpVWpxdEJmT2h6b0NTcFlYR3BzZGJDd2pTbjNkRjMxWWxRY1JIX3FkYmtCaFliR1I3ZkxjcmxDZjFmTXphcVJuTVVyb2daY0ZfNDFBQ1lKT00xeGtBZ2l0aGwyQQ?oc=5",
+     "resume": "",
+     "date": "2026-10-24T14:31:43+02:00",
+     "source": "tv5monde",
+     "image": null,
+     "reprises": 3,
+     "score": 7.95
     },
     {
      "titre": "Yémen : les Houthis revendiquent des attaques en Arabie saoudite et à Aden",
@@ -291,7 +301,7 @@
      "source": "© AFP",
      "image": "https://s.france24.com/media/display/1192dd1a-cfd3-11f1-97a7-bdb9616e85cf/w:1024/p:16x9/King-Khalid-International-Airport.jpg",
      "reprises": 4,
-     "score": 7.86
+     "score": 7.65
     },
     {
      "titre": "Guerre en Ukraine : des frappes russes dans les régions de Dnipropetrovsk et de Kharkiv font quatre morts. Retrouvez les informations du 18 au 24 octobre.",
@@ -301,17 +311,7 @@
      "source": "lemonde.fr",
      "image": "https://img.lemde.fr/2026/10/23/145/0/6000/3000/644/322/60/0/190a159_ftp-1-mht8qwc7behq-8e25412aae66497f806d6c49cd90786b-1-046d3fe5da0d4c2aa7fae7f33701a472.jpg",
      "reprises": 3,
-     "score": 6.65
-    },
-    {
-     "titre": "Le dirigeant Kim Jong Un de retour en Corée du Nord après une brève visite à la frontière chinoise",
-     "lien": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxQc1QxR0xmeU9FbHVxTzBpV0w1TFFCOEpLM2pJWXNBREFBZnhzRVRxMnBmWUotXzR1VEFCUVFfX3M2QUNXSXNVRjRXS1V2T0lnX2NYUlBDd3dtRUE0YjdtTURBSkxwX3VBUEtnU3JHYjgxbFhJdnJ6RFZNNmp2SVl4aU5qVUk2dWJYajlpVWpxdEJmT2h6b0NTcFlYR3BzZGJDd2pTbjNkRjMxWWxRY1JIX3FkYmtCaFliR1I3ZkxjcmxDZjFmTXphcVJuTVVyb2daY0ZfNDFBQ1lKT00xeGtBZ2l0aGwyQQ?oc=5",
-     "resume": "",
-     "date": "2026-10-24T14:31:43+02:00",
-     "source": "tv5monde",
-     "image": null,
-     "reprises": 2,
-     "score": 6.26
+     "score": 6.55
     }
    ],
    "a_traduire": []
@@ -329,7 +329,7 @@
      "source": "Boursorama",
      "image": null,
      "reprises": 2,
-     "score": 5.11
+     "score": 5.02
     },
     {
      "titre": "Confiner l'IA devient un casse-tête : après sa pause de 11 jours, OpenAI explique pourquoi couper Internet ne suffit pas",
@@ -339,7 +339,7 @@
      "source": "Numerama",
      "image": null,
      "reprises": 2,
-     "score": 3.44
+     "score": 3.41
     },
     {
      "titre": "Jon Hernández, expert en intelligence artificielle : « Les gens utilisent ChatGPT pour rechercher des connaissances, comme s’il s’agissait de Google, et c’est leur plus grande erreur.",
@@ -349,7 +349,7 @@
      "source": "La Crème Du Gaming",
      "image": null,
      "reprises": 1,
-     "score": 2.98
+     "score": 2.95
     },
     {
      "titre": "Course à l’IA : OpenAI évoque les trois issues possibles, dont une fin « terrible »",
@@ -359,7 +359,7 @@
      "source": "01net.com",
      "image": null,
      "reprises": 1,
-     "score": 2.98
+     "score": 2.94
     },
     {
      "titre": "Mistral AI : quel poids face aux géants américains et chinois ?",
@@ -369,7 +369,7 @@
      "source": "Major Prépa",
      "image": null,
      "reprises": 1,
-     "score": 2.48
+     "score": 2.44
     }
    ],
    "a_traduire": [
@@ -381,7 +381,7 @@
      "source": "theverge.com",
      "image": null,
      "reprises": 2,
-     "score": 3.0
+     "score": 2.98
     },
     {
      "titre": "Blue Planet III is keeping the rough edges in the age of AI",
@@ -391,7 +391,7 @@
      "source": "theverge.com",
      "image": null,
      "reprises": 1,
-     "score": 1.47
+     "score": 1.46
     },
     {
      "titre": "The AI graveyard: a running list of projects and startups that didn’t make it",
@@ -401,7 +401,7 @@
      "source": "techcrunch.com",
      "image": null,
      "reprises": 1,
-     "score": 1.43
+     "score": 1.42
     },
     {
      "titre": "Amazon a utilisé un outil d'intelligence artificielle pour évaluer le risque de syndicalisation dans ses entrepôts canadiens - The Globe and Mail",
@@ -411,7 +411,7 @@
      "source": "TradingView",
      "image": null,
      "reprises": 1,
-     "score": 1.23
+     "score": 1.22
     },
     {
      "titre": "Here are the top AI agents that can live in your text messages",
@@ -421,7 +421,7 @@
      "source": "techcrunch.com",
      "image": null,
      "reprises": 1,
-     "score": 1.22
+     "score": 1.2
     }
    ]
   },
@@ -437,20 +437,20 @@
      "date": "2026-10-23T10:17:45+02:00",
      "source": "L'Argus de l'assurance",
      "image": null,
-     "reprises": 33,
-     "score": 65.35,
+     "reprises": 40,
+     "score": 85.12,
      "libertes": true
     },
     {
-     "titre": "Interdiction de manifester : le Conseil d'État rejette les recours après les déclarations d'Emmanuel Macron",
-     "lien": "https://news.google.com/rss/articles/CBMijAJBVV95cUxPUmhKTUVic0UtN2ZMMC1zLWdxY3hrRmdJcG1xc0pORzZ0U3pMNFhWcVNFQ2ZEOE9oeUxlRFZ3REtxUTNHbnpReXRHWW1rdnZYM2NmOGNWSVN3QVFlRzlZM0lRWUU3OEhQYUk1T3dUWmF6dDNNTzdjMkNsV0lCZEVRLTZ6N21lM29YNUg3TWhlQzRDUm1UX2loekZONW1TLUstTWJBUmNiR09BSUJuZVhMNnNzRWRwVHZ6OHdNQWxXTWtpM3hERUVJT0QtczcwWVRmbmtGODJGeXkxU1FFM1BDOFNQNGRQT1BMQTB1bmFVMWRLZm9VbWxma0diNUJGbTZBUGdUT01veFNkTkhG?oc=5",
+     "titre": "Un recours déposé devant le Conseil d'Etat après les déclarations d'Emmanuel Macron sur l'interdiction de certaines manifestations",
+     "lien": "https://news.google.com/rss/articles/CBMitgJBVV95cUxQM2lTMW1UZmdYWWI3c2l2RVYzSHZ2X1h2WjljSktGLVVZTkNXTVpPdHZVSzdnZXR2V2V3bnVWbUVWMnNWY2t1dTVqanNiYlowQ2UzSkptaFJVRFdsUUM0ZXZ6WFU4dlRlNnNZM05SeHdmVDZlZktuUnNZbHExTkU1UF9ieFctRnd2T3ZhVG9tenpLMXA1Y3ZETTJnS1AwYTdxNkI3S1RzdmoyRFpOT3o3NzNseDlEeUUxc29KNXRKdzZkSjBVeERzLXRpS0VaeHZKZkJzc2VjbWZ3ZzJKTURaQ1l5RS1vXzBPNGFBVHJwMHBsTWlnWDJyQWt2TGQyQTcyQW51b0xSYm9nT2Myc3ZGcWQ5TDdpTnlUUlJvb01Odm5tLW1YRWxMMG9aTmd1OG04MGNobS1R?oc=5",
      "resume": "",
-     "date": "2026-10-24T08:08:55+02:00",
-     "source": "Orange Actualités",
+     "date": "2026-10-22T22:08:05+02:00",
+     "source": "franceinfo",
      "image": null,
      "reprises": 4,
-     "score": 8.11,
-     "libertes": false
+     "score": 8.08,
+     "libertes": true
     },
     {
      "titre": "Tròp Violans dénonce un « acharnement judiciaire » après deux décisions de la Cour de cassation",
@@ -460,7 +460,7 @@
      "source": "Outre-mer La 1ère",
      "image": null,
      "reprises": 3,
-     "score": 5.85,
+     "score": 5.83,
      "libertes": false
     },
     {
@@ -471,7 +471,7 @@
      "source": "Le Republicain Lorrain",
      "image": null,
      "reprises": 2,
-     "score": 5.06,
+     "score": 5.11,
      "libertes": true
     },
     {
@@ -482,7 +482,7 @@
      "source": "Informat.ro",
      "image": null,
      "reprises": 1,
-     "score": 4.36,
+     "score": 2.28,
      "libertes": true
     },
     {
@@ -492,8 +492,8 @@
      "date": "2026-10-22T14:18:10+02:00",
      "source": "rts.ch",
      "image": null,
-     "reprises": 2,
-     "score": 2.98,
+     "reprises": 1,
+     "score": 1.05,
      "libertes": true
     }
    ],
