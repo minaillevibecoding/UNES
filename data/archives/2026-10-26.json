@@ -1,0 +1,493 @@
+{
+ "date": "2026-10-26",
+ "genere": "2026-10-26T06:14+01:00",
+ "journaux": [
+  {
+   "id": "figaro",
+   "nom": "Le Figaro",
+   "couleur": "#163860",
+   "une": {
+    "fichier": "unes/figaro.jpg",
+    "date": "2026-10-26",
+    "source": "https://static.milibris.com/thumbnail/issue/cf7be81a-f237-4370-b044-5139729ea6b1/front/catalog-cover-large.jpeg"
+   },
+   "articles": [
+    {
+     "titre": "Brésil: Lula décroche un quatrième mandat inédit, Bolsonaro soupçonne une «magouille»",
+     "lien": "https://www.lefigaro.fr/international/contre-toute-attente-lula-decroche-un-quatrieme-mandat-inedit-le-bresil-reste-a-gauche-20261026",
+     "resume": "Avec 51,76 % des voix contre 48,24 % pour le sénateur conservateur Flavio Bolsonaro après un dépouillement quasi complet, le vétéran a déjoué tous les pronostics.",
+     "date": "2026-10-26T05:39:21+01:00",
+     "source": "",
+     "image": "https://i.f1g.fr/media/cms/3000x1965_crop/2026/10/26/eca65d761fa6db5fe85ac07581a8d2d9e540f4f5a72af341e26318db11f974ad.jpg"
+    },
+    {
+     "titre": "«Vive la démocratie»: les réactions politiques se multiplient après la réélection de Lula au Brésil",
+     "lien": "https://www.lefigaro.fr/international/vive-la-democratie-les-reactions-affluent-apres-la-reelection-de-lula-a-la-tete-du-bresil-20261026",
+     "resume": "Avec 51,76 % des voix contre 48,24 % pour le sénateur conservateur Flavio Bolsonaro après un dépouillement quasi complet, le vétéran a déjoué tous les pronostics.",
+     "date": "2026-10-26T05:50:14+01:00",
+     "source": "",
+     "image": "https://i.f1g.fr/media/cms/3000x2001_crop/2026/10/26/6c0f5d36faa8385f371570a752a4c2467c9b2c52b6d457727e438fe71cd49cad.jpg"
+    },
+    {
+     "titre": "Manifestations, dette… Petite éclaircie pour l’exécutif, ballotté de crise en crise",
+     "lien": "https://www.lefigaro.fr/elections/presidentielles/manifestations-dette-petite-eclaircie-pour-l-executif-ballotte-de-crise-en-crise-20261025",
+     "resume": "DÉCRYPTAGE - La bonne tenue des cortèges et l’absence de dégradation de l’agence de notation Moody’s offrent un répit relatif à l’exécutif. Mais l’attentat raciste de Trappes accentue les fractures du pays.",
+     "date": "2026-10-25T19:30:00+01:00",
+     "source": "",
+     "image": "https://i.f1g.fr/media/cms/3000x2000_crop/2026/10/25/f093804ae11f40b2e00e49599ffd03432124effd3f6ddbac4e44fc84a3644213.jpg"
+    },
+    {
+     "titre": "L’éditorial de Gaëtan de Capèle : «La France danse sur un volcan»",
+     "lien": "https://www.lefigaro.fr/vox/l-editorial-de-gaetan-de-capele-la-france-danse-sur-un-volcan-20261025",
+     "resume": "On aurait bien tort de spéculer sur l’accalmie du week-end. La marmite du climat social bout toujours et les esprits s’échauffent déjà sur les prochains rendez-vous.",
+     "date": "2026-10-25T19:15:00+01:00",
+     "source": "",
+     "image": "https://i.f1g.fr/media/cms/1823x1025_crop/2026/10/25/89499c5a6d565d5173720df2a243ead9f01669dcdf63cec2e0a81adcd0b0b2ee.jpg"
+    },
+    {
+     "titre": "Casserolade, «acte III», grève de l’intersyndicale, retraités, pompiers… quelles sont les prochaines mobilisations ?",
+     "lien": "https://www.lefigaro.fr/actualite-france/casserolade-acte-iii-greve-de-l-intersyndicale-retraites-pompiers-quelles-sont-les-prochaines-mobilisations-20261026",
+     "resume": "Après l’«acte II» du 24 octobre, les syndicats et les gilets jaunes entendent maintenir la pression sur le gouvernement. Plusieurs rendez-vous sont déjà programmés jusqu’au début du mois de décembre. Tour d’horizon des dates à retenir.",
+     "date": "2026-10-26T05:58:44+01:00",
+     "source": "",
+     "image": "https://i.f1g.fr/media/cms/3000x2001_crop/2026/10/26/3012f8d2cc3a971b43d3fbd53d2e29b9de87f16a690cdbcdae36268d685ccceb.jpg"
+    },
+    {
+     "titre": "«Il est où le cortège ?» : les dessous de l’interdiction in extremis du parcours de la manifestation à Paris",
+     "lien": "https://www.lefigaro.fr/actualite-france/il-est-ou-le-cortege-les-dessous-de-l-interdiction-in-extremis-du-parcours-de-la-manifestation-a-paris-20261025",
+     "resume": "RÉCIT - Au grand dam des organisateurs de l’«acte II» de la mobilisation contre la vie chère, la préfecture a interdit au dernier moment le parcours initial dans le centre-ville pour imposer une déambulation en bordure de la capitale.",
+     "date": "2026-10-25T19:55:46+01:00",
+     "source": "",
+     "image": "https://i.f1g.fr/media/cms/2850x1604_crop/2026/10/25/69173c091f9faed634cdc2edbff26dd074954a508b5ead055292d1a2fbbceb07.jpg"
+    }
+   ],
+   "flux_utilise": "https://www.lefigaro.fr/rss/figaro_actualites.xml"
+  },
+  {
+   "id": "monde",
+   "nom": "Le Monde",
+   "couleur": "#111111",
+   "une": {
+    "fichier": "unes/monde.webp",
+    "date": "2026-10-25",
+    "source": "https://www.frontpages.com/t/2026/10/24/le-monde-232023pmb@2x.webp"
+   },
+   "articles": [
+    {
+     "titre": "Brésil : Lula réélu président à la surprise générale, au terme d’une mobilisation massive et d’un scrutin chaotique",
+     "lien": "https://www.lemonde.fr/international/article/2026/10/26/bresil-lula-reelu-president-a-la-surprise-generale-au-terme-d-une-mobilisation-massive-et-d-un-scrutin-chaotique_6800431_3210.html",
+     "resume": "Le candidat de gauche était arrivé, au premier tour, derrière son rival Flavio Bolsonaro, qui réclame l’annulation de l’élection après des prolongations désordonnées d’ouverture des bureaux de vote.",
+     "date": "2026-10-26T06:04:10+01:00",
+     "source": "",
+     "image": "https://img.lemde.fr/2026/10/26/410/0/5500/2750/644/322/60/0/0ac134a_ftp-1-lsznwnny2etq-2026-10-26t042120z-1911824965-rc2raoaxiu70-rtrmadp-3-brazil-election.JPG"
+    },
+    {
+     "titre": "Après les manifestations du 24 octobre, l’exécutif confronté à la perspective d’un long automne social",
+     "lien": "https://www.lemonde.fr/politique/article/2026/10/26/apres-les-manifestations-du-24-octobre-l-executif-confronte-a-la-perspective-d-un-long-automne-social_6800384_823448.html",
+     "resume": "Le premier ministre, Sébastien Lecornu, reçoit, lundi, les représentants des lycéens pour leur apporter des « réponses concrètes ». De nouveaux appels à mobilisation ont déjà été lancés pour le 31 octobre et le 5 novembre.",
+     "date": "2026-10-26T05:00:19+01:00",
+     "source": "",
+     "image": "https://img.lemde.fr/2026/10/25/448/0/4500/2250/644/322/60/0/5fda6fe_upload-1-c2tqjj2cxmve-3124102026-1a0a5202-acteii-manifestation-carrot.jpg"
+    },
+    {
+     "titre": "Présidentielle 2027 : à Orléans, Marine Le Pen lance sa campagne entre radicalité et « optimisme », dans une ville en état de siège",
+     "lien": "https://www.lemonde.fr/politique/article/2026/10/25/presidentielle-2027-a-orleans-marine-le-pen-lance-sa-campagne-entre-radicalite-et-optimisme-dans-une-ville-en-etat-de-siege_6800113_823448.html",
+     "resume": "La candidate du Rassemblement national a réuni plus de 8 000 soutiens, dimanche 25 octobre, en périphérie de la préfecture du Loiret, mise sous cloche.",
+     "date": "2026-10-25T20:01:59+01:00",
+     "source": "",
+     "image": "https://img.lemde.fr/2026/10/25/266/0/1600/800/644/322/60/0/0bc9cb8_upload-1-b4wtujc9ekc8-whatsapp-image-2026-10-25-at-18-28-07.jpeg"
+    },
+    {
+     "titre": "Après l’attentat raciste de Trappes, le maire, Ali Rabeh déclare : « Le président de la République n’a pas été le protecteur qu’il aurait dû être »",
+     "lien": "https://www.lemonde.fr/politique/article/2026/10/25/apres-l-attentat-raciste-de-trappes-le-maire-ali-rabeh-le-president-de-la-republique-n-a-pas-ete-le-protecteur-qu-il-aurait-du-etre_6800093_823448.html",
+     "resume": "Dans un entretien au « Monde », Ali Rabeh (Génération.s), 41 ans, réélu en mars, déplore notamment que les discours d’extrême droite aient « fini par pénétrer l’inconscient collectif », et estime ressentir un « climat de guerre civile larvée ».",
+     "date": "2026-10-25T16:02:53+01:00",
+     "source": "",
+     "image": "https://img.lemde.fr/2026/10/24/104/0/5566/2783/644/322/60/0/818eff9_upload-1-bl2y5ym8jvzo-31-trappes-attentat-raciste-hleuqeux-dsc5822.jpg"
+    },
+    {
+     "titre": "En Serbie, le mouvement des étudiants remporte les législatives face au dirigeant populiste Aleksandar Vucic",
+     "lien": "https://www.lemonde.fr/international/article/2026/10/26/en-serbie-le-mouvement-des-etudiants-remporte-les-legislatives-face-au-dirigeant-populiste-aleksandar-vucic_6800348_3210.html",
+     "resume": "Après la défaite de la coalition menée par l’ancien président, le pays va connaître une alternance démocratique majeure qui pourrait insuffler une dynamique d’apaisement dans les Balkans, après deux décennies de blocage.",
+     "date": "2026-10-26T04:30:04+01:00",
+     "source": "",
+     "image": "https://img.lemde.fr/2026/10/26/995/0/6000/3000/644/322/60/0/1d9219b_ftp-1-1dmxkfbnkeul-2026-10-26t000236z-1540540903-rc2maoaqkntv-rtrmadp-3-serbia-election.JPG"
+    },
+    {
+     "titre": "« L’enjeu est existentiel ! » : des milliers d’Israéliens établis à l’étranger affluent dans le pays pour voter aux élections législatives du 27 octobre",
+     "lien": "https://www.lemonde.fr/international/article/2026/10/25/l-enjeu-est-existentiel-des-milliers-d-israeliens-etablis-a-l-etranger-affluent-dans-le-pays-pour-voter-aux-elections-legislatives-du-27-octobre_6800108_3210.html",
+     "resume": "Le vote n’étant pas permis à distance, même dans les ambassades, de nombreux expatriés israéliens ont pris des vols pour participer au scrutin. La mobilisation s’annonce particulièrement forte chez les opposants de Benyamin Nétanyahou, partis de New York,…",
+     "date": "2026-10-25T19:00:05+01:00",
+     "source": "",
+     "image": "https://img.lemde.fr/2026/10/25/474/0/6000/3000/644/322/60/0/7160f2d_upload-1-n7a8tb507y4e-jo-fly-and-vote-018-20261022.jpg"
+    }
+   ],
+   "flux_utilise": "https://www.lemonde.fr/rss/une.xml"
+  },
+  {
+   "id": "croix",
+   "nom": "La Croix",
+   "couleur": "#c8102e",
+   "une": {
+    "fichier": "unes/croix.jpg",
+    "date": "2026-10-25",
+    "source": "https://img.kiosko.net/2026/10/25/fr/lacroix.750.jpg"
+   },
+   "articles": [
+    {
+     "titre": "Xi Jinping affirme son emprise sur l’armée chinoise à coup de purges",
+     "lien": "https://www.la-croix.com/international/xi-jinping-affirme-son-emprise-sur-l-armee-chinoise-a-coup-de-purges-20261025",
+     "resume": "Ce lundi 26 octobre devrait être entérinée la destitution du militaire le plus haut gradé de Chine à l’occasion du cinquième plénum, une réunion politique majeure, qui se tient à Pékin jusqu’au 29 octobre. Zhang Youxia est devenu l’ultime symbole des purges…",
+     "date": "2026-10-26T06:10:14+01:00",
+     "source": "",
+     "image": "https://i.la-croix.com/x/2026/10/25/2571950-zhang-youxia-plus-haut-grade-de-l-armee-chinoise-d.jpg"
+    },
+    {
+     "titre": "Colère lycéenne et sociale : quelles réponses possibles ?",
+     "lien": "https://www.la-croix.com/societe/colere-lyceenne-et-sociale-quelles-reponses-possibles-20261025",
+     "resume": "Alors que de nouvelles mobilisations ont réuni dans la rue plus de 400 000 personnes samedi 24 octobre 2026, le gouvernement doit annoncer de premières mesures ce lundi à destination des lycéens. Sa marge de manœuvre pour soutenir le pouvoir d’achat reste…",
+     "date": "2026-10-26T06:00:19+01:00",
+     "source": "",
+     "image": "https://i.la-croix.com/x/2026/10/25/2571997-des-manifestants-dont-l-un-tient-une-pancarte-sur-.jpg"
+    },
+    {
+     "titre": "Attentat raciste à Trappes : des mots aux actes, l’engrenage de la violence",
+     "lien": "https://www.la-croix.com/societe/attentat-raciste-a-trappes-des-mots-aux-actes-l-engrenage-de-la-violence-20261025",
+     "resume": "Alors que l’attentat raciste commis à Trappes (Yvelines), vendredi 23 octobre 2026, a provoqué un choc, comment des mots haineux et des images effrayantes peuvent-ils conduire à assassiner son prochain ? Une politiste, un historien et une philosophe…",
+     "date": "2026-10-26T06:00:16+01:00",
+     "source": "",
+     "image": "https://i.la-croix.com/x/2026/10/24/2571531-un-manifestant-tient-une-pancarte-sur-laquelle-est.jpg"
+    },
+    {
+     "titre": "Après l’attentat raciste à Trappes, l’inquiétude et la colère : « On se sent complètement déshumanisés »",
+     "lien": "https://www.la-croix.com/societe/apres-l-attentat-raciste-trappes-entre-inquietude-et-colere-20261024",
+     "resume": "Vendredi 23 octobre 2026, un homme a ouvert le feu sur des passants, à Trappes et à La Verrière, dans les Yvelines. L’attaque, qualifiée d’attentat terroriste raciste par Emmanuel Macron, a causé la mort d’un homme de 26 ans, Pengo Bossio Wangi et a blessé…",
+     "date": "2026-10-25T19:59:13+01:00",
+     "source": "",
+     "image": "https://i.la-croix.com/x/2026/10/25/25720122-plusieurs-centaines-de-personnes-se-sont-rassemble.jpg"
+    },
+    {
+     "titre": "En Croatie, les ultras et leurs chants nazis, « miroir » d’une dérive nationaliste",
+     "lien": "https://www.la-croix.com/international/en-croatie-les-ultras-et-leurs-chants-nazis-miroir-d-une-derive-nationaliste-20261025",
+     "resume": "À Split, le défilé des supporters du club de football de l’Hajduk scandant des chants nazis a provoqué, jeudi 15 octobre, une vague d’arrestations, mais aussi, en réaction, des menaces contre les journalistes. Les observateurs y voient le symptôme d’un…",
+     "date": "2026-10-25T19:30:17+01:00",
+     "source": "",
+     "image": "https://i.la-croix.com/x/2026/10/25/2569887-des-supporters-appartenant-au-groupe-ultra-torcida.jpg"
+    },
+    {
+     "titre": "Présidentielle 2027 : Marine Le Pen surjoue la carte de l’optimisme",
+     "lien": "https://www.la-croix.com/politique/presidentielle-2027-marine-le-pen-surjoue-la-carte-de-l-optimisme-20261025",
+     "resume": "Marine Le Pen a tenu son premier meeting de campagne présidentielle dimanche 25 octobre à Orléans (Loiret). La candidate a tenté de convaincre les Français avec son slogan « la renaissance pour faire vivre la France ».",
+     "date": "2026-10-25T18:49:48+01:00",
+     "source": "",
+     "image": "https://i.la-croix.com/x/2026/10/25/2572029-marine-le-pen-prononce-un-discours-lors-du-rassemb.jpg"
+    }
+   ],
+   "flux_utilise": "https://www.la-croix.com/feeds/rss/site.xml"
+  },
+  {
+   "id": "equipe",
+   "nom": "L'Équipe",
+   "couleur": "#e2001a",
+   "une": {
+    "fichier": "unes/equipe.webp",
+    "date": "2026-10-26",
+    "source": "https://www.frontpages.com/t/2026/10/26/l-equipe-012133h3k@2x.webp"
+   },
+   "articles": [
+    {
+     "titre": "Un troisième match de rang sans succès et déjà quelques questionnements : Monaco tourne au ralenti en Ligue 1",
+     "lien": "https://www.lequipe.fr/Football/Article/Un-troisieme-match-de-rang-succes-et-deja-quelques-questionnements-monaco-au-ralenti-est-deja-a-l-heure-d-hiver/1738625#at_medium=RSS_feeds",
+     "resume": "Monaco a enchaîné, ce dimanche face à Lille (1-1), un troisième match sans succès en Championnat. Les premiers questionnements surgissent.",
+     "date": "2026-10-26T05:55:00+01:00",
+     "source": "",
+     "image": "https://medias.lequipe.fr/img-photo-png/-/1500000000833469/0-828-552-75/0cb67.png"
+    },
+    {
+     "titre": "« Christo a un côté délié, une grande fluidité » : Popov, un numéro 1 pas comme les autres",
+     "lien": "https://www.lequipe.fr/Badminton/Actualites/-christo-a-un-cote-delie-une-grande-fluidite-popov-un-numero-1-pas-comme-les-autres/1738669#at_medium=RSS_feeds",
+     "resume": "La France connaissait Alex Lanier, champion du monde en simple à la puissance dévastatrice. Elle découvre Christo Popov, un gaucher au contrôle du volant et à la fluidité rares, futur numéro 1 mondial en simple.",
+     "date": "2026-10-26T05:50:00+01:00",
+     "source": "",
+     "image": "https://medias.lequipe.fr/img-photo-jpg/christo-popov-un-gaucher-au-controle-du-volant-et-a-la-fluidite-rares-j-b-autissier-l-equipe/1500000002633067/0:0,919:613-828-552-75/52985.jpg"
+    },
+    {
+     "titre": "Défaite face au PSG en Ligue des champions, revers contre le Real Madrid lors du Clasico : la semaine noire du Barça",
+     "lien": "https://www.lequipe.fr/Football/Actualites/Defaite-face-au-psg-en-ligue-des-champions-revers-contre-le-real-madrid-lors-du-clasico-la-semaine-noire-du-barca/1738716#at_medium=RSS_feeds",
+     "resume": "À l'image de Lamine Yamal, encore discret contre le Real Madrid, le Barça a manqué ses deux premiers chocs de la saison, à Paris mardi et le Clasico dimanche. Et son rival merengue est revenu à 3 points.",
+     "date": "2026-10-26T05:45:00+01:00",
+     "source": "",
+     "image": "https://medias.lequipe.fr/img-photo-png/-/1500000000833469/0-828-552-75/0cb67.png"
+    },
+    {
+     "titre": "Le buteur Boulaye Dia, les pistons qui se régalent et la défense à trois : pourquoi Rennes s'amuse en ce moment et se retrouve leader de Ligue 1",
+     "lien": "https://www.lequipe.fr/Football/Article/Le-buteur-boulaye-dia-les-pistons-qui-se-regalent-et-la-defense-a-trois-pourquoi-rennes-s-amuse-en-ce-moment-et-se-retrouve-leader-de-ligue-1/1738650#at_medium=RSS_feeds",
+     "resume": "Sans Estéban Lepaul mais avec un doublé de Sebastian Szymanski, l'équipe de Franck Haise a signé un large succès contre Strasbourg (3-0) et pris provisoirement la tête de la L1 après huit journées.",
+     "date": "2026-10-26T05:30:00+01:00",
+     "source": "",
+     "image": "https://medias.lequipe.fr/img-photo-jpg/boulaye-dia-celebre-son-but-le-premier-du-stade-rennais-dimanche-avec-mahamadou-nagida-lors-de-la-victoire-face-a-strasbourg-3-0-d-derajinski-icon-sport/1500000002633046/0:0,919:613-828-552-75/9d9aa.jpg"
+    },
+    {
+     "titre": "Quatrième défaite de suite, place de barragiste, perdu dans le jeu... Strasbourg n'est pour le moment pas invité dans la cour des grands en Ligue 1",
+     "lien": "https://www.lequipe.fr/Football/Article/Quatrieme-defaite-consecutive-place-de-barragiste-perdu-dans-le-jeu-strasbourg-n-est-pour-le-moment-pas-invite-dans-la-cour-des-grands-en-ligue-1/1738672#at_medium=RSS_feeds",
+     "resume": "Strasbourg a concédé dimanche à Rennes son cinquième revers en huit journées (0-3), le quatrième d'affilée. Voilà le Racing barragiste, loin de ses ambitions européennes, et quelque peu inquiétant.",
+     "date": "2026-10-26T05:15:00+01:00",
+     "source": "",
+     "image": "https://medias.lequipe.fr/img-photo-jpg/diogo-sousa-est-depite-par-la-defaite-du-racing-sur-la-pelouse-de-rennes-0-3-d-derajinski-icon-sport/1500000002633071/69:55,862:584-828-552-75/714b6.jpg"
+    },
+    {
+     "titre": "Ronan O'Gara après la défaite de La Rochelle contre l'UBB : « Comment on peut commencer un derby comme ça ? »",
+     "lien": "https://www.lequipe.fr/Rugby/Actualites/Ronan-o-gara-apres-la-defaite-de-la-rochelle-contre-l-ubb-comment-on-peut-commencer-un-derby-comme-ca/1738729#at_medium=RSS_feeds",
+     "resume": "Le manager du Stade Rochelais Ronan O'Gara a pesté contre l'apathie de son équipe en première période lors de la défaite à domicile contre l'UBB (25-19), dimanche soir, à l'occasion de la 7e journée du Top 14.",
+     "date": "2026-10-26T00:54:11+01:00",
+     "source": "",
+     "image": "https://medias.lequipe.fr/img-photo-jpg/ronan-o-gara-avant-le-match-contre-l-ubb-dimanche-l-hahn-l-equipe/1500000002633245/65:243,1950:1499-828-552-75/4fcbe.jpg"
+    }
+   ],
+   "flux_utilise": "https://dwh.lequipe.fr/api/edito/rss?path=/"
+  }
+ ],
+ "sections": [
+  {
+   "id": "monde",
+   "titre": "Actualité principale",
+   "sous_titre": "Les informations les plus importantes, partout dans le monde",
+   "items": [
+    {
+     "titre": "Brésil : Lula réélu président à la surprise générale, au terme d’une mobilisation massive et d’un scrutin chaotique",
+     "lien": "https://www.lemonde.fr/international/article/2026/10/26/bresil-lula-reelu-president-a-la-surprise-generale-au-terme-d-une-mobilisation-massive-et-d-un-scrutin-chaotique_6800431_3210.html",
+     "resume": "Le candidat de gauche était arrivé, au premier tour, derrière son rival Flavio Bolsonaro, qui réclame l’annulation de l’élection après des prolongations désordonnées d’ouverture des bureaux de vote.",
+     "date": "2026-10-26T06:04:10+01:00",
+     "source": "lemonde.fr",
+     "image": "https://img.lemde.fr/2026/10/26/410/0/5500/2750/644/322/60/0/0ac134a_ftp-1-lsznwnny2etq-2026-10-26t042120z-1911824965-rc2raoaxiu70-rtrmadp-3-brazil-election.JPG",
+     "reprises": 11,
+     "score": 39.04
+    },
+    {
+     "titre": "Midterms 2026 : Obama fait campagne pour les démocrates et épingle Trump",
+     "lien": "https://www.france24.com/fr/vid%C3%A9o/20261025-midterms-2026-obama-fait-campagne-pour-les-d%C3%A9mocrates-et-%C3%A9pingle-trump",
+     "resume": "Lors d'un meeting dans l'Ohio, l'ancien président américain Barack Obama a accusé le président actuel Donald Trump d'avoir déclenché une guerre \"inutile\" en Iran.",
+     "date": "2026-10-25T18:13:45+01:00",
+     "source": "france24.com",
+     "image": "https://s.france24.com/media/display/4d5a3cc0-d097-11f1-9385-bdb9616e85cf/w:1024/p:16x9/Obama-FR.jpg",
+     "reprises": 11,
+     "score": 22.29
+    },
+    {
+     "titre": "En Serbie, le mouvement des étudiants remporte les législatives face au dirigeant populiste Aleksandar Vucic",
+     "lien": "https://www.lemonde.fr/international/article/2026/10/26/en-serbie-le-mouvement-des-etudiants-remporte-les-legislatives-face-au-dirigeant-populiste-aleksandar-vucic_6800348_3210.html",
+     "resume": "Après la défaite de la coalition menée par l’ancien président, le pays va connaître une alternance démocratique majeure qui pourrait insuffler une dynamique d’apaisement dans les Balkans, après deux décennies de blocage.",
+     "date": "2026-10-26T04:30:04+01:00",
+     "source": "lemonde.fr",
+     "image": "https://img.lemde.fr/2026/10/26/995/0/6000/3000/644/322/60/0/1d9219b_ftp-1-1dmxkfbnkeul-2026-10-26t000236z-1540540903-rc2maoaqkntv-rtrmadp-3-serbia-election.JPG",
+     "reprises": 6,
+     "score": 14.59
+    },
+    {
+     "titre": "L’opposante Maria Corina Machado annonce être de retour au Venezuela",
+     "lien": "https://www.lemonde.fr/international/article/2026/10/25/l-opposante-maria-corina-machado-annonce-etre-de-retour-au-venezuela_6800104_3210.html",
+     "resume": "La cheffe de l’opposition vénézuélienne et Prix Nobel de la paix était en exil depuis près d’un an. Son allié et ex-candidat à la présidence, Edmundo Gonzalez Urrutia, a salué son retour.",
+     "date": "2026-10-25T17:35:38+01:00",
+     "source": "lemonde.fr",
+     "image": "https://img.lemde.fr/2026/10/25/558/0/6691/3345/644/322/60/0/4a79530_ftp-1-p7hsvpvwsfy4-afp-d4dg3cw.jpg",
+     "reprises": 5,
+     "score": 9.23
+    },
+    {
+     "titre": "Elections législatives en Israël : la guerre d’influence de Yaïr Nétanyahou, le très à droite fils de son père",
+     "lien": "https://www.lemonde.fr/m-le-mag/article/2026/10/26/elections-legislatives-en-israel-la-guerre-d-influence-de-yair-netanyahou-le-tres-a-droite-fils-de-son-pere_6800429_4500055.html",
+     "resume": "Omniprésent sur les réseaux sociaux, le fils du premier ministre israélien fait tourner à plein la « machine à poison » dans la campagne des législatives pour nuire aux opposants de son père et assurer la survie politique de ce dernier.",
+     "date": "2026-10-26T05:45:08+01:00",
+     "source": "lemonde.fr",
+     "image": "https://img.lemde.fr/2026/10/20/12/0/1500/750/644/322/60/0/2b0dbc6_ftp-1-nzf0tzlirvjp-448856-3521195.jpg",
+     "reprises": 3,
+     "score": 8.19
+    },
+    {
+     "titre": "Nouvelles explosions à Riyad, l'Arabie saoudite intercepte dix missiles lancés par les Houthis",
+     "lien": "https://www.rfi.fr/fr/moyen-orient/20261025-nouvelles-explosions-%C3%A0-riyad-l-arabie-saoudite-intercepte-dix-missiles-lanc%C3%A9s-par-les-houthis",
+     "resume": "De nouvelles explosions ont secoué Riyad tôt dimanche 25 octobre, après des messages d'alerte des autorités. Les Houthis du Yémen poursuivent leurs attaques contre le royaume où l'aéroport international de la capitale devait rouvrir après deux semaines de…",
+     "date": "2026-10-25T12:00:42+01:00",
+     "source": "©  Baraa Anwer / AP Photo",
+     "image": "https://s.rfi.fr/media/display/a676dbee-c8ac-11f1-9b76-2d1c143cdef3/w:1024/p:16x9/AP26287636573938.jpg",
+     "reprises": 4,
+     "score": 7.87
+    }
+   ],
+   "a_traduire": []
+  },
+  {
+   "id": "ia",
+   "titre": "Intelligence artificielle",
+   "sous_titre": "Modèles, entreprises, régulation, recherche",
+   "items": [
+    {
+     "titre": "Claude, le système d'Anthropic, a accédé aux données relatives au dépouillement des votes dans l'État de Géorg",
+     "lien": "https://news.google.com/rss/articles/CBMixAJBVV95cUxOT1lvSngtN3FRa3JlZktIYlVlWnpzc2dzU0NPZ25nUDVUZ21reGk4OHVrZ19NeHRtYl9sdW5vMDhPMm00WnRtSUZNc3FpQ0tpNnRiaE10UGRfd0Z2d1NPOHBkZ0lvMzNKazM5YmhOaERjWHIzX1Z2UzlSMHJNM3NTa2RYY0o5RUlOOGpDb3JWSGlxNkkyb2RpMkt2SGU0M09pMEZTT253OU1nck9oODNZdW1ZM0xaTWk2ZFpoT2RVUTBjb2V1d21CUWFnWUxlX1NEdXJrVmNVRmtjYTQzdjgtZ0FqRExfVU52SGlYOElZb24wUTJVMDZrZ3JXM2xWTncwblNVczVTZ2JJeVE0TU9jdFhjdEdzN184YVhsS2xuV2dGeE5iRDk4djFDWDVXc1pJWWhSQ1hKb0tkYnJpOFl1SjBFdEjSAcQCQVVfeXFMTk9Zb0p4LTdxUWtyZWZLSGJVZVp6c3Nnc1NDT2duZ1A1VGdta3hpODh1a2dfTXh0bWJfbHVubzA4TzJtNFp0bUlGTXNxaUNLaTZ0YmhNdFBkX3dGdndTTzhwZGdJbzMzSmszOWJoTmhEY1hyM19WdlM5UjByTTNzU2tkWGNKOUVJTjhqQ29yVkhpcTZJMm9kaTJLdkhlNDNPaTBGU09udzlNZ3JPaDgzWXVtWTNMWk1pNmRaaE9kVVEwY29ldXdtQlFhZ1lMZV9TRHVya1ZjVUZrY2E0M3Y4LWdBakRMX1VOdkhpWDhJWW9uMFEyVTA2a2dyVzNsVk53MG5TVXM1U2diSXlRNE1PY3RYY3RHczdfOGFYbEtsbldnRnhOYkQ5OHYxQ1g1V3NaSVloUkNYSm9LZGJyaThZdUowRXRI?oc=5",
+     "resume": "",
+     "date": "2026-10-26T01:24:17+01:00",
+     "source": "Boursorama",
+     "image": null,
+     "reprises": 4,
+     "score": 16.03
+    },
+    {
+     "titre": "Privés de réseau, deux agents d’OpenAI trouvent un moyen de discuter grâce au processeur",
+     "lien": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxNMjhLaFZaOHhjMUd0OE1kRFRrWWJnM2EwUjVtclNURmZCb2pIZm84TWZCRFQzcy1INmpEekZCQ2VoWkJ1akNlWXN1YnVpcEk2Q1dkM1dPMkllZ1JhcUxKaWxjSkZ1cldEZU5ydTVKLWVfVm5jOG5ldnZSZHJQMFREYVJBcTlhaVcwTTFUNTRHYUtxTnN6N3RxUUdQeUYxR2RRMU5ndkVIZ3dvTGtYTElQODVnb25vMV9uTDlOcTdVeHNqblVLRF9qQm9WQi1IbjVjNElWb05jZUhkcU16OE9tdA?oc=5",
+     "resume": "",
+     "date": "2026-10-25T10:35:00+01:00",
+     "source": "MacGeneration",
+     "image": null,
+     "reprises": 3,
+     "score": 4.33
+    },
+    {
+     "titre": "L’IA qui s’améliore elle-même, nouvel horizon controversé des grands laboratoires comme OpenAI et Anthropic",
+     "lien": "https://news.google.com/rss/articles/CBMihgJBVV95cUxNNjVKZDExMHlSRWZkSHFLU0V1RTFEYl82dFBrYTdEbGJINFBjdHRPdmxKYTRDd2NhaUMyMnJWcWdWdF9hQjBSVzdhTFBLaFFNOGRPdktKVExtWElkNW5zelJUQ1BMU01KYjNTUkE4NTdiVEdYSVpfNmRBa1hBVmZVZXU0UFZ1NGQ0Yk00cm5wS25SRnZ2SUFKNDFTWmUxZGk2OHFhOS0yeXNtZ0RuTzBIV2pNMl9YdHVkUFJ4eV9IMVJYTks2cHFmX0hDYlZLVWZDSjFtRjVIdUY1bUVvZlZReVRwUFlPLXQ4SENXSDJpRUNjbmp4V182STFKWjFHYzhMQzlkY3Fn?oc=5",
+     "resume": "",
+     "date": "2026-10-26T05:45:08+01:00",
+     "source": "Le Monde.fr",
+     "image": null,
+     "reprises": 1,
+     "score": 3.68
+    },
+    {
+     "titre": "OpenAI Coupe Internet à ses IA : Reprise le 1er Oct [2026]",
+     "lien": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNclNkOWxaenV6VkxkdnFvQVI2bmpINTRFNXFnaFVVYllhM1RCQ2twX1RBRUZwdk9MbUszb0FtUHVBMF9ETkpVTFA2SEZqS2twRWdQVEVCZ19oSUdvRXB1Z2hmRXdRY1VvS3dWZFc1UUdRUnpZSXB6R0dteWpnU3c4ZHVlTzFiV1E?oc=5",
+     "resume": "",
+     "date": "2026-10-26T03:30:57+01:00",
+     "source": "tech-insider.org",
+     "image": null,
+     "reprises": 2,
+     "score": 3.53
+    },
+    {
+     "titre": "Avec son dernier modèle, la start-up chinoise Moonshot se hisse au niveau des géants américains de l’IA",
+     "lien": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNc0g5c3JhWm94MlVPWUUxVXhJYmdDRF9tX2RBZ2NwUlB1dFFsa2JjNmxzVXZXY2tNVEpqLURXSWRVYWZrNG84V1UzRGdzeWV0MHJBekpTTS11MDhUclp5N0JLVHdkV082VFNaX0ptLVcyZ0xER24waFZZTUEwWk1zeDIxZTNjb2VqZHlEQm1qTHZyNk0wMENteGk1cUFSRkZjaUVZTg?oc=5",
+     "resume": "",
+     "date": "2026-10-26T00:02:35+01:00",
+     "source": "Cafétech",
+     "image": null,
+     "reprises": 1,
+     "score": 2.69
+    }
+   ],
+   "a_traduire": [
+    {
+     "titre": "AI delivers ‘zero financial payoff’ to most companies, Apollo economist says",
+     "lien": "https://techcrunch.com/2026/10/25/ai-delivers-zero-financial-payoff-to-most-companies-according-to-apollo-economist/",
+     "resume": "\"Despite massive investments and widespread hype around artificial intelligence, the technology has delivered zero financial payoff to corporate America outside of tech.\"",
+     "date": "2026-10-25T17:57:32+01:00",
+     "source": "techcrunch.com",
+     "image": null,
+     "reprises": 1,
+     "score": 1.4
+    },
+    {
+     "titre": "The hottest AI wearables and gadgets you should know about",
+     "lien": "https://techcrunch.com/2026/10/25/the-hottest-ai-wearables-and-gadgets-you-should-know-about/",
+     "resume": "We compiled a list of all the hottest AI wearables, including Muse Charm, Bee, Friend, Plaud, and more.",
+     "date": "2026-10-25T15:10:00+01:00",
+     "source": "techcrunch.com",
+     "image": null,
+     "reprises": 1,
+     "score": 1.22
+    },
+    {
+     "titre": "Blue Planet III is keeping the rough edges in the age of AI",
+     "lien": "https://www.theverge.com/ai-artificial-intelligence/1018205/blue-planet-iii-authentic-organic-ai",
+     "resume": "BBC's Blue Planet III is looking to prove its authenticity by leaving in the less-than-perfect shots. Previous incarnations of the nature series were defined by their gorgeous, crystal-clear footage that seemed almost too good to be real. But one dead…",
+     "date": "2026-10-24T23:29:12+02:00",
+     "source": "theverge.com",
+     "image": null,
+     "reprises": 1,
+     "score": 1.07
+    },
+    {
+     "titre": "The AI graveyard: a running list of projects and startups that didn’t make it",
+     "lien": "https://techcrunch.com/2026/10/24/the-ai-graveyard-a-running-list-of-projects-and-startups-that-didnt-make-it/",
+     "resume": "From Apple's repeatedly delayed Siri AI to OpenAI's messy \"super app\" launch, here's a look at the AI projects that shut down or missed expectations.",
+     "date": "2026-10-24T21:00:00+02:00",
+     "source": "techcrunch.com",
+     "image": null,
+     "reprises": 1,
+     "score": 0.8
+    }
+   ]
+  },
+  {
+   "id": "droit",
+   "titre": "Actualité juridique",
+   "sous_titre": "Libertés fondamentales, grandes juridictions, culture juridique pour le CRFPA",
+   "items": [
+    {
+     "titre": "Gel des tarifs santé : le Conseil constitutionnel a tranché",
+     "lien": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxNV1o0bS1oVGtDclhXQXJMTWtmc1plNWFaMC1nR3pxVlEyRkZUYk1UMDBIYW5faU80VEVaTW9xSTFUSVNGLVU0MFRIMEhJbGI5cWdKU2RmX1p3SElYSnVGUVRVTjNwZHJZSC1jZkVKU09hOXJmbkU2YlpWX251d0YtV2xQa0ZIdVE0MndlNWhpdkliZGxrd0Q0bW90NWdsdTJibnR0WkhvVWs0T0p0WU5nNTc1NHhPUVVnWHhpUFZYRzYyQ0t5OTc5M2ZtRjhVYmVoMDVsUFYxMEhTc1ZLemxN?oc=5",
+     "resume": "",
+     "date": "2026-10-23T10:17:45+02:00",
+     "source": "L'Argus de l'assurance",
+     "image": null,
+     "reprises": 15,
+     "score": 31.32,
+     "libertes": true
+    },
+    {
+     "titre": "Interdiction de manifester : le Conseil d'État rejette les recours après les déclarations d'Emmanuel Macron",
+     "lien": "https://news.google.com/rss/articles/CBMijAJBVV95cUxPUmhKTUVic0UtN2ZMMC1zLWdxY3hrRmdJcG1xc0pORzZ0U3pMNFhWcVNFQ2ZEOE9oeUxlRFZ3REtxUTNHbnpReXRHWW1rdnZYM2NmOGNWSVN3QVFlRzlZM0lRWUU3OEhQYUk1T3dUWmF6dDNNTzdjMkNsV0lCZEVRLTZ6N21lM29YNUg3TWhlQzRDUm1UX2loekZONW1TLUstTWJBUmNiR09BSUJuZVhMNnNzRWRwVHZ6OHdNQWxXTWtpM3hERUVJT0QtczcwWVRmbmtGODJGeXkxU1FFM1BDOFNQNGRQT1BMQTB1bmFVMWRLZm9VbWxma0diNUJGbTZBUGdUT01veFNkTkhG?oc=5",
+     "resume": "",
+     "date": "2026-10-24T08:08:55+02:00",
+     "source": "Orange Actualités",
+     "image": null,
+     "reprises": 11,
+     "score": 20.04,
+     "libertes": false
+    },
+    {
+     "titre": "Manifestations interdites à Gap : l’intersyndicale soutient un référé-liberté contre l’arrêté préfectoral",
+     "lien": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxPdnVqOG5vLUxOdGlidURvMFh4akZtOWZGWExhQjVPakJZWDBpNGh2Qi1jRXVmcmZPRlY4R2tsTUhKM1dja2Nic2l4ZXlzc2x0VG5ENW1BZ1dmdTBjbEhRR0YwVHhCa1ZJdVU1a29HT0xLckpLTFh1bkFBUzY1ZXhzVDZYcFB3WkVCRWdZbFM0aXIwOUR0Q1MyZXJISDZYTE9lRGd0cjJPa09HTzBvMnNpcTZ5Y1A4UUZPVHAwaUNYR0UyajNfV3VtQk9lMTVYbGZ2OExxWXBWZThUN0JVa200akJYeXNFSW9UTk5wNWhNVQ?oc=5",
+     "resume": "",
+     "date": "2026-10-23T17:20:19+02:00",
+     "source": "Alpes 1",
+     "image": null,
+     "reprises": 2,
+     "score": 4.32,
+     "libertes": true
+    },
+    {
+     "titre": "Tròp Violans dénonce un « acharnement judiciaire » après deux décisions de la Cour de cassation",
+     "lien": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxNbjBlandnaGtQaDdHTHdHTG9yaU45THhDSzBmcjczSWloQnZOLTZyM3RoSVhyNDAzMUxMcVR1eE9CQUFjWWxLYmFzcUlncF9pcWJydllvSzdCOGtQT0U2aFhiNE14RzFPZFNjNEtGR1lpMjU3X1o1QnNqWnE2c0NvZndwYnlYU3dXZ3VzVTJ0Tmw0cUYyajJhV1NEZXJCUnN1TEttN3p4VVJkQ3VydEFVNFNzN2FTV19vczVDT3lfQ01xd2hfbVJfVzdiaHRobHM2Q3E3aFRQUQ?oc=5",
+     "resume": "",
+     "date": "2026-10-24T13:00:03+02:00",
+     "source": "Outre-mer La 1ère",
+     "image": null,
+     "reprises": 2,
+     "score": 3.44,
+     "libertes": false
+    },
+    {
+     "titre": "La CEDH rejette la requête du juge Dorin Munteanu parce qu’il a dissimulé la procédure d’indemnisation en Moldavie",
+     "lien": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxQVXNrODZQMjVuVW1rS2J5YXR0LUtsVzVDWW5vX1I4bEdlUUd1c1Jwc1BEUnppbTV2TXZCZjhMVGNJaGptNnZjUjFwc25YTjUzZl9hRzFGQkdhSHdWbms3Y0VXeU5vajQtMVVFZzNNaDQxaldCcUJnM2lXcHdFTVNyWmtLZWhzdTUzeTlNMHJTa0NJZTcxaG9SRDN5LTZZMXlIUWZLc05vZHp5U3FraTE3T1lLR3dLLVQ1cE9KSldiV1ZTMzVnRTFCT3JIV2xMdW5Obk4zdUtkNjR3UWJrVmR2WHhCTk9qUDFqVWxTZTBlVDIxY1YyUGxNSA?oc=5",
+     "resume": "",
+     "date": "2026-10-24T19:09:10+02:00",
+     "source": "Informat.ro",
+     "image": null,
+     "reprises": 1,
+     "score": 1.3,
+     "libertes": true
+    },
+    {
+     "titre": "« Une atteinte directe à la liberté d’expression… » : Les Républicains de Côte-d’Or dénoncent l’attaque de leur permanence",
+     "lien": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxOZTBNaFZlb1ExcXRpOG53emFJQk80YU92U2ZiWW5LYUZUMXNtX3RhSVFELWIxbXVUeGJpUVctUm1UTzc5R3pBZ1BnYVJ2V1J3NThBSkxoUlFuT2ZtSWJ2QXFrQS1CX040NUlpVnA4U1drQ1dZZWJhSy1RSnVQZG9zdElfaWJoU0EybURDR2REalROVzQtVDB1S3hrN2pfYXhZd2ZRb1Z0eFVpa1JxT3A4R2k5WnBVakVUU205cF9FeFAwMUMyeloxUnNWakw0ckZUZzR2dUdTeks2a09GWFY3QjJSUURpSlRpYmhCSVRQaXNtdVB2ZFE?oc=5",
+     "resume": "",
+     "date": "2026-10-25T04:25:20+01:00",
+     "source": "Le Bien Public",
+     "image": null,
+     "reprises": 1,
+     "score": 1.25,
+     "libertes": true
+    }
+   ],
+   "a_traduire": []
+  }
+ ]
+}
