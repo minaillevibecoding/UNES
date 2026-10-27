@@ -1,6 +1,6 @@
 {
  "date": "2026-10-27",
- "genere": "2026-10-27T06:12+01:00",
+ "genere": "2026-10-27T06:57+01:00",
  "journaux": [
   {
    "id": "figaro",
@@ -13,52 +13,52 @@
    },
    "articles": [
     {
-     "titre": "Face à la jeunesse, de nombreuses concessions de Sébastien Lecornu soumises au bon vouloir du prochain pouvoir",
-     "lien": "https://www.lefigaro.fr/actualite-france/face-a-la-jeunesse-de-nombreuses-concessions-de-sebastien-lecornu-soumises-au-bon-vouloir-du-prochain-pouvoir-20261026",
-     "resume": "DÉCRYPTAGE - Réforme de Parcoursup, recrutements… Le premier ministre a choisi de répondre à la contestation des lycéens et des étudiants. Mais ses mesures dépendent de l’adoption de son budget pour 2027 et des décisions d’un prochain gouvernement. Un tour…",
-     "date": "2026-10-26T18:58:09+01:00",
+     "titre": "En Israël, des élections cruciales pour définir l’identité d’une nation",
+     "lien": "https://www.lefigaro.fr/international/en-israel-des-elections-cruciales-pour-definir-l-identite-d-une-nation-20261026",
+     "resume": "RÉCIT - Après quatre années de crise, les sept millions d’électeurs israéliens vont devoir choisir, ce mardi 27 octobre, entre deux modèles de société.",
+     "date": "2026-10-26T18:50:00+01:00",
      "source": "",
-     "image": "https://i.f1g.fr/media/cms/2947x1658_crop/2026/10/26/347a2f0f75616e57afd2b9bdc2529a78a2016f498c9326e80b8462ea67e40e6c.jpg"
+     "image": "https://i.f1g.fr/media/cms/3000x1687_crop/2026/10/26/885f2b7571daf0aef38aeccf53dd08ea30ebc44c2e3d5e517605a535d8dd9746.jpg"
     },
     {
-     "titre": "Plus de profs qu’il y a 60 ans, mais un niveau scolaire en baisse : le paradoxe de l’école française",
-     "lien": "https://www.lefigaro.fr/actualite-france/plus-de-profs-qu-il-y-a-60-ans-mais-un-niveau-scolaire-en-baisse-le-paradoxe-de-l-ecole-francaise-20261026",
-     "resume": "DÉCRYPTAGE - Alors que les suppressions de postes suscitent la colère, l’Éducation nationale compte bien davantage d’enseignants que dans les années 1960. Mais cette hausse masque des évolutions contrastées entre le primaire et le secondaire.",
-     "date": "2026-10-26T19:00:00+01:00",
+     "titre": "Législatives en Israël : Gadi Eisenkot, l’«anti-Bibi» qui pourrait prendre le pouvoir",
+     "lien": "https://www.lefigaro.fr/international/legislatives-en-israel-gadi-eisenkot-l-anti-bibi-qui-pourrait-prendre-le-pouvoir-20261026",
+     "resume": "PORTRAIT - Le parti de l’ex-chef d’état-major de l’armée israélienne est donné par les sondages comme le principal adversaire de Benyamin Netanyahou. Moins charismatique que le chef du Likoud, il compte sur sa réputation d’intégrité et son image d’homme à…",
+     "date": "2026-10-27T06:37:18+01:00",
      "source": "",
-     "image": "https://i.f1g.fr/media/cms/3000x1687_crop/2026/10/26/6215ca10a33a5513bc131fb52cf19d4917d02c32744e103b8e16fe158cae991c.jpg"
+     "image": "https://i.f1g.fr/media/cms/2722x1531_crop/2026/10/26/f1247080ac080539fbed015fd319c3e086acbf5c9590c00e769a0ee649a0c82d.jpg"
     },
     {
-     "titre": "Refonte de Parcoursup, recrutement de profs, rénovation du bâti scolaire… Les promesses du gouvernement n’éteignent pas le mouvement lycéen",
-     "lien": "https://www.lefigaro.fr/actualite-france/refonte-de-parcoursup-recrutement-de-profs-renovation-du-bati-scolaire-ce-qu-il-faut-retenir-des-annonces-du-gouvernement-en-reponse-aux-lyceens-20261026",
-     "resume": "Alors que l’exécutif a annoncé ce lundi de premières réponses aux revendications des organisations syndicales, ces dernières ont appelé à poursuivre les mobilisations dès samedi.",
-     "date": "2026-10-26T19:27:50+01:00",
+     "titre": "Benyamin Netanyahou, de la mise au pas du Likoud à l’assaut des contre-pouvoirs",
+     "lien": "https://www.lefigaro.fr/international/benyamin-netanyahou-de-la-mise-au-pas-du-likoud-a-l-assaut-des-contre-pouvoirs-20261026",
+     "resume": "NETANYAHOU, LA SURVIE À TOUT PRIX (2/3) - Benyamin Netanyahou a marginalisé ses rivaux et fait du Likoud un parti à sa main. Il entend imposer aux institutions la loyauté qu’il exige de son camp. Avec l’appui de l’extrême droite, le premier ministre mène une…",
+     "date": "2026-10-26T12:50:52+01:00",
      "source": "",
-     "image": "https://i.f1g.fr/media/cms/3000x1687_crop/2026/10/26/e91cec7990e434da03d29b8d6e50c0919053e6f1aa448de0b83c79d656b5ed57.jpg"
+     "image": "https://i.f1g.fr/media/cms/1920x1080_crop/2026/10/23/283268177bafad98f30aa9e45bbcbc0752c0289a58f5eb7ac60b6250e87320b1.png"
     },
     {
-     "titre": "L’éditorial d’Yves Thréard : «Parcoursup, pas d’avenir sans sélection»",
-     "lien": "https://www.lefigaro.fr/vox/politique/l-editorial-d-yves-threard-parcoursup-pas-d-avenir-sans-selection-20261026",
-     "resume": "La chute vertigineuse du niveau des élèves français dans les classements internationaux, résultat de quarante ans de nivellement par le bas, devrait être l’une de nos premières préoccupations. La France a confondu égalité des chances et égalitarismes.",
-     "date": "2026-10-26T19:32:22+01:00",
+     "titre": "Législatives en Israël : que disent les derniers sondages ?",
+     "lien": "https://www.lefigaro.fr/international/legislatives-en-israel-que-disent-les-derniers-sondages-20261026",
+     "resume": "INFOGRAPHIE – Le premier ministre sortant Benyamin Netanyahou vise un septième mandat lors du premier scrutin depuis le 7-Octobre. Il est cependant concurrencé par un ancien chef d’État-major novice en politique, Gadi Eisenkot.",
+     "date": "2026-10-26T09:39:14+01:00",
      "source": "",
-     "image": "https://i.f1g.fr/media/cms/1918x1079_crop/2026/10/26/9de0ca44c13a70bc8046329f0dcbc3c935641398a44fdc403a03fc3f356d1928.jpg"
+     "image": "https://i.f1g.fr/media/cms/1920x1080_crop/2026/10/23/b37244ac45a45877c715836232fa069b81ee6ed2eb99ff6cdf9caae27658ad83.jpg"
     },
     {
      "titre": "Ballon d’Or : sacre de Kane à Londres, fuites et couacs, razzia espagnole… Le récit du Figaro sur les coulisses d’une interminable soirée",
      "lien": "https://www.lefigaro.fr/sports/football/ballon-d-or-sacre-de-kane-a-londres-fuites-et-couacs-razzia-espagnole-le-recit-du-figaro-sur-les-coulisses-d-une-interminable-soiree-20261027",
      "resume": "REPORTAGE – Découvrez les coulisses du Ballon d’Or 2026, avec le récit de notre envoyé spécial à Londres lundi soir. Entre émotions, vrai couac et longueurs.",
-     "date": "2026-10-27T06:12:19+01:00",
+     "date": "2026-10-27T06:49:04+01:00",
      "source": "",
-     "image": "https://i.f1g.fr/media/cms/2333x1312_crop/2026/10/27/fae3fc5038aa5543916c8f3ee97e6326bd141d122f7785ee0e576d083e61c03d.jpg"
+     "image": "https://i.f1g.fr/media/cms/2333x1312_crop/2026/10/27/41773c25c2f47b21e4a851441fe6fcacef349df15a535d229d07dbeaf94b8d0c.jpg"
     },
     {
-     "titre": "Ballon d’Or : Harry Kane, la consécration du buteur-créateur",
-     "lien": "https://www.lefigaro.fr/sports/football/ballon-d-or-harry-kane-sacre-pour-la-premiere-fois-20261026",
-     "resume": "À 33 ans, l’attaquant du Bayern et des Three Lions anglais a été consacré ce lundi, à Londres, 70 ans après Stanley Matthews, premier lauréat du Ballon d’Or.",
-     "date": "2026-10-27T01:15:36+01:00",
+     "titre": "Détresse de Yamal, Mbappé stoïque, sourire d’Olise: en vidéo, revivez l’annonce du Ballon d’Or décerné à Harry Kane… et les réactions diverses",
+     "lien": "https://www.lefigaro.fr/sports/football/detresse-de-yamal-mbappe-stoique-sourire-d-olise-en-video-revivez-l-annonce-du-ballon-d-or-decerne-a-harry-kane-et-les-reactions-diverses-20261027",
+     "resume": "LE SCAN SPORT - La réaction des candidats au Ballon d’Or n’a pas été la même au moment de la remise de prix à Harry Kane.",
+     "date": "2026-10-27T06:49:35+01:00",
      "source": "",
-     "image": "https://i.f1g.fr/media/cms/3000x2056_crop/2026/10/26/6086bf93c2a0f473bbddbd4720bec4c0c19d2da7495f69f35dcdbb8db59381e9.jpg"
+     "image": "https://i.f1g.fr/media/cms/orig/2026/10/27/50100b92e5e0657a1915980fcdddd0d71f81bfd810b6b697107d3ba8be39a716.jpg"
     }
    ],
    "flux_utilise": "https://www.lefigaro.fr/rss/figaro_actualites.xml"
@@ -109,7 +109,7 @@
      "titre": "Législatives en Israël : Benyamin Nétanyahou face aux électeurs pour la première fois depuis les attaques du 7-Octobre",
      "lien": "https://www.lemonde.fr/international/article/2026/10/27/legislatives-en-israel-benyamin-netanyahou-face-aux-electeurs-pour-la-premiere-fois-depuis-les-attaques-du-7-octobre_6801101_3210.html",
      "resume": "Le premier ministre sortant joue son avenir politique dans un scrutin où les sondages le donnent au coude-à-coude avec le bloc principal de l’opposition emmené par un ancien chef de l’armée, le centriste Gadi Eisenkot.",
-     "date": "2026-10-27T05:47:18+01:00",
+     "date": "2026-10-27T05:47:15+01:00",
      "source": "",
      "image": "https://img.lemde.fr/2026/10/16/85/0/1023/511/644/322/60/0/ce21e30_ftp-1-8lmh3m7ecdmw-afp-d3a23xv-1024.jpg"
     },
@@ -129,11 +129,51 @@
    "nom": "La Croix",
    "couleur": "#c8102e",
    "une": {
-    "fichier": "unes/croix.jpg",
-    "date": "2026-10-26",
-    "source": "https://img.kiosko.net/2026/10/26/fr/lacroix.750.jpg"
+    "fichier": "unes/croix.webp",
+    "date": "2026-10-27",
+    "source": "https://www.frontpages.com/t/2026/10/27/la-croix-063422sg4@2x.webp"
    },
    "articles": [
+    {
+     "titre": "Rencontres d’Assise : quand les religions découvraient la puissance de la prière pour la paix",
+     "lien": "https://www.la-croix.com/religion/rencontres-d-assise-quand-les-religions-decouvraient-la-puissance-de-la-priere-pour-la-paix-20261026",
+     "resume": "Pour la première fois, le 27 octobre 1986, à l’initiative de Jean-Paul II, les grandes religions du monde étaient réunies pour prier pour la paix. Quarante ans plus tard, retour sur cet événement audacieux et prophétique, qui a manifesté – non sans…",
+     "date": "2026-10-27T06:55:06+01:00",
+     "source": "",
+     "image": "https://i.la-croix.com/x/2026/10/26/2572802-de-gauche-a-droite-le-metropolite-gabriel-saliba-r.jpg"
+    },
+    {
+     "titre": "Ballon d’Or masculin 2026 : Harry Kane sacré, Kylian Mbappé termine deuxième",
+     "lien": "https://www.la-croix.com/foot-la-ceremonie-du-ballon-d-or-2026-a-debute-20261025",
+     "resume": "L’attaquant anglais du Bayern Munich, Harry Kane, auteur d’une saison 2025-2026 prolifique sur le plan statistique, a été sacré Ballon d’Or 2026, lundi 26 octobre à Londres. Le capitaine de la sélection anglaise succède au palmarès à l’attaquant français du…",
+     "date": "2026-10-27T06:35:40+01:00",
+     "source": "",
+     "image": "https://i.la-croix.com/x/2026/10/26/2573264-alexia-putellas-et-harry-kane-posent-avec-leurs-ba.jpg"
+    },
+    {
+     "titre": "Budget : 3 millions de dépendants en 2030, et toujours pas de piste de financement",
+     "lien": "https://www.la-croix.com/economie/budget-3-millions-de-dependants-en-2030-et-toujours-pas-de-piste-de-financement-20261026",
+     "resume": "Les députés se sont opposés, vendredi 23 octobre 2026, au transfert de 300 millions d’euros de la Caisse nationale de solidarité pour l’autonomie (CNSA) vers les départements. Alors que trois millions de personnes âgées seront dépendantes en 2030, cette…",
+     "date": "2026-10-27T06:35:17+01:00",
+     "source": "",
+     "image": "https://i.la-croix.com/x/2026/10/26/2573060-une-aide-soignante-assiste-une-personne-agee-dans-.jpg"
+    },
+    {
+     "titre": "En Israël, la minorité arabe espère se faire entendre aux élections : « Nos voix peuvent faire tomber Netanyahou »",
+     "lien": "https://www.la-croix.com/international/en-israel-la-minorite-arabe-espere-se-faire-entendre-aux-elections-nos-voix-peuvent-faire-tomber-netanyahou-20261026",
+     "resume": "D’ordinaire peu mobilisés pour les élections, les Arabes israéliens sont déterminés à voter massivement lors des législatives, ce mardi 27 octobre 2026. Leurs élus pourraient jouer les faiseurs de roi, même si aucun parti juif ne compte officiellement…",
+     "date": "2026-10-27T06:35:14+01:00",
+     "source": "",
+     "image": "https://i.la-croix.com/x/2026/10/26/2572920-une-femme-bedouine-passe-devant-des-panneaux-d-aff.JPG"
+    },
+    {
+     "titre": "Mouvement lycéen : « Le gouvernement a répondu concrètement aux demandes des jeunes »",
+     "lien": "https://www.la-croix.com/societe/mouvement-lyceen-le-gouvernement-a-repondu-concretement-aux-demandes-des-jeunes-20261027",
+     "resume": "Remplacement de Parcoursup, ouverture de places dans l’enseignement supérieur, création de postes d’enseignants… Selon Marie-Caroline Missir, déléguée générale du think tank VersLeHaut (1), les mesures « très concrètes » dévoilées lundi 26 octobre pour…",
+     "date": "2026-10-27T06:16:19+01:00",
+     "source": "",
+     "image": "https://i.la-croix.com/x/2026/10/27/2573317-le-cortege-de-la-fage-un-syndicat-etudiant-lors-de.jpg"
+    },
     {
      "titre": "L’urgence d’imaginer une autre façon d’être ensemble",
      "lien": "https://www.la-croix.com/a-vif/l-urgence-dimaginer-une-autre-facon-detre-ensemble-20261026",
@@ -141,46 +181,6 @@
      "date": "2026-10-27T04:01:15+01:00",
      "source": "",
      "image": "https://i.la-croix.com/x/2026/09/28/25469101-touhfat-mouhtare.jpg"
-    },
-    {
-     "titre": "Ces 8 millions de personnes qui émettent presque autant de CO2 que la moitié de l’humanité",
-     "lien": "https://www.la-croix.com/planete/ces-8-millions-de-personnes-qui-emettent-presque-autant-de-co2-que-la-moitie-de-l-humanite-20261026",
-     "resume": "Dans un rapport publié le 27 octobre, l’ONG Oxfam International affirme que les 0,1 % les plus riches de la planète, soit 8 millions de personnes, émettent plus de pollution carbone que 3,5 milliards de personnes, soit quasiment la moitié de l’humanité.",
-     "date": "2026-10-27T00:02:19+01:00",
-     "source": "",
-     "image": "https://i.la-croix.com/x/2026/10/26/2572912-des-passants-passent-devant-un-panneau-publicitair.jpg"
-    },
-    {
-     "titre": "Guerre au Moyen-Orient : une nappe de pétrole s’étend près du littoral des Émirats",
-     "lien": "https://www.la-croix.com/planete/guerre-au-moyen-orient-une-nappe-de-petrole-s-etend-pres-du-littoral-des-emirats-20261026",
-     "resume": "Au large des Émirats arabes unis, une nappe de pétrole issue du tanker touché par un projectile a quintuplé en quelques jours pour atteindre 750 km². Lundi 26 octobre, plusieurs experts ont tiré la sonnette d’alarme sur les risques environnementaux et…",
-     "date": "2026-10-26T22:30:14+01:00",
-     "source": "",
-     "image": "https://i.la-croix.com/x/2026/10/26/2573183-au-large-des-emirats-arabes-unis-une-nappe-de-petr.jpg"
-    },
-    {
-     "titre": "Guerre en Ukraine : ce qu’il faut retenir de la situation du lundi 26 octobre",
-     "lien": "https://www.la-croix.com/international/ukraine-russie-jour-1706-point-conflit-ukrainien-poutine-aujourdhui-20261026",
-     "resume": "Une attaque de drones ukrainienne a fait deux morts et 17 blessés dans l’ouest de la Russie. Volodymyr Zelensky a confirmé qu’une réunion entre Kiev et Moscou aura lieu en novembre sous médiation américaine. Suivez l’actualité de la guerre en Ukraine ce…",
-     "date": "2026-10-26T21:36:58+01:00",
-     "source": "",
-     "image": "https://i.la-croix.com/x/2026/10/26/2572439-des-passagers-attendent-pres-d-un-train-lors-dune-.jpg"
-    },
-    {
-     "titre": "Guerre au Moyen-Orient : Israël accusé d’« extermination » en Cisjordanie… Le bilan du lundi 26 octobre",
-     "lien": "https://www.la-croix.com/international/direct-guerre-iran-israel-usa-jour-126-moyen-orient-bilan-resume-aujourdhui-20261026",
-     "resume": "Des frappes israéliennes dans la bande de Gaza ont tué cinq personnes, dont une fillette. Une commission mandatée par l’ONU maintient ses accusations de génocide à Gaza et accuse Israël d’« extermination » en Cisjordanie. Suivez l’actualité du conflit au…",
-     "date": "2026-10-26T21:36:21+01:00",
-     "source": "",
-     "image": "https://i.la-croix.com/x/2026/10/26/2572504-des-palestiniens-en-attente-d-aide-alimentaire-le-.jpg"
-    },
-    {
-     "titre": "Suite des manifestations du 24 octobre : des organisations lycéennes appellent à poursuivre la mobilisation",
-     "lien": "https://www.la-croix.com/societe/manifestation-du-24-octobre-1-435-interpellations-emmanuel-macron-attendu-a-marseille-20261026",
-     "resume": "Selon le gouvernement, 1 435 personnes ont été interpellées et 267 policiers et gendarmes ont été blessés samedi. Emmanuel Macron est arrivé à Marseille où il a rencontré le maire Benoît Payan. Suivez l’actualité de la crise sociale et lycéenne, du lundi 26…",
-     "date": "2026-10-26T21:33:17+01:00",
-     "source": "",
-     "image": "https://i.la-croix.com/x/2026/10/26/2572553-lors-de-la-manifestation-marseillaise-samedi-24-oc.jpg"
     }
    ],
    "flux_utilise": "https://www.la-croix.com/feeds/rss/site.xml"
@@ -196,52 +196,52 @@
    },
    "articles": [
     {
-     "titre": "Passeur puis buteur face à l'OL : et si Mika Godts avait enfin pris la mesure du défi qui l'attend au PSG ?",
-     "lien": "https://www.lequipe.fr/Football/Article/Passeur-puis-buteur-face-a-l-ol-et-si-mika-godts-avait-enfin-pris-la-mesure-du-defi-qui-l-attend-a-paris/1738932#at_medium=RSS_feeds",
-     "resume": "Discret depuis son arrivée, l'ailier belge Mika Godts, très attendu avec la blessure de Khvitcha Kvaratskhelia, a profité de sa demi-heure pour se muer en passeur puis buteur pour faire basculer le match du PSG contre Lyon lundi (2-0). Un match qui peut…",
-     "date": "2026-10-27T05:29:00+01:00",
+     "titre": "Ballon d'Or 2026 : Luis de la Fuente - Unai Simon, la force de l'union récompensée",
+     "lien": "https://www.lequipe.fr/Football/Actualites/Ballon-d-or-2026-luis-de-la-fuente-unai-simon-la-force-de-l-union-recompensee/1738913#at_medium=RSS_feeds",
+     "resume": "Le sélectionneur et le gardien de la Roja ont profité du titre de l'Espagne à la Coupe du monde pour dominer leurs catégories respectives au Ballon d'Or ce lundi, celles de meilleur entraîneur et meilleur gardien. La récompense d'un langage commun et d'une…",
+     "date": "2026-10-27T06:44:00+01:00",
      "source": "",
-     "image": "https://medias.lequipe.fr/img-photo-jpg/mika-godts-au-duel-avec-le-defenseur-de-l-ol-ruben-kluivert-lionel-hahn-l-equipe/1500000002634533/0:0,2000:1333-828-552-75/0c583.jpg"
+     "image": "https://medias.lequipe.fr/img-photo-jpg/luis-de-la-fuente-a-gauche-et-unai-simon-recevant-leurs-trophees-e-garnier-l-equipe/1500000002634459/0:0,1500:1000-828-552-75/11738.jpg"
     },
     {
-     "titre": "Pour Kylian Mbappé, la quête du Ballon d'Or continue : « Ça nourrit un chemin, un storytelling »",
-     "lien": "https://www.lequipe.fr/Football/Article/Pour-kylian-mbappe-la-quete-du-ballon-d-or-continue-ca-nourrit-un-chemin-un-storytelling/1738956#at_medium=RSS_feeds",
-     "resume": "Depuis le début de sa carrière, Kylian Mbappé court après les buts, les trophées collectifs et le Ballon d'Or. Pour la deuxième fois sur le podium sans gagner, le capitaine des Bleus doit repartir à la conquête de son « Graal ».",
-     "date": "2026-10-27T05:17:00+01:00",
+     "titre": "Le sacre de Harry Kane au Ballon d'Or 2026, un éloge de la patience et une leçon pour Kylian Mbappé",
+     "lien": "https://www.lequipe.fr/Football/Article/Le-sacre-de-harry-kane-au-ballon-d-or-2026-un-eloge-de-la-patience-et-une-lecon-pour-kylian-mbappe/1738924#at_medium=RSS_feeds",
+     "resume": "En remportant ce lundi le Ballon d'Or, à 33 ans et après avoir traversé de longues saisons sans trophées, Harry Kane montre qu'il faut savoir persévérer pour que le talent soit récompensé. Une leçon pour Kylian Mbappé ?",
+     "date": "2026-10-27T06:38:00+01:00",
      "source": "",
-     "image": "https://medias.lequipe.fr/img-photo-jpg/kylian-mbappe-sur-le-tapis-rouge-a-londres-lundi-e-garnier-l-equipe/1500000002634602/462:311,1995:1333-828-552-75/d34e0.jpg"
+     "image": "https://medias.lequipe.fr/img-photo-jpg/-/1500000002634516/0:0,1500:1000-828-552-75/e9858.jpg"
     },
     {
-     "titre": "Hourra Kane : la fin d'une longue quête pour l'ancien loser, récompensé du Ballon d'Or 2026",
-     "lien": "https://www.lequipe.fr/Football/Article/Hourra-kane-la-longue-quete-de-harry-avant-de-remporter-le-ballon-d-or-2026/1738953#at_medium=RSS_feeds",
-     "resume": "Lauréat du Ballon d'Or à 33 ans, Harry Kane s'est imposé lundi à Londres grâce à sa pugnacité et sa résilience, après avoir été durablement considéré comme un loser patenté.",
-     "date": "2026-10-27T05:04:00+01:00",
+     "titre": "Ballon d'Or 2026 : la soirée de Kylian Mbappé, d'un espoir grandissant à l'accolade au vainqueur",
+     "lien": "https://www.lequipe.fr/Football/Article/Ballon-d-or-2026-la-soiree-de-kylian-mbappe-d-un-espoir-grandissant-a-l-accolade-au-vainqueur/1738958#at_medium=RSS_feeds",
+     "resume": "Pas sûr que la deuxième place de Kylian Mbappé, la meilleure de sa carrière au classement du Ballon d'Or, ait suffi pour le consoler. Le capitaine de l'équipe de France n'a pas vécu la cérémonie qu'il avait rêvée.",
+     "date": "2026-10-27T06:27:00+01:00",
      "source": "",
-     "image": "https://medias.lequipe.fr/img-photo-jpg/harry-kane-tout-sourire-avec-le-ballon-d-or-dans-les-mains-f-faugere-l-equipe/1500000002634589/143:52,1973:1273-828-552-75/202cb.jpg"
+     "image": "https://medias.lequipe.fr/img-photo-jpg/kylian-mbappe-au-london-palladium-au-moment-de-l-annonce-du-vainqueur-du-ballon-d-or-2026-f-faugere-l-equipe/1500000002634588/0:0,2000:1333-828-552-75/5763b.jpg"
     },
     {
-     "titre": "Harry Kane, reculer pour mieux régner ?",
-     "lien": "https://www.lequipe.fr/collection/podcasts/serie/big-5/#at_medium=RSS_feeds",
+     "titre": "Le résumé vidéo de Denver Nuggets - Golden State Warriors",
+     "lien": "https://www.lequipe.fr/Basket/Video/Nba-le-resume-video-de-denver-nuggets-golden-state-warriors/20244225#at_medium=RSS_feeds",
      "resume": "",
-     "date": "2026-10-27T01:10:00+01:00",
+     "date": "2026-10-27T06:15:00+01:00",
      "source": "",
      "image": "https://medias.lequipe.fr/img-photo-png/-/1500000000833469/0-828-552-75/0cb67.png"
     },
     {
-     "titre": "Le Ballon d'Or continue de se refuser à Lamine Yamal, battu par des concurrents aux statistiques encore plus affolantes",
-     "lien": "https://www.lequipe.fr/Football/Actualites/Le-ballon-d-or-continue-de-se-refuser-a-lamine-yamal-battu-par-des-concurrents-aux-statistiques-encore-plus-affolantes/1738954#at_medium=RSS_feeds",
-     "resume": "Acteur secondaire du titre mondial de la Roja, Lamine Yamal a une nouvelle fois été devancé au classement du Ballon d'Or lundi (3e derrière Harry Kane et Kylian Mbappé) et a dû se contenter du prix du Jeune talent de la saison.",
-     "date": "2026-10-27T01:04:26+01:00",
+     "titre": "« Ils savent comment l'histoire va finir » : inéluctable et encore poussé par ses entrants, le PSG retrouve sa place au sommet de la Ligue 1",
+     "lien": "https://www.lequipe.fr/Football/Article/-ils-savent-comment-l-histoire-va-finir-ineluctable-et-encore-pousse-par-ses-entrants-le-psg-retrouve-sa-place-au-sommet-de-la-ligue-1/1738928#at_medium=RSS_feeds",
+     "resume": "En dominant l'OL en fin de match (2-0), sa huitième victoire d'affilée, au bout d'une soirée parfois poussive, le PSG a pris la place de leader pour la première fois de la saison. Il n'est pas sûr qu'il la perde, d'ici au mois de mai.",
+     "date": "2026-10-27T06:14:00+01:00",
      "source": "",
-     "image": "https://medias.lequipe.fr/img-photo-jpg/lamine-yamal-termine-sur-le-podium-du-ballon-d-or-pour-la-troisieme-fois-de-sa-carriere-e-garnier-l-equipe/1500000002634599/0:0,2000:1333-828-552-75/6fdef.jpg"
+     "image": "https://medias.lequipe.fr/img-photo-jpg/les-entrants-mika-godts-et-senny-mayulu-ici-ont-encore-fait-la-difference-pour-le-psg-s-boue-l-equipe/1500000002634522/0:0,1500:1000-828-552-75/024e9.jpg"
     },
     {
-     "titre": "Les notes de PSG-OL",
-     "lien": "https://www.lequipe.fr/Football/Article/Les-notes-de-psg-ol-zabarnyi-serein-merah-depasse/1738911#at_medium=RSS_feeds",
-     "resume": "",
-     "date": "2026-10-27T01:03:00+01:00",
+     "titre": "Ballon d'Or 2026 : chez les femmes, la razzia du Barça",
+     "lien": "https://www.lequipe.fr/Football/Actualites/Ballon-d-or-2026-chez-les-femmes-la-razzia-du-barca/1738903#at_medium=RSS_feeds",
+     "resume": "Après sa saison couronnée de succès, le FC Barcelone en a récolté les lauriers en raflant toutes les récompenses, lundi à Londres, dans une soirée à forte tendance blaugrana.",
+     "date": "2026-10-27T06:06:00+01:00",
      "source": "",
-     "image": "https://medias.lequipe.fr/img-photo-png/-/1500000000833469/0-828-552-75/0cb67.png"
+     "image": "https://medias.lequipe.fr/img-photo-jpg/les-joueuses-du-fc-barcelone-ont-realise-un-quadruple-en-2025-2026-remportant-notamment-la-finale-de-la-ligue-des-champions-contre-lyon-4-0-le-23-mai-b-papon-l-equipe/1500000002634304/0:0,2000:1333-828-552-75/403ea.jpg"
     }
    ],
    "flux_utilise": "https://dwh.lequipe.fr/api/edito/rss?path=/"
@@ -260,18 +260,8 @@
      "date": "2026-10-27T05:15:11+01:00",
      "source": "lemonde.fr",
      "image": "https://img.lemde.fr/2026/10/26/394/0/4827/2413/644/322/60/0/cc816de_ftp-1-axx1jqzwtzc6-2026-10-26t020144z-1553623002-rc2paoaxw2gb-rtrmadp-3-brazil-election.JPG",
-     "reprises": 13,
-     "score": 44.32
-    },
-    {
-     "titre": "Législatives en Israël : Benyamin Nétanyahou face aux électeurs pour la première fois depuis les attaques du 7-Octobre",
-     "lien": "https://www.lemonde.fr/international/article/2026/10/27/legislatives-en-israel-benyamin-netanyahou-face-aux-electeurs-pour-la-premiere-fois-depuis-les-attaques-du-7-octobre_6801101_3210.html",
-     "resume": "Le premier ministre sortant joue son avenir politique dans un scrutin où les sondages le donnent au coude-à-coude avec le bloc principal de l’opposition emmené par un ancien chef de l’armée, le centriste Gadi Eisenkot.",
-     "date": "2026-10-27T05:47:18+01:00",
-     "source": "lemonde.fr",
-     "image": "https://img.lemde.fr/2026/10/16/85/0/1023/511/644/322/60/0/ce21e30_ftp-1-8lmh3m7ecdmw-afp-d3a23xv-1024.jpg",
-     "reprises": 4,
-     "score": 12.44
+     "reprises": 7,
+     "score": 28.01
     },
     {
      "titre": "Avant les midterms, Donald Trump promet un million de dollars pour toute information débouchant sur une condamnation pour fraude électorale",
@@ -280,8 +270,18 @@
      "date": "2026-10-27T02:36:44+01:00",
      "source": "lemonde.fr",
      "image": "https://img.lemde.fr/2026/10/27/293/0/7836/3918/644/322/60/0/9998802_ftp-1-ttx0cigayj1j-2302151939.jpg",
-     "reprises": 6,
-     "score": 12.11
+     "reprises": 7,
+     "score": 13.81
+    },
+    {
+     "titre": "Législatives en Israël : Benyamin Nétanyahou face aux électeurs pour la première fois depuis les attaques du 7-Octobre",
+     "lien": "https://www.lemonde.fr/international/article/2026/10/27/legislatives-en-israel-benyamin-netanyahou-face-aux-electeurs-pour-la-premiere-fois-depuis-les-attaques-du-7-octobre_6801101_3210.html",
+     "resume": "Le premier ministre sortant joue son avenir politique dans un scrutin où les sondages le donnent au coude-à-coude avec le bloc principal de l’opposition emmené par un ancien chef de l’armée, le centriste Gadi Eisenkot.",
+     "date": "2026-10-27T05:47:15+01:00",
+     "source": "lemonde.fr",
+     "image": "https://img.lemde.fr/2026/10/16/85/0/1023/511/644/322/60/0/ce21e30_ftp-1-8lmh3m7ecdmw-afp-d3a23xv-1024.jpg",
+     "reprises": 4,
+     "score": 12.13
     },
     {
      "titre": "L'Anglais Harry Kane remporte le Ballon d'Or 2026, le premier de sa carrière",
@@ -291,7 +291,7 @@
      "source": "france24.com",
      "image": null,
      "reprises": 4,
-     "score": 9.78
+     "score": 9.69
     },
     {
      "titre": "EN DIRECT, guerre en Ukraine : une trêve humanitaire est censée avoir commencé à Olechky, ville ukrainienne sous occupation russe",
@@ -301,17 +301,17 @@
      "source": "lemonde.fr",
      "image": "https://img.lemde.fr/2026/10/17/442/0/3051/1525/644/322/60/0/7f75b42_ftp-1-lvgjaz50moxm-e4f8b194f57c4de99ed0f8082dc7fbad-1-285b8ed625824d9bb1a1830b6b195f85.jpg",
      "reprises": 3,
-     "score": 8.71
+     "score": 8.67
     },
     {
-     "titre": "Venezuela : Corina Machado se dit prête à rencontrer Delcy Rodriguez, qui dénonce son « show »",
-     "lien": "https://www.lemonde.fr/international/article/2026/10/26/venezuela-corina-machado-se-dit-prete-a-rencontrer-delcy-rodriguez-qui-denonce-son-show_6800836_3210.html",
-     "resume": "Accueillie par une foule enthousiaste, Maria Corina Machado pourrait s’adresser prochainement au pays et relancer le dialogue politique avec la présidente par intérim, Delcy Rodriguez.",
-     "date": "2026-10-26T20:31:09+01:00",
+     "titre": "James Comey, ancien directeur du FBI et critique de Donald Trump, est de nouveau poursuivi en justice, cette fois pour fuite d’informations confidentielles",
+     "lien": "https://www.lemonde.fr/international/article/2026/10/27/james-comey-ancien-directeur-du-fbi-et-critique-de-donald-trump-est-de-nouveau-poursuivi-en-justice-cette-fois-pour-fuite-d-informations-confidentielles_6800882_3210.html",
+     "resume": "Dans des documents rendus publics lundi, le ministère de la justice américain accuse l’homme de 65 ans d’avoir sciemment communiqué des informations relatives à la défense nationale à une personne qui n’était pas autorisée à les recevoir, en 2016, alors…",
+     "date": "2026-10-27T00:55:41+01:00",
      "source": "lemonde.fr",
-     "image": "https://img.lemde.fr/2026/10/26/417/0/5628/2814/644/322/60/0/31f0afc_ftp-1-lf7emxldjpyq-afp-d4en9yx.jpg",
+     "image": "https://img.lemde.fr/2017/06/08/222/0/3500/1750/644/322/60/0/08cd2a3_WAS17_USA-TRUMP-RUSSIA_0608_11.JPG",
      "reprises": 4,
-     "score": 6.87
+     "score": 7.06
     }
    ],
    "a_traduire": []
@@ -328,8 +328,8 @@
      "date": "2026-10-27T06:10:08+01:00",
      "source": "Les Echos",
      "image": null,
-     "reprises": 20,
-     "score": 51.73
+     "reprises": 12,
+     "score": 51.36
     },
     {
      "titre": "Anthropic, le créateur de l'IA Claude, prépare son entrée en Bourse malgré des milliards de dollars de pertes",
@@ -338,8 +338,8 @@
      "date": "2026-10-26T20:11:40+01:00",
      "source": "franceinfo",
      "image": null,
-     "reprises": 8,
-     "score": 15.55
+     "reprises": 7,
+     "score": 13.38
     },
     {
      "titre": "Tous les regards tournés vers l’intelligence artificielle",
@@ -349,27 +349,27 @@
      "source": "Zonebourse Suisse",
      "image": null,
      "reprises": 3,
-     "score": 7.03
+     "score": 6.94
     },
     {
-     "titre": "OpenAI déconnecte ses modèles d'IA les plus avancés d'Internet après un incident inquiétant",
-     "lien": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQUF91bjFvUzBQZXFTanNBN2RsMmhwb1hzdGRRSnhETGJLZHZuMjFlM0FUSkdRNXYxbXp3T0h4OWxkRDA5UVl3d3RtSVVwdWE5WG5ESlRQaVFFbUtBN0NDdXk5TTBIa09WeVFCdUVIOXlJNFdTenB4dEI5dXl6ZlRwY0xNdFQyQy1uZzFfS0p2clNSWXlYNmFsSldzYkJ0QUttLXl1TjBadF8yQ0MzUXZuell4TTY2OFJTNnVfbWxDcnM3Q0xj?oc=5",
+     "titre": "L’UdeM crée une chaire en intelligence artificielle consacrée aux soins cardiovasculaires",
+     "lien": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxOS2hTd2o4ei1NN2FkMjJyZmo1NVBmRFdPem9vLVIzSTVQVnJrX0FXcnhMM0hkY3ZJMTN4UDRvLWd4NENGdjNvZUN6VGRURWtzZTNqR3lCdjZLZXprdlRabmNCTVFZSDNMRW4ybUVxR0doSm5Kdnd4WGtZbjVOa0VqZUxOdS1pWTNoWW1uWGZxVDlBMXEtcTVLVzVOOHV3SmtiUHpuWVdFT0xtN2NZalZkclFueTRiYkZLVGJIZ3pKaU4xT3VVRjN2MmRmZFA1VDJKd0RYanNn?oc=5",
      "resume": "",
-     "date": "2026-10-26T15:14:57+01:00",
-     "source": "Siècle Digital",
+     "date": "2026-10-26T21:32:09+01:00",
+     "source": "Université de Montréal",
      "image": null,
      "reprises": 3,
-     "score": 6.0
+     "score": 4.69
     },
     {
-     "titre": "OpenAI lance GPT-6.1 Terra à 1 $/M entrée et 5 $/M sortie",
-     "lien": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQWnE0WV9CeThzVzRRdlJfODZlY00yZEktcmp2TnkydV9FY25LaHA3ZEJEclUyekx5X3pLXzZrMENmVG9JQjlHZGc4MFRyczUtVmxtRThCcUxWWHYzVEY3WC1nRS1LVHlhbG9abWNVY2ZBXzJDTFRTMGVia1NCSnUyczZuU0lQQUJQT0llbA?oc=5",
+     "titre": "Le peer review fait par l’intelligence artificielle : nous y sommes très bientôt",
+     "lien": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQRDVRTVVNdVgwUFVlQXZCVC1lSVFwaF94MlM0SVhZeDR4WGJQaVlMOFQ1MG9ROEM4aHVzeEtCeDlnUHVsTGs4Q2E2Q3AtNVF5c2hWc0tpb0FIMnFKemNGVGhJOGJDUzlUNUoxUW1HbndNcnowbFkxTGFLNnU2Zm1LZW95UlNSeEJzaXRyaExZak9hSUhCR0tMeERrUTJlMnNrdFB5OTJkNTJrMFlqYUF5d0gydzdKeWJpT3c?oc=5",
      "resume": "",
-     "date": "2026-10-27T02:04:51+01:00",
-     "source": "Brief IA",
+     "date": "2026-10-27T06:00:45+01:00",
+     "source": "Rédaction Médicale et Scientifique",
      "image": null,
      "reprises": 2,
-     "score": 3.18
+     "score": 3.28
     }
    ],
    "a_traduire": [
@@ -381,7 +381,7 @@
      "source": "theverge.com",
      "image": null,
      "reprises": 2,
-     "score": 3.7
+     "score": 3.68
     },
     {
      "titre": "OpenAI announces three big science discoveries and a new way to work with academics",
@@ -391,7 +391,17 @@
      "source": "theverge.com",
      "image": null,
      "reprises": 1,
-     "score": 1.51
+     "score": 1.49
+    },
+    {
+     "titre": "How Fanatics and OpenAI streamline the fan experience",
+     "lien": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5GRWpJMGllcmFCenRQX3NkLVZUaTBZMlE3R1IwVGZ5MzVEM29hVmFrbE5FeE5HMW1MWmJVa08tQ0x0UVAtZEZQT292UGZGelVhRDVtdmRwN3BuZUViM19UMXVPNnVxYXpsWVEzc3hiMkFpVmxX?oc=5",
+     "resume": "",
+     "date": "2026-10-26T23:00:52+01:00",
+     "source": "OpenAI",
+     "image": null,
+     "reprises": 1,
+     "score": 1.47
     },
     {
      "titre": "Anthropic is burning gas to feed the AI boom",
@@ -401,7 +411,7 @@
      "source": "theverge.com",
      "image": null,
      "reprises": 1,
-     "score": 1.35
+     "score": 1.33
     },
     {
      "titre": "Anthropic officially files for its public debut",
@@ -411,7 +421,7 @@
      "source": "techcrunch.com",
      "image": null,
      "reprises": 1,
-     "score": 1.23
+     "score": 1.21
     }
    ]
   },
@@ -427,8 +437,8 @@
      "date": "2026-10-26T10:46:40+01:00",
      "source": "franceinfo",
      "image": null,
-     "reprises": 8,
-     "score": 17.5,
+     "reprises": 12,
+     "score": 25.76,
      "libertes": true
     },
     {
@@ -438,8 +448,8 @@
      "date": "2026-10-26T09:53:00+01:00",
      "source": "Creusot Infos",
      "image": null,
-     "reprises": 5,
-     "score": 10.11,
+     "reprises": 4,
+     "score": 7.77,
      "libertes": true
     },
     {
@@ -450,19 +460,8 @@
      "source": "Ouest-France",
      "image": null,
      "reprises": 3,
-     "score": 5.96,
+     "score": 6.22,
      "libertes": true
-    },
-    {
-     "titre": "Loge-Fougereuse : le projet éolien renvoyé devant la justice après l’arrêt du Conseil d’État",
-     "lien": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQMUtBOU5ZQjBfNldIU2RnX3NyODFCc2ZvNGtybHFmdDJ3M3R0UUtTblVWazgyTXhOZ2hkcV9Cdy1DU08yU25WRnQwX3hqb2tMMTV1ck5UUmkxejliaWFhcVhLSGREOTlkdE56anZyeXJ5cDJhV2duaG5ibnBhc0ZMRG9Pemx4MkRxM2ZOS1pYclUtcUU0VXMwWGFMUklzR08tdFlTbW11QQ?oc=5",
-     "resume": "",
-     "date": "2026-10-26T20:56:18+01:00",
-     "source": "infos-media-nantes.fr",
-     "image": null,
-     "reprises": 2,
-     "score": 3.18,
-     "libertes": false
     },
     {
      "titre": "Déclaration d’appel avec une mauvaise adresse : la Cour de cassation précise le délai de correction",
@@ -472,7 +471,18 @@
      "source": "Juriguide",
      "image": null,
      "reprises": 1,
-     "score": 3.15,
+     "score": 3.25,
+     "libertes": false
+    },
+    {
+     "titre": "Loge-Fougereuse : le projet éolien renvoyé devant la justice après l’arrêt du Conseil d’État",
+     "lien": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQMUtBOU5ZQjBfNldIU2RnX3NyODFCc2ZvNGtybHFmdDJ3M3R0UUtTblVWazgyTXhOZ2hkcV9Cdy1DU08yU25WRnQwX3hqb2tMMTV1ck5UUmkxejliaWFhcVhLSGREOTlkdE56anZyeXJ5cDJhV2duaG5ibnBhc0ZMRG9Pemx4MkRxM2ZOS1pYclUtcUU0VXMwWGFMUklzR08tdFlTbW11QQ?oc=5",
+     "resume": "",
+     "date": "2026-10-26T20:56:18+01:00",
+     "source": "infos-media-nantes.fr",
+     "image": null,
+     "reprises": 2,
+     "score": 3.22,
      "libertes": false
     },
     {
@@ -483,7 +493,7 @@
      "source": "Orange Actualités",
      "image": null,
      "reprises": 2,
-     "score": 2.74,
+     "score": 2.77,
      "libertes": false
     }
    ],
