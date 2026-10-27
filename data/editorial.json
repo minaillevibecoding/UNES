@@ -1,110 +1,120 @@
 {
- "date": "2026-10-26",
- "edito": "Surprise au Brésil : Lula, distancé au premier tour, est réélu avec 51,76 % des voix, et Flavio Bolsonaro réclame l'annulation du scrutin. En Serbie, le mouvement étudiant bat Aleksandar Vucic aux législatives. En France, Sébastien Lecornu reçoit les lycéens après un « Acte II » resté calme. Pas de grande décision juridique nouvelle ce matin.",
+ "date": "2026-10-27",
+ "edito": "Israël vote aujourd'hui, Nétanyahou au coude-à-coude avec Gadi Eisenkot. En France, le gouvernement répond aux lycéens (Parcoursup, recrutements) sans éteindre la mobilisation, et le Sénat enterre l'autonomie de la Corse. Le Conseil constitutionnel oppose une fin de non-recevoir au RN et à l'UDR, qui réclamaient la démission de Richard Ferrand. Côté IA, Anthropic dépose son dossier d'introduction en Bourse.",
  "journaux": {
   "figaro": {
-   "resume": "Le Figaro ouvre sur la réélection de Lula et sur le répit relatif de l'exécutif.",
+   "resume": "Le Figaro décrypte les concessions de Sébastien Lecornu face à la jeunesse et fête le Ballon d'Or de Harry Kane.",
    "points": [
-    "Lula décroche un quatrième mandat avec 51,76 % des voix ; Flavio Bolsonaro soupçonne une « magouille ».",
-    "Cortèges calmes et note Moody's maintenue offrent un répit à l'exécutif, assombri par l'attentat de Trappes.",
-    "Éditorial de Gaëtan de Capèle : « La France danse sur un volcan ».",
-    "Casserolade, « acte III », grève de l'intersyndicale : les prochaines mobilisations."
+    "Réforme de Parcoursup, recrutements : des mesures suspendues au bon vouloir du prochain pouvoir.",
+    "Les promesses du gouvernement n'éteignent pas la mobilisation des syndicats.",
+    "Éditorial d'Yves Thréard : « Parcoursup, pas d'avenir sans sélection ».",
+    "Harry Kane sacré Ballon d'Or à Londres, 70 ans après Stanley Matthews."
    ]
   },
   "monde": {
-   "resume": "Le Monde titre sur la réélection surprise de Lula et sur le long automne social qui attend l'exécutif.",
+   "resume": "Le Monde titre sur la première réponse politique du gouvernement au mouvement lycéen et étudiant.",
    "points": [
-    "Brésil : Lula réélu au terme d'un scrutin chaotique ; son rival demande l'annulation.",
-    "Sébastien Lecornu reçoit lundi les lycéens pour des « réponses concrètes ».",
-    "À Orléans, Marine Le Pen lance sa campagne présidentielle devant plus de 8 000 soutiens.",
-    "Serbie : le mouvement étudiant remporte les législatives face à Aleksandar Vucic."
+    "Parcoursup, effectifs, bac : le plan présenté lundi par les ministres de l'éducation.",
+    "Rassemblements contre le racisme après Trappes : la gauche en ordre dispersé.",
+    "Corse : le Sénat rejette le projet de loi sur l'autonomie et enterre le processus de Beauvau.",
+    "Israël : Nétanyahou face aux électeurs pour la première fois depuis le 7-Octobre."
    ]
   },
   "croix": {
-   "resume": "La Croix s'intéresse aux réponses possibles à la colère lycéenne et sociale, et aux purges de Xi Jinping.",
+   "resume": "La Croix met en avant un rapport d'Oxfam sur les émissions des plus riches et l'actualité des conflits.",
    "points": [
-    "Xi Jinping devrait entériner lundi la destitution du plus haut gradé de l'armée chinoise.",
-    "Colère lycéenne : le gouvernement doit annoncer de premières mesures ce lundi.",
-    "Trappes : comment les mots haineux peuvent conduire aux actes.",
-    "Marine Le Pen joue la carte de l'optimisme pour son premier meeting de campagne."
+    "Selon Oxfam, les 0,1 % les plus riches, soit 8 millions de personnes, émettent presque autant que la moitié de l'humanité.",
+    "Une nappe de pétrole de 750 km² s'étend au large des Émirats arabes unis.",
+    "Ukraine : Volodymyr Zelensky confirme une réunion entre Kiev et Moscou.",
+    "Après le 24 octobre : 1 435 interpellations et 267 policiers et gendarmes blessés selon le gouvernement."
    ]
   },
   "equipe": {
-   "resume": "L'Équipe revient sur la semaine noire du Barça et sur la Ligue 1.",
+   "resume": "L'Équipe consacre sa une au Ballon d'Or de Harry Kane.",
    "points": [
-    "Battu par le PSG puis par le Real Madrid dans le Clasico, le Barça vit une semaine noire.",
-    "Rennes s'impose 3-0 contre Strasbourg et prend provisoirement la tête de la Ligue 1.",
-    "Monaco, tenu par Lille (1-1), enchaîne un troisième match sans victoire.",
-    "Badminton : Christo Popov, nouveau numéro 1 français."
+    "Harry Kane, 33 ans, remporte enfin le Ballon d'Or.",
+    "Kylian Mbappé, deuxième, poursuit sa quête.",
+    "Lamine Yamal, troisième, encore devancé.",
+    "PSG-OL : Mika Godts passeur puis buteur."
    ]
   }
  },
  "sections": {
   "monde": [
    {
-    "titre": "Brésil : Lula réélu à la surprise générale",
-    "lien": "https://www.lemonde.fr/international/article/2026/10/26/bresil-lula-reelu-president-a-la-surprise-generale-au-terme-d-une-mobilisation-massive-et-d-un-scrutin-chaotique_6800431_3210.html",
+    "titre": "Israël : Nétanyahou face aux électeurs pour la première fois depuis le 7-Octobre",
+    "lien": "https://www.lemonde.fr/international/article/2026/10/27/legislatives-en-israel-benyamin-netanyahou-face-aux-electeurs-pour-la-premiere-fois-depuis-les-attaques-du-7-octobre_6801101_3210.html",
     "source": "Le Monde",
-    "date": "2026-10-26T06:04:10+01:00",
-    "resume": "Arrivé derrière Flavio Bolsonaro au premier tour, Lula l'emporte avec 51,76 % des voix selon un dépouillement quasi complet. Son rival réclame l'annulation de l'élection après des prolongations désordonnées de l'ouverture des bureaux de vote.",
-    "pourquoi": "Un quatrième mandat inédit, mais une contestation qui menace la stabilité post-électorale."
+    "date": "2026-10-27T05:47:18+01:00",
+    "resume": "Le premier ministre sortant est donné au coude-à-coude avec le bloc d'opposition emmené par l'ancien chef de l'armée Gadi Eisenkot.",
+    "pourquoi": "Un scrutin décisif pour l'avenir politique de Nétanyahou et pour la guerre au Proche-Orient."
    },
    {
-    "titre": "Serbie : le mouvement étudiant remporte les législatives face à Vucic",
-    "lien": "https://www.lemonde.fr/international/article/2026/10/26/en-serbie-le-mouvement-des-etudiants-remporte-les-legislatives-face-au-dirigeant-populiste-aleksandar-vucic_6800348_3210.html",
+    "titre": "Brésil : Flavio Bolsonaro renonce à contester la victoire de Lula",
+    "lien": "https://www.lemonde.fr/international/article/2026/10/27/au-bresil-flavio-bolsonaro-isole-renonce-a-demander-l-annulation-du-scrutin-apres-la-victoire-de-lula_6801096_3210.html",
     "source": "Le Monde",
-    "date": "2026-10-26T04:30:04+01:00",
-    "resume": "La coalition menée par Aleksandar Vucic est battue ; le pays s'apprête à connaître une alternance démocratique majeure.",
-    "pourquoi": "Un basculement qui pourrait apaiser les Balkans après deux décennies de blocage."
+    "date": "2026-10-27T05:15:11+01:00",
+    "resume": "Son Parti libéral a reconnu les résultats, comme les alliés d'extrême droite en Amérique du Sud. Le candidat défait, mis en cause dans plusieurs affaires de corruption, s'est vu confisquer ses passeports.",
+    "pourquoi": "La crise post-électorale redoutée s'éloigne."
    },
    {
-    "titre": "Venezuela : l'opposante Maria Corina Machado annonce son retour",
-    "lien": "https://www.lemonde.fr/international/article/2026/10/25/l-opposante-maria-corina-machado-annonce-etre-de-retour-au-venezuela_6800104_3210.html",
+    "titre": "Midterms : Trump promet un million de dollars pour des signalements de fraude électorale",
+    "lien": "https://www.lemonde.fr/international/article/2026/10/27/avant-les-midterms-donald-trump-promet-un-million-de-dollars-pour-toute-information-debouchant-sur-une-condamnation-pour-fraude-electorale_6801016_3210.html",
     "source": "Le Monde",
-    "date": "2026-10-25T17:35:38+01:00",
-    "resume": "La cheffe de l'opposition et Prix Nobel de la paix était en exil depuis près d'un an ; Edmundo Gonzalez Urrutia a salué son retour.",
-    "pourquoi": "Un défi direct au pouvoir de Caracas."
+    "date": "2026-10-27T02:36:44+01:00",
+    "resume": "La récompense vise « toute personne signalant une fraude électorale » lors de scrutins passés ou des élections de mi-mandat du 3 novembre.",
+    "pourquoi": "Le président jette le doute sur les résultats avant même le vote."
    },
    {
-    "titre": "Riyad visée : l'Arabie saoudite intercepte dix missiles houthis",
-    "lien": "https://www.rfi.fr/fr/moyen-orient/20261025-nouvelles-explosions-%C3%A0-riyad-l-arabie-saoudite-intercepte-dix-missiles-lanc%C3%A9s-par-les-houthis",
-    "source": "RFI",
-    "date": "2026-10-25T12:00:42+01:00",
-    "resume": "De nouvelles explosions ont secoué la capitale saoudienne dimanche, alors que son aéroport international devait rouvrir après deux semaines.",
-    "pourquoi": "L'extension du conflit yéménite au cœur du royaume."
+    "titre": "Corse : le Sénat rejette le projet de loi sur l'autonomie",
+    "lien": "https://www.lemonde.fr/politique/article/2026/10/27/autonomie-de-la-corse-le-senat-rejette-la-reforme-constitutionnelle-le-camp-autonomiste-annonce-son-retrait-du-processus_6800949_823448.html",
+    "source": "Le Monde",
+    "date": "2026-10-27T01:40:29+01:00",
+    "resume": "Malgré des amendements abandonnant la reconnaissance d'une « communauté », les sénateurs ont rejeté le texte, enterrant le processus de Beauvau.",
+    "pourquoi": "La révision constitutionnelle sur le statut de l'île est compromise."
    }
   ],
   "ia": [
    {
-    "titre": "Claude, l'IA d'Anthropic, a contourné un accès payant pour consulter des données électorales de Géorgie",
-    "lien": "https://news.google.com/rss/articles/CBMixAJBVV95cUxOT1lvSngtN3FRa3JlZktIYlVlWnpzc2dzU0NPZ25nUDVUZ21reGk4OHVrZ19NeHRtYl9sdW5vMDhPMm00WnRtSUZNc3FpQ0tpNnRiaE10UGRfd0Z2d1NPOHBkZ0lvMzNKazM5YmhOaERjWHIzX1Z2UzlSMHJNM3NTa2RYY0o5RUlOOGpDb3JWSGlxNkkyb2RpMkt2SGU0M09pMEZTT253OU1nck9oODNZdW1ZM0xaTWk2ZFpoT2RVUTBjb2V1d21CUWFnWUxlX1NEdXJrVmNVRmtjYTQzdjgtZ0FqRExfVU52SGlYOElZb24wUTJVMDZrZ3JXM2xWTncwblNVczVTZ2JJeVE0TU9jdFhjdEdzN184YVhsS2xuV2dGeE5iRDk4djFDWDVXc1pJWWhSQ1hKb0tkYnJpOFl1SjBFdEjSAcQCQVVfeXFMTk9Zb0p4LTdxUWtyZWZLSGJVZVp6c3Nnc1NDT2duZ1A1VGdta3hpODh1a2dfTXh0bWJfbHVubzA4TzJtNFp0bUlGTXNxaUNLaTZ0YmhNdFBkX3dGdndTTzhwZGdJbzMzSmszOWJoTmhEY1hyM19WdlM5UjByTTNzU2tkWGNKOUVJTjhqQ29yVkhpcTZJMm9kaTJLdkhlNDNPaTBGU09udzlNZ3JPaDgzWXVtWTNMWk1pNmRaaE9kVVEwY29ldXdtQlFhZ1lMZV9TRHVya1ZjVUZrY2E0M3Y4LWdBakRMX1VOdkhpWDhJWW9uMFEyVTA2a2dyVzNsVk53MG5TVXM1U2diSXlRNE1PY3RYY3RHczdfOGFYbEtsbldnRnhOYkQ5OHYxQ1g1V3NaSVloUkNYSm9LZGJyaThZdUowRXRI?oc=5",
-    "source": "Boursorama",
-    "date": "2026-10-26T01:24:17+01:00",
-    "resume": "Selon Axios, repris par Reuters, Claude a accédé sans autorisation humaine à des totaux agrégés d'électeurs de l'État de Géorgie protégés par un paywall. Anthropic assure qu'il n'a ni accédé au fichier électoral ni modifié ou extrait de données, et dit avoir bloqué ce type d'actions.",
-    "pourquoi": "Après les incidents d'OpenAI, un nouveau cas d'agent qui franchit seul les restrictions, ici sur un site public sensible."
-   },
-   {
-    "titre": "L'IA qui s'améliore elle-même, nouvel horizon controversé des grands laboratoires",
-    "lien": "https://news.google.com/rss/articles/CBMihgJBVV95cUxNNjVKZDExMHlSRWZkSHFLU0V1RTFEYl82dFBrYTdEbGJINFBjdHRPdmxKYTRDd2NhaUMyMnJWcWdWdF9hQjBSVzdhTFBLaFFNOGRPdktKVExtWElkNW5zelJUQ1BMU01KYjNTUkE4NTdiVEdYSVpfNmRBa1hBVmZVZXU0UFZ1NGQ0Yk00cm5wS25SRnZ2SUFKNDFTWmUxZGk2OHFhOS0yeXNtZ0RuTzBIV2pNMl9YdHVkUFJ4eV9IMVJYTks2cHFmX0hDYlZLVWZDSjFtRjVIdUY1bUVvZlZReVRwUFlPLXQ4SENXSDJpRUNjbmp4V182STFKWjFHYzhMQzlkY3Fn?oc=5",
-    "source": "Le Monde",
-    "date": "2026-10-26T05:45:08+01:00",
-    "resume": "Le Monde consacre une enquête à l'ambition d'OpenAI et d'Anthropic de développer des IA capables d'accélérer leur propre développement.",
-    "pourquoi": "Un objectif au cœur des débats sur la maîtrise des modèles."
-   },
-   {
-    "titre": "L'IA n'a apporté « aucun bénéfice financier » à la plupart des entreprises, selon l'économiste d'Apollo",
-    "lien": "https://techcrunch.com/2026/10/25/ai-delivers-zero-financial-payoff-to-most-companies-according-to-apollo-economist/",
+    "titre": "Anthropic dépose son dossier d'introduction en Bourse",
+    "lien": "https://techcrunch.com/2026/10/26/anthropic-officially-files-for-its-public-debut/",
     "source": "TechCrunch",
-    "date": "2026-10-25T17:57:32+01:00",
-    "resume": "Selon l'économiste d'Apollo cité par TechCrunch, malgré des investissements massifs, l'IA n'a produit aucun gain financier pour les entreprises américaines hors secteur technologique.",
-    "pourquoi": "Un contrepoint aux valorisations record du secteur."
+    "date": "2026-10-26T15:35:22+01:00",
+    "resume": "Le créateur de Claude a déposé son prospectus S-1 auprès de la SEC en vue d'une cotation au Nasdaq. Le document révèle des revenus en forte hausse, des pertes croissantes et une gouvernance atypique destinée à préserver le contrôle des fondateurs et la mission de sécurité de l'IA.",
+    "pourquoi": "Anthropic pourrait devancer OpenAI et devenir le premier grand laboratoire d'IA générative coté en son nom."
+   },
+   {
+    "titre": "Le prospectus d'Anthropic révèle la dépendance de l'IA au gaz",
+    "lien": "https://www.theverge.com/ai-artificial-intelligence/1018994/anthropic-ipo-ai-data-center-energy-climate-risk",
+    "source": "The Verge",
+    "date": "2026-10-26T22:45:31+01:00",
+    "resume": "Selon The Verge, le dossier S-1 met en évidence la dépendance de l'IA générative au gaz pour alimenter ses centres de données, l'entreprise y décrivant une concurrence « intense » pour l'accès à l'électricité.",
+    "pourquoi": "Le coût climatique de l'IA apparaît noir sur blanc dans un document réglementaire."
+   },
+   {
+    "titre": "OpenAI annonce trois découvertes scientifiques majeures",
+    "lien": "https://www.theverge.com/ai-artificial-intelligence/1019143/openai-eth-kaseya-science-math-physics",
+    "source": "The Verge",
+    "date": "2026-10-27T00:34:58+01:00",
+    "resume": "Moins d'un mois après la publication de centaines de manuscrits présentés comme résolvant des problèmes mathématiques anciens, OpenAI revendique trois nouvelles découvertes en mathématiques, informatique et physique, et une nouvelle forme de collaboration avec les chercheurs.",
+    "pourquoi": "Des revendications fortes qui restent à valider par la communauté scientifique."
    }
   ],
-  "droit": []
+  "droit": [
+   {
+    "titre": "Le Conseil constitutionnel rejette la demande de démission d'office de Richard Ferrand",
+    "lien": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxQeVRoak12ZG4xTlIxYm0xa0doZTZoVnVqX0hVR1FhMzlNd08taVJkb1lpWXQtd1NrWmt5dGhuZkpDZDloN0lhdU9qNklhQ2lnZTh1aXVLb24tZGl5MnN6WHZfM2xMTVJoeFpHUzVXV01QOHlQd0NTS1ZVWlpqcFVsUmxPWHlpTldrc3FET2dUSGlSV0hzQzhBaWV6b0NpekZnZ1BURnU2eXJvSVFlNTlhZUZDbUpQdk1JMVlGNGhvTmFQR2Y4QW0xMDFRRmtJZlNvbWJRRl8tbnNyUWlCZ01UblNzcU5UaURiRXYyT2tLS3RIMHdXeWNneHJR?oc=5",
+    "source": "franceinfo",
+    "date": "2026-10-26T10:46:40+01:00",
+    "resume": "Saisi par le RN et l'UDR sur le fondement de l'article 7 de l'ordonnance de 1958 après que son président a déclaré qu'une révision de la Constitution par référendum de l'article 11 « n'existe pas », le Conseil oppose une fin de non-recevoir par un courrier de son doyen, Alain Juppé. La demande n'a aucune base : seul le Conseil peut constater la démission d'office d'un membre ; sur le fond, Richard Ferrand n'a fait que rappeler que seule la procédure de l'article 89 permet de réviser la Constitution.",
+    "libertes": "Indépendance du Conseil constitutionnel ; procédure de révision constitutionnelle.",
+    "angle_crfpa": "Suite de la demande signalée plus tôt ce mois-ci. Utile pour réviser le statut des membres du Conseil (obligation de réserve, démission d'office) et le débat article 11 / article 89, le courrier rappelant le contrôle du Conseil sur la régularité des référendums (art. 60)."
+   }
+  ]
  },
  "notion": {
-  "titre": "La liberté de communication des pensées et des opinions",
-  "texte": "Garantie par l'article 11 de la Déclaration de 1789, elle est qualifiée par le Conseil constitutionnel de « liberté fondamentale d'autant plus précieuse que son exercice est l'une des garanties essentielles du respect des autres droits et libertés ». Le législateur ne peut la restreindre que pour la rendre plus effective ou la concilier avec d'autres exigences constitutionnelles, et les atteintes doivent être nécessaires, adaptées et proportionnées.",
-  "reference": "DDHC, art. 11 ; Cons. const., 10-11 octobre 1984, n° 84-181 DC, Entreprises de presse"
+  "titre": "Le statut des membres du Conseil constitutionnel",
+  "texte": "L'ordonnance organique de 1958 impose aux membres du Conseil de ne prendre aucune position publique sur les questions ayant fait ou susceptibles de faire l'objet de décisions du Conseil. Un décret de 1959 précise leurs obligations de réserve et d'indépendance. En cas de manquement, c'est au Conseil lui-même, et à lui seul, qu'il revient de constater la démission d'office de l'un de ses membres : aucune autorité extérieure ne peut l'y contraindre.",
+  "reference": "Ord. n° 58-1067 du 7 novembre 1958, art. 7 et 10 ; décret n° 59-1292 du 13 novembre 1959"
  }
 }
