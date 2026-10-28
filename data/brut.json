@@ -1,6 +1,6 @@
 {
- "date": "2026-10-27",
- "genere": "2026-10-27T07:46+01:00",
+ "date": "2026-10-28",
+ "genere": "2026-10-28T06:18+01:00",
  "journaux": [
   {
    "id": "figaro",
@@ -8,57 +8,57 @@
    "couleur": "#163860",
    "une": {
     "fichier": "unes/figaro.jpg",
-    "date": "2026-10-27",
-    "source": "https://static.milibris.com/thumbnail/issue/763614cb-ca6c-4a4b-a2cc-4d92bb13c597/front/catalog-cover-large.jpeg"
+    "date": "2026-10-28",
+    "source": "https://static.milibris.com/thumbnail/issue/f63a0ffa-afee-4b6a-81c0-95803eaa142c/front/catalog-cover-large.jpeg"
    },
    "articles": [
     {
-     "titre": "En Israël, des élections cruciales pour définir l’identité d’une nation",
-     "lien": "https://www.lefigaro.fr/international/en-israel-des-elections-cruciales-pour-definir-l-identite-d-une-nation-20261026",
-     "resume": "RÉCIT - Après quatre années de crise, les sept millions d’électeurs israéliens vont devoir choisir, ce mardi 27 octobre, entre deux modèles de société.",
-     "date": "2026-10-26T18:50:00+01:00",
+     "titre": "Vladimir Poutine cherche la faille chez les Occidentaux pour faire plier l’Ukraine",
+     "lien": "https://www.lefigaro.fr/international/vladimir-poutine-cherche-la-faille-chez-les-occidentaux-pour-faire-plier-l-ukraine-20261027",
+     "resume": "RÉCIT - Le chef du Kremlin discute tantôt avec les Américains, tantôt avec les Européens, dans le but manifeste de fragiliser leur soutien à Kiev et Volodymyr Zelensky.",
+     "date": "2026-10-27T21:08:05+01:00",
      "source": "",
-     "image": "https://i.f1g.fr/media/cms/3000x1687_crop/2026/10/26/885f2b7571daf0aef38aeccf53dd08ea30ebc44c2e3d5e517605a535d8dd9746.jpg"
+     "image": "https://i.f1g.fr/media/cms/3000x1687_crop/2026/10/27/ed6a53c65f361010c0f0d58808151eb6e1039400e8245eab0eadcafca2ec03e7.jpg"
     },
     {
-     "titre": "Législatives en Israël : que disent les derniers sondages ?",
-     "lien": "https://www.lefigaro.fr/international/legislatives-en-israel-que-disent-les-derniers-sondages-20261026",
-     "resume": "INFOGRAPHIE – Le premier ministre sortant Benyamin Netanyahou vise un septième mandat lors du premier scrutin depuis le 7-Octobre. Il est cependant concurrencé par un ancien chef d’État-major novice en politique, Gadi Eisenkot.",
-     "date": "2026-10-26T09:39:14+01:00",
+     "titre": "L’éditorial de Philippe Gélie : «Ukraine, le choix de Donald Trump»",
+     "lien": "https://www.lefigaro.fr/vox/monde/l-editorial-de-philippe-gelie-ukraine-le-choix-de-donald-trump-20261027",
+     "resume": "Le président américain doit prendre une décision : offrir à Poutine les meilleures chances d’écraser l’Ukraine ou faire pression sur le président russe pour qu’il accepte sa propre proposition de cessez-le-feu sur l’actuelle ligne de front.",
+     "date": "2026-10-27T19:40:02+01:00",
      "source": "",
-     "image": "https://i.f1g.fr/media/cms/1920x1080_crop/2026/10/23/b37244ac45a45877c715836232fa069b81ee6ed2eb99ff6cdf9caae27658ad83.jpg"
+     "image": "https://i.f1g.fr/media/cms/1918x1079_crop/2026/10/27/396e9cba8cfa6e04cd63888a4172a226dfb757b083272479019c20994267ae00.jpg"
     },
     {
-     "titre": "Législatives en Israël : Gadi Eisenkot, l’«anti-Bibi» qui pourrait prendre le pouvoir",
-     "lien": "https://www.lefigaro.fr/international/legislatives-en-israel-gadi-eisenkot-l-anti-bibi-qui-pourrait-prendre-le-pouvoir-20261026",
-     "resume": "PORTRAIT - Le parti de l’ex-chef d’état-major de l’armée israélienne est donné par les sondages comme le principal adversaire de Benyamin Netanyahou. Moins charismatique que le chef du Likoud, il compte sur sa réputation d’intégrité et son image d’homme à…",
-     "date": "2026-10-27T06:37:18+01:00",
+     "titre": "«Les gens meurent de faim» : cessez-le-feu inespéré à Olechky, village du sud de l’Ukraine coupé du monde",
+     "lien": "https://www.lefigaro.fr/international/les-gens-meurent-de-faim-cessez-le-feu-inespere-a-olechky-village-du-sud-de-l-ukraine-coupe-du-monde-20261027",
+     "resume": "RÉCIT - La première dame américaine, Melania Trump, a apporté une aide décisive aux négociateurs pour permettre l’évacuation des derniers habitants demeurés dans ce bourg près de Kherson.",
+     "date": "2026-10-27T20:32:50+01:00",
      "source": "",
-     "image": "https://i.f1g.fr/media/cms/2722x1531_crop/2026/10/26/f1247080ac080539fbed015fd319c3e086acbf5c9590c00e769a0ee649a0c82d.jpg"
+     "image": "https://i.f1g.fr/media/cms/2850x1603_crop/2026/10/27/cb0afa4eab03328a0eab7a2377266e181a405eecb59e0a51ad7f1faeb68fe276.jpg"
     },
     {
-     "titre": "Benyamin Netanyahou, de la mise au pas du Likoud à l’assaut des contre-pouvoirs",
-     "lien": "https://www.lefigaro.fr/international/benyamin-netanyahou-de-la-mise-au-pas-du-likoud-a-l-assaut-des-contre-pouvoirs-20261026",
-     "resume": "NETANYAHOU, LA SURVIE À TOUT PRIX (2/3) - Benyamin Netanyahou a marginalisé ses rivaux et fait du Likoud un parti à sa main. Il entend imposer aux institutions la loyauté qu’il exige de son camp. Avec l’appui de l’extrême droite, le premier ministre mène une…",
-     "date": "2026-10-26T12:50:52+01:00",
+     "titre": "« Le danger procure une adrénaline qui rend accro » : en immersion avec « l’armée des drones » ukrainienne à l’assaut de la Crimée et de la Russie",
+     "lien": "https://www.lefigaro.fr/international/le-danger-procure-une-adrenaline-qui-rend-accro-en-immersion-avec-l-armee-des-drones-ukrainienne-a-l-assaut-de-la-crimee-et-de-la-russie-20261027",
+     "resume": "REPORTAGE - Chaque nuit, Kiev, qui a intensifié sa campagne de frappes à moyenne et longue portée, envoie jusqu’à 1 000 engins kamikazes sur des sous-stations électriques, des dépôts pétroliers et des aérodromes ennemis.",
+     "date": "2026-10-27T17:06:06+01:00",
      "source": "",
-     "image": "https://i.f1g.fr/media/cms/1920x1080_crop/2026/10/23/283268177bafad98f30aa9e45bbcbc0752c0289a58f5eb7ac60b6250e87320b1.png"
+     "image": "https://i.f1g.fr/media/cms/3000x1688_crop/2026/10/27/c39da1b74d622a7d0025c7ab7040ede7cd464f50a742a13acdef5f4cc8e9ee71.jpg"
     },
     {
-     "titre": "Renaud Girard : «Le véritable enjeu des élections israéliennes»",
-     "lien": "https://www.lefigaro.fr/vox/monde/renaud-girard-le-veritable-enjeu-des-elections-israeliennes-20261027",
-     "resume": "CHRONIQUE - Lors du scrutin qui se tient ce mardi, les Israéliens devront en réalité répondre à la question suivante : l’État hébreu est-il toujours adepte d’un sionisme laïc et tolérant, ou plébiscite-t-il un sionisme religieux et expansionniste ?",
-     "date": "2026-10-27T07:30:00+01:00",
+     "titre": "Face aux manifestations violentes, les forces de l’ordre peuvent-elles tenir le rythme ?",
+     "lien": "https://www.lefigaro.fr/actualite-france/face-aux-manifestations-violentes-les-forces-de-l-ordre-peuvent-elles-tenir-le-rythme-20261028",
+     "resume": "DÉCRYPTAGE - Alors que 70 000 hommes ont été mobilisés le week-end dernier et qu’un millier d’entre eux ont été blessés depuis trois semaines, leur capacité à durer interroge.",
+     "date": "2026-10-28T06:00:00+01:00",
      "source": "",
-     "image": "https://i.f1g.fr/media/cms/2634x1481_crop/2026/10/26/0a1fe0a20351bab82982ba76244a80f440ceb2f1d777cc363042a64387807fd0.jpg"
+     "image": "https://i.f1g.fr/media/cms/3000x1687_crop/2026/10/27/98b99e75080d53787dc2a64ee25534d98cc0d7425f0154056df2b72345eabe49.jpg"
     },
     {
-     "titre": "EN DIRECT - Colère sociale : les pistes du gouvernement ne désamorcent pas les appels à la mobilisation lycéenne",
-     "lien": "https://www.lefigaro.fr/actualite-france/en-direct-colere-sociale-les-pistes-du-gouvernement-ne-desamorcent-pas-les-appels-a-la-mobilisation-lyceenne-20261027",
-     "resume": "Après un mois de mobilisation lycéenne et étudiante, plusieurs pistes gouvernementales ont commencé à filtrer lundi, sans convaincre deux organisations lycéennes, qui ont appelé à poursuivre la mobilisation.",
-     "date": "2026-10-27T07:42:03+01:00",
+     "titre": "Le Sénat adopte et élargit le projet de loi «casseurs-payeurs», après les débordements du 17 octobre",
+     "lien": "https://www.lefigaro.fr/politique/le-senat-adopte-et-elargit-le-projet-de-loi-casseurs-payeurs-apres-les-debordements-du-17-octobre-20261028",
+     "resume": "Très critiqué à gauche, le texte a été adopté à 229 voix contre 105 et est désormais transmis à l’Assemblée nationale.",
+     "date": "2026-10-28T01:47:02+01:00",
      "source": "",
-     "image": "https://i.f1g.fr/media/cms/3000x2000_crop/2026/10/27/d60f90b74938515fc9952636dc413019b4046e826c5980a0fa89f871d58c4b86.jpg"
+     "image": "https://i.f1g.fr/media/cms/3000x2001_crop/2026/10/28/e2af820643499b8c486d92ea892b3ef45b981c977b3d7ed7a7f5feba2f8564af.jpg"
     }
    ],
    "flux_utilise": "https://www.lefigaro.fr/rss/figaro_actualites.xml"
@@ -69,57 +69,57 @@
    "couleur": "#111111",
    "une": {
     "fichier": "unes/monde.webp",
-    "date": "2026-10-27",
-    "source": "https://www.frontpages.com/t/2026/10/26/le-monde-2335323dt@2x.webp"
+    "date": "2026-10-28",
+    "source": "https://www.frontpages.com/t/2026/10/27/le-monde-233038sgf@2x.webp"
    },
    "articles": [
     {
-     "titre": "Mouvement lycéen et étudiant : Parcoursup, effectifs, bac… le gouvernement apporte sa première réponse politique, sans éteindre la mobilisation",
-     "lien": "https://www.lemonde.fr/societe/article/2026/10/27/mouvement-lyceen-et-etudiant-parcoursup-effectifs-bac-le-gouvernement-apporte-sa-premiere-reponse-politique-sans-eteindre-la-mobilisation_6801098_3224.html",
-     "resume": "Les ministres de l’éducation nationale et de l’enseignement supérieur ont présenté, lundi, le plan de l’exécutif pour tenter de sortir de la crise. Ces mesures, consistant à défaire des réformes des deux présidences Macron, s’attellent à des maux connus de…",
-     "date": "2026-10-27T05:26:22+01:00",
+     "titre": "Israël : au lendemain de législatives cruciales pour l’avenir du pays, le vertige d’une Knesset sans majorité",
+     "lien": "https://www.lemonde.fr/international/article/2026/10/28/israel-au-lendemain-de-legislatives-cruciales-pour-l-avenir-du-pays-le-vertige-d-une-knesset-sans-majorite_6801530_3210.html",
+     "resume": "Selon des résultats provisoires, mercredi matin, le camp Nétanyahou est en net recul mais l’opposition, emmenée par Gadi Eisenkot, échoue à détrôner le Likoud, aucun des deux blocs n’étant en position de former un gouvernement. Les partis arabes effectuent…",
+     "date": "2026-10-28T05:57:19+01:00",
      "source": "",
-     "image": "https://img.lemde.fr/2026/10/17/73/0/1024/512/644/322/60/0/3eff1ac_ftp-1-hjplf8mxb0nq-afp-d3ke3g7-1024.jpg"
+     "image": "https://img.lemde.fr/2026/10/28/1214/0/5678/2839/644/322/60/0/72ab001_upload-1-h9jw4zshbydj-ll-elections-israel-journee-08.jpg"
     },
     {
-     "titre": "Attentat de Trappes : la gauche en ordre dispersé dans les rassemblements contre le racisme",
-     "lien": "https://www.lemonde.fr/politique/article/2026/10/27/attentat-de-trappes-la-gauche-en-ordre-disperse-dans-les-rassemblements-contre-le-racisme_6801088_823448.html",
-     "resume": "Autour de leur candidat à la présidentielle, Raphaël Glucksmann, les partis de l’espace social-démocrate ont répondu à l’appel des associations et des syndicats, place Stalingrad, à Paris, quand Jean-Luc Mélenchon et LFI se sont réunis à La Courneuve…",
-     "date": "2026-10-27T05:00:06+01:00",
+     "titre": "Comment l’administration Trump nourrit la suspicion sur l’intégrité des midterms, à une semaine du vote",
+     "lien": "https://www.lemonde.fr/international/article/2026/10/28/comment-l-administration-trump-nourrit-la-suspicion-sur-l-integrite-des-midterms-a-une-semaine-du-vote_6801486_3210.html",
+     "resume": "Alors que les sondages prévoient un désaveu pour le camp républicain lors des élections de mi-mandat, mardi 3 novembre, la Maison Blanche cherche à empiéter sur le rôle des Etats en matière d’organisation du scrutin et prépare le terrain à une contestation…",
+     "date": "2026-10-28T05:00:08+01:00",
      "source": "",
-     "image": "https://img.lemde.fr/2026/10/26/7/0/5643/2821/644/322/60/0/69845fc_ftp-1-mqxnojpdur2x-afp-d4gz3f8.jpg"
+     "image": "https://img.lemde.fr/2026/10/27/834/0/5079/2539/644/322/60/0/32cea8f_upload-1-y5v4fmr7sjvc-2026-10-22-otouron-arizona-midterms-049.jpg"
     },
     {
-     "titre": "Corse : le Sénat rejette le projet de loi sur l’autonomie et enterre le processus de Beauvau",
-     "lien": "https://www.lemonde.fr/politique/article/2026/10/27/autonomie-de-la-corse-le-senat-rejette-la-reforme-constitutionnelle-le-camp-autonomiste-annonce-son-retrait-du-processus_6800949_823448.html",
-     "resume": "Malgré des amendements abandonnant la reconnaissance d’une « communauté » et obligeant la Collectivité de Corse à demander au cas par cas l’habilitation à édicter des normes, le Sénat a fini par rejeter le projet d’autonomie de la Corse, ouvrant une crise…",
-     "date": "2026-10-27T01:40:29+01:00",
+     "titre": "A l’Assemblée nationale, la gauche et le gouvernement s’affrontent après l’attentat raciste de Trappes",
+     "lien": "https://www.lemonde.fr/politique/article/2026/10/27/a-l-assemblee-nationale-la-gauche-et-le-gouvernement-s-affrontent-apres-l-attentat-raciste-de-trappes_6801344_823448.html",
+     "resume": "Accusé de contribuer à la montée du racisme, le gouvernement a répliqué en appelant à lutter contre « toute forme de violence », citant notamment l’affrontement qui a causé la mort du militant néonazi Quentin Deranque en février. Avant que les députés de…",
+     "date": "2026-10-27T20:51:25+01:00",
      "source": "",
-     "image": "https://img.lemde.fr/2026/10/27/500/0/6000/3000/644/322/60/0/e1ad1d0_upload-1-fe32np3pmsbb-000-c9xc2ch.jpg"
+     "image": "https://img.lemde.fr/2026/10/27/553/0/5476/2738/644/322/60/0/5286759_ftp-1-unctidji6yfx-afp-d4ku7tf.jpg"
     },
     {
-     "titre": "Derrière le revirement de Donald Trump en faveur de la Russie, les promesses d’affaires juteuses de Kirill Dmitriev, l’habile VRP de Vladimir Poutine",
-     "lien": "https://www.lemonde.fr/international/article/2026/10/27/derriere-le-revirement-de-donald-trump-en-faveur-de-la-russie-les-promesses-d-affaires-juteuses-de-kirill-dmitriev-l-habile-vrp-de-vladimir-poutine_6801086_3210.html",
-     "resume": "Le directeur général du Fonds d’investissement direct russe est à la manœuvre pour convaincre la Maison Blanche que la paix en Ukraine passera d’abord par des « deals » commerciaux. Retour sur deux mois qui, de Miami à Moscou, ont vu le nouveau partenariat…",
-     "date": "2026-10-27T04:30:36+01:00",
+     "titre": "Changement climatique : la communauté scientifique appelle à décréter une « urgence sanitaire mondiale »",
+     "lien": "https://www.lemonde.fr/planete/article/2026/10/28/changement-climatique-la-communaute-scientifique-appelle-a-decreter-une-urgence-sanitaire-mondiale_6801524_3244.html",
+     "resume": "Le 10ᵉ rapport du Lancet Countdown montre que les effets du réchauffement sur la santé comme le nombre de décès liés à la chaleur se sont considérablement aggravés depuis la signature de l’accord de Paris, en 2015.",
+     "date": "2026-10-28T05:00:38+01:00",
      "source": "",
-     "image": "https://img.lemde.fr/2026/10/26/97/0/5042/2521/644/322/60/0/b5d9b24_upload-1-kelatxi2tolp-2026-09-05t182036z-10760307-rc26dnaw5760-rtrmadp-3-ukraine-crisis-russia-usa-1.JPG"
+     "image": "https://img.lemde.fr/2026/10/26/479/0/3543/1771/644/322/60/0/d4505ed_upload-1-hdoiyr8bdubj-000-b82x6t3-1.jpg"
     },
     {
-     "titre": "Législative en Israël : Benyamin Nétanyahou face aux électeurs pour la première fois depuis les attaques du 7-Octobre",
-     "lien": "https://www.lemonde.fr/international/article/2026/10/27/legislatives-en-israel-benyamin-netanyahou-face-aux-electeurs-pour-la-premiere-fois-depuis-les-attaques-du-7-octobre_6801101_3210.html",
-     "resume": "Le premier ministre sortant joue son avenir politique dans un scrutin où les sondages le donnent au coude-à-coude avec le bloc principal de l’opposition emmené par un ancien chef de l’armée, le centriste Gadi Eisenkot.",
-     "date": "2026-10-27T05:47:15+01:00",
+     "titre": "Inquiétude des services de renseignement européens sur la persistance de la menace iranienne en Europe",
+     "lien": "https://www.lemonde.fr/international/article/2026/10/28/inquietude-des-services-de-renseignement-europeens-sur-la-persistance-de-la-menace-iranienne-en-europe_6801523_3210.html",
+     "resume": "Projets d’assassinats, incendies criminels, actes de sabotage, cyberattaques… Une menace iranienne durable et globale pèserait aujourd’hui sur les pays européens alors que les arrestations de personnes soupçonnées d’avoir prêté leur concours aux services de…",
+     "date": "2026-10-28T05:00:38+01:00",
      "source": "",
-     "image": "https://img.lemde.fr/2026/10/23/945/0/5109/2554/644/322/60/0/c1ccfff_upload-1-vgcnnkfhrcfu-ll-elections-tel-aviv-03.jpg"
+     "image": "https://img.lemde.fr/2026/10/27/763/0/5000/2500/644/322/60/0/7bb29b0_upload-1-cgp4stnjkgrk-2025-04-01t230656z-763663614-rc2woda4fnqw-rtrmadp-3-britain-security-exhibition.JPG"
     },
     {
-     "titre": "Au Brésil, Flavio Bolsonaro, isolé, renonce à demander l’annulation du scrutin après la victoire de Lula",
-     "lien": "https://www.lemonde.fr/international/article/2026/10/27/au-bresil-flavio-bolsonaro-isole-renonce-a-demander-l-annulation-du-scrutin-apres-la-victoire-de-lula_6801096_3210.html",
-     "resume": "Le Parti libéral du candidat défait a reconnu les résultats de l’élection présidentielle, comme ses alliés d’extrême droite en Amérique du Sud. Le fils de l’ex-président, mis en cause dans plusieurs affaires de corruption, s’est vu confisquer ses passeports…",
-     "date": "2026-10-27T05:15:11+01:00",
+     "titre": "Brésil : après sa défaite à la présidentielle, Flavio Bolsonaro soupçonné d’avoir pris la fuite vers les Etats-Unis",
+     "lien": "https://www.lemonde.fr/international/article/2026/10/28/bresil-apres-sa-defaite-a-la-presidentielle-flavio-bolsonaro-soupconne-d-avoir-pris-la-fuite-vers-les-etats-unis_6801485_3210.html",
+     "resume": "Mis en cause dans plusieurs affaires de corruption, le candidat d’extrême droite aurait violé son interdiction de quitter le pays et se serait vu accorder des visas pour lui et sa famille par l’administration Trump.",
+     "date": "2026-10-28T05:00:06+01:00",
      "source": "",
-     "image": "https://img.lemde.fr/2026/10/26/394/0/4827/2413/644/322/60/0/cc816de_ftp-1-axx1jqzwtzc6-2026-10-26t020144z-1553623002-rc2paoaxw2gb-rtrmadp-3-brazil-election.JPG"
+     "image": "https://img.lemde.fr/2026/10/26/500/0/5472/2736/644/322/60/0/82b7f8a_ftp-1-xxh3t27jfqzw-afp-d4ek7m8.jpg"
     }
    ],
    "flux_utilise": "https://www.lemonde.fr/rss/une.xml"
@@ -135,52 +135,52 @@
    },
    "articles": [
     {
-     "titre": "Attentat de Trappes : un homme condamné en Martinique pour apologie du terrorisme",
-     "lien": "https://www.la-croix.com/societe/attentat-de-trappes-un-homme-condamne-en-martinique-pour-apologie-du-terrorisme-20261027",
-     "resume": "Après l’attentat raciste de Trappes, un homme résidant en Martinique a été condamné lundi 26 octobre à douze mois de prison, dont huit ferme pour apologie du terrorisme. Il était jugé en comparution immédiate pour avoir publié des messages se réjouissant du…",
-     "date": "2026-10-27T07:43:27+01:00",
+     "titre": "Michael Morpurgo, auteur jeunesse : « Vous êtes toujours l’enfant que vous croyez ne plus être »",
+     "lien": "https://www.la-croix.com/culture/michael-morpurgo-auteur-jeunesse-vous-etes-toujours-l-enfant-que-vous-croyez-ne-plus-etre-20261027",
+     "resume": "Auteur du Mystère de Lucy Lost, finement adapté en film d’animation, Michael Morpurgo est une vedette de la littérature jeunesse britannique encore méconnue en France. Rencontre avec un écrivain humaniste persuadé que les enfants et l’éducation peuvent…",
+     "date": "2026-10-28T06:15:07+01:00",
      "source": "",
-     "image": "https://i.la-croix.com/x/2026/10/27/2573330-la-voiture-de-kevin-t-suspecte-d-attentat-raciste-.jpg"
+     "image": "https://i.la-croix.com/x/2026/10/27/2573543-l-auteur-michael-morpurgo-lors-dune-lecture-a-des-.jpg"
     },
     {
-     "titre": "Route du Rhum 2026 : Titouan Pilliard, une jeunesse engagée à la barre",
-     "lien": "https://www.la-croix.com/sport/route-du-rhum-2026-titouan-pilliard-une-jeunesse-engagee-a-la-barre-20261026",
-     "resume": "Dans le sillage de son père Romain, défenseur de l’économie circulaire lui aussi au départ de la Route du Rhum, dimanche 1er novembre 2026 en multicoque, le jeune breton milite pour la préservation des océans et une course au large plus en phase avec…",
-     "date": "2026-10-27T07:15:01+01:00",
+     "titre": "Mouvement lycéen : le gouvernement ne parvient pas à apaiser la contestation",
+     "lien": "https://www.la-croix.com/politique/mouvement-lyceen-le-gouvernement-ne-parvient-pas-a-apaiser-la-contestation-20261027",
+     "resume": "Malgré l’annonce lundi 26 octobre 2026 de mesures en faveur des lycées et des universités, le gouvernement n’éteint pas la colère de la jeunesse. L’exécutif a été critiqué dès le lendemain sur tous les bancs de l’Assemblée nationale pour sa gestion du dossier.",
+     "date": "2026-10-28T06:04:06+01:00",
      "source": "",
-     "image": "https://i.la-croix.com/x/2026/10/26/2572589-titouan-pilliard-et-son-pere-romain-pilliard-prend.jpg"
+     "image": "https://i.la-croix.com/x/2026/10/27/2573974-lors-d-un-blocage-de-lycee-le-6-octobre-2026-a-lan.jpg"
     },
     {
-     "titre": "Présidentielle 2026 au Brésil : le parti de Flavio Bolsonaro reconnaît la victoire de Lula",
-     "lien": "https://www.la-croix.com/bresil-la-reelection-de-lula-saluee-dans-le-monde-contestee-par-bolsonaro-20261026",
-     "resume": "Le parti de Flavio Bolsonaro a officiellement reconnu, lundi 26 octobre, la réélection surprise du président brésilien de gauche, malgré les accusations de fraude du candidat et de Donald Trump. Une reconnaissance en demi-teinte qui rappelle la réaction de…",
-     "date": "2026-10-27T07:12:01+01:00",
+     "titre": "Rencontres d’Averroès à Marseille : « La cuisine raconte des histoires de transmission, de mémoire »",
+     "lien": "https://www.la-croix.com/societe/rencontres-d-averroes-a-marseille-la-cuisine-raconte-des-histoires-de-transmission-de-memoire-20261027",
+     "resume": "Les Nouvelles rencontres d’Averroès, à Marseille (Bouches-du-Rhône), se déroulent du 28 octobre au 1er novembre 2026 sous le signe des circulations méditerranéennes. En amont du festival, une dizaine d’enfants et de retraités ont été réunis pour une balade…",
+     "date": "2026-10-28T05:59:14+01:00",
      "source": "",
-     "image": "https://i.la-croix.com/x/2026/10/26/2573223-le-president-de-gauche-lula-brandit-un-drapeau-lor.jpg"
+     "image": "https://i.la-croix.com/x/2026/10/27/2573715-enfants-et-adultes-participent-a-la-visite-guidee-.jpg"
     },
     {
-     "titre": "Rencontres d’Assise : quand les religions découvraient la puissance de la prière pour la paix",
-     "lien": "https://www.la-croix.com/religion/rencontres-d-assise-quand-les-religions-decouvraient-la-puissance-de-la-priere-pour-la-paix-20261026",
-     "resume": "Pour la première fois, le 27 octobre 1986, à l’initiative de Jean-Paul II, les grandes religions du monde étaient réunies pour prier pour la paix. Quarante ans plus tard, retour sur cet événement audacieux et prophétique, qui a manifesté – non sans…",
-     "date": "2026-10-27T06:55:06+01:00",
+     "titre": "Huit ans après l’accord secret Chine-Vatican, quel est le nouveau visage de l’épiscopat chinois ?",
+     "lien": "https://www.la-croix.com/la-croix/huit-ans-apres-l-accord-secret-chine-vatican-quel-est-le-nouveau-visage-de-lepiscopat-chinois-20261027",
+     "resume": "La Chine voit, ces dernières années, émerger une nouvelle génération d’évêques. Plus jeunes et formés dans un contexte étroitement contrôlé par Pékin, ces hommes incarnent à la fois les avancées et les ambiguïtés de l’accord secret conclu en 2018 entre le…",
+     "date": "2026-10-28T05:42:03+01:00",
      "source": "",
-     "image": "https://i.la-croix.com/x/2026/10/26/2572802-de-gauche-a-droite-le-metropolite-gabriel-saliba-r.jpg"
+     "image": "https://i.la-croix.com/x/2026/10/27/2573855-leon-xiv-doit-choisir-de-renouveler-ou-non-l-accor.jpg"
     },
     {
-     "titre": "Ballon d’Or masculin 2026 : Harry Kane sacré, Kylian Mbappé termine deuxième",
-     "lien": "https://www.la-croix.com/foot-la-ceremonie-du-ballon-d-or-2026-a-debute-20261025",
-     "resume": "L’attaquant anglais du Bayern Munich, Harry Kane, auteur d’une saison 2025-2026 prolifique sur le plan statistique, a été sacré Ballon d’Or 2026, lundi 26 octobre à Londres. Le capitaine de la sélection anglaise succède au palmarès à l’attaquant français du…",
-     "date": "2026-10-27T06:35:40+01:00",
+     "titre": "France 2030 : « un besoin de financement élevé » pour des « résultats encore incertains » selon la Cour des comptes",
+     "lien": "https://www.la-croix.com/sport/france-2030-un-besoin-de-financement-eleve-pour-des-resultats-encore-incertains-selon-la-cour-des-comptes-20261027",
+     "resume": "La Cour des comptes a publié mardi 27 octobre son bilan à mi-parcours du plan France 2030, décidé par Emmanuel Macron pour refaire de la France « une grande nation d’innovation ».",
+     "date": "2026-10-27T22:30:12+01:00",
      "source": "",
-     "image": "https://i.la-croix.com/x/2026/10/26/2573264-alexia-putellas-et-harry-kane-posent-avec-leurs-ba.jpg"
+     "image": "https://i.la-croix.com/x/2026/10/27/2574049-la-cour-des-comptes-a-publie-mardi-27-octobre-son-.jpg"
     },
     {
-     "titre": "Budget : 3 millions de dépendants en 2030, et toujours pas de piste de financement",
-     "lien": "https://www.la-croix.com/economie/budget-3-millions-de-dependants-en-2030-et-toujours-pas-de-piste-de-financement-20261026",
-     "resume": "Les députés se sont opposés, vendredi 23 octobre 2026, au transfert de 300 millions d’euros de la Caisse nationale de solidarité pour l’autonomie (CNSA) vers les départements. Alors que trois millions de personnes âgées seront dépendantes en 2030, cette…",
-     "date": "2026-10-27T06:35:17+01:00",
+     "titre": "Guerre en Ukraine : ce qu’il faut retenir de la situation du mardi 27 octobre",
+     "lien": "https://www.la-croix.com/international/ukraine-russie-jour-1707-point-conflit-ukrainien-poutine-aujourdhui-20261027",
+     "resume": "Un cessez-le-feu a commencé autour d’Olechky, dans le sud de l’Ukraine sous occupation russe. Le pape Léon XIV avait tenté d’y obtenir une trêve humanitaire. Des frappes nocturnes ont fait un mort à Kiev, où un pont a été touché. Suivez l’actualité de la…",
+     "date": "2026-10-27T21:49:21+01:00",
      "source": "",
-     "image": "https://i.la-croix.com/x/2026/10/26/2573060-une-aide-soignante-assiste-une-personne-agee-dans-.jpg"
+     "image": "https://i.la-croix.com/x/2026/10/27/2573345-un-rassemblement-en-soutien-aux-habitants-d-olechk.jpg"
     }
    ],
    "flux_utilise": "https://www.la-croix.com/feeds/rss/site.xml"
@@ -190,56 +190,56 @@
    "nom": "L'Équipe",
    "couleur": "#e2001a",
    "une": {
-    "fichier": "unes/equipe.jpg",
-    "date": "2026-10-27",
-    "source": "https://img.kiosko.net/2026/10/27/fr/l_equip.750.jpg"
+    "fichier": "unes/equipe.webp",
+    "date": "2026-10-28",
+    "source": "https://www.frontpages.com/t/2026/10/28/l-equipe-004120lmy@2x.webp"
    },
    "articles": [
     {
-     "titre": "Les Milwaukee Brewers écrasent les Tampa Bay Rays et foncent vers la victoire aux World Series",
-     "lien": "https://www.lequipe.fr/Baseball/Actualites/Les-milwaukee-brewers-ecrasent-les-tampa-bay-rays-et-foncent-vers-la-victoire-aux-world-series/1738963#at_medium=RSS_feeds",
-     "resume": "Les Milwaukee Brewers se sont très largement imposés chez les Tampa Bay Rays (10-1), lundi lors du match 3 des World Series. Ils mènent désormais 3 victoires à 0 et peuvent être sacrés champions, pour la première fois, dès ce mardi.",
-     "date": "2026-10-27T07:32:54+01:00",
+     "titre": "« Je dois peut-être m'adapter à cette Ligue » : à un point de la zone rouge et sur un fil, Pierre Sage se croit encore capable de relancer Crystal Palace",
+     "lien": "https://www.lequipe.fr/Football/Actualites/Malgre-les-revers-pierre-sage-s-accroche-et-croit-encore-pouvoir-ameliorer-l-equipe-et-les-resultats/1739158#at_medium=RSS_feeds",
+     "resume": "Fragilisé encore davantage par la défaite de dimanche contre Newcastle (0-2) et désormais sur un fil, Pierre Sage, l'entraîneur français de Crystal Palace, 17e à un point de la zone rouge en Premier League, espère redresser la barre ce mercredi soir, à…",
+     "date": "2026-10-28T05:44:00+01:00",
      "source": "",
-     "image": "https://medias.lequipe.fr/img-photo-png/-/1500000000833469/0-828-552-75/0cb67.png"
+     "image": "https://medias.lequipe.fr/img-photo-jpg/pierre-sage-lors-de-la-defaite-de-crystal-palace-a-lyon-en-ligue-europa-2-3-le-15-octobre-a-martin-l-equipe/1500000002635310/0:0,2000:1333-828-552-75/fc762.jpg"
     },
     {
-     "titre": "Ballon d'Or 2026 : Charlyn Corral, une vie à courir après le but",
-     "lien": "https://www.lequipe.fr/Football/Actualites/Ballon-d-or-2026-charlyn-corral-une-vie-a-courir-apres-le-but/1738916#at_medium=RSS_feeds",
-     "resume": "L'attaquante mexicaine de Pachuca Charlyn Corral a reçu le trophée de meilleure buteuse, lundi, après avoir marqué à 49 reprises la saison passée. Une récompense pour avoir dédié sa vie au football.",
-     "date": "2026-10-27T07:32:00+01:00",
+     "titre": "Un calendrier encore chamboulé par la mobilisation sociale : pour la Ligue 1 et la LFP, les reports en cascade tombent mal",
+     "lien": "https://www.lequipe.fr/Football/Actualites/Des-reports-a-la-chaine-en-ligue-1-pas-une-bonne-nouvelle-pour-la-lfp/1739145#at_medium=RSS_feeds",
+     "resume": "Pour le deuxième week-end d'affilée, le calendrier de la Ligue 1 est chamboulé par les mouvements sociaux. Des perturbations qui tombent mal, juste avant le lancement de l'appel d'offres sur les droits télé.",
+     "date": "2026-10-28T05:37:00+01:00",
      "source": "",
-     "image": "https://medias.lequipe.fr/img-photo-jpg/charlyn-corral-a-inscrit-49-buts-en-49-matches-en-2025-2026-oscar-fuentes-jam-media-getty-images-getty-images/1500000002634401/0:0,2000:1333-828-552-75/82a30.jpg"
+     "image": "https://medias.lequipe.fr/img-photo-jpg/le-match-entre-le-psg-et-l-ol-initialement-prevu-dimanche-s-etait-finalement-dispute-lundi-2-0-l-hahn-l-equipe/1500000002635241/299:351,1582:1207-828-552-75/6a565.jpg"
     },
     {
-     "titre": "Le résumé vidéo de la Nuit des Français",
-     "lien": "https://www.lequipe.fr/Basket/Video/Nba-le-resume-video-de-la-nuit-des-francais/20244230#at_medium=RSS_feeds",
-     "resume": "",
-     "date": "2026-10-27T07:30:00+01:00",
+     "titre": "Avant la controverse Mbappé avec la Chine, le précédent Daryl Morey qui a plongé la NBA dans la crise",
+     "lien": "https://www.lequipe.fr/Football/Article/Avant-la-controverse-mbappe-avec-la-chine-le-precedent-daryl-morey-qui-a-plonge-la-nba-dans-la-crise/1739135#at_medium=RSS_feeds",
+     "resume": "Sept ans avant la controverse entre la Chine et Kylian Mbappé, la NBA avait été confrontée à une situation semblable. En octobre 2019, un court tweet du manager général des Houston Rockets, Daryl Morey, avait créé un conflit entre Pékin et la ligue…",
+     "date": "2026-10-28T05:22:00+01:00",
      "source": "",
-     "image": "https://medias.lequipe.fr/img-photo-png/-/1500000000833469/0-828-552-75/0cb67.png"
+     "image": "https://medias.lequipe.fr/img-photo-jpg/le-tweet-de-daryl-morey-a-ete-vivement-conteste-en-chine-sipa-usa-icon-sport-et-cn-str-afp/1500000002635225/0:0,1500:1000-828-552-75/5291e.jpg"
     },
     {
-     "titre": "Lionel Messi 5e du classement du Ballon d'Or 2026, le crépuscule d'un dieu",
-     "lien": "https://www.lequipe.fr/Football/Actualites/Lionel-messi-5e-du-classement-du-ballon-d-or-2026-le-crepuscule-d-un-dieu/1738948#at_medium=RSS_feeds",
-     "resume": "L'octuple vainqueur, 5e du classement du Ballon d'Or « France Football » 2026 pour sa Coupe du monde majuscule, s'est offert un baroud d'honneur à 39 ans.",
-     "date": "2026-10-27T07:23:00+01:00",
+     "titre": "D'abord dans l'ombre de Roger Federer puis à sa place à la table des géants du tennis : Stan Wawrinka, éloge de la persévérance et du revers à une main",
+     "lien": "https://www.lequipe.fr/Tennis/Article/D-abord-dans-l-ombre-de-roger-federer-puis-a-sa-place-a-la-table-des-geants-du-tennis-stan-wawrinka-eloge-de-la-perseverance-et-du-revers-a-une-main/1739184#at_medium=RSS_feeds",
+     "resume": "Pour s'être constitué un palmarès exceptionnel au beau milieu de l'ère la plus relevée de l'histoire du tennis, Stan Wawrinka, qui a disputé, mardi soir à Bâle, à 41 ans, son dernier match, laissera le souvenir d'une carrière aussi légendaire que son déjà…",
+     "date": "2026-10-28T05:08:00+01:00",
      "source": "",
-     "image": "https://medias.lequipe.fr/img-photo-jpg/le-regard-sombre-de-lionel-messi-devant-la-coupe-du-monde-remportee-par-l-espagne-le-19-juillet-a-east-rutherford-dans-la-banlieue-de-new-york-f-faugere-l-equipe/1500000002634580/0:0,2000:1333-828-552-75/108d8.jpg"
+     "image": "https://medias.lequipe.fr/img-photo-jpg/stan-wawrinka-apres-sa-victoire-en-finale-de-roland-garros-2015-contre-novak-djokovic-r-martin-l-equipe/1500000002635338/0:0,2000:1333-828-552-75/ef674.jpg"
     },
     {
-     "titre": "« Il était impossible de nous améliorer en ce moment » : l'OL affiche ses limites face au PSG",
-     "lien": "https://www.lequipe.fr/Football/Article/-il-etait-impossible-de-nous-ameliorer-en-ce-moment-lyon-affiche-ses-limites-face-au-psg/1738944#at_medium=RSS_feeds",
-     "resume": "Ultra-défensif mais dans l'incapacité de concrétiser ses quelques temps forts, l'Olympique lyonnais a tiré la langue lundi soir au Parc des Princes (0-2), sa troisième défaite en cinq matches. Et, à l'image de son entraîneur Paulo Fonseca, s'inquiète des…",
-     "date": "2026-10-27T07:19:00+01:00",
+     "titre": "La Fédération espagnole inflige une amende de 602€ au Barça, accusé d'avoir approché Julian Alvarez en dehors des règles",
+     "lien": "https://www.lequipe.fr/Football/Actualites/La-federation-espagnole-inflige-une-amende-de-602-et-8364-au-barca-accuse-d-avoir-approche-julian-alvarez-en-dehors-des-regles/1739195#at_medium=RSS_feeds",
+     "resume": "Accusé par l'Atlético de Madrid d'avoir approché Julian Alvarez en dehors des règles cet été alors que celui-ci est sous contrat avec les Colchoneros jusqu'en 2030, le FC Barcelone a été condamné par la Fédération espagnole à payer une amende... de 602€.",
+     "date": "2026-10-28T00:37:19+01:00",
      "source": "",
-     "image": "https://medias.lequipe.fr/img-photo-jpg/les-lyonnais-felix-bacher-corentin-tolisso-moussa-niakhate-et-abner-vinicius-de-gauche-a-droite-au-milieu-des-parisiens-lundi-au-parc-des-princes-s-boue-l-equipe/1500000002634574/0:0,2000:1333-828-552-75/40051.jpg"
+     "image": "https://medias.lequipe.fr/img-photo-jpg/le-fc-barcelone-et-son-president-joan-laporta-photo-condamnes-par-la-federation-espagnole-j-b-autissier-l-equipe/1500000002635381/0:0,2000:1333-828-552-75/12219.jpg"
     },
     {
-     "titre": "Le résumé vidéo d'Oklahoma City Thunder - Phoenix Suns",
-     "lien": "https://www.lequipe.fr/Basket/Video/Nba-le-resume-video-d-oklahoma-city-thunder-phoenix-suns/20244229#at_medium=RSS_feeds",
-     "resume": "",
-     "date": "2026-10-27T07:14:00+01:00",
+     "titre": "Nouvelle défaite pour Marseille en Ligue Magnus, Gap surprend Bordeaux",
+     "lien": "https://www.lequipe.fr/Hockey-sur-glace/Actualites/Nouvelle-defaite-pour-marseille-en-ligue-magnus-gap-surprend-bordeaux/1739193#at_medium=RSS_feeds",
+     "resume": "Battus pour la quatrième fois sur leurs cinq derniers matches de Synerglace Ligue Magnus, mardi soir face à Amiens (3-2 a.p.), les Spartiates de Marseille restent malgré tout sur le podium de la Ligue Magnus. Le champion Bordeaux a été surpris à domicile…",
+     "date": "2026-10-28T00:28:04+01:00",
      "source": "",
      "image": "https://medias.lequipe.fr/img-photo-png/-/1500000000833469/0-828-552-75/0cb67.png"
     }
@@ -254,64 +254,64 @@
    "sous_titre": "Les informations les plus importantes, partout dans le monde",
    "items": [
     {
-     "titre": "Au Brésil, Flavio Bolsonaro, isolé, renonce à demander l’annulation du scrutin après la victoire de Lula",
-     "lien": "https://www.lemonde.fr/international/article/2026/10/27/au-bresil-flavio-bolsonaro-isole-renonce-a-demander-l-annulation-du-scrutin-apres-la-victoire-de-lula_6801096_3210.html",
-     "resume": "Le Parti libéral du candidat défait a reconnu les résultats de l’élection présidentielle, comme ses alliés d’extrême droite en Amérique du Sud. Le fils de l’ex-président, mis en cause dans plusieurs affaires de corruption, s’est vu confisquer ses passeports…",
-     "date": "2026-10-27T05:15:11+01:00",
+     "titre": "Israël : au lendemain de législatives cruciales pour l’avenir du pays, le vertige d’une Knesset sans majorité",
+     "lien": "https://www.lemonde.fr/international/article/2026/10/28/israel-au-lendemain-de-legislatives-cruciales-pour-l-avenir-du-pays-le-vertige-d-une-knesset-sans-majorite_6801530_3210.html",
+     "resume": "Selon des résultats provisoires, mercredi matin, le camp Nétanyahou est en net recul mais l’opposition, emmenée par Gadi Eisenkot, échoue à détrôner le Likoud, aucun des deux blocs n’étant en position de former un gouvernement. Les partis arabes effectuent…",
+     "date": "2026-10-28T05:57:19+01:00",
      "source": "lemonde.fr",
-     "image": "https://img.lemde.fr/2026/10/26/394/0/4827/2413/644/322/60/0/cc816de_ftp-1-axx1jqzwtzc6-2026-10-26t020144z-1553623002-rc2paoaxw2gb-rtrmadp-3-brazil-election.JPG",
-     "reprises": 13,
-     "score": 47.24
-    },
-    {
-     "titre": "Législative en Israël : Benyamin Nétanyahou face aux électeurs pour la première fois depuis les attaques du 7-Octobre",
-     "lien": "https://www.lemonde.fr/international/article/2026/10/27/legislatives-en-israel-benyamin-netanyahou-face-aux-electeurs-pour-la-premiere-fois-depuis-les-attaques-du-7-octobre_6801101_3210.html",
-     "resume": "Le premier ministre sortant joue son avenir politique dans un scrutin où les sondages le donnent au coude-à-coude avec le bloc principal de l’opposition emmené par un ancien chef de l’armée, le centriste Gadi Eisenkot.",
-     "date": "2026-10-27T05:47:15+01:00",
-     "source": "lemonde.fr",
-     "image": "https://img.lemde.fr/2026/10/23/945/0/5109/2554/644/322/60/0/c1ccfff_upload-1-vgcnnkfhrcfu-ll-elections-tel-aviv-03.jpg",
+     "image": "https://img.lemde.fr/2026/10/28/1214/0/5678/2839/644/322/60/0/72ab001_upload-1-h9jw4zshbydj-ll-elections-israel-journee-08.jpg",
      "reprises": 5,
-     "score": 16.9
+     "score": 23.39
     },
     {
-     "titre": "Harry Kane nommé Ballon d'Or 2026, Kylian Mbappé deuxième devant Lamine Yamal",
-     "lien": "https://www.france24.com/fr/%C3%A9missions/sports/20261027-harry-kane-nomm%C3%A9-ballon-or-2026-kylian-mbapp%C3%A9-deuxi%C3%A8me-devant-lamine-yamal",
-     "resume": "Harry Kane a remporté le Ballon d’Or 2026, décerné pour la première fois à Londres. Il devient le 5e anglais à remporter le trophée, 25 ans après Michael Owen.",
-     "date": "2026-10-27T07:15:30+01:00",
-     "source": "france24.com",
-     "image": "https://s.france24.com/media/display/56e8f064-d1b0-11f1-ac06-4b25c96ec90e/w:1024/p:16x9/kane-1.jpg",
+     "titre": "Brésil : après sa défaite à la présidentielle, Flavio Bolsonaro soupçonné d’avoir pris la fuite vers les Etats-Unis",
+     "lien": "https://www.lemonde.fr/international/article/2026/10/28/bresil-apres-sa-defaite-a-la-presidentielle-flavio-bolsonaro-soupconne-d-avoir-pris-la-fuite-vers-les-etats-unis_6801485_3210.html",
+     "resume": "Mis en cause dans plusieurs affaires de corruption, le candidat d’extrême droite aurait violé son interdiction de quitter le pays et se serait vu accorder des visas pour lui et sa famille par l’administration Trump.",
+     "date": "2026-10-28T05:00:06+01:00",
+     "source": "lemonde.fr",
+     "image": "https://img.lemde.fr/2026/10/26/500/0/5472/2736/644/322/60/0/82b7f8a_ftp-1-xxh3t27jfqzw-afp-d4ek7m8.jpg",
+     "reprises": 7,
+     "score": 23.35
+    },
+    {
+     "titre": "Ukraine: les dirigeants norvégien et finlandais ont eu un entretien «franc et substantiel» avec Vladimir Poutine",
+     "lien": "https://www.rfi.fr/fr/europe/20261027-ukraine-les-dirigeants-norv%C3%A9gien-et-finlandais-ont-eu-un-entretien-franc-et-substantiel-avec-vladimir-poutine",
+     "resume": "Le président finlandais Alexander Stubb et le Premier ministre norvégien Jonas Gahr Støre ont eu, mardi 27 octobre, un entretien « franc et substantiel » avec Vladimir Poutine, à la suite des discussions entre Volodymyr Zelensky et les émissaires américains…",
+     "date": "2026-10-27T13:37:00+01:00",
+     "source": "Pavel Byrkin/Pool Sputnik Kremli - Pavel Byrkin",
+     "image": "https://s.rfi.fr/media/display/a29e3f98-7286-11f1-b894-005056a97e36/w:1024/p:16x9/AP26176426138958.jpg",
      "reprises": 4,
-     "score": 12.23
+     "score": 12.04
     },
     {
-     "titre": "Avant les midterms, Donald Trump promet un million de dollars pour toute information débouchant sur une condamnation pour fraude électorale",
-     "lien": "https://www.lemonde.fr/international/article/2026/10/27/avant-les-midterms-donald-trump-promet-un-million-de-dollars-pour-toute-information-debouchant-sur-une-condamnation-pour-fraude-electorale_6801016_3210.html",
-     "resume": "La récompense sera versée à « toute personne signalant une fraude électorale lors de scrutins passés ou lors des élections de mi-mandat », qui auront lieu le 3 novembre, a déclaré le président américain, jetant d’ores et déjà le doute sur les résultats du…",
-     "date": "2026-10-27T02:36:44+01:00",
+     "titre": "Midterms 2026 : Donald Trump dit qu’il acceptera les résultats des élections si elles sont « honnêtes », dans une nouvelle allusion à des fraudes électorales jamais prouvées",
+     "lien": "https://www.lemonde.fr/international/article/2026/10/27/midterms-2026-donald-trump-dit-qu-il-acceptera-les-resultats-des-elections-si-elles-sont-honnetes-dans-une-nouvelle-allusion-a-des-fraudes-electorales-jamais-prouvees_6801324_3210.html",
+     "resume": "Le président américain agite ainsi une nouvelle fois le spectre d’une contestation postélectorale si son parti était battu aux élections de mi-mandat, traditionnellement défavorables au parti qui occupe la Maison Blanche.",
+     "date": "2026-10-27T17:56:36+01:00",
      "source": "lemonde.fr",
-     "image": "https://img.lemde.fr/2026/10/27/293/0/7836/3918/644/322/60/0/9998802_ftp-1-ttx0cigayj1j-2302151939.jpg",
-     "reprises": 6,
-     "score": 11.42
-    },
-    {
-     "titre": "EN DIRECT, guerre en Ukraine : une trêve humanitaire est censée avoir commencé à Olechky, ville ukrainienne sous occupation russe",
-     "lien": "https://www.lemonde.fr/international/live/2026/10/27/en-direct-guerre-en-ukraine-une-treve-humanitaire-est-censee-avoir-commence-a-olechky-ville-ukrainienne-sous-occupation-russe_6799896_3210.html",
-     "resume": "Cette suspension des combats doit permettre la tenue d’une opération humanitaire dans cette localité isolée, où les habitants pris au piège manquent depuis plusieurs semaines de nourriture et de médicaments. A Kiev, des frappes russes ont tué une personne et…",
-     "date": "2026-10-27T05:59:06+01:00",
-     "source": "lemonde.fr",
-     "image": "https://img.lemde.fr/2026/10/17/442/0/3051/1525/644/322/60/0/7f75b42_ftp-1-lvgjaz50moxm-e4f8b194f57c4de99ed0f8082dc7fbad-1-285b8ed625824d9bb1a1830b6b195f85.jpg",
+     "image": "https://img.lemde.fr/2026/10/27/454/0/6170/3085/644/322/60/0/e57fa55_ftp-1-4agzekgs5fht-f366e180d8bf428c90daa667e2ac3e87-0-ca662509466041abb5a522dc4120050d.jpg",
      "reprises": 4,
-     "score": 8.3
+     "score": 8.58
     },
     {
-     "titre": "James Comey, ancien directeur du FBI et critique de Donald Trump, est de nouveau poursuivi en justice, cette fois pour fuite d’informations confidentielles",
-     "lien": "https://www.lemonde.fr/international/article/2026/10/27/james-comey-ancien-directeur-du-fbi-et-critique-de-donald-trump-est-de-nouveau-poursuivi-en-justice-cette-fois-pour-fuite-d-informations-confidentielles_6800882_3210.html",
-     "resume": "Dans des documents rendus publics lundi, le ministère de la justice américain accuse l’homme de 65 ans d’avoir sciemment communiqué des informations relatives à la défense nationale à une personne qui n’était pas autorisée à les recevoir, en 2016, alors…",
-     "date": "2026-10-27T00:55:41+01:00",
-     "source": "lemonde.fr",
-     "image": "https://img.lemde.fr/2017/06/08/222/0/3500/1750/644/322/60/0/08cd2a3_WAS17_USA-TRUMP-RUSSIA_0608_11.JPG",
-     "reprises": 3,
-     "score": 7.15
+     "titre": "Trappes : minute de silence à l'Assemblée, Lecornu accuse la gauche de \"faire le jeu du RN\"",
+     "lien": "https://www.france24.com/fr/france/20261027-attentat-trappes-minute-silence-assembl%C3%A9e-lecornu-accuse-gauche-faire-jeu-rassemblement-national",
+     "resume": "Une minute de silence a été observée mardi à l’Assemblée nationale en hommage aux victimes de l’attentat raciste ayant fait un mort et cinq blessés vendredi à Trappes et à La Verrière. Le Premier ministre Sébastien Lecornu a accusé les députés de gauche…",
+     "date": "2026-10-27T16:36:19+01:00",
+     "source": "© Simon Wohlfahrt, AFP",
+     "image": "https://s.france24.com/media/display/2bc2f76e-d218-11f1-a42d-4b25c96ec90e/w:1024/p:16x9/000-D4KM9UG.jpg",
+     "reprises": 4,
+     "score": 6.6
+    },
+    {
+     "titre": "Législatives en Israël : à égalité, Eisenkot et Netanyahu tous deux prêts à former un gouvernement",
+     "lien": "https://www.france24.com/fr/moyen-orient/20261027-l%C3%A9gislatives-isra%C3%ABl-participation-record-netanyahu-eisenkot-coude-%C3%A0-coude",
+     "resume": "Alors que les sondages de sortie des urnes les donnent à égalité aux élections législatives mais sans majorité, le Premier ministre israélien Benjamin Netanyahu et son rival Gadi Eisenkot se sont tous deux dits mercredi prêts à former un gouvernement. Les…",
+     "date": "2026-10-27T22:53:41+01:00",
+     "source": "© Shir Torem, Reuters",
+     "image": "https://s.france24.com/media/display/e0844dc0-d24e-11f1-bac3-bf69a9ce9852/w:1024/p:16x9/2026-10-27T201655Z-2088081210-RC2WBOANCXWD-RTRMADP-3-ISRAEL-ELECTION.jpg",
+     "reprises": 2,
+     "score": 5.49
     }
    ],
    "a_traduire": []
@@ -322,96 +322,106 @@
    "sous_titre": "Modèles, entreprises, régulation, recherche",
    "items": [
     {
-     "titre": "Salaire, nombre d'actions, droits de vote… La gouvernance très égalitaire d'Anthropic, le prodige de l'IA, en piste pour Wall Street",
-     "lien": "https://news.google.com/rss/articles/CBMinwJBVV95cUxQRUlTX2E4R3lHZ3ZRRURjRDI0U1JOVHFKMWx3Tmctd0NNcmhnSEJZYXZKQ3FGRTBzbF9kbm50dTIzVVdZa0lIV2NOZS1tdjQzZDhsZlNGTWF4by05QXltZnpDTFBTV1lkVF92OUV0MXAteklUU1M2SVdUN25pTF9NWGNzUGd6NVl4Qk40dlNEd2FyTmRwRmwydXhEOVdmZVYzWUM1c1ptXzhJSG1IYWVFMEVqak04enBTeF9xbGd4VEFmSkYzcU9NeTJzQnRUb1BfeWw5em9FTk9ldnpiU3kwTFVnWll6NC1Rbl9YeEhxRi1fSkZUcmxsOVBhZEJHaDNXcEM0Z3VlME1NVV9Nb3NBOG5WejlXNnV0YU1PWjFKMA?oc=5",
-     "resume": "Le créateur de Claude a déposé son dossier pour entrer au Nasdaq. Avant OpenAI, Anthropic pourrait devenir le premier grand laboratoire américain d’IA générative coté en son nom. Un test pour une industrie dont les revenus explosent, mais qui dépense encore…",
-     "date": "2026-10-27T06:10:08+01:00",
-     "source": "Les Echos",
-     "image": null,
-     "reprises": 18,
-     "score": 47.15
-    },
-    {
-     "titre": "Anthropic, le créateur de l'IA Claude, prépare son entrée en Bourse malgré des milliards de dollars de pertes",
-     "lien": "https://news.google.com/rss/articles/CBMijgJBVV95cUxPZDNYSFA3NjlGZ2cyQUd4X0FWZ0ZQek8yVzc2cGQ1czIyR0VfU00ycnRHMTBHVk8wSEZETXlZS2h6X3FLaU50YktpMFk0NV9CUFEtQnFQMmFjWW1GSkJWRnRQQm1lQzJubi1rZmlNUnFpRC1kOUJkM01KeHdUWUV2RFR1RWwxU1VTWmwzYzRhT1FWU0hwSnh3WFlCbWlYZHlkUld1Q19BS2FHLWRwRl9ZZ19IWWZGU0pEcEszSWwtS29qNXpqVmpJZkRXcDRVd3JPSlpsRDlSUm9FdzJHR280d1BPSjFfN1Q4ejRlMnhGcTlKajNxWjNCOWk5WFMxUGlCQmFlZGUxUnFBNkF4VEE?oc=5",
+     "titre": "OpenAI prévoit d’acheter les puces d’intelligence artificielle de Google, rapporte The Information",
+     "lien": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxPSWlUMXluN282YUJ3ZV8xdzFHUWRCRUhLZTUxeHVma1BneWhfa2tmd1dCRFdiZFJCOTFZUHE3VERnSzRlRjV2UFROZDlCYmx6cDZGRi11cWNOZW1aSUNKLUJfaWNYUy1PNUxQZXRsZHM5YTg1TVVYMWU1Mmw3VXZqZXRQNWV0eS00OWFtR0Z2QVlsalZQNDJwYzZyRDdlR0RWRnY5UFVZZ2plUmNCa0VETk5JUW5QeXRscm93VDNFU3B6Ym1QVGoxaWFHUlpHZXh1WjVpU3VpYjJDYUZaM0ZoWm43ZTBkb2RMdjhWLUpn?oc=5",
      "resume": "",
-     "date": "2026-10-26T20:11:40+01:00",
-     "source": "franceinfo",
-     "image": null,
-     "reprises": 8,
-     "score": 15.23
-    },
-    {
-     "titre": "Tous les regards tournés vers l’intelligence artificielle",
-     "lien": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQOWszVkpWSnFHZjUxbWFpUlB1RlJ2ZnJjdURIVGJ6Y19qQ2ZHOVUtcGItSHk5S0FZNGd2YUc2R0pXSVNBQk9lZldyM1lPZHhGWmRYUXh3ZnFUZVlhYU1BcTBselhzR1JIeFVNN2VLVkZ6RnVJNjZwd0R4elZlR29uRVVucHJoQ0RuVVppSGNMMEhYNFlWZzFONFlLbHlVaEQ4M2J3aWVRcm5xQ21mYVlVM2JNVFJQbXBQc3c?oc=5",
-     "resume": "",
-     "date": "2026-10-27T05:41:34+01:00",
+     "date": "2026-10-28T01:14:34+01:00",
      "source": "Zonebourse Suisse",
      "image": null,
      "reprises": 3,
-     "score": 6.67
+     "score": 9.45
     },
     {
-     "titre": "Dow Jones : Wall Street rebondit, l’IPO d’Anthropic relance le pari de l’IA",
-     "lien": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNTDdNUHp1ekZSNHJHWEMybW9MckFOWWhyd0FvU1VjLU5aZFNIYUR6MHk0c2lTeHBYRlBjMl9yMElqMWVoN3J4LXhxVXJoZUpNc25qTHV2UVVfeVZ6ZGd4R1lLVlBzQ0hpSTNUTnc3OE5FSXJCdVlYbTV1bWZwbk5rRkUtNEVfYmNnWlowNVJ1Z3FqRjNNUnBrMkloV0RTRHluYkF6YXg4MkJTQlVVUEFrR1hXdDJvbmlaNXBhQVFCZU5QcmFL?oc=5",
-     "resume": "",
-     "date": "2026-10-27T05:15:00+01:00",
-     "source": "Investing.com France",
-     "image": null,
-     "reprises": 3,
-     "score": 5.19
-    },
-    {
-     "titre": "OpenAI lance GPT-6.1 Terra à 1 $/M entrée et 5 $/M sortie",
-     "lien": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQWnE0WV9CeThzVzRRdlJfODZlY00yZEktcmp2TnkydV9FY25LaHA3ZEJEclUyekx5X3pLXzZrMENmVG9JQjlHZGc4MFRyczUtVmxtRThCcUxWWHYzVEY3WC1nRS1LVHlhbG9abWNVY2ZBXzJDTFRTMGVia1NCSnUyczZuU0lQQUJQT0llbA?oc=5",
-     "resume": "",
-     "date": "2026-10-27T02:04:51+01:00",
-     "source": "Brief IA",
+     "titre": "OpenAI affirme avoir résolu l'une des plus grandes énigmes de la physique, mais garde la preuve secrète",
+     "lien": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxNT0tBMkIxOWRyeTY4b21iNlJseFdoZWdNNjFtZVFDU1VXTkxKR3RtajdsUVItVFRxclFRaTU1S2lsMHNKQ0pQNlVybERFbk0tU1h3OTRidVZQNW5MUXdCTFFDbEptZlhMZ2RLcVlVci0xR3d2X2JkZVRIVjVmNTVLMWMzLXpyTnlQZFpKeFRFXzhGS1ZOYi04VnNuaFQtcHQyM016UzlrR1NvTXd0V0ZVUnNhMTBNN3VKOTBaX05ESFowdGM5bHB2Zkt5cE9mSXhYdVFIUmRwd0ZqaFhr?oc=5",
+     "resume": "OpenAI affirme ce lundi 26 octobre 2026 que ses modèles ont prouvé l'existence mathématique de la théorie de Yang-Mills en quatre dimensions. Ce résultat couvre la première des deux parties d'un problème du millénaire. Pour l'instant, seuls cinq physiciens…",
+     "date": "2026-10-27T11:18:25+01:00",
+     "source": "Numerama",
      "image": null,
      "reprises": 2,
-     "score": 3.0
+     "score": 4.73
+    },
+    {
+     "titre": "Pourquoi Anthropic admet des risques d'IA \"consciente\" dans son dossier d'IPO",
+     "lien": "https://news.google.com/rss/articles/CBMiiAJBVV95cUxQN2JPYWtCMGZuWE92T3E5WmJacXEwVGV4dmFjNXBjWFd4QzVWYTFVaWY0RU43VFRuUFA5RlQ4SzFyLTdkNnZxRXhjUlNSMkxockp3YmlGcEdGWFU4MXJIR2ZrR3dxNFFXdHN1akgxN0E2WUFOa1N6YTh1RjYxbVkxV2dsSzNuWGthRk1ZU0x6TGY5WkxkLTE4eVh2ZERhb3ZPMm5mNzlEZllaSnVZV0ZFY3RrX1dHVm5zSjRsUU9obldSZjR5UHEzSHdCMm5SNkctU0RGa3JqQUtDR1lmWk83ZGFrRzBTaWxLaEFWME8xVGwxSVdFMHN0MktzaW1rOHNhNlRfbl8wY1A?oc=5",
+     "resume": "",
+     "date": "2026-10-27T16:28:05+01:00",
+     "source": "La Tribune",
+     "image": null,
+     "reprises": 2,
+     "score": 4.7
+    },
+    {
+     "titre": "Broadcom en hausse après l'annonce d'un tour de table de 63 milliards de dollars pour Anthropic",
+     "lien": "https://news.google.com/rss/articles/CBMiiAJBVV95cUxONWJPUGd3R1UzTXIwMWRGV1ZNaUp6RW9pOXdNZ3RKTDBBWDg3eW1tY0FZV1hKaUFBaHVVVzZDaWUzZmQ0eU0ybjN1eHhiZWJOUkJGOTE4di1qREktdFd6anJNSG91QkdaZjRTU1lnckx5TWpMTjdzVkhwd3JUcS1vbm5vREFWR19qdDVJOFBQamF4ZENRR1YxQXVWM3RsMGtGYnJIbUZ4YVpaVzdaTDNLb0JhZFRUUzh5LUNab2tJOVpYWExJa3N2RUtuYjBkU2M4VnZiSk14WHF4RkxrNHZLcTQzblF5YnhTbGEwMWR1ZUppeFlCYllUWUlmdlVwQ29fY24zTWI4aUfSAYgCQVVfeXFMTjViT1Bnd0dVM01yMDFkRldWTWlKekVvaTl3TWd0SkwwQVg4N3ltbWNBWVdYSmlBQWh1VVc2Q2llM2ZkNHlNMm4zdXh4YmViTlJCRjkxOHYtakRJLXRXempyTUhvdUJHWmY0U1NZZ3JMeU1qTE43c1ZIcHdyVHEtb25ub0RBVkdfanQ1SThQUGpheGRDUUdWMUF1VjN0bDBrRmJySG1GeGFaWlc3WkwzS29CYWRUVFM4eS1DWm9rSTlaWFhMSWtzdkVLbmIwZFNjOFZ2YkpNeFhxeEZMazR2S3E0M25ReWJ4U2xhMDFkdWVKaXhZQmJZVFlJZnZVcENvX2NuM01iOGlH?oc=5",
+     "resume": "",
+     "date": "2026-10-27T15:33:45+01:00",
+     "source": "Boursorama",
+     "image": null,
+     "reprises": 3,
+     "score": 4.23
+    },
+    {
+     "titre": "La Bourse de Paris, stimulée par l'IPO prochaine d'Anthropic, a poursuivi sa hausse mais a raté la marche des 7.900 points en clôture",
+     "lien": "https://news.google.com/rss/articles/CBMimAJBVV95cUxPeDVCRjMxNzdyaDV3UTVwcnZQNUtaOXR4NXFVRzd0YzhZajcxVl9HRkxEdFVaSjVTVjlxY1ItNWFXTWdSZkNQWTY0S3RhaUpaR3ZHYjRFWUoySkpjSk4zaTdCdWcwdlJoR2kycGxMTk5wWlhCRWNJbFpRdVJwVGhETGNRaXcxTXRKYWMzLXRvMFNMbWhBQ3pEcUNfQjRNMzdFeklwX0xFclpvZUhXRndLRGtDVDd5YU16V3BVbDlXcWZVN2tXUERadjdIOE9GLWpzVTlYZ3hUWFJhb09ZQlJwbGk3dGlxRGJQOERzR1h2NklzbkQ1dnQtUzJuQzRxbTZrTjhrZG4xX3U0M1NEWTdTdkU4cmFrZDBf?oc=5",
+     "resume": "",
+     "date": "2026-10-27T17:47:41+01:00",
+     "source": "Les Echos",
+     "image": null,
+     "reprises": 3,
+     "score": 4.16
     }
    ],
    "a_traduire": [
     {
-     "titre": "Anthropic’s IPO filing lays out a plan to ‘revolutionize every area of human endeavor’ with AI",
-     "lien": "https://www.theverge.com/ai-artificial-intelligence/1018476/anthropic-ipo-details-s1-filed-sec",
-     "resume": "Anthropic has filed its S-1 prospectus with the Securities and Exchange Commission, preparing the company behind Claude to beat OpenAI to the punch with an IPO. In a filing with the SEC, Anthropic said it plans to list on the Nasdaq exchange under the ticker…",
-     "date": "2026-10-26T14:32:49+01:00",
-     "source": "theverge.com",
-     "image": null,
-     "reprises": 2,
-     "score": 3.65
-    },
-    {
-     "titre": "OpenAI announces three big science discoveries and a new way to work with academics",
-     "lien": "https://www.theverge.com/ai-artificial-intelligence/1019143/openai-eth-kaseya-science-math-physics",
-     "resume": "Less than a month after its mass release of hundreds of manuscripts that it said contained solutions to long-standing mathematics questions, OpenAI is back with three more \"major\" discoveries in math, computer science, and physics. What's different this time…",
-     "date": "2026-10-27T00:34:58+01:00",
-     "source": "theverge.com",
-     "image": null,
-     "reprises": 1,
-     "score": 1.48
-    },
-    {
-     "titre": "Anthropic is burning gas to feed the AI boom",
-     "lien": "https://www.theverge.com/ai-artificial-intelligence/1018994/anthropic-ipo-ai-data-center-energy-climate-risk",
-     "resume": "As it prepares to go public, Anthropic's S-1 filing makes generative AI's methane dependency glaringly obvious. \"Competition for access to electrical supply and data center locations with adequate power availability is intense.\" In documents filed with the…",
-     "date": "2026-10-26T22:45:31+01:00",
-     "source": "theverge.com",
-     "image": null,
-     "reprises": 1,
-     "score": 1.32
-    },
-    {
-     "titre": "Anthropic officially files for its public debut",
-     "lien": "https://techcrunch.com/2026/10/26/anthropic-officially-files-for-its-public-debut/",
-     "resume": "Anthropic has officially filed for an IPO, revealing soaring revenue, mounting losses, major enterprise adoption, and an unusual governance structure designed to preserve founder control and its AI safety mission.",
-     "date": "2026-10-26T15:35:22+01:00",
+     "titre": "VCs will make billions on Anthropic’s IPO, but Amazon is set to make much (much) more",
+     "lien": "https://techcrunch.com/2026/10/27/vcs-will-make-billions-on-anthropics-ipo-but-amazon-is-set-to-make-much-much-more/",
+     "resume": "Massive note conversions reveal the true extent of Amazon's ownership in Anthropic.",
+     "date": "2026-10-28T02:15:28+01:00",
      "source": "techcrunch.com",
      "image": null,
      "reprises": 1,
-     "score": 1.2
+     "score": 1.53
+    },
+    {
+     "titre": "Researchers are getting tired of OpenAI gatekeeping its breakthroughs",
+     "lien": "https://www.theverge.com/ai-artificial-intelligence/1019921/openai-breakthrough-math-computer-science-physics",
+     "resume": "On Monday, OpenAI announced impressive breakthroughs in mathematics, computer science, and physics, along with what the company says is an evolving approach to communicating its findings. But despite its apparent course correction, researchers who spoke to…",
+     "date": "2026-10-27T21:48:58+01:00",
+     "source": "theverge.com",
+     "image": null,
+     "reprises": 1,
+     "score": 1.46
+    },
+    {
+     "titre": "Bank of America kindly asks that you don’t share your banking password with your AI assistant",
+     "lien": "https://techcrunch.com/2026/10/27/bank-of-america-kindly-asks-that-you-dont-share-your-banking-password-with-your-ai-assistant/",
+     "resume": "The banking giant reminds customers that \"you're responsible for activity\" resulting from your AI agents' access.",
+     "date": "2026-10-27T22:44:34+01:00",
+     "source": "techcrunch.com",
+     "image": null,
+     "reprises": 1,
+     "score": 1.34
+    },
+    {
+     "titre": "Who’s really in charge at Anthropic after the IPO?",
+     "lien": "https://techcrunch.com/2026/10/27/whos-really-in-charge-at-anthropic-after-the-ipo/",
+     "resume": "Here's a clear explanation of Anthropic's incredibly complex governance structure.",
+     "date": "2026-10-27T22:38:28+01:00",
+     "source": "techcrunch.com",
+     "image": null,
+     "reprises": 1,
+     "score": 1.24
+    },
+    {
+     "titre": "Apple is adding an AI chatbot to Pages, Keynote, and Numbers",
+     "lien": "https://www.theverge.com/tech/1019373/apple-pages-keynote-numbers-ai-chatbot-update",
+     "resume": "Apple is bringing an AI assistant to its suite of productivity apps, including Keynote, Pages, and Numbers. The assistant, which is built on AI models from Apple and OpenAI, can understand a document's context to perform tasks like designing, animating, and…",
+     "date": "2026-10-27T14:50:51+01:00",
+     "source": "theverge.com",
+     "image": null,
+     "reprises": 1,
+     "score": 1.21
     }
    ]
   },
@@ -427,9 +437,31 @@
      "date": "2026-10-26T10:46:40+01:00",
      "source": "franceinfo",
      "image": null,
-     "reprises": 12,
-     "score": 25.62,
+     "reprises": 11,
+     "score": 21.56,
      "libertes": true
+    },
+    {
+     "titre": "À Beauficel, le Conseil d’État rejette le recours contre l’élection de Martine Herbert",
+     "lien": "https://news.google.com/rss/articles/CBMihAJBVV95cUxOcmU0OUVlcHBOUjJtVzgybkhENkZjUEZ6Rmg4ZVQ3SlY0UEZibzNLdHJEak1KS21uaXI2UlVmTnhTcnVnUUdIaDJNOU00VW11QkZSN29FUDdIOUlKTzFWTXVsR3ZJcFdDeHpuRDNCeDhYSDNkb05NYjlOSjBKM3hZSjhnbk85eTdrM2lRTHFBUVNUV042NTJrWmJUWUloWE5wVjNjcm5BdHZSTVBTVGdjcVd1T0o0QW0yRTM4aUU4NUxjZ25KeVFtcklDTWpCc0wyUmM1WmlQRHl1WUZkMWYxSFVPUTdrWmx0SnlHVmR4S0FRQURqNV9RMXptY19EYkVvdDVvVg?oc=5",
+     "resume": "",
+     "date": "2026-10-27T13:45:23+01:00",
+     "source": "Ouest-France",
+     "image": null,
+     "reprises": 7,
+     "score": 13.88,
+     "libertes": false
+    },
+    {
+     "titre": "Jurisprudence Vidéo de L214 dans un élevage : la Cour de cassation précise les conditions de son retrait",
+     "lien": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOYmdGdE5VYkUtbm5RaERSclFmT25wSEI3endjcm1vODdHVEFCek90TloyUF9QbTdGQUxFeFdhNzBWaGE5WmRtazNfQ3QtcVJrSTJISEtabWJuZ1B4V1dkdjJMRmZPcWJxM0UwbDhiTHprT2daTTdHcWFGWU43YXJkN21zZGFuTnVvT01RcUxBSW9PVTE5SDB3cXdZZEFzRlY5LWw2ZVBVQ0JPem5rTGFsWkdqS2otYWZfdU9kVw?oc=5",
+     "resume": "",
+     "date": "2026-10-27T17:13:50+01:00",
+     "source": "Réussir",
+     "image": null,
+     "reprises": 2,
+     "score": 5.43,
+     "libertes": false
     },
     {
      "titre": "MUTUALISME : Le Conseil constitutionnel abroge la mesure de gel des tarifs des complémentaires santé en 2026",
@@ -438,52 +470,30 @@
      "date": "2026-10-26T09:53:00+01:00",
      "source": "Creusot Infos",
      "image": null,
-     "reprises": 4,
-     "score": 7.69,
-     "libertes": true
-    },
-    {
-     "titre": "«La liberté d’expression n’autorise pas le racisme» : rassemblements contre les crimes de Trappes à Saint-Nazaire",
-     "lien": "https://news.google.com/rss/articles/CBMiswJBVV95cUxOTlJ6Nm9xQ1Q0TE5ELTBKUDVvN2NGNmRXcEdvRjlqTUVCcXhxbmZSa0dQOHJ3ZjMwOHdhSG9ydUl3Mm9fT21iZEFTM1had2MzRGJxUlhiNjd1eGdSTnd5SVkyR0ZBZGl4VkJ5ZmY0aFpEOGloamNHVWpaRjNUeWVnbVNlTzI5NnN0WUlQSGQ5TlhVa1dGcHVvdjVmX3FBaFF0Q2UyVld4MjFlb01EeTR0RGgyQ1VnaUVKcm1EeWdldWV5amwzeFQwbGdJak50eGQ3MEZQVlJ3amhPVUpwcEw2akl3S1N2VVZVeGR5X29sMXlYeXRXUXJFYVNzaVMxNDZHRTBmM1ZyT3JhZk41ZVRtdHllV29Mckoxb3Y1OUpBQnBwaFZibUJHamhiX3U5Y3NyazFV?oc=5",
-     "resume": "",
-     "date": "2026-10-26T14:53:05+01:00",
-     "source": "Ouest-France",
-     "image": null,
      "reprises": 3,
-     "score": 6.2,
+     "score": 4.52,
      "libertes": true
     },
     {
-     "titre": "Loge-Fougereuse : le projet éolien renvoyé devant la justice après l’arrêt du Conseil d’État",
-     "lien": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQMUtBOU5ZQjBfNldIU2RnX3NyODFCc2ZvNGtybHFmdDJ3M3R0UUtTblVWazgyTXhOZ2hkcV9Cdy1DU08yU25WRnQwX3hqb2tMMTV1ck5UUmkxejliaWFhcVhLSGREOTlkdE56anZyeXJ5cDJhV2duaG5ibnBhc0ZMRG9Pemx4MkRxM2ZOS1pYclUtcUU0VXMwWGFMUklzR08tdFlTbW11QQ?oc=5",
+     "titre": "Liberté d’expression, liberté de la presse, disparition du journalisme : où en est on ?",
+     "lien": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOZ0RmQUZVeWY1UmpKSU1pTjVQRWFxb0lWbnZWM0h6akhVeFVqRjBoYUliVEN2c1RGbTVMRTVJWlc4ZUlaMHdscWRPbU5oZjA3bG1pd0V6emFBT2o4SjJqWGliQjZ1czRHN1RobmZ3TkwxcmlVWFlsMlkyV3NTZzc1aHFjaGtaNGxwanpPVmlDQm4zcVdMLURyUFlpNlNwNDZiRFNBQk53NFkyaVVLdExEVk5nTWdZU2s?oc=5",
      "resume": "",
-     "date": "2026-10-26T20:56:18+01:00",
-     "source": "infos-media-nantes.fr",
+     "date": "2026-10-26T17:20:38+01:00",
+     "source": "Fondation Jean-Jaurès",
      "image": null,
      "reprises": 2,
-     "score": 3.29,
-     "libertes": false
+     "score": 3.12,
+     "libertes": true
     },
     {
-     "titre": "Déclaration d’appel avec une mauvaise adresse : la Cour de cassation précise le délai de correction",
-     "lien": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOdzUwVE91b0Q5TnV2N1BaenhuOGEzQTN4Qml2U1ZINHF5UDJPUVZxZ2hKak9JT1lBY2tfZGdCQnRRUVRTYTVZTmVhZ0M3dWY2azVPMFRrTlFUa3pGeGNaalNveENBamZ2dE9aemt6c1g1YklJaEd1YWswOFhrVGEzVHJJYWt1TzF0NnBnX2I1VnlHUFU0TVE0bEpmU2lwRE9XU29ySmFkZXBDRzBG?oc=5",
+     "titre": "Écarté de la sélection en 2023, le Groupe d'Action Locale de l'Entre-Sambre-et-Meuse a obtenu gain de cause devant le Conseil d'État",
+     "lien": "https://news.google.com/rss/articles/CBMitwJBVV95cUxPU0dNcXpidEt5bTVsTG9sY2hEQTdlWlNEWmJnVHFWODdQdzE4dWJZd1ZsY0o4ZllDLUdFeVFhSXhzUWM0T2o0N180bVVnWk1SRUtGRkJwRFcyRk1pTFlFSzR5YmgzdVNYcWNvVHhUMUpic3c1dklKcUNLUjFFOEZqa1VMemNNdFdkZEFudUp4M1FhRzBxQ3pMeExOVWRHUEh1eU1FTEhrY2VjcGlCUDYyVXduVDFfNXROS211Vk1ZOVRaLWJ0TEl0clVIY3NyY2NrYnp3ODN0bzR4T0ZSRkdzSnhsUUtJb0FWLVl1VktwNml1a0lxazlmbWk0SFhqSkdVWXkzVTNBcDZ6bjRfWDRXOHQxcEI5R290bm10THE0eUdHQnNhNzZ2REdnMGpOQWtPX0h2Y1Bfbw?oc=5",
      "resume": "",
-     "date": "2026-10-26T13:20:32+01:00",
-     "source": "Juriguide",
+     "date": "2026-10-27T16:45:00+01:00",
+     "source": "L'Avenir",
      "image": null,
-     "reprises": 1,
-     "score": 3.24,
-     "libertes": false
-    },
-    {
-     "titre": "Didier Guérin, magistrat : « Marine Le Pen est actuellement inéligible jusqu’à la décision de la Cour de cassation sur son pourvoi »",
-     "lien": "https://news.google.com/rss/articles/CBMimwJBVV95cUxOLVp4VGtVSXI2cUlNeDJOdmFsZEYxVGFUbm1pZ1J2a01hZkduT0dHaEl2SnZPY3hfY1EtVUwzeS0yMmd5bU92V1dUUXhZQzIwSkZCUGxhWVV1cG9iUm16amdzN1BqR3V0NWZ4T3ZfWURIWUVLTC05Qm9KZVdVOFMwS3RQbkhoQXpzUllNdW1OM2hNeWYxZ2x1U3BNbXZ1clhZSmRRN2xydXhIRUdya0pCQ2tmZlA0Qm1uZElCVkptcEdUdVk3UDg0SmxsVFp0ZWRWRVVXbUlyOVBtSUdrQ3g3UVhoNWRBcnNrTkR5Sm1jLVEyX3ZuNmhRTHFCNWkzZEU1N2RWMHlxN3pIbXRRMXZ4eFJmMVoyMk1IVXRZ?oc=5",
-     "resume": "",
-     "date": "2026-10-27T05:00:30+01:00",
-     "source": "Le Monde.fr",
-     "image": null,
-     "reprises": 1,
-     "score": 1.58,
+     "reprises": 2,
+     "score": 3.05,
      "libertes": false
     }
    ],
