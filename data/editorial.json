@@ -1,120 +1,120 @@
 {
- "date": "2026-10-27",
- "edito": "Israël vote aujourd'hui, Nétanyahou au coude-à-coude avec Gadi Eisenkot. En France, le gouvernement répond aux lycéens (Parcoursup, recrutements) sans éteindre la mobilisation, et le Sénat enterre l'autonomie de la Corse. Le Conseil constitutionnel oppose une fin de non-recevoir au RN et à l'UDR, qui réclamaient la démission de Richard Ferrand. Côté IA, Anthropic dépose son dossier d'introduction en Bourse.",
+ "date": "2026-10-28",
+ "edito": "Israël se réveille sans majorité : le camp Nétanyahou recule, mais Gadi Eisenkot échoue à détrôner le Likoud. Au Brésil, Flavio Bolsonaro est soupçonné d'avoir fui vers les États-Unis. En droit, la Cour de cassation impose une mise en balance complète avant d'ordonner le retrait d'une vidéo militante tournée sans autorisation dans un élevage.",
  "journaux": {
   "figaro": {
-   "resume": "Le Figaro décrypte les concessions de Sébastien Lecornu face à la jeunesse et fête le Ballon d'Or de Harry Kane.",
+   "resume": "Le Figaro consacre sa une à l'Ukraine et à la stratégie de Vladimir Poutine face aux Occidentaux.",
    "points": [
-    "Réforme de Parcoursup, recrutements : des mesures suspendues au bon vouloir du prochain pouvoir.",
-    "Les promesses du gouvernement n'éteignent pas la mobilisation des syndicats.",
-    "Éditorial d'Yves Thréard : « Parcoursup, pas d'avenir sans sélection ».",
-    "Harry Kane sacré Ballon d'Or à Londres, 70 ans après Stanley Matthews."
+    "Poutine discute tour à tour avec Américains et Européens pour fragiliser le soutien à Kiev.",
+    "Éditorial de Philippe Gélie : « Ukraine, le choix de Donald Trump ».",
+    "Olechky : un cessez-le-feu inespéré permet l'évacuation des derniers habitants.",
+    "Le Sénat adopte et élargit le projet de loi « casseurs-payeurs » (229 voix contre 105)."
    ]
   },
   "monde": {
-   "resume": "Le Monde titre sur la première réponse politique du gouvernement au mouvement lycéen et étudiant.",
+   "resume": "Le Monde ouvre sur le « vertige d'une Knesset sans majorité » au lendemain des législatives israéliennes.",
    "points": [
-    "Parcoursup, effectifs, bac : le plan présenté lundi par les ministres de l'éducation.",
-    "Rassemblements contre le racisme après Trappes : la gauche en ordre dispersé.",
-    "Corse : le Sénat rejette le projet de loi sur l'autonomie et enterre le processus de Beauvau.",
-    "Israël : Nétanyahou face aux électeurs pour la première fois depuis le 7-Octobre."
+    "Israël : aucun des deux blocs n'est en position de former un gouvernement selon les résultats provisoires.",
+    "Midterms : l'administration Trump nourrit la suspicion sur l'intégrité du scrutin du 3 novembre.",
+    "Après Trappes, la gauche et le gouvernement s'affrontent à l'Assemblée.",
+    "Le Lancet Countdown appelle à décréter une « urgence sanitaire mondiale » climatique."
    ]
   },
   "croix": {
-   "resume": "La Croix met en avant un rapport d'Oxfam sur les émissions des plus riches et l'actualité des conflits.",
+   "resume": "La Croix revient sur l'échec du gouvernement à apaiser le mouvement lycéen.",
    "points": [
-    "Selon Oxfam, les 0,1 % les plus riches, soit 8 millions de personnes, émettent presque autant que la moitié de l'humanité.",
-    "Une nappe de pétrole de 750 km² s'étend au large des Émirats arabes unis.",
-    "Ukraine : Volodymyr Zelensky confirme une réunion entre Kiev et Moscou.",
-    "Après le 24 octobre : 1 435 interpellations et 267 policiers et gendarmes blessés selon le gouvernement."
+    "Les mesures annoncées lundi n'éteignent pas la colère de la jeunesse.",
+    "La Cour des comptes juge le plan France 2030 coûteux, aux résultats « encore incertains ».",
+    "Huit ans après l'accord Chine-Vatican, une nouvelle génération d'évêques chinois.",
+    "Ukraine : un cessez-le-feu a commencé autour d'Olechky."
    ]
   },
   "equipe": {
-   "resume": "L'Équipe consacre sa une au Ballon d'Or de Harry Kane.",
+   "resume": "L'Équipe s'inquiète d'un calendrier de Ligue 1 de nouveau chamboulé par la mobilisation sociale.",
    "points": [
-    "Harry Kane, 33 ans, remporte enfin le Ballon d'Or.",
-    "Kylian Mbappé, deuxième, poursuit sa quête.",
-    "Lamine Yamal, troisième, encore devancé.",
-    "PSG-OL : Mika Godts passeur puis buteur."
+    "Deuxième week-end de reports en cascade en Ligue 1.",
+    "Pierre Sage, sur un fil à Crystal Palace.",
+    "Après la controverse Mbappé-Chine, le précédent Daryl Morey en NBA.",
+    "Stan Wawrinka, 41 ans, éloge de la persévérance."
    ]
   }
  },
  "sections": {
   "monde": [
    {
-    "titre": "Israël : Nétanyahou face aux électeurs pour la première fois depuis le 7-Octobre",
-    "lien": "https://www.lemonde.fr/international/article/2026/10/27/legislatives-en-israel-benyamin-netanyahou-face-aux-electeurs-pour-la-premiere-fois-depuis-les-attaques-du-7-octobre_6801101_3210.html",
+    "titre": "Israël : une Knesset sans majorité au lendemain des législatives",
+    "lien": "https://www.lemonde.fr/international/article/2026/10/28/israel-au-lendemain-de-legislatives-cruciales-pour-l-avenir-du-pays-le-vertige-d-une-knesset-sans-majorite_6801530_3210.html",
     "source": "Le Monde",
-    "date": "2026-10-27T05:47:18+01:00",
-    "resume": "Le premier ministre sortant est donné au coude-à-coude avec le bloc d'opposition emmené par l'ancien chef de l'armée Gadi Eisenkot.",
-    "pourquoi": "Un scrutin décisif pour l'avenir politique de Nétanyahou et pour la guerre au Proche-Orient."
+    "date": "2026-10-28T05:57:19+01:00",
+    "resume": "Selon des résultats provisoires, le camp Nétanyahou est en net recul, mais l'opposition menée par Gadi Eisenkot ne parvient pas à détrôner le Likoud. Les deux hommes se disent prêts à former un gouvernement.",
+    "pourquoi": "Une impasse qui ouvre une période d'incertitude politique en pleine guerre régionale."
    },
    {
-    "titre": "Brésil : Flavio Bolsonaro renonce à contester la victoire de Lula",
-    "lien": "https://www.lemonde.fr/international/article/2026/10/27/au-bresil-flavio-bolsonaro-isole-renonce-a-demander-l-annulation-du-scrutin-apres-la-victoire-de-lula_6801096_3210.html",
+    "titre": "Brésil : Flavio Bolsonaro soupçonné d'avoir fui aux États-Unis",
+    "lien": "https://www.lemonde.fr/international/article/2026/10/28/bresil-apres-sa-defaite-a-la-presidentielle-flavio-bolsonaro-soupconne-d-avoir-pris-la-fuite-vers-les-etats-unis_6801485_3210.html",
     "source": "Le Monde",
-    "date": "2026-10-27T05:15:11+01:00",
-    "resume": "Son Parti libéral a reconnu les résultats, comme les alliés d'extrême droite en Amérique du Sud. Le candidat défait, mis en cause dans plusieurs affaires de corruption, s'est vu confisquer ses passeports.",
-    "pourquoi": "La crise post-électorale redoutée s'éloigne."
+    "date": "2026-10-28T05:00:06+01:00",
+    "resume": "Mis en cause dans plusieurs affaires de corruption, le candidat défait aurait violé son interdiction de quitter le pays ; l'administration Trump lui aurait accordé des visas ainsi qu'à sa famille.",
+    "pourquoi": "L'affaire pourrait tendre les relations entre Brasília et Washington."
    },
    {
-    "titre": "Midterms : Trump promet un million de dollars pour des signalements de fraude électorale",
-    "lien": "https://www.lemonde.fr/international/article/2026/10/27/avant-les-midterms-donald-trump-promet-un-million-de-dollars-pour-toute-information-debouchant-sur-une-condamnation-pour-fraude-electorale_6801016_3210.html",
+    "titre": "Midterms : Trump n'acceptera les résultats que s'ils sont « honnêtes »",
+    "lien": "https://www.lemonde.fr/international/article/2026/10/27/midterms-2026-donald-trump-dit-qu-il-acceptera-les-resultats-des-elections-si-elles-sont-honnetes-dans-une-nouvelle-allusion-a-des-fraudes-electorales-jamais-prouvees_6801324_3210.html",
     "source": "Le Monde",
-    "date": "2026-10-27T02:36:44+01:00",
-    "resume": "La récompense vise « toute personne signalant une fraude électorale » lors de scrutins passés ou des élections de mi-mandat du 3 novembre.",
-    "pourquoi": "Le président jette le doute sur les résultats avant même le vote."
+    "date": "2026-10-27T17:56:36+01:00",
+    "resume": "À une semaine du scrutin du 3 novembre, le président américain agite de nouveau le spectre d'une contestation si son parti était battu.",
+    "pourquoi": "La confiance dans le processus électoral américain est directement en jeu."
    },
    {
-    "titre": "Corse : le Sénat rejette le projet de loi sur l'autonomie",
-    "lien": "https://www.lemonde.fr/politique/article/2026/10/27/autonomie-de-la-corse-le-senat-rejette-la-reforme-constitutionnelle-le-camp-autonomiste-annonce-son-retrait-du-processus_6800949_823448.html",
-    "source": "Le Monde",
-    "date": "2026-10-27T01:40:29+01:00",
-    "resume": "Malgré des amendements abandonnant la reconnaissance d'une « communauté », les sénateurs ont rejeté le texte, enterrant le processus de Beauvau.",
-    "pourquoi": "La révision constitutionnelle sur le statut de l'île est compromise."
+    "titre": "Ukraine : entretien « franc et substantiel » entre Poutine et les dirigeants finlandais et norvégien",
+    "lien": "https://www.rfi.fr/fr/europe/20261027-ukraine-les-dirigeants-norv%C3%A9gien-et-finlandais-ont-eu-un-entretien-franc-et-substantiel-avec-vladimir-poutine",
+    "source": "RFI",
+    "date": "2026-10-27T13:37:00+01:00",
+    "resume": "Alexander Stubb et Jonas Gahr Støre se sont entretenus mardi avec Vladimir Poutine, après les discussions entre Volodymyr Zelensky et les émissaires américains.",
+    "pourquoi": "Les Européens cherchent à peser dans les négociations en cours."
    }
   ],
   "ia": [
    {
-    "titre": "Anthropic dépose son dossier d'introduction en Bourse",
-    "lien": "https://techcrunch.com/2026/10/26/anthropic-officially-files-for-its-public-debut/",
+    "titre": "OpenAI dit avoir résolu une partie d'un problème du millénaire, sans publier la preuve",
+    "lien": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxNT0tBMkIxOWRyeTY4b21iNlJseFdoZWdNNjFtZVFDU1VXTkxKR3RtajdsUVItVFRxclFRaTU1S2lsMHNKQ0pQNlVybERFbk0tU1h3OTRidVZQNW5MUXdCTFFDbEptZlhMZ2RLcVlVci0xR3d2X2JkZVRIVjVmNTVLMWMzLXpyTnlQZFpKeFRFXzhGS1ZOYi04VnNuaFQtcHQyM016UzlrR1NvTXd0V0ZVUnNhMTBNN3VKOTBaX05ESFowdGM5bHB2Zkt5cE9mSXhYdVFIUmRwd0ZqaFhr?oc=5",
+    "source": "Numerama",
+    "date": "2026-10-27T11:18:25+01:00",
+    "resume": "OpenAI affirme que ses modèles ont prouvé l'existence mathématique de la théorie de Yang-Mills en quatre dimensions, première des deux parties d'un problème du millénaire. Selon Numerama, seuls cinq physiciens ont pour l'instant accès à la preuve ; d'après The Verge, des chercheurs se lassent de cette rétention.",
+    "pourquoi": "Une annonce potentiellement historique, invérifiable tant que la preuve n'est pas soumise à la communauté."
+   },
+   {
+    "titre": "Apple intègre un assistant IA à Pages, Keynote et Numbers",
+    "lien": "https://www.theverge.com/tech/1019373/apple-pages-keynote-numbers-ai-chatbot-update",
+    "source": "The Verge",
+    "date": "2026-10-27T14:50:51+01:00",
+    "resume": "L'assistant, fondé sur des modèles d'Apple et d'OpenAI, comprend le contexte d'un document pour concevoir, animer ou modifier son contenu.",
+    "pourquoi": "L'IA générative arrive dans les outils bureautiques grand public d'Apple."
+   },
+   {
+    "titre": "Introduction en Bourse d'Anthropic : Amazon, grand gagnant",
+    "lien": "https://techcrunch.com/2026/10/27/vcs-will-make-billions-on-anthropics-ipo-but-amazon-is-set-to-make-much-much-more/",
     "source": "TechCrunch",
-    "date": "2026-10-26T15:35:22+01:00",
-    "resume": "Le créateur de Claude a déposé son prospectus S-1 auprès de la SEC en vue d'une cotation au Nasdaq. Le document révèle des revenus en forte hausse, des pertes croissantes et une gouvernance atypique destinée à préserver le contrôle des fondateurs et la mission de sécurité de l'IA.",
-    "pourquoi": "Anthropic pourrait devancer OpenAI et devenir le premier grand laboratoire d'IA générative coté en son nom."
-   },
-   {
-    "titre": "Le prospectus d'Anthropic révèle la dépendance de l'IA au gaz",
-    "lien": "https://www.theverge.com/ai-artificial-intelligence/1018994/anthropic-ipo-ai-data-center-energy-climate-risk",
-    "source": "The Verge",
-    "date": "2026-10-26T22:45:31+01:00",
-    "resume": "Selon The Verge, le dossier S-1 met en évidence la dépendance de l'IA générative au gaz pour alimenter ses centres de données, l'entreprise y décrivant une concurrence « intense » pour l'accès à l'électricité.",
-    "pourquoi": "Le coût climatique de l'IA apparaît noir sur blanc dans un document réglementaire."
-   },
-   {
-    "titre": "OpenAI annonce trois découvertes scientifiques majeures",
-    "lien": "https://www.theverge.com/ai-artificial-intelligence/1019143/openai-eth-kaseya-science-math-physics",
-    "source": "The Verge",
-    "date": "2026-10-27T00:34:58+01:00",
-    "resume": "Moins d'un mois après la publication de centaines de manuscrits présentés comme résolvant des problèmes mathématiques anciens, OpenAI revendique trois nouvelles découvertes en mathématiques, informatique et physique, et une nouvelle forme de collaboration avec les chercheurs.",
-    "pourquoi": "Des revendications fortes qui restent à valider par la communauté scientifique."
+    "date": "2026-10-28T02:15:28+01:00",
+    "resume": "Selon TechCrunch, d'importantes conversions d'obligations révèlent l'ampleur réelle de la participation d'Amazon dans Anthropic, qui devrait lui rapporter bien plus qu'aux fonds de capital-risque.",
+    "pourquoi": "L'IPO éclaire la dépendance des laboratoires d'IA envers les géants du cloud."
    }
   ],
   "droit": [
    {
-    "titre": "Le Conseil constitutionnel rejette la demande de démission d'office de Richard Ferrand",
-    "lien": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxQeVRoak12ZG4xTlIxYm0xa0doZTZoVnVqX0hVR1FhMzlNd08taVJkb1lpWXQtd1NrWmt5dGhuZkpDZDloN0lhdU9qNklhQ2lnZTh1aXVLb24tZGl5MnN6WHZfM2xMTVJoeFpHUzVXV01QOHlQd0NTS1ZVWlpqcFVsUmxPWHlpTldrc3FET2dUSGlSV0hzQzhBaWV6b0NpekZnZ1BURnU2eXJvSVFlNTlhZUZDbUpQdk1JMVlGNGhvTmFQR2Y4QW0xMDFRRmtJZlNvbWJRRl8tbnNyUWlCZ01UblNzcU5UaURiRXYyT2tLS3RIMHdXeWNneHJR?oc=5",
-    "source": "franceinfo",
-    "date": "2026-10-26T10:46:40+01:00",
-    "resume": "Saisi par le RN et l'UDR sur le fondement de l'article 7 de l'ordonnance de 1958 après que son président a déclaré qu'une révision de la Constitution par référendum de l'article 11 « n'existe pas », le Conseil oppose une fin de non-recevoir par un courrier de son doyen, Alain Juppé. La demande n'a aucune base : seul le Conseil peut constater la démission d'office d'un membre ; sur le fond, Richard Ferrand n'a fait que rappeler que seule la procédure de l'article 89 permet de réviser la Constitution.",
-    "libertes": "Indépendance du Conseil constitutionnel ; procédure de révision constitutionnelle.",
-    "angle_crfpa": "Suite de la demande signalée plus tôt ce mois-ci. Utile pour réviser le statut des membres du Conseil (obligation de réserve, démission d'office) et le débat article 11 / article 89, le courrier rappelant le contrôle du Conseil sur la régularité des référendums (art. 60)."
+    "titre": "Vidéo de L214 dans un élevage : la Cour de cassation exige une mise en balance complète avant tout retrait",
+    "lien": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOYmdGdE5VYkUtbm5RaERSclFmT25wSEI3endjcm1vODdHVEFCek90TloyUF9QbTdGQUxFeFdhNzBWaGE5WmRtazNfQ3QtcVJrSTJISEtabWJuZ1B4V1dkdjJMRmZPcWJxM0UwbDhiTHprT2daTTdHcWFGWU43YXJkN21zZGFuTnVvT01RcUxBSW9PVTE5SDB3cXdZZEFzRlY5LWw2ZVBVQ0JPem5rTGFsWkdqS2otYWZfdU9kVw?oc=5",
+    "source": "Réussir",
+    "date": "2026-10-27T17:13:50+01:00",
+    "resume": "Cass. 1re civ., 14 octobre 2026, n° 25-16.277 et 25-16.349, publié au Bulletin. La cour d'appel d'Angers avait refusé d'ordonner en référé le retrait d'une vidéo tournée sans autorisation dans un centre de Denkavit, au nom de l'intérêt général du sujet. Cassation pour manque de base légale : le retrait n'est justifié que s'il répond à un « besoin social impérieux », apprécié après une mise en balance complète, qui doit inclure les répercussions de la diffusion (réactions hostiles, tracts dans la commune). Renvoi devant la cour d'appel de Rennes.",
+    "libertes": "Liberté d'expression (art. 10 Conv. EDH) contre droit de propriété (art. 1er Prot. 1, art. 544 C. civ.).",
+    "angle_crfpa": "Le juge des référés (art. 835 CPC) doit conduire une mise en balance « à la strasbourgeoise » : intérêt général du débat, mais aussi conséquences concrètes de la diffusion pour la personne visée. Arrêt publié, à connaître pour les conflits entre lanceurs d'alerte associatifs et propriétaires."
    }
   ]
  },
  "notion": {
-  "titre": "Le statut des membres du Conseil constitutionnel",
-  "texte": "L'ordonnance organique de 1958 impose aux membres du Conseil de ne prendre aucune position publique sur les questions ayant fait ou susceptibles de faire l'objet de décisions du Conseil. Un décret de 1959 précise leurs obligations de réserve et d'indépendance. En cas de manquement, c'est au Conseil lui-même, et à lui seul, qu'il revient de constater la démission d'office de l'un de ses membres : aucune autorité extérieure ne peut l'y contraindre.",
-  "reference": "Ord. n° 58-1067 du 7 novembre 1958, art. 7 et 10 ; décret n° 59-1292 du 13 novembre 1959"
+  "titre": "Le « besoin social impérieux »",
+  "texte": "Pour la Cour européenne des droits de l'homme, une ingérence dans la liberté d'expression n'est « nécessaire dans une société démocratique » (art. 10 § 2) que si elle répond à un besoin social impérieux, et si elle est proportionnée au but légitime poursuivi, les motifs invoqués par les autorités devant être pertinents et suffisants. Les juges français reprennent désormais cette grille, comme la Cour de cassation dans l'affaire de la vidéo de L214.",
+  "reference": "CEDH, 26 avril 1979, Sunday Times c. Royaume-Uni, n° 6538/74"
  }
 }
