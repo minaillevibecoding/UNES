@@ -1,120 +1,112 @@
 {
- "date": "2026-10-28",
- "edito": "Israël se réveille sans majorité : le camp Nétanyahou recule, mais Gadi Eisenkot échoue à détrôner le Likoud. Au Brésil, Flavio Bolsonaro est soupçonné d'avoir fui vers les États-Unis. En droit, la Cour de cassation impose une mise en balance complète avant d'ordonner le retrait d'une vidéo militante tournée sans autorisation dans un élevage.",
+ "date": "2026-10-29",
+ "edito": "L'Espagne est en deuil : la collision de deux trains près de Tolède a fait au moins 68 morts, dix mois après la catastrophe d'Adamuz. En Israël, aucune majorité ne se dessine après le dépouillement de plus de 85 % des voix. En droit, un haut magistrat relance le débat sur l'éligibilité de Marine Le Pen tant que la Cour de cassation n'a pas statué.",
  "journaux": {
   "figaro": {
-   "resume": "Le Figaro consacre sa une à l'Ukraine et à la stratégie de Vladimir Poutine face aux Occidentaux.",
+   "resume": "Le Figaro consacre l'essentiel de sa une à la catastrophe ferroviaire espagnole.",
    "points": [
-    "Poutine discute tour à tour avec Américains et Européens pour fragiliser le soutien à Kiev.",
-    "Éditorial de Philippe Gélie : « Ukraine, le choix de Donald Trump ».",
-    "Olechky : un cessez-le-feu inespéré permet l'évacuation des derniers habitants.",
-    "Le Sénat adopte et élargit le projet de loi « casseurs-payeurs » (229 voix contre 105)."
+    "Le récit des 23 minutes qui ont mené à la collision, qui a fait au moins 68 morts.",
+    "Le ministère des Transports pointe des actions « inexplicables » et une erreur humaine.",
+    "Trois jours de deuil national décrétés en Espagne.",
+    "La fuite de Flavio Bolsonaro aux États-Unis, sur fond d'enquêtes judiciaires."
    ]
   },
   "monde": {
-   "resume": "Le Monde ouvre sur le « vertige d'une Knesset sans majorité » au lendemain des législatives israéliennes.",
+   "resume": "Le Monde titre sur une Espagne de nouveau endeuillée par une catastrophe ferroviaire.",
    "points": [
-    "Israël : aucun des deux blocs n'est en position de former un gouvernement selon les résultats provisoires.",
-    "Midterms : l'administration Trump nourrit la suspicion sur l'intégrité du scrutin du 3 novembre.",
-    "Après Trappes, la gauche et le gouvernement s'affrontent à l'Assemblée.",
-    "Le Lancet Countdown appelle à décréter une « urgence sanitaire mondiale » climatique."
+    "La collision serait due à une panne informatique suivie d'une erreur humaine.",
+    "Midterms : Barack Obama fait campagne en Géorgie avant le scrutin du 3 novembre.",
+    "Piratage du site des impôts : un deuxième suspect, âgé de 16 ans, mis en examen.",
+    "Jean-Michel Blanquer défend Parcoursup et sa réforme du bac devant les sénateurs."
    ]
   },
   "croix": {
-   "resume": "La Croix revient sur l'échec du gouvernement à apaiser le mouvement lycéen.",
+   "resume": "La Croix s'interroge sur l'impartialité de l'IGPN et suit les midterms américaines.",
    "points": [
-    "Les mesures annoncées lundi n'éteignent pas la colère de la jeunesse.",
-    "La Cour des comptes juge le plan France 2030 coûteux, aux résultats « encore incertains ».",
-    "Huit ans après l'accord Chine-Vatican, une nouvelle génération d'évêques chinois.",
-    "Ukraine : un cessez-le-feu a commencé autour d'Olechky."
+    "83 enquêtes confiées aux inspections de la police et de la gendarmerie depuis le début du mouvement.",
+    "Midterms : une « vague bleue » démocrate est-elle possible ?",
+    "Andorre : un projet de loi dépénalisant partiellement l'avortement.",
+    "Sur Arte, « Anatomía de un instante » revient sur le putsch manqué de 1981 en Espagne."
    ]
   },
   "equipe": {
-   "resume": "L'Équipe s'inquiète d'un calendrier de Ligue 1 de nouveau chamboulé par la mobilisation sociale.",
+   "resume": "L'Équipe se tourne vers la Route du Rhum et l'état du tennis français.",
    "points": [
-    "Deuxième week-end de reports en cascade en Ligue 1.",
-    "Pierre Sage, sur un fil à Crystal Palace.",
-    "Après la controverse Mbappé-Chine, le précédent Daryl Morey en NBA.",
-    "Stan Wawrinka, 41 ans, éloge de la persévérance."
+    "Sam Goodchild remplace le regretté Charlie Dalin sur l'Imoca Macif.",
+    "Violette Dorange affiche ses ambitions pour sa première Route du Rhum.",
+    "Gilles Moretton garde son cap malgré les difficultés du tennis français.",
+    "Les jeunes formés au PSG contraints à l'exil."
    ]
   }
  },
  "sections": {
   "monde": [
    {
-    "titre": "Israël : une Knesset sans majorité au lendemain des législatives",
-    "lien": "https://www.lemonde.fr/international/article/2026/10/28/israel-au-lendemain-de-legislatives-cruciales-pour-l-avenir-du-pays-le-vertige-d-une-knesset-sans-majorite_6801530_3210.html",
+    "titre": "Espagne : au moins 68 morts dans une collision entre deux trains près de Tolède",
+    "lien": "https://www.lemonde.fr/international/video/2026/10/28/accident-entre-deux-trains-en-espagne-le-resume-en-video-de-la-collision_6801641_3210.html",
     "source": "Le Monde",
-    "date": "2026-10-28T05:57:19+01:00",
-    "resume": "Selon des résultats provisoires, le camp Nétanyahou est en net recul, mais l'opposition menée par Gadi Eisenkot ne parvient pas à détrôner le Likoud. Les deux hommes se disent prêts à former un gouvernement.",
-    "pourquoi": "Une impasse qui ouvre une période d'incertitude politique en pleine guerre régionale."
+    "date": "2026-10-28T21:01:34+01:00",
+    "resume": "La collision s'est produite mercredi matin près d'Urda, sur la ligne Madrid-Andalousie. Le gouvernement évoque une panne informatique suivie d'une erreur humaine ; trois jours de deuil national ont été décrétés.",
+    "pourquoi": "Deuxième catastrophe ferroviaire en moins d'un an, qui interroge le sous-investissement dans le réseau."
    },
    {
-    "titre": "Brésil : Flavio Bolsonaro soupçonné d'avoir fui aux États-Unis",
-    "lien": "https://www.lemonde.fr/international/article/2026/10/28/bresil-apres-sa-defaite-a-la-presidentielle-flavio-bolsonaro-soupconne-d-avoir-pris-la-fuite-vers-les-etats-unis_6801485_3210.html",
+    "titre": "Israël : aucune majorité après le dépouillement de plus de 85 % des voix",
+    "lien": "https://www.lemonde.fr/international/live/2026/10/28/en-direct-legislatives-en-israel-aucune-majorite-ne-se-dessine-au-lendemain-du-scrutin-apres-le-depouillement-de-plus-de-85-des-suffrages-exprimes_6801217_3210.html",
     "source": "Le Monde",
-    "date": "2026-10-28T05:00:06+01:00",
-    "resume": "Mis en cause dans plusieurs affaires de corruption, le candidat défait aurait violé son interdiction de quitter le pays ; l'administration Trump lui aurait accordé des visas ainsi qu'à sa famille.",
-    "pourquoi": "L'affaire pourrait tendre les relations entre Brasília et Washington."
+    "date": "2026-10-28T19:47:05+01:00",
+    "resume": "Le Likoud de Benyamin Nétanyahou et ses alliés ont une courte avance avec environ 53 sièges, loin des 61 nécessaires à la Knesset.",
+    "pourquoi": "Les tractations pour former une coalition s'annoncent longues."
    },
    {
-    "titre": "Midterms : Trump n'acceptera les résultats que s'ils sont « honnêtes »",
-    "lien": "https://www.lemonde.fr/international/article/2026/10/27/midterms-2026-donald-trump-dit-qu-il-acceptera-les-resultats-des-elections-si-elles-sont-honnetes-dans-une-nouvelle-allusion-a-des-fraudes-electorales-jamais-prouvees_6801324_3210.html",
-    "source": "Le Monde",
-    "date": "2026-10-27T17:56:36+01:00",
-    "resume": "À une semaine du scrutin du 3 novembre, le président américain agite de nouveau le spectre d'une contestation si son parti était battu.",
-    "pourquoi": "La confiance dans le processus électoral américain est directement en jeu."
-   },
-   {
-    "titre": "Ukraine : entretien « franc et substantiel » entre Poutine et les dirigeants finlandais et norvégien",
-    "lien": "https://www.rfi.fr/fr/europe/20261027-ukraine-les-dirigeants-norv%C3%A9gien-et-finlandais-ont-eu-un-entretien-franc-et-substantiel-avec-vladimir-poutine",
-    "source": "RFI",
-    "date": "2026-10-27T13:37:00+01:00",
-    "resume": "Alexander Stubb et Jonas Gahr Støre se sont entretenus mardi avec Vladimir Poutine, après les discussions entre Volodymyr Zelensky et les émissaires américains.",
-    "pourquoi": "Les Européens cherchent à peser dans les négociations en cours."
+    "titre": "Poutine reçoit une vingtaine de dirigeants africains",
+    "lien": "https://www.france24.com/fr/%C3%A9missions/journal-de-l-afrique/20261028-les-enjeux-de-la-3e-%C3%A9dition-du-sommet-russie-afrique",
+    "source": "France 24",
+    "date": "2026-10-28T23:17:36+01:00",
+    "resume": "La troisième édition du sommet Russie-Afrique vise à resserrer les liens avec un continent riche en minerais et en terres rares.",
+    "pourquoi": "Moscou consolide ses appuis hors d'Occident en pleine guerre en Ukraine."
    }
   ],
   "ia": [
    {
-    "titre": "OpenAI dit avoir résolu une partie d'un problème du millénaire, sans publier la preuve",
-    "lien": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxNT0tBMkIxOWRyeTY4b21iNlJseFdoZWdNNjFtZVFDU1VXTkxKR3RtajdsUVItVFRxclFRaTU1S2lsMHNKQ0pQNlVybERFbk0tU1h3OTRidVZQNW5MUXdCTFFDbEptZlhMZ2RLcVlVci0xR3d2X2JkZVRIVjVmNTVLMWMzLXpyTnlQZFpKeFRFXzhGS1ZOYi04VnNuaFQtcHQyM016UzlrR1NvTXd0V0ZVUnNhMTBNN3VKOTBaX05ESFowdGM5bHB2Zkt5cE9mSXhYdVFIUmRwd0ZqaFhr?oc=5",
-    "source": "Numerama",
-    "date": "2026-10-27T11:18:25+01:00",
-    "resume": "OpenAI affirme que ses modèles ont prouvé l'existence mathématique de la théorie de Yang-Mills en quatre dimensions, première des deux parties d'un problème du millénaire. Selon Numerama, seuls cinq physiciens ont pour l'instant accès à la preuve ; d'après The Verge, des chercheurs se lassent de cette rétention.",
-    "pourquoi": "Une annonce potentiellement historique, invérifiable tant que la preuve n'est pas soumise à la communauté."
+    "titre": "Google dévoile Gemini 4 Carbon, axé sur le code et la cybersécurité",
+    "lien": "https://news.google.com/rss/articles/CBMihAJBVV95cUxPZExYNWJvUk1RUl9NcWNuUUs0eG02RUdKRkVvYW04a2lTUi1nOERRNXRjb0ZxQ0s3R1pFbC0xUm00bnZLaV8xQzZfeW5uOWkxZVFIeHJUUkNfZkVPb2FhWjBZck5meHhTb3pvRGNsTUV4bUFjUWE4WkFCTWU0LVBqekw0eGJ6YjdidWFvYkZHT1lkZzIyaVlURXk4Y3hGd2hQclBuVTdWZWg1Q2tCdFo1SU02SG1pOEJUTFJDR0RWQUd1eTdVV1FzbWVIV1F5dndzYUU1T3puQWNfN2puekhiMEpRRVVYX1gxZHBXX3lDTEM1a0ZJRmZCMWF2WXNleGdRaENZTtIBhAJBVV95cUxPZExYNWJvUk1RUl9NcWNuUUs0eG02RUdKRkVvYW04a2lTUi1nOERRNXRjb0ZxQ0s3R1pFbC0xUm00bnZLaV8xQzZfeW5uOWkxZVFIeHJUUkNfZkVPb2FhWjBZck5meHhTb3pvRGNsTUV4bUFjUWE4WkFCTWU0LVBqekw0eGJ6YjdidWFvYkZHT1lkZzIyaVlURXk4Y3hGd2hQclBuVTdWZWg1Q2tCdFo1SU02SG1pOEJUTFJDR0RWQUd1eTdVV1FzbWVIV1F5dndzYUU1T3puQWNfN2puekhiMEpRRVVYX1gxZHBXX3lDTEM1a0ZJRmZCMWF2WXNleGdRaENZTg?oc=5",
+    "source": "Boursorama",
+    "date": "2026-10-28T19:23:00+01:00",
+    "resume": "Google revendique des « gains significatifs » en programmation, tâches agentiques et cybersécurité, et la première place à l'Artificial Analysis Intelligence Index.",
+    "pourquoi": "La course aux modèles de pointe s'intensifie au moment où Anthropic entre en Bourse."
    },
    {
-    "titre": "Apple intègre un assistant IA à Pages, Keynote et Numbers",
-    "lien": "https://www.theverge.com/tech/1019373/apple-pages-keynote-numbers-ai-chatbot-update",
+    "titre": "Les ayants droit d'Elvis Presley poursuivent Anthropic",
+    "lien": "https://news.google.com/rss/articles/CBMinAJBVV95cUxQSUZkUHZZeDd4a01pa3JmOWdZdnphWjB0V0RyWkxyMHY1dlV0VXJuYnFGS2lFLTZxRmszOXQ1NHZEZ1d1ZnNHR3RtWG1YRzljOVpjLXRxM0tZbnFVTEkxaTQ5SXpOdU5uYkM5NTNxclRtWk1kWUNrdGRBazZKNjBNUXF6UGJxYk15R3Vqb1VWS1dhWlpHWDBncWZLT2RyR19ldVJIQno5VXNCTVZyYjc5Z25SM3g1blNNUUVaM1d1Mlo4VkRfbnFyNXBkTkF3X1JvbGt0NDc1blhrbWFBRFhxNWY2bk5lUDBVN0IzMDJFZFFYSXE5NW1Udzljbm5fQmYxaWp4WFBDQmlhVUNWZVlPVU1RV0RHRndfc2VPTg?oc=5",
+    "source": "Ouest-France",
+    "date": "2026-10-28T17:01:04+01:00",
+    "resume": "Les détenteurs du catalogue réclament 41,1 millions de dollars à Anthropic, accusée d'avoir utilisé 274 chansons pour entraîner ses modèles Claude.",
+    "pourquoi": "Un nouveau front judiciaire sur le droit d'auteur et l'entraînement des IA."
+   },
+   {
+    "titre": "Le patron d'Instagram prédit une hostilité croissante envers l'IA",
+    "lien": "https://www.theverge.com/ai-artificial-intelligence/1021644/adam-mosseri-instagram-ai-negativity",
     "source": "The Verge",
-    "date": "2026-10-27T14:50:51+01:00",
-    "resume": "L'assistant, fondé sur des modèles d'Apple et d'OpenAI, comprend le contexte d'un document pour concevoir, animer ou modifier son contenu.",
-    "pourquoi": "L'IA générative arrive dans les outils bureautiques grand public d'Apple."
-   },
-   {
-    "titre": "Introduction en Bourse d'Anthropic : Amazon, grand gagnant",
-    "lien": "https://techcrunch.com/2026/10/27/vcs-will-make-billions-on-anthropics-ipo-but-amazon-is-set-to-make-much-much-more/",
-    "source": "TechCrunch",
-    "date": "2026-10-28T02:15:28+01:00",
-    "resume": "Selon TechCrunch, d'importantes conversions d'obligations révèlent l'ampleur réelle de la participation d'Amazon dans Anthropic, qui devrait lui rapporter bien plus qu'aux fonds de capital-risque.",
-    "pourquoi": "L'IPO éclaire la dépendance des laboratoires d'IA envers les géants du cloud."
+    "date": "2026-10-29T00:05:39+01:00",
+    "resume": "Adam Mosseri reconnaît que beaucoup de gens n'aiment pas l'IA, au-delà des jeunes et des créateurs, et estime que ce rejet « va s'aggraver ».",
+    "pourquoi": "Un dirigeant de la tech admet publiquement la défiance du grand public."
    }
   ],
   "droit": [
    {
-    "titre": "Vidéo de L214 dans un élevage : la Cour de cassation exige une mise en balance complète avant tout retrait",
-    "lien": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOYmdGdE5VYkUtbm5RaERSclFmT25wSEI3endjcm1vODdHVEFCek90TloyUF9QbTdGQUxFeFdhNzBWaGE5WmRtazNfQ3QtcVJrSTJISEtabWJuZ1B4V1dkdjJMRmZPcWJxM0UwbDhiTHprT2daTTdHcWFGWU43YXJkN21zZGFuTnVvT01RcUxBSW9PVTE5SDB3cXdZZEFzRlY5LWw2ZVBVQ0JPem5rTGFsWkdqS2otYWZfdU9kVw?oc=5",
-    "source": "Réussir",
-    "date": "2026-10-27T17:13:50+01:00",
-    "resume": "Cass. 1re civ., 14 octobre 2026, n° 25-16.277 et 25-16.349, publié au Bulletin. La cour d'appel d'Angers avait refusé d'ordonner en référé le retrait d'une vidéo tournée sans autorisation dans un centre de Denkavit, au nom de l'intérêt général du sujet. Cassation pour manque de base légale : le retrait n'est justifié que s'il répond à un « besoin social impérieux », apprécié après une mise en balance complète, qui doit inclure les répercussions de la diffusion (réactions hostiles, tracts dans la commune). Renvoi devant la cour d'appel de Rennes.",
-    "libertes": "Liberté d'expression (art. 10 Conv. EDH) contre droit de propriété (art. 1er Prot. 1, art. 544 C. civ.).",
-    "angle_crfpa": "Le juge des référés (art. 835 CPC) doit conduire une mise en balance « à la strasbourgeoise » : intérêt général du débat, mais aussi conséquences concrètes de la diffusion pour la personne visée. Arrêt publié, à connaître pour les conflits entre lanceurs d'alerte associatifs et propriétaires."
+    "titre": "Éligibilité de Marine Le Pen : un haut magistrat estime qu'elle reste inéligible jusqu'à la décision de cassation",
+    "lien": "https://news.google.com/rss/articles/CBMimwJBVV95cUxOLVp4VGtVSXI2cUlNeDJOdmFsZEYxVGFUbm1pZ1J2a01hZkduT0dHaEl2SnZPY3hfY1EtVUwzeS0yMmd5bU92V1dUUXhZQzIwSkZCUGxhWVV1cG9iUm16amdzN1BqR3V0NWZ4T3ZfWURIWUVLTC05Qm9KZVdVOFMwS3RQbkhoQXpzUllNdW1OM2hNeWYxZ2x1U3BNbXZ1clhZSmRRN2xydXhIRUdya0pCQ2tmZlA0Qm1uZElCVkptcEdUdVk3UDg0SmxsVFp0ZWRWRVVXbUlyOVBtSUdrQ3g3UVhoNWRBcnNrTkR5Sm1jLVEyX3ZuNmhRTHFCNWkzZEU1N2RWMHlxN3pIbXRRMXZ4eFJmMVoyMk1IVXRZ?oc=5",
+    "source": "Le Monde",
+    "date": "2026-10-27T05:00:29+01:00",
+    "resume": "Dans Le Monde, Didier Guérin soutient que Marine Le Pen est « actuellement inéligible jusqu'à la décision de la Cour de cassation sur son pourvoi ». Le 7 juillet 2026, la cour d'appel avait prononcé 45 mois d'inéligibilité dont 30 avec sursis, la partie ferme étant présentée comme purgée au titre de l'exécution provisoire de première instance ; le pourvoi suspend l'arrêt d'appel. La Cour de cassation entend statuer avant le premier tour de 2027.",
+    "libertes": "Droit d'éligibilité ; liberté de l'électeur ; exécution des peines.",
+    "angle_crfpa": "Un débat doctrinal entre hauts magistrats sur l'articulation entre exécution provisoire de première instance et effet suspensif du pourvoi. À relier à la jurisprudence constitutionnelle sur l'exécution provisoire des peines d'inéligibilité."
    }
   ]
  },
  "notion": {
-  "titre": "Le « besoin social impérieux »",
-  "texte": "Pour la Cour européenne des droits de l'homme, une ingérence dans la liberté d'expression n'est « nécessaire dans une société démocratique » (art. 10 § 2) que si elle répond à un besoin social impérieux, et si elle est proportionnée au but légitime poursuivi, les motifs invoqués par les autorités devant être pertinents et suffisants. Les juges français reprennent désormais cette grille, comme la Cour de cassation dans l'affaire de la vidéo de L214.",
-  "reference": "CEDH, 26 avril 1979, Sunday Times c. Royaume-Uni, n° 6538/74"
+  "titre": "L'exécution provisoire de l'inéligibilité",
+  "texte": "Saisi d'une QPC, le Conseil constitutionnel a jugé conforme à la Constitution la possibilité d'assortir une peine d'inéligibilité de l'exécution provisoire, sous une réserve : le juge doit apprécier le caractère proportionné de l'atteinte que cette mesure est susceptible de porter à l'exercice d'un mandat en cours et à la préservation de la liberté de l'électeur.",
+  "reference": "Cons. const., 28 mars 2025, n° 2025-1129 QPC, M. Rachadi S."
  }
 }
