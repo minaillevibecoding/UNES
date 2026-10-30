@@ -1,6 +1,6 @@
 {
  "date": "2026-10-30",
- "genere": "2026-10-30T06:21+01:00",
+ "genere": "2026-10-30T06:57+01:00",
  "journaux": [
   {
    "id": "figaro",
@@ -77,7 +77,7 @@
      "titre": "En Israël, Isaac Herzog, le président honorifique devenu arbitre d’une Knesset sans majorité",
      "lien": "https://www.lemonde.fr/international/article/2026/10/30/en-israel-isaac-herzog-le-president-honorifique-devenu-arbitre-d-une-knesset-sans-majorite_6802757_3210.html",
      "resume": "Faute de majorité, le président israélien, connu pour sa prudence et sa difficulté à trancher, pourrait pousser à un gouvernement d’union, comme Chaim Herzog, son père, quarante-deux ans plus tôt.",
-     "date": "2026-10-30T04:54:36+01:00",
+     "date": "2026-10-30T04:54:33+01:00",
      "source": "",
      "image": "https://img.lemde.fr/2026/10/29/40/0/3480/1740/644/322/60/0/e0c2460_upload-1-4rxfdv86x2ei-000-a8gy8bj.jpg"
     },
@@ -101,7 +101,7 @@
      "titre": "En Iran, la menace d’une nouvelle confrontation avec les Etats-Unis et Israël prise au sérieux, malgré les tractations diplomatiques",
      "lien": "https://www.lemonde.fr/international/article/2026/10/30/en-iran-la-menace-d-une-nouvelle-confrontation-avec-les-etats-unis-et-israel-prise-au-serieux-malgre-les-tractations-diplomatiques_6802767_3210.html",
      "resume": "Téhéran affirme être prêt à répondre à toute attaque, tout en maintenant des contacts diplomatiques avec Washington par l’intermédiaire de plusieurs pays de la région.",
-     "date": "2026-10-30T05:30:14+01:00",
+     "date": "2026-10-30T05:30:08+01:00",
      "source": "",
      "image": "https://img.lemde.fr/2026/10/28/116/0/2550/1275/644/322/60/0/fd34d41_ftp-1-9rfnkxltsvdr-2026-10-28t084717z-220051286-rc2pboa65sf1-rtrmadp-3-iran-crisis-russia-qatar-pezeshkian.JPG"
     },
@@ -114,12 +114,12 @@
      "image": "https://img.lemde.fr/2026/10/21/268/0/4645/2322/644/322/60/0/fdf6c33_upload-1-ah3ggn1lh9w8-cbi1348033.JPG"
     },
     {
-     "titre": "Edouard Philippe placé sous le statut de témoin assisté dans une enquête ouverte notamment pour détournement de fonds publics",
-     "lien": "https://www.lemonde.fr/societe/article/2026/10/29/edouard-philippe-place-sous-le-statut-de-temoin-assiste-dans-une-enquete-ouverte-notamment-pour-detournement-de-fonds-publics_6802392_3224.html",
-     "resume": "« Edouard Philippe se félicite de cette décision favorable qui confirme qu’il n’y a rien à lui reprocher dans cette affaire », a réagi son avocat, Emmanuel Marsigny, sollicité par l’Agence France-Presse.",
-     "date": "2026-10-29T21:50:29+01:00",
+     "titre": "Mylène Farmer entre sinistrose et sex-appeal dans « Egrégore », un seizième album plus efficace qu’audacieux",
+     "lien": "https://www.lemonde.fr/culture/article/2026/10/30/mylene-farmer-entre-sinistrose-et-sex-appeal-dans-egregore-un-seizieme-album-plus-efficace-qu-audacieux_6802760_3246.html",
+     "resume": "La chanteuse aux aigus cristallins ne bouleverse pas son univers sonore dans cet opus largement mis en musique par le jeune compositeur et producteur DJ Lewis, 29 ans.",
+     "date": "2026-10-30T05:00:12+01:00",
      "source": "",
-     "image": "https://img.lemde.fr/2026/10/22/505/0/4724/2362/644/322/60/0/9d75f9a_upload-1-x7mclzvbusrf-mmagnin-edouard-philippe-charleville-mezieres-29.jpg"
+     "image": "https://img.lemde.fr/2026/10/26/64/0/648/324/644/322/60/0/0a1a586_upload-1-tajydudkjvnq-john-nollet-1.jpg"
     }
    ],
    "flux_utilise": "https://www.lemonde.fr/rss/une.xml"
@@ -134,6 +134,30 @@
     "source": "https://img.kiosko.net/2026/10/29/fr/lacroix.750.jpg"
    },
    "articles": [
+    {
+     "titre": "Mort de Patrick Stewart : la star des sagas « X-Men » et « Star Trek » est décédée à 86 ans",
+     "lien": "https://www.la-croix.com/culture/mort-de-patrick-stewart-la-star-des-sagas-x-men-et-star-trek-est-decedee-a-86-ans-20261030",
+     "resume": "Icône de la culture populaire grâce aux sagas « X-Men » et « Star Trek », mais aussi immense acteur shakespearien, Patrick Stewart est mort mercredi à 86 ans, alors qu’il luttait notamment contre la maladie d’Alzheimer, selon une annonce publiée jeudi 30…",
+     "date": "2026-10-30T06:40:58+01:00",
+     "source": "",
+     "image": "https://i.la-croix.com/x/2026/10/30/2576105-patrick-stewart-a-l-affiche-du-film-star-trek-neme.jpg"
+    },
+    {
+     "titre": "Accusations de détournement de fonds publics : Édouard Philippe placé sous le statut de témoin assisté",
+     "lien": "https://www.la-croix.com/politique/accusations-de-detournement-de-fonds-publics-edouard-philippe-place-sous-le-statut-de-temoin-assiste-20261030",
+     "resume": "Le candidat Horizons à la présidentielle Édouard Philippe a été placé jeudi 29 octobre sous le statut de témoin assisté dans l’enquête ouverte à Paris notamment pour détournement de fonds publics, favoritisme et harcèlement moral au sein de la communauté…",
+     "date": "2026-10-30T06:26:34+01:00",
+     "source": "",
+     "image": "https://i.la-croix.com/x/2026/10/30/2576103-edouard-philippe-a-ete-place-jeudi-29-octobre-sous.jpg"
+    },
+    {
+     "titre": "« L’armée de Lula » : la stratégie brésilienne contre l’extrême droite débarque en France",
+     "lien": "https://www.la-croix.com/international/l-armee-de-lula-la-strategie-bresilienne-contre-lextreme-droite-debarque-en-france-20261029",
+     "resume": "Onze millions d’abonnés, des missions quotidiennes sur WhatsApp, une victoire inattendue : la stratégie numérique a pesé lourd dans le succès de Lula au Brésil, dimanche 25 octobre. En France, La France insoumise (LFI) entend s’en inspirer avant la…",
+     "date": "2026-10-30T06:24:14+01:00",
+     "source": "",
+     "image": "https://i.la-croix.com/x/2026/10/29/2575584-andre-janones-a-gauche-a-reuni-11-millions-de-pers.jpg"
+    },
     {
      "titre": "Augmentation des prix du gaz : les pistes pour réduire un peu sa facture",
      "lien": "https://www.la-croix.com/economie/augmentation-des-prix-du-gaz-les-pistes-pour-reduire-un-peu-sa-facture-20261029",
@@ -157,30 +181,6 @@
      "date": "2026-10-30T05:39:20+01:00",
      "source": "",
      "image": "https://i.la-croix.com/x/2026/10/29/2572969-dans-chante-mechante-l-auteur-se-glisse-dans-la-pe.jpg"
-    },
-    {
-     "titre": "Toussaint : faire parler les morts, la folle promesse de l’intelligence artificielle",
-     "lien": "https://www.la-croix.com/societe/toussaint-faire-parler-les-morts-la-folle-promesse-de-l-intelligence-artificielle-20261029",
-     "resume": "Grâce à l’intelligence artificielle, on peut désormais converser avec l’avatar numérique d’un proche disparu. Un marché de « l’e-mortalité » qui suscite bien des questions éthiques et qui peine à s’implanter en France.",
-     "date": "2026-10-30T05:24:15+01:00",
-     "source": "",
-     "image": "https://i.la-croix.com/x/2026/10/29/2575744-wp-cimetiere2jpg.jpg"
-    },
-    {
-     "titre": "Louvre : les syndicats signent un accord de sortie de crise avec la direction",
-     "lien": "https://www.la-croix.com/louvre-les-syndicats-signent-un-accord-de-sortie-de-crise-avec-la-direction-20261029",
-     "resume": "La direction du Louvre et l’intersyndicale CGT-CFDT-SUD ont signé jeudi un protocole d’accord. Un préavis de grève courant avait été déposé en décembre 2025 pour réclamer de meilleures conditions de travail, des recrutements et un engagement sur des travaux…",
-     "date": "2026-10-29T22:30:08+01:00",
-     "source": "",
-     "image": "https://i.la-croix.com/x/2026/07/22/2496000-des-visiteurs-dans-la-galerie-d-apollon-du-musee-d.jpg"
-    },
-    {
-     "titre": "Guerre au Moyen-Orient : des explosions entendues à Riyad... Le bilan du jeudi 29 octobre",
-     "lien": "https://www.la-croix.com/international/direct-guerre-iran-israel-usa-jour-129-moyen-orient-bilan-resume-aujourdhui-20261029",
-     "resume": "Huit explosions ont été entendues à Riyad. Le Qatar a rejeté les accusations d’ingérence dans les élections israéliennes. Suivez l’actualité du conflit au Moyen-Orient ce jeudi 29 octobre.",
-     "date": "2026-10-29T21:24:49+01:00",
-     "source": "",
-     "image": "https://i.la-croix.com/x/2026/10/29/2575256-des-habitants-sur-les-lieux-d-une-frappe-aerienne-.jpg"
     }
    ],
    "flux_utilise": "https://www.la-croix.com/feeds/rss/site.xml"
@@ -196,52 +196,52 @@
    },
    "articles": [
     {
-     "titre": "« Un gain de temps et de praticité énorme » : comment des urinoirs intelligents pourraient révolutionner les suivis des footballeurs",
-     "lien": "https://www.lequipe.fr/Respire/Tendances/Actualites/-un-gain-de-temps-et-de-praticite-enorme-comment-des-urinoirs-intelligents-pourraient-revolutionner-les-suivis-des-footballeurs/1739627#at_medium=RSS_feeds",
-     "resume": "Largement présents en Premier League, les urinoirs connectés sont arrivés cet été jusqu'à la Ligue 1. Un dispositif amusant sur le papier, mais qui permet surtout de mieux suivre les habitudes de vie des joueurs.",
-     "date": "2026-10-30T05:45:00+01:00",
+     "titre": "Entraîneurs novices, infirmeries pleines, absence des supporters lensois... La rivalité au second plan avant le 125e derby du Nord",
+     "lien": "https://www.lequipe.fr/Football/Article/Entraineurs-novices-infirmeries-pleines-absence-des-supporters-lensois-la-rivalite-au-second-plan-avant-le-125e-derby-du-nord/1739606#at_medium=RSS_feeds",
+     "resume": "Lille et Lens se retrouvent ce vendredi soir (21 h 05) à Pierre-Mauroy dans un contexte bien moins épicé que d'ordinaire, sans les supporters lensois et avec deux jeunes entraîneurs davantage préoccupés par l'avancée cahoteuse de leurs projets que par la…",
+     "date": "2026-10-30T06:35:00+01:00",
      "source": "",
-     "image": "https://medias.lequipe.fr/img-photo-jpg/l-as-monaco-a-adopte-des-urinoirs-intelligents-pour-avoir-un-meilleur-suivi-de-la-sante-de-ses-joueurs-kamleon/1500000002636996/0:0,1500:1000-828-552-75/1ec4a.jpg"
+     "image": "https://medias.lequipe.fr/img-photo-jpg/lille-s-etait-oppose-face-a-lens-1-0-le-30-mars-2025-a-mounic-l-equipe/1500000002636978/0:0,2000:1333-828-552-75/6eece.jpg"
     },
     {
-     "titre": "Des hauts, des bas et un débat : que vaut vraiment Yéhvann Diouf, le gardien de Nice ?",
-     "lien": "https://www.lequipe.fr/Football/Article/Des-hauts-des-bas-et-un-debat-que-vaut-vraiment-yehvann-diouf-le-gardien-de-nice/1739488#at_medium=RSS_feeds",
-     "resume": "À l'image de son match à Brest, où il a commis une erreur avant d'arrêter un penalty, le gardien de Nice Yéhvann Diouf, qui reçoit Rennes ce vendredi (19 heures), oscille entre le bon et le moins bon. Que vaut-il vraiment ?",
-     "date": "2026-10-30T05:45:00+01:00",
-     "source": "",
-     "image": "https://medias.lequipe.fr/img-photo-jpg/yehvann-diouf-a-dispute-46-matches-depuis-son-arrivee-a-nice-a-martin-l-equipe/1500000002636634/431:358,1834:1293-828-552-75/1e051.jpg"
-    },
-    {
-     "titre": "Nuno Mendes, Marquinhos, Ousmane Dembélé : y a-t-il une explication à l'épidémie de lésions musculaires au PSG ?",
-     "lien": "https://www.lequipe.fr/Football/Article/Nuno-mendes-marquinhos-ousmane-dembele-une-epidemie-de-lesions-musculaires-au-psg-qui-s-explique/1739597#at_medium=RSS_feeds",
-     "resume": "Épargné par les blessures musculaires lors des deuxièmes premières saisons de l'ère Luis Enrique, le PSG, déjà soumis à des difficultés similaires à pareille époque l'an dernier, doit gérer une épidémie de blessures musculaires. Avec une cause identifiée ?",
-     "date": "2026-10-30T05:35:00+01:00",
-     "source": "",
-     "image": "https://medias.lequipe.fr/img-photo-jpg/ousmane-dembele-s-est-blesse-a-la-cuisse-gauche-contre-le-barca-4-2-le-20-octobre-e-garnier-l-equipe/1500000002636943/173:146,1751:1197-828-552-75/0c5cc.jpg"
-    },
-    {
-     "titre": "« Notre père s'est sacrifié pour nous offrir la vie qu'il n'a pas pu avoir » : Soriba Diaoune, l'enfant du city stade de Fives qui prend le temps de grandir au LOSC",
-     "lien": "https://www.lequipe.fr/Football/Article/-notre-pere-s-est-sacrifie-pour-nous-offrir-la-vie-qu-il-n-a-pas-pu-avoir-soriba-diaoune-l-enfant-du-city-stade-de-fives-qui-prend-le-temps-de-grandir-au-losc/1739522#at_medium=RSS_feeds",
-     "resume": "Décisif lors des deux derniers matches, l'attaquant de 19 ans Soriba Diaoune évolue au LOSC depuis une décennie après avoir façonné sa technique dans le quartier lillois de Fives, où il habite toujours, en suivant les pas d'un grand frère membre de l'équipe…",
-     "date": "2026-10-30T05:30:00+01:00",
-     "source": "",
-     "image": "https://medias.lequipe.fr/img-photo-jpg/le-21-octobre-a-l-occasion-de-sa-premiere-titularisation-en-ligue-des-champions-soriba-diaoune-a-inscrit-un-double-face-au-galatasaray-2-4-e-garnier-l-equipe/1500000002636727/0:0,2000:1333-828-552-75/91914.jpg"
-    },
-    {
-     "titre": "Auparavant injouables et inaccessibles, les Chinois sont devenus plus abordables : « Il n'y a pas ce complexe d'infériorité »",
-     "lien": "https://www.lequipe.fr/Tennis-de-table/Actualites/Auparavant-injouables-et-inaccessibles-les-chinois-sont-devenus-plus-abordables-il-n-y-a-pas-ce-complexe-d-inferiorite/1739618#at_medium=RSS_feeds",
-     "resume": "Simon Gauzy et Félix Lebrun seront opposés à un joueur chinois en huitièmes de finale vendredi à Montpellier. Obstacle insurmontable hier, beaucoup plus abordable aujourd'hui, au point que les Chinois s'entraînent désormais avec les étrangers.",
-     "date": "2026-10-30T05:22:00+01:00",
-     "source": "",
-     "image": "https://medias.lequipe.fr/img-photo-jpg/zhou-qihao-ici-lors-de-son-seizieme-de-finale-contre-le-sud-coreen-oh-junsung-affronte-felix-lebrun-vendredi-soir-pour-une-place-en-quarts-du-wtt-champions-de-montpellier-r-gros-alamy-stock-photo-icon-sport/1500000002636994/0:0,2000:1333-828-552-75/48394.jpg"
-    },
-    {
-     "titre": "Après sa prolongation avec Cadillac, Sergio Perez annonce qu'il arrêtera sa carrière en 2029",
-     "lien": "https://www.lequipe.fr/Formule-1/Actualites/Apres-sa-prolongation-avec-cadillac-sergio-perez-annonce-qu-il-arretera-sa-carriere-en-2029/1739646#at_medium=RSS_feeds",
-     "resume": "Sergio Perez a annoncé ce jeudi aux médias présents au Grand Prix du Mexique qu'il mettra un terme à sa carrière à l'issue de la saison 2029. Le pilote mexicain, qui va disputer son 300e Grand Prix en carrière ce dimanche, à domicile, a prolongé jusqu'en…",
-     "date": "2026-10-30T00:28:20+01:00",
+     "titre": "Le résumé vidéo de Portland Trail Blazers - Memphis Grizzlies",
+     "lien": "https://www.lequipe.fr/Basket/Video/Nba-le-resume-video-de-portland-trail-blazers-memphis-grizzlies/20244433#at_medium=RSS_feeds",
+     "resume": "",
+     "date": "2026-10-30T06:31:00+01:00",
      "source": "",
      "image": "https://medias.lequipe.fr/img-photo-png/-/1500000000833469/0-828-552-75/0cb67.png"
+    },
+    {
+     "titre": "Stéphane Richard à l'Opéra-Comique, quel impact sur son rôle à l'OM ?",
+     "lien": "https://www.lequipe.fr/Football/Actualites/Stephane-richard-a-l-opera-comique-quel-impact-sur-son-role-a-l-om/1739611#at_medium=RSS_feeds",
+     "resume": "À la tête de l'OM, Stéphane Richard est aussi président du conseil d'administration de l'Opéra-Comique, une fonction surprenante qui ne pose pas problème au club.",
+     "date": "2026-10-30T06:30:00+01:00",
+     "source": "",
+     "image": "https://medias.lequipe.fr/img-photo-jpg/stephane-richard-president-de-l-olympique-de-marseille-a-pittore-presse-sport/1500000002636964/0:0,1999:1333-828-552-75/d2b8f.jpg"
+    },
+    {
+     "titre": "Comment ses débuts de match catastrophiques plombent Le Havre et en font le dernier de L1",
+     "lien": "https://www.lequipe.fr/Football/Article/Comment-ses-debuts-de-match-catastrophiques-plombent-le-havre-et-en-font-le-dernier-de-l1/1739572#at_medium=RSS_feeds",
+     "resume": "Depuis le début de saison, le HAC a déjà encaissé quatre buts dans le premier quart d'heure. Et, à chaque fois, la lanterne rouge a perdu. Il lui faudra faire preuve de plus de vigilance, ce vendredi soir (19 heures), pour la réception du PSG.",
+     "date": "2026-10-30T06:30:00+01:00",
+     "source": "",
+     "image": "https://medias.lequipe.fr/img-photo-jpg/a-marseille-dimanche-le-havre-a-encaisse-un-but-de-cj-egan-riley-des-la-5e-minute-alex-martin-l-equipe/1500000002636885/237:193,1725:1185-828-552-75/5578a.jpg"
+    },
+    {
+     "titre": "Ce qu'il faut retenir de la nuit en NBA : les Portland Trail Blazers battus, les New Orleans Pelicans enfin victorieux",
+     "lien": "https://www.lequipe.fr/Basket/Actualites/Les-portland-trail-blazers-battus-les-new-orleans-pelicans-enfin-victorieux-en-nba/1739647#at_medium=RSS_feeds",
+     "resume": "Les Portland Trail Blazers ont subi leur première défaite de la saison, jeudi en NBA, face aux Memphis Grizzlies (124-103). A l'inverse, les New Orleans Pelicans ont, eux, remporté leur premier succès, contre les Sacramento Kings (132-120).",
+     "date": "2026-10-30T06:20:02+01:00",
+     "source": "",
+     "image": "https://medias.lequipe.fr/img-photo-png/-/1500000000833469/0-828-552-75/0cb67.png"
+    },
+    {
+     "titre": "Entre Dino Toppmöller et Yannick Cahuzac, Lens a bien changé : après le spectacle, l'efficacité",
+     "lien": "https://www.lequipe.fr/Football/Actualites/Entre-dino-toppmoller-et-yannick-cahuzac-lens-a-bien-change-apres-le-spectacle-l-efficacite/1739615#at_medium=RSS_feeds",
+     "resume": "La succession de Dino Toppmöller par son ancien adjoint, Yannick Cahuzac, a changé le visage du RC Lens. Cela se voit dans les statistiques avant le derby des Sang et Or à Lille ce vendredi.",
+     "date": "2026-10-30T06:15:00+01:00",
+     "source": "",
+     "image": "https://medias.lequipe.fr/img-photo-jpg/dino-toppmoeller-a-cede-sa-place-a-yannick-cahuzac-avec-des-principes-de-jeu-differents-jean-baptiste-autissier-bernard-papon-l-equipe/1500000002636974/0:0,1500:1000-828-552-75/0899b.jpg"
     }
    ],
    "flux_utilise": "https://dwh.lequipe.fr/api/edito/rss?path=/"
@@ -261,17 +261,17 @@
      "source": "lemonde.fr",
      "image": "https://img.lemde.fr/2026/10/28/175/0/2098/1049/644/322/60/0/6db3ab7_ftp-1-q8afmbhpqeow-219b1f2890ba4d439c607a606adb7549-0-c7743acb4c604086b0993de5a398fb2f.jpg",
      "reprises": 7,
-     "score": 21.19
+     "score": 27.67
     },
     {
      "titre": "Législatives en Israël : le camp de Benyamin Nétanyahou arrive en tête mais sans majorité selon les résultats définitifs",
      "lien": "https://www.lemonde.fr/international/article/2026/10/30/legislatives-en-israel-le-camp-de-benyamin-netanyahou-arrive-en-tete-mais-sans-majorite-selon-les-resultats-definitifs_6802493_3210.html",
      "resume": "La coalition sortante de droite et d’extrême droite recueille 53 sièges à la Knesset. L’opposition menée par le centriste Gadi Eisenkot obtient 48 députés et les deux listes arabes en totalisent 19.",
-     "date": "2026-10-30T02:00:44+01:00",
+     "date": "2026-10-30T02:00:41+01:00",
      "source": "lemonde.fr",
      "image": "https://img.lemde.fr/2026/10/28/481/0/5760/2880/644/322/60/0/faf952f_upload-1-rqzrcxh9aoaa-lgeai-qg-netanyahou-30.jpg",
      "reprises": 7,
-     "score": 18.3
+     "score": 20.24
     },
     {
      "titre": "Accident de trains en Espagne : le roi Felipe VI a rendu visite aux victimes",
@@ -280,8 +280,8 @@
      "date": "2026-10-29T21:26:35+01:00",
      "source": "lemonde.fr",
      "image": "https://img.lemde.fr/2026/10/29/832/0/5500/2750/644/322/60/0/5097ed6_ftp-1-esdqmisqayil-2026-10-29t094305z-56645298-rc2xcoaa3rl4-rtrmadp-3-spain-accident.JPG",
-     "reprises": 7,
-     "score": 12.83
+     "reprises": 5,
+     "score": 8.73
     },
     {
      "titre": "Éboulement mortel sur un célèbre site de Turquie : \"C'est la pluie\", explique un guide à propos de l'effondrement d'une cheminée de fées en Cappadoce",
@@ -291,27 +291,27 @@
      "source": "franceinfo.fr",
      "image": "https://www.franceinfo.fr/pictures/8FJ9JGV2_Bxngj9ZDiF03gSTMaA/34x0:1358x745/432x243/filters:format(jpg)/2026/10/29/6ae3be28d5637936871213.jpg",
      "reprises": 3,
-     "score": 6.41
+     "score": 6.24
     },
     {
      "titre": "EN DIRECT, guerre en Ukraine : Kiev visée par une nouvelle salve de missiles balistiques russes",
      "lien": "https://www.lemonde.fr/international/live/2026/10/30/en-direct-guerre-en-ukraine-kiev-visee-par-une-nouvelle-salve-de-missiles-balistiques-russes_6799896_3210.html",
-     "resume": "L’attaque a tué au moins une personne, jeudi soir. Un drone russe a par ailleurs fait au moins 14 morts et 14 blessés à la gare de Dnipro, dans le centre-est de l’Ukraine. D’autres frappes meurtrières ont touché des quartiers résidentiels à Tchernihiv,…",
-     "date": "2026-10-30T02:35:13+01:00",
+     "resume": "L’attaque a tué au moins une personne, jeudi soir. Un drone russe a, par ailleurs, fait au moins 15 morts et 14 blessés à la gare de Dnipro, dans le centre-est de l’Ukraine. D’autres frappes meurtrières ont touché des quartiers résidentiels à Tchernihiv,…",
+     "date": "2026-10-30T02:35:10+01:00",
      "source": "lemonde.fr",
      "image": "https://img.lemde.fr/2026/10/28/1052/0/5522/2761/644/322/60/0/2d72bfa_ftp-1-nirj8lavhdw6-2026-10-28t093120z-259031487-rc2wboax0bnz-rtrmadp-3-ukraine-crisis-dailylife.JPG",
      "reprises": 3,
-     "score": 5.15
+     "score": 5.11
     },
     {
-     "titre": "Quatre pétroliers en feu après des explosions de mines dans le détroit d’Ormuz",
-     "lien": "https://www.lemonde.fr/international/article/2026/10/30/quatre-petroliers-en-feu-apres-des-explosions-de-mines-dans-le-detroit-d-ormuz_6802559_3210.html",
-     "resume": "L’Iran affirme avoir saisi un drone américain et accuse certains navires d’avoir désactivé leurs systèmes de navigation avant les explosions.",
-     "date": "2026-10-30T02:52:18+01:00",
-     "source": "lemonde.fr",
-     "image": "https://img.lemde.fr/2026/10/24/558/0/6000/3000/644/322/60/0/7696200_ftp-1-9byb8hgy4kna-a0c69cab2d2341bb8b0288201da85f96-0-0f47b95ff8ef4a2a951bed2ac4b7dbc0.jpg",
+     "titre": "Coupe du monde 2026 : la billetterie a rapporté 5 milliards de dollars, cinq fois plus qu’au Qatar",
+     "lien": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxNMEtOUFI1Q0hXa0FPeS0yZ0VwVXFmRVJQQm1EUmtHMW9oRDFPMWwzb0twaEpNSUZGS1Y5TWFCdGRaeV9vY3B3MUN3SE96VWJEQVotMEI2MFJ0eXNWZUt3MFdJR3R5LWlDVnNBbFpZYjRYcGNBVlNNRGgzT3lXREd0cEZfd0dabXNIamx1RDd3RzFNMEpkVHF5ZGNfSXo2cWs0MmhzdFdEbExMdjFGdEJ0Mldta3FkUllwT2VmZDBlM1NGd1phRlhscjR6MDRwSjFHMjdqQUlSWjBVWFdma09qZmlrWVZOSFY5MTZtTlhR?oc=5",
+     "resume": "",
+     "date": "2026-10-29T17:25:45+01:00",
+     "source": "Courrier international",
+     "image": null,
      "reprises": 3,
-     "score": 4.98
+     "score": 4.83
     }
    ],
    "a_traduire": []
@@ -329,17 +329,7 @@
      "source": "La Tribune",
      "image": null,
      "reprises": 5,
-     "score": 10.9
-    },
-    {
-     "titre": "Le dollar australien trébuche alors que le pari sur l’intelligence artificielle (IA) s’essouffle, le kiwi se stabilise après la débâcle des taux",
-     "lien": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxPMndxYmRiOUUxZEdCNWZtTi0zWlBUMk9TTVJIazYwYWpRdklfZVlzdk82V1lGb0cwSGlYdlJPNWJUX3VYSjB2ckk1U3NIdGt5RFNVcFZZZ0lxNm1vc0ZkdjJ3Y2pqRzd4RkVKVzJIV184Tk1MbEZ5ak5tSXpaRWJQWG5XbFJNc0J1N0YxQkVGVU5QTnpNTmtiRzBzdEVWZVhSZkNlNVlGby12WVNrMjkxOGdPdWhpLTRjZFktM2xiaTJ2QXJFRkRZU05FZmNfWFFmZVdnX3FZWTNNc2V0TEh5aG9oTExyZm9TVVkxaA?oc=5",
-     "resume": "",
-     "date": "2026-10-30T02:39:07+01:00",
-     "source": "Zonebourse Suisse",
-     "image": null,
-     "reprises": 1,
-     "score": 4.86
+     "score": 10.89
     },
     {
      "titre": "En prévision de son introduction en bourse, Anthropic prévoit de dépenser des centaines de milliards de dollars pour renforcer ses capacités en intelligence artificielle.",
@@ -349,7 +339,7 @@
      "source": "Vietnam.vn",
      "image": null,
      "reprises": 3,
-     "score": 4.21
+     "score": 4.2
     },
     {
      "titre": "Thrive Holdings rachète ADT pour 10 $ l’action, OpenAI à bord",
@@ -359,7 +349,17 @@
      "source": "Brief IA",
      "image": null,
      "reprises": 2,
-     "score": 3.11
+     "score": 3.09
+    },
+    {
+     "titre": "Le dollar australien trébuche alors que le pari sur l’intelligence artificielle (IA) s’essouffle, le kiwi se stabilise après la débâcle des taux",
+     "lien": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxPMndxYmRiOUUxZEdCNWZtTi0zWlBUMk9TTVJIazYwYWpRdklfZVlzdk82V1lGb0cwSGlYdlJPNWJUX3VYSjB2ckk1U3NIdGt5RFNVcFZZZ0lxNm1vc0ZkdjJ3Y2pqRzd4RkVKVzJIV184Tk1MbEZ5ak5tSXpaRWJQWG5XbFJNc0J1N0YxQkVGVU5QTnpNTmtiRzBzdEVWZVhSZkNlNVlGby12WVNrMjkxOGdPdWhpLTRjZFktM2xiaTJ2QXJFRkRZU05FZmNfWFFmZVdnX3FZWTNNc2V0TEh5aG9oTExyZm9TVVkxaA?oc=5",
+     "resume": "",
+     "date": "2026-10-30T02:39:07+01:00",
+     "source": "Zonebourse Suisse",
+     "image": null,
+     "reprises": 1,
+     "score": 2.98
     },
     {
      "titre": "Salon des maires : l’intelligence artificielle repère 96 % des bâtiments d’un quartier, toute la Guyane visée en 2027",
@@ -369,7 +369,7 @@
      "source": "Outre-mer La 1ère",
      "image": null,
      "reprises": 2,
-     "score": 2.94
+     "score": 2.78
     }
    ],
    "a_traduire": [
@@ -381,7 +381,7 @@
      "source": "techcrunch.com",
      "image": null,
      "reprises": 1,
-     "score": 1.45
+     "score": 1.44
     },
     {
      "titre": "The NYT Cooking app is testing AI recipe modifications",
@@ -391,7 +391,7 @@
      "source": "theverge.com",
      "image": null,
      "reprises": 1,
-     "score": 1.36
+     "score": 1.35
     },
     {
      "titre": "Mistral releases weights for its trillion-parameter AI model, targeting cybersecurity",
@@ -401,7 +401,7 @@
      "source": "techcrunch.com",
      "image": null,
      "reprises": 1,
-     "score": 1.26
+     "score": 1.25
     },
     {
      "titre": "Anthropic is asking Wall Street to believe in AGI",
@@ -411,7 +411,7 @@
      "source": "theverge.com",
      "image": null,
      "reprises": 1,
-     "score": 1.21
+     "score": 1.2
     },
     {
      "titre": "Ex-Palantir execs launch Dream with $17M from a16z to build AI world models for construction",
@@ -421,7 +421,7 @@
      "source": "techcrunch.com",
      "image": null,
      "reprises": 1,
-     "score": 1.15
+     "score": 1.14
     }
    ]
   },
@@ -438,18 +438,18 @@
      "source": "Sud Ouest",
      "image": null,
      "reprises": 9,
-     "score": 15.13,
+     "score": 15.24,
      "libertes": false
     },
     {
-     "titre": "Pour sauver la fonction publique de carrière, le vice-président du Conseil d’État appelle à changer les “règles sclérosantes”",
-     "lien": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxOLUltcDAwNERzaG9CY1BGbElXNDFzWVVIVUxIc3BoT3pvTWdwTHpnWTV3dklZRGxHR1hKckxVUzVyTjhXU2NEbFMtX3JZTXA3LWlSb3pLYTVkTWlmbF9lZTB3X2RlS09wdlF6cWZmVFhOc3p5WlpXallIQm9ER1BkS1poSTBuSkh6X0xmMlNzTHJMeVhtWjlqZS1VYjZXdjFQYUc4TnVhTXZIdDZSdEhDUU52SkFLTThjZmM1Vm9UTk5BM1V1NVVBME5Wa0xQLVhSRmpTNXZWVWQtUlFOOUVwWXNONjIwc0RXanRzLThn?oc=5",
+     "titre": "Prévention des conflits d’intérêts : Le Conseil d’État précise les règles et l’office de la Haute autorité pour la transparence de la vie publique",
+     "lien": "https://news.google.com/rss/articles/CBMikAJBVV95cUxQaHhRS0E0RnNVaF8wZkpJejRsWWktTW4yeUw1Ny03aFRWYTgzTXRMRWtuS1FULWVfZHpJN1JVTE1ZYzVFRF9fUUQ5c0hmYVNNZVlhU3dpNWtvUVA0T0ZnaURtUDBjREVSUzJWaTViVmgta0ZtaEZoT1N3Tk5uSkczempWaU5LMGNaZW10S0xvdWtjOEs5QkVJLUI3clo0dmxuVjJBR2JkeFoyN1VLbmI3d0FTeHBNeEFKbW1GZXV1QVBOZjJYMVFGSzZ4OFRlQjR5ZERGcjZXd0l1NVg4elFxaV9LTDFnU0xhclBHU1ZQOHZYNklWZmVUVHZtZUc3NVFvbDlrd2xtTWc3XzJaaDNfaw?oc=5",
      "resume": "",
-     "date": "2026-10-29T14:53:27+01:00",
-     "source": "Acteurs Publics",
+     "date": "2026-10-29T14:57:31+01:00",
+     "source": "Conseil d'État",
      "image": null,
-     "reprises": 6,
-     "score": 11.81,
+     "reprises": 5,
+     "score": 9.42,
      "libertes": false
     },
     {
@@ -460,7 +460,7 @@
      "source": "L'Indépendant",
      "image": null,
      "reprises": 2,
-     "score": 7.58,
+     "score": 7.61,
      "libertes": false
     },
     {
@@ -471,7 +471,7 @@
      "source": "L'Argus de l'assurance",
      "image": null,
      "reprises": 2,
-     "score": 4.87,
+     "score": 4.85,
      "libertes": false
     },
     {
@@ -482,7 +482,7 @@
      "source": "https://horticulture-abadie-pyrenees.com/",
      "image": null,
      "reprises": 2,
-     "score": 3.17,
+     "score": 3.19,
      "libertes": true
     },
     {
@@ -493,7 +493,7 @@
      "source": "La Gazette des Communes",
      "image": null,
      "reprises": 2,
-     "score": 3.16,
+     "score": 3.15,
      "libertes": false
     }
    ],
