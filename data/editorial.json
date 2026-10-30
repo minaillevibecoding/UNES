@@ -1,112 +1,102 @@
 {
- "date": "2026-10-29",
- "edito": "L'Espagne est en deuil : la collision de deux trains près de Tolède a fait au moins 68 morts, dix mois après la catastrophe d'Adamuz. En Israël, aucune majorité ne se dessine après le dépouillement de plus de 85 % des voix. En droit, un haut magistrat relance le débat sur l'éligibilité de Marine Le Pen tant que la Cour de cassation n'a pas statué.",
+ "date": "2026-10-30",
+ "edito": "Résultats définitifs en Israël : le camp Nétanyahou arrive en tête avec 53 sièges, sans majorité, et le président Herzog devient l'arbitre. Quatre pétroliers brûlent dans le détroit d'Ormuz. En France, un troisième samedi de mobilisation se prépare sous un dispositif de 70 000 policiers et gendarmes. Pas de grande décision juridique nouvelle ce matin.",
  "journaux": {
   "figaro": {
-   "resume": "Le Figaro consacre l'essentiel de sa une à la catastrophe ferroviaire espagnole.",
+   "resume": "Le Figaro anticipe le troisième samedi de mobilisation, qui coïncide avec Halloween.",
    "points": [
-    "Le récit des 23 minutes qui ont mené à la collision, qui a fait au moins 68 morts.",
-    "Le ministère des Transports pointe des actions « inexplicables » et une erreur humaine.",
-    "Trois jours de deuil national décrétés en Espagne.",
-    "La fuite de Flavio Bolsonaro aux États-Unis, sur fond d'enquêtes judiciaires."
+    "« Nuit des ténèbres », sit-in devant l'Assemblée : ce qui est prévu le 31 octobre.",
+    "Beauvau se mobilise face à un Halloween « de tous les dangers ».",
+    "Les syndicats attaquent en justice le parcours imposé à Paris.",
+    "À droite, la primaire divise : entretien avec Hervé Morin, éditorial d'Arthur Berdah."
    ]
   },
   "monde": {
-   "resume": "Le Monde titre sur une Espagne de nouveau endeuillée par une catastrophe ferroviaire.",
+   "resume": "Le Monde voit en Isaac Herzog l'arbitre d'une Knesset sans majorité.",
    "points": [
-    "La collision serait due à une panne informatique suivie d'une erreur humaine.",
-    "Midterms : Barack Obama fait campagne en Géorgie avant le scrutin du 3 novembre.",
-    "Piratage du site des impôts : un deuxième suspect, âgé de 16 ans, mis en examen.",
-    "Jean-Michel Blanquer défend Parcoursup et sa réforme du bac devant les sénateurs."
+    "Le président israélien pourrait pousser à un gouvernement d'union.",
+    "Laurent Nuñez prévoit 70 000 policiers et gendarmes pour le 31 octobre.",
+    "Midterms : un homonyme du sénateur Dan Sullivan recruté par l'entourage de la candidate démocrate en Alaska.",
+    "Édouard Philippe placé sous le statut de témoin assisté dans une enquête pour détournement de fonds publics."
    ]
   },
   "croix": {
-   "resume": "La Croix s'interroge sur l'impartialité de l'IGPN et suit les midterms américaines.",
+   "resume": "La Croix s'intéresse à la hausse du gaz et, à l'approche de la Toussaint, aux avatars numériques des défunts.",
    "points": [
-    "83 enquêtes confiées aux inspections de la police et de la gendarmerie depuis le début du mouvement.",
-    "Midterms : une « vague bleue » démocrate est-elle possible ?",
-    "Andorre : un projet de loi dépénalisant partiellement l'avortement.",
-    "Sur Arte, « Anatomía de un instante » revient sur le putsch manqué de 1981 en Espagne."
+    "Six millions de ménages verront leur facture de gaz augmenter le 1er novembre.",
+    "Toussaint : l'IA promet de « faire parler les morts », un marché qui interroge.",
+    "Louvre : accord de sortie de crise entre la direction et l'intersyndicale.",
+    "Moyen-Orient : huit explosions entendues à Riyad."
    ]
   },
   "equipe": {
-   "resume": "L'Équipe se tourne vers la Route du Rhum et l'état du tennis français.",
+   "resume": "L'Équipe s'interroge sur l'épidémie de blessures musculaires au PSG.",
    "points": [
-    "Sam Goodchild remplace le regretté Charlie Dalin sur l'Imoca Macif.",
-    "Violette Dorange affiche ses ambitions pour sa première Route du Rhum.",
-    "Gilles Moretton garde son cap malgré les difficultés du tennis français.",
-    "Les jeunes formés au PSG contraints à l'exil."
+    "Nuno Mendes, Marquinhos, Dembélé : pourquoi tant de lésions au PSG ?",
+    "Nice-Rennes : que vaut vraiment le gardien Yéhvann Diouf ?",
+    "Tennis de table : Gauzy et Lebrun face aux Chinois, devenus « plus abordables ».",
+    "Sergio Perez arrêtera sa carrière en 2029."
    ]
   }
  },
  "sections": {
   "monde": [
    {
-    "titre": "Espagne : au moins 68 morts dans une collision entre deux trains près de Tolède",
-    "lien": "https://www.lemonde.fr/international/video/2026/10/28/accident-entre-deux-trains-en-espagne-le-resume-en-video-de-la-collision_6801641_3210.html",
+    "titre": "Israël : le camp Nétanyahou en tête mais sans majorité",
+    "lien": "https://www.lemonde.fr/international/article/2026/10/30/legislatives-en-israel-le-camp-de-benyamin-netanyahou-arrive-en-tete-mais-sans-majorite-selon-les-resultats-definitifs_6802493_3210.html",
     "source": "Le Monde",
-    "date": "2026-10-28T21:01:34+01:00",
-    "resume": "La collision s'est produite mercredi matin près d'Urda, sur la ligne Madrid-Andalousie. Le gouvernement évoque une panne informatique suivie d'une erreur humaine ; trois jours de deuil national ont été décrétés.",
-    "pourquoi": "Deuxième catastrophe ferroviaire en moins d'un an, qui interroge le sous-investissement dans le réseau."
+    "date": "2026-10-30T02:00:44+01:00",
+    "resume": "Selon les résultats définitifs, la coalition sortante de droite et d'extrême droite obtient 53 sièges, l'opposition menée par Gadi Eisenkot 48, et les deux listes arabes 19.",
+    "pourquoi": "Aucun bloc n'atteint les 61 sièges : le président Herzog devra arbitrer."
    },
    {
-    "titre": "Israël : aucune majorité après le dépouillement de plus de 85 % des voix",
-    "lien": "https://www.lemonde.fr/international/live/2026/10/28/en-direct-legislatives-en-israel-aucune-majorite-ne-se-dessine-au-lendemain-du-scrutin-apres-le-depouillement-de-plus-de-85-des-suffrages-exprimes_6801217_3210.html",
+    "titre": "Détroit d'Ormuz : quatre pétroliers en feu après des explosions de mines",
+    "lien": "https://www.lemonde.fr/international/article/2026/10/30/quatre-petroliers-en-feu-apres-des-explosions-de-mines-dans-le-detroit-d-ormuz_6802559_3210.html",
     "source": "Le Monde",
-    "date": "2026-10-28T19:47:05+01:00",
-    "resume": "Le Likoud de Benyamin Nétanyahou et ses alliés ont une courte avance avec environ 53 sièges, loin des 61 nécessaires à la Knesset.",
-    "pourquoi": "Les tractations pour former une coalition s'annoncent longues."
+    "date": "2026-10-30T02:52:18+01:00",
+    "resume": "L'Iran affirme avoir saisi un drone américain et accuse certains navires d'avoir désactivé leurs systèmes de navigation avant les explosions.",
+    "pourquoi": "Une menace directe sur un passage clé du commerce pétrolier mondial."
    },
    {
-    "titre": "Poutine reçoit une vingtaine de dirigeants africains",
-    "lien": "https://www.france24.com/fr/%C3%A9missions/journal-de-l-afrique/20261028-les-enjeux-de-la-3e-%C3%A9dition-du-sommet-russie-afrique",
-    "source": "France 24",
-    "date": "2026-10-28T23:17:36+01:00",
-    "resume": "La troisième édition du sommet Russie-Afrique vise à resserrer les liens avec un continent riche en minerais et en terres rares.",
-    "pourquoi": "Moscou consolide ses appuis hors d'Occident en pleine guerre en Ukraine."
+    "titre": "Ukraine : au moins 14 morts dans une frappe de drone sur la gare de Dnipro",
+    "lien": "https://www.lemonde.fr/international/live/2026/10/30/en-direct-guerre-en-ukraine-kiev-visee-par-une-nouvelle-salve-de-missiles-balistiques-russes_6799896_3210.html",
+    "source": "Le Monde",
+    "date": "2026-10-30T02:35:13+01:00",
+    "resume": "Kiev a de nouveau été visée par des missiles balistiques jeudi soir ; d'autres frappes meurtrières ont touché Tchernihiv.",
+    "pourquoi": "Les frappes russes se poursuivent malgré les pourparlers annoncés."
+   },
+   {
+    "titre": "Brésil : Flavio Bolsonaro aurait fui à bord d'un jet payé depuis les États-Unis",
+    "lien": "https://www.lemonde.fr/international/article/2026/10/30/flavio-bolsonaro-aurait-fui-le-bresil-a-bord-d-un-avion-paye-depuis-les-etats-unis_6802658_3210.html",
+    "source": "Le Monde",
+    "date": "2026-10-30T03:50:26+01:00",
+    "resume": "Selon le Wall Street Journal et le New York Times, l'avion aurait été réglé par un intermédiaire depuis un compte bancaire américain.",
+    "pourquoi": "L'affaire met en cause un possible soutien américain à la fuite d'un justiciable brésilien."
    }
   ],
   "ia": [
    {
-    "titre": "Google dévoile Gemini 4 Carbon, axé sur le code et la cybersécurité",
-    "lien": "https://news.google.com/rss/articles/CBMihAJBVV95cUxPZExYNWJvUk1RUl9NcWNuUUs0eG02RUdKRkVvYW04a2lTUi1nOERRNXRjb0ZxQ0s3R1pFbC0xUm00bnZLaV8xQzZfeW5uOWkxZVFIeHJUUkNfZkVPb2FhWjBZck5meHhTb3pvRGNsTUV4bUFjUWE4WkFCTWU0LVBqekw0eGJ6YjdidWFvYkZHT1lkZzIyaVlURXk4Y3hGd2hQclBuVTdWZWg1Q2tCdFo1SU02SG1pOEJUTFJDR0RWQUd1eTdVV1FzbWVIV1F5dndzYUU1T3puQWNfN2puekhiMEpRRVVYX1gxZHBXX3lDTEM1a0ZJRmZCMWF2WXNleGdRaENZTtIBhAJBVV95cUxPZExYNWJvUk1RUl9NcWNuUUs0eG02RUdKRkVvYW04a2lTUi1nOERRNXRjb0ZxQ0s3R1pFbC0xUm00bnZLaV8xQzZfeW5uOWkxZVFIeHJUUkNfZkVPb2FhWjBZck5meHhTb3pvRGNsTUV4bUFjUWE4WkFCTWU0LVBqekw0eGJ6YjdidWFvYkZHT1lkZzIyaVlURXk4Y3hGd2hQclBuVTdWZWg1Q2tCdFo1SU02SG1pOEJUTFJDR0RWQUd1eTdVV1FzbWVIV1F5dndzYUU1T3puQWNfN2puekhiMEpRRVVYX1gxZHBXX3lDTEM1a0ZJRmZCMWF2WXNleGdRaENZTg?oc=5",
-    "source": "Boursorama",
-    "date": "2026-10-28T19:23:00+01:00",
-    "resume": "Google revendique des « gains significatifs » en programmation, tâches agentiques et cybersécurité, et la première place à l'Artificial Analysis Intelligence Index.",
-    "pourquoi": "La course aux modèles de pointe s'intensifie au moment où Anthropic entre en Bourse."
+    "titre": "Mistral publie les poids de son modèle à mille milliards de paramètres, tourné vers la cybersécurité",
+    "lien": "https://techcrunch.com/2026/10/29/mistral-releases-weights-for-its-trillion-parameter-ai-model-targeting-cybersecurity/",
+    "source": "TechCrunch",
+    "date": "2026-10-29T18:00:00+01:00",
+    "resume": "La start-up française affirme que ce modèle ouvert offre aux organisations un contrôle de leur cyberdéfense que les modèles fermés ne permettent pas. Elle s'associe parallèlement à Orange Cyberdéfense pour développer des agents capables de déceler les failles.",
+    "pourquoi": "L'Europe mise sur l'ouverture des modèles pour se distinguer des géants américains."
    },
    {
-    "titre": "Les ayants droit d'Elvis Presley poursuivent Anthropic",
-    "lien": "https://news.google.com/rss/articles/CBMinAJBVV95cUxQSUZkUHZZeDd4a01pa3JmOWdZdnphWjB0V0RyWkxyMHY1dlV0VXJuYnFGS2lFLTZxRmszOXQ1NHZEZ1d1ZnNHR3RtWG1YRzljOVpjLXRxM0tZbnFVTEkxaTQ5SXpOdU5uYkM5NTNxclRtWk1kWUNrdGRBazZKNjBNUXF6UGJxYk15R3Vqb1VWS1dhWlpHWDBncWZLT2RyR19ldVJIQno5VXNCTVZyYjc5Z25SM3g1blNNUUVaM1d1Mlo4VkRfbnFyNXBkTkF3X1JvbGt0NDc1blhrbWFBRFhxNWY2bk5lUDBVN0IzMDJFZFFYSXE5NW1Udzljbm5fQmYxaWp4WFBDQmlhVUNWZVlPVU1RV0RHRndfc2VPTg?oc=5",
-    "source": "Ouest-France",
-    "date": "2026-10-28T17:01:04+01:00",
-    "resume": "Les détenteurs du catalogue réclament 41,1 millions de dollars à Anthropic, accusée d'avoir utilisé 274 chansons pour entraîner ses modèles Claude.",
-    "pourquoi": "Un nouveau front judiciaire sur le droit d'auteur et l'entraînement des IA."
-   },
-   {
-    "titre": "Le patron d'Instagram prédit une hostilité croissante envers l'IA",
-    "lien": "https://www.theverge.com/ai-artificial-intelligence/1021644/adam-mosseri-instagram-ai-negativity",
-    "source": "The Verge",
-    "date": "2026-10-29T00:05:39+01:00",
-    "resume": "Adam Mosseri reconnaît que beaucoup de gens n'aiment pas l'IA, au-delà des jeunes et des créateurs, et estime que ce rejet « va s'aggraver ».",
-    "pourquoi": "Un dirigeant de la tech admet publiquement la défiance du grand public."
+    "titre": "Thrive Holdings, soutenu par OpenAI, rachète ADT pour 15,3 milliards de dollars",
+    "lien": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPMmROdEJfNVNGV1daOTFLc3lZNkw1WUJrc2JtbThFUlhxdFNIZUVoLVoxblhBckVnSmRIekFkaWhTQzBCNkVmNFZpYVdLUnpqRmVCMUsxUFFrVEttV2YzNUNiRnJjVXo1OElzOVAybVlyWUdXdUpKbEF3cHVob25tekhlYzJrMUpNTGVsSFIxankzMm8?oc=5",
+    "source": "Brief IA",
+    "date": "2026-10-29T21:08:49+01:00",
+    "resume": "Le rachat du spécialiste américain de la sécurité domestique, à 10 dollars par action, doit permettre d'y intégrer l'IA.",
+    "pourquoi": "L'écosystème d'OpenAI s'étend à des secteurs traditionnels."
    }
   ],
-  "droit": [
-   {
-    "titre": "Éligibilité de Marine Le Pen : un haut magistrat estime qu'elle reste inéligible jusqu'à la décision de cassation",
-    "lien": "https://news.google.com/rss/articles/CBMimwJBVV95cUxOLVp4VGtVSXI2cUlNeDJOdmFsZEYxVGFUbm1pZ1J2a01hZkduT0dHaEl2SnZPY3hfY1EtVUwzeS0yMmd5bU92V1dUUXhZQzIwSkZCUGxhWVV1cG9iUm16amdzN1BqR3V0NWZ4T3ZfWURIWUVLTC05Qm9KZVdVOFMwS3RQbkhoQXpzUllNdW1OM2hNeWYxZ2x1U3BNbXZ1clhZSmRRN2xydXhIRUdya0pCQ2tmZlA0Qm1uZElCVkptcEdUdVk3UDg0SmxsVFp0ZWRWRVVXbUlyOVBtSUdrQ3g3UVhoNWRBcnNrTkR5Sm1jLVEyX3ZuNmhRTHFCNWkzZEU1N2RWMHlxN3pIbXRRMXZ4eFJmMVoyMk1IVXRZ?oc=5",
-    "source": "Le Monde",
-    "date": "2026-10-27T05:00:29+01:00",
-    "resume": "Dans Le Monde, Didier Guérin soutient que Marine Le Pen est « actuellement inéligible jusqu'à la décision de la Cour de cassation sur son pourvoi ». Le 7 juillet 2026, la cour d'appel avait prononcé 45 mois d'inéligibilité dont 30 avec sursis, la partie ferme étant présentée comme purgée au titre de l'exécution provisoire de première instance ; le pourvoi suspend l'arrêt d'appel. La Cour de cassation entend statuer avant le premier tour de 2027.",
-    "libertes": "Droit d'éligibilité ; liberté de l'électeur ; exécution des peines.",
-    "angle_crfpa": "Un débat doctrinal entre hauts magistrats sur l'articulation entre exécution provisoire de première instance et effet suspensif du pourvoi. À relier à la jurisprudence constitutionnelle sur l'exécution provisoire des peines d'inéligibilité."
-   }
-  ]
+  "droit": []
  },
  "notion": {
-  "titre": "L'exécution provisoire de l'inéligibilité",
-  "texte": "Saisi d'une QPC, le Conseil constitutionnel a jugé conforme à la Constitution la possibilité d'assortir une peine d'inéligibilité de l'exécution provisoire, sous une réserve : le juge doit apprécier le caractère proportionné de l'atteinte que cette mesure est susceptible de porter à l'exercice d'un mandat en cours et à la préservation de la liberté de l'électeur.",
-  "reference": "Cons. const., 28 mars 2025, n° 2025-1129 QPC, M. Rachadi S."
+  "titre": "La liberté d'aller et venir",
+  "texte": "Le Conseil constitutionnel l'a reconnue comme principe de valeur constitutionnelle, avant de la rattacher aux articles 2 et 4 de la Déclaration de 1789. Elle doit être conciliée avec la sauvegarde de l'ordre public : les mesures de police qui la restreignent, comme les interdictions de parcours ou les périmètres de sécurité, doivent être nécessaires, adaptées et proportionnées.",
+  "reference": "Cons. const., 12 juillet 1979, n° 79-107 DC, Ponts à péage"
  }
 }
