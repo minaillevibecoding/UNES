@@ -1,102 +1,121 @@
 {
- "date": "2026-10-30",
- "edito": "Résultats définitifs en Israël : le camp Nétanyahou arrive en tête avec 53 sièges, sans majorité, et le président Herzog devient l'arbitre. Quatre pétroliers brûlent dans le détroit d'Ormuz. En France, un troisième samedi de mobilisation se prépare sous un dispositif de 70 000 policiers et gendarmes. Pas de grande décision juridique nouvelle ce matin.",
+ "date": "2026-10-31",
+ "edito": "Troisième samedi de mobilisation : dans la nuit, le Conseil d'État a annulé l'ordonnance qui rouvrait le parcours Bastille-Nation et validé le tracé de la préfecture, de la porte de Bagnolet à la porte de Charenton. L'Assemblée du contentieux encadre aussi l'office de la HATVP en matière de conflits d'intérêts. À l'étranger, Washington approuve la vente de 500 missiles Patriot à Kiev et « Novaïa Gazeta » ferme.",
  "journaux": {
   "figaro": {
-   "resume": "Le Figaro anticipe le troisième samedi de mobilisation, qui coïncide avec Halloween.",
+   "resume": "Le Figaro décrit un « acte III » à « risque très élevé » pour l'exécutif.",
    "points": [
-    "« Nuit des ténèbres », sit-in devant l'Assemblée : ce qui est prévu le 31 octobre.",
-    "Beauvau se mobilise face à un Halloween « de tous les dangers ».",
-    "Les syndicats attaquent en justice le parcours imposé à Paris.",
-    "À droite, la primaire divise : entretien avec Hervé Morin, éditorial d'Arthur Berdah."
+    "Le tribunal administratif avait autorisé le parcours Bastille-Nation ; le Conseil d'État était saisi pour la nuit.",
+    "Le ministère de l'Intérieur classe la journée « à risque très élevé ».",
+    "Éditorial d'Yves Thréard : « La France d'en face, silencieuse, devant le désordre ».",
+    "Jean-Luc Mélenchon multiplie les attaques contre les médias."
    ]
   },
   "monde": {
-   "resume": "Le Monde voit en Isaac Herzog l'arbitre d'une Knesset sans majorité.",
+   "resume": "Le Monde revient sur Trappes, une semaine après l'attentat, et sur un mouvement social très actif en ligne.",
    "points": [
-    "Le président israélien pourrait pousser à un gouvernement d'union.",
-    "Laurent Nuñez prévoit 70 000 policiers et gendarmes pour le 31 octobre.",
-    "Midterms : un homonyme du sénateur Dan Sullivan recruté par l'entourage de la candidate démocrate en Alaska.",
-    "Édouard Philippe placé sous le statut de témoin assisté dans une enquête pour détournement de fonds publics."
+    "À Trappes, une cérémonie chargée d'émotion une semaine après l'attaque terroriste.",
+    "Le gouvernement menace les réseaux sociaux d'une suspension temporaire.",
+    "En Pologne, le président du Tribunal constitutionnel écarté, la police déployée à Varsovie.",
+    "Wall Street s'inquiète de la rentabilité des investissements dans l'IA."
    ]
   },
   "croix": {
-   "resume": "La Croix s'intéresse à la hausse du gaz et, à l'approche de la Toussaint, aux avatars numériques des défunts.",
+   "resume": "La Croix s'interroge sur l'usage du gaz lacrymogène à la veille d'une nouvelle journée de contestation.",
    "points": [
-    "Six millions de ménages verront leur facture de gaz augmenter le 1er novembre.",
-    "Toussaint : l'IA promet de « faire parler les morts », un marché qui interroge.",
-    "Louvre : accord de sortie de crise entre la direction et l'intersyndicale.",
-    "Moyen-Orient : huit explosions entendues à Riyad."
+    "L'utilisation des lacrymogènes suscite de nombreuses questions.",
+    "Monaco, la Bulgarie, la Côte d'Ivoire et la RDC retirés de la liste grise du Gafi.",
+    "Trappes : foule nombreuse au rassemblement antiraciste.",
+    "COP17 : plusieurs textes clés adoptés dans les prolongations pour protéger la nature."
    ]
   },
   "equipe": {
-   "resume": "L'Équipe s'interroge sur l'épidémie de blessures musculaires au PSG.",
+   "resume": "L'Équipe détaille les classements du Ballon d'Or et se tourne vers le Grand Prix du Mexique.",
    "points": [
-    "Nuno Mendes, Marquinhos, Dembélé : pourquoi tant de lésions au PSG ?",
-    "Nice-Rennes : que vaut vraiment le gardien Yéhvann Diouf ?",
-    "Tennis de table : Gauzy et Lebrun face aux Chinois, devenus « plus abordables ».",
-    "Sergio Perez arrêtera sa carrière en 2029."
+    "28 points d'écart entre Kane et Mbappé ; Alexia Putellas sacrée chez les femmes.",
+    "UBB-Bayonne : retrouvailles électriques avec Thibault Giroud.",
+    "Saint-Étienne, leader de L2, suscite un vif engouement.",
+    "George Russell traverse sa « première véritable période difficile »."
    ]
   }
  },
  "sections": {
   "monde": [
    {
-    "titre": "Israël : le camp Nétanyahou en tête mais sans majorité",
-    "lien": "https://www.lemonde.fr/international/article/2026/10/30/legislatives-en-israel-le-camp-de-benyamin-netanyahou-arrive-en-tete-mais-sans-majorite-selon-les-resultats-definitifs_6802493_3210.html",
+    "titre": "Washington approuve la vente de 500 missiles Patriot à l'Ukraine",
+    "lien": "https://www.lemonde.fr/international/live/2026/10/30/en-direct-guerre-en-ukraine-washington-approuve-la-vente-de-500-missiles-patriot-a-kiev_6799896_3210.html",
     "source": "Le Monde",
-    "date": "2026-10-30T02:00:44+01:00",
-    "resume": "Selon les résultats définitifs, la coalition sortante de droite et d'extrême droite obtient 53 sièges, l'opposition menée par Gadi Eisenkot 48, et les deux listes arabes 19.",
-    "pourquoi": "Aucun bloc n'atteint les 61 sièges : le président Herzog devra arbitrer."
+    "date": "2026-10-30T23:58:56+01:00",
+    "resume": "La vente, de plus de 2 milliards de dollars, doit être entérinée par le Congrès. Volodymyr Zelensky s'inquiète d'une livraison qui pourrait n'intervenir que « dans quelques années ».",
+    "pourquoi": "La défense antiaérienne ukrainienne reste suspendue au calendrier américain."
    },
    {
-    "titre": "Détroit d'Ormuz : quatre pétroliers en feu après des explosions de mines",
-    "lien": "https://www.lemonde.fr/international/article/2026/10/30/quatre-petroliers-en-feu-apres-des-explosions-de-mines-dans-le-detroit-d-ormuz_6802559_3210.html",
+    "titre": "Russie : le journal indépendant « Novaïa Gazeta » annonce sa fermeture",
+    "lien": "https://www.lemonde.fr/international/video/2026/10/30/ils-nous-ont-tues-le-journal-independant-russe-novaia-gazeta-annonce-sa-fermeture_6803133_3210.html",
     "source": "Le Monde",
-    "date": "2026-10-30T02:52:18+01:00",
-    "resume": "L'Iran affirme avoir saisi un drone américain et accuse certains navires d'avoir désactivé leurs systèmes de navigation avant les explosions.",
-    "pourquoi": "Une menace directe sur un passage clé du commerce pétrolier mondial."
+    "date": "2026-10-30T20:09:53+01:00",
+    "resume": "Son ex-rédacteur en chef Dmitri Mouratov, colauréat du prix Nobel de la paix, y voit un effet de « la gigantesque campagne militaire » menée par le Kremlin.",
+    "pourquoi": "La disparition d'une des dernières voix de la presse libre russe."
    },
    {
-    "titre": "Ukraine : au moins 14 morts dans une frappe de drone sur la gare de Dnipro",
-    "lien": "https://www.lemonde.fr/international/live/2026/10/30/en-direct-guerre-en-ukraine-kiev-visee-par-une-nouvelle-salve-de-missiles-balistiques-russes_6799896_3210.html",
-    "source": "Le Monde",
-    "date": "2026-10-30T02:35:13+01:00",
-    "resume": "Kiev a de nouveau été visée par des missiles balistiques jeudi soir ; d'autres frappes meurtrières ont touché Tchernihiv.",
-    "pourquoi": "Les frappes russes se poursuivent malgré les pourparlers annoncés."
-   },
-   {
-    "titre": "Brésil : Flavio Bolsonaro aurait fui à bord d'un jet payé depuis les États-Unis",
-    "lien": "https://www.lemonde.fr/international/article/2026/10/30/flavio-bolsonaro-aurait-fui-le-bresil-a-bord-d-un-avion-paye-depuis-les-etats-unis_6802658_3210.html",
-    "source": "Le Monde",
-    "date": "2026-10-30T03:50:26+01:00",
-    "resume": "Selon le Wall Street Journal et le New York Times, l'avion aurait été réglé par un intermédiaire depuis un compte bancaire américain.",
-    "pourquoi": "L'affaire met en cause un possible soutien américain à la fuite d'un justiciable brésilien."
+    "titre": "Espagne : au moins 69 morts, l'identification des victimes s'accélère",
+    "lien": "https://www.france24.com/fr/vid%C3%A9o/20261030-accident-ferroviaire-en-espagne-les-familles-dans-une-attente-angoissante",
+    "source": "France 24",
+    "date": "2026-10-30T17:02:49+01:00",
+    "resume": "Les autorités ont intensifié l'identification des victimes de la collision du 28 octobre pour répondre à l'angoisse des familles.",
+    "pourquoi": "La pire tragédie ferroviaire espagnole depuis 2013 pèse sur la campagne des législatives."
    }
   ],
   "ia": [
    {
-    "titre": "Mistral publie les poids de son modèle à mille milliards de paramètres, tourné vers la cybersécurité",
-    "lien": "https://techcrunch.com/2026/10/29/mistral-releases-weights-for-its-trillion-parameter-ai-model-targeting-cybersecurity/",
-    "source": "TechCrunch",
-    "date": "2026-10-29T18:00:00+01:00",
-    "resume": "La start-up française affirme que ce modèle ouvert offre aux organisations un contrôle de leur cyberdéfense que les modèles fermés ne permettent pas. Elle s'associe parallèlement à Orange Cyberdéfense pour développer des agents capables de déceler les failles.",
-    "pourquoi": "L'Europe mise sur l'ouverture des modèles pour se distinguer des géants américains."
+    "titre": "OpenAI, Google, Microsoft et Anthropic adoptent un standard pour refuser l'aspiration par l'IA",
+    "lien": "https://www.theverge.com/tech/1023763/openai-google-microsoft-ai-scraping-standard-opt-out",
+    "source": "The Verge",
+    "date": "2026-10-30T21:26:10+01:00",
+    "resume": "Les quatre groupes s'engagent à respecter un nouveau standard permettant aux éditeurs d'indiquer leurs préférences en matière d'entraînement des IA et de refuser la collecte de leurs contenus.",
+    "pourquoi": "Une réponse aux médias, au moment où les procès pour droit d'auteur se multiplient."
    },
    {
-    "titre": "Thrive Holdings, soutenu par OpenAI, rachète ADT pour 15,3 milliards de dollars",
-    "lien": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPMmROdEJfNVNGV1daOTFLc3lZNkw1WUJrc2JtbThFUlhxdFNIZUVoLVoxblhBckVnSmRIekFkaWhTQzBCNkVmNFZpYVdLUnpqRmVCMUsxUFFrVEttV2YzNUNiRnJjVXo1OElzOVAybVlyWUdXdUpKbEF3cHVob25tekhlYzJrMUpNTGVsSFIxankzMm8?oc=5",
-    "source": "Brief IA",
-    "date": "2026-10-29T21:08:49+01:00",
-    "resume": "Le rachat du spécialiste américain de la sécurité domestique, à 10 dollars par action, doit permettre d'y intégrer l'IA.",
-    "pourquoi": "L'écosystème d'OpenAI s'étend à des secteurs traditionnels."
+    "titre": "Anthropic attendue en catégorie spéculative par les agences de notation",
+    "lien": "https://techcrunch.com/2026/10/30/anthropic-expected-to-receive-high-junk-rating-from-credit-agencies-following-ipo-report-says/",
+    "source": "TechCrunch",
+    "date": "2026-10-30T22:52:03+01:00",
+    "resume": "Selon le Financial Times, cité par TechCrunch, Blackstone prévoit une note BB après l'introduction en Bourse, ce qui renchérirait le coût des financements nécessaires à ses dépenses massives.",
+    "pourquoi": "La solidité financière des laboratoires d'IA devient un sujet pour les marchés."
+   },
+   {
+    "titre": "Le satellite IA de Google envoie sa première réponse depuis l'espace",
+    "lien": "https://www.theverge.com/tech/1023528/google-project-suncatcher-ai-satellite-transmission",
+    "source": "The Verge",
+    "date": "2026-10-30T19:21:38+01:00",
+    "resume": "Google a démarré les processeurs TPU embarqués de son satellite, permettant au modèle Gemma 4 à bord de répondre à une requête.",
+    "pourquoi": "Une première démonstration d'inférence d'IA effectuée en orbite."
    }
   ],
-  "droit": []
+  "droit": [
+   {
+    "titre": "L'Assemblée du contentieux encadre l'office de la HATVP en matière de conflits d'intérêts",
+    "lien": "https://news.google.com/rss/articles/CBMikAJBVV95cUxQaHhRS0E0RnNVaF8wZkpJejRsWWktTW4yeUw1Ny03aFRWYTgzTXRMRWtuS1FULWVfZHpJN1JVTE1ZYzVFRF9fUUQ5c0hmYVNNZVlhU3dpNWtvUVA0T0ZnaURtUDBjREVSUzJWaTViVmgta0ZtaEZoT1N3Tk5uSkczempWaU5LMGNaZW10S0xvdWtjOEs5QkVJLUI3clo0dmxuVjJBR2JkeFoyN1VLbmI3d0FTeHBNeEFKbW1GZXV1QVBOZjJYMVFGSzZ4OFRlQjR5ZERGcjZXd0l1NVg4elFxaV9LTDFnU0xhclBHU1ZQOHZYNklWZmVUVHZtZUc3NVFvbDlrd2xtTWc3XzJaaDNfaw?oc=5",
+    "source": "Conseil d'État",
+    "date": "2026-10-29T14:57:31+01:00",
+    "resume": "CE, Ass., 29 octobre 2026, n° 505836 et 514106 : trois délibérations de la HATVP sont annulées. Pour un ministre (première décision de ce type), la Haute autorité apprécie si ses intérêts des cinq années antérieures peuvent influencer ou paraître influencer ses fonctions, mais n'a pas à évaluer un risque pénal de prise illégale d'intérêts, réservé au juge pénal. En matière de pantouflage, un mandat bénévole d'administrateur d'une société commerciale reste contrôlable ; la HATVP apprécie le risque que l'infraction soit constituée, sous le contrôle du juge, au vu des fonctions réellement exercées.",
+    "libertes": "Probité publique ; liberté d'exercer une activité professionnelle ; séparation des compétences administrative et pénale.",
+    "angle_crfpa": "Arrêt d'Assemblée qui reformule la jurisprudence de 2020 sur le pantouflage (art. 432-13 C. pén.) et précise l'articulation entre contrôle déontologique de la HATVP et qualification pénale (art. 432-12 C. pén.)."
+   },
+   {
+    "titre": "Manifestation parisienne du 31 octobre : le Conseil d'État valide le parcours de la préfecture",
+    "lien": "https://news.google.com/rss/articles/CBMijgJBVV95cUxNUUcxakRHYXRMUTJPSXhaRWY4TFN0Y1JWMFlQNjFtbk9FOF9Rb0t2ZVhuWk83dFVvMUd4YkpVbHF2bm9TVVVVMEY0U2ZPR2VFN183Z3NLRTlaX2Y4X2VYRUZ1SF94Ul9feE5hZDcta2l5ZEhheWx1WnpzMUlxNFVWSzdJUlJCRFhMYkt0NkV1M1JodW5xN3hZR2NNSHRRVWpRbko3RTJkSEQ3OVlpUVNVUk9jRnFVRVEtRm9DWF9VelYzYjI2cTNqMDRuczVZYmZVQ1IxUWo1N083S2FjNFRVU19kSzNfbDNpd0N6SWZnQWh4bTFZM21qZzF0WmJNYjZHTS16OVdVMG1WTm9WSmc?oc=5",
+    "source": "BFM",
+    "date": "2026-10-30T22:23:54+01:00",
+    "resume": "Le tribunal administratif de Paris avait suspendu vendredi l'arrêté imposant un tracé excentré et autorisé le parcours Bastille-Nation. Saisi en appel par le ministre de l'Intérieur, qui invoquait des risques de violences, le juge des référés du Conseil d'État a annulé cette ordonnance dans la nuit et validé le parcours de la porte de Bagnolet à la porte de Charenton.",
+    "libertes": "Liberté de manifester ; ordre public.",
+    "angle_crfpa": "Illustration du contrôle in concreto, en référé-liberté, d'une modification de parcours plutôt que d'une interdiction. Les motifs détaillés de l'ordonnance restent à lire."
+   }
+  ]
  },
  "notion": {
-  "titre": "La liberté d'aller et venir",
-  "texte": "Le Conseil constitutionnel l'a reconnue comme principe de valeur constitutionnelle, avant de la rattacher aux articles 2 et 4 de la Déclaration de 1789. Elle doit être conciliée avec la sauvegarde de l'ordre public : les mesures de police qui la restreignent, comme les interdictions de parcours ou les périmètres de sécurité, doivent être nécessaires, adaptées et proportionnées.",
-  "reference": "Cons. const., 12 juillet 1979, n° 79-107 DC, Ponts à péage"
+  "titre": "Le pantouflage",
+  "texte": "Le Code pénal punit l'agent public qui, dans les trois ans suivant la cessation de ses fonctions, rejoint une entreprise privée qu'il a surveillée ou contrôlée, avec laquelle il a conclu des contrats ou sur laquelle il a proposé des décisions. Depuis 2019, la HATVP contrôle en amont ces départs vers le privé pour les plus hauts responsables publics et peut rendre des avis d'incompatibilité, soumis au contrôle du juge administratif.",
+  "reference": "C. pén., art. 432-13 ; loi n° 2019-828 du 6 août 2019 de transformation de la fonction publique"
  }
 }
