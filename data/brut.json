@@ -1,6 +1,6 @@
 {
  "date": "2026-10-31",
- "genere": "2026-10-31T06:57+01:00",
+ "genere": "2026-10-31T07:53+01:00",
  "journaux": [
   {
    "id": "figaro",
@@ -13,20 +13,20 @@
    },
    "articles": [
     {
+     "titre": "EN DIRECT - Manifestation du 31 octobre : le parcours Bastille-Nation à Paris finalement interdit par le Conseil d’État",
+     "lien": "https://www.lefigaro.fr/actualite-france/en-direct-manifestation-du-31-octobre-le-parcours-bastille-nation-a-paris-finalement-interdit-par-le-conseil-d-etat-20261031",
+     "resume": "Une journée «à risque très élevé de troubles à l’ordre public» : 70.000 policiers et gendarmes sont mobilisés ce samedi et les autorités redoutent des violences «notamment en soirée», avec la fête d’Halloween. Lycéens et étudiants sont de nouveau appelés à…",
+     "date": "2026-10-31T07:11:52+01:00",
+     "source": "",
+     "image": "https://i.f1g.fr/media/cms/3000x2000_crop/2026/10/31/11948c1d3b05713ab81e7b82d557090f8e88ecaba8c1ff4bd38f7e74c7403ba4.jpg"
+    },
+    {
      "titre": "«Nuit des ténèbres», «sit-in devant l’Assemblée», imbroglio autour du cortège parisien… À quoi faut-il s’attendre pour l’«acte III» des mobilisations ?",
      "lien": "https://www.lefigaro.fr/actualite-france/nuit-des-tenebres-sit-in-devant-l-assemblee-imbroglio-autour-du-cortege-parisien-a-quoi-faut-il-s-attendre-pour-l-acte-iii-des-mobilisations-20261030",
      "resume": "Pour le troisième samedi consécutif, les gilets jaunes, les syndicats et les organisations étudiantes et lycéennes appellent à manifester partout en France. Cette fois, la défense du droit de manifester s’ajoute aux revendications sociales, sur fond de…",
      "date": "2026-10-30T19:16:50+01:00",
      "source": "",
      "image": "https://i.f1g.fr/media/cms/3000x2001_crop/2026/10/29/c7dd8c341a7a3986287a713573bee9d2c3ada3d9a0e26436fe009bdb386dbb42.jpg"
-    },
-    {
-     "titre": "EN DIRECT - Manifestations du 31 octobre : le tribunal administratif de Paris autorise le parcours Bastille-Nation, le préfet fait appel de la décision",
-     "lien": "https://www.lefigaro.fr/actualite-france/en-direct-manifestations-31-octobre-policiers-gendarmes-laurent-nunez-violences-urbaines-halloween-20261030",
-     "resume": "Le Conseil d’État pourrait rendre sa décision dans la nuit. Quelque 70 000 policiers et gendarmes seront mobilisés pour la nouvelle journée de mobilisation sociale prévue samedi, «un dispositif exceptionnel» reconduit, a annoncé le ministre de l’Intérieur…",
-     "date": "2026-10-30T20:46:03+01:00",
-     "source": "",
-     "image": "https://i.f1g.fr/media/cms/3000x2000_crop/2026/10/30/c6bc508b2e058e4b79d28b5de748bab890060537c4fea37232a3833722ba04c5.jpg"
     },
     {
      "titre": "L’éditorial d’Yves Thréard : « La France d’en face, silencieuse, devant le désordre »",
@@ -37,14 +37,6 @@
      "image": "https://i.f1g.fr/media/cms/1918x1079_crop/2026/10/30/48f215a7c36c57d9d51d5df955e8d90f5044f3e13a56ba390315614a30b066c3.jpg"
     },
     {
-     "titre": "« Acte III » des manifestations : un nouveau samedi de tous les dangers pour l’exécutif",
-     "lien": "https://www.lefigaro.fr/actualite-france/acte-iii-des-manifestations-un-nouveau-samedi-de-tous-les-dangers-pour-l-executif-20261030",
-     "resume": "DÉCRYPTAGE - La troisième journée de mobilisation nationale, ce samedi 31 octobre, est considérée « à risque très élevé » par le ministère de l’Intérieur.",
-     "date": "2026-10-30T18:55:11+01:00",
-     "source": "",
-     "image": "https://i.f1g.fr/media/cms/3000x2001_crop/2026/10/30/7d555ad84efe5a547f7601bba314d31882b62c3e80c48947b0f546cadc73042a.jpg"
-    },
-    {
      "titre": "Pensez-vous que les forces de l'ordre parviendront à éviter les débordements ?",
      "lien": "https://www.lefigaro.fr/actualite-france/pensez-vous-que-les-forces-de-l-ordre-parviendront-a-eviter-les-debordements-20261030",
      "resume": "",
@@ -53,12 +45,20 @@
      "image": null
     },
     {
-     "titre": "« Nous n’avons plus besoin de votre système pourri pour nous exprimer » : quand Jean-Luc Mélenchon déclare la guerre aux médias",
-     "lien": "https://www.lefigaro.fr/actualite-france/nous-n-avons-plus-besoin-de-votre-systeme-pourri-pour-nous-exprimer-lfi-et-les-medias-extension-du-domaine-de-la-conflictualisation-20261030",
-     "resume": "RÉCIT - Les attaques du fondateur de LFI contre les médias se multiplient, s’intensifient et se diversifient, contribuant à alimenter un climat de défiance généralisée.",
-     "date": "2026-10-30T20:15:35+01:00",
+     "titre": "«Aucune révolution ne s’est faite dans la douceur» : après des propos jugés «illicites» sur les émeutes du 17 octobre, ces influenceurs dans le viseur des autorités",
+     "lien": "https://www.lefigaro.fr/actualite-france/aucune-revolution-ne-s-est-faite-dans-la-douceur-apres-des-propos-juges-illicites-sur-les-emeutes-du-17-octobre-ces-influenceurs-dans-le-viseur-des-autorites-20261031",
+     "resume": "ENQUÊTE - Plusieurs influenceurs ont été placés en garde à vue pour des propos tenus en ligne en marge des mobilisations. En renforçant la surveillance des contenus numériques pour prévenir de nouvelles violences, le gouvernement s’attire des critiques,…",
+     "date": "2026-10-31T07:00:00+01:00",
      "source": "",
-     "image": "https://i.f1g.fr/media/cms/3000x1688_crop/2026/10/30/ad06b0f2254ac88b5e5d1b23483518587ec8f26336adeff4f9523349eac629de.jpg"
+     "image": "https://i.f1g.fr/media/cms/1918x1079_crop/2026/10/30/e1e66a6d329d36321f4a96893d2a4d2210618b9b19f3a1c65f6fc0b68a556555.jpg"
+    },
+    {
+     "titre": "« Acte III » des manifestations : un nouveau samedi de tous les dangers pour l’exécutif",
+     "lien": "https://www.lefigaro.fr/actualite-france/acte-iii-des-manifestations-un-nouveau-samedi-de-tous-les-dangers-pour-l-executif-20261030",
+     "resume": "DÉCRYPTAGE - La troisième journée de mobilisation nationale, ce samedi 31 octobre, est considérée « à risque très élevé » par le ministère de l’Intérieur.",
+     "date": "2026-10-30T18:55:11+01:00",
+     "source": "",
+     "image": "https://i.f1g.fr/media/cms/3000x2001_crop/2026/10/30/7d555ad84efe5a547f7601bba314d31882b62c3e80c48947b0f546cadc73042a.jpg"
     }
    ],
    "flux_utilise": "https://www.lefigaro.fr/rss/figaro_actualites.xml"
@@ -77,7 +77,7 @@
      "titre": "Mobilisation sociale : six semaines d’un mouvement aussi actif sur les réseaux sociaux que dans la rue",
      "lien": "https://www.lemonde.fr/politique/article/2026/10/31/mobilisation-sociale-six-semaines-d-un-mouvement-aussi-actif-sur-les-reseaux-sociaux-que-dans-la-rue_6803368_823448.html",
      "resume": "L’ampleur de la mobilisation en ligne semble avoir initialement échappé au gouvernement, qui menace désormais les réseaux sociaux d’une suspension temporaire en cas de nouvelles violences. Le projet de loi dit « casseurs-payeurs », adopté en milieu de…",
-     "date": "2026-10-31T04:45:08+01:00",
+     "date": "2026-10-31T04:45:06+01:00",
      "source": "",
      "image": "https://img.lemde.fr/2026/10/25/264/0/4500/2250/644/322/60/0/140101e_upload-1-uj42oy0weytb-2224102026-dscf5354-acteii-manifestation-carrot.jpg"
     },
@@ -92,8 +92,8 @@
     {
      "titre": "Derrière les attaques de Benyamin Nétanyahou contre les partis arabes, la vision raciste de la droite israélienne",
      "lien": "https://www.lemonde.fr/international/article/2026/10/31/derriere-les-attaques-de-benyamin-netanyahou-contre-les-partis-arabes-la-vision-raciste-de-la-droite-israelienne_6803373_3210.html",
-     "resume": "Privé de majorité à la Knesset à l’issue des législatives du 27 octobre, Benyamin Nétanyahou cherche à disqualifier le vote arabe, désormais décisif. Après la tentative d’exclure les listes arabes du scrutin, le Likoud conteste les résultats en multipliant…",
-     "date": "2026-10-31T05:00:25+01:00",
+     "resume": "Privé de majorité à la Knesset à l’issue des législatives du 27 octobre, le premier ministre israélien cherche à disqualifier le vote arabe, désormais décisif. Après la tentative d’exclure les listes arabes du scrutin, le Likoud conteste les résultats en…",
+     "date": "2026-10-31T05:00:19+01:00",
      "source": "",
      "image": "https://img.lemde.fr/2026/10/27/24/0/5500/2750/644/322/60/0/4b9d7ec_ftp-1-k0huazdobtn5-2026-10-27t090217z-325265402-rc2kboakonqo-rtrmadp-3-israel-election.JPG"
     },
@@ -117,7 +117,7 @@
      "titre": "Après le rapprochement inédit entre le Canada et l’UE, les premières retombées concrètes",
      "lien": "https://www.lemonde.fr/international/article/2026/10/31/apres-le-rapprochement-inedit-entre-le-canada-et-l-ue-les-premieres-retombees-concretes_6803372_3210.html",
      "resume": "A l’issue d’un sommet de deux jours à Montréal, les dirigeants de l’Union européenne et le premier ministre canadien ont annoncé des mesures sur Erasmus, les virements de fonds instantanés, un accord sur le commerce numérique, sur les matériaux critiques et…",
-     "date": "2026-10-31T05:00:16+01:00",
+     "date": "2026-10-31T05:00:07+01:00",
      "source": "",
      "image": "https://img.lemde.fr/2026/10/30/414/0/4967/2483/644/322/60/0/c1e3e18_ftp-1-rub3o86c2x5o-2026-10-30t190749z-1002562818-rc2rdoakvn63-rtrmadp-3-canada-eu.JPG"
     }
@@ -129,11 +129,35 @@
    "nom": "La Croix",
    "couleur": "#c8102e",
    "une": {
-    "fichier": "unes/croix.webp",
+    "fichier": "unes/croix.jpg",
     "date": "2026-10-31",
-    "source": "https://www.frontpages.com/t/2026/10/31/la-croix-063656p0y@2x.webp"
+    "source": "https://img.kiosko.net/2026/10/31/fr/lacroix.750.jpg"
    },
    "articles": [
+    {
+     "titre": "Voile, communion à genoux ou dans la main : Rome met en garde contre les « extrémismes » liturgiques",
+     "lien": "https://www.la-croix.com/religion/voile-communion-a-genoux-ou-dans-la-main-rome-met-en-garde-contre-les-extremismes-liturgiques-20261030",
+     "resume": "Dans le compte rendu de sa rencontre avec les évêques du Panama, le dicastère pour le culte divin a glissé un discret rappel à l’unité, au moment où les conservateurs attendent de Léon XIV un changement de ligne. La Croix vous emmène dans les coulisses du…",
+     "date": "2026-10-31T07:45:04+01:00",
+     "source": "",
+     "image": "https://i.la-croix.com/x/2026/10/16/2564089-mikael-corre-envoye-special-permanent-a-rome.jpg"
+    },
+    {
+     "titre": "« Manon Lescaut » au Théâtre des Champs-Élysées : pourquoi l’héroïne continue-t-elle de nous fasciner ?",
+     "lien": "https://www.la-croix.com/culture/manon-lescaut-au-theatre-des-champs-elysees-pourquoi-l-heroine-continue-t-elle-de-nous-fasciner-20261030",
+     "resume": "Imaginée par l’abbé Prévost en 1731, la figure séduisante, tendre mais volage de Manon Lescaut, dont la version opératique se joue au Théâtre des Champs-Élysées, à Paris, du 2 au 15 novembre, connut ensuite une fortune remarquable sur les scènes et les…",
+     "date": "2026-10-31T07:30:21+01:00",
+     "source": "",
+     "image": "https://i.la-croix.com/x/2026/10/30/2575432-roberto-alagna-et-ailyn-perez-dans-manon-lescaut-j.jpg"
+    },
+    {
+     "titre": "Sénégal : aux JO de la jeunesse à Dakar, le sport féminin veut se faire une place",
+     "lien": "https://www.la-croix.com/international/senegal-aux-jo-de-la-jeunesse-a-dakar-le-sport-feminin-veut-se-faire-une-place-20261030",
+     "resume": "Près de 2700 athlètes de 14 à 17 ans sont attendus au Sénégal, samedi 31 octobre 2026, pour les Jeux olympiques de la Jeunesse (JOJ), premier événement olympique sur le continent africain. Ces JOJ sont aussi les premiers totalement paritaires, dans un pays…",
+     "date": "2026-10-31T07:08:03+01:00",
+     "source": "",
+     "image": "https://i.la-croix.com/x/2026/10/30/2576507-ndeye-sarr-du-senegal-lors-d-un-match-de-baseball5.jpg"
+    },
     {
      "titre": "Manifestations en France : l’usage du gaz lacrymogène pose de nombreuses questions",
      "lien": "https://www.la-croix.com/societe/manifestations-en-france-l-usage-du-gaz-lacrymogene-pose-de-nombreuses-questions-20261030",
@@ -157,30 +181,6 @@
      "date": "2026-10-30T22:22:37+01:00",
      "source": "",
      "image": "https://i.la-croix.com/x/2026/10/30/2576821-le-maire-de-trappes-ali-rabeh-lors-du-rassemblemen.jpg"
-    },
-    {
-     "titre": "Guerre au Moyen-Orient : une délégation qatarienne à Téhéran... Le bilan du vendredi 30 octobre",
-     "lien": "https://www.la-croix.com/international/direct-guerre-iran-israel-usa-jour-130-moyen-orient-bilan-resume-aujourdhui-20261030",
-     "resume": "Une délégation qatarienne est arrivée à Téhéran pour des « discussions » avec des responsables iraniens. L’Arabie saoudite assure avoir intercepté un drone houthiste près de La Mecque. Suivez l’actualité du conflit au Moyen-Orient de ce vendredi 30 octobre.",
-     "date": "2026-10-30T21:31:36+01:00",
-     "source": "",
-     "image": "https://i.la-croix.com/x/2026/10/30/2576412-un-chameau-devant-un-panneau-d-affichage-numerique.jpg"
-    },
-    {
-     "titre": "Guerre en Ukraine : ce qu’il faut retenir de la situation du vendredi 30 octobre",
-     "lien": "https://www.la-croix.com/international/ukraine-russie-jour-1710-point-conflit-ukrainien-poutine-aujourdhui-20261030",
-     "resume": "L’opération humanitaire à Olechky, dans le sud de l’Ukraine, où un cessez-le-feu est en vigueur depuis plus de trois jours, est terminée. Le ministre des affaires étrangères russe est arrivé aux États-Unis pour participer au G20. Suivez l’actualité de la…",
-     "date": "2026-10-30T21:30:48+01:00",
-     "source": "",
-     "image": "https://i.la-croix.com/x/2026/10/30/2576238-un-policier-ukrainien-passe-devant-un-bus-municipa.jpg"
-    },
-    {
-     "titre": "COP17 : les États adoptent dans les prolongations plusieurs textes clés pour protéger la nature",
-     "lien": "https://www.la-croix.com/planete/cop17-les-etats-adoptent-dans-les-prolongations-plusieurs-textes-cles-pour-proteger-la-nature-20261030",
-     "resume": "À l’issue de longues négociations, les États membres de la COP17 ont adopté vendredi 30 octobre plusieurs textes clés sur la protection de la nature dans la soirée.",
-     "date": "2026-10-30T21:28:31+01:00",
-     "source": "",
-     "image": "https://i.la-croix.com/x/2026/10/30/2576807-les-etats-membres-de-la-cop17-ont-adopte-vendredi-.jpg"
     }
    ],
    "flux_utilise": "https://www.la-croix.com/feeds/rss/site.xml"
@@ -190,58 +190,58 @@
    "nom": "L'Équipe",
    "couleur": "#e2001a",
    "une": {
-    "fichier": "unes/equipe.webp",
+    "fichier": "unes/equipe.jpg",
     "date": "2026-10-31",
-    "source": "https://www.frontpages.com/t/2026/10/31/l-equipe-0049317lf@2x.webp"
+    "source": "https://img.kiosko.net/2026/10/31/fr/l_equip.750.jpg"
    },
    "articles": [
     {
-     "titre": "Lionel Messi a voté pour Ibrahim Maza au trophée de meilleur jeune de la saison",
-     "lien": "https://www.lequipe.fr/Football/Actualites/Lionel-messi-a-vote-pour-ibrahim-maza-au-trophee-de-meilleur-jeune-de-la-saison/1739895#at_medium=RSS_feeds",
-     "resume": "Le milieu algérien de Leverkusen a terminé neuvième au classement du trophée de meilleur jeune de la saison avec un seul point, obtenu grâce à Lionel Messi, qui l'a placé troisième de son classement.",
-     "date": "2026-10-31T06:30:00+01:00",
+     "titre": "Le résumé vidéo de Mavericks - Rockets avec les 35 points d'Irving",
+     "lien": "https://www.lequipe.fr/Basket/Video/Nba-nba-le-resume-video-de-dallas-mavericks-houston-rockets-avec-les-35-points-de-kyrie-irving/20244524#at_medium=RSS_feeds",
+     "resume": "",
+     "date": "2026-10-31T07:10:00+01:00",
      "source": "",
-     "image": "https://medias.lequipe.fr/img-photo-jpg/lionel-messi-et-ibrahim-maza-lors-du-match-argentine-algerie-3-0-du-mondial-2026-f-faugere-l-equipe/1500000002637948/0:0,2000:1333-828-552-75/9617f.jpg"
+     "image": "https://medias.lequipe.fr/img-photo-png/-/1500000000833469/0-828-552-75/0cb67.png"
     },
     {
-     "titre": "Les frères Lebrun font toujours recette et remplissent les travées du Champions de Montpellier : « Ça nous assure un nombre de places vendues incroyable »",
-     "lien": "https://www.lequipe.fr/Tennis-de-table/Actualites/Les-freres-lebrun-font-toujours-recette-et-remplissent-les-travees-du-champions-de-montpellier-ca-nous-assure-un-nombre-de-places-vendues-incroyable/1739839#at_medium=RSS_feeds",
-     "resume": "Malgré la proximité de la Coupe du monde, organisée au même endroit dans cinq mois, la vente de billets n'a quasiment pas fléchi cette année, portée par la présence des Lebrun.",
-     "date": "2026-10-31T06:30:00+01:00",
+     "titre": "Le résumé vidéo de Heat - Pacers avec le triple-double d'Antetokounmpo",
+     "lien": "https://www.lequipe.fr/Basket/Video/Nba-nba-le-resume-video-de-miami-heat-indiana-pacers-avec-le-triple-double-de-giannis-antetokounmpo/20244522#at_medium=RSS_feeds",
+     "resume": "",
+     "date": "2026-10-31T07:07:00+01:00",
      "source": "",
-     "image": "https://medias.lequipe.fr/img-photo-jpg/l-engouement-du-public-pour-les-freres-lebrun-ici-felix-en-2024-ne-faiblit-pas-lors-du-champions-a-montpellier-e-garnier-l-equipe/1500000002637827/0:0,2000:1333-828-552-75/1d612.jpg"
+     "image": "https://medias.lequipe.fr/img-photo-png/-/1500000000833469/0-828-552-75/0cb67.png"
     },
     {
-     "titre": "Avec la blessure de Tyler Morton, Lyon perd un nouvel atout avant d'affronter Angers pour renouer avec la victoire",
-     "lien": "https://www.lequipe.fr/Football/Actualites/Avec-la-blessure-de-tyler-morton-lyon-perd-un-nouvel-atout-avant-de-tenter-de-renouer-avec-la-victoire/1739857#at_medium=RSS_feeds",
-     "resume": "Défait trois fois sur les cinq derniers matches, l'OL sera impacté par l'absence de quatre joueurs, dont Tyler Morton, pour la réception d'Angers ce dimanche (17 h 15).",
-     "date": "2026-10-31T06:30:00+01:00",
+     "titre": "Le résumé vidéo de 76ers - Knicks avec la performance de LeBron James",
+     "lien": "https://www.lequipe.fr/Basket/Video/Nba-nba-le-resume-video-de-philadelphia-76ers-new-york-knicks/20244521#at_medium=RSS_feeds",
+     "resume": "",
+     "date": "2026-10-31T07:02:00+01:00",
      "source": "",
-     "image": "https://medias.lequipe.fr/img-photo-jpg/tyler-morton-salue-son-entraineur-paulo-fonseca-en-quittant-le-terrain-le-19-septembre-contre-rennes-4-0-p-lahalle-l-equipe/1500000002637858/0:0,2000:1333-828-552-75/de0a7.jpg"
+     "image": "https://medias.lequipe.fr/img-photo-png/-/1500000000833469/0-828-552-75/0cb67.png"
     },
     {
-     "titre": "Une intelligence de jeu qui saute aux yeux : l'inattendu Edan Diop peut-il bouleverser la hiérarchie des milieux de terrain à Monaco ?",
-     "lien": "https://www.lequipe.fr/Football/Actualites/Une-intelligence-de-jeu-qui-saute-aux-yeux-l-inattendu-edan-diop-peut-il-bouleverser-la-hierarchie-des-milieux-de-terrain-a-monaco/1739786#at_medium=RSS_feeds",
-     "resume": "À 22 ans, le milieu de terrain s'affirme comme une alternative crédible dans le milieu monégasque. De là à bouleverser la hiérarchie ?",
-     "date": "2026-10-31T06:25:00+01:00",
+     "titre": "« Une bombe technique, mais il fallait aller le chercher à l'entraînement » : l'insaisissable Lucas Calodat, une personnalité à part qui revit au Mans FC",
+     "lien": "https://www.lequipe.fr/Football/Article/-une-bombe-technique-mais-il-fallait-aller-le-chercher-a-l-entrainement-l-insaisissable-lucas-calodat-une-personnalite-a-part-qui-revit-au-mans-fc/1739762#at_medium=RSS_feeds",
+     "resume": "Doté d'un pied gauche redoutable et de qualités techniques évidentes, Lucas Calodat s'est imposé comme l'un des atouts offensifs du Mans FC, qui affronte Troyes ce samedi soir (20 h 45, sur Ligue 1+, disponible avec L'Équipe). Mais sa personnalité…",
+     "date": "2026-10-31T07:00:00+01:00",
      "source": "",
-     "image": "https://medias.lequipe.fr/img-photo-jpg/edan-diop-lors-du-match-de-championnat-contre-toulouse-2-2-le-10-octobre-j-b-autissier-l-equipe/1500000002637716/0:0,2000:1333-828-552-75/57515.jpg"
+     "image": "https://medias.lequipe.fr/img-photo-png/-/1500000000833469/0-828-552-75/0cb67.png"
     },
     {
-     "titre": "Inarrêtable meilleur buteur de Bundesliga, Niclas Füllkrug revit depuis son retour au Werder Brême après trois années d'échec et postule pour la sélection",
-     "lien": "https://www.lequipe.fr/Football/Actualites/Inarretable-meilleur-buteur-de-bundesliga-niclas-fullkrug-revit-depuis-son-retour-au-werder-breme-apres-trois-annees-d-echec-et-postule-pour-la-selection/1739853#at_medium=RSS_feeds",
-     "resume": "De retour au Werder Brême, son club formateur, après s'être égaré à l'AC Milan et à West Ham, Niclas Füllkrug est en tête du classement des buteurs de la Bundesliga. À 33 ans, il rêve d'un retour en équipe d'Allemagne.",
-     "date": "2026-10-31T06:25:00+01:00",
+     "titre": "Le résumé vidéo de Warriors - Lakers avec les 31 points de Curry",
+     "lien": "https://www.lequipe.fr/Basket/Video/Nba-nba-le-resume-video-de-golden-state-warriors-los-angeles-lakers-avec-les-31-points-de-stephen-curry/20244520#at_medium=RSS_feeds",
+     "resume": "",
+     "date": "2026-10-31T07:00:00+01:00",
      "source": "",
-     "image": "https://medias.lequipe.fr/img-photo-jpg/niclas-fuellkrug-a-inscrit-le-but-egalisateur-a-la-90e-2-sur-la-pelouse-du-borussia-dortmund-2-2-son-ancien-club-le-9-octobre-alamy-stock-photo-icon-sport/1500000002637855/0:0,2000:1333-828-552-75/ca455.jpg"
+     "image": "https://medias.lequipe.fr/img-photo-png/-/1500000000833469/0-828-552-75/0cb67.png"
     },
     {
-     "titre": "Le détail des votes des anciens lauréats pour les jeunes talents de la saison 2026 : Lamine Yamal sur le fil, Vicky Lopez dans un fauteuil",
-     "lien": "https://www.lequipe.fr/France-Football/Actualites/Le-detail-des-votes-pour-les-jeunes-talents-de-la-saison-2026-lamine-yamal-sur-le-fil-vicky-lopez-dans-un-fauteuil/1739771#at_medium=RSS_feeds",
-     "resume": "Comme l'an dernier, le FC Barcelone réalise le carton plein. Lamine Yamal remporte son troisième trophée de meilleur jeune de la saison. Pourtant, cette fois, son compatriote et coéquipier, Pau Cubarsi, a contesté jusqu'au bout sa suprématie. Vicky Lopez,…",
-     "date": "2026-10-31T06:15:00+01:00",
+     "titre": "Testez vos connaissances sportives",
+     "lien": "https://www.lequipe.fr/jeux#at_medium=RSS_feeds",
+     "resume": "",
+     "date": "2026-10-31T06:50:00+01:00",
      "source": "",
-     "image": "https://medias.lequipe.fr/img-photo-jpg/le-triomphe-de-la-jeunesse-barcelonaise-lamine-yamal-et-vicky-lopez-montage-d-apres-photos-franck-faugere-l-equipe/1500000002637688/308:164,1934:1248-828-552-75/8b7cf.jpg"
+     "image": "https://medias.lequipe.fr/img-photo-png/-/1500000000833469/0-828-552-75/0cb67.png"
     }
    ],
    "flux_utilise": "https://dwh.lequipe.fr/api/edito/rss?path=/"
@@ -260,18 +260,18 @@
      "date": "2026-10-31T06:00:27+01:00",
      "source": "lemonde.fr",
      "image": "https://img.lemde.fr/2026/10/27/417/0/5079/2539/644/322/60/0/ed55bc4_upload-1-yah3pypiz6wt-2026-10-22-otouron-arizona-midterms-035.jpg",
-     "reprises": 6,
-     "score": 16.78
+     "reprises": 4,
+     "score": 12.07
     },
     {
      "titre": "EN DIRECT, guerre en Ukraine : Washington approuve la vente de 500 missiles Patriot à Kiev",
      "lien": "https://www.lemonde.fr/international/live/2026/10/30/en-direct-guerre-en-ukraine-washington-approuve-la-vente-de-500-missiles-patriot-a-kiev_6799896_3210.html",
-     "resume": "Cette vente d’armement, équivalente à plus de 2 milliards de dollars, doit être entérinée par le Congrès américain. Mais le président ukrainien s’inquiète de la date de livraison des missiles, qui pourrait être « dans quelques années ».",
+     "resume": "Cette vente d’armement, de plus de 2 milliards de dollars, doit être entérinée par le Congrès américain. Mais le président ukrainien s’inquiète de la date de la livraison des missiles, qui pourrait avoir lieu « dans quelques années ».",
      "date": "2026-10-30T23:58:56+01:00",
      "source": "lemonde.fr",
      "image": "https://img.lemde.fr/2026/10/27/1261/0/7551/3775/644/322/60/0/77084ec_ftp-1-vt1aeohwurhw-2026-10-27t171420z-90842872-rc2mrbaw68ni-rtrmadp-3-poland-defence-patriot-maintenance.JPG",
-     "reprises": 4,
-     "score": 9.03
+     "reprises": 5,
+     "score": 10.73
     },
     {
      "titre": "JOJ 2026 : Dakar en fête pour le dernier relais de la flamme 🇸🇳🔥",
@@ -280,38 +280,38 @@
      "date": "2026-10-31T02:18:49+01:00",
      "source": "france24.com",
      "image": "https://s.france24.com/media/display/cdec0da4-d4c6-11f1-8fc6-695cb59fade5/w:1024/p:16x9/d%C3%A9rush-flamme-00-00-13-13-Still001.jpg",
-     "reprises": 1,
-     "score": 8.45
+     "reprises": 2,
+     "score": 10.33
+    },
+    {
+     "titre": "Sahara occidental : le mandat de la mission de l’ONU n’a pas été renouvelé",
+     "lien": "https://www.lemonde.fr/international/article/2026/10/31/sahara-occidental-le-mandat-de-la-mission-de-l-onu-n-a-pas-ete-renouvele_6803301_3210.html",
+     "resume": "La Russie a opposé son veto, vendredi, à un projet de résolution américain visant à prolonger la Minurso pour un an et plaçant le plan d’autonomie marocain au centre du règlement de ce conflit, qui oppose depuis cinquante ans Rabat aux indépendantistes du…",
+     "date": "2026-10-31T02:48:21+01:00",
+     "source": "lemonde.fr",
+     "image": "https://img.lemde.fr/2026/10/31/537/0/5166/2583/644/322/60/0/4a3b3b6_upload-1-f3rux51bo1qy-000-8vv7zz.jpg",
+     "reprises": 4,
+     "score": 9.65
     },
     {
      "titre": "Après le rapprochement inédit entre le Canada et l’UE, les premières retombées concrètes",
      "lien": "https://www.lemonde.fr/international/article/2026/10/31/apres-le-rapprochement-inedit-entre-le-canada-et-l-ue-les-premieres-retombees-concretes_6803372_3210.html",
      "resume": "A l’issue d’un sommet de deux jours à Montréal, les dirigeants de l’Union européenne et le premier ministre canadien ont annoncé des mesures sur Erasmus, les virements de fonds instantanés, un accord sur le commerce numérique, sur les matériaux critiques et…",
-     "date": "2026-10-31T05:00:16+01:00",
+     "date": "2026-10-31T05:00:07+01:00",
      "source": "lemonde.fr",
      "image": "https://img.lemde.fr/2026/10/30/414/0/4967/2483/644/322/60/0/c1e3e18_ftp-1-rub3o86c2x5o-2026-10-30t190749z-1002562818-rc2rdoakvn63-rtrmadp-3-canada-eu.JPG",
      "reprises": 4,
-     "score": 7.27
+     "score": 7.97
     },
     {
-     "titre": "Accident ferroviaire en Espagne : les familles dans une attente angoissante",
-     "lien": "https://www.france24.com/fr/vid%C3%A9o/20261030-accident-ferroviaire-en-espagne-les-familles-dans-une-attente-angoissante",
-     "resume": "L'Espagne a intensifié vendredi 30 octobre le travail d'identification des victimes de la collision de deux trains qui a fait au moins 69 morts mercredi 28 octobre, afin de répondre à l'angoisse des familles restant sans nouvelles de leurs proches. Le…",
-     "date": "2026-10-30T17:02:49+01:00",
-     "source": "france24.com",
-     "image": "https://s.france24.com/media/display/0bd20220-d479-11f1-9cfc-d18c5759e759/w:1024/p:16x9/FR-20261030-161228-161429-CS.jpg",
-     "reprises": 4,
-     "score": 6.88
-    },
-    {
-     "titre": "Une Française fait partie des victimes dans l'effondrement d'une colonne rocheuse en Turquie",
-     "lien": "https://www.franceinfo.fr/monde/turquie/une-francaise-fait-partie-des-victimes-dans-l-effondrement-d-une-colonne-rocheuse-en-turquie_8260661.html#xtor=RSS-3-%5Bgeneral%5D",
-     "resume": "Au moins trois personnes ont perdu la vie jeudi dans l'éboulement d'une colonne de pierre dans la vallée des cheminées de fées, en Cappadoce.",
-     "date": "2026-10-30T16:52:26+01:00",
-     "source": "franceinfo.fr",
-     "image": "https://www.franceinfo.fr/pictures/Zcp0fxfeaCZ7do-LRNvV2PtqfIg/0x0:1080x607/432x243/filters:format(jpg)/2026/10/30/6ae4bb0dd1be0075190626.jpg",
+     "titre": "EN DIRECT, midterms 2026 : retrouvez les dernières informations à quelques jours des élections",
+     "lien": "https://www.lemonde.fr/international/live/2026/10/31/en-direct-midterms-2026-retrouvez-les-dernieres-informations-a-quelques-jours-des-elections_6801590_3210.html",
+     "resume": "Lors d’un meeting en Floride, vendredi soir, Donald a de nouveau promis 5 000 dollars à chaque Américain en cas de victoire des républicains aux élections, malgré les interrogations sur la légalité d’une telle mesure et sur son financement.",
+     "date": "2026-10-31T06:56:56+01:00",
+     "source": "lemonde.fr",
+     "image": "https://img.lemde.fr/2026/10/31/468/0/5616/2808/644/322/60/0/56c575c_ftp-1-hps1njt6em2l-6e6f6933cbb2443d8a195beb5d3e68f5-0-3e568de4bd234076907bff5318e993d8.jpg",
      "reprises": 3,
-     "score": 6.36
+     "score": 7.27
     }
    ],
    "a_traduire": []
@@ -328,18 +328,8 @@
      "date": "2026-10-30T20:34:56+01:00",
      "source": "Libération",
      "image": null,
-     "reprises": 5,
-     "score": 8.44
-    },
-    {
-     "titre": "OpenAI réduit son objectif de levée de fonds de 10 milliards $ à 20 milliards $",
-     "lien": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPZWNLMU1rVnhOdl9GS1RBN0tJZFlUWXR3Y1JIVS1fMGUxdWpMdHZLQWs3a1p0YWVycFZlZGpnSEY1RWVKTVlLeHlWUUJqMkNNUTJmX1NWc0g2OFdONTlMYUp5X3NGVVQ1eXBwZ1NzOXFqWTZBX0hqNVhyb2ROV05MNUpfUFJTUDdWZHpRMVR3NFllMjBEbEY4MzNnWHFGRERNaUtaeXAtVW42UzdiUlhmQ2pNMDVpNXFtX2xRM0Y5RFI0cGtMcUlZ?oc=5",
-     "resume": "",
-     "date": "2026-10-31T02:20:00+01:00",
-     "source": "Investing.com France",
-     "image": null,
      "reprises": 4,
-     "score": 7.04
+     "score": 6.47
     },
     {
      "titre": "Anthropic : Blackstone prévoit une note BB après l'IPO",
@@ -349,7 +339,7 @@
      "source": "Brief IA",
      "image": null,
      "reprises": 3,
-     "score": 4.45
+     "score": 4.38
     },
     {
      "titre": "IA : OpenAI, Google, Microsoft et Anthropic promettent aux médias un bouton anti-aspiration de leur contenu",
@@ -359,7 +349,17 @@
      "source": "Le Figaro",
      "image": null,
      "reprises": 2,
-     "score": 3.24
+     "score": 3.28
+    },
+    {
+     "titre": "OpenAI réduit son objectif de levée de fonds de 10 milliards $ à 20 milliards $",
+     "lien": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPZWNLMU1rVnhOdl9GS1RBN0tJZFlUWXR3Y1JIVS1fMGUxdWpMdHZLQWs3a1p0YWVycFZlZGpnSEY1RWVKTVlLeHlWUUJqMkNNUTJmX1NWc0g2OFdONTlMYUp5X3NGVVQ1eXBwZ1NzOXFqWTZBX0hqNVhyb2ROV05MNUpfUFJTUDdWZHpRMVR3NFllMjBEbEY4MzNnWHFGRERNaUtaeXAtVW42UzdiUlhmQ2pNMDVpNXFtX2xRM0Y5RFI0cGtMcUlZ?oc=5",
+     "resume": "",
+     "date": "2026-10-31T02:20:00+01:00",
+     "source": "Investing.com France",
+     "image": null,
+     "reprises": 2,
+     "score": 3.18
     },
     {
      "titre": "ChatGPT Pro : face à la polémique, OpenAI renonce à amputer l’abonnement",
@@ -381,7 +381,7 @@
      "source": "techcrunch.com",
      "image": null,
      "reprises": 1,
-     "score": 1.52
+     "score": 1.51
     },
     {
      "titre": "The biggest names in AI are backing a new way to opt out of scraping",
@@ -391,7 +391,7 @@
      "source": "theverge.com",
      "image": null,
      "reprises": 1,
-     "score": 1.44
+     "score": 1.43
     },
     {
      "titre": "Making it easier for websites to express AI training preferences",
@@ -401,7 +401,7 @@
      "source": "OpenAI",
      "image": null,
      "reprises": 1,
-     "score": 1.44
+     "score": 1.42
     },
     {
      "titre": "Anthropic expected to receive high ‘junk’ rating from credit agencies following IPO, FT report says",
@@ -411,7 +411,7 @@
      "source": "techcrunch.com",
      "image": null,
      "reprises": 1,
-     "score": 1.33
+     "score": 1.32
     },
     {
      "titre": "Google’s satellite AI server transmits its first response to Earth",
@@ -421,7 +421,7 @@
      "source": "theverge.com",
      "image": null,
      "reprises": 1,
-     "score": 1.28
+     "score": 1.26
     }
    ]
   },
@@ -431,15 +431,26 @@
    "sous_titre": "Libertés fondamentales, grandes juridictions, culture juridique pour le CRFPA",
    "items": [
     {
-     "titre": "Manifestation du 31 octobre : le Conseil d'État annule la décision du tribunal administratif, le cortège ira de Bagnolet à Charenton",
+     "titre": "Manifestation du 31 octobre : le Conseil d'État annule la décision du tribunal administratif, le cortège à Paris ira de Bagnolet à Charenton",
      "lien": "https://news.google.com/rss/articles/CBMihAJBVV95cUxQTm1LbmNXLXh5OGdKcW4tX1BrRmZBR3FueTluNlN4MnhDQmRmeW9JTjhHb3BGVE1NUmlpZ2V0aktVN3dZVW42N3k1bkIweWdhUHJUdm5GRjk0QWRjUTBxS0N1RWJ4YU5MdmhVZUJZUkdmQkxkZE5DRWxpYmJ4TlNvZFBBOTEwZVBjRktfX1VkTkxnQmtnWFpBWklIQjRJalJqNGJjME5WdFNTOFVCVFFyZTlrbXdoSmlBR3BWeGhXYTdjWkdNOEcyNDRFSnRuUnZvcG1DeFlCU2dCeWdsallEbE96ZlJoTUNLY3VRd2ZRdGdmdDhwekxQcDdfTGwwY21oWTB5VA?oc=5",
      "resume": "",
-     "date": "2026-10-31T06:13:45+01:00",
+     "date": "2026-10-31T07:36:00+01:00",
      "source": "RTL",
      "image": null,
-     "reprises": 13,
-     "score": 27.89,
+     "reprises": 18,
+     "score": 41.67,
      "libertes": true
+    },
+    {
+     "titre": "Marine Le Pen est-elle vraiment inéligible à l'élection présidentielle, comme l'affirme un magistrat honoraire de la Cour de cassation",
+     "lien": "https://news.google.com/rss/articles/CBMi4wJBVV95cUxNTHBGUl9GdnR3eWZzN3BsdXIwQS14TTBYRVhzbGlSVS1BcjFDT1hzcW9pdUN1WWhnTFNTYUFFVDRsX3dOc2tEVVhYNWxoN2xXNnZVR0gyQ2dIN0xjcmJoQkZGNkxfWUpZR2dnSlNGdDV1a2F6cVRBeTNtYmNWZDF0Qkp3WW9KQWMtMjdZcFFQYUpsaGd3YXVodXFDRlNhYktOa0U4TFdZZjY4Wk0zeGpKVERuTDlPVlQzRFFCcS1fTGFtQWFtLXBWd2luLUxyS1dwR2c0b2lxSnpuUzBsb3hYeWxtZXNOQzdqa3UtYUFmcWp6WnpsbHZkSll2X3ZiWk1kOHZ4QUJ6QlZpOTlzTEdGRkRnX0NqR1gwbHhzVWg3Q1d2TklmckJDZnZPVi0xV25ESHVOUHJkYzJtVDNpTkxFQTZ0ejFiV19aNjhaYm44T21YX0xTcUxkZDhtelgwT2dNeVZR?oc=5",
+     "resume": "",
+     "date": "2026-10-30T13:03:48+01:00",
+     "source": "franceinfo",
+     "image": null,
+     "reprises": 4,
+     "score": 15.28,
+     "libertes": false
     },
     {
      "titre": "Pour sauver la fonction publique de carrière, le vice-président du Conseil d’État appelle à changer les “règles sclérosantes”",
@@ -449,18 +460,7 @@
      "source": "Acteurs Publics",
      "image": null,
      "reprises": 7,
-     "score": 14.62,
-     "libertes": false
-    },
-    {
-     "titre": "Marine Le Pen est-elle vraiment inéligible à l'élection présidentielle, comme l'affirme un magistrat honoraire de la Cour de cassation",
-     "lien": "https://news.google.com/rss/articles/CBMi4wJBVV95cUxNTHBGUl9GdnR3eWZzN3BsdXIwQS14TTBYRVhzbGlSVS1BcjFDT1hzcW9pdUN1WWhnTFNTYUFFVDRsX3dOc2tEVVhYNWxoN2xXNnZVR0gyQ2dIN0xjcmJoQkZGNkxfWUpZR2dnSlNGdDV1a2F6cVRBeTNtYmNWZDF0Qkp3WW9KQWMtMjdZcFFQYUpsaGd3YXVodXFDRlNhYktOa0U4TFdZZjY4Wk0zeGpKVERuTDlPVlQzRFFCcS1fTGFtQWFtLXBWd2luLUxyS1dwR2c0b2lxSnpuUzBsb3hYeWxtZXNOQzdqa3UtYUFmcWp6WnpsbHZkSll2X3ZiWk1kOHZ4QUJ6QlZpOTlzTEdGRkRnX0NqR1gwbHhzVWg3Q1d2TklmckJDZnZPVi0xV25ESHVOUHJkYzJtVDNpTkxFQTZ0ejFiV19aNjhaYm44T21YX0xTcUxkZDhtelgwT2dNeVZR?oc=5",
-     "resume": "",
-     "date": "2026-10-30T13:03:48+01:00",
-     "source": "franceinfo",
-     "image": null,
-     "reprises": 3,
-     "score": 13.62,
+     "score": 14.25,
      "libertes": false
     },
     {
@@ -470,8 +470,8 @@
      "date": "2026-10-30T16:31:42+01:00",
      "source": "ACP | Agence Congolaise de Presse",
      "image": null,
-     "reprises": 4,
-     "score": 8.23,
+     "reprises": 3,
+     "score": 6.28,
      "libertes": false
     },
     {
@@ -482,7 +482,7 @@
      "source": "Europe 1",
      "image": null,
      "reprises": 2,
-     "score": 3.59,
+     "score": 3.57,
      "libertes": true
     },
     {
@@ -493,7 +493,7 @@
      "source": "https://horticulture-abadie-pyrenees.com/",
      "image": null,
      "reprises": 2,
-     "score": 2.71,
+     "score": 2.7,
      "libertes": true
     }
    ],
