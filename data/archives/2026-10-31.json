@@ -1,6 +1,6 @@
 {
  "date": "2026-10-31",
- "genere": "2026-10-31T06:18+01:00",
+ "genere": "2026-10-31T06:57+01:00",
  "journaux": [
   {
    "id": "figaro",
@@ -74,14 +74,6 @@
    },
    "articles": [
     {
-     "titre": "A Trappes, « l’espoir d’un réveil » des Français, alors que l’arrivée de l’extrême droite au pouvoir est dans toutes les têtes",
-     "lien": "https://www.lemonde.fr/politique/article/2026/10/31/a-trappes-l-espoir-d-un-reveil-des-francais-alors-que-l-arrivee-de-l-extreme-droite-au-pouvoir-est-dans-toutes-les-tetes_6803379_823448.html",
-     "resume": "L’émotion était palpable, vendredi, lors de la cérémonie organisée par Ali Rabeh, le maire (Génération.s) de la commune, une semaine après l’attaque terroriste qui a coûté la vie à une personne et en a blessé sept autres. L’édile était entouré de…",
-     "date": "2026-10-31T05:00:51+01:00",
-     "source": "",
-     "image": "https://img.lemde.fr/2026/10/31/627/0/6240/3120/644/322/60/0/58aa1bc_upload-1-tn9qrh5rpgrt-41-rassemblement-trappes-hleuqeux-dsc0704.jpg"
-    },
-    {
      "titre": "Mobilisation sociale : six semaines d’un mouvement aussi actif sur les réseaux sociaux que dans la rue",
      "lien": "https://www.lemonde.fr/politique/article/2026/10/31/mobilisation-sociale-six-semaines-d-un-mouvement-aussi-actif-sur-les-reseaux-sociaux-que-dans-la-rue_6803368_823448.html",
      "resume": "L’ampleur de la mobilisation en ligne semble avoir initialement échappé au gouvernement, qui menace désormais les réseaux sociaux d’une suspension temporaire en cas de nouvelles violences. Le projet de loi dit « casseurs-payeurs », adopté en milieu de…",
@@ -90,12 +82,12 @@
      "image": "https://img.lemde.fr/2026/10/25/264/0/4500/2250/644/322/60/0/140101e_upload-1-uj42oy0weytb-2224102026-dscf5354-acteii-manifestation-carrot.jpg"
     },
     {
-     "titre": "EN DIRECT, midterms 2026 : en Alaska, la campagne de la candidate démocrate Mary Peltola visée par une enquête",
-     "lien": "https://www.lemonde.fr/international/live/2026/10/31/en-direct-midterms-2026-en-alaska-la-campagne-de-la-candidate-democrate-mary-peltola-visee-par-une-enquete_6801590_3210.html",
-     "resume": "La démocrate est soupçonnée d’avoir tenté de manipuler le scrutin du 3 novembre en incitant un homonyme du sénateur républicain sortant, Dan Sullivan, à se présenter afin de lui siphonner des voix.",
-     "date": "2026-10-31T01:43:15+01:00",
+     "titre": "A Trappes, « l’espoir d’un réveil » des Français, alors que l’arrivée de l’extrême droite au pouvoir est dans toutes les têtes",
+     "lien": "https://www.lemonde.fr/politique/article/2026/10/31/a-trappes-l-espoir-d-un-reveil-des-francais-alors-que-l-arrivee-de-l-extreme-droite-au-pouvoir-est-dans-toutes-les-tetes_6803379_823448.html",
+     "resume": "L’émotion était palpable, vendredi, lors de la cérémonie organisée par Ali Rabeh, le maire (Génération.s) de la commune, une semaine après l’attaque terroriste qui a coûté la vie à une personne et en a blessé sept autres. L’édile était entouré de…",
+     "date": "2026-10-31T05:00:51+01:00",
      "source": "",
-     "image": "https://img.lemde.fr/2026/10/30/125/0/1800/900/644/322/60/0/f9b0cad_ftp-1-yfqtu7q0tnvi-ca2091c406ba456c8b99036830e4fde4-0-8cdb53c9a52a48d783edf69865fa645d.jpg"
+     "image": "https://img.lemde.fr/2026/10/31/627/0/6240/3120/644/322/60/0/58aa1bc_upload-1-tn9qrh5rpgrt-41-rassemblement-trappes-hleuqeux-dsc0704.jpg"
     },
     {
      "titre": "Derrière les attaques de Benyamin Nétanyahou contre les partis arabes, la vision raciste de la droite israélienne",
@@ -120,6 +112,14 @@
      "date": "2026-10-31T03:17:22+01:00",
      "source": "",
      "image": "https://img.lemde.fr/2026/10/30/478/0/5731/2865/644/322/60/0/ef0da66_ftp-1-btyzndemkbik-2026-10-30t153958z-146739235-rc2pdoa6bp0n-rtrmadp-3-usa-stocks.JPG"
+    },
+    {
+     "titre": "Après le rapprochement inédit entre le Canada et l’UE, les premières retombées concrètes",
+     "lien": "https://www.lemonde.fr/international/article/2026/10/31/apres-le-rapprochement-inedit-entre-le-canada-et-l-ue-les-premieres-retombees-concretes_6803372_3210.html",
+     "resume": "A l’issue d’un sommet de deux jours à Montréal, les dirigeants de l’Union européenne et le premier ministre canadien ont annoncé des mesures sur Erasmus, les virements de fonds instantanés, un accord sur le commerce numérique, sur les matériaux critiques et…",
+     "date": "2026-10-31T05:00:16+01:00",
+     "source": "",
+     "image": "https://img.lemde.fr/2026/10/30/414/0/4967/2483/644/322/60/0/c1e3e18_ftp-1-rub3o86c2x5o-2026-10-30t190749z-1002562818-rc2rdoakvn63-rtrmadp-3-canada-eu.JPG"
     }
    ],
    "flux_utilise": "https://www.lemonde.fr/rss/une.xml"
@@ -129,9 +129,9 @@
    "nom": "La Croix",
    "couleur": "#c8102e",
    "une": {
-    "fichier": "unes/croix.jpg",
-    "date": "2026-10-30",
-    "source": "https://img.kiosko.net/2026/10/30/fr/lacroix.750.jpg"
+    "fichier": "unes/croix.webp",
+    "date": "2026-10-31",
+    "source": "https://www.frontpages.com/t/2026/10/31/la-croix-063656p0y@2x.webp"
    },
    "articles": [
     {
@@ -196,52 +196,52 @@
    },
    "articles": [
     {
-     "titre": "28 points d'écart entre Kane et Mbappé, Lamine Yamal distancé, Putellas confortablement élue : retrouvez les classements masculins et féminins du Ballon d'Or 2026",
-     "lien": "https://www.lequipe.fr/France-Football/Actualites/28-points-d-ecart-entre-kane-et-mbappe-lamine-yamal-distance-putellas-confortablement-elue-retrouvez-les-classements-masculins-et-feminins-du-ballon-d-or-2026/1739755#at_medium=RSS_feeds",
-     "resume": "L'édition du Ballon d'Or 2026 a sacré l'Anglais Harry Kane chez les hommes et Alexia Putellas chez les femmes. Si l'ex-joueuse du FC Barcelone, aujourd'hui aux London City Lionesses, a remporté son troisième BO avec de la marge, cela a été beaucoup plus…",
-     "date": "2026-10-31T06:00:00+01:00",
+     "titre": "Lionel Messi a voté pour Ibrahim Maza au trophée de meilleur jeune de la saison",
+     "lien": "https://www.lequipe.fr/Football/Actualites/Lionel-messi-a-vote-pour-ibrahim-maza-au-trophee-de-meilleur-jeune-de-la-saison/1739895#at_medium=RSS_feeds",
+     "resume": "Le milieu algérien de Leverkusen a terminé neuvième au classement du trophée de meilleur jeune de la saison avec un seul point, obtenu grâce à Lionel Messi, qui l'a placé troisième de son classement.",
+     "date": "2026-10-31T06:30:00+01:00",
      "source": "",
-     "image": "https://medias.lequipe.fr/img-photo-jpg/alexia-putellas-et-harry-kane-le-26-octobre-sur-la-scene-du-london-palladium-theater-e-garnier-l-equipe/1500000002637674/0:0,2000:1333-828-552-75/81134.jpg"
+     "image": "https://medias.lequipe.fr/img-photo-jpg/lionel-messi-et-ibrahim-maza-lors-du-match-argentine-algerie-3-0-du-mondial-2026-f-faugere-l-equipe/1500000002637948/0:0,2000:1333-828-552-75/9617f.jpg"
     },
     {
-     "titre": "D'une idylle à un divorce acide, les retrouvailles s'annoncent électriques entre Thibault Giroud et l'UBB",
-     "lien": "https://www.lequipe.fr/Rugby/Article/D-une-idylle-a-un-divorce-acide-les-retrouvailles-s-annoncent-electriques-entre-thibault-giroud-et-l-ubb/1739922#at_medium=RSS_feeds",
-     "resume": "L'UBB retrouve ce samedi (16 h35) dans le camp bayonnais Thibault Giroud, le directeur de la performance qu'elle a licencié le mois dernier. Sur fond de tensions encore palpables entre les deux camps, après un an de conflit.",
-     "date": "2026-10-31T05:55:00+01:00",
+     "titre": "Les frères Lebrun font toujours recette et remplissent les travées du Champions de Montpellier : « Ça nous assure un nombre de places vendues incroyable »",
+     "lien": "https://www.lequipe.fr/Tennis-de-table/Actualites/Les-freres-lebrun-font-toujours-recette-et-remplissent-les-travees-du-champions-de-montpellier-ca-nous-assure-un-nombre-de-places-vendues-incroyable/1739839#at_medium=RSS_feeds",
+     "resume": "Malgré la proximité de la Coupe du monde, organisée au même endroit dans cinq mois, la vente de billets n'a quasiment pas fléchi cette année, portée par la présence des Lebrun.",
+     "date": "2026-10-31T06:30:00+01:00",
      "source": "",
-     "image": "https://medias.lequipe.fr/img-photo-jpg/thibault-giroud-et-tevita-tatafu-a-bayonne-e-drouinaud-photopqr-sud-ouest-maxppp/1500000002638000/232:93,1858:1177-828-552-75/e9298.jpg"
+     "image": "https://medias.lequipe.fr/img-photo-jpg/l-engouement-du-public-pour-les-freres-lebrun-ici-felix-en-2024-ne-faiblit-pas-lors-du-champions-a-montpellier-e-garnier-l-equipe/1500000002637827/0:0,2000:1333-828-552-75/1d612.jpg"
     },
     {
-     "titre": "Résultats sportifs enthousiasmants, guichets fermés qui s'enchaînent, audiences records... tous les voyants sont aux Verts pour l'AS Saint-Étienne",
-     "lien": "https://www.lequipe.fr/Football/Article/Resultats-sportifs-enthousiasmants-guichets-fermes-qui-s-enchainent-audiences-records-tous-les-voyants-sont-aux-verts-pour-l-as-saint-etienne/1739808#at_medium=RSS_feeds",
-     "resume": "Solide leader de L2, l'AS Saint-Étienne suscite un réel engouement, comme en témoignent sa popularité auprès du public, ses audiences télévisuelles et son rayonnement sur les réseaux sociaux.",
-     "date": "2026-10-31T05:50:00+01:00",
+     "titre": "Avec la blessure de Tyler Morton, Lyon perd un nouvel atout avant d'affronter Angers pour renouer avec la victoire",
+     "lien": "https://www.lequipe.fr/Football/Actualites/Avec-la-blessure-de-tyler-morton-lyon-perd-un-nouvel-atout-avant-de-tenter-de-renouer-avec-la-victoire/1739857#at_medium=RSS_feeds",
+     "resume": "Défait trois fois sur les cinq derniers matches, l'OL sera impacté par l'absence de quatre joueurs, dont Tyler Morton, pour la réception d'Angers ce dimanche (17 h 15).",
+     "date": "2026-10-31T06:30:00+01:00",
      "source": "",
-     "image": "https://medias.lequipe.fr/img-photo-jpg/les-magic-fans-ont-fait-exploser-geoffroy-guichard-pour-leurs-35-ans-lors-de-la-victoire-face-a-nantes-le-24-octobre-a-martin-l-equipe/1500000002637780/0:0,1873:1249-828-552-75/61a8f.jpg"
+     "image": "https://medias.lequipe.fr/img-photo-jpg/tyler-morton-salue-son-entraineur-paulo-fonseca-en-quittant-le-terrain-le-19-septembre-contre-rennes-4-0-p-lahalle-l-equipe/1500000002637858/0:0,2000:1333-828-552-75/de0a7.jpg"
     },
     {
-     "titre": "« Cette saison est la première véritable période difficile que je traverse » : George Russell, touché mais pas coulé, veut rebondir dès la saison prochaine",
-     "lien": "https://www.lequipe.fr/Formule-1/Article/-cette-saison-est-la-premiere-veritable-periode-difficile-que-je-traverse-battu-par-kimi-antonelli-en-2026-george-russell-veut-se-servir-de-cette-annee-pour-etre-encore-plus-fort-en-2027/1739832#at_medium=RSS_feeds",
-     "resume": "Avant le Grand Prix du Mexique ce week-end, l'équipier de Kimi Antonelli chez Mercedes, George Russell, a admis sa défaite mais espère profiter de cette saison pour revenir plus fort en 2027.",
-     "date": "2026-10-31T05:40:00+01:00",
+     "titre": "Une intelligence de jeu qui saute aux yeux : l'inattendu Edan Diop peut-il bouleverser la hiérarchie des milieux de terrain à Monaco ?",
+     "lien": "https://www.lequipe.fr/Football/Actualites/Une-intelligence-de-jeu-qui-saute-aux-yeux-l-inattendu-edan-diop-peut-il-bouleverser-la-hierarchie-des-milieux-de-terrain-a-monaco/1739786#at_medium=RSS_feeds",
+     "resume": "À 22 ans, le milieu de terrain s'affirme comme une alternative crédible dans le milieu monégasque. De là à bouleverser la hiérarchie ?",
+     "date": "2026-10-31T06:25:00+01:00",
      "source": "",
-     "image": "https://medias.lequipe.fr/img-photo-png/-/1500000000833469/0-828-552-75/0cb67.png"
+     "image": "https://medias.lequipe.fr/img-photo-jpg/edan-diop-lors-du-match-de-championnat-contre-toulouse-2-2-le-10-octobre-j-b-autissier-l-equipe/1500000002637716/0:0,2000:1333-828-552-75/57515.jpg"
     },
     {
-     "titre": "« Je veux utiliser ces cinq dernières courses comme une série de tests grandeur réelle » : pourquoi Lewis Hamilton est déjà tourné vers la saison 2027",
-     "lien": "https://www.lequipe.fr/Formule-1/Article/-je-veux-utiliser-ces-cinq-dernieres-courses-comme-une-serie-de-tests-grandeur-reelle-pourquoi-lewis-hamilton-est-deja-tourne-vers-la-saison-2027/1739815#at_medium=RSS_feeds",
-     "resume": "Pour le pilote britannique de la Scuderia Ferrari, Lewis Hamilton, ces dernières courses, comme celle au Mexique ce week-end, sont déjà une préparation pour la saison 2027.",
-     "date": "2026-10-31T05:30:00+01:00",
+     "titre": "Inarrêtable meilleur buteur de Bundesliga, Niclas Füllkrug revit depuis son retour au Werder Brême après trois années d'échec et postule pour la sélection",
+     "lien": "https://www.lequipe.fr/Football/Actualites/Inarretable-meilleur-buteur-de-bundesliga-niclas-fullkrug-revit-depuis-son-retour-au-werder-breme-apres-trois-annees-d-echec-et-postule-pour-la-selection/1739853#at_medium=RSS_feeds",
+     "resume": "De retour au Werder Brême, son club formateur, après s'être égaré à l'AC Milan et à West Ham, Niclas Füllkrug est en tête du classement des buteurs de la Bundesliga. À 33 ans, il rêve d'un retour en équipe d'Allemagne.",
+     "date": "2026-10-31T06:25:00+01:00",
      "source": "",
-     "image": "https://medias.lequipe.fr/img-photo-jpg/lewis-hamilton-au-volant-de-sa-ferrari-a-mounic-l-equipe/1500000002637787/182:286,1465:1141-828-552-75/4d175.jpg"
+     "image": "https://medias.lequipe.fr/img-photo-jpg/niclas-fuellkrug-a-inscrit-le-but-egalisateur-a-la-90e-2-sur-la-pelouse-du-borussia-dortmund-2-2-son-ancien-club-le-9-octobre-alamy-stock-photo-icon-sport/1500000002637855/0:0,2000:1333-828-552-75/ca455.jpg"
     },
     {
-     "titre": "Gabby Williams, une leader offensive des Golden State Valkyries à épauler avant le dernier frisson de la saison en WNBA",
-     "lien": "https://www.lequipe.fr/Basket/Article/Gabby-williams-une-leader-offensive-des-golden-state-valkyries-a-epauler-avant-le-dernier-frisson-de-la-saison-en-wnba/1739834#at_medium=RSS_feeds",
-     "resume": "La finale WNBA entre les Golden State Valkyries et l'Atlanta Dream connaîtra son épilogue dans la nuit de samedi à dimanche (1 heure en France), lors d'un ultime match 7 où la Française Gabby Williams détient sans aucun doute une grande part du rêve…",
-     "date": "2026-10-31T05:25:00+01:00",
+     "titre": "Le détail des votes des anciens lauréats pour les jeunes talents de la saison 2026 : Lamine Yamal sur le fil, Vicky Lopez dans un fauteuil",
+     "lien": "https://www.lequipe.fr/France-Football/Actualites/Le-detail-des-votes-pour-les-jeunes-talents-de-la-saison-2026-lamine-yamal-sur-le-fil-vicky-lopez-dans-un-fauteuil/1739771#at_medium=RSS_feeds",
+     "resume": "Comme l'an dernier, le FC Barcelone réalise le carton plein. Lamine Yamal remporte son troisième trophée de meilleur jeune de la saison. Pourtant, cette fois, son compatriote et coéquipier, Pau Cubarsi, a contesté jusqu'au bout sa suprématie. Vicky Lopez,…",
+     "date": "2026-10-31T06:15:00+01:00",
      "source": "",
-     "image": "https://medias.lequipe.fr/img-photo-png/-/1500000000833469/0-828-552-75/0cb67.png"
+     "image": "https://medias.lequipe.fr/img-photo-jpg/le-triomphe-de-la-jeunesse-barcelonaise-lamine-yamal-et-vicky-lopez-montage-d-apres-photos-franck-faugere-l-equipe/1500000002637688/308:164,1934:1248-828-552-75/8b7cf.jpg"
     }
    ],
    "flux_utilise": "https://dwh.lequipe.fr/api/edito/rss?path=/"
@@ -261,7 +261,7 @@
      "source": "lemonde.fr",
      "image": "https://img.lemde.fr/2026/10/27/417/0/5079/2539/644/322/60/0/ed55bc4_upload-1-yah3pypiz6wt-2026-10-22-otouron-arizona-midterms-035.jpg",
      "reprises": 6,
-     "score": 18.79
+     "score": 16.78
     },
     {
      "titre": "EN DIRECT, guerre en Ukraine : Washington approuve la vente de 500 missiles Patriot à Kiev",
@@ -270,8 +270,8 @@
      "date": "2026-10-30T23:58:56+01:00",
      "source": "lemonde.fr",
      "image": "https://img.lemde.fr/2026/10/27/1261/0/7551/3775/644/322/60/0/77084ec_ftp-1-vt1aeohwurhw-2026-10-27t171420z-90842872-rc2mrbaw68ni-rtrmadp-3-poland-defence-patriot-maintenance.JPG",
-     "reprises": 5,
-     "score": 11.15
+     "reprises": 4,
+     "score": 9.03
     },
     {
      "titre": "JOJ 2026 : Dakar en fête pour le dernier relais de la flamme 🇸🇳🔥",
@@ -281,7 +281,17 @@
      "source": "france24.com",
      "image": "https://s.france24.com/media/display/cdec0da4-d4c6-11f1-8fc6-695cb59fade5/w:1024/p:16x9/d%C3%A9rush-flamme-00-00-13-13-Still001.jpg",
      "reprises": 1,
-     "score": 8.49
+     "score": 8.45
+    },
+    {
+     "titre": "Après le rapprochement inédit entre le Canada et l’UE, les premières retombées concrètes",
+     "lien": "https://www.lemonde.fr/international/article/2026/10/31/apres-le-rapprochement-inedit-entre-le-canada-et-l-ue-les-premieres-retombees-concretes_6803372_3210.html",
+     "resume": "A l’issue d’un sommet de deux jours à Montréal, les dirigeants de l’Union européenne et le premier ministre canadien ont annoncé des mesures sur Erasmus, les virements de fonds instantanés, un accord sur le commerce numérique, sur les matériaux critiques et…",
+     "date": "2026-10-31T05:00:16+01:00",
+     "source": "lemonde.fr",
+     "image": "https://img.lemde.fr/2026/10/30/414/0/4967/2483/644/322/60/0/c1e3e18_ftp-1-rub3o86c2x5o-2026-10-30t190749z-1002562818-rc2rdoakvn63-rtrmadp-3-canada-eu.JPG",
+     "reprises": 4,
+     "score": 7.27
     },
     {
      "titre": "Accident ferroviaire en Espagne : les familles dans une attente angoissante",
@@ -291,27 +301,17 @@
      "source": "france24.com",
      "image": "https://s.france24.com/media/display/0bd20220-d479-11f1-9cfc-d18c5759e759/w:1024/p:16x9/FR-20261030-161228-161429-CS.jpg",
      "reprises": 4,
-     "score": 6.92
+     "score": 6.88
     },
     {
-     "titre": "« Ils nous ont tués » : le journal indépendant russe « Novaïa Gazeta » annonce sa fermeture",
-     "lien": "https://www.lemonde.fr/international/video/2026/10/30/ils-nous-ont-tues-le-journal-independant-russe-novaia-gazeta-annonce-sa-fermeture_6803133_3210.html",
-     "resume": "L’ex-rédacteur en chef du journal, Dmitri Mouratov, colauréat du Prix Nobel de la paix, a affirmé à l’AFP que la fermeture de « Novaïa Gazeta » faisait partie de « la gigantesque campagne militaire » menée par le Kremlin.",
-     "date": "2026-10-30T20:09:53+01:00",
-     "source": "lemonde.fr",
-     "image": "https://img.lemde.fr/2026/10/30/688/0/8256/4128/644/322/60/0/facf653_upload-1-cngnpcavk8pv-000-d2dv9yy.jpg",
-     "reprises": 4,
-     "score": 6.21
-    },
-    {
-     "titre": "Midterms 2026 : comment les démocrates ont délaissé le « wokisme » dans la campagne",
-     "lien": "https://www.lemonde.fr/international/article/2026/10/31/midterms-2026-comment-les-democrates-ont-delaisse-le-wokisme-dans-la-campagne_6803376_3210.html",
-     "resume": "Droits des LGBTQ+, lutte contre les inégalités de race ou de genre… les démocrates américains ont mis de côté ces questions sociétales, souvent qualifiées de « woke », pour se concentrer sur le coût de la vie. Pour autant, les républicains continuent…",
-     "date": "2026-10-31T05:00:43+01:00",
-     "source": "lemonde.fr",
-     "image": "https://img.lemde.fr/2026/10/30/386/0/3000/1500/644/322/60/0/47540f7_upload-1-44flgvdhj4wu-2026-09-01t132450z-2123329869-mt1usatoday29709046-rtrmadp-3-mar-20-2025-tempe-az-usa-rep-alexandria-ocasio-cortez.JPG",
-     "reprises": 2,
-     "score": 5.63
+     "titre": "Une Française fait partie des victimes dans l'effondrement d'une colonne rocheuse en Turquie",
+     "lien": "https://www.franceinfo.fr/monde/turquie/une-francaise-fait-partie-des-victimes-dans-l-effondrement-d-une-colonne-rocheuse-en-turquie_8260661.html#xtor=RSS-3-%5Bgeneral%5D",
+     "resume": "Au moins trois personnes ont perdu la vie jeudi dans l'éboulement d'une colonne de pierre dans la vallée des cheminées de fées, en Cappadoce.",
+     "date": "2026-10-30T16:52:26+01:00",
+     "source": "franceinfo.fr",
+     "image": "https://www.franceinfo.fr/pictures/Zcp0fxfeaCZ7do-LRNvV2PtqfIg/0x0:1080x607/432x243/filters:format(jpg)/2026/10/30/6ae4bb0dd1be0075190626.jpg",
+     "reprises": 3,
+     "score": 6.36
     }
    ],
    "a_traduire": []
@@ -329,7 +329,7 @@
      "source": "Libération",
      "image": null,
      "reprises": 5,
-     "score": 8.5
+     "score": 8.44
     },
     {
      "titre": "OpenAI réduit son objectif de levée de fonds de 10 milliards $ à 20 milliards $",
@@ -339,7 +339,7 @@
      "source": "Investing.com France",
      "image": null,
      "reprises": 4,
-     "score": 7.18
+     "score": 7.04
     },
     {
      "titre": "Anthropic : Blackstone prévoit une note BB après l'IPO",
@@ -349,7 +349,7 @@
      "source": "Brief IA",
      "image": null,
      "reprises": 3,
-     "score": 4.57
+     "score": 4.45
     },
     {
      "titre": "IA : OpenAI, Google, Microsoft et Anthropic promettent aux médias un bouton anti-aspiration de leur contenu",
@@ -359,7 +359,7 @@
      "source": "Le Figaro",
      "image": null,
      "reprises": 2,
-     "score": 3.3
+     "score": 3.24
     },
     {
      "titre": "ChatGPT Pro : face à la polémique, OpenAI renonce à amputer l’abonnement",
@@ -369,7 +369,7 @@
      "source": "01net.com",
      "image": null,
      "reprises": 2,
-     "score": 3.23
+     "score": 3.14
     }
    ],
    "a_traduire": [
@@ -381,7 +381,7 @@
      "source": "techcrunch.com",
      "image": null,
      "reprises": 1,
-     "score": 1.53
+     "score": 1.52
     },
     {
      "titre": "The biggest names in AI are backing a new way to opt out of scraping",
@@ -391,7 +391,7 @@
      "source": "theverge.com",
      "image": null,
      "reprises": 1,
-     "score": 1.45
+     "score": 1.44
     },
     {
      "titre": "Making it easier for websites to express AI training preferences",
@@ -401,7 +401,7 @@
      "source": "OpenAI",
      "image": null,
      "reprises": 1,
-     "score": 1.45
+     "score": 1.44
     },
     {
      "titre": "Anthropic expected to receive high ‘junk’ rating from credit agencies following IPO, FT report says",
@@ -411,7 +411,7 @@
      "source": "techcrunch.com",
      "image": null,
      "reprises": 1,
-     "score": 1.35
+     "score": 1.33
     },
     {
      "titre": "Google’s satellite AI server transmits its first response to Earth",
@@ -421,7 +421,7 @@
      "source": "theverge.com",
      "image": null,
      "reprises": 1,
-     "score": 1.29
+     "score": 1.28
     }
    ]
   },
@@ -431,15 +431,26 @@
    "sous_titre": "Libertés fondamentales, grandes juridictions, culture juridique pour le CRFPA",
    "items": [
     {
-     "titre": "Manifestations du 31 octobre: le Conseil d'État saisi après la décision de justice sur le parcours du cortège parisien",
-     "lien": "https://news.google.com/rss/articles/CBMijgJBVV95cUxNUUcxakRHYXRMUTJPSXhaRWY4TFN0Y1JWMFlQNjFtbk9FOF9Rb0t2ZVhuWk83dFVvMUd4YkpVbHF2bm9TVVVVMEY0U2ZPR2VFN183Z3NLRTlaX2Y4X2VYRUZ1SF94Ul9feE5hZDcta2l5ZEhheWx1WnpzMUlxNFVWSzdJUlJCRFhMYkt0NkV1M1JodW5xN3hZR2NNSHRRVWpRbko3RTJkSEQ3OVlpUVNVUk9jRnFVRVEtRm9DWF9VelYzYjI2cTNqMDRuczVZYmZVQ1IxUWo1N083S2FjNFRVU19kSzNfbDNpd0N6SWZnQWh4bTFZM21qZzF0WmJNYjZHTS16OVdVMG1WTm9WSmc?oc=5",
+     "titre": "Manifestation du 31 octobre : le Conseil d'État annule la décision du tribunal administratif, le cortège ira de Bagnolet à Charenton",
+     "lien": "https://news.google.com/rss/articles/CBMihAJBVV95cUxQTm1LbmNXLXh5OGdKcW4tX1BrRmZBR3FueTluNlN4MnhDQmRmeW9JTjhHb3BGVE1NUmlpZ2V0aktVN3dZVW42N3k1bkIweWdhUHJUdm5GRjk0QWRjUTBxS0N1RWJ4YU5MdmhVZUJZUkdmQkxkZE5DRWxpYmJ4TlNvZFBBOTEwZVBjRktfX1VkTkxnQmtnWFpBWklIQjRJalJqNGJjME5WdFNTOFVCVFFyZTlrbXdoSmlBR3BWeGhXYTdjWkdNOEcyNDRFSnRuUnZvcG1DeFlCU2dCeWdsallEbE96ZlJoTUNLY3VRd2ZRdGdmdDhwekxQcDdfTGwwY21oWTB5VA?oc=5",
      "resume": "",
-     "date": "2026-10-30T22:23:54+01:00",
-     "source": "BFM",
+     "date": "2026-10-31T06:13:45+01:00",
+     "source": "RTL",
      "image": null,
-     "reprises": 14,
-     "score": 32.63,
+     "reprises": 13,
+     "score": 27.89,
      "libertes": true
+    },
+    {
+     "titre": "Pour sauver la fonction publique de carrière, le vice-président du Conseil d’État appelle à changer les “règles sclérosantes”",
+     "lien": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxOLUltcDAwNERzaG9CY1BGbElXNDFzWVVIVUxIc3BoT3pvTWdwTHpnWTV3dklZRGxHR1hKckxVUzVyTjhXU2NEbFMtX3JZTXA3LWlSb3pLYTVkTWlmbF9lZTB3X2RlS09wdlF6cWZmVFhOc3p5WlpXallIQm9ER1BkS1poSTBuSkh6X0xmMlNzTHJMeVhtWjlqZS1VYjZXdjFQYUc4TnVhTXZIdDZSdEhDUU52SkFLTThjZmM1Vm9UTk5BM1V1NVVBME5Wa0xQLVhSRmpTNXZWVWQtUlFOOUVwWXNONjIwc0RXanRzLThn?oc=5",
+     "resume": "",
+     "date": "2026-10-29T14:53:27+01:00",
+     "source": "Acteurs Publics",
+     "image": null,
+     "reprises": 7,
+     "score": 14.62,
+     "libertes": false
     },
     {
      "titre": "Marine Le Pen est-elle vraiment inéligible à l'élection présidentielle, comme l'affirme un magistrat honoraire de la Cour de cassation",
@@ -449,7 +460,7 @@
      "source": "franceinfo",
      "image": null,
      "reprises": 3,
-     "score": 13.77,
+     "score": 13.62,
      "libertes": false
     },
     {
@@ -460,18 +471,7 @@
      "source": "ACP | Agence Congolaise de Presse",
      "image": null,
      "reprises": 4,
-     "score": 8.25,
-     "libertes": false
-    },
-    {
-     "titre": "Prévention des conflits d’intérêts : Le Conseil d’État précise les règles et l’office de la Haute autorité pour la transparence de la vie publique",
-     "lien": "https://news.google.com/rss/articles/CBMikAJBVV95cUxQaHhRS0E0RnNVaF8wZkpJejRsWWktTW4yeUw1Ny03aFRWYTgzTXRMRWtuS1FULWVfZHpJN1JVTE1ZYzVFRF9fUUQ5c0hmYVNNZVlhU3dpNWtvUVA0T0ZnaURtUDBjREVSUzJWaTViVmgta0ZtaEZoT1N3Tk5uSkczempWaU5LMGNaZW10S0xvdWtjOEs5QkVJLUI3clo0dmxuVjJBR2JkeFoyN1VLbmI3d0FTeHBNeEFKbW1GZXV1QVBOZjJYMVFGSzZ4OFRlQjR5ZERGcjZXd0l1NVg4elFxaV9LTDFnU0xhclBHU1ZQOHZYNklWZmVUVHZtZUc3NVFvbDlrd2xtTWc3XzJaaDNfaw?oc=5",
-     "resume": "",
-     "date": "2026-10-29T14:57:31+01:00",
-     "source": "Conseil d'État",
-     "image": null,
-     "reprises": 3,
-     "score": 6.78,
+     "score": 8.23,
      "libertes": false
     },
     {
@@ -482,7 +482,7 @@
      "source": "Europe 1",
      "image": null,
      "reprises": 2,
-     "score": 3.6,
+     "score": 3.59,
      "libertes": true
     },
     {
@@ -493,7 +493,7 @@
      "source": "https://horticulture-abadie-pyrenees.com/",
      "image": null,
      "reprises": 2,
-     "score": 2.77,
+     "score": 2.71,
      "libertes": true
     }
    ],
