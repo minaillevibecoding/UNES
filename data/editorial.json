@@ -1,121 +1,112 @@
 {
- "date": "2026-10-31",
- "edito": "Troisième samedi de mobilisation : dans la nuit, le Conseil d'État a annulé l'ordonnance qui rouvrait le parcours Bastille-Nation et validé le tracé de la préfecture, de la porte de Bagnolet à la porte de Charenton. L'Assemblée du contentieux encadre aussi l'office de la HATVP en matière de conflits d'intérêts. À l'étranger, Washington approuve la vente de 500 missiles Patriot à Kiev et « Novaïa Gazeta » ferme.",
+ "date": "2026-11-01",
+ "edito": "L'« acte III » a réuni 320 000 manifestants selon l'Intérieur, 500 000 selon les organisateurs, avec des heurts en fin de journée. Le Conseil d'État avait jugé « justifiées et proportionnées » l'interdiction du parcours Bastille-Nation et le tracé de remplacement. En Pologne, Bruxelles presse le président Nawrocki de valider la nomination de nouveaux juges constitutionnels.",
  "journaux": {
   "figaro": {
-   "resume": "Le Figaro décrit un « acte III » à « risque très élevé » pour l'exécutif.",
+   "resume": "Le Figaro met l'accent sur la « violence inouïe » des casseurs lors de l'acte III et sur la menace iranienne.",
    "points": [
-    "Le tribunal administratif avait autorisé le parcours Bastille-Nation ; le Conseil d'État était saisi pour la nuit.",
-    "Le ministère de l'Intérieur classe la journée « à risque très élevé ».",
-    "Éditorial d'Yves Thréard : « La France d'en face, silencieuse, devant le désordre ».",
-    "Jean-Luc Mélenchon multiplie les attaques contre les médias."
+    "320 000 manifestants dont 70 000 à Paris ; Laurent Nuñez fustige des « centaines » de casseurs d'ultragauche.",
+    "Un gendarme blessé par un cocktail Molotov.",
+    "Trump affirme que les États-Unis doivent encore « s'occuper » d'une ou deux cibles en Iran.",
+    "La Serbie commémore l'effondrement de l'auvent de la gare de Novi Sad, il y a deux ans."
    ]
   },
   "monde": {
-   "resume": "Le Monde revient sur Trappes, une semaine après l'attentat, et sur un mouvement social très actif en ligne.",
+   "resume": "Le Monde décrit des cortèges « festifs et déterminés » et fait le point sur ce qui change au 1er novembre.",
    "points": [
-    "À Trappes, une cérémonie chargée d'émotion une semaine après l'attaque terroriste.",
-    "Le gouvernement menace les réseaux sociaux d'une suspension temporaire.",
-    "En Pologne, le président du Tribunal constitutionnel écarté, la police déployée à Varsovie.",
-    "Wall Street s'inquiète de la rentabilité des investissements dans l'IA."
+    "Environ 500 000 manifestants selon les organisateurs, 320 000 selon les autorités.",
+    "Midterms : plus de 52 millions d'Américains ont déjà voté par anticipation.",
+    "Sahara occidental : la fin annoncée de la mission de l'ONU ouvre une période d'incertitude.",
+    "1er novembre : hausse du gaz, nouvelle taxe sur les petits colis, revalorisation des retraites complémentaires."
    ]
   },
   "croix": {
-   "resume": "La Croix s'interroge sur l'usage du gaz lacrymogène à la veille d'une nouvelle journée de contestation.",
+   "resume": "La Croix donne la parole aux manifestants, nombreux lycéens, du 31 octobre.",
    "points": [
-    "L'utilisation des lacrymogènes suscite de nombreuses questions.",
-    "Monaco, la Bulgarie, la Côte d'Ivoire et la RDC retirés de la liste grise du Gafi.",
-    "Trappes : foule nombreuse au rassemblement antiraciste.",
-    "COP17 : plusieurs textes clés adoptés dans les prolongations pour protéger la nature."
+    "« On veut un monde meilleur » : des dizaines de milliers de manifestants à Paris.",
+    "Moyen-Orient : le guide suprême iranien met en garde Washington.",
+    "Ukraine : des habitants d'Olechky évacués après une trêve locale.",
+    "COP17 : des engagements jugés poussifs pour la biodiversité."
    ]
   },
   "equipe": {
-   "resume": "L'Équipe détaille les classements du Ballon d'Or et se tourne vers le Grand Prix du Mexique.",
+   "resume": "L'Équipe célèbre les 43 points de Victor Wembanyama.",
    "points": [
-    "28 points d'écart entre Kane et Mbappé ; Alexia Putellas sacrée chez les femmes.",
-    "UBB-Bayonne : retrouvailles électriques avec Thibault Giroud.",
-    "Saint-Étienne, leader de L2, suscite un vif engouement.",
-    "George Russell traverse sa « première véritable période difficile »."
+    "Wembanyama inscrit 43 points contre Minnesota, son deuxième meilleur total en NBA.",
+    "Christian Mbilli battu par Canelo Alvarez : et maintenant ?",
+    "Le Stade Toulousain encaisse beaucoup d'essais.",
+    "PSG-Montpellier en handball : Luka Karabatic face à Valentin Porte."
    ]
   }
  },
  "sections": {
   "monde": [
    {
-    "titre": "Washington approuve la vente de 500 missiles Patriot à l'Ukraine",
-    "lien": "https://www.lemonde.fr/international/live/2026/10/30/en-direct-guerre-en-ukraine-washington-approuve-la-vente-de-500-missiles-patriot-a-kiev_6799896_3210.html",
-    "source": "Le Monde",
-    "date": "2026-10-30T23:58:56+01:00",
-    "resume": "La vente, de plus de 2 milliards de dollars, doit être entérinée par le Congrès. Volodymyr Zelensky s'inquiète d'une livraison qui pourrait n'intervenir que « dans quelques années ».",
-    "pourquoi": "La défense antiaérienne ukrainienne reste suspendue au calendrier américain."
-   },
-   {
-    "titre": "Russie : le journal indépendant « Novaïa Gazeta » annonce sa fermeture",
-    "lien": "https://www.lemonde.fr/international/video/2026/10/30/ils-nous-ont-tues-le-journal-independant-russe-novaia-gazeta-annonce-sa-fermeture_6803133_3210.html",
-    "source": "Le Monde",
-    "date": "2026-10-30T20:09:53+01:00",
-    "resume": "Son ex-rédacteur en chef Dmitri Mouratov, colauréat du prix Nobel de la paix, y voit un effet de « la gigantesque campagne militaire » menée par le Kremlin.",
-    "pourquoi": "La disparition d'une des dernières voix de la presse libre russe."
-   },
-   {
-    "titre": "Espagne : au moins 69 morts, l'identification des victimes s'accélère",
-    "lien": "https://www.france24.com/fr/vid%C3%A9o/20261030-accident-ferroviaire-en-espagne-les-familles-dans-une-attente-angoissante",
+    "titre": "Acte III : 320 000 manifestants selon l'Intérieur, des heurts à Paris",
+    "lien": "https://www.france24.com/fr/france/20261031-31-octobre-en-direct-70-000-policiers-mobilis%C3%A9s-pour-un-acte-iii-%C3%A0-risque-tr%C3%A8s-%C3%A9lev%C3%A9-en-pleine-f%C3%AAte-d-halloween",
     "source": "France 24",
-    "date": "2026-10-30T17:02:49+01:00",
-    "resume": "Les autorités ont intensifié l'identification des victimes de la collision du 28 octobre pour répondre à l'angoisse des familles.",
-    "pourquoi": "La pire tragédie ferroviaire espagnole depuis 2013 pèse sur la campagne des législatives."
+    "date": "2026-10-31T17:43:38+01:00",
+    "resume": "Les cortèges ont majoritairement défilé dans le calme, avant des heurts en fin de journée ; Laurent Nuñez dénonce des « centaines » de casseurs.",
+    "pourquoi": "Troisième samedi de mobilisation en trois semaines, sans signe d'essoufflement."
+   },
+   {
+    "titre": "Pologne : Bruxelles appelle le président Nawrocki à valider de nouveaux juges constitutionnels",
+    "lien": "https://www.lemonde.fr/international/article/2026/10/31/crise-politique-en-pologne-bruxelles-appelle-le-president-karol-nawrocki-a-valider-la-nomination-de-nouveaux-juges-au-tribunal-constitutionnel_6803801_3210.html",
+    "source": "Le Monde",
+    "date": "2026-10-31T23:57:51+01:00",
+    "resume": "Après l'intervention de la police dans les locaux du Tribunal constitutionnel et l'annonce de la suspension de son président contesté, le chef de l'État a réuni majorité et opposition.",
+    "pourquoi": "Un test majeur pour la restauration de l'État de droit en Pologne."
+   },
+   {
+    "titre": "États-Unis : la plainte en diffamation de Trump contre le « Wall Street Journal » rejetée",
+    "lien": "https://www.lemonde.fr/international/article/2026/11/01/lettre-a-jeffrey-epstein-la-justice-rejette-la-plainte-en-diffamation-de-donald-trump-contre-le-wall-street-journal_6803834_3210.html",
+    "source": "Le Monde",
+    "date": "2026-11-01T01:34:34+01:00",
+    "resume": "Le juge Darrin P. Gayles ne tranche pas sur l'authenticité de la lettre à Jeffrey Epstein attribuée à Donald Trump, mais estime que les journalistes ont dûment enquêté.",
+    "pourquoi": "Une victoire pour la liberté de la presse face au président américain."
+   },
+   {
+    "titre": "Ukraine : au moins 700 habitants d'Olechky évacués",
+    "lien": "https://www.lemonde.fr/international/live/2026/10/31/en-direct-guerre-en-ukraine-au-moins-700-habitants-d-olechky-ville-situee-sur-la-ligne-de-front-ont-ete-evacues-dans-le-nord-de-l-ukraine-apres-une-operation-d-aide-humanitaire_6799896_3210.html",
+    "source": "Le Monde",
+    "date": "2026-10-31T23:33:16+01:00",
+    "resume": "L'évacuation s'est faite en bus ou en avion via la Russie et la Biélorussie ; Volodymyr Zelensky a remercié la médiation américaine et Melania Trump.",
+    "pourquoi": "Une rare opération humanitaire négociée sur la ligne de front."
    }
   ],
   "ia": [
    {
-    "titre": "OpenAI, Google, Microsoft et Anthropic adoptent un standard pour refuser l'aspiration par l'IA",
-    "lien": "https://www.theverge.com/tech/1023763/openai-google-microsoft-ai-scraping-standard-opt-out",
-    "source": "The Verge",
-    "date": "2026-10-30T21:26:10+01:00",
-    "resume": "Les quatre groupes s'engagent à respecter un nouveau standard permettant aux éditeurs d'indiquer leurs préférences en matière d'entraînement des IA et de refuser la collecte de leurs contenus.",
-    "pourquoi": "Une réponse aux médias, au moment où les procès pour droit d'auteur se multiplient."
-   },
-   {
-    "titre": "Anthropic attendue en catégorie spéculative par les agences de notation",
-    "lien": "https://techcrunch.com/2026/10/30/anthropic-expected-to-receive-high-junk-rating-from-credit-agencies-following-ipo-report-says/",
+    "titre": "Apple ne veut pas « lancer de l'IA pour le plaisir », selon son nouveau patron",
+    "lien": "https://techcrunch.com/2026/10/31/apple-ceo-says-the-company-doesnt-want-to-ship-ai-for-ais-sake/",
     "source": "TechCrunch",
-    "date": "2026-10-30T22:52:03+01:00",
-    "resume": "Selon le Financial Times, cité par TechCrunch, Blackstone prévoit une note BB après l'introduction en Bourse, ce qui renchérirait le coût des financements nécessaires à ses dépenses massives.",
-    "pourquoi": "La solidité financière des laboratoires d'IA devient un sujet pour les marchés."
+    "date": "2026-10-31T22:41:00+01:00",
+    "resume": "Le nouveau PDG d'Apple a défendu la position de l'entreprise dans la course à l'IA, jugée en retrait.",
+    "pourquoi": "Apple assume une stratégie prudente face à des concurrents qui investissent massivement."
    },
    {
-    "titre": "Le satellite IA de Google envoie sa première réponse depuis l'espace",
-    "lien": "https://www.theverge.com/tech/1023528/google-project-suncatcher-ai-satellite-transmission",
-    "source": "The Verge",
-    "date": "2026-10-30T19:21:38+01:00",
-    "resume": "Google a démarré les processeurs TPU embarqués de son satellite, permettant au modèle Gemma 4 à bord de répondre à une requête.",
-    "pourquoi": "Une première démonstration d'inférence d'IA effectuée en orbite."
+    "titre": "Le patron d'OpenAI juge « terrible » que la mémoire vive reste dans les PC",
+    "lien": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxPZ2YtbF9WWl9xeTZwNFpkUmZzSnhsQW9EbkFMVEMwcWczY1ZlOENUUkxBblpaeWgyXzd6dl9ROXRmQnJOS0U3dlA4TkJiZzBSX1R4VHVMRVpXWlBoaEVGbXYyR1ZwUzBxaEpobDlYUTgyYzJEd19xSlVEYTJYTzVpYy1rNVNSNHcySEZteUF3blpJaHdIV0dyVGNabEJ2c2Nwb1IxaEJrVWkyQjVyNjcwSm5uN01kZWdQd3lSeEdTVDZMZ3dHTUsyV0hjZ1BUUWN2aXhoWld4UnEwdFVZR01V?oc=5",
+    "source": "01net",
+    "date": "2026-10-31T17:50:53+01:00",
+    "resume": "Alors que le prix de la RAM a été multiplié par trois ou quatre en un an, il estime que les particuliers gardent une mémoire qui ne servirait que 5 % du temps, et qui serait mieux employée dans les centres de données.",
+    "pourquoi": "La pénurie de composants provoquée par l'IA se répercute sur les consommateurs."
    }
   ],
   "droit": [
    {
-    "titre": "L'Assemblée du contentieux encadre l'office de la HATVP en matière de conflits d'intérêts",
-    "lien": "https://news.google.com/rss/articles/CBMikAJBVV95cUxQaHhRS0E0RnNVaF8wZkpJejRsWWktTW4yeUw1Ny03aFRWYTgzTXRMRWtuS1FULWVfZHpJN1JVTE1ZYzVFRF9fUUQ5c0hmYVNNZVlhU3dpNWtvUVA0T0ZnaURtUDBjREVSUzJWaTViVmgta0ZtaEZoT1N3Tk5uSkczempWaU5LMGNaZW10S0xvdWtjOEs5QkVJLUI3clo0dmxuVjJBR2JkeFoyN1VLbmI3d0FTeHBNeEFKbW1GZXV1QVBOZjJYMVFGSzZ4OFRlQjR5ZERGcjZXd0l1NVg4elFxaV9LTDFnU0xhclBHU1ZQOHZYNklWZmVUVHZtZUc3NVFvbDlrd2xtTWc3XzJaaDNfaw?oc=5",
-    "source": "Conseil d'État",
-    "date": "2026-10-29T14:57:31+01:00",
-    "resume": "CE, Ass., 29 octobre 2026, n° 505836 et 514106 : trois délibérations de la HATVP sont annulées. Pour un ministre (première décision de ce type), la Haute autorité apprécie si ses intérêts des cinq années antérieures peuvent influencer ou paraître influencer ses fonctions, mais n'a pas à évaluer un risque pénal de prise illégale d'intérêts, réservé au juge pénal. En matière de pantouflage, un mandat bénévole d'administrateur d'une société commerciale reste contrôlable ; la HATVP apprécie le risque que l'infraction soit constituée, sous le contrôle du juge, au vu des fonctions réellement exercées.",
-    "libertes": "Probité publique ; liberté d'exercer une activité professionnelle ; séparation des compétences administrative et pénale.",
-    "angle_crfpa": "Arrêt d'Assemblée qui reformule la jurisprudence de 2020 sur le pantouflage (art. 432-13 C. pén.) et précise l'articulation entre contrôle déontologique de la HATVP et qualification pénale (art. 432-12 C. pén.)."
-   },
-   {
-    "titre": "Manifestation parisienne du 31 octobre : le Conseil d'État valide le parcours de la préfecture",
-    "lien": "https://news.google.com/rss/articles/CBMijgJBVV95cUxNUUcxakRHYXRMUTJPSXhaRWY4TFN0Y1JWMFlQNjFtbk9FOF9Rb0t2ZVhuWk83dFVvMUd4YkpVbHF2bm9TVVVVMEY0U2ZPR2VFN183Z3NLRTlaX2Y4X2VYRUZ1SF94Ul9feE5hZDcta2l5ZEhheWx1WnpzMUlxNFVWSzdJUlJCRFhMYkt0NkV1M1JodW5xN3hZR2NNSHRRVWpRbko3RTJkSEQ3OVlpUVNVUk9jRnFVRVEtRm9DWF9VelYzYjI2cTNqMDRuczVZYmZVQ1IxUWo1N083S2FjNFRVU19kSzNfbDNpd0N6SWZnQWh4bTFZM21qZzF0WmJNYjZHTS16OVdVMG1WTm9WSmc?oc=5",
-    "source": "BFM",
-    "date": "2026-10-30T22:23:54+01:00",
-    "resume": "Le tribunal administratif de Paris avait suspendu vendredi l'arrêté imposant un tracé excentré et autorisé le parcours Bastille-Nation. Saisi en appel par le ministre de l'Intérieur, qui invoquait des risques de violences, le juge des référés du Conseil d'État a annulé cette ordonnance dans la nuit et validé le parcours de la porte de Bagnolet à la porte de Charenton.",
+    "titre": "Parcours du 31 octobre : pourquoi le Conseil d'État a donné raison au ministre",
+    "lien": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxQSktHQ0w2bTVEOEpSSlh3cHM4N25QZjFONzNhVGpTaWhmU2s2SDU0MUxmeXA0UlQxYXZpVTlFaXBuYXlDZjNfNTBSWWhMWXR1QVFyRnBVQnMtajZzY3JISlkzMldqNVhBWC00d3gyX3FVdG10b0RVWFRDTk9PRV9qdjJESWhhVWY1WVUzZjRJNUo0ZXktUHJQTm9RQ2tSdmZjaXVsNjdyTFZRZ29wMGhJa2M0QUJpRzdTc1puVzg4SExzOTVGLVVjY2VzTEx3Z1llallQbmJ2ZS1PSS1DMjVZZVdkYWVydXdmSHBWclNzU2g0RTg?oc=5",
+    "source": "Actu-Juridique",
+    "date": "2026-10-31T10:17:00+01:00",
+    "resume": "Le juge des référés a annulé l'ordonnance du tribunal administratif qui rouvrait le parcours Bastille-Nation. Selon les comptes rendus, il a jugé l'interdiction de ce tracé et la mesure de remplacement (de la porte de Bagnolet à la porte de Charenton) « justifiées et proportionnées au regard des risques retenus », la préfecture invoquant les dégradations du 17 octobre.",
     "libertes": "Liberté de manifester ; ordre public.",
-    "angle_crfpa": "Illustration du contrôle in concreto, en référé-liberté, d'une modification de parcours plutôt que d'une interdiction. Les motifs détaillés de l'ordonnance restent à lire."
+    "angle_crfpa": "Suite de l'ordonnance signalée hier. Le contrôle porte sur la modification du parcours, non sur une interdiction totale : le juge admet qu'un tracé moins visible reste compatible avec la liberté de manifester si les risques sont étayés par des circonstances concrètes."
    }
   ]
  },
  "notion": {
-  "titre": "Le pantouflage",
-  "texte": "Le Code pénal punit l'agent public qui, dans les trois ans suivant la cessation de ses fonctions, rejoint une entreprise privée qu'il a surveillée ou contrôlée, avec laquelle il a conclu des contrats ou sur laquelle il a proposé des décisions. Depuis 2019, la HATVP contrôle en amont ces départs vers le privé pour les plus hauts responsables publics et peut rendre des avis d'incompatibilité, soumis au contrôle du juge administratif.",
-  "reference": "C. pén., art. 432-13 ; loi n° 2019-828 du 6 août 2019 de transformation de la fonction publique"
+  "titre": "Le triple test de proportionnalité",
+  "texte": "Le juge administratif vérifie qu'une mesure restreignant une liberté est nécessaire, adaptée et proportionnée à l'objectif poursuivi. Formalisée par l'Assemblée du contentieux en 2011, cette grille s'inscrit dans la lignée de l'arrêt Benjamin et structure le contrôle des mesures de police, comme les interdictions ou modifications de parcours de manifestation.",
+  "reference": "CE, Ass., 26 octobre 2011, Association pour la promotion de l'image et autres, n° 317827"
  }
 }
