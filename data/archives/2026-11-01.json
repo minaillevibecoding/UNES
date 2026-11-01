@@ -1,0 +1,503 @@
+{
+ "date": "2026-11-01",
+ "genere": "2026-11-01T06:25+01:00",
+ "journaux": [
+  {
+   "id": "figaro",
+   "nom": "Le Figaro",
+   "couleur": "#163860",
+   "une": {
+    "fichier": "unes/figaro.jpg",
+    "date": "2026-10-31",
+    "source": "https://static.milibris.com/thumbnail/issue/33fa16e9-a447-430d-95ea-81f4c3894b1c/front/catalog-cover-large.jpeg"
+   },
+   "articles": [
+    {
+     "titre": "Trump affirme que les États-Unis doivent encore «s'occuper» d'une ou deux cibles en Iran",
+     "lien": "https://www.lefigaro.fr/international/trump-affirme-que-les-etats-unis-doivent-encore-s-occuper-d-une-ou-deux-cibles-en-iran-20261101",
+     "resume": "Le républicain évoque notamment le mont Kolang, situé dans la province d’Isfahan, à environ 200 km au sud de Téhéran, près du complexe nucléaire de Natanz.",
+     "date": "2026-11-01T04:18:19+01:00",
+     "source": "",
+     "image": "https://i.f1g.fr/media/cms/3000x2001_crop/2026/11/01/84c65593ec27b6542bf4fd35b807d55e058770ba71a80afcf74cf1c77edd46ef.jpg"
+    },
+    {
+     "titre": "Iran : le guide suprême iranien met en garde les États-Unis contre une reprise des attaques",
+     "lien": "https://www.lefigaro.fr/international/iran-le-guide-supreme-iranien-met-en-garde-les-etats-unis-contre-une-reprise-des-attaques-20261031",
+     "resume": "Alors que les spéculations autour d’une reprise de la guerre s’intensifient, Mojtaba Khamenei a mis en garde le pays de l’Oncle Sam.",
+     "date": "2026-10-31T13:30:06+01:00",
+     "source": "",
+     "image": "https://i.f1g.fr/media/cms/orig/2026/10/31/2cf863df41c87b6291a2ccca24b10a08d4797d7929bbf3ec9b00702b01c104e1.JPG"
+    },
+    {
+     "titre": "La Serbie commémore la tragédie qui a déclenché le mouvement étudiant",
+     "lien": "https://www.lefigaro.fr/international/la-serbie-commemore-la-tragedie-qui-a-declenche-le-mouvement-etudiant-20261101",
+     "resume": "Le rassemblement marquera les deux ans de l’effondrement de l’auvent en béton de la gare récemment rénovée de la deuxième ville de Serbie, qui a fait 16 morts, dont deux sœurs âgées de six et dix ans.",
+     "date": "2026-11-01T06:01:21+01:00",
+     "source": "",
+     "image": "https://i.f1g.fr/media/cms/3000x2000_crop/2026/11/01/2d41fc040196df69d5d745214a1ac428cf6b2745d0267c787dae91a943029b81.jpg"
+    },
+    {
+     "titre": "Manifestations du 31 octobre : une mobilisation toujours dense, minée par la «violence inouïe» des casseurs d’ultragauche",
+     "lien": "https://www.lefigaro.fr/actualite-france/manifestations-du-31-octobre-une-mobilisation-toujours-dense-minee-par-la-violence-inouie-des-casseurs-d-ultragauche-20261031",
+     "resume": "REPORTAGE - Pour cette troisième journée de mobilisation en trois semaines, les cortèges ont majoritairement progressé dans le calme hors des centres-villes. Avant que des casseurs et pilleurs n’entament des affrontements avec les forces de l’ordre partout…",
+     "date": "2026-10-31T23:55:50+01:00",
+     "source": "",
+     "image": "https://i.f1g.fr/media/cms/3000x1917_crop/2026/10/31/f52eeaf45f2ccfc59226b5133bbd1625d9b3014647ae9eefb6ab2f6a520036d7.jpg"
+    },
+    {
+     "titre": "Manifestations du 31 octobre : Nuñez fustige des «centaines» de «casseurs et pilleurs» animés par la «mouvance d’ultragauche», 565 interpellations en France",
+     "lien": "https://www.lefigaro.fr/actualite-france/en-direct-manifestation-du-31-octobre-le-parcours-bastille-nation-a-paris-finalement-interdit-par-le-conseil-d-etat-20261031",
+     "resume": "L’acte III des manifestations a mobilisé 320.000 personnes dans l’ensemble du pays, dont 70.000 à Paris selon la préfecture de police.",
+     "date": "2026-11-01T05:39:36+01:00",
+     "source": "",
+     "image": "https://i.f1g.fr/media/cms/3000x1927_crop/2026/10/31/5cc424ad53913a9361498116ba864067dea03887bbd96241243ee90180827b08.jpg"
+    },
+    {
+     "titre": "Manifestations du 31 octobre : un gendarme «blessé à la cheville» après avoir été ciblé par un cocktail Molotov",
+     "lien": "https://www.lefigaro.fr/actualite-france/manifestations-du-31-octobre-un-gendarme-blesse-a-la-cheville-apres-avoir-ete-cible-par-un-cocktail-molotov-20261031",
+     "resume": "Le militaire, capitaine d’escadron, a repris son service malgré sa blessure.",
+     "date": "2026-10-31T20:41:54+01:00",
+     "source": "",
+     "image": "https://i.f1g.fr/media/cms/orig/2026/10/31/be544f84112f180b37c437520f4d019246ff607e1e320ab35f78e0236282b5f9.JPG"
+    }
+   ],
+   "flux_utilise": "https://www.lefigaro.fr/rss/figaro_actualites.xml"
+  },
+  {
+   "id": "monde",
+   "nom": "Le Monde",
+   "couleur": "#111111",
+   "une": {
+    "fichier": "unes/monde.webp",
+    "date": "2026-11-01",
+    "source": "https://www.frontpages.com/t/2026/10/31/le-monde-232448248@2x.webp"
+   },
+   "articles": [
+    {
+     "titre": "« Je manifeste pour qu’on puisse manifester » : la mobilisation du 31 octobre, des cortèges festifs et déterminés corsetés par les dispositifs de sécurité",
+     "lien": "https://www.lemonde.fr/societe/article/2026/11/01/je-manifeste-pour-qu-on-puisse-manifester-la-mobilisation-du-31-octobre-des-corteges-festifs-et-determines-corsetes-par-les-dispositifs-de-securite_6804015_3224.html",
+     "resume": "Environ 500 000 personnes ont défilé samedi, selon les organisateurs (320 000 selon les autorités), dans toute la France. Les revendications initiales restent d’actualité, semaine après semaine, mais les manifestants sont de plus en plus préoccupés par les…",
+     "date": "2026-11-01T05:37:03+01:00",
+     "source": "",
+     "image": "https://img.lemde.fr/2026/11/01/559/0/6713/3356/644/322/60/0/576c63c_upload-1-pf6uc5t7bpid-dsc-4690.jpg"
+    },
+    {
+     "titre": "EN DIRECT, midterms 2026 : plus de 52 millions d’Américains ont déjà voté par anticipation",
+     "lien": "https://www.lemonde.fr/international/live/2026/11/01/en-direct-midterms-2026-plus-de-52-millions-d-americains-ont-deja-vote-par-anticipation_6801590_3210.html",
+     "resume": "Alors qu’il est attendu sur place, dimanche, pour des meetings dans l’Iowa et le Kansas, Donald Trump a participé, samedi, à des « rassemblements téléphoniques » à distance.",
+     "date": "2026-11-01T02:05:02+01:00",
+     "source": "",
+     "image": "https://img.lemde.fr/2026/10/31/76/0/4000/2000/644/322/60/0/9e18dd7_ftp-1-jeyipzzfbnru-2026-10-31t220931z-1968607318-rc2eeoacuiyi-rtrmadp-3-usa-election-virginia.JPG"
+    },
+    {
+     "titre": "Sahara occidental : la disparition annoncée de la mission de l’ONU ouvre une période d’incertitudes",
+     "lien": "https://www.lemonde.fr/afrique/article/2026/11/01/sahara-occidental-la-disparition-annoncee-de-la-mission-de-l-onu-ouvre-une-periode-d-incertitudes_6804008_3212.html",
+     "resume": "La mission onusienne chargée de veiller au respect du cessez-le-feu dans l’ex-colonie espagnole, que se disputent le Maroc et le Front Polisario, va cesser d’exister à compter du 1ᵉʳ novembre. Le Conseil de sécurité a échoué à en prolonger le mandat,…",
+     "date": "2026-11-01T05:15:09+01:00",
+     "source": "",
+     "image": "https://img.lemde.fr/2023/04/11/56/0/1024/512/644/322/60/0/307487e_1681200702286-000-8vv7yz.jpg"
+    },
+    {
+     "titre": "Ce qui change le 1ᵉʳ novembre : gaz, crédit à la consommation, expulsions locatives, petits colis, retraites complémentaires",
+     "lien": "https://www.lemonde.fr/argent/article/2026/11/01/ce-qui-change-le-1-novembre-gaz-credit-a-la-consommation-expulsions-locatives-petits-colis-retraites-complementaires_6803973_1657007.html",
+     "resume": "Les pensions du secteur privé vont être revalorisées mais le prix du gaz va augmenter et une nouvelle taxe sur les colis est mise en place.",
+     "date": "2026-11-01T05:00:35+01:00",
+     "source": "",
+     "image": "https://img.lemde.fr/2025/09/19/125/0/1500/750/644/322/60/0/f5e5ad5_upload-1-6kuga3xwpni1-mei-dia-25.png"
+    },
+    {
+     "titre": "« L’opposition à Nétanyahou a trop souvent choisi d’être aussi intransigeante que lui face aux Palestiniens »",
+     "lien": "https://www.lemonde.fr/un-si-proche-orient/article/2026/11/01/l-opposition-a-netanyahou-a-trop-souvent-choisi-d-etre-aussi-intransigeante-que-lui-face-aux-palestiniens_6804014_6116995.html",
+     "resume": "L’alternative est claire entre, d’une part, la démolition par Nétanyahou de l’Etat de droit et, d’autre part, une coalition incluant les partis arabes, souligne l’historien Jean-Pierre Filiu dans sa chronique au « Monde ».",
+     "date": "2026-11-01T05:36:14+01:00",
+     "source": "",
+     "image": "https://img.lemde.fr/2026/10/20/1137/0/6160/3080/644/322/60/0/384f01d_upload-1-mzqi5edyjiof-ll-taibeh-meeting-tibi-07.jpg"
+    },
+    {
+     "titre": "COP biodiversité à Erevan : « La présidence arménienne a fait un travail exemplaire »",
+     "lien": "https://www.lemonde.fr/planete/article/2026/11/01/cop-biodiversite-a-erevan-la-presidence-armenienne-a-fait-un-travail-exemplaire_6803972_3244.html",
+     "resume": "Steven Guilbeault, ancien ministre de l’environnement du Canada, et artisan de l’accord de Kunming-Montréal de 2022, un texte fondateur pour le vivant, porte un regard positif sur la conférence qui s’est achevée le 31 octobre en Arménie.",
+     "date": "2026-11-01T05:00:29+01:00",
+     "source": "",
+     "image": "https://img.lemde.fr/2022/12/19/510/0/6123/3061/644/322/60/0/d682dda_1671492391494-491546.jpg"
+    }
+   ],
+   "flux_utilise": "https://www.lemonde.fr/rss/une.xml"
+  },
+  {
+   "id": "croix",
+   "nom": "La Croix",
+   "couleur": "#c8102e",
+   "une": {
+    "fichier": "unes/croix.jpg",
+    "date": "2026-10-31",
+    "source": "https://img.kiosko.net/2026/10/31/fr/lacroix.750.jpg"
+   },
+   "articles": [
+    {
+     "titre": "Manifestation du 31 octobre : « On veut un monde meilleur, et on voit un monde qui se dégrade »",
+     "lien": "https://www.la-croix.com/societe/manifestation-du-31-octobre-on-veut-un-monde-meilleur-et-on-voit-un-monde-qui-se-degrade-20261031",
+     "resume": "Des dizaines de milliers de manifestants, dont de nombreux lycéens, ont participé samedi 31 octobre à une nouvelle journée de mobilisation à Paris. Le défilé s’est déroulé dans le calme, mais des incidents ont éclaté en fin de cortège.",
+     "date": "2026-10-31T21:14:08+01:00",
+     "source": "",
+     "image": "https://i.la-croix.com/x/2026/10/31/2577331-lors-de-la-manifestation-contre-la-vie-chere-le-31.jpg"
+    },
+    {
+     "titre": "Le combat, sur nos champs de bataille intérieurs",
+     "lien": "https://www.la-croix.com/religion/le-combat-sur-nos-champs-de-bataille-interieurs-20261031",
+     "resume": "TOUT UN SYMBOLE. Dans les textes fondateurs de toutes les religions, les combats symbolisent souvent la lutte intérieure qui permet de se libérer de sa propre violence. Elle demande un courage de guerrier, selon notre chroniqueuse Paule Amblard.",
+     "date": "2026-10-31T17:48:14+01:00",
+     "source": "",
+     "image": "https://i.la-croix.com/x/2026/10/18/25642161-les-vetements-sont-les-signes-visibles-de-nos-etat.jpg"
+    },
+    {
+     "titre": "Guerre au Moyen-Orient : menaces du guide suprême iranien… Le bilan du samedi 31 octobre",
+     "lien": "https://www.la-croix.com/international/direct-guerre-iran-israel-usa-jour-246-moyen-orient-bilan-resume-aujourdhui-20261031",
+     "resume": "Le guide suprême iranien a mis en garde les États-Unis face à l’éventualité de nouvelles frappes. La coalition dirigée par l’Arabie saoudite dit avoir abattu un « drone hostile » dans la région de Riyad. Retrouvez l’actualité du conflit au Moyen-Orient de ce…",
+     "date": "2026-10-31T17:47:43+01:00",
+     "source": "",
+     "image": "https://i.la-croix.com/x/2026/10/31/2577080-des-panneaux-publicitaires-representant-le-guide-s.jpg"
+    },
+    {
+     "titre": "Guerre en Ukraine : ce qu’il faut retenir de la situation du samedi 31 octobre",
+     "lien": "https://www.la-croix.com/international/ukraine-russie-jour-1711-point-conflit-ukrainien-poutine-aujourdhui-20261031",
+     "resume": "Des habitants de la ville d’Olechky, sous occupation russe, sont arrivés dans un autre lieu du pays, après une trêve locale entre Kiev et Moscou. Volodymyr Zelensky est arrivé à Istanbul, où il doit rencontre son homologue turc. Retrouvez l’actualité de la…",
+     "date": "2026-10-31T17:46:08+01:00",
+     "source": "",
+     "image": "https://i.la-croix.com/x/2026/10/31/2577096-des-personnes-evacuees-d-olechky-dans-un-centre-dh.jpg"
+    },
+    {
+     "titre": "À la COP17, des engagements poussifs à mieux protéger la biodiversité",
+     "lien": "https://www.la-croix.com/planete/cop17-les-etats-adoptent-dans-les-prolongations-plusieurs-textes-cles-pour-proteger-la-nature-20261030",
+     "resume": "Après deux semaines de négociations difficiles, les parties sont parvenues, le 31 octobre, à un accord sur la nécessité d’accélérer l’action en faveur de la biodiversité d’ici 2030. Une feuille de route édulcorée par le besoin de consensus, et dont la mise…",
+     "date": "2026-10-31T17:45:26+01:00",
+     "source": "",
+     "image": "https://i.la-croix.com/x/2026/10/30/2576807-les-etats-membres-de-la-cop17-ont-adopte-vendredi-.jpg"
+    },
+    {
+     "titre": "Manifestation du 31 octobre : mobilisation, revendications… Ce qu’il faut retenir",
+     "lien": "https://www.la-croix.com/societe/direct-manifestation-31-octobre-violences-couvre-feu-parcours-nunez-aujourdhui-20261031",
+     "resume": "320 000 personnes ont manifesté en France, selon le ministère de l’intérieur, dont 70 000 à Paris. Après un défilé dans le calme entre la porte de Bagnolet et la porte de Charenton, des premières tensions apparaissent dans la capitale. Retrouvez l’actualité…",
+     "date": "2026-10-31T17:45:05+01:00",
+     "source": "",
+     "image": "https://i.la-croix.com/x/2026/10/31/2577175-lors-de-la-manifestation-lilloise-du-samedi-31-oct.jpg"
+    }
+   ],
+   "flux_utilise": "https://www.la-croix.com/feeds/rss/site.xml"
+  },
+  {
+   "id": "equipe",
+   "nom": "L'Équipe",
+   "couleur": "#e2001a",
+   "une": {
+    "fichier": "unes/equipe.webp",
+    "date": "2026-11-01",
+    "source": "https://www.frontpages.com/t/2026/11/01/l-equipe-0124350z7@2x.webp"
+   },
+   "articles": [
+    {
+     "titre": "La prise de conscience de Romain Faivre au mitan de sa carrière : « J'aurais préféré être comme ça à 22, 20 ou même 18 ans »",
+     "lien": "https://www.lequipe.fr/Football/Article/Romain-faivre-milieu-offensif-de-l-aj-auxerre-revient-sur-son-irregularite-j-ai-compris-que-le-talent-ne-suffit-pas/1739992#at_medium=RSS_feeds",
+     "resume": "Avant le déplacement de l'AJA à Strasbourg dimanche (15 heures), Romain Faivre, de nouveau prêté par Bournemouth, revient sur ses difficultés à s'imposer durablement partout où il est passé. Le milieu offensif de 28 ans, qui assure avoir « pris une baffe »…",
+     "date": "2026-11-01T05:37:00+01:00",
+     "source": "",
+     "image": "https://medias.lequipe.fr/img-photo-jpg/romain-faivre-avec-le-maillot-de-l-aj-auxerre-ou-il-est-prete-aj-auxerre/1500000002638607/0:236,2000:1569-828-552-75/bc2b6.jpg"
+    },
+    {
+     "titre": "Et si on acceptait la nonchalance des jeunes, sans la prendre pour du désintérêt ?",
+     "lien": "https://www.lequipe.fr/Football/Article/Et-si-on-acceptait-la-nonchalance-des-jeunes-sans-la-prendre-pour-du-desinteret/1740173#at_medium=RSS_feeds",
+     "resume": "Les jeunes joueurs sont régulièrement pointés du doigt pour leur comportement, mais ils sont aussi une richesse pour la Ligue 1.",
+     "date": "2026-11-01T05:35:00+01:00",
+     "source": "",
+     "image": "https://medias.lequipe.fr/img-photo-jpg/keyliane-abdallah-jeune-joueur-de-l-om-a-ete-cible-par-son-entraineur-le-week-end-dernier-p-lahalle-l-equipe/1500000002638841/0:0,1500:1000-828-552-75/ee6c2.jpg"
+    },
+    {
+     "titre": "Cinq essais et 36 points encaissés en moyenne sur les trois derniers matches : qu'arrive-t-il à la défense du Stade Toulousain ?",
+     "lien": "https://www.lequipe.fr/Rugby/Article/Cinq-essais-et-36-points-encaisses-en-moyenne-sur-les-trois-derniers-matches-qu-arrive-t-il-a-la-defense-du-stade-toulousain/1740056#at_medium=RSS_feeds",
+     "resume": "Même s'il continue de gagner ses matches, le Stade Toulousain encaisse beaucoup de points et d'essais. Mais faut-il vraiment s'en inquiéter, alors que sa défense sera encore soumise à rude épreuve, dimanche soir (21h05), face à la Section Paloise ?",
+     "date": "2026-11-01T05:30:00+01:00",
+     "source": "",
+     "image": "https://medias.lequipe.fr/img-photo-jpg/les-toulousains-reunis-autour-de-leur-entraineur-de-la-defense-laurent-thuery-lors-du-match-de-coupe-des-champions-face-a-exeter-le-18-octobre-43-40-f-lancelot-l-equipe/1500000002638937/0:0,997:665-828-552-75/b0f9a.jpg"
+    },
+    {
+     "titre": "Et maintenant, que va-t-il se passer pour Christian Mbilli et Saul « Canelo » Alvarez ?",
+     "lien": "https://www.lequipe.fr/Boxe/Actualites/Et-maintenant-que-va-t-il-se-passer-pour-christian-mbilli-et-saul-canelo-alvarez/1740209#at_medium=RSS_feeds",
+     "resume": "Ce combat perdu face à la légende mexicaine ce samedi soir va donner de nouvelles opportunités à Christian Mbilli. Quant à Saul « Canelo » Alvarez, il pourrait être tenté de réunifier les titres de la catégorie des super-moyens.",
+     "date": "2026-11-01T05:22:00+01:00",
+     "source": "",
+     "image": "https://medias.lequipe.fr/img-photo-png/-/1500000000833469/0-828-552-75/0cb67.png"
+    },
+    {
+     "titre": "« On ne s'est jamais vraiment quittés » : Luka Karabatic et Valentin Porte, deux amis face à face pour un classique du Championnat",
+     "lien": "https://www.lequipe.fr/Handball/Article/-on-ne-s-est-jamais-vraiment-quittes-luka-karabatic-paris-sg-et-valentin-porte-montpellier-deux-amis-face-a-face-pour-un-classique-du-championnat/1740081#at_medium=RSS_feeds",
+     "resume": "Le choc de Starligue entre le Paris-SG et Montpellier opposera ce dimanche (17 heures) deux grandes figures de l'histoire du Championnat : Luka Karabatic et Valentin Porte, toujours performants à l'approche de la quarantaine.",
+     "date": "2026-11-01T05:15:00+01:00",
+     "source": "",
+     "image": "https://medias.lequipe.fr/img-photo-jpg/le-montpellierain-valentin-porte-36-ans-face-au-parisien-luka-karabatic-38-ans-dix-huit-ans-d-affrontements-entre-amis-alexandre-dimou-icon-sport/1500000002638660/174:176,1707:1198-828-552-75/7ecfa.jpg"
+    },
+    {
+     "titre": "Victor Wembanyama dévore les Minnesota Timberwolves avec 43 points inscrits, son deuxième meilleur total en NBA",
+     "lien": "https://www.lequipe.fr/Basket/Actualites/Victor-wembanyama-devore-les-minnesota-timberwolves-avec-43-points-inscrits-son-deuxieme-meilleur-total-en-nba/1740215#at_medium=RSS_feeds",
+     "resume": "Inarrêtable, Victor Wembanyama a inscrit 43 points et offert la victoire aux Spurs face à des Timberwolves privés de Rudy Gobert et d'Anthony Edwards, dans la nuit de samedi à dimanche à San Antonio (121-111). C'est le deuxième meilleur total de sa carrière…",
+     "date": "2026-11-01T04:21:21+01:00",
+     "source": "",
+     "image": "https://medias.lequipe.fr/img-photo-png/-/1500000000833469/0-828-552-75/0cb67.png"
+    }
+   ],
+   "flux_utilise": "https://dwh.lequipe.fr/api/edito/rss?path=/"
+  }
+ ],
+ "sections": [
+  {
+   "id": "monde",
+   "titre": "Actualité principale",
+   "sous_titre": "Les informations les plus importantes, partout dans le monde",
+   "items": [
+    {
+     "titre": "Crise politique en Pologne : Bruxelles appelle le président Karol Nawrocki à valider la nomination de nouveaux juges au Tribunal constitutionnel",
+     "lien": "https://www.lemonde.fr/international/article/2026/10/31/crise-politique-en-pologne-bruxelles-appelle-le-president-karol-nawrocki-a-valider-la-nomination-de-nouveaux-juges-au-tribunal-constitutionnel_6803801_3210.html",
+     "resume": "Après l’intervention de la police dans les locaux de l’institution et l’annonce de la suspension de son président controversé, le chef de l’Etat a réuni samedi les représentants des partis de la majorité centriste et de l’opposition nationaliste pour tenter…",
+     "date": "2026-10-31T23:57:51+01:00",
+     "source": "lemonde.fr",
+     "image": "https://img.lemde.fr/2026/10/31/480/0/7105/3552/644/322/60/0/fcbc686_ftp-1-7fh0f7pd0yq4-3d25809f27e64744b0b93ba131d28c24-0-6c2812d488104a209510898b59b013ce.jpg",
+     "reprises": 5,
+     "score": 18.79
+    },
+    {
+     "titre": "Guerre en Ukraine : au moins 700 habitants d’Olechky, ville du Sud située sur la ligne de front, ont été évacués dans le nord de l’Ukraine après une opération d’aide humanitaire. Retrouvez les informations du 25 au 31 octobre.",
+     "lien": "https://www.lemonde.fr/international/live/2026/10/31/en-direct-guerre-en-ukraine-au-moins-700-habitants-d-olechky-ville-situee-sur-la-ligne-de-front-ont-ete-evacues-dans-le-nord-de-l-ukraine-apres-une-operation-d-aide-humanitaire_6799896_3210.html",
+     "resume": "L’évacuation a été faite en bus ou en avion, en passant par la Russie puis la Biélorussie. « Je remercie la délégation américaine et la première dame des Etats-Unis, Melania Trump, pour leur médiation », a déclaré le président ukrainien, Volodymyr Zelensky.",
+     "date": "2026-10-31T23:33:16+01:00",
+     "source": "lemonde.fr",
+     "image": "https://img.lemde.fr/2026/10/31/653/0/5152/2576/644/322/60/0/784ef33_ftp-1-chavw3qjptso-2026-10-31t131804z-1803645108-rc2ceoatramw-rtrmadp-3-ukraine-crisis-oleshky.JPG",
+     "reprises": 8,
+     "score": 17.78
+    },
+    {
+     "titre": "JOJ Dakar 2026 : la fierté d'une Afrique qui entre dans l'histoire olympique",
+     "lien": "https://www.france24.com/fr/vid%C3%A9o/20261101-joj-dakar-2026-la-fiert%C3%A9-d-une-afrique-qui-entre-dans-l-histoire-olympique",
+     "resume": "Pour la première fois, le continent africain accueille un événement olympique. La cérémonie d'ouverture des Jeux olympiques de la jeunesse s'est tenue samedi 31 octobre au stade Abdoulaye Wade de Diamniadio. Jusqu'au 13 novembre, quelque 2 700 athlètes de 15…",
+     "date": "2026-11-01T02:18:06+01:00",
+     "source": "france24.com",
+     "image": "https://s.france24.com/media/display/1630f048-d58f-11f1-92c9-bf1914cabd52/w:1024/p:16x9/Ceremonie-JOJ-00-00-05-12-Still001.jpg",
+     "reprises": 2,
+     "score": 16.96
+    },
+    {
+     "titre": "🔴 Acte III en direct : 320 000 manifestants en France selon le ministère de l'Intérieur, des heurts à Paris",
+     "lien": "https://www.france24.com/fr/france/20261031-31-octobre-en-direct-70-000-policiers-mobilis%C3%A9s-pour-un-acte-iii-%C3%A0-risque-tr%C3%A8s-%C3%A9lev%C3%A9-en-pleine-f%C3%AAte-d-halloween",
+     "resume": "Sylvain Boulouque, Historien des radicalités politiques et des mouvements sociaux, est notre invité.",
+     "date": "2026-10-31T17:43:38+01:00",
+     "source": "france24.com",
+     "image": null,
+     "reprises": 5,
+     "score": 15.13
+    },
+    {
+     "titre": "A Moscou, l’ambassade américaine prévient la Russie de la « menace crédible » d’une attaque sur un musée",
+     "lien": "https://www.lemonde.fr/international/article/2026/10/31/a-moscou-l-ambassade-americaine-previent-la-russie-de-la-menace-credible-d-une-attaque-sur-un-musee_6803724_3210.html",
+     "resume": "Les autorités russes ont confirmé « des informations sur la préparation d’un attentat à Moscou », samedi, et ont depuis évacué et sécurisé la zone.",
+     "date": "2026-10-31T17:55:12+01:00",
+     "source": "lemonde.fr",
+     "image": "https://img.lemde.fr/2025/04/09/915/0/5809/2904/644/322/60/0/1811d2b_ftp-import-images-1-twzkbui39l8a-2025-04-09t172227z-1601955888-rc2vfdae4vos-rtrmadp-3-usa-trump-tariffs-russia.JPG",
+     "reprises": 6,
+     "score": 11.73
+    },
+    {
+     "titre": "La justice rejette la plainte en diffamation de Donald Trump contre le « Wall Street Journal » au sujet d’une lettre à Jeffrey Epstein",
+     "lien": "https://www.lemonde.fr/international/article/2026/11/01/lettre-a-jeffrey-epstein-la-justice-rejette-la-plainte-en-diffamation-de-donald-trump-contre-le-wall-street-journal_6803834_3210.html",
+     "resume": "Dans sa décision, le juge Darrin P. Gayles se garde de trancher sur l’authenticité du courrier aux tonalités salaces, daté de 2003 et attribué au milliardaire républicain par le média. Il considère en revanche que les journalistes ont dûment enquêté et agi…",
+     "date": "2026-11-01T01:34:34+01:00",
+     "source": "lemonde.fr",
+     "image": "https://img.lemde.fr/2025/09/08/904/0/5417/2708/644/322/60/0/c5b1888_ftp-import-images-1-thssccswsax2-f319d3a79a2248e289159c90c211976c-0-08071a9aed664f73bfe2931bc0b7bf69.jpg",
+     "reprises": 4,
+     "score": 7.78
+    }
+   ],
+   "a_traduire": []
+  },
+  {
+   "id": "ia",
+   "titre": "Intelligence artificielle",
+   "sous_titre": "Modèles, entreprises, régulation, recherche",
+   "items": [
+    {
+     "titre": "Le patron d'OpenAI juge « terrible » que votre PC garde sa propre RAM et préfèrerait la voir dans ses datacenters",
+     "lien": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxPZ2YtbF9WWl9xeTZwNFpkUmZzSnhsQW9EbkFMVEMwcWczY1ZlOENUUkxBblpaeWgyXzd6dl9ROXRmQnJOS0U3dlA4TkJiZzBSX1R4VHVMRVpXWlBoaEVGbXYyR1ZwUzBxaEpobDlYUTgyYzJEd19xSlVEYTJYTzVpYy1rNVNSNHcySEZteUF3blpJaHdIV0dyVGNabEJ2c2Nwb1IxaEJrVWkyQjVyNjcwSm5uN01kZWdQd3lSeEdTVDZMZ3dHTUsyV0hjZ1BUUWN2aXhoWld4UnEwdFVZR01V?oc=5",
+     "resume": "Alors que le prix de la mémoire vive a été multiplié par trois ou quatre en un an, le patron d'OpenAI trouve « assez terrible » que les particuliers gardent de la RAM dans leurs PC, où elle ne servirait que 5 % du temps.",
+     "date": "2026-10-31T17:50:53+01:00",
+     "source": "01net.com",
+     "image": null,
+     "reprises": 3,
+     "score": 4.68
+    },
+    {
+     "titre": "« L’intelligence artificielle peut être un outil de travail mais l’écriture doit rester humaine », affirment ces auteurs",
+     "lien": "https://news.google.com/rss/articles/CBMilwJBVV95cUxNYVhKTl9fWG9HWGJhN29DVHdJc3BVRzY1OG0zUFpqdzROLVd0U3J6N2ZzNm1UcnExLW5fUk94d0U5TTVDaDQ5ZHNuUGEtakpaQVpWMUZHcnc0SFNvR2pXa2dsU0p5Z0NNeWhUejVKVHpHUGxibXdlNlQxOXdOWjVBVHhicEFTRVl1dUs0UWhwa1JFbERQYW1tOElTckNNcVppUmNoQXl2VWVPejdaMUVXdlRYR2ZfWnJSSHVXNlJLRVNrVWVoUDNYTjVpeTdOV0pxWXVvMjlFSmR0TFNQN1otYVVPOUNrNmdKaUFPQ2s5cDVCRVd4ZjRueW1VS2JpQ3VOWWg5LWxTVFNtako1OEpDOFBoMnVqam8?oc=5",
+     "resume": "",
+     "date": "2026-10-31T19:51:10+01:00",
+     "source": "Ouest-France",
+     "image": null,
+     "reprises": 2,
+     "score": 4.66
+    },
+    {
+     "titre": "Sur Roblox, Deux Jeux Créés Presque Entièrement Par IA Entrent Dans Le Top 20 En 2026",
+     "lien": "https://news.google.com/rss/articles/CBMibkFVX3lxTE85aTRDT1cwV1pRakM5MlI3RDVJT1lVY1pCMW1ENjBXTU5MUHRjMjRLMFI4TWVxUkxuLUEtQXRZYXVwTnpESFZNYW5UZzJLV1hOcHhWRXFhbkVqRkZQMjVmUEFjM3FuM1BENTlSTUVB?oc=5",
+     "resume": "",
+     "date": "2026-11-01T01:14:13+01:00",
+     "source": "Pause Hardware",
+     "image": null,
+     "reprises": 3,
+     "score": 4.39
+    },
+    {
+     "titre": "L’intelligence artificielle nous oblige-t-elle à repenser notre animalité",
+     "lien": "https://news.google.com/rss/articles/CBMitAFBVV95cUxORXFMaVlNRjZjUUxBdFhXMnhLdEpwRG5UQ0tsaEd2d093M25xUk4yNDh1aHpyWlpoamRlZkNUVzNEYlZOVFE0VUc2YWFBYVNwVG5FaldLdEVJZl9aM3paMjFRUm5acEpBbVJBRDRSaTVwckdhOWlYa3hja2plcDBQTVZ3Y19HUllCLUIxRFRZd0szb2VIcGxfd0VXRUtzaExJazBFVW5VUDgxRjdNdFVzRjk4Q2Q?oc=5",
+     "resume": "",
+     "date": "2026-10-31T18:25:49+01:00",
+     "source": "Le Grand Continent",
+     "image": null,
+     "reprises": 2,
+     "score": 3.24
+    },
+    {
+     "titre": "Les chatbots dotés d'intelligence artificielle suscitent des inquiétudes quant à la diffusion de fausses informations pendant l'élection américaine.",
+     "lien": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNeVJzV1hQUV9kcUNPbU1QS3dqYV9vSThxTUVBak5hRGtoV1NCaFY1TElpRWVBSllscUVLZTdVOG9sS1lOSEJUckRTTjIwYndvT2tXaElBVUtXUjRXWHlkV0ROUHZRSXdwdWNEVU8yc2RjaDQxSUJza2Y2ekMzZEhoMTJyX1B3REtnZFUzSGd0X2N5dmVOQ3N0WDJkR2VvQlFQ?oc=5",
+     "resume": "",
+     "date": "2026-11-01T06:21:52+01:00",
+     "source": "Vietnam.vn",
+     "image": null,
+     "reprises": 2,
+     "score": 2.9
+    }
+   ],
+   "a_traduire": [
+    {
+     "titre": "Apple CEO says the company doesn’t ‘want to ship AI for AI’s sake’",
+     "lien": "https://techcrunch.com/2026/10/31/apple-ceo-says-the-company-doesnt-want-to-ship-ai-for-ais-sake/",
+     "resume": "Apple's new CEO defended the company's current position in the AI landscape.",
+     "date": "2026-10-31T22:41:00+01:00",
+     "source": "techcrunch.com",
+     "image": null,
+     "reprises": 1,
+     "score": 1.47
+    },
+    {
+     "titre": "The biggest names in AI are backing a new way to opt out of scraping",
+     "lien": "https://www.theverge.com/tech/1023763/openai-google-microsoft-ai-scraping-standard-opt-out",
+     "resume": "OpenAI, Google, Microsoft, and Anthropic say they will adopt a new standard that publishers can use to opt out of being scraped by AI, as reported earlier by Search Engine Roundtable. With this control, publishers can apply their AI training preferences…",
+     "date": "2026-10-30T21:26:10+01:00",
+     "source": "theverge.com",
+     "image": null,
+     "reprises": 1,
+     "score": 1.05
+    },
+    {
+     "titre": "Making it easier for websites to express AI training preferences",
+     "lien": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQeUhNejF1eW53d1BwbVBzUm4zS1VzYTAyRVVUX21Xdmw1UWhLbzJCaExWLTJQNkRIYVhlcGotQnBBdk5CWFlmY3Faa2k5ejVBUzBQbjliUUttRmJnQTdMVUpUR0o3WkRHUlFNcVM5XzZ3TTdMSjR5Y1hCbU1raXVlV0ZuT3pXaEU?oc=5",
+     "resume": "",
+     "date": "2026-10-30T21:23:11+01:00",
+     "source": "OpenAI",
+     "image": null,
+     "reprises": 1,
+     "score": 1.05
+    },
+    {
+     "titre": "Nvidia weighs playing the cosigner for Nscale’s AI data center in West Virginia",
+     "lien": "https://techcrunch.com/2026/10/30/nvidia-weighs-playing-the-cosigner-for-nscales-ai-data-center-in-west-virginia/",
+     "resume": "When investors get nervous about AI spending, it helps to have the chipmaker that sells the chips offer to cosign the loan.",
+     "date": "2026-10-31T02:20:05+01:00",
+     "source": "techcrunch.com",
+     "image": null,
+     "reprises": 1,
+     "score": 1.0
+    },
+    {
+     "titre": "Google’s satellite AI server transmits its first response to Earth",
+     "lien": "https://www.theverge.com/tech/1023528/google-project-suncatcher-ai-satellite-transmission",
+     "resume": "Google's AI chip-equipped satellite has generated its first response from space. In a blog post on Friday, Google says it successfully booted up the satellite's Tensor Processing Units (TPUs), allowing the on-board Gemma 4 model to follow through on a prompt…",
+     "date": "2026-10-30T19:21:38+01:00",
+     "source": "theverge.com",
+     "image": null,
+     "reprises": 1,
+     "score": 0.89
+    }
+   ]
+  },
+  {
+   "id": "droit",
+   "titre": "Actualité juridique",
+   "sous_titre": "Libertés fondamentales, grandes juridictions, culture juridique pour le CRFPA",
+   "items": [
+    {
+     "titre": "Parcours de la manifestation du 31 octobre : Pourquoi le Conseil d'État donne raison au ministre de l'Intérieur",
+     "lien": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxQSktHQ0w2bTVEOEpSSlh3cHM4N25QZjFONzNhVGpTaWhmU2s2SDU0MUxmeXA0UlQxYXZpVTlFaXBuYXlDZjNfNTBSWWhMWXR1QVFyRnBVQnMtajZzY3JISlkzMldqNVhBWC00d3gyX3FVdG10b0RVWFRDTk9PRV9qdjJESWhhVWY1WVUzZjRJNUo0ZXktUHJQTm9RQ2tSdmZjaXVsNjdyTFZRZ29wMGhJa2M0QUJpRzdTc1puVzg4SExzOTVGLVVjY2VzTEx3Z1llallQbmJ2ZS1PSS1DMjVZZVdkYWVydXdmSHBWclNzU2g0RTg?oc=5",
+     "resume": "",
+     "date": "2026-10-31T10:17:00+01:00",
+     "source": "Actu-Juridique",
+     "image": null,
+     "reprises": 30,
+     "score": 69.98,
+     "libertes": true
+    },
+    {
+     "titre": "Pour sauver la fonction publique de carrière, le vice-président du Conseil d’État appelle à changer les “règles sclérosantes”",
+     "lien": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxOLUltcDAwNERzaG9CY1BGbElXNDFzWVVIVUxIc3BoT3pvTWdwTHpnWTV3dklZRGxHR1hKckxVUzVyTjhXU2NEbFMtX3JZTXA3LWlSb3pLYTVkTWlmbF9lZTB3X2RlS09wdlF6cWZmVFhOc3p5WlpXallIQm9ER1BkS1poSTBuSkh6X0xmMlNzTHJMeVhtWjlqZS1VYjZXdjFQYUc4TnVhTXZIdDZSdEhDUU52SkFLTThjZmM1Vm9UTk5BM1V1NVVBME5Wa0xQLVhSRmpTNXZWVWQtUlFOOUVwWXNONjIwc0RXanRzLThn?oc=5",
+     "resume": "",
+     "date": "2026-10-29T14:53:27+01:00",
+     "source": "Acteurs Publics",
+     "image": null,
+     "reprises": 4,
+     "score": 6.26,
+     "libertes": false
+    },
+    {
+     "titre": "Marine Le Pen est-elle vraiment inéligible à l'élection présidentielle, comme l'affirme un magistrat honoraire de la Cour de cassation",
+     "lien": "https://news.google.com/rss/articles/CBMi4wJBVV95cUxNTHBGUl9GdnR3eWZzN3BsdXIwQS14TTBYRVhzbGlSVS1BcjFDT1hzcW9pdUN1WWhnTFNTYUFFVDRsX3dOc2tEVVhYNWxoN2xXNnZVR0gyQ2dIN0xjcmJoQkZGNkxfWUpZR2dnSlNGdDV1a2F6cVRBeTNtYmNWZDF0Qkp3WW9KQWMtMjdZcFFQYUpsaGd3YXVodXFDRlNhYktOa0U4TFdZZjY4Wk0zeGpKVERuTDlPVlQzRFFCcS1fTGFtQWFtLXBWd2luLUxyS1dwR2c0b2lxSnpuUzBsb3hYeWxtZXNOQzdqa3UtYUFmcWp6WnpsbHZkSll2X3ZiWk1kOHZ4QUJ6QlZpOTlzTEdGRkRnX0NqR1gwbHhzVWg3Q1d2TklmckJDZnZPVi0xV25ESHVOUHJkYzJtVDNpTkxFQTZ0ejFiV19aNjhaYm44T21YX0xTcUxkZDhtelgwT2dNeVZR?oc=5",
+     "resume": "",
+     "date": "2026-10-30T13:03:48+01:00",
+     "source": "franceinfo",
+     "image": null,
+     "reprises": 1,
+     "score": 3.34,
+     "libertes": false
+    },
+    {
+     "titre": "Des manifestants plus nombreux pour le troisième samedi de mobilisation à Lille : \"Je viens défendre la liberté d’expression\"",
+     "lien": "https://news.google.com/rss/articles/CBMiigJBVV95cUxQcnA5QnJzM2tjdEtoUlZDMUZBLUQ2Q0FwZjBHR0lDcjNybHZ5NFo4UjNsaFFMRDE0aVB0bXFna1VtQmFVcVJZQmpIZmc5M1NUaUN3NC1TRHAydWpMTVhRUHFQNGVOTDRXZnZ5ekc4OHBJdzJTTV9IdUdTUE84M1E2UDdvVlFQTnNFWG93NTBUOGNYREhpWGZHZ05nNVlrOVFmbGt6SGl5WTgtYVI4UFFDeEZXZGI4QmdQREEtMjUwbHFYYU1POXQtYlhDaDF0eWR6aU5sVHhNXzNiNklIME5uMUM1VXBWQ1plZzh6enUxRUcycVU2azdmdEFMZ0J0c0xQQ0ROVkFzLXplZw?oc=5",
+     "resume": "",
+     "date": "2026-10-31T14:50:33+01:00",
+     "source": "France 3 Régions",
+     "image": null,
+     "reprises": 2,
+     "score": 3.18,
+     "libertes": true
+    },
+    {
+     "titre": "Attentat de Trappes : la gauche réclame des restrictions de la liberté d'expression et s'en prend aux médias",
+     "lien": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxOVFFoalFFN2oza25Vbm1kYjJKTFJYYl9TLTIzNUxqYTAyd3Y1NE1RdWEyTDl2b0Y1NGNBa0VmclB0REsxR1dobDBlTml4ZWRGb01sX3pfQmp5aEhxWmlYaS1LelU1MlZSSDhOSk4zTWwteTR1Snh3Zm84MHozaUZaenJlMFhqdkRoWVRYeXJTTXRjQ1RYZEx5aHlLd2xIZVlkR3pQRXVQd255ek8yTnFuQ1dLLVJEYVZhVC1GTzdIZlJScGpObGtVZ1Jfa3BWVmN3TnFhajVNekFnSFHSAeABQVVfeXFMTlJiWVRBdjFzdzA3ZFN5dkNoOVE3WDdXMVFrOWhSYnRiZXVzaDd0bWNseWNXa2VITGhGQTZfbkQ5MVJ0bU9lRTlWR2dtVG80ZE5CeUlOakNCdkFZMFRpdTBMQlRZUDZxbGFSTDZwUENpbXVJWFAyX0tLeGxGbVRYWWJwVXlqM3g4TWNSdkVSVFFzeHNORF95cENCc2FNLVBYeXMtN0RlanJORllROGZPM2hqXzI1UFZXZVo4TkFvU19saEhZU2Y4RXgxQVdPNTJMREI3b2psTjViQk9HN1M4bk4?oc=5",
+     "resume": "",
+     "date": "2026-10-30T21:14:16+01:00",
+     "source": "Europe 1",
+     "image": null,
+     "reprises": 1,
+     "score": 1.32,
+     "libertes": true
+    },
+    {
+     "titre": "Le Conseil d’État s’invite dans la fabrique de la loi",
+     "lien": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPOTgzOUl4Y3R6ZV9OZGhsY1YtYjdhb1dsSk9zQU1iN3hJZG1OMkJQUkRmd25vQzBEV3pNcjExZTN4ZGNJZ0hranhyOFRzalhNWFl6NFY4eDJBY0RyZ3NlS0c5NVYyYnhaSTJ6YzFwNE4zNUttQmlxQmtmQTJMVmdjdVY3bHkxQlAzWnhNRkhOTFZNbzNGTjhtYUxXd0pRb28?oc=5",
+     "resume": "",
+     "date": "2026-10-30T12:52:16+01:00",
+     "source": "Le Club des Juristes",
+     "image": null,
+     "reprises": 1,
+     "score": 1.25,
+     "libertes": false
+    }
+   ],
+   "a_traduire": []
+  }
+ ]
+}
