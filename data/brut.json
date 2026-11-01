@@ -1,6 +1,6 @@
 {
  "date": "2026-11-01",
- "genere": "2026-11-01T06:57+01:00",
+ "genere": "2026-11-01T07:58+01:00",
  "journaux": [
   {
    "id": "figaro",
@@ -12,30 +12,6 @@
     "source": "https://static.milibris.com/thumbnail/issue/33fa16e9-a447-430d-95ea-81f4c3894b1c/front/catalog-cover-large.jpeg"
    },
    "articles": [
-    {
-     "titre": "Trump affirme que les États-Unis doivent encore «s'occuper» d'une ou deux cibles en Iran",
-     "lien": "https://www.lefigaro.fr/international/trump-affirme-que-les-etats-unis-doivent-encore-s-occuper-d-une-ou-deux-cibles-en-iran-20261101",
-     "resume": "Le républicain évoque notamment le mont Kolang, situé dans la province d’Isfahan, à environ 200 km au sud de Téhéran, près du complexe nucléaire de Natanz.",
-     "date": "2026-11-01T04:18:19+01:00",
-     "source": "",
-     "image": "https://i.f1g.fr/media/cms/3000x2001_crop/2026/11/01/84c65593ec27b6542bf4fd35b807d55e058770ba71a80afcf74cf1c77edd46ef.jpg"
-    },
-    {
-     "titre": "Iran : le guide suprême iranien met en garde les États-Unis contre une reprise des attaques",
-     "lien": "https://www.lefigaro.fr/international/iran-le-guide-supreme-iranien-met-en-garde-les-etats-unis-contre-une-reprise-des-attaques-20261031",
-     "resume": "Alors que les spéculations autour d’une reprise de la guerre s’intensifient, Mojtaba Khamenei a mis en garde le pays de l’Oncle Sam.",
-     "date": "2026-10-31T13:30:06+01:00",
-     "source": "",
-     "image": "https://i.f1g.fr/media/cms/orig/2026/10/31/2cf863df41c87b6291a2ccca24b10a08d4797d7929bbf3ec9b00702b01c104e1.JPG"
-    },
-    {
-     "titre": "La Serbie commémore la tragédie qui a déclenché le mouvement étudiant",
-     "lien": "https://www.lefigaro.fr/international/la-serbie-commemore-la-tragedie-qui-a-declenche-le-mouvement-etudiant-20261101",
-     "resume": "Le rassemblement marquera les deux ans de l’effondrement de l’auvent en béton de la gare récemment rénovée de la deuxième ville de Serbie, qui a fait 16 morts, dont deux sœurs âgées de six et dix ans.",
-     "date": "2026-11-01T06:01:21+01:00",
-     "source": "",
-     "image": "https://i.f1g.fr/media/cms/3000x2000_crop/2026/11/01/2d41fc040196df69d5d745214a1ac428cf6b2745d0267c787dae91a943029b81.jpg"
-    },
     {
      "titre": "Manifestations du 31 octobre : une mobilisation toujours dense, minée par la «violence inouïe» des casseurs d’ultragauche",
      "lien": "https://www.lefigaro.fr/actualite-france/manifestations-du-31-octobre-une-mobilisation-toujours-dense-minee-par-la-violence-inouie-des-casseurs-d-ultragauche-20261031",
@@ -59,6 +35,30 @@
      "date": "2026-10-31T20:41:54+01:00",
      "source": "",
      "image": "https://i.f1g.fr/media/cms/orig/2026/10/31/be544f84112f180b37c437520f4d019246ff607e1e320ab35f78e0236282b5f9.JPG"
+    },
+    {
+     "titre": "Manifestations du 31 octobre à Marseille : cinq interpellations après le cambriolage d’un Foot Locker",
+     "lien": "https://www.lefigaro.fr/marseille/cinq-interpellations-a-marseille-apres-le-pillage-d-un-magasin-foot-locker-20261031",
+     "resume": "INFO LE FIGARO - Le magasin a été attaqué en tout début de soirée dans le centre-ville de la cité phocéenne.",
+     "date": "2026-10-31T21:55:45+01:00",
+     "source": "",
+     "image": "https://i.f1g.fr/media/cms/3000x2000_crop/2026/10/31/23d659e36d1ac5cdf0b9de7d3a6075f998f9d6b81229ec53dc46db85cee424a7.jpg"
+    },
+    {
+     "titre": "Manifestations du 31 octobre : de 320.000 à près de 500.000 manifestants en France, 511 interpellations recensées",
+     "lien": "https://www.lefigaro.fr/actualite-france/manifestations-du-31-octobre-de-320-000-a-pres-de-500-000-manifestants-en-france-296-interpellations-recensees-20261031",
+     "resume": "Les organisations lycéennes et étudiantes revendiquent, elles, 500.000 participants. Elles appellent déjà à bloquer facs et lycées dès mardi, avant la grève du 5 novembre.",
+     "date": "2026-10-31T21:19:55+01:00",
+     "source": "",
+     "image": "https://i.f1g.fr/media/cms/orig/2026/10/31/3b20a4e7e07746c0dc0cafee1426650991373555ca466b9173e13e1806c69cbe.JPG"
+    },
+    {
+     "titre": "Trump affirme que les États-Unis doivent encore «s'occuper» d'une ou deux cibles en Iran",
+     "lien": "https://www.lefigaro.fr/international/trump-affirme-que-les-etats-unis-doivent-encore-s-occuper-d-une-ou-deux-cibles-en-iran-20261101",
+     "resume": "Le républicain évoque notamment le mont Kolang, situé dans la province d’Isfahan, à environ 200 km au sud de Téhéran, près du complexe nucléaire de Natanz.",
+     "date": "2026-11-01T04:18:19+01:00",
+     "source": "",
+     "image": "https://i.f1g.fr/media/cms/3000x2001_crop/2026/11/01/84c65593ec27b6542bf4fd35b807d55e058770ba71a80afcf74cf1c77edd46ef.jpg"
     }
    ],
    "flux_utilise": "https://www.lefigaro.fr/rss/figaro_actualites.xml"
@@ -90,7 +90,7 @@
      "image": "https://img.lemde.fr/2026/10/31/76/0/4000/2000/644/322/60/0/9e18dd7_ftp-1-jeyipzzfbnru-2026-10-31t220931z-1968607318-rc2eeoacuiyi-rtrmadp-3-usa-election-virginia.JPG"
     },
     {
-     "titre": "Sahara occidental : la disparition annoncée de la mission de l’ONU ouvre une période d’incertitudes",
+     "titre": "Sahara occidental : la Russie et les Etats-Unis s’opposent au Conseil de sécurité sur l’avenir de la mission de l’ONU, qui ne sera pas reconduite après 35 ans sur le terrain",
      "lien": "https://www.lemonde.fr/afrique/article/2026/11/01/sahara-occidental-la-disparition-annoncee-de-la-mission-de-l-onu-ouvre-une-periode-d-incertitudes_6804008_3212.html",
      "resume": "La mission onusienne chargée de veiller au respect du cessez-le-feu dans l’ex-colonie espagnole, que se disputent le Maroc et le Front Polisario, va cesser d’exister à compter du 1ᵉʳ novembre. Le Conseil de sécurité a échoué à en prolonger le mandat,…",
      "date": "2026-11-01T05:15:09+01:00",
@@ -130,8 +130,8 @@
    "couleur": "#c8102e",
    "une": {
     "fichier": "unes/croix.jpg",
-    "date": "2026-10-31",
-    "source": "https://img.kiosko.net/2026/10/31/fr/lacroix.750.jpg"
+    "date": "2026-11-01",
+    "source": "https://img.kiosko.net/2026/11/01/fr/lacroix.750.jpg"
    },
    "articles": [
     {
@@ -190,58 +190,58 @@
    "nom": "L'Équipe",
    "couleur": "#e2001a",
    "une": {
-    "fichier": "unes/equipe.webp",
+    "fichier": "unes/equipe.jpg",
     "date": "2026-11-01",
-    "source": "https://www.frontpages.com/t/2026/11/01/l-equipe-0124350z7@2x.webp"
+    "source": "https://img.kiosko.net/2026/11/01/fr/l_equip.750.jpg"
    },
    "articles": [
     {
-     "titre": "NBA : Le résumé vidéo de San Antonio - Minnesota avec les 43 points de Victor Wembanyama",
-     "lien": "https://www.lequipe.fr/Basket/Video/Nba-nba-le-resume-video-de-san-antonio-minnesota-avec-les-43-points-de-victor-wembanyama/20244591#at_medium=RSS_feeds",
+     "titre": "Un dîner d'Halloween au lendemain de la victoire au Havre et repos dimanche pour le PSG",
+     "lien": "https://www.lequipe.fr/Football/Actualites/Un-diner-d-halloween-au-lendemain-de-la-victoire-au-havre-et-repos-dimanche-pour-le-psg/1740126#at_medium=RSS_feeds",
+     "resume": "Les Parisiens ont partagé un dîner d'Halloween samedi, au lendemain de leur large succès au Havre en Ligue 1. Les joueurs de Luis Enrique sont au repos dimanche, à deux jours de leur déplacement à Villarreal en Ligue des champions.",
+     "date": "2026-11-01T07:50:00+01:00",
+     "source": "",
+     "image": "https://medias.lequipe.fr/img-photo-jpg/titulaires-vendredi-au-havre-lucas-digne-et-lucas-hernandez-seront-au-repos-ce-dimanche-comme-l-ensemble-des-joueurs-parisiens-s-mantey-l-equipe/1500000002638743/176:219,1802:1303-828-552-75/57098.jpg"
+    },
+    {
+     "titre": "Après la pagaille et le drame de 2022, la Route du Rhum réduit le nombre de bateaux suiveurs",
+     "lien": "https://www.lequipe.fr/Voile/Actualites/Apres-la-pagaille-et-le-drame-de-2022-la-route-du-rhum-reduit-le-nombre-de-bateaux-suiveurs/1740084#at_medium=RSS_feeds",
+     "resume": "Après le chavirage d'un bateau suiveur à l'arrivée de Charles Caudrelier sur la Route du Rhum en 2022, qui avait coûté la vie à deux personnes, des mesures ont enfin été prises pour mieux encadrer la pagaille en mer sur cette édition.",
+     "date": "2026-11-01T07:42:00+01:00",
+     "source": "",
+     "image": "https://medias.lequipe.fr/img-photo-jpg/l-arrivee-de-charles-caudrelier-a-la-route-du-rhum-en-2022-b-papon-l-equipe/1500000002638668/0:0,2000:1333-828-552-75/6654f.jpg"
+    },
+    {
+     "titre": "Le résumé vidéo de Rockets - Thunder avec les 30 points de Smith Jr.",
+     "lien": "https://www.lequipe.fr/Basket/Video/Nba-nba-le-resume-video-de-houston-oklahoma-city-avec-les-3o-points-de-jabari-smith-jr/20244593#at_medium=RSS_feeds",
      "resume": "",
-     "date": "2026-11-01T06:32:00+01:00",
+     "date": "2026-11-01T07:35:00+01:00",
      "source": "",
      "image": "https://medias.lequipe.fr/img-photo-png/-/1500000000833469/0-828-552-75/0cb67.png"
     },
     {
-     "titre": "Gabby Williams : « Je suis arrivée dans un groupe plein d'amour. Et ça a changé la trajectoire de ma carrière »",
-     "lien": "https://www.lequipe.fr/Basket/Actualites/Gabby-williams-je-suis-arrivee-dans-un-groupe-plein-d-amour-et-ca-a-change-la-trajectoire-de-ma-carriere/1740216#at_medium=RSS_feeds",
-     "resume": "La Française, sacrée championne WNBA et MVP de la finale avec les Golden State Warriors, a insisté sur l'état d'esprit de la franchise qu'elle a rejoint cette saison, lequel lui a permis d'oublier les frustrations du passé et ainsi proposer son meilleur…",
-     "date": "2026-11-01T06:21:34+01:00",
+     "titre": "Sixième titre en simple pour Diana Shnaider, victorieuse du WTA 500 de Tokyo",
+     "lien": "https://www.lequipe.fr/Tennis/Actualites/Sixieme-titre-en-simple-pour-diana-shnaider-victorieuse-du-wta-500-de-tokyo/1740217#at_medium=RSS_feeds",
+     "resume": "La Russe Diana Shnaider, 13e mondiale, a remporté son premier titre en simple en 2026, le sixième de sa carrière sur le circuit WTA, en battant en finale la Canadienne Leylah Fernandez (6-4, 5-7, 6-2), dimanche à Tokyo.",
+     "date": "2026-11-01T07:23:36+01:00",
      "source": "",
      "image": "https://medias.lequipe.fr/img-photo-png/-/1500000000833469/0-828-552-75/0cb67.png"
     },
     {
-     "titre": "Pas menaçant devant, fragile derrière : pourquoi Monaco n'y arrive pas sur coups de pied arrêtés",
-     "lien": "https://www.lequipe.fr/Football/Actualites/Pas-menacant-devant-fragile-derriere-pourquoi-monaco-n-y-arrive-pas-sur-coups-de-pied-arretes/1740024#at_medium=RSS_feeds",
-     "resume": "Malgré l'arrivée d'un spécialiste des coups de pied arrêtés cet été, Monaco, qui se déplace dimanche sur la pelouse du Paris FC (17h15), ne se montre pas performant dans ce domaine. Explications.",
-     "date": "2026-11-01T06:15:00+01:00",
+     "titre": "Avogadro, Malinowski, Gardrat, Laharrague... Privée de nombreux cadres, l'UBB a pu compter sur ses jeunes pour l'emporter face à Bayonne",
+     "lien": "https://www.lequipe.fr/Rugby/Article/Avogadro-malinowski-gardrat-laharrague-privee-de-nombreux-cadres-l-ubb-a-pu-compter-sur-ses-jeunes-pour-l-emporter-face-a-bayonne/1740177#at_medium=RSS_feeds",
+     "resume": "En l'absence de nombreux cadres, Bordeaux s'est appuyé sur sa jeunesse pour assurer une victoire étriquée mais courageuse sur Bayonne, samedi (19-14).",
+     "date": "2026-11-01T07:05:00+01:00",
      "source": "",
-     "image": "https://medias.lequipe.fr/img-photo-jpg/de-gauche-a-droite-flavio-nazinho-mathis-detourbet-et-alexandre-golovine-joao-rico-icon-sport/1500000002638495/0:0,1990:1326-828-552-75/f3d30.jpg"
+     "image": "https://medias.lequipe.fr/img-photo-jpg/hugo-avogadro-ici-au-soutien-de-nicolas-depoortere-a-inscrit-son-troisieme-essai-en-trois-matches-avec-l-ubb-f-lancelot-l-equipe/1500000002638850/215:165,878:607-828-552-75/f1eba.jpg"
     },
     {
-     "titre": "Les 115 marins de la Route du Rhum enfin libres de prendre le large et d'écrire leur propre histoire",
-     "lien": "https://www.lequipe.fr/Voile/Article/Les-115-marins-de-la-route-du-rhum-enfin-libres-de-prendre-le-large-et-d-ecrire-leur-propre-histoire/1740037#at_medium=RSS_feeds",
-     "resume": "Après deux semaines d'un incroyable engouement populaire, les 115 concurrents de la treizième édition de la reine des transats seront enfin seuls avec eux-mêmes et leur histoire ce dimanche à 13 h 02 (départ à suivre en direct sur la chaîne L'Équipe) dans…",
-     "date": "2026-11-01T05:55:00+01:00",
-     "source": "",
-     "image": "https://medias.lequipe.fr/img-photo-jpg/charles-caudrelier-debarque-sur-la-route-du-rhum-avec-le-nouveau-maxi-edmond-de-rothschild-y-riou-polaryse-gitana-s-a-polaryse-gitana-s-a/1500000002638538/0:0,2000:1333-828-552-75/01273.jpg"
-    },
-    {
-     "titre": "Bradley Barcola, Florian Wirtz et Alexander Isak doivent digérer le coût de leur transfert à Liverpool",
-     "lien": "https://www.lequipe.fr/Football/Actualites/Bradley-barcola-florian-wirtz-et-alexander-isak-doivent-digerer-le-cout-de-leur-transfert-a-liverpool/1740099#at_medium=RSS_feeds",
-     "resume": "En forme avant le match de Liverpool contre Arsenal, dimanche (17 h 30) en Premier League, Bradley Barcola, Florian Wirtz et Alexander Isak vont-ils enfin réussir à se libérer du poids de leur transfert ?",
-     "date": "2026-11-01T05:50:00+01:00",
+     "titre": "Êtes-vous un vrai fan de sport ?",
+     "lien": "https://www.lequipe.fr/jeux#at_medium=RSS_feeds",
+     "resume": "",
+     "date": "2026-11-01T06:49:00+01:00",
      "source": "",
      "image": "https://medias.lequipe.fr/img-photo-png/-/1500000000833469/0-828-552-75/0cb67.png"
-    },
-    {
-     "titre": "La prise de conscience de Romain Faivre au mitan de sa carrière : « J'aurais préféré être comme ça à 22, 20 ou même 18 ans »",
-     "lien": "https://www.lequipe.fr/Football/Article/Romain-faivre-milieu-offensif-de-l-aj-auxerre-revient-sur-son-irregularite-j-ai-compris-que-le-talent-ne-suffit-pas/1739992#at_medium=RSS_feeds",
-     "resume": "Avant le déplacement de l'AJA à Strasbourg dimanche (15 heures), Romain Faivre, de nouveau prêté par Bournemouth, revient sur ses difficultés à s'imposer durablement partout où il est passé. Le milieu offensif de 28 ans, qui assure avoir « pris une baffe »…",
-     "date": "2026-11-01T05:37:00+01:00",
-     "source": "",
-     "image": "https://medias.lequipe.fr/img-photo-jpg/romain-faivre-avec-le-maillot-de-l-aj-auxerre-ou-il-est-prete-aj-auxerre/1500000002638607/0:236,2000:1569-828-552-75/bc2b6.jpg"
     }
    ],
    "flux_utilise": "https://dwh.lequipe.fr/api/edito/rss?path=/"
@@ -260,18 +260,8 @@
      "date": "2026-10-31T23:57:51+01:00",
      "source": "lemonde.fr",
      "image": "https://img.lemde.fr/2026/10/31/480/0/7105/3552/644/322/60/0/fcbc686_ftp-1-7fh0f7pd0yq4-3d25809f27e64744b0b93ba131d28c24-0-6c2812d488104a209510898b59b013ce.jpg",
-     "reprises": 6,
-     "score": 18.66
-    },
-    {
-     "titre": "🔴 Acte III en direct : 320 000 manifestants en France selon le ministère de l'Intérieur, des heurts à Paris",
-     "lien": "https://www.france24.com/fr/france/20261031-31-octobre-en-direct-70-000-policiers-mobilis%C3%A9s-pour-un-acte-iii-%C3%A0-risque-tr%C3%A8s-%C3%A9lev%C3%A9-en-pleine-f%C3%AAte-d-halloween",
-     "resume": "Sylvain Boulouque, Historien des radicalités politiques et des mouvements sociaux, est notre invité.",
-     "date": "2026-10-31T17:43:38+01:00",
-     "source": "france24.com",
-     "image": null,
      "reprises": 5,
-     "score": 18.54
+     "score": 16.43
     },
     {
      "titre": "JOJ Dakar 2026 : la fierté d'une Afrique qui entre dans l'histoire olympique",
@@ -281,7 +271,17 @@
      "source": "france24.com",
      "image": "https://s.france24.com/media/display/1630f048-d58f-11f1-92c9-bf1914cabd52/w:1024/p:16x9/Ceremonie-JOJ-00-00-05-12-Still001.jpg",
      "reprises": 2,
-     "score": 16.86
+     "score": 16.28
+    },
+    {
+     "titre": "🔴 Acte III en direct : 320 000 manifestants en France selon le ministère de l'Intérieur, des heurts à Paris",
+     "lien": "https://www.france24.com/fr/france/20261031-31-octobre-en-direct-70-000-policiers-mobilis%C3%A9s-pour-un-acte-iii-%C3%A0-risque-tr%C3%A8s-%C3%A9lev%C3%A9-en-pleine-f%C3%AAte-d-halloween",
+     "resume": "Sylvain Boulouque, Historien des radicalités politiques et des mouvements sociaux, est notre invité.",
+     "date": "2026-10-31T17:43:38+01:00",
+     "source": "france24.com",
+     "image": null,
+     "reprises": 5,
+     "score": 14.7
     },
     {
      "titre": "Guerre en Ukraine : au moins 700 habitants d’Olechky, ville du Sud située sur la ligne de front, ont été évacués dans le nord de l’Ukraine après une opération d’aide humanitaire. Retrouvez les informations du 25 au 31 octobre.",
@@ -290,18 +290,18 @@
      "date": "2026-10-31T23:33:16+01:00",
      "source": "lemonde.fr",
      "image": "https://img.lemde.fr/2026/10/31/653/0/5152/2576/644/322/60/0/784ef33_ftp-1-chavw3qjptso-2026-10-31t131804z-1803645108-rc2ceoatramw-rtrmadp-3-ukraine-crisis-oleshky.JPG",
-     "reprises": 6,
-     "score": 14.59
+     "reprises": 7,
+     "score": 14.56
     },
     {
-     "titre": "Le guide suprême iranien met en garde les États-Unis et Israël contre une reprise de la guerre",
-     "lien": "https://www.rfi.fr/fr/moyen-orient/20261031-le-guide-supr%C3%AAme-iranien-met-en-garde-les-%C3%A9tats-unis-et-isra%C3%ABl-contre-une-reprise-de-la-guerre",
-     "resume": "Le guide suprême iranien, Mojtaba Khamenei, a rencontré samedi 31 octobre de hauts responsables militaires et leur a ordonné de riposter à toute attaque américaine ou israélienne par une réponse « sans limite géographique », selon un communiqué publié sur…",
-     "date": "2026-10-31T18:38:11+01:00",
-     "source": "AFP - ATTA KENARE",
-     "image": "https://s.rfi.fr/media/display/cec48372-d54e-11f1-9b4f-695cb59fade5/w:1024/p:16x9/000-D3YC8TJ.jpg",
-     "reprises": 5,
-     "score": 8.94
+     "titre": "Donald Trump menace l’Iran de nouvelles frappes sur « un ou deux sites », dont le mont Kolang, près du complexe nucléaire de Natanz",
+     "lien": "https://www.lemonde.fr/international/article/2026/11/01/donald-trump-menace-l-iran-de-nouvelles-frappes-sur-un-ou-deux-sites-dont-le-mont-kolang-pres-du-complexe-nucleaire-de-natanz_6804009_3210.html",
+     "resume": "« Nous pouvons faire ça en dix minutes », a affirmé le président américain, samedi, alors que des informations de presse évoquent une possible campagne militaire courte et intense après les élections américaines de mi-mandat, prévues mardi. L’Iran a, de son…",
+     "date": "2026-11-01T05:24:33+01:00",
+     "source": "lemonde.fr",
+     "image": "https://img.lemde.fr/2026/07/22/600/0/6000/3000/644/322/60/0/1b2a70f_upload-1-nj5tsywoci5l-000-a2dd6at.jpg",
+     "reprises": 4,
+     "score": 9.67
     },
     {
      "titre": "La justice rejette la plainte en diffamation de Donald Trump contre le « Wall Street Journal » au sujet d’une lettre à Jeffrey Epstein",
@@ -311,7 +311,7 @@
      "source": "lemonde.fr",
      "image": "https://img.lemde.fr/2025/09/08/904/0/5417/2708/644/322/60/0/c5b1888_ftp-import-images-1-thssccswsax2-f319d3a79a2248e289159c90c211976c-0-08071a9aed664f73bfe2931bc0b7bf69.jpg",
      "reprises": 4,
-     "score": 7.63
+     "score": 7.51
     }
    ],
    "a_traduire": []
@@ -322,24 +322,14 @@
    "sous_titre": "Modèles, entreprises, régulation, recherche",
    "items": [
     {
-     "titre": "Un chatbot doté d'intelligence artificielle a été mis en garde contre la diffusion de fausses informations concernant l'élection américaine.",
-     "lien": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPajk3cVZiVFJMT2M1VnhKQnp2emVRXzlkNWVTUk9sb0dOd2Ntd1VnZTh2QXdnRFZrcWZPb2FCTFNrTE5GNmFPNVluZGIwb2NjcjFxaU5TNTRJeVF6TUo2a2dJODJCUjlRc2ZwVlpNdXFVNUFDUlRjNm5udklaVnZEd1VZal9EWnBDY3pfM2dfUDIxYjg?oc=5",
+     "titre": "Marché : «Tout le boom de l'IA se retrouve sur la sellette»... L'introduction XXL d'Anthropic à Wall Street, un crash-test pour l'intelligence artificielle en Bourse",
+     "lien": "https://news.google.com/rss/articles/CBMiwgJBVV95cUxQV2tJRVktNks0Z2VrM0c3WUlEODBTeUd5WVdtWlVBNUdXTzMyUVlRRmZ3NFRXVVBGWTVlMU01QXJySHpfNEtCMUoxTkhpQ0FHb0V2WVVOMVFnZThtLWgxYWx2NEdITTJlNTJTTFRtVFNBWms1VG1mQVBwZjJnYzhWcDB4cFlaLVZ3aUZNZDNZSFc5QjZ6ZnFUeldodEpNcGZUa3FlYkxpcGI0TVNuNzRxdk5BZXgwRmhXdTdoVGpfbFZDemtHbWg3MmdYa25mOUZOSlVKYTJ1b3RHME05WFlUNXFkUzk3OGtRbDFVcVFlNXhtaFNWS21LMWRqOThaMW1tT3pQWFVlUk1ON2VIWkVPRFh1LWlzR1E3bDNWdkNYUDMzZU5yUFJWczRubG5wck02OUpsNWFseTdDcDZ5VEgxazRB?oc=5",
      "resume": "",
-     "date": "2026-11-01T06:50:09+01:00",
-     "source": "Vietnam.vn",
+     "date": "2026-11-01T07:00:00+01:00",
+     "source": "BFM Bourse",
      "image": null,
      "reprises": 2,
-     "score": 4.84
-    },
-    {
-     "titre": "Sur Roblox, Deux Jeux Créés Presque Entièrement Par IA Entrent Dans Le Top 20 En 2026",
-     "lien": "https://news.google.com/rss/articles/CBMibkFVX3lxTE85aTRDT1cwV1pRakM5MlI3RDVJT1lVY1pCMW1ENjBXTU5MUHRjMjRLMFI4TWVxUkxuLUEtQXRZYXVwTnpESFZNYW5UZzJLV1hOcHhWRXFhbkVqRkZQMjVmUEFjM3FuM1BENTlSTUVB?oc=5",
-     "resume": "",
-     "date": "2026-11-01T01:14:13+01:00",
-     "source": "Pause Hardware",
-     "image": null,
-     "reprises": 3,
-     "score": 4.32
+     "score": 6.4
     },
     {
      "titre": "Quel est l’impact environnemental de l’intelligence artificielle ? Ce que dit la dernière note de l’Ademe",
@@ -348,8 +338,18 @@
      "date": "2026-11-01T06:30:08+01:00",
      "source": "Ouest-France",
      "image": null,
+     "reprises": 3,
+     "score": 5.85
+    },
+    {
+     "titre": "OpenAI IPO Valuation Target Reportedly Trimmed By $150B After Nasdaq 100 Registers Worst Month Since March 2025 Following Brutal Tech Sell-Off",
+     "lien": "https://news.google.com/rss/articles/CBMiqAJBVV95cUxPN3FmcVo1YzA2UndxYUQ3QVphQjhlcThxaWxQeGNWYWVza0g2WDczb1J0dVdBZWlXMVI0T2dyZmljMkZ4SWNpQ05zN0g3cUJtN0tJM2loVkhYZEdTSGxpcXFXSTdnNzU2NDFGOHFsYWRQX0Yyeng5TnVDYXB1T1NtR2N0c3NGQnZmUGd0UWZaMUFLSk1pRjVEX3BORE4zN0IxSUhUNkppNkdZNFZEUGpHYzZ6NlAxNm83UGg4WjBtSkJ5ZjktUThBdS1WWnhCY1RHZFI5dnpNcVR2blFyQWlqLVVuTEtKRzhUc29lU19lNkVEWWU2UVVTai1JY1dvUDBMSUZMelE3cWxtYTF1SkJ2ckhNTHJlOHBsZ3duOTduandMWWR1Q29OUg?oc=5",
+     "resume": "OpenAI’s latest funding round doesn't seem to be living up to expectations.",
+     "date": "2026-10-31T12:30:55+01:00",
+     "source": "TradingView",
+     "image": null,
      "reprises": 2,
-     "score": 3.69
+     "score": 3.21
     },
     {
      "titre": "Le patron d'OpenAI juge « terrible » que votre PC garde sa propre RAM et préfèrerait la voir dans ses datacenters",
@@ -359,17 +359,17 @@
      "source": "01net.com",
      "image": null,
      "reprises": 2,
-     "score": 3.01
+     "score": 2.99
     },
     {
-     "titre": "« On ne ressent rien » : des étudiants en cinéma chinois jugent sévèrement « Sanxingdui », le premier film 100 % IA",
-     "lien": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxPajhpZm80RW9VaElHYWxBOUFwcnh4VzVlNFdScmNZSHN2UlFSel9CdWZWVTBybEtlNnlidjJFTFBmZU5qcVpNMUJyZmVJblVzUXZSQnkwU195NGk3VlN3ZjJyamYtbGtQVGhmNHMtVlVWdUVCaG9UME11WEJvN0tOQWEtYW9INFptb1BVeURPSW9vcndMVC1hWTdEbFFVS1JxQzVoNEd5bUJkajNjUEFvcmRiWlp2RUZFSjdTS2s4UjV2MHczenRSUTNUeGxFSWJfNXZxeV9vRVc5NFN5NkUyd2dGTXNhNFZzakN4X2NPTHhYN25hV1ZjN1hBcWMzaVU?oc=5",
+     "titre": "OpenAI abaisse son objectif de levée de fonds face à la chute des valeurs technologiques.",
+     "lien": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOX2FxVjdoSzhFOU5uenhGbndUVTZIVFNLNjVpV2dXbUoweHY1VzdKRDExU1pEZ1VUSnBhOEFLcVdCdk1DdVVMeV92SWJocjNIOVNrMG5KNm53eW9ncDNsUnRyS2ZQcnpRS041M3VfQlFXU3JuTGpRM01qY2p1V19oalJsNXRWdnZfdWhTR3FQZnlDXzA?oc=5",
      "resume": "",
-     "date": "2026-11-01T06:30:10+01:00",
-     "source": "Le Monde.fr",
+     "date": "2026-11-01T02:18:27+01:00",
+     "source": "Vietnam.vn",
      "image": null,
      "reprises": 2,
-     "score": 2.81
+     "score": 2.69
     }
    ],
    "a_traduire": [
@@ -381,7 +381,7 @@
      "source": "techcrunch.com",
      "image": null,
      "reprises": 1,
-     "score": 1.46
+     "score": 1.45
     },
     {
      "titre": "The biggest names in AI are backing a new way to opt out of scraping",
@@ -391,7 +391,7 @@
      "source": "theverge.com",
      "image": null,
      "reprises": 1,
-     "score": 1.04
+     "score": 1.02
     },
     {
      "titre": "Making it easier for websites to express AI training preferences",
@@ -401,7 +401,7 @@
      "source": "OpenAI",
      "image": null,
      "reprises": 1,
-     "score": 1.04
+     "score": 1.02
     },
     {
      "titre": "Nvidia weighs playing the cosigner for Nscale’s AI data center in West Virginia",
@@ -411,7 +411,7 @@
      "source": "techcrunch.com",
      "image": null,
      "reprises": 1,
-     "score": 0.99
+     "score": 0.98
     },
     {
      "titre": "Even OpenAI Is Feeling the AI Selloff? ChatGPT Maker Reportedly Cuts Funding Target by $10 Billion as Investors Tighten Purse Strings",
@@ -421,7 +421,7 @@
      "source": "TradingView",
      "image": null,
      "reprises": 1,
-     "score": 0.95
+     "score": 0.93
     }
    ]
   },
@@ -437,8 +437,8 @@
      "date": "2026-10-31T10:17:00+01:00",
      "source": "Actu-Juridique",
      "image": null,
-     "reprises": 38,
-     "score": 87.87,
+     "reprises": 35,
+     "score": 82.99,
      "libertes": true
     },
     {
@@ -448,8 +448,8 @@
      "date": "2026-10-29T14:53:27+01:00",
      "source": "Acteurs Publics",
      "image": null,
-     "reprises": 5,
-     "score": 7.84,
+     "reprises": 4,
+     "score": 6.36,
      "libertes": false
     },
     {
@@ -460,7 +460,7 @@
      "source": "franceinfo",
      "image": null,
      "reprises": 1,
-     "score": 3.2,
+     "score": 3.18,
      "libertes": false
     },
     {
@@ -470,8 +470,8 @@
      "date": "2026-10-31T14:50:33+01:00",
      "source": "France 3 Régions",
      "image": null,
-     "reprises": 1,
-     "score": 1.34,
+     "reprises": 2,
+     "score": 3.11,
      "libertes": true
     },
     {
@@ -482,7 +482,7 @@
      "source": "Europe 1",
      "image": null,
      "reprises": 1,
-     "score": 1.32,
+     "score": 1.31,
      "libertes": true
     },
     {
@@ -493,7 +493,7 @@
      "source": "Le Club des Juristes",
      "image": null,
      "reprises": 1,
-     "score": 1.25,
+     "score": 1.24,
      "libertes": false
     }
    ],
