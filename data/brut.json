@@ -1,6 +1,6 @@
 {
  "date": "2026-11-02",
- "genere": "2026-11-02T06:36+01:00",
+ "genere": "2026-11-02T06:57+01:00",
  "journaux": [
   {
    "id": "figaro",
@@ -48,9 +48,9 @@
      "titre": "Présidentielle 2027 : Édouard Philippe rejette la «primaire des démocrates» proposée par Gabriel Attal",
      "lien": "https://www.lefigaro.fr/elections/presidentielles/candidats/presidentielle-2027-edouard-philippe-rejette-la-primaire-des-democrates-proposee-par-gabriel-attal-20261101",
      "resume": "Invité dimanche soir du «20 heures» de TF1, le candidat Horizons à la présidentielle a fustigé une idée qui «se propose de rassembler des gens qui ne sont pas d’accord».",
-     "date": "2026-11-02T00:39:32+01:00",
+     "date": "2026-11-02T06:52:13+01:00",
      "source": "",
-     "image": "https://i.f1g.fr/media/cms/3000x2001_crop/2026/11/01/c0ed0863e54f47a8aed59106ea3672c4740ec0190b2e0191348495ead5228708.jpg"
+     "image": "https://i.f1g.fr/media/cms/orig/2026/11/02/ccca18de1fb3f430f7c269f16e28e4aef465f0791ee2510f7f815608c6449633.jpg"
     },
     {
      "titre": "«Calomnies racistes» : fâché contre TF1 et l'interview d’Édouard Philippe, Jean-Luc Mélenchon annule un passage au «20 heures»",
@@ -77,7 +77,7 @@
      "titre": "Midterms 2026 : les reniements de Donald Trump l’exposent à un vote sanction de la part des électeurs américains",
      "lien": "https://www.lemonde.fr/international/article/2026/11/02/midterms-2026-les-reniements-de-donald-trump-l-exposent-a-un-vote-sanction-de-la-part-des-electeurs-americains_6804843_3210.html",
      "resume": "La guerre en Iran et l’envolée du coût de la vie, malgré les promesses du président des Etats-Unis de juguler l’inflation et de ne plus engager son pays dans une aventure militaire extérieure, suscitent de fortes interrogations dans le camp républicain.",
-     "date": "2026-11-02T05:30:50+01:00",
+     "date": "2026-11-02T05:30:47+01:00",
      "source": "",
      "image": "https://img.lemde.fr/2026/10/04/522/0/5435/2717/644/322/60/0/591ae74_ftp-1-r1hqrf2jv712-fb28791f1adf4bf5a6755e516c587105-0-989f9f6031c94c10b598c5c890df8f59.jpg"
     },
@@ -129,9 +129,9 @@
    "nom": "La Croix",
    "couleur": "#c8102e",
    "une": {
-    "fichier": "unes/croix.jpg",
-    "date": "2026-11-01",
-    "source": "https://img.kiosko.net/2026/11/01/fr/lacroix.750.jpg"
+    "fichier": "unes/croix.webp",
+    "date": "2026-11-02",
+    "source": "https://www.frontpages.com/t/2026/11/02/la-croix-063857gt4@2x.webp"
    },
    "articles": [
     {
@@ -196,6 +196,14 @@
    },
    "articles": [
     {
+     "titre": "Relevez le défi sport du jour",
+     "lien": "https://www.lequipe.fr/jeux#at_medium=RSS_feeds",
+     "resume": "",
+     "date": "2026-11-02T06:48:00+01:00",
+     "source": "",
+     "image": "https://medias.lequipe.fr/img-photo-png/-/1500000000833469/0-828-552-75/0cb67.png"
+    },
+    {
      "titre": "Plus puissants, plus agressifs et plus réactifs : face à Toulouse, c'est grâce à ses avants que Pau a fait la différence",
      "lien": "https://www.lequipe.fr/Rugby/Article/Plus-puissants-plus-agressifs-plus-reactifs-face-a-toulouse-c-est-grace-a-ses-avants-que-pau-a-fait-la-difference/1740451#at_medium=RSS_feeds",
      "resume": "Porté par ses gros de devant, dominateurs en touche et dans les rucks, Pau a logiquement battu le Stade Toulousain (34-14), dimanche soir, au stade du Hameau, pour revenir à la troisième place du Top 14.",
@@ -234,14 +242,6 @@
      "date": "2026-11-02T05:44:00+01:00",
      "source": "",
      "image": "https://medias.lequipe.fr/img-photo-jpg/stevens-delarocque-supporter-du-pfc-a-tenu-a-assister-a-la-fois-aux-matches-des-feminines-et-de-leurs-homologues-masculins-dimanche-w-dupuy-l-equipe/1500000002639819/0:0,2000:1333-828-552-75/5d1f0.jpg"
-    },
-    {
-     "titre": "« Aussi bon dans le jeu qu'à la finition » : après son doublé contre Monaco, le buteur du Paris FC Lassine Sinayoko sur les traces de George Weah",
-     "lien": "https://www.lequipe.fr/Football/Article/Avec-son-double-contre-monaco-le-buteur-du-paris-fc-lassine-sinayoko-se-place-dans-les-traces-de-george-weah/1740416#at_medium=RSS_feeds",
-     "resume": "Auteur de deux buts et d'une passe décisive face à Monaco (3-1) ce dimanche, l'attaquant malien a pris la tête du classement des buteurs de L1 à l'issue de cette 9e journée. Et rivalise avec le Libérien, dernier joueur africain à avoir inscrit au moins 8…",
-     "date": "2026-11-02T05:36:00+01:00",
-     "source": "",
-     "image": "https://medias.lequipe.fr/img-photo-jpg/juste-avant-la-pause-lassine-sinayoko-signe-un-double-devant-eric-dier-a-gauche-et-flavio-nazinho-s-mantey-l-equipe/1500000002639794/0:0,1976:1318-828-552-75/b49ca.jpg"
     }
    ],
    "flux_utilise": "https://dwh.lequipe.fr/api/edito/rss?path=/"
@@ -260,8 +260,8 @@
      "date": "2026-11-02T06:28:36+01:00",
      "source": "lemonde.fr",
      "image": "https://img.lemde.fr/2026/11/01/152/0/6000/3000/644/322/60/0/961be47_ftp-1-dvpinkeai1zs-2303020063.jpg",
-     "reprises": 17,
-     "score": 58.49
+     "reprises": 16,
+     "score": 51.13
     },
     {
      "titre": "EN DIRECT, guerre en Ukraine : Kiev et Moscou visés par des cyberattaques peu après la fin de la trêve à Olechky ; au moins trois personnes tuées dans des frappes russes dimanche",
@@ -271,7 +271,7 @@
      "source": "lemonde.fr",
      "image": "https://img.lemde.fr/2026/10/07/445/0/4109/2054/644/322/60/0/5599fa0_ftp-1-l6wb333wnae0-2026-10-07t013914z-1977634829-rc20ynaofbmq-rtrmadp-3-ukraine-crisis-attack-kyiv.JPG",
      "reprises": 4,
-     "score": 7.92
+     "score": 9.67
     },
     {
      "titre": "Présidentielle en Bulgarie : Iliana Iotova, partisane du dialogue avec Moscou, remporte l’élection",
@@ -281,7 +281,7 @@
      "source": "lemonde.fr",
      "image": "https://img.lemde.fr/2026/11/01/455/0/5463/2731/644/322/60/0/a7022f0_ftp-1-kfdaqfzgxvsb-afp-d6373nq.jpg",
      "reprises": 4,
-     "score": 7.58
+     "score": 9.13
     },
     {
      "titre": "Des frappes sur l'Iran dès cette semaine ?",
@@ -291,7 +291,17 @@
      "source": "franceinfo.fr",
      "image": "https://www.franceinfo.fr/pictures/GkmgefZBPc_fe50B50z1ZagNZG8/0x0:1080x1920/fit-in/432x243/filters:upscale():fill(blur):format(jpg)/2026/11/01/6ae799d23b606429215216.jpg",
      "reprises": 3,
-     "score": 7.02
+     "score": 6.71
+    },
+    {
+     "titre": "Pologne : ce qu’il faut savoir de la crise politique autour du Tribunal constitutionnel",
+     "lien": "https://www.lemonde.fr/international/article/2026/11/01/crise-en-pologne-ce-qu-il-faut-savoir_6804522_3210.html",
+     "resume": "La crise politique entre l’exécutif centriste du premier ministre, Donald Tusk, et l’opposition, qui couve depuis son retour aux affaires en 2023, a franchi une étape vendredi 30 octobre avec l’intervention de la police au Tribunal constitutionnel à Varsovie.",
+     "date": "2026-11-01T17:12:14+01:00",
+     "source": "lemonde.fr",
+     "image": "https://img.lemde.fr/2026/10/31/684/0/8192/4096/644/322/60/0/4856940_ftp-1-pl71sgok8pb9-232f1083d0b54f09bcf945696cc394cc-0-5e098372007e407b957ba6062a16e8f5.jpg",
+     "reprises": 4,
+     "score": 6.21
     },
     {
      "titre": "Présidentielle 2027 : la primaire de la droite et du centre n'aura pas lieu",
@@ -301,17 +311,7 @@
      "source": "france24.com",
      "image": "https://s.france24.com/media/display/bb3c873c-d64d-11f1-894b-a575454bc579/w:1024/p:16x9/Francais-2026-11-01T20-09-55-389Z.jpg",
      "reprises": 2,
-     "score": 6.19
-    },
-    {
-     "titre": "JOJ Dakar 2026 : les coulisses de l'édition spéciale du dimanche",
-     "lien": "https://www.france24.com/fr/vid%C3%A9o/20261101-joj-dakar-2026-m%C3%A9dailles-temps-forts-et-r%C3%A9sultats-rendez-vous-dimanche-21h42-de-paris",
-     "resume": "JOJ Dakar 2026 🇸🇳 Les coulisses de l'édition spéciale du Journal de l'Afrique. Médailles et temps forts des Jeux olympiques de la jeunesse : rendez-vous dimanche à 21h42 (Paris), 20h42 à Dakar, avec Fatimata Wane sur France 24 📺",
-     "date": "2026-11-01T19:05:50+01:00",
-     "source": "france24.com",
-     "image": "https://s.france24.com/media/display/9e837ed4-d616-11f1-aa49-695cb59fade5/w:1024/p:16x9/backstage-dimancheJTA-00-00-04-03-Still003.jpg",
-     "reprises": 2,
-     "score": 5.27
+     "score": 6.03
     }
    ],
    "a_traduire": []
@@ -323,13 +323,13 @@
    "items": [
     {
      "titre": "La Corée du Sud prévoit un budget record pour l'intelligence artificielle en 2027",
-     "lien": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNWURhOGgxMzhBRldJdS1UWDFOWmNmNjQwc09aMXd2MmtTcklDeGpPWllLLW5tV0ZVbXJSNGZJZWhqalctUVdMRjEtek42QXNqSVJqUTREQ21HYTdjUVBHaVo5N2F1R0tvX1g1bVl4aEllZXBCRDFFUlMxamdJY0dOMEhYVGZfT3RHOHdUTExuVThsSjI2d3M4ZzBZYTBlbzRBRkRxdGtZbkhJal9PdVJwWTRzRQ?oc=5",
+     "lien": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNalBWTnRjcHdPNWhGSmZvRTlLU09xVU13a3ZiSFhjaVBndHZxRktJNkhUOUNEay1YZXFwa0ZoTVllOFMtM2VwUVdGY1lHSGVweFljMFdYWkJhRUp6Y1VwZlZUZVF2bGFJU19jbENVRFFxeUFKSWhUTXJNUi1Jc1gyZ1p4NXVBRHNuaXNDODlZN0JFQXMyU2cwcjdQSTJYZ3BFZjhkczRjdlg0YmFFZHdxaktB?oc=5",
      "resume": "",
      "date": "2026-11-02T05:34:04+01:00",
      "source": "Le Temps",
      "image": null,
      "reprises": 4,
-     "score": 9.48
+     "score": 9.41
     },
     {
      "titre": "Intelligence artificielle : pourquoi les jeunes débutants sont déjà les premiers touchés sur le marché du travail",
@@ -339,7 +339,17 @@
      "source": "Vibration.fr",
      "image": null,
      "reprises": 4,
-     "score": 8.06
+     "score": 7.82
+    },
+    {
+     "titre": "HSBC va lancer un institut consacré à l’intelligence artificielle et aux technologies émergentes à Hong Kong",
+     "lien": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxQQjhIZWdTN1Npa2tycDlVTWVUbFRtWkJmZ3J5djBGNmN4Z3ZSdnpMZktIN29ySFIzbDMycGdZUU8ySkNOa0VoMDNsV0taOUNickRYVFA3bzk0a2JhSkY0NDY2MGZfWk9pQmlTUk9fQzFqWV9XSkJwTjR5TkRCTi1icllmb05mQmd6SXI4UkxNaVhMRmZBTHVKc3R4VmJmZ0hJd0s3LTRmbmYzSXZzUHZhVU1GRkFoZ3d3QlFUSlBZSmpOSG9MQTVKSGx2TlhZeXpFZmZMMjl0WkpKTGd0bmp1YWdGWXlXbHlqajQ3dmNkY1o?oc=5",
+     "resume": "",
+     "date": "2026-11-02T06:45:44+01:00",
+     "source": "Zonebourse Suisse",
+     "image": null,
+     "reprises": 2,
+     "score": 5.17
     },
     {
      "titre": "Mistral AI ouvre à Orange Cyberdefense l'accès anticipé à une version spécialisée de Large 4",
@@ -349,7 +359,7 @@
      "source": "Le Monde Informatique",
      "image": null,
      "reprises": 3,
-     "score": 4.9
+     "score": 4.85
     },
     {
      "titre": "OpenAI vise 2028 et veut renommer ses centres de données",
@@ -359,20 +369,20 @@
      "source": "Brief IA",
      "image": null,
      "reprises": 2,
-     "score": 4.64
-    },
-    {
-     "titre": "Que pense l'intelligence artificielle de l'humanité ? Les meilleures IA pointent toutes les mêmes faiblesses",
-     "lien": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxOZFN6UWdoVnNoUEI3Vm93WTNmNWVjLWlKd2Viek1mNjM0czhrV2lLX3dTM2h5OTJrT0lPMEN0TDd4cVg5a3k5bm9teUphQld3Yjh2U2gtU2xlei1SR09EWDZMOTJQeGRqU3ltSHFBMnMwbklWT0VwbHktaEQxWmNTa2RvZnFwNzNJMW9QeEotRzRtTGxxOGY2SGYwOE9SUVRtX29CRVFiMkJuTFdYSlhUbTZtaUxBQ3pXM3RRRFI5a0toNlRCSjdrbVlfYjVoYm9kRTF6dFpBQS1FZ2JIOG12RmhsRkFac25SYjBfRVB3RzFCSVJPZzJYRk5uLThpUQ?oc=5",
-     "resume": "",
-     "date": "2026-11-01T15:07:00+01:00",
-     "source": "Futura, le média qui explore le monde",
-     "image": null,
-     "reprises": 2,
-     "score": 3.16
+     "score": 4.54
     }
    ],
    "a_traduire": [
+    {
+     "titre": "Weeks Ahead Of Expected Anthropic IPO, DeepSeek Launches Autonomous Coding Agent To Take On Claude Code",
+     "lien": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxNNHlsRjM3YVZGUnEycE04c2Z3MG5FUy1vVjl2TGM1SXA4NWs3QTRzUDU1c1FzckZIaXJZckM2UUFrX1ZZVzVJbGQ0YThxbmE1RDVNS094QVZCOFVadUhudDE0UTRZYjdNWlNodUhaa2txV3VLSzJ4bGpzYUVuYU1WVHRkUC0yRlFkZG5SV0htai1JMFZ4RWozd3hrZzRoR3MxQ0pIbDMwdVJOQmNaTUFkUGtpa1l4c0p0TUFGN2RUMl91emU3WGxka2szVUIwWDhkS29QTUVFLXlfMnZqUUZWUnZ4SUc3OUNXODkwd3dqUUl3MUhv?oc=5",
+     "resume": "",
+     "date": "2026-11-01T09:46:00+01:00",
+     "source": "TradingView",
+     "image": null,
+     "reprises": 1,
+     "score": 1.25
+    },
     {
      "titre": "Anthropic Is “Reduplicating AWS” as It Rents Its Own Data Centers. Amazon Reports Thursday",
      "lien": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNb3VVSFV6ZzVtcXctcmZiMF9ONWpiX0NfdkVzekpkYkNrSVR2TEVCXy1aNFFNQk4wOGlHTndJMTJlbU9SajMzWjhFOXlYX2xSZXpSS1pjWGt6WGsxRUp0MG5SQkZHaksxaFRVZ2JqVWdPZkFHMGdxcl9YNnhSVExHR2NHbDZEVFItaWdCOUptOEpUWkNIQm9zU2NXbVYzYjZfelBCbWpHQ3VKUDQyVVVrWG52Y3RPQWc?oc=5",
@@ -381,7 +391,7 @@
      "source": "TIKR.com",
      "image": null,
      "reprises": 1,
-     "score": 1.32
+     "score": 1.08
     },
     {
      "titre": "Apple CEO says the company doesn’t ‘want to ship AI for AI’s sake’",
@@ -391,7 +401,7 @@
      "source": "techcrunch.com",
      "image": null,
      "reprises": 1,
-     "score": 1.07
+     "score": 1.06
     }
    ]
   },
@@ -408,7 +418,7 @@
      "source": "Actu-Juridique",
      "image": null,
      "reprises": 31,
-     "score": 62.06,
+     "score": 61.95,
      "libertes": true
     },
     {
@@ -419,8 +429,19 @@
      "source": "franceinfo",
      "image": null,
      "reprises": 3,
-     "score": 8.05,
+     "score": 8.04,
      "libertes": false
+    },
+    {
+     "titre": "Liberté d’expression : un droit à défendre, des limites à questionner pour 500 participants au symposium de l’École de Droit de l’UMONS",
+     "lien": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOeC1UWV82TExRdDl5bHFheGZEZDNiMHEtVU9HWEZxbXQ2aEdVT1BLQWw5YXpSTFJ4TGJxMkxxQXNhUEJpbV9IRTZpWFVVcnlMUDlnNFNHWmU1S1JseDlJWlhsS2xWeFhHS1BMU3h1cldrZFJLZS1DdTJfaHpicVRZRWlCTkhIaTBCeVZxczV5djZBcjlrRjJjUXNOREJmTjZwUHlscjEtWG1iSmY4cEhsb1BiSTlyTW1MOGNvS0lsN1ZaeHBJeEZHcFFZNzk?oc=5",
+     "resume": "",
+     "date": "2026-10-30T14:26:58+01:00",
+     "source": "Tele MB",
+     "image": null,
+     "reprises": 2,
+     "score": 4.51,
+     "libertes": true
     },
     {
      "titre": "Liberté d’expression : quand les mots dépassent les bornes, le contexte compte",
@@ -430,7 +451,7 @@
      "source": "Le Moniteur des pharmacies",
      "image": null,
      "reprises": 1,
-     "score": 3.6,
+     "score": 3.59,
      "libertes": true
     },
     {
@@ -443,17 +464,6 @@
      "reprises": 1,
      "score": 2.86,
      "libertes": false
-    },
-    {
-     "titre": "Des manifestants plus nombreux pour le troisième samedi de mobilisation à Lille : \"Je viens défendre la liberté d’expression\"",
-     "lien": "https://news.google.com/rss/articles/CBMiigJBVV95cUxQcnA5QnJzM2tjdEtoUlZDMUZBLUQ2Q0FwZjBHR0lDcjNybHZ5NFo4UjNsaFFMRDE0aVB0bXFna1VtQmFVcVJZQmpIZmc5M1NUaUN3NC1TRHAydWpMTVhRUHFQNGVOTDRXZnZ5ekc4OHBJdzJTTV9IdUdTUE84M1E2UDdvVlFQTnNFWG93NTBUOGNYREhpWGZHZ05nNVlrOVFmbGt6SGl5WTgtYVI4UFFDeEZXZGI4QmdQREEtMjUwbHFYYU1POXQtYlhDaDF0eWR6aU5sVHhNXzNiNklIME5uMUM1VXBWQ1plZzh6enUxRUcycVU2azdmdEFMZ0J0c0xQQ0ROVkFzLXplZw?oc=5",
-     "resume": "",
-     "date": "2026-10-31T14:50:33+01:00",
-     "source": "France 3 Régions",
-     "image": null,
-     "reprises": 2,
-     "score": 2.48,
-     "libertes": true
     },
     {
      "titre": "Liberté d’expression : les coups bas de l’IA",
