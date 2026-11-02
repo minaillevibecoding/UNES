@@ -1,112 +1,86 @@
 {
- "date": "2026-11-01",
- "edito": "L'« acte III » a réuni 320 000 manifestants selon l'Intérieur, 500 000 selon les organisateurs, avec des heurts en fin de journée. Le Conseil d'État avait jugé « justifiées et proportionnées » l'interdiction du parcours Bastille-Nation et le tracé de remplacement. En Pologne, Bruxelles presse le président Nawrocki de valider la nomination de nouveaux juges constitutionnels.",
+ "date": "2026-11-02",
+ "edito": "À la veille des midterms, plus de 54 millions d'Américains ont déjà voté et Donald Trump a tenu ses derniers meetings. En Bulgarie, Iliana Iotova, favorable au dialogue avec Moscou, devient la première femme élue présidente. En France, semaine sociale sous tension avec des blocages de lycées et la grève du 5 novembre. Pas de grande décision juridique nouvelle ce matin.",
  "journaux": {
   "figaro": {
-   "resume": "Le Figaro met l'accent sur la « violence inouïe » des casseurs lors de l'acte III et sur la menace iranienne.",
+   "resume": "Le Figaro scrute la présidentielle 2027, entre glissement d'électeurs macronistes vers Marine Le Pen et querelle de la primaire au centre.",
    "points": [
-    "320 000 manifestants dont 70 000 à Paris ; Laurent Nuñez fustige des « centaines » de casseurs d'ultragauche.",
-    "Un gendarme blessé par un cocktail Molotov.",
-    "Trump affirme que les États-Unis doivent encore « s'occuper » d'une ou deux cibles en Iran.",
-    "La Serbie commémore l'effondrement de l'auvent de la gare de Novi Sad, il y a deux ans."
+    "Des électeurs d'Emmanuel Macron en 2022 s'apprêtent à voter Marine Le Pen.",
+    "Édouard Philippe rejette la « primaire des démocrates » de Gabriel Attal.",
+    "Natacha Polony revendique 174 parrainages et le soutien de Jean-Pierre Chevènement.",
+    "Jean-Luc Mélenchon annule son passage au « 20 heures » de TF1."
    ]
   },
   "monde": {
-   "resume": "Le Monde décrit des cortèges « festifs et déterminés » et fait le point sur ce qui change au 1er novembre.",
+   "resume": "Le Monde estime que les reniements de Donald Trump l'exposent à un vote sanction.",
    "points": [
-    "Environ 500 000 manifestants selon les organisateurs, 320 000 selon les autorités.",
-    "Midterms : plus de 52 millions d'Américains ont déjà voté par anticipation.",
-    "Sahara occidental : la fin annoncée de la mission de l'ONU ouvre une période d'incertitude.",
-    "1er novembre : hausse du gaz, nouvelle taxe sur les petits colis, revalorisation des retraites complémentaires."
+    "Midterms : la guerre en Iran et la vie chère pèsent sur le camp républicain.",
+    "Les nombreux avantages fiscaux et matériels de Gianni Infantino à la tête de la FIFA.",
+    "Mouvement lycéen : appels à bloquer les établissements dès lundi.",
+    "Kimi Antonelli, 20 ans, plus jeune champion du monde de F1 de l'histoire."
    ]
   },
   "croix": {
-   "resume": "La Croix donne la parole aux manifestants, nombreux lycéens, du 31 octobre.",
+   "resume": "La Croix appelle au « temps de l'apaisement » avant une semaine sociale sous haute tension.",
    "points": [
-    "« On veut un monde meilleur » : des dizaines de milliers de manifestants à Paris.",
-    "Moyen-Orient : le guide suprême iranien met en garde Washington.",
-    "Ukraine : des habitants d'Olechky évacués après une trêve locale.",
-    "COP17 : des engagements jugés poussifs pour la biodiversité."
+    "Des groupes de travail sur les spécialités du bac réunis dès cette semaine.",
+    "Blocages de lycées attendus et journée de grève le 5 novembre.",
+    "« La petite martyre de l'A10 » : procès de deux suspects, 39 ans après les faits.",
+    "Serbie : hommage aux 16 victimes de Novi Sad, une semaine après la défaite de Vucic."
    ]
   },
   "equipe": {
-   "resume": "L'Équipe célèbre les 43 points de Victor Wembanyama.",
+   "resume": "L'Équipe revient sur la victoire de Pau contre Toulouse et le départ de Paulo Fonseca de Lyon.",
    "points": [
-    "Wembanyama inscrit 43 points contre Minnesota, son deuxième meilleur total en NBA.",
-    "Christian Mbilli battu par Canelo Alvarez : et maintenant ?",
-    "Le Stade Toulousain encaisse beaucoup d'essais.",
-    "PSG-Montpellier en handball : Luka Karabatic face à Valentin Porte."
+    "Pau bat le Stade Toulousain 34-14 grâce à ses avants.",
+    "Paulo Fonseca quitte Lyon pour le Sporting Portugal en pleine saison.",
+    "Lassine Sinayoko, auteur d'un doublé contre Monaco, en tête des buteurs de L1.",
+    "NBA : Nolan Traoré aide Brooklyn à décrocher sa première victoire."
    ]
   }
  },
  "sections": {
   "monde": [
    {
-    "titre": "Acte III : 320 000 manifestants selon l'Intérieur, des heurts à Paris",
-    "lien": "https://www.france24.com/fr/france/20261031-31-octobre-en-direct-70-000-policiers-mobilis%C3%A9s-pour-un-acte-iii-%C3%A0-risque-tr%C3%A8s-%C3%A9lev%C3%A9-en-pleine-f%C3%AAte-d-halloween",
-    "source": "France 24",
-    "date": "2026-10-31T17:43:38+01:00",
-    "resume": "Les cortèges ont majoritairement défilé dans le calme, avant des heurts en fin de journée ; Laurent Nuñez dénonce des « centaines » de casseurs.",
-    "pourquoi": "Troisième samedi de mobilisation en trois semaines, sans signe d'essoufflement."
+    "titre": "Midterms : plus de 54 millions de votes anticipés avant le scrutin de mardi",
+    "lien": "https://www.lemonde.fr/international/live/2026/11/02/en-direct-midterms-2026-le-dernier-meeting-de-donald-trump-plus-de-54-millions-de-votes-anticipes-retrouvez-les-dernieres-informations-de-la-campagne_6801590_3210.html",
+    "source": "Le Monde",
+    "date": "2026-11-02T06:28:36+01:00",
+    "resume": "Donald Trump a conclu sa campagne dans l'Iowa puis le Kansas ; il a déclaré qu'il pourrait devenir « Monsieur Veto ».",
+    "pourquoi": "Le contrôle du Congrès conditionne la fin du mandat de Trump."
    },
    {
-    "titre": "Pologne : Bruxelles appelle le président Nawrocki à valider de nouveaux juges constitutionnels",
-    "lien": "https://www.lemonde.fr/international/article/2026/10/31/crise-politique-en-pologne-bruxelles-appelle-le-president-karol-nawrocki-a-valider-la-nomination-de-nouveaux-juges-au-tribunal-constitutionnel_6803801_3210.html",
+    "titre": "Bulgarie : Iliana Iotova, partisane du dialogue avec Moscou, élue présidente",
+    "lien": "https://www.lemonde.fr/international/article/2026/11/01/presidentielle-en-bulgarie-iliana-iotova-remporte-l-election-selon-plusieurs-sondages-a-la-sortie-des-urnes_6804603_3210.html",
     "source": "Le Monde",
-    "date": "2026-10-31T23:57:51+01:00",
-    "resume": "Après l'intervention de la police dans les locaux du Tribunal constitutionnel et l'annonce de la suspension de son président contesté, le chef de l'État a réuni majorité et opposition.",
-    "pourquoi": "Un test majeur pour la restauration de l'État de droit en Pologne."
+    "date": "2026-11-01T20:07:39+01:00",
+    "resume": "L'ancienne journaliste et figure du Parti socialiste, 62 ans, devient la première femme élue à la présidence, dans un contexte de menaces sécuritaires et d'inquiétudes économiques.",
+    "pourquoi": "Un nouveau pays de l'UE dirigé par une personnalité ouverte à Moscou."
    },
    {
-    "titre": "États-Unis : la plainte en diffamation de Trump contre le « Wall Street Journal » rejetée",
-    "lien": "https://www.lemonde.fr/international/article/2026/11/01/lettre-a-jeffrey-epstein-la-justice-rejette-la-plainte-en-diffamation-de-donald-trump-contre-le-wall-street-journal_6803834_3210.html",
+    "titre": "Ukraine-Russie : cyberattaques croisées après la fin de la trêve d'Olechky",
+    "lien": "https://www.lemonde.fr/international/live/2026/11/02/en-direct-guerre-en-ukraine-kiev-et-moscou-vises-par-des-cyberattaques-peu-apres-la-fin-de-la-treve-a-olechky-au-moins-trois-personnes-tuees-dans-des-frappes-russes-dimanche_6803934_3210.html",
     "source": "Le Monde",
-    "date": "2026-11-01T01:34:34+01:00",
-    "resume": "Le juge Darrin P. Gayles ne tranche pas sur l'authenticité de la lettre à Jeffrey Epstein attribuée à Donald Trump, mais estime que les journalistes ont dûment enquêté.",
-    "pourquoi": "Une victoire pour la liberté de la presse face au président américain."
-   },
-   {
-    "titre": "Ukraine : au moins 700 habitants d'Olechky évacués",
-    "lien": "https://www.lemonde.fr/international/live/2026/10/31/en-direct-guerre-en-ukraine-au-moins-700-habitants-d-olechky-ville-situee-sur-la-ligne-de-front-ont-ete-evacues-dans-le-nord-de-l-ukraine-apres-une-operation-d-aide-humanitaire_6799896_3210.html",
-    "source": "Le Monde",
-    "date": "2026-10-31T23:33:16+01:00",
-    "resume": "L'évacuation s'est faite en bus ou en avion via la Russie et la Biélorussie ; Volodymyr Zelensky a remercié la médiation américaine et Melania Trump.",
-    "pourquoi": "Une rare opération humanitaire négociée sur la ligne de front."
+    "date": "2026-11-02T05:50:29+01:00",
+    "resume": "Kiev a annoncé le piratage de son application d'alerte à la population ; Moscou affirme que l'application de son ministère des situations d'urgence a aussi été visée.",
+    "pourquoi": "Le conflit se prolonge dans le cyberespace, au détriment des systèmes civils d'alerte."
    }
   ],
   "ia": [
    {
-    "titre": "Apple ne veut pas « lancer de l'IA pour le plaisir », selon son nouveau patron",
-    "lien": "https://techcrunch.com/2026/10/31/apple-ceo-says-the-company-doesnt-want-to-ship-ai-for-ais-sake/",
-    "source": "TechCrunch",
-    "date": "2026-10-31T22:41:00+01:00",
-    "resume": "Le nouveau PDG d'Apple a défendu la position de l'entreprise dans la course à l'IA, jugée en retrait.",
-    "pourquoi": "Apple assume une stratégie prudente face à des concurrents qui investissent massivement."
-   },
-   {
-    "titre": "Le patron d'OpenAI juge « terrible » que la mémoire vive reste dans les PC",
-    "lien": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxPZ2YtbF9WWl9xeTZwNFpkUmZzSnhsQW9EbkFMVEMwcWczY1ZlOENUUkxBblpaeWgyXzd6dl9ROXRmQnJOS0U3dlA4TkJiZzBSX1R4VHVMRVpXWlBoaEVGbXYyR1ZwUzBxaEpobDlYUTgyYzJEd19xSlVEYTJYTzVpYy1rNVNSNHcySEZteUF3blpJaHdIV0dyVGNabEJ2c2Nwb1IxaEJrVWkyQjVyNjcwSm5uN01kZWdQd3lSeEdTVDZMZ3dHTUsyV0hjZ1BUUWN2aXhoWld4UnEwdFVZR01V?oc=5",
-    "source": "01net",
-    "date": "2026-10-31T17:50:53+01:00",
-    "resume": "Alors que le prix de la RAM a été multiplié par trois ou quatre en un an, il estime que les particuliers gardent une mémoire qui ne servirait que 5 % du temps, et qui serait mieux employée dans les centres de données.",
-    "pourquoi": "La pénurie de composants provoquée par l'IA se répercute sur les consommateurs."
+    "titre": "La Corée du Sud prévoit un budget record pour l'IA en 2027",
+    "lien": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNWURhOGgxMzhBRldJdS1UWDFOWmNmNjQwc09aMXd2MmtTcklDeGpPWllLLW5tV0ZVbXJSNGZJZWhqalctUVdMRjEtek42QXNqSVJqUTREQ21HYTdjUVBHaVo5N2F1R0tvX1g1bVl4aEllZXBCRDFFUlMxamdJY0dOMEhYVGZfT3RHOHdUTExuVThsSjI2d3M4ZzBZYTBlbzRBRkRxdGtZbkhJal9PdVJwWTRzRQ?oc=5",
+    "source": "Le Temps",
+    "date": "2026-11-02T05:34:04+01:00",
+    "resume": "Selon Le Temps, Séoul s'apprête à consacrer en 2027 un budget sans précédent à l'intelligence artificielle.",
+    "pourquoi": "Les États accélèrent leurs investissements publics dans la course à l'IA."
    }
   ],
-  "droit": [
-   {
-    "titre": "Parcours du 31 octobre : pourquoi le Conseil d'État a donné raison au ministre",
-    "lien": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxQSktHQ0w2bTVEOEpSSlh3cHM4N25QZjFONzNhVGpTaWhmU2s2SDU0MUxmeXA0UlQxYXZpVTlFaXBuYXlDZjNfNTBSWWhMWXR1QVFyRnBVQnMtajZzY3JISlkzMldqNVhBWC00d3gyX3FVdG10b0RVWFRDTk9PRV9qdjJESWhhVWY1WVUzZjRJNUo0ZXktUHJQTm9RQ2tSdmZjaXVsNjdyTFZRZ29wMGhJa2M0QUJpRzdTc1puVzg4SExzOTVGLVVjY2VzTEx3Z1llallQbmJ2ZS1PSS1DMjVZZVdkYWVydXdmSHBWclNzU2g0RTg?oc=5",
-    "source": "Actu-Juridique",
-    "date": "2026-10-31T10:17:00+01:00",
-    "resume": "Le juge des référés a annulé l'ordonnance du tribunal administratif qui rouvrait le parcours Bastille-Nation. Selon les comptes rendus, il a jugé l'interdiction de ce tracé et la mesure de remplacement (de la porte de Bagnolet à la porte de Charenton) « justifiées et proportionnées au regard des risques retenus », la préfecture invoquant les dégradations du 17 octobre.",
-    "libertes": "Liberté de manifester ; ordre public.",
-    "angle_crfpa": "Suite de l'ordonnance signalée hier. Le contrôle porte sur la modification du parcours, non sur une interdiction totale : le juge admet qu'un tracé moins visible reste compatible avec la liberté de manifester si les risques sont étayés par des circonstances concrètes."
-   }
-  ]
+  "droit": []
  },
  "notion": {
-  "titre": "Le triple test de proportionnalité",
-  "texte": "Le juge administratif vérifie qu'une mesure restreignant une liberté est nécessaire, adaptée et proportionnée à l'objectif poursuivi. Formalisée par l'Assemblée du contentieux en 2011, cette grille s'inscrit dans la lignée de l'arrêt Benjamin et structure le contrôle des mesures de police, comme les interdictions ou modifications de parcours de manifestation.",
-  "reference": "CE, Ass., 26 octobre 2011, Association pour la promotion de l'image et autres, n° 317827"
+  "titre": "Le référé-suspension",
+  "texte": "Le juge des référés peut suspendre l'exécution d'une décision administrative lorsque l'urgence le justifie et qu'il existe un doute sérieux quant à sa légalité, dans l'attente du jugement au fond. Contrairement au référé-liberté, il n'exige pas d'atteinte grave et manifestement illégale à une liberté fondamentale, mais il suppose un recours au fond.",
+  "reference": "CJA, art. L. 521-1"
  }
 }
