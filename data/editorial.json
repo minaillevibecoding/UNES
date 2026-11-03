@@ -1,86 +1,104 @@
 {
- "date": "2026-11-02",
- "edito": "À la veille des midterms, plus de 54 millions d'Américains ont déjà voté et Donald Trump a tenu ses derniers meetings. En Bulgarie, Iliana Iotova, favorable au dialogue avec Moscou, devient la première femme élue présidente. En France, semaine sociale sous tension avec des blocages de lycées et la grève du 5 novembre. Pas de grande décision juridique nouvelle ce matin.",
+ "date": "2026-11-03",
+ "edito": "Les Américains votent aujourd'hui pour les midterms, présentées comme un référendum sur Donald Trump ; les démocrates espèrent reprendre la Chambre. Washington annonce des négociations entre Moscou et Kiev les 10 et 11 novembre. En droit, la Cour de cassation écarte le principe non bis in idem pour les sanctions disciplinaires des associations.",
  "journaux": {
   "figaro": {
-   "resume": "Le Figaro scrute la présidentielle 2027, entre glissement d'électeurs macronistes vers Marine Le Pen et querelle de la primaire au centre.",
+   "resume": "Le Figaro consacre sa une aux midterms, « un référendum pour ou contre Donald Trump ».",
    "points": [
-    "Des électeurs d'Emmanuel Macron en 2022 s'apprêtent à voter Marine Le Pen.",
-    "Édouard Philippe rejette la « primaire des démocrates » de Gabriel Attal.",
-    "Natacha Polony revendique 174 parrainages et le soutien de Jean-Pierre Chevènement.",
-    "Jean-Luc Mélenchon annule son passage au « 20 heures » de TF1."
+    "Les démocrates s'inquiètent des menaces de Trump de contester une défaite.",
+    "Les sondages annoncent une vaste victoire démocrate.",
+    "36 gouverneurs élus, autre front entre Trump et les États.",
+    "Éditorial de Philippe Gélie : « La démocratie selon Donald Trump »."
    ]
   },
   "monde": {
-   "resume": "Le Monde estime que les reniements de Donald Trump l'exposent à un vote sanction.",
+   "resume": "Le Monde retrace l'érosion de la popularité de Donald Trump en deux ans.",
    "points": [
-    "Midterms : la guerre en Iran et la vie chère pèsent sur le camp républicain.",
-    "Les nombreux avantages fiscaux et matériels de Gianni Infantino à la tête de la FIFA.",
-    "Mouvement lycéen : appels à bloquer les établissements dès lundi.",
-    "Kimi Antonelli, 20 ans, plus jeune champion du monde de F1 de l'histoire."
+    "Guerre en Iran, carburants, soupçons de corruption, ICE : les causes d'un désamour.",
+    "Les méthodes violentes du service d'ordre du RN lors du lancement de campagne à Orléans.",
+    "Budget 2027 : l'Assemblée s'apprête à rejeter un texte devenu incohérent.",
+    "Violences sexuelles : une enquête atteste de leur ampleur chez les jeunes de 18 à 21 ans."
    ]
   },
   "croix": {
-   "resume": "La Croix appelle au « temps de l'apaisement » avant une semaine sociale sous haute tension.",
+   "resume": "La Croix analyse la déception des catholiques américains envers Donald Trump.",
    "points": [
-    "Des groupes de travail sur les spécialités du bac réunis dès cette semaine.",
-    "Blocages de lycées attendus et journée de grève le 5 novembre.",
-    "« La petite martyre de l'A10 » : procès de deux suspects, 39 ans après les faits.",
-    "Serbie : hommage aux 16 victimes de Novi Sad, une semaine après la défaite de Vucic."
+    "Expulsions, guerre en Iran et bras de fer avec Léon XIV éloignent une partie des catholiques.",
+    "L'administration Trump saisit la Cour suprême pour faire isoler 20 000 bulletins en Californie.",
+    "L'Iran se dit prêt à rouvrir le détroit d'Ormuz sous conditions.",
+    "Selon Destin commun, 42 % des Français veulent « tout démolir »."
    ]
   },
   "equipe": {
-   "resume": "L'Équipe revient sur la victoire de Pau contre Toulouse et le départ de Paulo Fonseca de Lyon.",
+   "resume": "L'Équipe prépare Villarreal-PSG en Ligue des champions.",
    "points": [
-    "Pau bat le Stade Toulousain 34-14 grâce à ses avants.",
-    "Paulo Fonseca quitte Lyon pour le Sporting Portugal en pleine saison.",
-    "Lassine Sinayoko, auteur d'un doublé contre Monaco, en tête des buteurs de L1.",
-    "NBA : Nolan Traoré aide Brooklyn à décrocher sa première victoire."
+    "Le PSG vise une dixième victoire de suite pour sceller sa qualification.",
+    "Ferran Torres retrouve la région de ses débuts.",
+    "Les Spurs enchaînent une cinquième victoire contre Utah.",
+    "Le phénomène Moïse Kouame décrypté par Arnaud Di Pasquale."
    ]
   }
  },
  "sections": {
   "monde": [
    {
-    "titre": "Midterms : plus de 54 millions de votes anticipés avant le scrutin de mardi",
-    "lien": "https://www.lemonde.fr/international/live/2026/11/02/en-direct-midterms-2026-le-dernier-meeting-de-donald-trump-plus-de-54-millions-de-votes-anticipes-retrouvez-les-dernieres-informations-de-la-campagne_6801590_3210.html",
+    "titre": "Midterms : les Américains votent pour renouveler le Congrès",
+    "lien": "https://www.lemonde.fr/international/live/2026/11/03/en-direct-midterms-2026-apres-la-cloture-de-la-campagne-les-americains-votent-mardi-pour-renouveler-le-congres_6805528_3210.html",
     "source": "Le Monde",
-    "date": "2026-11-02T06:28:36+01:00",
-    "resume": "Donald Trump a conclu sa campagne dans l'Iowa puis le Kansas ; il a déclaré qu'il pourrait devenir « Monsieur Veto ».",
-    "pourquoi": "Le contrôle du Congrès conditionne la fin du mandat de Trump."
+    "date": "2026-11-03T05:22:02+01:00",
+    "resume": "Les premiers bureaux ouvrent à midi, heure de Paris. Au vu des sondages, les démocrates espèrent faire basculer la Chambre des représentants, voire le Sénat ; 36 gouverneurs sont aussi élus.",
+    "pourquoi": "Le résultat déterminera la marge de manœuvre de Donald Trump pour la fin de son mandat."
    },
    {
-    "titre": "Bulgarie : Iliana Iotova, partisane du dialogue avec Moscou, élue présidente",
-    "lien": "https://www.lemonde.fr/international/article/2026/11/01/presidentielle-en-bulgarie-iliana-iotova-remporte-l-election-selon-plusieurs-sondages-a-la-sortie-des-urnes_6804603_3210.html",
+    "titre": "Ukraine : négociations Moscou-Kiev annoncées les 10 et 11 novembre",
+    "lien": "https://www.lemonde.fr/international/live/2026/11/03/en-direct-guerre-en-ukraine-le-bilan-des-bombardements-russes-dans-l-oblast-de-zaporijia-passe-a-26-morts-annonce-volodymyr-zelensky_6803934_3210.html",
     "source": "Le Monde",
-    "date": "2026-11-01T20:07:39+01:00",
-    "resume": "L'ancienne journaliste et figure du Parti socialiste, 62 ans, devient la première femme élue à la présidence, dans un contexte de menaces sécuritaires et d'inquiétudes économiques.",
-    "pourquoi": "Un nouveau pays de l'UE dirigé par une personnalité ouverte à Moscou."
+    "date": "2026-11-03T00:12:24+01:00",
+    "resume": "Selon l'émissaire américain Steve Witkoff, elles porteront sur les garanties de sécurité d'après-guerre, la désescalade, l'humanitaire et les étapes vers la paix.",
+    "pourquoi": "Des discussions directes élargies à l'après-guerre, sous médiation américaine."
    },
    {
-    "titre": "Ukraine-Russie : cyberattaques croisées après la fin de la trêve d'Olechky",
-    "lien": "https://www.lemonde.fr/international/live/2026/11/02/en-direct-guerre-en-ukraine-kiev-et-moscou-vises-par-des-cyberattaques-peu-apres-la-fin-de-la-treve-a-olechky-au-moins-trois-personnes-tuees-dans-des-frappes-russes-dimanche_6803934_3210.html",
+    "titre": "Piratage de Binance : la Corée du Nord nie toute implication",
+    "lien": "https://www.lemonde.fr/pixels/article/2026/11/03/la-coree-du-nord-nie-etre-impliquee-dans-le-piratage-de-la-plateforme-de-cryptomonnaies-binance-rejetant-les-accusations-du-fbi_6805387_4408996.html",
     "source": "Le Monde",
-    "date": "2026-11-02T05:50:29+01:00",
-    "resume": "Kiev a annoncé le piratage de son application d'alerte à la population ; Moscou affirme que l'application de son ministère des situations d'urgence a aussi été visée.",
-    "pourquoi": "Le conflit se prolonge dans le cyberespace, au détriment des systèmes civils d'alerte."
+    "date": "2026-11-03T03:57:01+01:00",
+    "resume": "Le FBI attribue au groupe nord-coréen TraderTraitor le vol de 6,3 milliards de dollars d'actifs numériques ; Kim Yo-jong dénonce « une grave provocation politique ».",
+    "pourquoi": "La cybercriminalité attribuée à Pyongyang atteint une ampleur inédite."
    }
   ],
   "ia": [
    {
-    "titre": "La Corée du Sud prévoit un budget record pour l'IA en 2027",
-    "lien": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNWURhOGgxMzhBRldJdS1UWDFOWmNmNjQwc09aMXd2MmtTcklDeGpPWllLLW5tV0ZVbXJSNGZJZWhqalctUVdMRjEtek42QXNqSVJqUTREQ21HYTdjUVBHaVo5N2F1R0tvX1g1bVl4aEllZXBCRDFFUlMxamdJY0dOMEhYVGZfT3RHOHdUTExuVThsSjI2d3M4ZzBZYTBlbzRBRkRxdGtZbkhJal9PdVJwWTRzRQ?oc=5",
-    "source": "Le Temps",
-    "date": "2026-11-02T05:34:04+01:00",
-    "resume": "Selon Le Temps, Séoul s'apprête à consacrer en 2027 un budget sans précédent à l'intelligence artificielle.",
-    "pourquoi": "Les États accélèrent leurs investissements publics dans la course à l'IA."
+    "titre": "Le New York Times poursuit le navigateur Brave pour aspiration de contenus par l'IA",
+    "lien": "https://www.theverge.com/tech/1024588/brave-lawsuit-ai-scraping-new-york-times",
+    "source": "The Verge",
+    "date": "2026-11-02T18:51:19+01:00",
+    "resume": "Le quotidien et d'autres publications accusent l'éditeur de Brave d'avoir illégalement collecté leurs contenus pour entraîner l'IA et permis aux utilisateurs de contourner leurs paywalls, selon Reuters.",
+    "pourquoi": "Après les géants de l'IA, les médias visent aussi les outils d'accès au web."
+   },
+   {
+    "titre": "OpenAI fusionne les onglets Chat et Work de ChatGPT",
+    "lien": "https://techcrunch.com/2026/11/02/openai-is-finally-merging-chatgpts-chat-and-work-tabs/",
+    "source": "TechCrunch",
+    "date": "2026-11-02T14:57:53+01:00",
+    "resume": "ChatGPT et Codex puiseront désormais dans le même quota d'utilisation.",
+    "pourquoi": "OpenAI simplifie son offre pour pousser les usages professionnels."
    }
   ],
-  "droit": []
+  "droit": [
+   {
+    "titre": "Exclusion d'un adhérent : la Cour de cassation écarte non bis in idem pour les sanctions associatives",
+    "lien": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPTzVKRlVob2ZuWGRFaVQwUlJPWEt5d216YXpqWVJIUGliQ01nQ1hZNnB2X1JScGkzdk80Z3laaGQxY082cVBQNmtzNmpjSkxLdHlRNDJBZ0VCbFo5OVY0SDhROTZ5blJldlRXX0pVakJGb1pnVVI0OTRKU0RUUmV2UTdGbHMwTTBHQWJ3MDFOYTQ1YW1zZGZ3bFNON0x4RkNSUnRITmNmNUVDN0RGMm9YRzd3ZUdzTnVGRTVNSXdVTndzSzNrMllvOU0tT1VSX3A2X1E?oc=5",
+    "source": "Le Mag' juridique",
+    "date": "2026-11-02T09:00:00+01:00",
+    "resume": "Cass. 3e civ., 22 octobre 2026, n° 24-11.572. Une association de chasse avait adressé un avertissement à un membre, puis l'avait radié quelques mois plus tard pour des manquements au règlement intérieur ; la cour d'appel de Lyon avait annulé la radiation au nom de non bis in idem. Cassation : ce principe « ne s'applique pas aux sanctions disciplinaires prises par une association à l'encontre de ses membres ». Le juge garde le contrôle des garanties disciplinaires, de la bonne foi et du motif légitime.",
+    "libertes": "Liberté d'association et autonomie statutaire (loi du 1er juillet 1901, art. 1er ; C. civ., art. 1103 et 1104).",
+    "angle_crfpa": "Délimite le champ de non bis in idem, principe des matières répressives, et rappelle la nature contractuelle du lien associatif : le pouvoir disciplinaire de l'association s'exerce sous contrôle du juge, sans être assimilé à une punition au sens pénal."
+   }
+  ]
  },
  "notion": {
-  "titre": "Le référé-suspension",
-  "texte": "Le juge des référés peut suspendre l'exécution d'une décision administrative lorsque l'urgence le justifie et qu'il existe un doute sérieux quant à sa légalité, dans l'attente du jugement au fond. Contrairement au référé-liberté, il n'exige pas d'atteinte grave et manifestement illégale à une liberté fondamentale, mais il suppose un recours au fond.",
-  "reference": "CJA, art. L. 521-1"
+  "titre": "Non bis in idem et cumul de poursuites",
+  "texte": "Le Conseil constitutionnel rattache la règle au principe de nécessité des délits et des peines : deux procédures ne peuvent être cumulées pour les mêmes faits lorsqu'elles protègent les mêmes intérêts sociaux, aboutissent à des sanctions de même nature et relèvent du même ordre de juridiction. La règle ne concerne que les sanctions ayant le caractère d'une punition.",
+  "reference": "Cons. const., 18 mars 2015, n° 2014-453/454 QPC et 2015-462 QPC, M. John L. et autres"
  }
 }
