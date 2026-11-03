@@ -1,6 +1,6 @@
 {
  "date": "2026-11-03",
- "genere": "2026-11-03T06:30+01:00",
+ "genere": "2026-11-03T06:57+01:00",
  "journaux": [
   {
    "id": "figaro",
@@ -111,13 +111,13 @@
      "resume": "Selon les résultats d’une étude menée par l’association Contre les violences sur mineurs, en partenariat avec l’Inserm et l’AP-HP, 63 % des jeunes de 18 ans à 21 ans interrogés déclarent avoir été victimes d’au moins un acte de violence sexuelle.",
      "date": "2026-11-02T22:01:33+01:00",
      "source": "",
-     "image": "https://img.lemde.fr/2026/11/02/391/0/4726/2363/644/322/60/0/caf7721_upload-1-pipzpqrne5tp-000-1pe2rd.jpg"
+     "image": "https://img.lemde.fr/2026/11/02/182/0/4726/2363/644/322/60/0/caf7721_upload-1-pipzpqrne5tp-000-1pe2rd.jpg"
     },
     {
      "titre": "EN DIRECT, guerre en Ukraine : l’émissaire américain annonce des négociations entre Moscou et Kiev la semaine prochaine à Abou Dhabi, sous médiation de Washington",
-     "lien": "https://www.lemonde.fr/international/live/2026/11/03/en-direct-guerre-en-ukraine-le-bilan-des-bombardements-russes-dans-l-oblast-de-zaporijia-passe-a-26-morts-annonce-volodymyr-zelensky_6803934_3210.html",
+     "lien": "https://www.lemonde.fr/international/live/2026/11/03/en-direct-guerre-en-ukraine-l-emissaire-americain-annonce-des-negociations-entre-moscou-et-kiev-la-semaine-prochaine-a-abou-dhabi-sous-mediation-de-washington_6803934_3210.html",
      "resume": "Selon Steve Witkoff, ces discussions prévues mardi 10 et mercredi 11 novembre « porteront sur les dispositions de sécurité d’après-guerre, la désescalade, les efforts humanitaires et les prochaines étapes vers la paix ». Par ailleurs, des bombardements…",
-     "date": "2026-11-03T00:12:24+01:00",
+     "date": "2026-11-03T06:30:58+01:00",
      "source": "",
      "image": "https://img.lemde.fr/2026/11/02/514/0/5548/2774/644/322/60/0/2e1158c_ftp-1-ze3bjxtdjecg-2026-11-02t213053z-3438278-rc2rfoa2zcqz-rtrmadp-3-ukraine-crisis-attack-zaporizhzhia-region.JPG"
     }
@@ -134,6 +134,30 @@
     "source": "https://www.frontpages.com/t/2026/11/03/la-croix-061815zoh@2x.webp"
    },
    "articles": [
+    {
+     "titre": "Mouvement des lycéens : nouvel appel à bloquer les établissements ce mardi",
+     "lien": "https://www.la-croix.com/nouvel-appel-a-bloquer-facs-et-lycees-avec-la-greve-de-jeudi-en-ligne-de-mire-20261102",
+     "resume": "Malgré les annonces gouvernementales, l’intersyndicale lycéenne et étudiante appelle à des blocages massifs mardi 3 novembre, avant de rejoindre la mobilisation interprofessionnelle de jeudi sur le pouvoir d’achat.",
+     "date": "2026-11-03T06:47:14+01:00",
+     "source": "",
+     "image": "https://i.la-croix.com/x/2026/11/03/2578990-des-poubelles-et-des-pancartes-devant-le-lycee-sai.jpg"
+    },
+    {
+     "titre": "Guerre en Ukraine : 493 drones vers Moscou interceptés ; premier exercice militaire d’alliés de Kiev",
+     "lien": "https://www.la-croix.com/international/ukraine-russie-jour-1714-point-conflit-ukrainien-poutine-aujourdhui-20261103",
+     "resume": "Les alliés de Kiev, pilotés par la France et le Royaume-Uni, vont mener en Pologne un exercice grandeur nature. Des négociations entre la Russie et l’Ukraine sous médiation américaine vont se tenir à Abou Dhabi. Retrouvez l’actualité de la guerre en Ukraine…",
+     "date": "2026-11-03T06:36:20+01:00",
+     "source": "",
+     "image": "https://i.la-croix.com/x/2026/11/03/2579027-des-secouristes-ukrainiens-interviennent-pour-fair.jpg"
+    },
+    {
+     "titre": "Plan fertilité : un rapport préconise de développer tous azimuts l’accès à la PMA",
+     "lien": "https://www.la-croix.com/sante/plan-fertilite-un-rapport-preconise-de-developper-tous-azimuts-l-acces-a-la-pma-20261102",
+     "resume": "La ministre de la santé Stéphanie Rist doit recevoir, mardi 3 novembre 2026, le rapport du comité de pilotage chargé de mettre en œuvre le plan fertilité qui sera présenté en février. Son mot d’ordre : développer massivement l’accès à la PMA.",
+     "date": "2026-11-03T06:33:01+01:00",
+     "source": "",
+     "image": "https://i.la-croix.com/x/2026/11/02/2578334-en-france-plus-de-3-millions-d-adultes-en-age-de-p.jpg"
+    },
     {
      "titre": "Midterms 2026 : Donald Trump et les catholiques américains, les raisons d’une déception",
      "lien": "https://www.la-croix.com/religion/midterms-2026-donald-trump-et-les-catholiques-americains-les-raisons-d-une-deception-20261102",
@@ -157,30 +181,6 @@
      "date": "2026-11-03T04:00:17+01:00",
      "source": "",
      "image": "https://i.la-croix.com/x/2026/01/15/23106162-alain-remond-chroniqueur-pour-la-croix.jpg"
-    },
-    {
-     "titre": "Midterms 2026 : l’administration Trump veut obliger la Californie à isoler 20 000 bulletins",
-     "lien": "https://www.la-croix.com/international/midterms-2026-l-administration-trump-veut-obliger-la-californie-a-isoler-20-000-bulletins-20261102",
-     "resume": "À la veille des élections de mi-mandat, l’administration Trump a saisi lundi 2 novembre la Cour suprême pour forcer la Californie à isoler plus de 20 000 bulletins, suspectant leurs auteurs de ne pas être citoyens américains.",
-     "date": "2026-11-02T22:30:00+01:00",
-     "source": "",
-     "image": "https://i.la-croix.com/x/2026/11/02/2578886-l-administration-trump-a-saisi-lundi-2-novembre-20.jpg"
-    },
-    {
-     "titre": "Guerre en Ukraine : ce qu’il faut retenir de la situation du lundi 2 novembre",
-     "lien": "https://www.la-croix.com/international/guerre-en-ukraine-fin-de-la-treve-a-olechky-cyberattaque-contre-un-ministere-russe-20261102",
-     "resume": "Les attaques ont repris dans la région de Kherson, après la fin d’une rare trêve localisée. L’armée russe a très légèrement reculé sur l’ensemble du front en octobre, selon les données de l’Institut pour l’étude de la guerre. Retrouvez l’actualité de la…",
-     "date": "2026-11-02T21:20:48+01:00",
-     "source": "",
-     "image": "https://i.la-croix.com/x/2026/11/02/2578094-des-citoyens-ukrainiens-evacues-de-la-ville-d-oles.jpg"
-    },
-    {
-     "titre": "Guerre au Moyen-Orient : l’Iran pose ses conditions pour ouvrir Ormuz… Le bilan du lundi 2 novembre",
-     "lien": "https://www.la-croix.com/international/direct-guerre-iran-israel-usa-jour-133-moyen-orient-bilan-resume-aujourdhui-20261102",
-     "resume": "L’Iran se dit prêt à rouvrir le détroit d’Ormuz sous deux jours si Washington accepte ses conditions. Sept civils ont été blessés au Yémen dans des frappes aériennes de la coalition menée par l’Arabie saoudite. Retrouvez l’actualité du conflit au…",
-     "date": "2026-11-02T21:15:17+01:00",
-     "source": "",
-     "image": "https://i.la-croix.com/x/2026/11/02/2578182-les-maisons-de-deux-palestiniens-accuses-d-une-att.jpg"
     }
    ],
    "flux_utilise": "https://www.la-croix.com/feeds/rss/site.xml"
@@ -196,10 +196,34 @@
    },
    "articles": [
     {
+     "titre": "Première défaite de la saison pour les surprenants Memphis Grizzlies, Detroit et Philadelphie se répondent à l'Est",
+     "lien": "https://www.lequipe.fr/Basket/Actualites/Premiere-defaite-de-la-saison-pour-les-surprenants-memphis-grizzlies-detroit-et-philadelphie-se-repondent-a-l-est/1740718#at_medium=RSS_feeds",
+     "resume": "Dernière franchise invaincue sur ce début de saison régulière, les Memphis Grizzlies se sont inclinés lundi soir, à domicile face aux New Orleans Pelicans (134-135, a.p.). Un coup d'arrêt synonyme de première place à l'Ouest désormais occupée par les Houston…",
+     "date": "2026-11-03T06:45:03+01:00",
+     "source": "",
+     "image": "https://medias.lequipe.fr/img-photo-png/-/1500000000833469/0-828-552-75/0cb67.png"
+    },
+    {
+     "titre": "« J'ai envie de me prouver des choses à moi-même » : 40 ans après la disparition de Loïc Caradec, son fils Tanguy relève le défi de la Route du Rhum",
+     "lien": "https://www.lequipe.fr/Voile/Actualites/-j-ai-envie-de-me-prouver-des-choses-a-moi-meme-40-ans-apres-la-disparition-de-loic-caradec-son-fils-tanguy-releve-le-defi-de-la-route-du-rhum/1740680#at_medium=RSS_feeds",
+     "resume": "Quarante ans après la disparition de Loïc Caradec sur le catamaran « Royale II » pendant la Route du Rhum 1986, son fils Tanguy, a pris, dimanche à Saint-Malo, le départ de la 13e édition sur un monocoque de la catégorie vintage. Une façon de lui rendre…",
+     "date": "2026-11-03T06:30:00+01:00",
+     "source": "",
+     "image": "https://medias.lequipe.fr/img-photo-jpg/tanguy-caradec-dispute-la-route-du-rhum-dans-la-categorie-vintage-sur-un-monocoque-de-15-m-dr/1500000002640695/0:0,1920:1280-828-552-75/35e8f.jpg"
+    },
+    {
      "titre": "Cinquième victoire d'affilée pour les San Antonio Spurs, tombeurs faciles d'Utah, Victor Wembanyama maladroit et économisé",
      "lien": "https://www.lequipe.fr/Basket/Actualites/Cinquieme-victoire-d-affilee-pour-les-san-antonio-spurs-tombeurs-faciles-d-utah-victor-wembanyama-maladroit-et-economise/1740717#at_medium=RSS_feeds",
      "resume": "Les Texans se sont offert une faible équipe d'Utah, la nuit dernière, à San Antonio (119-97), et ont ainsi enchaîné une cinquième victoire. Le meneur Dylan Harper (20 ans) a été le meilleur joueur de San Antonio (17 points, 8 passes, 7 rebonds). Maladroit au…",
      "date": "2026-11-03T06:08:37+01:00",
+     "source": "",
+     "image": "https://medias.lequipe.fr/img-photo-png/-/1500000000833469/0-828-552-75/0cb67.png"
+    },
+    {
+     "titre": "Le résumé vidéo de Spurs - Jazz",
+     "lien": "https://www.lequipe.fr/Basket/Video/Nba-nba-le-resume-video-de-san-antonio-spurs-utah-jazz-avec-le-double-double-de-victor-wembanyama/20244742#at_medium=RSS_feeds",
+     "resume": "",
+     "date": "2026-11-03T06:07:00+01:00",
      "source": "",
      "image": "https://medias.lequipe.fr/img-photo-png/-/1500000000833469/0-828-552-75/0cb67.png"
     },
@@ -218,30 +242,6 @@
      "date": "2026-11-03T05:55:00+01:00",
      "source": "",
      "image": "https://medias.lequipe.fr/img-photo-jpg/le-premier-maitre-florent-plongeur-pret-a-intervenir-en-sachet-de-the-f-seguin-l-equipe/1500000002612051/0:0,1831:1220-828-552-75/f5ec9.jpg"
-    },
-    {
-     "titre": "Face à Villarreal, le PSG vise une dixième victoire de suite toutes compétitions confondues pour conforter sa position dans le top 8 de la Ligue des champions",
-     "lien": "https://www.lequipe.fr/Football/Article/Face-a-villarreal-le-psg-vise-une-dixieme-victoire-de-suite-toutes-competitions-confondues-pour-se-rapprocher-du-top-8-de-la-ligue-des-champions/1740685#at_medium=RSS_feeds",
-     "resume": "Le PSG peut aligner à Villarreal une dixième victoire d'affilée qui scellerait sa qualification en Ligue des champions et lui ouvrirait la route du top 8.",
-     "date": "2026-11-03T05:40:00+01:00",
-     "source": "",
-     "image": "https://medias.lequipe.fr/img-photo-png/-/1500000000833469/0-828-552-75/0cb67.png"
-    },
-    {
-     "titre": "Villarreal, le match du PSG en Ligue des champions qui ramène Ferran Torres dans la région où tout a commencé : « Il n'arrêtait jamais de courir »",
-     "lien": "https://www.lequipe.fr/Football/Article/Villarreal-le-match-du-psg-en-ligue-des-champions-qui-ramene-ferran-torres-dans-la-region-ou-tout-a-commence-il-n-arretait-jamais-de-courir/1740695#at_medium=RSS_feeds",
-     "resume": "Révélé à Valence avant de quitter le club fâché, l'attaquant du PSG Ferran Torres reste très attaché à son village de Foios et sa région. Son parcours y a pourtant été bien plus sinueux qu'on pourrait le penser. Portrait avant la rencontre de Ligue des…",
-     "date": "2026-11-03T05:40:00+01:00",
-     "source": "",
-     "image": "https://medias.lequipe.fr/img-photo-jpg/le-7-aout-2026-une-foule-dense-s-etait-rassemblee-pour-honorer-l-enfant-de-foios-ferran-torres-r-solsona-europa-press-abaca-icon-sport/1500000002640740/0:0,2000:1333-828-552-75/063e4.jpg"
-    },
-    {
-     "titre": "Faut-il en pincer pour le sel quand on fait du sport ?",
-     "lien": "https://www.lequipe.fr/Respire/Va-savoir/Actualites/Faut-il-en-pincer-pour-le-sel-quand-on-fait-du-sport/1740544#at_medium=RSS_feeds",
-     "resume": "Vingt-quatre ans après sa parution, « Salt », un pavé de 500 pages consacré à l'histoire du sel, connaît une inattendue seconde vie grâce à l'appui d'Instagram. Une bonne raison de se poser la question : faut-il vraiment en pincer pour le chlorure de sodium…",
-     "date": "2026-11-03T05:35:00+01:00",
-     "source": "",
-     "image": "https://medias.lequipe.fr/img-photo-jpg/le-sel-acteur-majeur-d-une-bonne-hydratation-pendant-l-effort-adobestock/1500000002640337/0:0,1500:1000-828-552-75/4a449.jpg"
     }
    ],
    "flux_utilise": "https://dwh.lequipe.fr/api/edito/rss?path=/"
@@ -260,8 +260,8 @@
      "date": "2026-11-03T05:22:02+01:00",
      "source": "lemonde.fr",
      "image": "https://img.lemde.fr/2026/11/02/453/0/3000/1500/644/322/60/0/552d97a_ftp-1-brsnc9lrrwjk-2302781254.jpg",
-     "reprises": 5,
-     "score": 30.12
+     "reprises": 10,
+     "score": 49.52
     },
     {
      "titre": "L’aventurier Karl Bushby de retour chez lui après un tour du monde de vingt-huit ans",
@@ -270,18 +270,18 @@
      "date": "2026-11-02T19:42:11+01:00",
      "source": "lemonde.fr",
      "image": "https://img.lemde.fr/2026/11/02/656/0/7876/3938/644/322/60/0/bdb4d6d_ftp-1-gx5bry75lc27-40a381b8a4d6443292984d48361742ba-0-a38dd67d88164ca1a4a8d51a1ed1ad33.jpg",
-     "reprises": 9,
-     "score": 18.78
+     "reprises": 7,
+     "score": 15.19
     },
     {
      "titre": "EN DIRECT, guerre en Ukraine : l’émissaire américain annonce des négociations entre Moscou et Kiev la semaine prochaine à Abou Dhabi, sous médiation de Washington",
-     "lien": "https://www.lemonde.fr/international/live/2026/11/03/en-direct-guerre-en-ukraine-le-bilan-des-bombardements-russes-dans-l-oblast-de-zaporijia-passe-a-26-morts-annonce-volodymyr-zelensky_6803934_3210.html",
+     "lien": "https://www.lemonde.fr/international/live/2026/11/03/en-direct-guerre-en-ukraine-l-emissaire-americain-annonce-des-negociations-entre-moscou-et-kiev-la-semaine-prochaine-a-abou-dhabi-sous-mediation-de-washington_6803934_3210.html",
      "resume": "Selon Steve Witkoff, ces discussions prévues mardi 10 et mercredi 11 novembre « porteront sur les dispositions de sécurité d’après-guerre, la désescalade, les efforts humanitaires et les prochaines étapes vers la paix ». Par ailleurs, des bombardements…",
-     "date": "2026-11-03T00:12:24+01:00",
+     "date": "2026-11-03T06:30:58+01:00",
      "source": "lemonde.fr",
      "image": "https://img.lemde.fr/2026/11/02/514/0/5548/2774/644/322/60/0/2e1158c_ftp-1-ze3bjxtdjecg-2026-11-02t213053z-3438278-rc2rfoa2zcqz-rtrmadp-3-ukraine-crisis-attack-zaporizhzhia-region.JPG",
      "reprises": 3,
-     "score": 9.0
+     "score": 9.53
     },
     {
      "titre": "Crash meurtrier d'un jet privé en Floride : qui est Nathalia Filgueiras, identifiée comme la co-pilote de l'appareil ?",
@@ -290,8 +290,8 @@
      "date": "2026-11-02T22:59:30+01:00",
      "source": "franceinfo.fr",
      "image": "https://www.franceinfo.fr/pictures/pAE5qrUvxfSlv8WZvuBUgkjdWuc/8x0:993x554/432x243/filters:format(jpg)/2026/11/02/6ae8f19d60ed1774304923.jpg",
-     "reprises": 4,
-     "score": 8.99
+     "reprises": 3,
+     "score": 7.24
     },
     {
      "titre": "JOJ Dakar 2026 : Matar Diop ouvre le compteur des médailles du Sénégal",
@@ -301,17 +301,17 @@
      "source": "france24.com",
      "image": "https://s.france24.com/media/display/3de9a488-d6e6-11f1-9b8b-a575454bc579/w:1024/p:16x9/JOJ-Premiere-medaille-S%C3%A9n%C3%A9gal-00-00-03-22-Still001.jpg",
      "reprises": 2,
-     "score": 6.57
+     "score": 6.45
     },
     {
-     "titre": "Cryptomonnaies : la Corée du Nord nie être impliquée dans le piratage de la plateforme Binance, rejetant les accusations du FBI",
-     "lien": "https://www.lemonde.fr/pixels/article/2026/11/03/la-coree-du-nord-nie-etre-impliquee-dans-le-piratage-de-la-plateforme-de-cryptomonnaies-binance-rejetant-les-accusations-du-fbi_6805387_4408996.html",
-     "resume": "La police fédérale américaine a accusé le groupe de pirates informatiques nord-coréens TraderTraitor d’être à l’origine du vol de 6,3 milliards de dollars d’actifs numériques. « Une grave provocation politique », a dénoncé Kim Yo-jong, sœur du dirigeant Kim…",
-     "date": "2026-11-03T03:57:01+01:00",
-     "source": "lemonde.fr",
-     "image": "https://img.lemde.fr/2026/10/30/550/0/4000/2000/644/322/60/0/84c920a_ftp-1-6xm3q8ug0r5v-2026-10-30t080123z-1687599904-rc2jdoamlljj-rtrmadp-3-fintech-crypto-binance-hack.JPG",
+     "titre": "Donald Trump change de ton et assure qu'un accord avec l'Iran \"pourrait arriver\"",
+     "lien": "https://www.france24.com/fr/moyen-orient/20261102-moyen-orient-donald-trump-accord-avec-l-iran-pourrait-arriver-detroit-d-ormuz-petrole",
+     "resume": "Après avoir affirmé être prêt à donner un \"coup de massue\" à l'Iran ce weekend, le président américain Donald Trump a changé de ton lundi, assurant qu'un accord avec Téhéran \"pourrait arriver\". Selon des informations du Wall Street Journal, les États-Unis…",
+     "date": "2026-11-02T23:56:40+01:00",
+     "source": "© Alex Brandon, AP",
+     "image": "https://s.france24.com/media/display/4efcfe3a-d710-11f1-8d01-a575454bc579/w:1024/p:16x9/AP26306798200871.jpg",
      "reprises": 3,
-     "score": 5.59
+     "score": 5.42
     }
    ],
    "a_traduire": []
@@ -328,18 +328,18 @@
      "date": "2026-11-03T05:00:10+01:00",
      "source": "Boursorama",
      "image": null,
-     "reprises": 6,
-     "score": 25.88
+     "reprises": 8,
+     "score": 29.09
     },
     {
      "titre": "OpenAI recrute l'ancien secrétaire à l'Armée des États-Unis, Dan Driscoll, pour occuper un poste lié à la sécu",
-     "lien": "https://news.google.com/rss/articles/CBMipwJBVV95cUxPX2tLV2pDM3JTVjFSZnpaLWs2M1lJMVFVNGtyamhSZ29BbXQ2ZzlUcEhIZjBScVFsbV9qUl8zaWNxNlhQejZrUDcyTG9DOHF3LVFVZDlLbGk2d21VelF3bkJUUVJBaG8wdW5JME1GbmJxek5odDl0YW9lMnhPM19XQmgyUGtTcm9za2N0SUtQMjNDMm5makRJYXRWQXJJN0ktSUhJT3RzenNMMFFXTXoxN3lMaTVJZE95YkFEQkJlN3RyaUZBUHNRNVJGTTBOVHZGYm5nbzU3Y0ljWGdGR2wzTThJT3dfTi0tTE5lT2RNVkVDUzVBQ1lSV1JPV1R3UHpJdDg1SlZVcTBrbVZEVlpVUm1mcTgzN1NINHl0aDR4dnlZUm5pOHZR0gGsAkFVX3lxTE54YTdGT0thSlBOWDh5UkppQkt3UV9CaEZTMUNjMV8yV2JEZzhKdHFtcnFodFI3RjRuZ3FELWU2ek9jeVQ0RU01MXp4azAycFFQek41cDVSMnlNZUpHMGgyOU95ZDBfeW5hZHV0ZjBla0lBenFmanZHWUFncEtTbjZGOEs2YmE0TkFjcE9ETnMtcU13RHpEcWk1djhaWElELVUwTHhZdWhQMkhMcmZfbC1lY0UyZkJTVVdhV0VoYVR3cHphM2VxVWJ3WnJaMldSRW4zOHZKdGpUX09wMzYxb3JDLUIxZUZpUDMyTkxIRDV4THlIS2hVY0Z6M2xQUGs0V1RsU0NwX3prTXY0QkRfbHBYWU5taWVpRzNmQ0pQU1JPdkJpRHVKbmhnbmhXTQ?oc=5",
+     "lien": "https://news.google.com/rss/articles/CBMirAJBVV95cUxOeGE3Rk9LYUpQTlg4eVJKaUJLd1FfQmhGUzFDYzFfMldiRGc4SnRxbXJxaHRSN0Y0bmdxRC1lNnpPY3lUNEVNNTF6eGswMnBRUHpONXA1UjJ5TWVKRzBoMjlPeWQwX3luYWR1dGYwZWtJQXpxZmp2R1lBZ3BLU242RjhLNmJhNE5BY3BPRE5zLXFNd0R6RHFpNXY4WlhJRC1VMEx4WXVoUDJITHJmX2wtZWNFMmZCU1VXYVdFaGFUd3B6YTNlcVVid1pyWjJXUkVuMzh2SnRqVF9PcDM2MW9yQy1CMWVGaVAzMk5MSEQ1eEx5SEtoVWNGejNsUFBrNFdUbFNDcF96a012NEJEX2xwWFlObWllaUczZkNKUFNST3ZCaUR1Sm5oZ25oV03SAawCQVVfeXFMTnhhN0ZPS2FKUE5YOHlSSmlCS3dRX0JoRlMxQ2MxXzJXYkRnOEp0cW1ycWh0UjdGNG5ncUQtZTZ6T2N5VDRFTTUxenhrMDJwUVB6TjVwNVIyeU1lSkcwaDI5T3lkMF95bmFkdXRmMGVrSUF6cWZqdkdZQWdwS1NuNkY4SzZiYTROQWNwT0ROcy1xTXdEekRxaTV2OFpYSUQtVTBMeFl1aFAySExyZl9sLWVjRTJmQlNVV2FXRWhhVHdwemEzZXFVYndacloyV1JFbjM4dkp0alRfT3AzNjFvckMtQjFlRmlQMzJOTEhENXhMeUhLaFVjRnozbFBQazRXVGxTQ3BfemtNdjRCRF9scFhZTm1pZWlHM2ZDSlBTUk92QmlEdUpuaGduaFdN?oc=5",
      "resume": "",
      "date": "2026-11-03T00:59:22+01:00",
      "source": "Boursorama",
      "image": null,
      "reprises": 5,
-     "score": 8.49
+     "score": 8.65
     },
     {
      "titre": "Google, OpenAI et Microsoft s'accordent pour permettre aux sites web de refuser l'utilisation de leurs contenus par les IA",
@@ -348,28 +348,28 @@
      "date": "2026-11-02T17:07:05+01:00",
      "source": "Siècle Digital",
      "image": null,
-     "reprises": 2,
-     "score": 4.59
+     "reprises": 1,
+     "score": 4.52
     },
     {
-     "titre": "«Montez à bord ou vous vous ferez écraser»: Proton pris dans une polémique autour de l’adoption ultra-rapide de l’intelligence artificielle",
-     "lien": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxNNm1Ka2hLSjZIQmEtTm9Sb1VaVDlGWTNab29KSnhmS3pFSFkwUGdKUlVNZFNNQnpwR2xpb0JtUmQxQ1JkM0Iydl9mLW9CelBaWm5zNzZXdHJiTHZYSGVPcm1VempGeXNLNmU0WVA2bjZudmtQQjMwZ2gzRUh1UnVDRzVFQlB4enQxbU1TWnFrQkZwdXJIQktobHoyYWFDQm9fVzlrSEdxa1JEdDY2QTJabkZ2MUtYN1Azb29USTNOMkFsODdrTDcxRV8zZGxqNDA4cjg4RnlsZXRJbUlUcHpYSnN6YmlTWVRSd1d3dGFXNHZUdTZGSlJR?oc=5",
+     "titre": "« Que penses-tu de la mort ? » : entretien avec une intelligence artificielle sur ce qui demeure et ce qui disparaît",
+     "lien": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNR1dzZ1pPMnV1eWZ2eFFNVXh5NFlZUkNjREZmd1lwRV9MaVh4aEsxcjF6MlZaUGgwTUNwY1U3cnFITU5iclIwM1RUMXJ0cVU5M0J2cEtmUFlrSEtsX1R6aVRtSkFzRDliT0hmRG5XUGFuMU1acC1GcFRXVmJYSmVpSjFFeXFCYmFZVTRMUU1qdzE5WFZtQTlYQWZtM0RWV3FUUG5qZDBFUVNiRVRSRllyS0d4bmxHX3J1STVJYVA3bDIxTHRxOVJQZGdyNnZ2WXM?oc=5",
      "resume": "",
-     "date": "2026-11-03T06:12:50+01:00",
-     "source": "Le Temps",
+     "date": "2026-11-03T02:03:09+01:00",
+     "source": "Ar Gedour",
      "image": null,
      "reprises": 2,
-     "score": 3.45
+     "score": 3.14
     },
     {
-     "titre": "Les investissements dans l’intelligence artificielle deviennent excessivement concentrés, selon un responsable chinois",
-     "lien": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxPRUtLMTVBNzl2SGxEcWdPZjlReHZCMC04UzROV0o1LUtTRjRBc1NiTUhmN09GNHYxZnR0bVNmU2V3YXdENFhXQ2taMzc0NGs0YW03X2ZBN2dyU0VTOHYtLVlzRHRwNkxUdTNHU3FjNUJWaFdvaTZYV09pMXVTU1NxdkZSLWd2LXNCbVJRd2dmakpDU284UzRMZjZMWlNyNGh6dkJjVkxOQVVyVVZCX1pJMmdORE5BbXlmTTVVWDNUdjVDTE9kUE16elNSTGZVdWpyTHZsOFBNdmtsMTJHTnlqcWFweU1ueXozdXBfNzdMUQ?oc=5",
+     "titre": "Intelligence artificielle : l’Europe face au défi matériel",
+     "lien": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNN050ZkFTTE5XTDJwX1k1RDY4cHAyMEQ3UG9tN2xDalpucHNfM3doX2lIQzJuY3B5RFNJY2Z6amdJWjI1aVJRY1Mtc19Ub0d2R1lvN0RBbXdoUXZYV29OcTZaQ1ZkWmx6X2lsRDN2c2JJY2lLQVNNVnRGLVFOMmN5djVwX3E?oc=5",
      "resume": "",
-     "date": "2026-11-03T03:13:20+01:00",
-     "source": "Zonebourse Suisse",
+     "date": "2026-11-02T16:57:23+01:00",
+     "source": "Libnanews",
      "image": null,
      "reprises": 2,
-     "score": 2.84
+     "score": 2.72
     }
    ],
    "a_traduire": [
@@ -381,7 +381,7 @@
      "source": "techcrunch.com",
      "image": null,
      "reprises": 1,
-     "score": 1.54
+     "score": 1.53
     },
     {
      "titre": "The New York Times sues Brave web browser for AI scraping and bypassing paywalls",
@@ -391,7 +391,17 @@
      "source": "theverge.com",
      "image": null,
      "reprises": 1,
-     "score": 1.41
+     "score": 1.4
+    },
+    {
+     "titre": "Anthropic plans to sell $3.5 billion of shares to Japan investors in IPO, filing shows",
+     "lien": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxOU05qVW5fUEkydHBDZnYzZXRCazZHdDdxR1Z5U01BM0JmU3poeTdDMTFOTnhOb1NVMnh5OFFHUVZxblRVT0FPbkY2eVNEZ3RBdEJzQ3NhRF9SUXYtVExFclVidHVZTElFS2lreVRTenN6SUdoX2RvTUNOTE4welFlSWkxSlo3eGtXMGVhbUd1UVJMUlNqd0RRbjdFTUFGdlNlbk8zWnRRamVCNHhzdGxENVlhVVZwV282REJBTk1qcm5zdVF2WHZwYlN0NDFfLVVJSlJkWVhvdVh3SU1rczJLX01XMlA5ZVJO?oc=5",
+     "resume": "",
+     "date": "2026-11-02T18:12:48+01:00",
+     "source": "TradingView",
+     "image": null,
+     "reprises": 1,
+     "score": 1.39
     },
     {
      "titre": "OpenAI is finally merging ChatGPT’s Chat and Work tabs",
@@ -401,7 +411,7 @@
      "source": "techcrunch.com",
      "image": null,
      "reprises": 1,
-     "score": 1.21
+     "score": 1.2
     }
    ]
   },
@@ -417,8 +427,8 @@
      "date": "2026-11-02T12:29:58+01:00",
      "source": "Conseil d'État",
      "image": null,
-     "reprises": 25,
-     "score": 42.67,
+     "reprises": 24,
+     "score": 39.74,
      "libertes": false
     },
     {
@@ -429,8 +439,19 @@
      "source": "L'Aisne nouvelle",
      "image": null,
      "reprises": 3,
-     "score": 5.23,
+     "score": 5.22,
      "libertes": false
+    },
+    {
+     "titre": "Municipales 2026 : que change la loi PLM, validée par le Conseil constitutionnel ?",
+     "lien": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNQ0YxNU50X0FVN0RFNm0zX3JnbXFuTjRwQ1BOVm9hcXFNTHBCckMzeVM5M0FKQnEwVndpT0V0UXZ5V1gwSS1PQnZfamN2MDZWTG9CeW5ZWlRfODF3ZzNtRmVoWFRPNVhvQmxNZDBaX3drMnJiYkx3VHEyR0pvMWhWQ01sTDFDeVdRVzNwUUw2cG5SNVJ4aVEwU3pqVnAtU3hvX1VFZw?oc=5",
+     "resume": "",
+     "date": "2026-11-01T01:30:05+01:00",
+     "source": "Frontières",
+     "image": null,
+     "reprises": 3,
+     "score": 4.55,
+     "libertes": true
     },
     {
      "titre": "LIBERTÉS FONDAMENTALES – Exclusion d'un adhérent d'une association : le principe non bis in idem écarté",
@@ -440,7 +461,7 @@
      "source": "LE MAG' JURIDIQUE",
      "image": null,
      "reprises": 1,
-     "score": 3.44,
+     "score": 3.43,
      "libertes": true
     },
     {
@@ -462,17 +483,6 @@
      "source": "Le Moniteur des pharmacies",
      "image": null,
      "reprises": 1,
-     "score": 2.98,
-     "libertes": true
-    },
-    {
-     "titre": "Municipales 2026 : que change la loi PLM, validée par le Conseil constitutionnel ?",
-     "lien": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNQ0YxNU50X0FVN0RFNm0zX3JnbXFuTjRwQ1BOVm9hcXFNTHBCckMzeVM5M0FKQnEwVndpT0V0UXZ5V1gwSS1PQnZfamN2MDZWTG9CeW5ZWlRfODF3ZzNtRmVoWFRPNVhvQmxNZDBaX3drMnJiYkx3VHEyR0pvMWhWQ01sTDFDeVdRVzNwUUw2cG5SNVJ4aVEwU3pqVnAtU3hvX1VFZw?oc=5",
-     "resume": "",
-     "date": "2026-11-01T01:30:05+01:00",
-     "source": "Frontières",
-     "image": null,
-     "reprises": 2,
      "score": 2.98,
      "libertes": true
     }
