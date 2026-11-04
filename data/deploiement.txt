@@ -1,2 +1,2 @@
-run 41594693901 (2026-11-03T07:13:00Z) : déploiement success
-Mis à jour le mardi 3 novembre 2026 à 08:11 · Sélection et résumés rédigés par Claude
+run 41780114545 (2026-11-04T05:35:42Z) : déploiement success
+Mis à jour le mercredi 4 novembre 2026 à 06:34 · Sélection automatique
