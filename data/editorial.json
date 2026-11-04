@@ -1,104 +1,102 @@
 {
- "date": "2026-11-03",
- "edito": "Les Américains votent aujourd'hui pour les midterms, présentées comme un référendum sur Donald Trump ; les démocrates espèrent reprendre la Chambre. Washington annonce des négociations entre Moscou et Kiev les 10 et 11 novembre. En droit, la Cour de cassation écarte le principe non bis in idem pour les sanctions disciplinaires des associations.",
+ "date": "2026-11-04",
+ "edito": "Vague démocrate aux midterms : les démocrates prennent le Sénat et devraient s'emparer de la Chambre, jusque dans des bastions républicains comme le Texas. Donald Trump dit accepter les résultats sans en assumer la responsabilité. En Ukraine, au moins 33 morts dans une frappe sur un centre d'aide. Pas de grande décision juridique nouvelle ce matin.",
  "journaux": {
   "figaro": {
-   "resume": "Le Figaro consacre sa une aux midterms, « un référendum pour ou contre Donald Trump ».",
+   "resume": "Le Figaro titre sur le basculement du Congrès en faveur des démocrates.",
    "points": [
-    "Les démocrates s'inquiètent des menaces de Trump de contester une défaite.",
-    "Les sondages annoncent une vaste victoire démocrate.",
-    "36 gouverneurs élus, autre front entre Trump et les États.",
-    "Éditorial de Philippe Gélie : « La démocratie selon Donald Trump »."
+    "Les démocrates obtiennent la majorité au Sénat et visent le contrôle total du Congrès.",
+    "Trump se dit « tout à fait disposé à accepter ces résultats » mais affirme qu'il « n'était pas sur le bulletin ».",
+    "James Talarico, ancien séminariste, fait basculer le Texas.",
+    "Dans l'Ohio, Vivek Ramaswamy battu par la démocrate Amy Acton."
    ]
   },
   "monde": {
-   "resume": "Le Monde retrace l'érosion de la popularité de Donald Trump en deux ans.",
+   "resume": "Le Monde voit Donald Trump en futur « canard boiteux » assiégé à la Maison Blanche.",
    "points": [
-    "Guerre en Iran, carburants, soupçons de corruption, ICE : les causes d'un désamour.",
-    "Les méthodes violentes du service d'ordre du RN lors du lancement de campagne à Orléans.",
-    "Budget 2027 : l'Assemblée s'apprête à rejeter un texte devenu incohérent.",
-    "Violences sexuelles : une enquête atteste de leur ampleur chez les jeunes de 18 à 21 ans."
+    "Victoire sans appel des démocrates ; Jon Ossoff réélu en Géorgie.",
+    "Trump annonce que l'aide militaire à Israël sera « coupée à la fin de l'année ».",
+    "Devant la commission d'enquête sur le 17 octobre, Laurent Nuñez reconnaît « un échec ».",
+    "Ligue des champions : le PSG écrase Villarreal 6-0."
    ]
   },
   "croix": {
-   "resume": "La Croix analyse la déception des catholiques américains envers Donald Trump.",
+   "resume": "La Croix suit en direct la défaite de Trump aux midterms.",
    "points": [
-    "Expulsions, guerre en Iran et bras de fer avec Léon XIV éloignent une partie des catholiques.",
-    "L'administration Trump saisit la Cour suprême pour faire isoler 20 000 bulletins en Californie.",
-    "L'Iran se dit prêt à rouvrir le détroit d'Ormuz sous conditions.",
-    "Selon Destin commun, 42 % des Français veulent « tout démolir »."
+    "Résultats complets des midterms et décompte des sièges.",
+    "Les jeunes Afghans expulsés d'Iran s'obstinent sur la route de l'exil.",
+    "Le président des Entrepreneurs se dit prêt à accepter une hausse du smic.",
+    "Génocide des Rohingyas : la Cour internationale de justice se prononcera le 19 novembre."
    ]
   },
   "equipe": {
-   "resume": "L'Équipe prépare Villarreal-PSG en Ligue des champions.",
+   "resume": "L'Équipe revient sur la soirée européenne, entre démonstration du PSG et nul frustrant de Lille.",
    "points": [
-    "Le PSG vise une dixième victoire de suite pour sceller sa qualification.",
-    "Ferran Torres retrouve la région de ses débuts.",
-    "Les Spurs enchaînent une cinquième victoire contre Utah.",
-    "Le phénomène Moïse Kouame décrypté par Arnaud Di Pasquale."
+    "Senny Mayulu, trois buts en trois matches avec le PSG.",
+    "Lille, tenu en échec à Bodö/Glimt (0-0), au bord du précipice.",
+    "Isaac Cossier, jeune défenseur lillois solide en Ligue des champions.",
+    "Facundo Medina avant Leverkusen-OM en Ligue Europa."
    ]
   }
  },
  "sections": {
   "monde": [
    {
-    "titre": "Midterms : les Américains votent pour renouveler le Congrès",
-    "lien": "https://www.lemonde.fr/international/live/2026/11/03/en-direct-midterms-2026-apres-la-cloture-de-la-campagne-les-americains-votent-mardi-pour-renouveler-le-congres_6805528_3210.html",
+    "titre": "Midterms : les démocrates remportent le Sénat, vague bleue au Congrès",
+    "lien": "https://www.lemonde.fr/international/live/2026/11/04/en-direct-midterms-2026-les-democrates-remportent-la-majorite-des-sieges-au-senat-les-republicains-en-difficulte-a-la-chambre-des-representants_6805528_3210.html",
     "source": "Le Monde",
-    "date": "2026-11-03T05:22:02+01:00",
-    "resume": "Les premiers bureaux ouvrent à midi, heure de Paris. Au vu des sondages, les démocrates espèrent faire basculer la Chambre des représentants, voire le Sénat ; 36 gouverneurs sont aussi élus.",
-    "pourquoi": "Le résultat déterminera la marge de manœuvre de Donald Trump pour la fin de son mandat."
+    "date": "2026-11-04T05:44:18+01:00",
+    "resume": "James Talarico a été élu sénateur au Texas ; au Kansas, Adam Hamilton offre aux démocrates le siège de sénateur de l'État pour la première fois depuis 1932. Les républicains sont aussi en difficulté à la Chambre.",
+    "pourquoi": "Donald Trump perd la maîtrise du Congrès pour la fin de son mandat."
    },
    {
-    "titre": "Ukraine : négociations Moscou-Kiev annoncées les 10 et 11 novembre",
-    "lien": "https://www.lemonde.fr/international/live/2026/11/03/en-direct-guerre-en-ukraine-le-bilan-des-bombardements-russes-dans-l-oblast-de-zaporijia-passe-a-26-morts-annonce-volodymyr-zelensky_6803934_3210.html",
+    "titre": "Ukraine : au moins 33 morts dans une frappe russe sur un centre de distribution d'aide",
+    "lien": "https://www.lemonde.fr/international/live/2026/11/03/en-direct-guerre-en-ukraine-au-moins-33-morts-au-lendemain-d-une-attaque-russe-contre-un-centre-de-distribution-d-aide-humanitaire-dans-la-region-de-zaporijia_6803934_3210.html",
     "source": "Le Monde",
-    "date": "2026-11-03T00:12:24+01:00",
-    "resume": "Selon l'émissaire américain Steve Witkoff, elles porteront sur les garanties de sécurité d'après-guerre, la désescalade, l'humanitaire et les étapes vers la paix.",
-    "pourquoi": "Des discussions directes élargies à l'après-guerre, sous médiation américaine."
+    "date": "2026-11-03T22:53:32+01:00",
+    "resume": "Volodymyr Zelensky estime que plus de 50 personnes pourraient encore se trouver sous les décombres ; selon la mission d'observation de l'ONU, l'attaque « semblait avoir violé » des principes fondamentaux.",
+    "pourquoi": "Une frappe meurtrière à quelques jours des négociations annoncées des 10 et 11 novembre."
    },
    {
-    "titre": "Piratage de Binance : la Corée du Nord nie toute implication",
-    "lien": "https://www.lemonde.fr/pixels/article/2026/11/03/la-coree-du-nord-nie-etre-impliquee-dans-le-piratage-de-la-plateforme-de-cryptomonnaies-binance-rejetant-les-accusations-du-fbi_6805387_4408996.html",
+    "titre": "Espagne : le ministre des transports démissionne après la catastrophe ferroviaire",
+    "lien": "https://www.lemonde.fr/international/article/2026/11/03/espagne-le-ministre-des-transports-demissionne-apres-la-catastrophe-ferroviaire-meurtriere_6805667_3210.html",
     "source": "Le Monde",
-    "date": "2026-11-03T03:57:01+01:00",
-    "resume": "Le FBI attribue au groupe nord-coréen TraderTraitor le vol de 6,3 milliards de dollars d'actifs numériques ; Kim Yo-jong dénonce « une grave provocation politique ».",
-    "pourquoi": "La cybercriminalité attribuée à Pyongyang atteint une ampleur inédite."
+    "date": "2026-11-03T21:53:30+01:00",
+    "resume": "Oscar Puente invoque « la dignité politique » et « l'empathie envers les victimes », une semaine après la collision d'Urda qui a fait au moins 69 morts.",
+    "pourquoi": "Une démission à un mois des législatives espagnoles."
    }
   ],
   "ia": [
    {
-    "titre": "Le New York Times poursuit le navigateur Brave pour aspiration de contenus par l'IA",
-    "lien": "https://www.theverge.com/tech/1024588/brave-lawsuit-ai-scraping-new-york-times",
+    "titre": "ChatGPT pèse désormais 20 % du volume de recherches de Google",
+    "lien": "https://www.theverge.com/ai-artificial-intelligence/1025482/openai-says-chatgpt-is-catching-up-to-google-in-search",
     "source": "The Verge",
-    "date": "2026-11-02T18:51:19+01:00",
-    "resume": "Le quotidien et d'autres publications accusent l'éditeur de Brave d'avoir illégalement collecté leurs contenus pour entraîner l'IA et permis aux utilisateurs de contourner leurs paywalls, selon Reuters.",
-    "pourquoi": "Après les géants de l'IA, les médias visent aussi les outils d'accès au web."
+    "date": "2026-11-03T19:30:42+01:00",
+    "resume": "Selon OpenAI, le volume de requêtes de recherche passant par ChatGPT équivaut à un cinquième de celui de Google.",
+    "pourquoi": "Les assistants conversationnels grignotent le cœur de métier de Google."
    },
    {
-    "titre": "OpenAI fusionne les onglets Chat et Work de ChatGPT",
-    "lien": "https://techcrunch.com/2026/11/02/openai-is-finally-merging-chatgpts-chat-and-work-tabs/",
+    "titre": "Anthropic travaille à un système pour prouver l'identité des modèles d'IA",
+    "lien": "https://techcrunch.com/2026/11/03/anthropic-is-working-on-a-system-to-prove-ai-models-identity/",
     "source": "TechCrunch",
-    "date": "2026-11-02T14:57:53+01:00",
-    "resume": "ChatGPT et Codex puiseront désormais dans le même quota d'utilisation.",
-    "pourquoi": "OpenAI simplifie son offre pour pousser les usages professionnels."
+    "date": "2026-11-03T23:41:03+01:00",
+    "resume": "Baptisé FlashProve, il permettrait à chacun de vérifier qu'une réponse provient bien du modèle qu'elle prétend représenter.",
+    "pourquoi": "Un outil de traçabilité face aux substitutions de modèles."
+   },
+   {
+    "titre": "La start-up d'inférence Fal double sa valorisation à 16 milliards de dollars",
+    "lien": "https://techcrunch.com/2026/11/03/ai-inference-startup-fal-doubles-its-valuation-to-16b-as-demand-surges/",
+    "source": "TechCrunch",
+    "date": "2026-11-03T20:34:43+01:00",
+    "resume": "L'entreprise, fondée il y a cinq ans, a levé 1,3 milliard de dollars dans un tour mené par Bessemer.",
+    "pourquoi": "La demande en puissance d'inférence reste forte malgré les doutes sur une bulle."
    }
   ],
-  "droit": [
-   {
-    "titre": "Exclusion d'un adhérent : la Cour de cassation écarte non bis in idem pour les sanctions associatives",
-    "lien": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPTzVKRlVob2ZuWGRFaVQwUlJPWEt5d216YXpqWVJIUGliQ01nQ1hZNnB2X1JScGkzdk80Z3laaGQxY082cVBQNmtzNmpjSkxLdHlRNDJBZ0VCbFo5OVY0SDhROTZ5blJldlRXX0pVakJGb1pnVVI0OTRKU0RUUmV2UTdGbHMwTTBHQWJ3MDFOYTQ1YW1zZGZ3bFNON0x4RkNSUnRITmNmNUVDN0RGMm9YRzd3ZUdzTnVGRTVNSXdVTndzSzNrMllvOU0tT1VSX3A2X1E?oc=5",
-    "source": "Le Mag' juridique",
-    "date": "2026-11-02T09:00:00+01:00",
-    "resume": "Cass. 3e civ., 22 octobre 2026, n° 24-11.572. Une association de chasse avait adressé un avertissement à un membre, puis l'avait radié quelques mois plus tard pour des manquements au règlement intérieur ; la cour d'appel de Lyon avait annulé la radiation au nom de non bis in idem. Cassation : ce principe « ne s'applique pas aux sanctions disciplinaires prises par une association à l'encontre de ses membres ». Le juge garde le contrôle des garanties disciplinaires, de la bonne foi et du motif légitime.",
-    "libertes": "Liberté d'association et autonomie statutaire (loi du 1er juillet 1901, art. 1er ; C. civ., art. 1103 et 1104).",
-    "angle_crfpa": "Délimite le champ de non bis in idem, principe des matières répressives, et rappelle la nature contractuelle du lien associatif : le pouvoir disciplinaire de l'association s'exerce sous contrôle du juge, sans être assimilé à une punition au sens pénal."
-   }
-  ]
+  "droit": []
  },
  "notion": {
-  "titre": "Non bis in idem et cumul de poursuites",
-  "texte": "Le Conseil constitutionnel rattache la règle au principe de nécessité des délits et des peines : deux procédures ne peuvent être cumulées pour les mêmes faits lorsqu'elles protègent les mêmes intérêts sociaux, aboutissent à des sanctions de même nature et relèvent du même ordre de juridiction. La règle ne concerne que les sanctions ayant le caractère d'une punition.",
-  "reference": "Cons. const., 18 mars 2015, n° 2014-453/454 QPC et 2015-462 QPC, M. John L. et autres"
+  "titre": "Le droit au respect de la vie privée",
+  "texte": "Le Conseil constitutionnel le rattache à la liberté proclamée par l'article 2 de la Déclaration de 1789. Il fonde notamment le contrôle des traitements de données personnelles : la collecte, la conservation et la consultation de données doivent être justifiées par un motif d'intérêt général et mises en œuvre de manière adéquate et proportionnée.",
+  "reference": "Cons. const., 23 juillet 1999, n° 99-416 DC, Couverture maladie universelle"
  }
 }
