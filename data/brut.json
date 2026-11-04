@@ -1,6 +1,6 @@
 {
- "date": "2026-11-03",
- "genere": "2026-11-03T08:11+01:00",
+ "date": "2026-11-04",
+ "genere": "2026-11-04T06:34+01:00",
  "journaux": [
   {
    "id": "figaro",
@@ -8,57 +8,57 @@
    "couleur": "#163860",
    "une": {
     "fichier": "unes/figaro.jpg",
-    "date": "2026-11-03",
-    "source": "https://static.milibris.com/thumbnail/issue/0f1ae5bf-1a64-480b-9df4-5079b1447bdb/front/catalog-cover-large.jpeg"
+    "date": "2026-11-04",
+    "source": "https://static.milibris.com/thumbnail/issue/e88ae678-c117-4e0b-a2c0-6fb90b520861/front/catalog-cover-large.jpeg"
    },
    "articles": [
     {
-     "titre": "« Nous devons nous préparer à absolument tout » : aux États-Unis, l’inquiétude des démocrates après les menaces de Donald Trump sur les midterms",
-     "lien": "https://www.lefigaro.fr/international/nous-devons-nous-preparer-a-absolument-tout-aux-etats-unis-l-inquietude-des-democrates-apres-les-menaces-de-donald-trump-sur-les-midterms-20261103",
-     "resume": "RÉCIT - Des militants accusent le président américain de dévoyer le système électoral à son avantage et de vouloir contester le résultat de l’élection en cas de défaite.",
-     "date": "2026-11-03T06:00:00+01:00",
+     "titre": "EN DIRECT - Midterms 2026 : les démocrates obtiennent la majorité au Sénat et prennent le contrôle total du Congrès, selon les médias américains",
+     "lien": "https://www.lefigaro.fr/international/en-direct-midterms-2026-donald-trump-resultats-elections-americaines-etats-unis-democrates-republicains-congres-senat-chambre-des-representants-20261104",
+     "resume": "Les démocrates ont profité de la colère des électeurs envers Trump, l’inflation et la direction prise par les États-Unis, remportant des sièges dans des États profondément républicains et des États clés.",
+     "date": "2026-11-04T06:22:03+01:00",
      "source": "",
-     "image": "https://i.f1g.fr/media/cms/3000x2197_crop/2026/11/02/4f923bd821eff1b32e9176a901594f10e4523e4fba124751cd202c22ee8eb3bb.jpg"
+     "image": "https://i.f1g.fr/media/cms/2086x1391_crop/2026/11/04/db7ca610fc101268041c97eddd08a7934554a59cfc5d41cf0f02698c151ac5dc.jpg"
     },
     {
-     "titre": "Midterms 2026 : le gerrymandering pourrait-il se retourner contre Donald Trump ?",
-     "lien": "https://www.lefigaro.fr/international/midterms-2026-le-gerrymandering-pourrait-il-se-retourner-contre-donald-trump-20261103",
-     "resume": "INFOGRAPHIE – Sous l’impulsion du locataire de la Maison-Blanche, le Parti républicain a multiplié les redécoupages partisans des districts pour la Chambre des représentants. Voici pourquoi les résultats de ces opérations pourraient décevoir les attentes de…",
-     "date": "2026-11-03T07:13:00+01:00",
+     "titre": "Midterms 2026 : face à la vague démocrate, Trump se dit «tout à fait disposé à accepter ces résultats»",
+     "lien": "https://www.lefigaro.fr/international/midterms-2026-face-a-la-vague-democrate-trump-se-dit-tout-a-fait-dispose-a-accepter-ces-resultats-20261104",
+     "resume": "Le président américain refuse toutefois d’assumer la responsabilité du revers de son camp, arguant qu’il «n’était pas sur le bulletin».",
+     "date": "2026-11-04T06:20:22+01:00",
      "source": "",
-     "image": "https://i.f1g.fr/media/cms/1920x1080_crop/2026/10/15/10154261d0c0d1f09955ef09bd1f3fc056e155543860b6899d256385b33a385f.jpg"
+     "image": "https://i.f1g.fr/media/cms/1564x1043_crop/2026/11/04/85bb6001f3b6a301ca48d708b8a7dd47d9120ead5de8c102cb63506bd9e62ce7.jpg"
     },
     {
-     "titre": "Les midterms 2026, un référendum pour ou contre Donald Trump",
-     "lien": "https://www.lefigaro.fr/international/les-midterms-2026-un-referendum-pour-ou-contre-donald-trump-20261102",
-     "resume": "ANALYSE - Donald Trump tente une nouvelle fois de faire mentir les sondages, qui annoncent une vaste victoire démocrate au scrutin de mi-mandat.",
-     "date": "2026-11-02T21:56:34+01:00",
+     "titre": "Midterms 2026 : James Talarico, l’ancien séminariste qui a fait basculer le Texas dans le camp démocrate",
+     "lien": "https://www.lefigaro.fr/international/midterms-aux-etats-unis-james-talarico-l-ancien-seminariste-devenu-espoir-des-democrates-au-texas-20261027",
+     "resume": "DÉCRYPTAGE - La campagne pour un siège de sénateur du Texas est devenue l’affrontement le plus cher et le plus suivi des élections de mi-mandat.",
+     "date": "2026-11-04T05:45:16+01:00",
      "source": "",
-     "image": "https://i.f1g.fr/media/cms/3000x1688_crop/2026/11/02/7a0aa891bff18c4c9ab9f98def34cdf3e9acb310c0b6ffc7429a5bbb35a18d0a.jpg"
+     "image": "https://i.f1g.fr/media/cms/3000x1687_crop/2026/10/27/bf1b31bb21f5c4e8cd2258fe951d5075fc5ce3449b37b192ed2763fc7609667c.jpg"
     },
     {
-     "titre": "« C’est une ignoble trahison » : dans le Michigan, l’incroyable ralliement d’une élue démocrate au candidat républicain pour les midterms",
-     "lien": "https://www.lefigaro.fr/international/c-est-une-ignoble-trahison-dans-le-michigan-l-incroyable-ralliement-d-une-elue-democrate-au-candidat-republicain-pour-les-midterms-20261102",
-     "resume": "DÉCRYPTAGE - À deux jours d’une élection cruciale pour le Sénat, la députée Haley Stevens, qui perdit la primaire démocrate face à Abdul El-Sayed, a apporté son soutien à l’adversaire républicain de ce dernier.",
-     "date": "2026-11-02T22:59:21+01:00",
+     "titre": "Midterms 2026 : dans l’Ohio, une défaite retentissante pour le milliardaire Vivek Ramaswamy et les Républicains",
+     "lien": "https://www.lefigaro.fr/international/midterms-2026-dans-l-ohio-une-defaite-retentissante-pour-le-milliardaire-vivek-ramaswamy-et-les-republicains-20261104",
+     "resume": "PORTRAIT - La démocrate Amy Acton a remporté le poste de gouverneur de l’Ohio en battant l’entrepreneur proche de la Maison-Blanche.",
+     "date": "2026-11-04T06:20:22+01:00",
      "source": "",
-     "image": "https://i.f1g.fr/media/cms/3000x1688_crop/2026/11/02/b80ba4abdce895a3c58e4a435b41bd4e2882066e0044aca4ab996c3255fffb8c.jpg"
+     "image": "https://i.f1g.fr/media/cms/2691x1513_crop/2026/11/04/2669746d28d31a541acf6d1e6bad5378cfb4563adf4f057c7c320f508c89b3c3.jpg"
     },
     {
-     "titre": "Midterms 2026 : que disent les tout derniers sondages ?",
-     "lien": "https://www.lefigaro.fr/international/midterms-2026-que-disent-les-derniers-sondages-20261005",
-     "resume": "INFOGRAPHIE – Les Américains sont appelés aux urnes ce mardi pour les élections de mi-mandat. Celles-ci doivent renouveler l’ensemble de la Chambre des représentants, un peu plus d’un tiers du Sénat ainsi qu’une majorité des postes de gouverneurs.",
-     "date": "2026-11-02T09:10:35+01:00",
+     "titre": "Donald Trump, un président enfermé dans son monde et déconnecté des réalités de l’Amérique",
+     "lien": "https://www.lefigaro.fr/international/donald-trump-un-president-enferme-dans-son-monde-et-deconnecte-des-realites-de-l-amerique-20261103",
+     "resume": "DÉCRYPTAGE - Tout au long de la campagne des midterms, le président américain est apparu en décalage avec les priorités des électeurs.",
+     "date": "2026-11-03T21:43:41+01:00",
      "source": "",
-     "image": "https://i.f1g.fr/media/cms/1920x1080_crop/2026/10/05/649b6ef773e06a8bde4233a895214a23d01d17861a2fea2d398c23b3ff0f3da5.jpg"
+     "image": "https://i.f1g.fr/media/cms/3000x1687_crop/2026/11/03/fc741a5b0acfe9a1930c91b429313d7fbf744dbc24436891c752e46b3dec2aa7.jpg"
     },
     {
-     "titre": "L’éditorial de Philippe Gélie : « La démocratie selon Donald Trump »",
-     "lien": "https://www.lefigaro.fr/vox/monde/l-editorial-de-philippe-gelie-la-democratie-selon-donald-trump-20261102",
-     "resume": "Devenir minoritaire n’altérera pas fondamentalement le style du 47e président des États-Unis, qui continuera à régenter par décrets et par tweets, avec ce ton de plus en plus désinhibé.",
-     "date": "2026-11-02T20:09:40+01:00",
+     "titre": "Midterms 2026 : Le Sénat et la Chambre des représentants basculent en faveur des démocrates… Suivez les résultats et la carte en direct",
+     "lien": "https://www.lefigaro.fr/international/midterms-2026-donald-trump-va-t-il-conserver-sa-majorite-au-congres-suivez-les-resultats-et-la-carte-en-direct-20261104",
+     "resume": "CARTE – Le Parti démocrate prend le contrôle du Sénat et devrait, selon toute vraisemblance, s’emparer aussi de la Chambre des représentants dans ce qui ressemble à une vague bleue déferlant sur le pays.",
+     "date": "2026-11-04T06:24:43+01:00",
      "source": "",
-     "image": "https://i.f1g.fr/media/cms/1918x1079_crop/2026/11/02/75d9c95d285cc0e8be276b4ad4fba69aaf3875ed1326b1d1de2b870357ba2927.jpg"
+     "image": "https://i.f1g.fr/media/cms/1920x1080_crop/2026/11/03/4fa0ff3635fc2575aac5f8b1455ba4350130fead937eb1ea7c37f4982b7c4f02.jpg"
     }
    ],
    "flux_utilise": "https://www.lefigaro.fr/rss/figaro_actualites.xml"
@@ -69,57 +69,57 @@
    "couleur": "#111111",
    "une": {
     "fichier": "unes/monde.webp",
-    "date": "2026-11-03",
-    "source": "https://www.frontpages.com/t/2026/11/02/le-monde-230400pgq@2x.webp"
+    "date": "2026-11-04",
+    "source": "https://www.frontpages.com/t/2026/11/03/le-monde-231018jti@2x.webp"
    },
    "articles": [
     {
-     "titre": "Comment la popularité de Donald Trump s’est érodée en deux ans",
-     "lien": "https://www.lemonde.fr/international/visuel/2026/11/03/comment-la-popularite-de-donald-trump-s-est-erodee-en-deux-ans_6805520_3210.html",
-     "resume": "Guerre en Iran, hausse du prix des carburants, soupçons de corruption, traque de la police fédérale de l’immigration (ICE)… Alors que les élections de mi-mandat, mardi 3 novembre, s’annoncent serrées pour les républicains, le président américain n’a jamais…",
-     "date": "2026-11-03T05:00:08+01:00",
+     "titre": "EN DIRECT, midterms 2026 : les démocrates remportent la majorité des sièges au Sénat, les républicains en difficulté à la Chambre des représentants",
+     "lien": "https://www.lemonde.fr/international/live/2026/11/04/en-direct-midterms-2026-les-democrates-remportent-la-majorite-des-sieges-au-senat-les-republicains-en-difficulte-a-la-chambre-des-representants_6805528_3210.html",
+     "resume": "Le démocrate James Talarico a été élu sénateur au Texas, bastion républicain. Au Kansas, Adam Hamilton donne le siège de sénateur de l’Etat au Parti démocrate pour la première fois depuis 1932. Les résultats confirment l’arrivée d’une vague démocrate au…",
+     "date": "2026-11-04T05:44:18+01:00",
      "source": "",
-     "image": "https://img.lemde.fr/2026/10/30/299/0/3072/1536/644/322/60/0/36c021f_upload-1-vqjtrh1euolh-media-appel-mid-therm.png"
+     "image": "https://img.lemde.fr/2026/11/04/684/0/8192/4096/644/322/60/0/bd1996f_ftp-1-rcybikpwttph-2303416235.jpg"
     },
     {
-     "titre": "Au sein du service d’ordre du Rassemblement national, les méthodes du groupe de choc de « Kaiser »",
-     "lien": "https://www.lemonde.fr/politique/article/2026/11/02/au-sein-du-service-d-ordre-du-rassemblement-national-les-methodes-du-groupe-de-choc-de-kaiser_6805308_823448.html",
-     "resume": "Le week-end de lancement de campagne présidentielle de Marine Le Pen, les 24 et 25 octobre, à Orléans, a été marqué par les méthodes violentes du Département protection sécurité (DPS), le service d’ordre du parti d’extrême droite. « Le Monde » a constaté la…",
-     "date": "2026-11-02T19:24:25+01:00",
+     "titre": "Midterms 2026 : Donald Trump révèle à Fox News que l’aide militaire à Israël sera « coupée à la fin de l’année »",
+     "lien": "https://www.lemonde.fr/international/article/2026/11/03/midterms-2026-donald-trump-revele-a-fox-news-que-l-aide-militaire-a-israel-sera-coupee-a-la-fin-de-l-annee_6805657_3210.html",
+     "resume": "Le jour des élections de mi-mandat, le président américain a déclaré, sans concertation apparente ni détails, vouloir en finir avec le soutien de 3,8 milliards de dollars annuels à l’Etat hébreu. Une décision qui semble influencée par le retournement de…",
+     "date": "2026-11-03T20:30:07+01:00",
      "source": "",
-     "image": "https://img.lemde.fr/2026/11/01/680/0/1214/607/644/322/60/0/d219303_upload-1-vxxc03rp4yiu-4f4ee71-upload-1-34buukb372cp-06.jpg"
+     "image": "https://img.lemde.fr/2026/10/28/480/0/5760/2880/644/322/60/0/56161a3_upload-1-ug56efapw7ud-lgeai-elections-colonies-3.jpg"
     },
     {
-     "titre": "Budget 2027 : l’Assemblée nationale se prépare à rejeter un texte devenu caduc et incohérent",
-     "lien": "https://www.lemonde.fr/politique/article/2026/11/03/budget-2027-l-assemblee-nationale-se-prepare-a-rejeter-un-texte-devenu-caduc-et-incoherent_6805521_823448.html",
-     "resume": "Les députés ont remanié en profondeur le projet gouvernemental, supprimant certains impôts, en ajoutant d’autres. La première partie du texte devrait être rejetée ces prochains jours. A charge pour l’exécutif de trouver une issue pour sortir de l’impasse.",
-     "date": "2026-11-03T05:00:19+01:00",
+     "titre": "Devant la commission d’enquête sur le 17 octobre, Laurent Nuñez reconnaît « un échec »",
+     "lien": "https://www.lemonde.fr/politique/article/2026/11/04/devant-la-commission-d-enquete-sur-le-17-octobre-laurent-nunez-reconnait-un-echec_6805735_823448.html",
+     "resume": "Interrogé à l’Assemblée nationale, mardi 3 novembre, le ministre de l’intérieur a regretté un « défaut d’anticipation » des forces de l’ordre « lié à la simultanéité des événements » lors des violences du 17 octobre.",
+     "date": "2026-11-04T00:06:26+01:00",
      "source": "",
-     "image": "https://img.lemde.fr/2026/10/21/84/0/5159/2579/644/322/60/0/d0a67d3_upload-1-hsgp0wjbnmyf-cbi1348021.JPG"
+     "image": "https://img.lemde.fr/2026/11/03/656/0/8000/4000/644/322/60/0/3690db7_upload-1-j7nfdjwdxyr3-jmug261103037.jpg"
     },
     {
-     "titre": "Au premier jour du procès de « la petite inconnue de l’A10 » : « Monsieur, vous m’entendez ? » « Madame, vous êtes là ? »",
-     "lien": "https://www.lemonde.fr/societe/article/2026/11/03/au-premier-jour-du-proces-de-la-petite-inconnue-de-l-a10-monsieur-vous-m-entendez-madame-vous-etes-la_6805486_3224.html",
-     "resume": "Trente-neuf ans après avoir abandonné le corps supplicié de leur fille Inass, 4 ans, en bordure d’autoroute, Halima El Bakhti, 72 ans, et Ahmed Touloub, 74 ans, sont apparus très diminués devant la cour d’assises du Loir-et-Cher. La constitution de partie…",
-     "date": "2026-11-03T05:00:08+01:00",
+     "titre": "Villarreal-PSG : une nouvelle démonstration des Parisiens, favoris à leur propre succession en Ligue des champions",
+     "lien": "https://www.lemonde.fr/sport/article/2026/11/04/villarreal-psg-une-nouvelle-demonstration-des-parisiens-plus-que-jamais-favoris-a-leur-propre-succession-en-ligue-des-champions_6805802_3242.html",
+     "resume": "Le double tenant du titre a écrasé les Espagnols (6-0), mardi soir, en affichant une supériorité totale. En quête d’un troisième titre continental, Paris s’est rapproché d’une qualification directe pour les huitièmes de finale.",
+     "date": "2026-11-04T02:13:31+01:00",
      "source": "",
-     "image": "https://img.lemde.fr/2026/11/02/642/0/7704/3852/644/322/60/0/66da241_ftp-1-wdm6e2ebdgpi-afp-d66r2dz.jpg"
+     "image": "https://img.lemde.fr/2026/11/03/106/0/6940/3470/644/322/60/0/bda06aa_ftp-1-b5utf91o0woz-8b1d42a3cb5541378017f01b0a1835d2-0-ac84f7d7e1fa4c3abab5574c118c7d2f.jpg"
     },
     {
-     "titre": "« L’Affaire Marie-Claire », le procès de Bobigny au cinéma sans effets de manche",
-     "lien": "https://www.lemonde.fr/cinema/article/2026/11/03/l-affaire-marie-claire-le-proces-de-bobigny-au-cinema-sans-effets-de-manche_6805536_3476.html",
-     "resume": "Avec Charlotte Gainsbourg en Gisèle Halimi et Cécile de France en Michèle Chevalier, le film de Lauriane Escaffre et Yvo Muller touche juste dans sa description de la condition féminine malgré quelques maladresses d’écriture.",
-     "date": "2026-11-03T06:00:23+01:00",
+     "titre": "Mouvement lycéen : entre reprise des cours et maintien des blocages, la mobilisation à un moment charnière après les vacances",
+     "lien": "https://www.lemonde.fr/societe/article/2026/11/03/mouvement-lyceen-entre-reprise-des-cours-et-maintien-des-blocus-la-mobilisation-a-un-moment-charniere-apres-les-vacances_6805651_3224.html",
+     "resume": "La bataille des chiffres fait rage entre gouvernement et organisations syndicales sur le niveau des perturbations dans les lycées. Parmi les élèves présents au sein des blocages d’Ile-de-France, la détermination le dispute à l’inquiétude pour la suite de…",
+     "date": "2026-11-03T19:56:22+01:00",
      "source": "",
-     "image": "https://img.lemde.fr/2026/10/29/133/0/1600/800/644/322/60/0/023dbeb_upload-1-bb3cqgdyucx4-1cdc25b3f24d59c4e7f6c5d6c26f6a65.jpeg"
+     "image": "https://img.lemde.fr/2026/11/03/68/0/3071/1535/644/322/60/0/9d8e1dd_upload-1-tpheuz8atsxw-021-millerand-5h9a6281.jpg"
     },
     {
-     "titre": "En Ukraine, l’industrie sidérurgique menacée d’effondrement : « A l’heure actuelle, aucune production d’acier n’est assurée dans le pays »",
-     "lien": "https://www.lemonde.fr/international/article/2026/11/03/en-ukraine-l-industrie-siderurgique-menacee-d-effondrement-a-l-heure-actuelle-aucune-production-d-acier-n-est-assuree-dans-le-pays_6805535_3210.html",
-     "resume": "Dans le bassin minier de Kryvy Rih, l’inquiétude est palpable. Alors que le complexe métallurgique d’ArcelorMittal, qui emploie 16 000 personnes, pourrait fermer après les frappes russes de septembre, le blocage des exportations en mer Noire et le…",
-     "date": "2026-11-03T06:00:11+01:00",
+     "titre": "En Afrique du Sud, la déconfiture annoncée de l’ANC, en perte de vitesse dans les grandes villes du pays",
+     "lien": "https://www.lemonde.fr/afrique/article/2026/11/04/en-afrique-du-sud-la-deconfiture-annoncee-de-l-anc-en-perte-de-vitesse-dans-les-grandes-villes-du-pays_6806072_3212.html",
+     "resume": "Chômage, criminalité, déliquescence des infrastructures, corruption… Le pays, dirigé depuis 1994 par le Congrès national africain, est rongé par de multiples crises. Le parti est annoncé au coude-à-coude avec l’Alliance démocratique lors du scrutin municipal…",
+     "date": "2026-11-04T06:00:25+01:00",
      "source": "",
-     "image": "https://img.lemde.fr/2026/10/22/501/0/4000/2000/644/322/60/0/ab6548d_upload-1-h0uzavzko3ak-raf-ukr-industrie-020.JPG"
+     "image": "https://img.lemde.fr/2026/10/29/0/0/6000/3000/644/322/60/0/ba0bc22_ftp-1-oo9fvqde75ws-2026-10-29t140629z-1679833974-rc2ycoaopg9z-rtrmadp-3-safrica-election.JPG"
     }
    ],
    "flux_utilise": "https://www.lemonde.fr/rss/une.xml"
@@ -129,58 +129,58 @@
    "nom": "La Croix",
    "couleur": "#c8102e",
    "une": {
-    "fichier": "unes/croix.jpg",
-    "date": "2026-11-03",
-    "source": "https://img.kiosko.net/2026/11/03/fr/lacroix.750.jpg"
+    "fichier": "unes/croix.webp",
+    "date": "2026-11-04",
+    "source": "https://www.frontpages.com/t/2026/11/04/la-croix-055709qav@2x.webp"
    },
    "articles": [
     {
-     "titre": "Guerre au Moyen-Orient : un marin indien tué au large d’Oman ; un accord possible selon Trump",
-     "lien": "https://www.la-croix.com/international/direct-guerre-iran-israel-usa-jour-134-moyen-orient-bilan-resume-aujourdhui-20261103",
-     "resume": "Un marin indien a été tué lors d’une frappe « par un engin aérien non identifié » visant son pétrolier qui croisait au large d’Oman. Donald Trump a dit qu’un accord avec Téhéran « pourrait arriver ». Retrouvez l’actualité du conflit au Moyen-Orient de ce…",
-     "date": "2026-11-03T08:09:06+01:00",
+     "titre": "DIRECT. Résultats midterms 2026 : défaite de Trump, suivez la journée avec nous",
+     "lien": "https://www.la-croix.com/international/direct-resultats-midterms-2026-elections-mi-mandat-etats-unis-usa-trump-aujourdhui-20261104",
+     "resume": "Au lendemain des élections de mi-mandat aux États-Unis, retrouvez les résultats complets des midterms 2026. Les Américains ont voté pour renouveler la Chambre des représentants et une partie du Sénat dans un scrutin qui fait figure de référendum pour ou…",
+     "date": "2026-11-04T06:33:12+01:00",
      "source": "",
-     "image": "https://i.la-croix.com/x/2026/11/03/2579036-une-iranienne-marche-devant-une-fresque-antiameric.jpg"
+     "image": "https://i.la-croix.com/x/2026/11/04/2578682-le-resultat-des-midterms-qui-doit-aboutir-a-renouv.jpg"
     },
     {
-     "titre": "« L’ICE en France ? Une vision glaçante, mais réaliste de l’avenir »",
-     "lien": "https://www.la-croix.com/a-vif/l-ice-en-france-une-vision-glacante-mais-realiste-de-lavenir-20261103",
-     "resume": "Avec la montée de l’extrême droite, Anne Savinel-Barras, présidente d’Amnesty International France, alerte le risque bien réel que les méthodes controversées de la police de l'immigration américaine s'imposent en Europe et en France.",
-     "date": "2026-11-03T07:44:47+01:00",
+     "titre": "« C’est dangereux, mais nos familles meurent de faim » : les jeunes Afghans s’obstinent sur la route de l’exil",
+     "lien": "https://www.la-croix.com/international/c-est-dangereux-mais-nos-familles-meurent-de-faim-les-jeunes-afghans-sobstinent-sur-la-route-de-lexil-20261103",
+     "resume": "Chaque jour, des centaines d’Afghans sont expulsés d’Iran et renvoyés dans leur pays. Mais beaucoup persistent à vouloir émigrer, face à l’explosion du chômage et de la pauvreté.",
+     "date": "2026-11-04T06:30:05+01:00",
      "source": "",
-     "image": "https://i.la-croix.com/x/2026/11/03/2578774-des-agents-de-l-ice-la-police-de-limmigration-amer.jpg"
+     "image": "https://i.la-croix.com/x/2026/11/03/2578311-des-refugies-afghans-refoules-d-iran-arrivent-dans.jpg"
     },
     {
-     "titre": "De la ferveur aux fractures : ce que les évêques français puisent dans la visite de Léon XIV face à la crise",
-     "lien": "https://www.la-croix.com/religion/de-la-ferveur-aux-fractures-ce-que-les-eveques-francais-puisent-dans-la-visite-de-leon-xiv-face-a-la-crise-20261102",
-     "resume": "La visite de Léon XIV et la contestation lycéenne et sociale se sont enchaînées, sans répit. Alors que les évêques se réunissent à Lourdes, ce mardi 3 novembre, pour leur Assemblée plénière d’automne où ils doivent relire cette visite pontificale, La Croix a…",
-     "date": "2026-11-03T07:16:12+01:00",
+     "titre": "Amir Reza-Tofighi : « On ne peut pas demander aux actifs de contribuer toujours plus »",
+     "lien": "https://www.la-croix.com/economie/amir-reza-tofighi-on-ne-peut-pas-demander-aux-actifs-de-contribuer-toujours-plus-20261103",
+     "resume": "Alors que le gouvernement envisage d’augmenter le smic, Amir Reza-Tofighi, président des Entrepreneurs (ex-CPME), se dit prêt à accepter une hausse du salaire minimum. À la condition que le gouvernement renonce au gel des allégements de charges des…",
+     "date": "2026-11-04T06:15:17+01:00",
      "source": "",
-     "image": "https://i.la-croix.com/x/2026/11/02/2578571-leon-xiv-avec-les-eveques-dans-l-hemicycle-sainte-.jpg"
+     "image": "https://i.la-croix.com/x/2026/11/03/2579208-amir-reza-tofighi-president-des-entrepreneurs-s-es.jpg"
     },
     {
-     "titre": "Mouvement des lycéens : nouvel appel à bloquer les établissements ce mardi",
-     "lien": "https://www.la-croix.com/nouvel-appel-a-bloquer-facs-et-lycees-avec-la-greve-de-jeudi-en-ligne-de-mire-20261102",
-     "resume": "Malgré les annonces gouvernementales, l’intersyndicale lycéenne et étudiante appelle à des blocages massifs mardi 3 novembre, avant de rejoindre la mobilisation interprofessionnelle de jeudi sur le pouvoir d’achat.",
-     "date": "2026-11-03T06:47:14+01:00",
+     "titre": "Être disciple du Christ : exigence radicale ou miséricorde? Commentaire de l’Évangile du mercredi 4 novembre",
+     "lien": "https://www.la-croix.com/religion/etre-disciple-du-christ-exigence-radicale-ou-misericorde-commentaire-de-l-evangile-du-mercredi-4-novembre-20261028",
+     "resume": "Mercredi de la 31e semaine du temps ordinaire (Lc 14,25-33)",
+     "date": "2026-11-04T06:00:00+01:00",
      "source": "",
-     "image": "https://i.la-croix.com/x/2026/11/03/2578990-des-poubelles-et-des-pancartes-devant-le-lycee-sai.jpg"
+     "image": "https://i.la-croix.com/x/2026/10/28/2574244-passage-homme-vieux-marchejpeg.jpeg"
     },
     {
-     "titre": "Guerre en Ukraine : 493 drones vers Moscou interceptés ; premier exercice militaire d’alliés de Kiev",
-     "lien": "https://www.la-croix.com/international/ukraine-russie-jour-1714-point-conflit-ukrainien-poutine-aujourdhui-20261103",
-     "resume": "Les alliés de Kiev, pilotés par la France et le Royaume-Uni, vont mener en Pologne un exercice grandeur nature. Des négociations entre la Russie et l’Ukraine sous médiation américaine vont se tenir à Abou Dhabi. Retrouvez l’actualité de la guerre en Ukraine…",
-     "date": "2026-11-03T06:36:20+01:00",
+     "titre": "Résultats Midterms 2026 : le décompte des sièges à la Chambre et au Sénat",
+     "lien": "https://www.la-croix.com/international/resultats-midterms-2026-chambre-representants-senat-elections-usa-etats-unis-20261103",
+     "resume": "Suivez ce mercredi 4 novembre 2026 les résultats en temps réel des midterms pour le renouvellement du Congrès américain. Les majorités de Donald Trump à la Chambre des représentants comme au Sénat sont susceptibles d’être remises en cause par ces élections…",
+     "date": "2026-11-04T04:00:07+01:00",
      "source": "",
-     "image": "https://i.la-croix.com/x/2026/11/03/2579027-des-secouristes-ukrainiens-interviennent-pour-fair.jpg"
+     "image": "https://i.la-croix.com/x/2026/11/03/2578644-les-resultats-des-elections-de-mi-mandat-aux-etats.jpg"
     },
     {
-     "titre": "Plan fertilité : un rapport préconise de développer tous azimuts l’accès à la PMA",
-     "lien": "https://www.la-croix.com/sante/plan-fertilite-un-rapport-preconise-de-developper-tous-azimuts-l-acces-a-la-pma-20261102",
-     "resume": "La ministre de la santé Stéphanie Rist doit recevoir, mardi 3 novembre 2026, le rapport du comité de pilotage chargé de mettre en œuvre le plan fertilité qui sera présenté en février. Son mot d’ordre : développer massivement l’accès à la PMA.",
-     "date": "2026-11-03T06:33:01+01:00",
+     "titre": "Génocide des Rohingyas : la Cour internationale de justice se prononcera le 19 novembre",
+     "lien": "https://www.la-croix.com/international/genocide-des-rohingyas-la-cour-internationale-de-justice-se-prononcera-le-19-novembre-20261103",
+     "resume": "La Cour internationale de justice rendra le 19 novembre son arrêt sur le génocide présumé des Rohingyas en Birmanie. Une décision historique, attendue depuis sept ans, qui pourrait faire jurisprudence pour d’autres affaires similaires.",
+     "date": "2026-11-03T22:30:00+01:00",
      "source": "",
-     "image": "https://i.la-croix.com/x/2026/11/02/2578334-en-france-plus-de-3-millions-d-adultes-en-age-de-p.jpg"
+     "image": "https://i.la-croix.com/x/2026/11/03/2579839-la-cour-internationale-de-justice-rendra-le-19-nov.jpg"
     }
    ],
    "flux_utilise": "https://www.la-croix.com/feeds/rss/site.xml"
@@ -190,58 +190,58 @@
    "nom": "L'Équipe",
    "couleur": "#e2001a",
    "une": {
-    "fichier": "unes/equipe.jpg",
-    "date": "2026-11-03",
-    "source": "https://img.kiosko.net/2026/11/03/fr/l_equip.750.jpg"
+    "fichier": "unes/equipe.webp",
+    "date": "2026-11-04",
+    "source": "https://www.frontpages.com/t/2026/11/04/l-equipe-012408h15@2x.webp"
    },
    "articles": [
     {
-     "titre": "Tout juste titré et vainqueur de 75 % de ses matches en France, Moïse Kouame à l'assaut du Rolex Paris Masters : « C'est un kiff de jouer ici »",
-     "lien": "https://www.lequipe.fr/Tennis/Actualites/Tout-juste-titre-et-vainqueur-de-75-de-ses-matches-en-france-moise-kouame-a-l-assaut-du-rolex-paris-masters-c-est-un-kiff-de-jouer-ici/1740605#at_medium=RSS_feeds",
-     "resume": "Cinq mois après avoir emballé Roland-Garros, le jeune Moïse Kouame (17 ans) va tenter de séduire un autre public parisien, mardi, à la Plenitude Arena. Il y défie le 15e mondial Alejandro Davidovich Fokina (diffusé sur Eurosport, disponible sur L'Équipe),…",
-     "date": "2026-11-03T07:50:00+01:00",
+     "titre": "Après les Bleus, Lucas Da Cunha ne baisse pas le pied et continue de gagner en envergure à Côme",
+     "lien": "https://www.lequipe.fr/Football/Article/Apres-les-bleus-lucas-da-cunha-ne-baisse-pas-le-pied-et-continue-de-gagner-en-envergure-a-come/1740916#at_medium=RSS_feeds",
+     "resume": "Après ses débuts remarqués en équipe de France, le milieu de Côme continue de prendre de l'épaisseur. Repositionné sur le côté droit, il s'est aussi imposé comme le nouveau tireur de penalties du club.",
+     "date": "2026-11-04T06:00:00+01:00",
      "source": "",
-     "image": "https://medias.lequipe.fr/img-photo-jpg/moise-kouame-a-l-entrainement-sous-l-oeil-de-richard-gasquet-lundi-a-la-plenitude-arena-p-lahalle-l-equipe/1500000002640532/0:0,2000:1333-828-552-75/2c7af.jpg"
+     "image": "https://medias.lequipe.fr/img-photo-jpg/lucas-da-cunha-balle-au-pied-lors-du-succes-de-come-contre-manchester-united-4-1-le-21-octobre-en-ligue-des-champions-l-rossini-alamy-icon-sport/1500000002641534/0:0,2000:1333-828-552-75/e9f27.jpg"
     },
     {
-     "titre": "« Il ne faut pas laisser le doute s'installer » : après le derby perdu contre Lille, Lens compte profiter de la semaine européenne pour se remobiliser",
-     "lien": "https://www.lequipe.fr/Football/Article/-il-ne-faut-pas-que-ca-se-reproduise-apres-la-defaite-contre-lille-lens-compte-profiter-de-la-semaine-europeenne-pour-se-remobiliser/1740536#at_medium=RSS_feeds",
-     "resume": "Le RC Lens doit oublier la défaite dans le derby contre le LOSC (0-1), vendredi, pour se plonger dans les deux rendez-vous qui l'attendent cette semaine : Côme en Ligue des champions (mercredi, 21 heures) puis l'OM (dimanche, 20 h 45) en Ligue 1. Il faudra…",
-     "date": "2026-11-03T07:49:00+01:00",
+     "titre": "Un point, c'est tout... Courageux mais inefficace, le LOSC est au bord du précipice après son nul sur la pelouse de Bodö/Glimt",
+     "lien": "https://www.lequipe.fr/Football/Article/-les-regrets-ne-sont-pas-aujourd-hui-courageux-mais-inefficace-le-losc-est-au-bord-du-precipice-apres-son-nul-sur-la-pelouse-de-bodo-glimt/1740982#at_medium=RSS_feeds",
+     "resume": "Malgré une heure de domination dans des conditions dantesques sur un terrain où les plus grands sont tombés, le LOSC n'a pas su conclure sur la pelouse de Bodö/Glimt (0-0). Son premier point est là, mais il est au bord du précipice en Ligue des champions.",
+     "date": "2026-11-04T05:48:00+01:00",
      "source": "",
-     "image": "https://medias.lequipe.fr/img-photo-jpg/les-joueurs-du-rc-lens-decus-apres-leur-defaite-contre-lille-0-1-vendredi-a-reau-l-equipe/1500000002640284/134:226,1622:1219-828-552-75/ea522.jpg"
+     "image": "https://medias.lequipe.fr/img-photo-jpg/benjamin-andre-et-soriba-diaoune-ont-brave-les-conditions-meteorologiques-compliquees-de-bodoe-pour-aller-chercher-un-point-s-froystein-icon-sport/1500000002641731/168:63,894:547-828-552-75/52843.jpg"
     },
     {
-     "titre": "Achraf Hakimi, Lassine Sinayoko et Elye Wahi en feu : l'équipe type de la 9e journée de Ligue 1",
-     "lien": "https://www.lequipe.fr/Football/Actualites/Achraf-hakimi-lassine-sinayoko-et-elye-wahi-en-feu-l-equipe-type-de-la-9e-journee-de-ligue-1/1740712#at_medium=RSS_feeds",
-     "resume": "Chose rare, trois joueurs ont obtenu la note de 9/10 lors de la 9e journée de Ligue 1 : Achraf Hakimi avec le PSG, Lassine Sinayoko avec le Paris FC et Elye Wahi avec Nice.",
-     "date": "2026-11-03T07:45:00+01:00",
+     "titre": "La patience récompensée pour Senny Mayulu, auteur de trois buts en trois matches avec le PSG, dont un contre Villarreal après un début de saison sans temps de jeu",
+     "lien": "https://www.lequipe.fr/Football/Article/La-patience-recompensee-pour-senny-mayulu-auteur-de-trois-buts-en-trois-matches-avec-le-psg-dont-un-contre-villarreal-apres-un-debut-de-saison-sans-temps-de-jeu/1740981#at_medium=RSS_feeds",
+     "resume": "En huit jours, Senny Mayulu a inscrit trois buts en trois matches avec le PSG et peut-être prouvé que ce poste de faux numéro neuf était celui où il avait le plus d'avenir. Il aspire maintenant à enchaîner après un début de saison sans temps de jeu.",
+     "date": "2026-11-04T05:45:00+01:00",
      "source": "",
-     "image": "https://medias.lequipe.fr/img-photo-jpg/achraf-hakimi-et-lassine-sinayoko-ont-impressionne-lors-de-la-9e-journee-de-ligue-1-s-mantey-l-equipe/1500000002640811/0:0,1500:1000-828-552-75/e4ed2.jpg"
+     "image": "https://medias.lequipe.fr/img-photo-jpg/13e-minute-ce-mardi-senny-mayulu-celebre-son-but-celui-du-3-0-pour-les-siens-sur-la-pelouse-de-villarreal-6-0-a-reau-l-equipe/1500000002641728/0:0,2000:1333-828-552-75/d2735.jpg"
     },
     {
-     "titre": "« Le PSG est l'une des meilleures équipes du monde aujourd'hui, c'était une opportunité pour nous » : Paris, un partenaire majeur pour le constructeur automobile chinois BYD",
-     "lien": "https://www.lequipe.fr/Football/Actualites/-le-psg-est-l-une-des-meilleures-equipes-du-monde-aujourd-hui-c-etait-une-opportunite-pour-nous-paris-un-partenaire-majeur-pour-le-constructeur-automobile-chinois-byd/1739775#at_medium=RSS_feeds",
-     "resume": "Le PSG, double champion d'Europe a signé un partenariat de trois ans avec le constructeur automobile chinois, BYD.",
-     "date": "2026-11-03T07:35:00+01:00",
+     "titre": "Facundo Medina, avant Leverkusen-OM en Ligue Europa : « J'ai beaucoup appris de cette année »",
+     "lien": "https://www.lequipe.fr/Football/Article/Facundo-medina-avant-leverkusen-om-en-ligue-europa-j-ai-beaucoup-appris-de-cette-annee/1740835#at_medium=RSS_feeds",
+     "resume": "Avant ses retrouvailles avec l'OM, jeudi (21 heures) en Ligue Europa, le défenseur Facundo Medina, passé de Marseille à Leverkusen cet été, après avoir atteint la finale de la Coupe du monde avec l'Argentine, se confie sur ses derniers mois, animés et…",
+     "date": "2026-11-04T05:45:00+01:00",
      "source": "",
-     "image": "https://medias.lequipe.fr/img-photo-jpg/devant-le-siege-du-psg-les-voitures-du-constructeur-chinois-byd-nouveau-partenaire-officiel-du-club-jusqu-en-2029-atlaidea-es-byd/1500000002637698/0:0,2000:1333-828-552-75/cfa1c.jpg"
+     "image": "https://medias.lequipe.fr/img-photo-jpg/facundo-medina-apprecie-ses-premiers-mois-a-leverkusen-mika-volkmann-imago-presse-sport/1500000002641368/0:0,887:591-828-552-75/83068.jpg"
     },
     {
-     "titre": "Aucun point marqué en trois journées, un déplacement compliqué à Bodö : Lille est déjà dos au mur en Ligue des champions",
-     "lien": "https://www.lequipe.fr/Football/Article/Aucun-point-marque-en-trois-journees-un-deplacement-complique-a-bodo-lille-est-deja-dos-au-mur-en-ligue-des-champions/1740662#at_medium=RSS_feeds",
-     "resume": "Bloqué à zéro point en Ligue des champions alors qu'il talonne le champion d'Europe parisien en Ligue 1, le LOSC a l'obligation de réagir sur le synthétique de Bodö ce mardi soir (21 heures), où les plus grands ont dérapé. Sans point ramené du grand Nord, la…",
-     "date": "2026-11-03T07:18:00+01:00",
+     "titre": "Après-carrière, transition écologique et transmission : le sport en partage au menu de la 5e édition de « Demain le Sport »",
+     "lien": "https://www.lequipe.fr/Tous-sports/Actualites/Le-sport-a-l-ecoute-de-la-societe-apres-carriere-preoccupations-ecologiques-feminines-lieux-transmission-telles-seront-les-principales-thematiques-de-la-journee/1740683#at_medium=RSS_feeds",
+     "resume": "La 5e édition de « Demain le Sport », organisée conjointement par « L'Équipe » et Radio France en partenariat avec TF1, est dédiée à « la transmission », la base du sport. Sportifs, entrepreneurs et acteurs de ce monde échangeront sur ce thème, le mardi 10…",
+     "date": "2026-11-04T05:35:00+01:00",
      "source": "",
-     "image": "https://medias.lequipe.fr/img-photo-jpg/maxima-goffi-alexsandro-et-nathan-ngoy-lors-de-la-defaite-de-lille-face-a-galatasaray-2-4-le-21-octobre-e-garnier-l-equipe/1500000002640663/0:0,2000:1333-828-552-75/30789.jpg"
+     "image": "https://medias.lequipe.fr/img-photo-jpg/blandine-l-hirondel-nikola-karabatic-blaise-matuidi-raphael-varane-et-clarisse-agbegnenou-participeront-mardi-10-novembre-a-la-5e-edition-de-demain-le-sport-p-lahalle-b-paquot-a-mounic-a-sallusti-et-s-boue-l-equipe/1500000002641596/0:0,1500:1000-828-552-75/87682.jpg"
     },
     {
-     "titre": "Le résumé vidéo de 76ers - Bulls",
-     "lien": "https://www.lequipe.fr/Basket/Video/Nba-nba-le-resume-video-de-philadelphia-76ers-chicago-bulls-avec-les-sixers-au-complet/20244743#at_medium=RSS_feeds",
-     "resume": "",
-     "date": "2026-11-03T07:02:00+01:00",
+     "titre": "Qui est Isaac Cossier, le jeune défenseur du LOSC titularisé et solide face à Bodö/Glimt en Ligue des champions ?",
+     "lien": "https://www.lequipe.fr/Football/Actualites/Qui-est-isaac-cossier-le-jeune-defenseur-du-losc-titularise-et-solide-face-a-bodo-glimt-en-ligue-des-champions/1740969#at_medium=RSS_feeds",
+     "resume": "Titularisé mardi soir en défense centrale face à Bodö/Glimt en Ligue des champions, le jeune Lillois Isaac Cossier a fait le match que David Ancelotti attendait de sa part, confirmant tous les espoirs que le LOSC place en lui.",
+     "date": "2026-11-04T05:28:00+01:00",
      "source": "",
-     "image": "https://medias.lequipe.fr/img-photo-png/-/1500000000833469/0-828-552-75/0cb67.png"
+     "image": "https://medias.lequipe.fr/img-photo-jpg/avant-mardi-soir-isaac-cossier-n-avait-joue-que-41-minutes-en-ligue-1-cette-saison-sigurd-froystein-icon-sport/1500000002641703/235:195,1814:1247-828-552-75/67d9f.jpg"
     }
    ],
    "flux_utilise": "https://dwh.lequipe.fr/api/edito/rss?path=/"
@@ -254,64 +254,64 @@
    "sous_titre": "Les informations les plus importantes, partout dans le monde",
    "items": [
     {
-     "titre": "EN DIRECT, midterms 2026 : après la clôture de la campagne, les Américains votent mardi pour renouveler le Congrès",
-     "lien": "https://www.lemonde.fr/international/live/2026/11/03/en-direct-midterms-2026-apres-la-cloture-de-la-campagne-les-americains-votent-mardi-pour-renouveler-le-congres_6805528_3210.html",
-     "resume": "Les premiers bureaux de vote ouvriront à 6 heures (midi à Paris) dans de nombreux Etats de la côte est des Etats-Unis. Au vu des sondages, le camp démocrate entretient l’espoir de faire basculer de son côté la Chambre des représentants, voire le Sénat, afin…",
-     "date": "2026-11-03T05:22:02+01:00",
+     "titre": "Midterms 2026 : Donald Trump, futur canard boiteux, se prépare à un siège de la Maison Blanche",
+     "lien": "https://www.lemonde.fr/international/article/2026/11/04/midterms-2026-donald-trump-futur-canard-boiteux-se-prepare-a-un-siege-de-la-maison-blanche_6806110_3210.html",
+     "resume": "Avant même la victoire sans appel des démocrates, le président américain avait largement ignoré le pouvoir législatif. Il avait prévenu qu’il utiliserait son veto et distribuerait les grâces. Mais Donald Trump va être confronté à son propre déclin, alors que…",
+     "date": "2026-11-04T06:30:10+01:00",
      "source": "lemonde.fr",
-     "image": "https://img.lemde.fr/2026/11/02/500/0/6000/3000/644/322/60/0/f991f7c_ftp-1-bwighl2prujr-afp-d68a9nv.jpg",
-     "reprises": 10,
-     "score": 42.55
+     "image": "https://img.lemde.fr/2026/11/03/126/0/1600/800/644/322/60/0/9020c19_ftp-1-xoemyzj3zeon-afp-d64h2w8.jpg",
+     "reprises": 16,
+     "score": 101.93
     },
     {
-     "titre": "L’aventurier Karl Bushby de retour chez lui après un tour du monde de vingt-huit ans",
-     "lien": "https://www.lemonde.fr/international/video/2026/11/02/l-aventurier-karl-bushby-de-retour-chez-lui-apres-un-tour-du-monde-de-vingt-huit-ans_6805309_3210.html",
-     "resume": "Ce Britannique a entamé son aventure à l’âge de 29 ans, après l’échec de son mariage et le départ de sa femme pour l’Irlande du Nord avec leur fils.",
-     "date": "2026-11-02T19:42:11+01:00",
+     "titre": "EN DIRECT, midterms 2026 : les démocrates remportent la majorité des sièges au Sénat, les républicains en difficulté à la Chambre des représentants",
+     "lien": "https://www.lemonde.fr/international/live/2026/11/04/en-direct-midterms-2026-les-democrates-remportent-la-majorite-des-sieges-au-senat-les-republicains-en-difficulte-a-la-chambre-des-representants_6805528_3210.html",
+     "resume": "Le démocrate James Talarico a été élu sénateur au Texas, bastion républicain. Au Kansas, Adam Hamilton donne le siège de sénateur de l’Etat au Parti démocrate pour la première fois depuis 1932. Les résultats confirment l’arrivée d’une vague démocrate au…",
+     "date": "2026-11-04T05:44:18+01:00",
      "source": "lemonde.fr",
-     "image": "https://img.lemde.fr/2026/11/02/656/0/7876/3938/644/322/60/0/bdb4d6d_ftp-1-gx5bry75lc27-40a381b8a4d6443292984d48361742ba-0-a38dd67d88164ca1a4a8d51a1ed1ad33.jpg",
-     "reprises": 7,
-     "score": 14.95
+     "image": "https://img.lemde.fr/2026/11/04/684/0/8192/4096/644/322/60/0/bd1996f_ftp-1-rcybikpwttph-2303416235.jpg",
+     "reprises": 2,
+     "score": 15.42
     },
     {
-     "titre": "Iran : les Etats-Unis ont effectué des frappes sur l’île de Qechm, selon plusieurs médias américains",
-     "lien": "https://www.lemonde.fr/international/article/2026/11/03/iran-l-armee-americaine-a-effectue-des-frappes-sur-l-ile-de-qeshm-selon-le-wall-street-journal_6805420_3210.html",
-     "resume": "Ces frappes, que l’armée voulait tenir secrètes, interviennent à la veille des élections de mi-mandat aux Etats-Unis, et alors que Donald Trump a déclaré qu’un accord avec l’Iran « pourrait arriver ».",
-     "date": "2026-11-03T04:13:20+01:00",
+     "titre": "Espagne : le ministre des transports démissionne après la catastrophe ferroviaire meurtrière",
+     "lien": "https://www.lemonde.fr/international/article/2026/11/03/espagne-le-ministre-des-transports-demissionne-apres-la-catastrophe-ferroviaire-meurtriere_6805667_3210.html",
+     "resume": "« C’est une question de dignité politique, de cohérence et d’empathie envers les victimes », a déclaré Oscar Puente, une semaine après la collision à Urda qui a coûté la vie à au moins 69 personnes.",
+     "date": "2026-11-03T21:53:30+01:00",
      "source": "lemonde.fr",
-     "image": "https://img.lemde.fr/2026/03/04/433/0/4031/2015/644/322/60/0/b387efa_ftp-1-l4thys4zanah-2026-03-04t133601z-1229869498-rc29u4amrwyc-rtrmadp-3-iran-crisis-energy.JPG",
+     "image": "https://img.lemde.fr/2026/11/03/361/0/4039/2019/644/322/60/0/5a31b89_ftp-1-rlofecd31gqz-afp-d6by8g3.jpg",
      "reprises": 5,
-     "score": 11.07
+     "score": 9.63
     },
     {
-     "titre": "EN DIRECT, guerre en Ukraine : l’émissaire américain annonce des négociations entre Moscou et Kiev la semaine prochaine à Abou Dhabi, sous médiation de Washington",
-     "lien": "https://www.lemonde.fr/international/live/2026/11/03/en-direct-guerre-en-ukraine-l-emissaire-americain-annonce-des-negociations-entre-moscou-et-kiev-la-semaine-prochaine-a-abou-dhabi-sous-mediation-de-washington_6803934_3210.html",
-     "resume": "Selon Steve Witkoff, ces discussions prévues mardi 10 et mercredi 11 novembre « porteront sur les dispositions de sécurité d’après-guerre, la désescalade, les efforts humanitaires et les prochaines étapes vers la paix ». Par ailleurs, des bombardements…",
-     "date": "2026-11-03T06:30:58+01:00",
+     "titre": "Midterms 2026 : le démocrate Jon Ossoff remporte la Géorgie et renforce sa stature de présidentiable",
+     "lien": "https://www.lemonde.fr/international/article/2026/11/04/midterms-2026-le-democrate-jon-ossoff-remporte-la-georgie-et-renforce-sa-stature-de-presidentiable_6805801_3210.html",
+     "resume": "Le sénateur sortant, incarnation de l’aile modérée de la jeune garde démocrate, a été réélu sans difficulté contre le républicain Mike Collins.",
+     "date": "2026-11-04T02:10:08+01:00",
      "source": "lemonde.fr",
-     "image": "https://img.lemde.fr/2026/11/02/514/0/5548/2774/644/322/60/0/2e1158c_ftp-1-ze3bjxtdjecg-2026-11-02t213053z-3438278-rc2rfoa2zcqz-rtrmadp-3-ukraine-crisis-attack-zaporizhzhia-region.JPG",
+     "image": "https://img.lemde.fr/2026/11/02/250/0/3000/1500/644/322/60/0/681e29e_ftp-1-3tlzvme8zrh2-2302781511.jpg",
      "reprises": 3,
-     "score": 9.03
+     "score": 6.27
     },
     {
-     "titre": "Crash meurtrier d'un jet privé en Floride : qui est Nathalia Filgueiras, identifiée comme la co-pilote de l'appareil ?",
-     "lien": "https://www.franceinfo.fr/faits-divers/accident/crash-meurtrier-d-un-jet-prive-en-floride-qui-est-nathalia-filgueiras-identifiee-comme-la-co-pilote-de-l-appareil_8264765.html#xtor=RSS-3-%5Bgeneral%5D",
-     "resume": "En Floride, un jet privé s’est écrasé dimanche 1er novembre dans un quartier résidentiel, avant de s’embraser. Les neuf personnes à bord ont été tuées. L’appareil reliait le Texas aux Bahamas. Que s’est-il passé ? Dans les derniers échanges avec la tour de…",
-     "date": "2026-11-02T22:59:30+01:00",
-     "source": "franceinfo.fr",
-     "image": "https://www.franceinfo.fr/pictures/pAE5qrUvxfSlv8WZvuBUgkjdWuc/8x0:993x554/432x243/filters:format(jpg)/2026/11/02/6ae8f19d60ed1774304923.jpg",
+     "titre": "EN DIRECT, guerre en Ukraine : au moins 33 morts au lendemain d’une attaque russe contre un centre de distribution d’aide humanitaire dans la région de Zaporijia",
+     "lien": "https://www.lemonde.fr/international/live/2026/11/03/en-direct-guerre-en-ukraine-au-moins-33-morts-au-lendemain-d-une-attaque-russe-contre-un-centre-de-distribution-d-aide-humanitaire-dans-la-region-de-zaporijia_6803934_3210.html",
+     "resume": "Le président ukrainien, Volodymyr Zelensky, a estimé que plus de 50 personnes pourraient encore se trouver sous les décombres. La mission d’observation des droits humains de l’ONU en Ukraine a estimé que cette attaque « semblait avoir violé les principes les…",
+     "date": "2026-11-03T22:53:32+01:00",
+     "source": "lemonde.fr",
+     "image": "https://img.lemde.fr/2026/11/03/0/0/5808/2904/644/322/60/0/ae45251_ftp-1-4niwhdn14zid-c46e4adee61e4f3f9efabb0aa1728079-1-147cc7eb9ada47fea80579dbecd04e1e.jpg",
      "reprises": 3,
-     "score": 6.97
+     "score": 4.89
     },
     {
-     "titre": "Donald Trump change de ton et assure qu'un accord avec l'Iran \"pourrait arriver\"",
-     "lien": "https://www.france24.com/fr/moyen-orient/20261102-moyen-orient-donald-trump-accord-avec-l-iran-pourrait-arriver-detroit-d-ormuz-petrole",
-     "resume": "Après avoir affirmé être prêt à donner un \"coup de massue\" à l'Iran ce weekend, le président américain Donald Trump a changé de ton lundi, assurant qu'un accord avec Téhéran \"pourrait arriver\". Selon des informations du Wall Street Journal, les États-Unis…",
-     "date": "2026-11-02T23:56:40+01:00",
-     "source": "© Alex Brandon, AP",
-     "image": "https://s.france24.com/media/display/4efcfe3a-d710-11f1-8d01-a575454bc579/w:1024/p:16x9/AP26306798200871.jpg",
-     "reprises": 3,
-     "score": 5.21
+     "titre": "Donald Trump « complètement déconnecté » ? « Son discours à Washington a fait un flop, il est dans une position du looser qu’il déteste tant »",
+     "lien": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxOR2hRQk5pOWhlbU56LWpwS2FwZGVPbXpGbHotVEVleXl6RDZIMEpheFBWN3V2SkIwcExPOTNsZURVSXFGN0tTaE5waUoyZXVfWHc1ek11UXB5MGhtODNKdVZ4TFFaR3YwUm1ReGMwdTRrN2FReUlXN1RjZ2hHbHNETW9EbnZleXEzdUlzV0tvLWlqYmdBZzVjUFcxVWlYeU0yUDRrQ0NxNExuRGJBMlhfd3p4SDJNdGRpMWNLSWxMWnRJWTdRYWtSWmdWTUIyRS1QZFZjTWVORHRUTF8tc0pGVkQ5MHo?oc=5",
+     "resume": "",
+     "date": "2026-11-03T20:24:29+01:00",
+     "source": "RTL Info",
+     "image": null,
+     "reprises": 2,
+     "score": 3.77
     }
    ],
    "a_traduire": []
@@ -322,83 +322,103 @@
    "sous_titre": "Modèles, entreprises, régulation, recherche",
    "items": [
     {
-     "titre": "Top 5 IA du 02/11/2026",
-     "lien": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQWkRGcmYyZW1sWXEtQXFwU1JiakJVUTFBLWZEbWZFNjNZdU52MG1HZmJxNmVUTlNlQnBUdHBhcUFVaHRFM01rN25ZdnVmWTJoeEtvYTFEajdQc2hhQ3Y2OWQxYllxRFdaakpxUl9yWmo2Y2NyZ2cyRHVDc294c3J6eXNFNnlUdG1iMjE5OExvUUMzZHJMZE1aWHh0cFd1Skl1eEM0dHQ2QdIBpwFBVV95cUxQWkRGcmYyZW1sWXEtQXFwU1JiakJVUTFBLWZEbWZFNjNZdU52MG1HZmJxNmVUTlNlQnBUdHBhcUFVaHRFM01rN25ZdnVmWTJoeEtvYTFEajdQc2hhQ3Y2OWQxYllxRFdaakpxUl9yWmo2Y2NyZ2cyRHVDc294c3J6eXNFNnlUdG1iMjE5OExvUUMzZHJMZE1aWHh0cFd1Skl1eEM0dHQ2QQ?oc=5",
+     "titre": "Les contrats conclus par AMD avec OpenAI et Meta concernant des puces entraînent une charge trimestrielle d'un",
+     "lien": "https://news.google.com/rss/articles/CBMitwJBVV95cUxQVHZsUkc4NGJNUHFyZ2ZzWWVaSk0tUjNyeERsVnpEU2tNcXZTX1FBMXBYXzU0a3dULUlJdDl0RWNDWnFtN1RkTmpVMXl1anRhMjJ1SnNXRFBRdWdITDE4VlVCQy03VGhMR0xPWXlpNzZPUmVfSTAwc0FlS1EwdkNobGZ6QjFkWVI3TVJ6VFNVdDlEWTRod2VHY1ZycndhRS1SdlMwb1NWSmNaMmROTU1sTVoycjA2SFZRbzVVcmMtOVp5SURoUzhFb0M4T3l5UnFZQks4WFVpR2t5LW9qdVQ5N1NLZjhRXzFRSDVDYzhxV3BINHI4VkVZb1VrUzlSU250bTRmY2M4UHZ0cGcxblNkUlRxaFpDRVZBajBTSDdWMWhMUmRpdFJLU0ZMZDk3Rk1RT1NQanpINNIBtwJBVV95cUxQVHZsUkc4NGJNUHFyZ2ZzWWVaSk0tUjNyeERsVnpEU2tNcXZTX1FBMXBYXzU0a3dULUlJdDl0RWNDWnFtN1RkTmpVMXl1anRhMjJ1SnNXRFBRdWdITDE4VlVCQy03VGhMR0xPWXlpNzZPUmVfSTAwc0FlS1EwdkNobGZ6QjFkWVI3TVJ6VFNVdDlEWTRod2VHY1ZycndhRS1SdlMwb1NWSmNaMmROTU1sTVoycjA2SFZRbzVVcmMtOVp5SURoUzhFb0M4T3l5UnFZQks4WFVpR2t5LW9qdVQ5N1NLZjhRXzFRSDVDYzhxV3BINHI4VkVZb1VrUzlSU250bTRmY2M4UHZ0cGcxblNkUlRxaFpDRVZBajBTSDdWMWhMUmRpdFJLU0ZMZDk3Rk1RT1NQanpINA?oc=5",
      "resume": "",
-     "date": "2026-11-03T05:00:10+01:00",
+     "date": "2026-11-04T03:11:46+01:00",
      "source": "Boursorama",
      "image": null,
-     "reprises": 9,
-     "score": 30.85
+     "reprises": 3,
+     "score": 5.8
     },
     {
-     "titre": "OpenAI recrute l'ancien secrétaire à l'Armée des États-Unis, Dan Driscoll, pour occuper un poste lié à la sécu",
-     "lien": "https://news.google.com/rss/articles/CBMipwJBVV95cUxPX2tLV2pDM3JTVjFSZnpaLWs2M1lJMVFVNGtyamhSZ29BbXQ2ZzlUcEhIZjBScVFsbV9qUl8zaWNxNlhQejZrUDcyTG9DOHF3LVFVZDlLbGk2d21VelF3bkJUUVJBaG8wdW5JME1GbmJxek5odDl0YW9lMnhPM19XQmgyUGtTcm9za2N0SUtQMjNDMm5makRJYXRWQXJJN0ktSUhJT3RzenNMMFFXTXoxN3lMaTVJZE95YkFEQkJlN3RyaUZBUHNRNVJGTTBOVHZGYm5nbzU3Y0ljWGdGR2wzTThJT3dfTi0tTE5lT2RNVkVDUzVBQ1lSV1JPV1R3UHpJdDg1SlZVcTBrbVZEVlpVUm1mcTgzN1NINHl0aDR4dnlZUm5pOHZR0gGsAkFVX3lxTE54YTdGT0thSlBOWDh5UkppQkt3UV9CaEZTMUNjMV8yV2JEZzhKdHFtcnFodFI3RjRuZ3FELWU2ek9jeVQ0RU01MXp4azAycFFQek41cDVSMnlNZUpHMGgyOU95ZDBfeW5hZHV0ZjBla0lBenFmanZHWUFncEtTbjZGOEs2YmE0TkFjcE9ETnMtcU13RHpEcWk1djhaWElELVUwTHhZdWhQMkhMcmZfbC1lY0UyZkJTVVdhV0VoYVR3cHphM2VxVWJ3WnJaMldSRW4zOHZKdGpUX09wMzYxb3JDLUIxZUZpUDMyTkxIRDV4THlIS2hVY0Z6M2xQUGs0V1RsU0NwX3prTXY0QkRfbHBYWU5taWVpRzNmQ0pQU1JPdkJpRHVKbmhnbmhXTQ?oc=5",
+     "titre": "Intelligence artificielle: \"Il va falloir totalement transformer cette idée qu'on se fait de la formation\", assure Bruno Retailleau, candidat LR à la présidentielle",
+     "lien": "https://news.google.com/rss/articles/CBMi4AJBVV95cUxNQmRZMExaZ2JISkFrX1JTTk5mUllpcHJIUW5lZ2d0dFhjVnk0X3pnZlhzS2xrZUI1N0x6eXgyVzNLd3JCbmRiNHVmdXFrMnJVVkVhNFdfN2o4dHpjRnpQeUdneGZLS3hBR0cxVnpuZ1lWd3o0ckdtdWo2ZkpKS0lkX0d5Ui1BZ2d4bWpVQ0tVaDNDMVdwOVQtTURlR1NieWZJVTlwNUMzUUR1bUExenBnRzN4SHVxZ1BTLS1YWm5xYXVFMUZnZFY0TVJQNU55VUlTeWpIaTZPcnpVdmJjSWxxcU96Q2hEQlRjV3ktNDI2TjRXaUxqVTJkV1hvX3lfQ1BlTWNUVXJrbzRyLXRIYjVYQWVVemVoOG5XNF9SZDNacmNuRm1hRVdVbzRXTnN1bW1aOVNZU3VxNkpuenVrMjBOQTc1dlpSeHo4WklGaDF2V0NEOGViOERnaXJrZ1J3cTEt?oc=5",
      "resume": "",
-     "date": "2026-11-03T00:59:22+01:00",
-     "source": "Boursorama",
+     "date": "2026-11-04T00:02:18+01:00",
+     "source": "BFM",
      "image": null,
-     "reprises": 5,
-     "score": 8.22
+     "reprises": 2,
+     "score": 5.67
     },
     {
-     "titre": "Les ministères dopés à l'IA pour faire des économies budgétaires",
-     "lien": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxPM1hpM0Y4cWJacl91aGE4Rk55dnlNUDdKdE9BWkxOS1FCN1l2UFU5QVJtdXZ4NGlKZkx2dktrQ3pGUGZQMkdTb0tHOVVGdjBoSEt1VkFRSVpza2Jyb3pQRmVFMG1ib3RWWTZqV3NSNVRGbElGVW9qbnFCdnU0R3FDNWlLN0d3YVdUZnFDdG1BYVc0aVdYZkFoZHJoZHlxUXR2MXdYd3dpOFpHQTNYVTFPX0VnTTlmeWxPWjhPLXFhLWlUMjliMVRLS2dWb3ZBNzE2b2lnUVpEZkpsUQ?oc=5",
+     "titre": "Avant son entrée en bourse, Anthropic dévoile ses résultats trimestriels",
+     "lien": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNcUdsVTFPTkFQWVhqV0Y3Y29uSmtjZlJHMXNhQ05nV3RuZGJ4RG5LdE9qcmhBdXpRbUZTT2tUTUd6MkM0Q21GR0JsOTl0UkZzUjJMQ2ZzaVRfbkt6VEp5Mlk3QlNraUtlclYwbG9wSXRJdFZXWUowaHhfMEpIMHVnR1hmWE9uNGRRekQ2U09PMHF5ZWVvTjdWa2RncnRhQjNXbVE0bG5UWURlQ3c4bW9fWVliQ3dUNHFzdmtkM2pxcUM3eFpqRzdmcG4wVFNHNXPSAdMBQVVfeXFMTmU1M2c0OWwxR2NQLW9IaGlTYmFPSmRZem1mYXBkcFh0dXlwbUVXcm9CMXhueEVMbnpYSUJJSzR2elJXUTRIMDZQc18ySWhheFlxdTJzSk5iaWVRUjlDUUc2U0IxMkJNVGRoQ2xXck0zOEQxc3g2WHZnZDdIR1N4ZGZadHJPa01tXzdwMXlJS0Rya3c1Sk5IYUF6bF9aQTdwdzhmaHU2RjhPRXZ2S2tDOGVGWUJfaVY5cVI5d2pEbVBzZ2xsNkx6Q1Y4am5xWXdWbU9IZw?oc=5",
      "resume": "",
-     "date": "2026-11-03T07:30:00+01:00",
-     "source": "Radio France",
+     "date": "2026-11-03T17:01:15+01:00",
+     "source": "Le Monde Informatique",
+     "image": null,
+     "reprises": 3,
+     "score": 5.02
+    },
+    {
+     "titre": "Étudiants qui utilisez ChatGPT, ne ratez pas les 50 € offerts par OpenAI",
+     "lien": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNRTB3ZTdyMHVqaV80a2lFSDdUcVlwWDcxdU9nWHhKMFl1MlNpdWlKZ2h4UndKdVAtZUxBSHlrZzRKeWx1YV9FbWxid2phSHdsZzV0YkY0Z3pyWmkwaTlHRjZlaHBGSzZ3UUl0OExuaUVxMktNNkZPcTNDNkpTR21LTHA2eFViRGpmUXFRU0lPRGNmUG1rckxMZ2ZqVWg4NlBqSlJGNjdTRnl1VDNoVnhRck1SYUNZckJwRm5wRUpuYnFoOHd1SVl0SzhZeEZaZUR6Y0Jlaw?oc=5",
+     "resume": "Après les États-Unis et le Canada, OpenAI fait un geste pour les étudiants français. Sur UNiDAYS, ils peuvent récupérer 50 € de crédits ChatGPT après avoir vérifié leur statut avec leur adresse e-mail universitaire.",
+     "date": "2026-11-03T19:03:00+01:00",
+     "source": "Les Numériques",
+     "image": null,
+     "reprises": 3,
+     "score": 4.81
+    },
+    {
+     "titre": "Les valeurs liées à l’intelligence artificielle (IA) reculent en Asie émergente, les premiers résultats américains favorisant les démocrates",
+     "lien": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxQUkl0dHlqTk1vWXVyUXlxRzBYV1ExRkNMQ19sanZFNE5wZ0tVTldGbzVSUjU4RTh2cmpjckVSenhtdm9ETVFoc2c4RkpzODR5cVhIRWhteUMxSnRRV3RfczlQems4WXVIMURWVWROU0Nhbmptc0ROYjRVYUk5d2tTZ3ZRRFFiSlJGU2pDNmJZRU5pQUN3Um9qTm9CMXFuQzZfamYxaXVrRDVhNlVfT0FXV0lVT3NLQTNfeVg0OEo3endqNGRhWWZLSWEtM2tJRUVIRGRaMnFPRHUwb09MTXVmRUlBMG5nU2VqVEJweA?oc=5",
+     "resume": "",
+     "date": "2026-11-04T05:29:22+01:00",
+     "source": "Zonebourse Suisse",
      "image": null,
      "reprises": 1,
-     "score": 1.59
+     "score": 3.2
+    }
+   ],
+   "a_traduire": [
+    {
+     "titre": "The biggest modding site in PC gaming is taking a stance on AI",
+     "lien": "https://www.theverge.com/games/1026085/nexus-mods-ai-disclosures",
+     "resume": "The PC gaming mods repository Nexus Mods is making disclosures about AI mandatory for uploads of new mods, meaning that mod authors will have to declare \"whether AI has been used in their work,\" the site announced today as part of a big post about…",
+     "date": "2026-11-04T01:42:10+01:00",
+     "source": "theverge.com",
+     "image": null,
+     "reprises": 1,
+     "score": 1.52
     },
     {
-     "titre": "Y Combinator’s Garry Tan uses AI agents so much, he spends up to $200K a year on tokens",
-     "lien": "https://techcrunch.com/2026/11/02/y-combinators-garry-tan-uses-ai-agents-so-much-he-spends-up-to-200k-a-year-on-tokens/",
-     "resume": "Y Combinator Garry Tan has jokingly admitted that he's suffered from \"cyber psychosis” and barely sleeps sometimes because he’s so excited to be working with his AI agents. On a new episode of Walter Isaacson’s podcast, The Builders, Tan put a price tag on…",
-     "date": "2026-11-03T01:35:52+01:00",
+     "titre": "Anthropic is working on a system to prove AI models’ identity",
+     "lien": "https://techcrunch.com/2026/11/03/anthropic-is-working-on-a-system-to-prove-ai-models-identity/",
+     "resume": "Called FlashProve, the system would let anyone check that an AI response really came from the model it claims to be from.",
+     "date": "2026-11-03T23:41:03+01:00",
      "source": "techcrunch.com",
      "image": null,
      "reprises": 1,
      "score": 1.49
     },
     {
-     "titre": "Pourquoi Meta veut créer une IA qui prédit le fonctionnement du cerveau",
-     "lien": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPQm02SUF0SWtqVGpqWEpfMjN4VWxpYm05RTFhMWhzYV9OOHR6b21lM3RsbVYtSzEwaGw3Y05ueVpKSjA4YTljZkVKV2xuRWl3X0EzZnpSYWNJY3BlOF9aN2pFbDM4Ym9BOEU1eTFQdGR3VE8xWWg4dE1CZXlWdVFzVVg1OFFobEt5M3lUTGFSMVdzRVVOVWp6ckFiRTdtUG10aW1mWkd5Z1RkdVgxMmlwUE5OSmZEUWVEdFp6VVpB?oc=5",
-     "resume": "",
-     "date": "2026-11-03T07:03:20+01:00",
-     "source": "La Tribune",
-     "image": null,
-     "reprises": 1,
-     "score": 1.45
-    }
-   ],
-   "a_traduire": [
-    {
-     "titre": "Apple may try to increase revenue by doing…something with third-party AI apps",
-     "lien": "https://techcrunch.com/2026/11/02/apple-may-try-to-increase-revenue-by-doing-something-with-third-party-ai-apps/",
-     "resume": "Apple hinted at ways that it could spur revenue through third-party \"opportunities\" during its Monday night earnings call.",
-     "date": "2026-11-03T02:49:52+01:00",
-     "source": "techcrunch.com",
-     "image": null,
-     "reprises": 1,
-     "score": 1.51
-    },
-    {
-     "titre": "The New York Times sues Brave web browser for AI scraping and bypassing paywalls",
-     "lien": "https://www.theverge.com/tech/1024588/brave-lawsuit-ai-scraping-new-york-times",
-     "resume": "The New York Times and a group of other publications have filed lawsuits against the company that makes the Brave web browser over alleged unlawful scraping to train AI and also letting users bypass their paywalls, as reported by Reuters. According to a…",
-     "date": "2026-11-02T18:51:19+01:00",
+     "titre": "Please stop asking me when the AI bubble will pop",
+     "lien": "https://www.theverge.com/ai-artificial-intelligence/1025826/ai-bubble-pimco-apollo-bonds",
+     "resume": "People, including on this staff, keep asking me with varying degrees of excitement or trepidation when the AI bubble will burst. I'll tell you what I tell them: If I knew that, I would make a life-changing bet on the market, levered up as far as I could, and…",
+     "date": "2026-11-04T00:37:45+01:00",
      "source": "theverge.com",
      "image": null,
      "reprises": 1,
-     "score": 1.38
+     "score": 1.37
     },
     {
-     "titre": "OpenAI is finally merging ChatGPT’s Chat and Work tabs",
-     "lien": "https://techcrunch.com/2026/11/02/openai-is-finally-merging-chatgpts-chat-and-work-tabs/",
-     "resume": "OpenAI said that ChatGPT and Codex will draw usage from the same allocation pool after this change.",
-     "date": "2026-11-02T14:57:53+01:00",
+     "titre": "AI inference startup Fal doubles its valuation to $16B as demand surges",
+     "lien": "https://techcrunch.com/2026/11/03/ai-inference-startup-fal-doubles-its-valuation-to-16b-as-demand-surges/",
+     "resume": "The five-year-old startup raised a $1.3 billion round led by Bessemer.",
+     "date": "2026-11-03T20:34:43+01:00",
      "source": "techcrunch.com",
+     "image": null,
+     "reprises": 1,
+     "score": 1.3
+    },
+    {
+     "titre": "OpenAI says ChatGPT is catching up to Google in search",
+     "lien": "https://www.theverge.com/ai-artificial-intelligence/1025482/openai-says-chatgpt-is-catching-up-to-google-in-search",
+     "resume": "In many circles, \"Ask Chat\" has replaced \"Google it,\" and that's reflected in a new announcement from OpenAI: the volume of search queries run through ChatGPT now equals 20 percent of the volume run through Google. Adam Fry, OpenAI's consumer product lead…",
+     "date": "2026-11-03T19:30:42+01:00",
+     "source": "theverge.com",
      "image": null,
      "reprises": 1,
      "score": 1.18
@@ -411,58 +431,47 @@
    "sous_titre": "Libertés fondamentales, grandes juridictions, culture juridique pour le CRFPA",
    "items": [
     {
-     "titre": "Analyses du Conseil d’État du 1er au 15 octobre 2026",
-     "lien": "https://news.google.com/rss/articles/CBMilAJBVV95cUxPSmQxSWJseVl5U2VpcjFSUjBJZnZoU1Jrdl9qa2dJdFNNZ1FrNnhaSm1JWHRiY05PYkhabzRKdFJZY0VQTUFMdC1rbEVnSXF3QVBRLUhVTXBVOE1xdmVCbFh3UXZqdHJ0ZVYxaFgtRXg2V05RTE55bWMyNjdoLVhaZjhjUjR4aGxjemwtNEdWd2ozaWc4b3V0bzVEZjI5bl9sMjlIWlVQV1k0Ui1DaDNYa1pHZjlKSHZ2bHNpNm01eXg3cy1ZU0lrUmRfY0ZNR2N5czZUSlJjMVlzZ2IxWGhFSm9QdlREUkdPb2dFX1hyQnFCTjloNElaMkdnZEtSallrV3ZBMjFla1o3bURnaUpJb2hrUE8?oc=5",
+     "titre": "Le Conseil d’État vient de trancher : il n'y a plus de maire dans cette commune au pied des Pyrénées",
+     "lien": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxQbUZwU2lLT3U5bHpWeGR1RXctNHRVWHhhT0d4cXpaeWNzZ0hPQnlOWmdEWnladHVJQ1NkWU1JLWZuZWxMUk95RFhyRWJXam8xbHVIamM4VDV1TmNsMEM0VmRVQ3M1Wi1WbDFaMDRVTFVVYlZrOWQ0ODlpdzh2REhHVUtCcnFKU2lMbnRnUjA2VkU5YmVPd0RIMHEzdmJiRlFVUno4Y0ptZHBZX1Yzb3Q1T2VkRTZ3TjR6OFR2X0NXQWtyX1dnT2xyckEwcGdibGE0b0FJSUFDZzJrMTBYZ1Q5TVJybFpKQQ?oc=5",
      "resume": "",
-     "date": "2026-11-02T12:29:58+01:00",
-     "source": "Conseil d'État",
+     "date": "2026-11-03T17:43:29+01:00",
+     "source": "Actu.fr",
      "image": null,
-     "reprises": 16,
-     "score": 27.33,
+     "reprises": 9,
+     "score": 20.69,
      "libertes": false
     },
     {
-     "titre": "Parcours de la manifestation du 31 octobre : Pourquoi le Conseil d'État donne raison au ministre de l'Intérieur",
-     "lien": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxQSktHQ0w2bTVEOEpSSlh3cHM4N25QZjFONzNhVGpTaWhmU2s2SDU0MUxmeXA0UlQxYXZpVTlFaXBuYXlDZjNfNTBSWWhMWXR1QVFyRnBVQnMtajZzY3JISlkzMldqNVhBWC00d3gyX3FVdG10b0RVWFRDTk9PRV9qdjJESWhhVWY1WVUzZjRJNUo0ZXktUHJQTm9RQ2tSdmZjaXVsNjdyTFZRZ29wMGhJa2M0QUJpRzdTc1puVzg4SExzOTVGLVVjY2VzTEx3Z1llallQbmJ2ZS1PSS1DMjVZZVdkYWVydXdmSHBWclNzU2g0RTg?oc=5",
+     "titre": "Pétition contre CNews: vers l'organisation d'un débat plus large sur la liberté d'expression et la régulation dans l'hémicycle?",
+     "lien": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNUG53cE02LWhsM21lUERGTHA1ekhoU20xYU5Jb21CYVFpcUxuZm5hMWxMZjFfdkdxNXRHNnVCSHdzNlhvQ0pfX1lUSjhna0s2M3ZiallGWFFPblN6M2E3Nm9IWDQ4MUY3UlRsdndmQThJMWJTUlhWbUxVYlFRWTIwd292NkltUW1mOXlyU0JiU0d2eURBQW9LVk5aVXlBYU1UUFNhTDBDanZhQQ?oc=5",
      "resume": "",
-     "date": "2026-10-31T10:17:00+01:00",
-     "source": "Actu-Juridique",
+     "date": "2026-11-03T19:15:17+01:00",
+     "source": "LCP-Assemblée nationale",
      "image": null,
-     "reprises": 4,
-     "score": 6.27,
+     "reprises": 5,
+     "score": 12.39,
      "libertes": true
     },
     {
-     "titre": "Élection annulée à Tergnier, le maire fait appel devant le Conseil d’État",
-     "lien": "https://news.google.com/rss/articles/CBMixAFBVV95cUxON1pXdmN4UFlUMzh5dV91ajBnR1hJUThwdzliM0tVdEwzd1daNGhUbnJiNDktd1RaeERuWUE0eUx4WmZ6Z0Jtd3VxNmJrMlFlczROMGZqMkljZjFoN3VYYUNDcTE1T1FHLXU5R0U2NVdTRmlsb3k1a2xtaEV4eDA1MlVvVmZnNmdCQW10eDFpYTBIRWpMNkNUTUFIbVVrNGsybEVZMzl1emtyOEw1WkRlaWxBaGgtSC1NXzljMnEwdFBtZElE?oc=5",
+     "titre": "Comportements humiliants chez les universitaires : la clémence du Cneser une nouvelle fois désavouée par le Conseil d’État",
+     "lien": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxPVDJFc0NydkhNTlZrMFhhbkZXTXd5VVlrbnMtcnhiNXhvcjlLeHc0aUh0NXRETndGWEF1SUhzTjBiS1hKWnFUNTFyb2l3UElsNmFQQ0RjeTZ2YWFHVEp2WERjRzVmMk9zc1JpMnRUWWNHblYxUmZkMTZpSFllY0JwTFF2SnpHS3lyVWptMGZlRklSSy03QkZmWE16Tml3REhqTUZ0dUJMRWZDY1RDc1ZxRThiSjYxSHAwUlUyVTVUTGN2V3FDWGk4M3c1dURHMnE0NEpnblZIV2VKUXpncFBXQ3BORGFzc19MQ0Zn?oc=5",
      "resume": "",
-     "date": "2026-11-03T06:02:00+01:00",
-     "source": "L'Aisne nouvelle",
+     "date": "2026-11-03T20:24:48+01:00",
+     "source": "Acteurs Publics",
      "image": null,
-     "reprises": 3,
-     "score": 5.4,
+     "reprises": 5,
+     "score": 8.63,
      "libertes": false
     },
     {
-     "titre": "Municipales 2026 : que change la loi PLM, validée par le Conseil constitutionnel ?",
-     "lien": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNQ0YxNU50X0FVN0RFNm0zX3JnbXFuTjRwQ1BOVm9hcXFNTHBCckMzeVM5M0FKQnEwVndpT0V0UXZ5V1gwSS1PQnZfamN2MDZWTG9CeW5ZWlRfODF3ZzNtRmVoWFRPNVhvQmxNZDBaX3drMnJiYkx3VHEyR0pvMWhWQ01sTDFDeVdRVzNwUUw2cG5SNVJ4aVEwU3pqVnAtU3hvX1VFZw?oc=5",
+     "titre": "Liberté d’expression ou analyse juridique inopportune ?",
+     "lien": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQZ0RUb1FnMGdIcmNDbUtZX0p6YkM4LXFoMFpFMGxRSFpFT1NwOVF6QzBsLUc2U0JIdk1KSXY5QXdoUGJ1d3p6VF9uQU83a0JmV0UzMXhqdzYxTnFKUzFMZUlhRHRsRm9BcHFHcWRJS1llbnNueXYzVWFKcXJHZmdiaDZGSEdPcXRRSkV0eHBzYmtCbzdnNDRpX0ZEQjAwUnEzVlJB?oc=5",
      "resume": "",
-     "date": "2026-11-01T01:30:05+01:00",
-     "source": "Frontières",
-     "image": null,
-     "reprises": 3,
-     "score": 4.55,
-     "libertes": true
-    },
-    {
-     "titre": "LIBERTÉS FONDAMENTALES – Exclusion d'un adhérent d'une association : le principe non bis in idem écarté",
-     "lien": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPTzVKRlVob2ZuWGRFaVQwUlJPWEt5d216YXpqWVJIUGliQ01nQ1hZNnB2X1JScGkzdk80Z3laaGQxY082cVBQNmtzNmpjSkxLdHlRNDJBZ0VCbFo5OVY0SDhROTZ5blJldlRXX0pVakJGb1pnVVI0OTRKU0RUUmV2UTdGbHMwTTBHQWJ3MDFOYTQ1YW1zZGZ3bFNON0x4RkNSUnRITmNmNUVDN0RGMm9YRzd3ZUdzTnVGRTVNSXdVTndzSzNrMllvOU0tT1VSX3A2X1E?oc=5",
-     "resume": "",
-     "date": "2026-11-02T09:00:00+01:00",
-     "source": "LE MAG' JURIDIQUE",
+     "date": "2026-11-03T13:02:56+01:00",
+     "source": "Le Club des Juristes",
      "image": null,
      "reprises": 1,
-     "score": 3.41,
+     "score": 4.11,
      "libertes": true
     },
     {
@@ -473,7 +482,18 @@
      "source": "20 Minutes",
      "image": null,
      "reprises": 2,
-     "score": 3.16,
+     "score": 2.69,
+     "libertes": false
+    },
+    {
+     "titre": "Durée de conservation : le Conseil d’État confirme trois sanctions CNIL",
+     "lien": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5kTEd1blpOQjNWMExGdUNXaUduYVhnNWdOVE16Mm05WEJkLWNhMlRVNkN2SlVLTldaRnh3TnpJQnAySlAtek1NWi1fS0NNT254UEhIczItOGRENU1SdWlBOW90NDJmYjVEaV9HYTItZS10UTh5LWlYR2hRMzQ?oc=5",
+     "resume": "",
+     "date": "2026-11-03T04:17:32+01:00",
+     "source": "dpo partage",
+     "image": null,
+     "reprises": 2,
+     "score": 2.44,
      "libertes": false
     }
    ],
