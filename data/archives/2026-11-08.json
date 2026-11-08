@@ -1,0 +1,473 @@
+{
+ "date": "2026-11-08",
+ "genere": "2026-11-08T12:29+01:00",
+ "journaux": [
+  {
+   "id": "figaro",
+   "nom": "Le Figaro",
+   "couleur": "#163860",
+   "une": {
+    "fichier": "unes/figaro.jpg",
+    "date": "2026-11-07",
+    "source": "https://static.milibris.com/thumbnail/issue/060df127-148a-4d00-a751-742aec181ff7/front/catalog-cover-large.jpeg"
+   },
+   "articles": [
+    {
+     "titre": "Israël : Gadi Eisenkot, l’« anti-Bibi » appelé au pouvoir",
+     "lien": "https://www.lefigaro.fr/international/legislatives-en-israel-gadi-eisenkot-l-anti-bibi-qui-pourrait-prendre-le-pouvoir-20261026",
+     "resume": "PORTRAIT - Après des législatives serrées, le principal opposant à Benyamin Netanyahou a été appelé à former un gouvernement de coalition. Moins charismatique que le chef du Likoud, il a pour lui sa réputation d’intégrité et son image d’homme à poigne.",
+     "date": "2026-11-08T11:09:57+01:00",
+     "source": "",
+     "image": "https://i.f1g.fr/media/cms/2723x1532_crop/2026/11/07/31dc6b8e356de48f823dcf1b69f0fc0d89750c479994d212faf2e4237a62ccdc.jpg"
+    },
+    {
+     "titre": "Israël : le président charge Gadi Eisenkot, principal opposant de Benyamin Netanyahou, de former un gouvernement de coalition",
+     "lien": "https://www.lefigaro.fr/international/israel-benyamin-netanyahou-affirme-qu-un-gouvernement-avec-les-partis-arabes-demantelerait-l-etat-hebreu-20261107",
+     "resume": "Le premier ministre sortant a jugé dans une allocution vidéo qu’un tel gouvernement entre le bloc d’opposition et les partis arabes «démantèlerait» l’État d’Israël.",
+     "date": "2026-11-07T21:55:09+01:00",
+     "source": "",
+     "image": "https://i.f1g.fr/media/cms/orig/2026/11/07/d2b80964015d8e036faa85fa0a89a63add371ec55f4686d8ed1f2677db31b960.JPG"
+    },
+    {
+     "titre": "Présidentielle 2027 : quelles sont les véritables chances de victoire de Jean-Luc Mélenchon ?",
+     "lien": "https://www.lefigaro.fr/politique/presidentielle-quelles-sont-les-chances-de-jean-luc-melenchon-de-se-qualifier-au-second-tour-20261107",
+     "resume": "EXCLUSIF – Porté par une réelle dynamique sondagière, Jean-Luc Mélenchon est très bien placé pour se qualifier pour le second tour. Mais peut-il vraiment accéder à l’Élysée en mai prochain ?",
+     "date": "2026-11-07T17:01:33+01:00",
+     "source": "",
+     "image": "https://i.f1g.fr/media/cms/1920x1080_crop/2026/10/09/20d83f82cd8cb1e410d152c063b507539b52a4533d886a76b45c81f57b8c4dbc.jpg"
+    },
+    {
+     "titre": "« Il faut tout changer » : au Bourget, Jean-Luc Mélenchon assume sa radicalité et s’offre une démonstration de force",
+     "lien": "https://www.lefigaro.fr/elections/presidentielles/il-faut-tout-changer-au-bourget-jean-luc-melenchon-assume-sa-radicalite-et-s-offre-une-demonstration-de-force-20261107",
+     "resume": "RÉCIT - Devant plus de 20 000 personnes, réunies pour célébrer le nouveau programme de La France Insoumise, le quadruple candidat a fait savoir ce samedi qu’il refusait de se montrer « moins clivant » et de mettre de « l’eau dans son vin ».",
+     "date": "2026-11-07T19:20:33+01:00",
+     "source": "",
+     "image": "https://i.f1g.fr/media/cms/3000x1688_crop/2026/11/07/c5f0c3da6d6a8fb0ce48542532dcc08051f0e069dca986e6bd604b3954be1f24.jpg"
+    },
+    {
+     "titre": "Guerre d’Algérie : Bally Bagayoko critiqué par Marion Maréchal pour sa présence à une commémoration de la «Toussaint rouge»",
+     "lien": "https://www.lefigaro.fr/politique/guerre-d-algerie-bally-bagayoko-critique-par-marion-marechal-pour-sa-presence-a-une-commemoration-de-la-toussaint-rouge-20261108",
+     "resume": "Le maire LFI de Saint-Denis a célébré l’anniversaire du 1er novembre 1954, jour où le FLN commence la guerre d’Algérie en commettant une série d’attentats tuant plusieurs militaires et civils. «Bally Bagayoko rit et danse en célébrant la mort d’innocents»,…",
+     "date": "2026-11-08T11:43:36+01:00",
+     "source": "",
+     "image": "https://i.f1g.fr/media/cms/orig/2026/11/08/56fbb8493a196325cd75a8a0167a9c11b93555e1d5aeeae78ff532d02d30342c.JPG"
+    },
+    {
+     "titre": "Élus, ministres, conseillers… Le sauve-qui-peut des macronistes pour se recaser d’ici 2027",
+     "lien": "https://www.lefigaro.fr/politique/elus-ministres-conseillers-le-sauve-qui-peut-des-macronistes-pour-se-recaser-d-ici-2027-20261108",
+     "resume": "RÉCIT - Alors que les années Macron touchent à leur fin et qu’une grande incertitude pèse sur l’élection présidentielle, ils sont nombreux, dans les couloirs du pouvoir, à chercher un point de chute. Coulisses.",
+     "date": "2026-11-08T11:21:34+01:00",
+     "source": "",
+     "image": "https://i.f1g.fr/media/cms/1918x1079_crop/2026/11/06/a800ae0db7ca9bf39411cdce0d0937290c3b1abad1ba7d012356cd59ce63d47d.jpg"
+    }
+   ],
+   "flux_utilise": "https://www.lefigaro.fr/rss/figaro_actualites.xml"
+  },
+  {
+   "id": "monde",
+   "nom": "Le Monde",
+   "couleur": "#111111",
+   "une": {
+    "fichier": "unes/monde.webp",
+    "date": "2026-11-08",
+    "source": "https://www.frontpages.com/t/2026/11/07/le-monde-231726klc@2x.webp"
+   },
+   "articles": [
+    {
+     "titre": "En Europe, la menace d’une lassitude grandissante des citoyens à l’égard de la guerre en Ukraine",
+     "lien": "https://www.lemonde.fr/international/article/2026/11/08/en-europe-la-menace-d-une-lassitude-grandissante-des-citoyens-a-l-egard-de-la-guerre-en-ukraine_6808396_3210.html",
+     "resume": "Les Européens sont majoritairement convaincus que la Russie constitue une menace pour le Vieux Continent, et continuent à soutenir Kiev. Cependant, à l’heure où le pouvoir d’achat des ménages est rogné par l’inflation, le coût de l’aide militaire à Kiev est…",
+     "date": "2026-11-08T06:00:09+01:00",
+     "source": "",
+     "image": "https://img.lemde.fr/2026/11/03/571/0/8084/4042/644/322/60/0/b6f28ec_ftp-1-qrw5ern0hlkj-a63bb0e43f9545748eddac38e6d99809-0-edde899bd4ce47f3b1331d62455c1947.jpg"
+    },
+    {
+     "titre": "La Pologne en état de choc après un attentat à Cracovie",
+     "lien": "https://www.lemonde.fr/international/article/2026/11/08/la-pologne-en-etat-de-choc-apres-la-fusillade-de-cracovie_6808422_3210.html",
+     "resume": "Six personnes ont été tuées et quinze autres ont été blessées, samedi, dans le centre historique de Cracovie, par un Polonais de 24 ans « fasciné par l’extrême droite », selon les termes du ministre de l’intérieur. Le parquet a ouvert une enquête pour acte à…",
+     "date": "2026-11-08T12:03:01+01:00",
+     "source": "",
+     "image": "https://img.lemde.fr/2026/11/08/348/0/4208/2104/644/322/60/0/6861549_ftp-1-kssg5bfr6fu0-2026-11-08t070518z-727863256-rc2ijoak2exr-rtrmadp-3-poland-shooting.JPG"
+    },
+    {
+     "titre": "François Villeroy de Galhau : « Laisser filer la dette, c’est faire des choix contre la jeunesse, des choix gérontocratiques »",
+     "lien": "https://www.lemonde.fr/idees/article/2026/11/08/francois-villeroy-de-galhau-laisser-filer-la-dette-c-est-faire-des-choix-contre-la-jeunesse-des-choix-gerontocratiques_6808404_3232.html",
+     "resume": "Face à la crise financière et sociale, l’ancien gouverneur de la Banque de France, qui a quitté son poste en juin, plaide, dans un entretien au « Monde », pour un redressement fondé sur l’efficacité des dépenses publiques et sur trois grands projets concrets…",
+     "date": "2026-11-08T06:30:11+01:00",
+     "source": "",
+     "image": "https://img.lemde.fr/2026/11/06/1916/0/4491/2245/644/322/60/0/55a1cd1_upload-1-ghsx2gbpp1dz-franc-ois-villeroy.JPG"
+    },
+    {
+     "titre": "Chez Grasset, un supplice mortifère après sept mois sans patron",
+     "lien": "https://www.lemonde.fr/livres/article/2026/11/08/chez-grasset-un-supplice-mortifere-apres-sept-mois-sans-patron_6808405_3260.html",
+     "resume": "Depuis le limogeage brutal de son PDG Olivier Nora en avril, débarqué par son propriétaire, Vincent Bolloré, la maison parisienne de la rue des Saints-Pères attend, muette et tétanisée, de connaître son sort.",
+     "date": "2026-11-08T06:30:05+01:00",
+     "source": "",
+     "image": "https://img.lemde.fr/2026/11/07/969/0/4829/2414/644/322/60/0/25c081b_upload-1-hpsthryqxkbg-hd-grasset.jpg"
+    },
+    {
+     "titre": "« La société israélienne est profondément travaillée par les mensonges répétés de Benyamin Nétanyahou »",
+     "lien": "https://www.lemonde.fr/un-si-proche-orient/article/2026/11/08/la-societe-israelienne-est-profondement-travaillee-par-les-mensonges-repetes-de-benyamin-netanyahou_6808407_6116995.html",
+     "resume": "Le premier ministre israélien ne cesse d’invoquer la destruction d’Israël pour se poser, au mépris des règles démocratiques, en seul et unique rempart de son peuple.",
+     "date": "2026-11-08T07:00:14+01:00",
+     "source": "",
+     "image": "https://img.lemde.fr/2026/10/28/481/0/5760/2880/644/322/60/0/53ea7ab_upload-1-kxh6lcfus70j-lgeai-qg-netanyahou-5.jpg"
+    },
+    {
+     "titre": "Léon XIV attendu en Argentine, un pays où l’Eglise se positionne aux antipodes du projet de société de Javier Milei",
+     "lien": "https://www.lemonde.fr/international/article/2026/11/08/leon-xiv-attendu-en-argentine-un-pays-ou-l-eglise-se-positionne-aux-antipodes-du-projet-de-societe-de-javier-milei_6808418_3210.html",
+     "resume": "Baptisée ainsi en hommage au pape François, natif du pays, la « Ciudad Papa Francisco », un ensemble de quartiers populaires dans la banlieue de Buenos Aires illustre le combat d’une l’Eglise catholique qui s’est érigée en pilier de l’opposition à la…",
+     "date": "2026-11-08T11:00:10+01:00",
+     "source": "",
+     "image": "https://img.lemde.fr/2026/11/06/500/0/6000/3000/644/322/60/0/0fb4134_upload-1-m178pk3hqy28-hd-aps01641.jpg"
+    }
+   ],
+   "flux_utilise": "https://www.lemonde.fr/rss/une.xml"
+  },
+  {
+   "id": "croix",
+   "nom": "La Croix",
+   "couleur": "#c8102e",
+   "une": {
+    "fichier": "unes/croix.jpg",
+    "date": "2026-11-08",
+    "source": "https://img.kiosko.net/2026/11/08/fr/lacroix.750.jpg"
+   },
+   "articles": [
+    {
+     "titre": "La Pologne sous le choc après l’attentat de Cracovie",
+     "lien": "https://www.la-croix.com/international/la-pologne-sous-le-choc-apres-l-attentat-de-cracovie-20261108",
+     "resume": "La Pologne en état de sidération se découvre exposée au « terrorisme » après une attaque qui a fait six morts et seize blessés, samedi 7 novembre, en plein cœur de Cracovie. Les corps des parents et de la sœur de l’assaillant, un Polonais de 24 ans, ont…",
+     "date": "2026-11-08T12:25:38+01:00",
+     "source": "",
+     "image": "https://i.la-croix.com/x/2026/11/08/2584072-une-femme-allume-une-bougie-pres-de-la-place-du-ma.jpg"
+    },
+    {
+     "titre": "Trop ou pas assez ?",
+     "lien": "https://www.la-croix.com/culture/trop-ou-pas-assez-20261108",
+     "resume": "Après une locataire prodigue de coups médiatiques à répétition, la rue de Valois, siège du ministère de la culture, est désormais occupée par une femme discrète. Dans sa chronique hebdomadaire, Emmanuelle Giuliani souligne cette divergence de style et…",
+     "date": "2026-11-08T12:18:45+01:00",
+     "source": "",
+     "image": "https://i.la-croix.com/x/2026/10/16/2562042-emmanuelle-giuliani-en-charge-de-la-musique-classi.jpg"
+    },
+    {
+     "titre": "Avec les unités « à priorité éducative », une nouvelle approche pour accompagner les mineurs délinquants",
+     "lien": "https://www.la-croix.com/societe/avec-les-unites-a-priorite-educative-une-nouvelle-approche-pour-accompagner-les-mineurs-delinquants-20261108",
+     "resume": "Une réforme de la protection judiciaire de la jeunesse, entrée en vigueur le 1er septembre, a abouti à la disparition des centres éducatifs fermés. Ils ont été remplacés par des unités judiciaires à priorité éducative (UJPE). Une de ces structures a été…",
+     "date": "2026-11-08T12:03:27+01:00",
+     "source": "",
+     "image": "https://i.la-croix.com/x/2026/11/08/2582689-les-educateurs-de-l-unite-judiciaire-a-priorite-ed.jpg"
+    },
+    {
+     "titre": "Legs : ces anciens bénéficiaires qui veulent rendre la pareille au Centre d’action sociale protestant",
+     "lien": "https://www.la-croix.com/economie/legs-ces-anciens-beneficiaires-qui-veulent-rendre-la-pareille-au-centre-d-action-sociale-protestant-20261108",
+     "resume": "Le Centre d’action sociale protestant (Casp), qui agit en Île-de-France auprès des personnes précaires, veut renforcer sa stratégie de collecte des libéralités. Dans son histoire, le centre a reçu quelques legs emblématiques, à l’image de celui de Dominique…",
+     "date": "2026-11-08T10:43:42+01:00",
+     "source": "",
+     "image": "https://i.la-croix.com/x/2026/11/08/2573432-wp-deligne-communesjpg.jpg"
+    },
+    {
+     "titre": "Route du Rhum 2026 : Tom Laperche triomphe sur une course menée de main de maître",
+     "lien": "https://www.la-croix.com/sport/tom-laperche-triomphe-sur-une-route-du-rhum-menee-de-main-de-maitre-20261108",
+     "resume": "Pour sa première participation à la célèbre transat, le jeune skippeur de 29 ans a mené la course de bout en bout avec une science de la navigation de vieux briscard et une rigueur exemplaire, effaçant largement le record de 2022 en dévalant la traversée en…",
+     "date": "2026-11-08T10:01:34+01:00",
+     "source": "",
+     "image": "https://i.la-croix.com/x/2026/11/08/2584005-victoire-de-tom-laperche-premier-skipper-a-passer-.jpg"
+    },
+    {
+     "titre": "Face aux préjugés, le combat d’une jeune médecin en situation de handicap",
+     "lien": "https://www.la-croix.com/societe/face-aux-prejuges-le-combat-d-une-jeune-medecin-en-situation-de-handicap-20261106",
+     "resume": "Après avoir vécu la double difficulté d’être interne en médecine et en situation de handicap, Carla Magaud, récemment installée, se bat pour un meilleur accompagnement des futurs praticiens concernés.",
+     "date": "2026-11-08T08:15:04+01:00",
+     "source": "",
+     "image": "https://i.la-croix.com/x/2026/11/06/2575545-carla-magaud-a-realise-une-enquete-sur-le-vecu-des.jpg"
+    }
+   ],
+   "flux_utilise": "https://www.la-croix.com/feeds/rss/site.xml"
+  },
+  {
+   "id": "equipe",
+   "nom": "L'Équipe",
+   "couleur": "#e2001a",
+   "une": {
+    "fichier": "unes/equipe.jpg",
+    "date": "2026-11-08",
+    "source": "https://img.kiosko.net/2026/11/08/fr/l_equip.750.jpg"
+   },
+   "articles": [
+    {
+     "titre": "À 38 ans, Curry donne toujours le tournis",
+     "lien": "https://www.lequipe.fr/Basket/Article/-on-ne-s-en-lasse-jamais-avec-41-points-contre-orlando-stephen-curry-donne-toujours-le-tournis-a-38-ans/1742189#at_medium=RSS_feeds",
+     "resume": "",
+     "date": "2026-11-08T12:05:00+01:00",
+     "source": "",
+     "image": "https://medias.lequipe.fr/img-photo-png/-/1500000000833469/0-828-552-75/0cb67.png"
+    },
+    {
+     "titre": "Wembanyama : «On doit avoir confiance dans le processus»",
+     "lien": "https://www.lequipe.fr/Basket/Video/Nba-spurs-victor-wembanyama-en-confiance-apres-le-debut-de-saison-canon-des-spurs-on-progresse-tout-le-monde-trouve-ses-marques/20245126#at_medium=RSS_feeds",
+     "resume": "",
+     "date": "2026-11-08T12:02:00+01:00",
+     "source": "",
+     "image": "https://medias.lequipe.fr/img-photo-png/-/1500000000833469/0-828-552-75/0cb67.png"
+    },
+    {
+     "titre": "Crise de confiance, environnement toxique et mauvais résultats du XV de la Rose : Steve Borthwick, un sélectionneur dans la tourmente",
+     "lien": "https://www.lequipe.fr/Rugby/Actualites/Crise-de-confiance-environnement-toxique-et-mauvais-resultats-du-xv-de-la-rose-steve-borthwick-un-selectionneur-dans-la-tourmente/1742191#at_medium=RSS_feeds",
+     "resume": "Cinquième du dernier Tournoi des Six Nations, l'Angleterre qui affronte l'Australie ce dimanche (16h10) doute. Et le pays se demande si le sélectionneur Steve Borthwick est toujours l'homme de la situation. Selon le « Times », les cadres du quinze de la Rose…",
+     "date": "2026-11-08T11:57:01+01:00",
+     "source": "",
+     "image": "https://medias.lequipe.fr/img-photo-jpg/steve-borthwick-est-a-la-tete-du-xv-de-la-rose-depuis-le-debut-de-l-annee-2023-f-faugere-l-equipe/1500000002645499/266:166,1991:1316-828-552-75/8f229.jpg"
+    },
+    {
+     "titre": "Des contestations à la victoire : le parcours contrarié du trimaran de Laperche",
+     "lien": "https://www.lequipe.fr/Voile/Article/Casses-bapteme-et-contestations-le-parcours-contrarie-du-trimaran-de-tom-laperche-vainqueur-de-la-route-du-rhum-2026/1742180#at_medium=RSS_feeds",
+     "resume": "",
+     "date": "2026-11-08T11:50:00+01:00",
+     "source": "",
+     "image": "https://medias.lequipe.fr/img-photo-png/-/1500000000833469/0-828-552-75/0cb67.png"
+    },
+    {
+     "titre": "League of Legends : GenG et Chovy qualifiés pour leur première finale des Worlds",
+     "lien": "https://www.lequipe.fr/Esport/Actualites/League-of-legends-geng-et-chovy-qualifies-pour-leur-premiere-finale-des-worlds/1742188#at_medium=RSS_feeds",
+     "resume": "En éliminant sèchement Invictus Gaming (3-0) dans la nuit de samedi à dimanche à Allen (Texas), GenG s'est qualifié pour la finale des Worlds de « League of Legends ». Une première attendue depuis longtemps pour le club sud-coréen et sa star Ji-hoon « Chovy…",
+     "date": "2026-11-08T11:43:45+01:00",
+     "source": "",
+     "image": "https://medias.lequipe.fr/img-photo-jpg/ji-hoon-chovy-jeong-va-disputer-sa-premiere-finale-aux-worlds-c-young-wolff-riot-games/1500000002645486/0:0,1926:1284-828-552-75/b158a.jpg"
+    },
+    {
+     "titre": "Oudjani : «Je n'osais pas aller acheter la baguette ou sortir»",
+     "lien": "https://www.lequipe.fr/Football/Article/Paroles-d-ex-cherif-oudjani-sur-le-traumatisme-de-la-descente-en-d2-du-rc-lens-en-1989-je-n-osais-pas-aller-acheter-la-baguette-ou-sortir/1741916#at_medium=RSS_feeds",
+     "resume": "",
+     "date": "2026-11-08T11:33:00+01:00",
+     "source": "",
+     "image": "https://medias.lequipe.fr/img-photo-png/-/1500000000833469/0-828-552-75/0cb67.png"
+    }
+   ],
+   "flux_utilise": "https://dwh.lequipe.fr/api/edito/rss?path=/"
+  }
+ ],
+ "sections": [
+  {
+   "id": "monde",
+   "titre": "Actualité principale",
+   "sous_titre": "Les informations les plus importantes, partout dans le monde",
+   "items": [
+    {
+     "titre": "En Israël, les défis de Gadi Eisenkot, général novice en politique chargé de former un gouvernement",
+     "lien": "https://www.lemonde.fr/international/article/2026/11/08/en-israel-les-defis-de-gadi-eisenkot-general-novice-en-politique-charge-de-former-un-gouvernement_6808385_3210.html",
+     "resume": "Le leader de l’opposition au premier ministre sortant Benyamin Nétanyahou doit être officiellement missionné, dimanche, par le président Isaac Herzog, pour constituer le prochain gouvernement israélien. Une tâche ardue après des législatives qui n’ont donné…",
+     "date": "2026-11-08T05:00:08+01:00",
+     "source": "lemonde.fr",
+     "image": "https://img.lemde.fr/2026/10/28/1428/0/6160/3080/644/322/60/0/75e9ef9_upload-1-ihqmxs6nrfje-ll-elections-israel-eisenkot-19.jpg",
+     "reprises": 6,
+     "score": 19.43
+    },
+    {
+     "titre": "Arabie saoudite : le quartier financier de Riyad attaqué ; deux missiles balistiques interceptés",
+     "lien": "https://www.lemonde.fr/international/article/2026/11/08/arabie-saoudite-le-quartier-financier-de-riyad-attaque-deux-missiles-balistiques-interceptes_6808413_3210.html",
+     "resume": "La capitale saoudienne, notamment son aéroport, est régulièrement visée depuis octobre par des tirs des houthistes.",
+     "date": "2026-11-08T09:38:48+01:00",
+     "source": "lemonde.fr",
+     "image": "https://img.lemde.fr/2026/11/08/336/0/4032/2016/644/322/60/0/414d8a5_upload-1-6wjtu0icztxa-000-a6bn49e.jpg",
+     "reprises": 9,
+     "score": 18.62
+    },
+    {
+     "titre": "La Pologne en état de choc après un attentat à Cracovie",
+     "lien": "https://www.lemonde.fr/international/article/2026/11/08/la-pologne-en-etat-de-choc-apres-la-fusillade-de-cracovie_6808422_3210.html",
+     "resume": "Six personnes ont été tuées et quinze autres ont été blessées, samedi, dans le centre historique de Cracovie, par un Polonais de 24 ans « fasciné par l’extrême droite », selon les termes du ministre de l’intérieur. Le parquet a ouvert une enquête pour acte à…",
+     "date": "2026-11-08T12:03:01+01:00",
+     "source": "lemonde.fr",
+     "image": "https://img.lemde.fr/2026/11/08/348/0/4208/2104/644/322/60/0/6861549_ftp-1-kssg5bfr6fu0-2026-11-08t070518z-727863256-rc2ijoak2exr-rtrmadp-3-poland-shooting.JPG",
+     "reprises": 4,
+     "score": 7.69
+    },
+    {
+     "titre": "En Pologne, un tireur « fasciné par les idéologies d’extrême droite » fait au moins six morts à Cracovie, Donald Tusk dénonce un acte de « terrorisme »",
+     "lien": "https://www.lemonde.fr/international/article/2026/11/07/en-pologne-au-moins-six-morts-dans-une-attaque-par-arme-a-feu-a-cracovie-le-tireur-interpelle_6808293_3211.html",
+     "resume": "L’attaquant, un Polonais de 24 ans, a ouvert le feu « au hasard » sur la grande place de la vieille ville avant d’être blessé et neutralisé par la police. Deux jours de deuil national ont été décrétés.",
+     "date": "2026-11-07T18:34:57+01:00",
+     "source": "lemonde.fr",
+     "image": "https://img.lemde.fr/2026/11/07/583/0/7000/3500/644/322/60/0/097a63b_ftp-1-2etzccthi9gk-d5474e3f651a4d489e772ff15c225279-0-fcb10f5274c84653b58ed6940a166851.jpg",
+     "reprises": 3,
+     "score": 6.99
+    },
+    {
+     "titre": "Paraguay: le président destitué Santiago Peña placé en détention préventive",
+     "lien": "https://www.france24.com/fr/vid%C3%A9o/20261108-paraguay-le-pr%C3%A9sident-destitu%C3%A9-santiago-pe%C3%B1a-plac%C3%A9-en-d%C3%A9tention-pr%C3%A9ventive",
+     "resume": "Le président destitué du Paraguay Santiago Peña a été placé samedi en détention provisoire, dans la foulée de son inculpation en lien avec la débâcle cette semaine de l'Ueno Bank, qui a lésé des millions d'épargnants, a annoncé un juge paraguayen.",
+     "date": "2026-11-08T11:00:11+01:00",
+     "source": "france24.com",
+     "image": "https://s.france24.com/media/display/99a9ad2e-db58-11f1-8036-695cb59fade5/w:1024/p:16x9/FR-20261108-081835-082015-CS.jpg",
+     "reprises": 4,
+     "score": 6.97
+    },
+    {
+     "titre": "Jensen Huang, le patron de Nvidia, soupçonné aux Etats-Unis d’avoir été espionné par une entrepreneuse chinoise dans le cadre d’une relation sentimentale",
+     "lien": "https://www.lemonde.fr/international/article/2026/11/08/jensen-huang-le-patron-de-nvidia-soupconne-aux-etats-unis-d-avoir-ete-espionne-par-une-entrepreneuse-chinoise-dans-le-cadre-d-une-relation-sentimentale_6808394_3210.html",
+     "resume": "Selon des révélations du « New York Times », Jensen Huang, dont l’entreprise fabrique des puces de pointe indispensables au développement de l’intelligence artificielle, aurait entretenu des rapports avec une cheffe d’entreprise, Alice Huang, recrutée par…",
+     "date": "2026-11-08T05:55:15+01:00",
+     "source": "lemonde.fr",
+     "image": "https://img.lemde.fr/2026/11/05/415/0/5000/2500/644/322/60/0/bcf35fc_ftp-1-3rwuueyxjt9k-2026-11-05t184015z-1435702110-rc2n7oauvt4c-rtrmadp-3-usa-china-nvidia.JPG",
+     "reprises": 4,
+     "score": 6.65
+    }
+   ],
+   "a_traduire": []
+  },
+  {
+   "id": "ia",
+   "titre": "Intelligence artificielle",
+   "sous_titre": "Modèles, entreprises, régulation, recherche",
+   "items": [
+    {
+     "titre": "\"Faire du travail dégradé, c'est dégradant\" : quand l'intelligence artificielle transforme les graphistes en simples correcteurs",
+     "lien": "https://news.google.com/rss/articles/CBMisAJBVV95cUxOZjNGbHF1WmVXdTh1U1djbnpTSUpwU0hsVjNpbFZjMWUtTDAyd3RzX0s3cWpYbHcxZkxSZ2g5ek0ySW94VVNDaWNoZHZpeW5QemNGaEZwM243VWxDNFdfeEpMaFFiR2dyZWwzcmtyX1ZzZ216MHZqYXJpNW9PbmRGTTNOZnVmYXFaNDZjS2V0S2tmM1NxbUVFZzd6ZDNNUDFsNEozb1R1OFZHU3JUSTducDJUc1ZBQ2RGRXlxYUFseG80UEZVWHM0aWRmTmpWZnF6SG5JLWE1NkJxSjhTYXNVWjNid1VLQlJfTTFMMXJmaHpIRXMtSFZmX08xMEZPUkk3YkFtZVdvUF8wbmRBUE8xMXozcVFieHVka2Y5RFlmU1ljbzV2Q0NwT0ItbERGME5J?oc=5",
+     "resume": "",
+     "date": "2026-11-08T07:06:47+01:00",
+     "source": "franceinfo",
+     "image": null,
+     "reprises": 3,
+     "score": 5.86
+    },
+    {
+     "titre": "Une intelligence artificielle conçoit de nouveaux virus à partir de données génétiques",
+     "lien": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNbHgxemhWU0ptTlNqNkZlY0JHTkFBdVR2TTFyYlhJc0xTY21lWU9UaTFvS1JqNWl3aFBmRWF1VUlMeTZMRVdTYkJuUU1WeWJwTHVIWklXc3c4U1VlZ0NGajlXUjVNcEpaWlhidWMzR0hMYzNuMjdmWUk5THBqdFhMLVhBSk1MMS02UmE1YTdqb19GVVFWajI5ckxyeDA0VmNvQklObTliTlBheVhhSEttLXpKTEZZQjhBZ0ZkNDlpUGU5QQ?oc=5",
+     "resume": "",
+     "date": "2026-11-08T10:47:17+01:00",
+     "source": "Linfo.re",
+     "image": null,
+     "reprises": 3,
+     "score": 5.21
+    },
+    {
+     "titre": "Introduction en Bourse d’Anthropic : le krach des valeurs de l’IA fait fondre la valorisation espérée",
+     "lien": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNbjk5WVdCQjMyVVB5aEk1OW5aQlRHSXN0eHBhZUZLQnVUQXJwSkhuUVJjOHF3Z2xzQ3lrLUk2N3E4NVFoWFFBNkE0VkFsdG5XbUhNNEVyNjhmLVlQQ1pXYnRVMjBLUnY1cmVobDV5RXB0WVc3RkpxYzV6MFVlUkh4UzMwUW1Wdk5aTTFZR3prNGJkcFhnTVQzbng1Y1k5LUprWWotNDhVRFZVR1JFYkVndEgtOG9PWWo3aTY3ZDQzYnJtb2N5cWxZYUJn?oc=5",
+     "resume": "",
+     "date": "2026-11-07T13:32:45+01:00",
+     "source": "l'Opinion",
+     "image": null,
+     "reprises": 2,
+     "score": 2.45
+    },
+    {
+     "titre": "Info/Infox : l'intelligence artificielle menace-t-elle l'industrie musicale ?",
+     "lien": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQQ0tuTWRTckNnM3R0U1FjeEhod2FOeUJqVXV6blllS0ZmZWY2NEI3d3NxR1c1REprNlNTVnZQLW1NOHJFQjQxOEplbjk3c1lDQnliTjNZMUJ6Y25fTEEwT3BJQlI2N2QtWFpSOEFWSGNYblZlWHNkMzMyTzNkZHpZRU5vR3FfdVpvamg4V0xRRmllR2NhX1NZSVIxeTJJcWVZeUdrR0F5QVI2alN1cmhDRVZOelFGYmcyei1zSTlkRQ?oc=5",
+     "resume": "",
+     "date": "2026-11-07T21:55:15+01:00",
+     "source": "TF1+",
+     "image": null,
+     "reprises": 2,
+     "score": 2.41
+    },
+    {
+     "titre": "OpenAI achève sa dernière levée de fonds dans la difficulté",
+     "lien": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQaDVpTmlCYWNVUlBDVmtxV1hYLTRWYWN2S2dSNnFjVTN4YW02YTdoSXVvcTNES3UzMlRtZk9DdEMyc0xyRzVmNjhUeWRpS1FaTzRjSTNvUkk1V0xzSGU3a1RqTlBiU3J6VzZ5bzY2d3VpVXMwRDhMMkxqTXNGNW5iVmJib1B3cDNldmxZYmZkcHBwT1dVZm1hNFRNMU44VmFPT0dPeFJCWQ?oc=5",
+     "resume": "",
+     "date": "2026-11-07T18:07:00+01:00",
+     "source": "Clubic",
+     "image": null,
+     "reprises": 2,
+     "score": 2.4
+    }
+   ],
+   "a_traduire": [
+    {
+     "titre": "Megaspeed exec was recruited to spy on Nvidia CEO, according to US intelligence memo",
+     "lien": "https://techcrunch.com/2026/11/07/chinese-exec-was-recruited-to-spy-on-nvidia-ceo-according-to-us-intelligence-memo/",
+     "resume": "A memo circulated earlier this year reportedly claimed that China’s Ministry of State Security recruited a female technology executive to spy on Nvidia's CEO.",
+     "date": "2026-11-07T22:17:08+01:00",
+     "source": "techcrunch.com",
+     "image": null,
+     "reprises": 1,
+     "score": 1.36
+    },
+    {
+     "titre": "The US let Nvidia sell chips to an empty office in China",
+     "lien": "https://www.theverge.com/ai-artificial-intelligence/1029483/nvidia-ai-chips-china-blacklist-government",
+     "resume": "Concerns are being raised that neither the Commerce Department nor Nvidia are doing their due diligence when it comes to vetting Chinese firms cleared to handle the company's H200 AI chips. According to The New York Times, New Matrix is on the list of…",
+     "date": "2026-11-07T16:43:45+01:00",
+     "source": "theverge.com",
+     "image": null,
+     "reprises": 1,
+     "score": 1.27
+    }
+   ]
+  },
+  {
+   "id": "droit",
+   "titre": "Actualité juridique",
+   "sous_titre": "Libertés fondamentales, grandes juridictions, culture juridique pour le CRFPA",
+   "items": [
+    {
+     "titre": "Municipales à Pauillac : le Conseil d’État pourrait confirmer l’annulation des élections",
+     "lien": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxOZ0RxSGVWQ0hzX19qVVFTbFVDZzd6ZTJsc05GYUMtMGZEWFJpZndWSU1uVXNaTEs4di0xa1JhUEx5TGVKNWhzLXFZTzJKU09VbW5XXzBWYS0teHJETW5tSTRsUjdSUFlwczJ2UmprX1ktR3dwWUFfS3N0NWFhaVB5YmZQd0FTdG95YVpxYndmcFhtNnVWQWRrcnU5TlhWemNJOXBSUzVQWGpVTkh4UW1DcmRQdzcxOGt1NEJNSHhvSGo0NndZLTEwUFVSYVpwWTgxaGtMRGNjYw?oc=5",
+     "resume": "",
+     "date": "2026-11-05T19:40:31+01:00",
+     "source": "Sud Ouest",
+     "image": null,
+     "reprises": 7,
+     "score": 12.35,
+     "libertes": false
+    },
+    {
+     "titre": "CEDH : la Suisse condamnée pour la grève de La Providence",
+     "lien": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPcTNDd3ZubEExNnE4WmhaOTNYdWtqRnhGaDNnOW9aOE5hMFVXekVoQllIdWhObXZOY2N2bGhZNnYxV0N4bjNJVGRjZUhTcHBwLUdVWlpSa2RIRXNpVjJnNmRPbkRvNjFucWdKeloyUHRob0RYQmxxYzM3ZGhWMlJVQi1TaFFBYUF3RWx0TU03Y3JvTEZLWHdxcWUzaW5xNllWa2psYnJFa2hiUUVOR19jdHF5Z29YSVF1YUVoQ3FuS0ViUQ?oc=5",
+     "resume": "",
+     "date": "2026-11-05T14:10:16+01:00",
+     "source": "rts.ch",
+     "image": null,
+     "reprises": 4,
+     "score": 7.94,
+     "libertes": true
+    },
+    {
+     "titre": "La Cour européenne des droits de l’Homme « a tenu bon » face aux attaques selon son président Mattias Guyomar",
+     "lien": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOM093LS1sVGtKNjdXeW1DRDhaR1paSEo4THNhSDhGajRrNXI3YndNX3hyMUo3d084LW42X21aWDdTRkctN3Mzb0tDNkQxaWJiRHRNTHRVbmRXU2pkWlE4LW9UUEVuMmo1eFkzNUJQdVZNQmIzcDA2ZGYtTHk3cjBkd29YNEwyVnI1VXhBT0hCdXJKVTNkVDRkc1ZiSVNHUDdCNFJFbmhsWWpHdFV6bUVNcDlFMElkRE4tUUNwSGtLdU1LVVBqcVJIR0V6OVE4SVVMQXc?oc=5",
+     "resume": "",
+     "date": "2026-11-06T06:52:38+01:00",
+     "source": "dna.fr",
+     "image": null,
+     "reprises": 2,
+     "score": 3.4,
+     "libertes": false
+    },
+    {
+     "titre": "La France du président Macron - Faut-il restreindre la liberté d’expression",
+     "lien": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQRF9TTG95N2gwN0lfdVBrQ1FvNG91TlZfWXFaUzdOTVA3WElzaHN0UXBIVENUX09ZQW9XcVhjT0htUXZDa0N2YWtfQVJ3SFFnQjdBY0c4WlBITGxNRnVfS0Nld1A1RVZ5Z0FGLTBEcUI3R0VMVUV3MGhXNDlrVno3R3VKWFlmVzBBVERwQlpBMA?oc=5",
+     "resume": "",
+     "date": "2026-11-08T08:48:04+01:00",
+     "source": "Herodote.net",
+     "image": null,
+     "reprises": 2,
+     "score": 3.38,
+     "libertes": true
+    },
+    {
+     "titre": "Les « Cahiers de la justice » s’interrogent sur l’encadrement de la liberté d’expression en démocratie",
+     "lien": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxOZHRCcFVlSDJOazFBaGhidzVHVk1VZWdINTRHWElCTHdhSGtnSElydnh3Wm5HMmQ4NmZNUGNjSXBlRzh5NjU0cVpWVUN2d2wwcHd6bUdDTmZPcE9HRDNEV1UxOTYzR1hqSmduVmk3SndfYnY5eVU3dmYzSHpIb3dnVDJUaGtmRWtJYUdBT0tKeU1PVjJvblo3R1lFVVhtX3JBSmNBYWdlb0tibzNxWTJYdXRISnRYS0xmZndRMzlHcmxZSVdKTGdkUHlpWlpVYzBkSVFKQ0hlMXVjRmNzN3M2ZWI4a2NZRllpbkZsZmtzZGw5M1ZCblpj?oc=5",
+     "resume": "",
+     "date": "2026-11-06T17:15:09+01:00",
+     "source": "Le Monde.fr",
+     "image": null,
+     "reprises": 1,
+     "score": 2.9,
+     "libertes": true
+    },
+    {
+     "titre": "Accident de car de Puisseguin : la cour de cassation confirme le non-lieu général",
+     "lien": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPT1RtNkt0OWZsVDVnaElTZVdHRUtyeUtGNVRNbkV6NHZrTzJxa3gyZFh0Y2N2YjEyRTdCRGJobXJrc3N0MlMtZVBNOGgzWlVId2lOSDRvaWx2ZHlGY1RlNUpkby1iOE9ySFNiejQ0YVJuM0xQbDhnNi1XWGw0eXdOYWNETndoZXlmOUFYTEx2eXpWUFIyQlVIZjc2UXhEd2ZuZm1R?oc=5",
+     "resume": "",
+     "date": "2026-11-06T04:08:14+01:00",
+     "source": "TRM24",
+     "image": null,
+     "reprises": 2,
+     "score": 2.66,
+     "libertes": false
+    }
+   ],
+   "a_traduire": []
+  }
+ ]
+}
