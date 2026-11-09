@@ -1,0 +1,463 @@
+{
+ "date": "2026-11-09",
+ "genere": "2026-11-09T14:20+01:00",
+ "journaux": [
+  {
+   "id": "figaro",
+   "nom": "Le Figaro",
+   "couleur": "#163860",
+   "une": {
+    "fichier": "unes/figaro.jpg",
+    "date": "2026-11-09",
+    "source": "https://static.milibris.com/thumbnail/issue/9f30fc13-8590-4e3f-b89b-123c480cde80/front/catalog-cover-large.jpeg"
+   },
+   "articles": [
+    {
+     "titre": "EN DIRECT - Hausse du Smic : la CGT dénonce des «miettes» et appelle à la grève le 17 novembre",
+     "lien": "https://www.lefigaro.fr/politique/en-direct-colere-sociale-sebastien-lecornu-smic-parcoursup-conference-syndicats-lyceens-etudiants-20261109",
+     "resume": "Sous pression des manifestants et sans marge financière, Sébastien Lecornu tente lundi de répondre à la colère sociale exprimée depuis plusieurs semaines par les syndicats et la jeunesse.",
+     "date": "2026-11-09T13:49:03+01:00",
+     "source": "",
+     "image": "https://i.f1g.fr/media/cms/3000x1688_crop/2026/11/09/ea87ed5dfc295f7e4c3834ca6f48d7fdec937d8bb31f4c9a2790e812823ab998.jpg"
+    },
+    {
+     "titre": "Hausse du Smic, prime carburant… Ce qu’il faut retenir des annonces du gouvernement à l’issue de la conférence sociale",
+     "lien": "https://www.lefigaro.fr/social/hausse-du-smic-prime-carburant-ce-qu-il-faut-retenir-des-annonces-du-gouvernement-a-l-issue-de-la-conference-sociale-20261109",
+     "resume": "Le premier ministre Sébastien Lecornu, accompagné de ses ministres Jean-Pierre Farandou, Serge Papin et Roland Lescure, a tenu un point de presse, à l’issue de la conférence sociale avec les organisations syndicales et patronales organisée ce lundi matin à…",
+     "date": "2026-11-09T13:31:01+01:00",
+     "source": "",
+     "image": "https://i.f1g.fr/media/cms/orig/2026/11/09/395dc4e4885d0c902a8f42d77ff08d192ad3f3bff6f2bfdece4ff9254afd984f.JPG"
+    },
+    {
+     "titre": "Un bond de 31% en dix ans : l’inexorable envolée du smic, ou le risque de smicardisation de la France",
+     "lien": "https://www.lefigaro.fr/social/un-bond-de-29-en-dix-ans-l-inexorable-envolee-du-smic-ou-le-risque-de-smicardisation-de-la-france-20261027",
+     "resume": "Face à la colère sociale, le gouvernement vient d’annoncer une revalorisation anticipée du salaire minimum de 1,6% au 1er décembre. Ce dernier a augmenté nettement plus vite que le salaire médian au cours de la dernière décennie.",
+     "date": "2026-11-09T13:17:39+01:00",
+     "source": "",
+     "image": "https://i.f1g.fr/media/cms/3000x2000_crop/2026/11/02/531f5134c54b9004f005bcafd6f06ee3b6e4151c5884c54a39ababc35aa82d63.jpg"
+    },
+    {
+     "titre": "Le gouvernement annonce une revalorisation du smic de 1,6% pour le porter à 1502 euros dès le 1er décembre",
+     "lien": "https://www.lefigaro.fr/social/le-gouvernement-annonce-une-revalorisation-du-smic-de-1-6-pour-le-porter-a-1502-euros-des-le-1er-decembre-20261109",
+     "resume": "Depuis plusieurs semaines, les organisations syndicales faisaient pression pour que le gouvernement donne un coup de pouce au smic.",
+     "date": "2026-11-09T13:17:46+01:00",
+     "source": "",
+     "image": "https://i.f1g.fr/media/cms/orig/2026/11/09/60dcea43b3ec8e7ed50576f4db0766e9c109a44bb4b2278dc86b1cf8bd889a04.JPG"
+    },
+    {
+     "titre": "EN DIRECT - Présidentielle 2027 : le champion olympique de judo Teddy Riner annonce sa candidature pour «relever la France»",
+     "lien": "https://www.lefigaro.fr/elections/presidentielles/en-direct-presidentielle-2027-le-pen-melenchon-sondage-philippe-wauquiez-candidat-droite-salaires-20261109",
+     "resume": "Marine Le Pen et Jean-Luc Mélenchon poursuivent leur route en tête des intentions de vote, la première largement devant le second, tandis que leurs poursuivants Édouard Philippe et Raphaël Glucksmann sont en perte de vitesse, selon un sondage publié lundi.",
+     "date": "2026-11-09T13:57:03+01:00",
+     "source": "",
+     "image": "https://i.f1g.fr/media/cms/3000x2001_crop/2026/11/09/4715a2fca82c63e8a9984dac6492fac61dfdac83345c58c43b34f046143ea849.jpg"
+    },
+    {
+     "titre": "Candidat à l’élection présidentielle, l’immense combat de Teddy Riner",
+     "lien": "https://www.lefigaro.fr/elections/presidentielles/candidats/candidat-a-l-election-presidentielle-le-nouveau-combat-de-teddy-riner-20261109",
+     "resume": "PORTRAIT - Légende de son sport du haut de ses cinq titres olympiques, le judoka de 37 ans a décidé de se lancer dans un défi à sa démesure : devenir président de la République en 2027.",
+     "date": "2026-11-09T13:50:47+01:00",
+     "source": "",
+     "image": "https://i.f1g.fr/media/cms/3000x1687_crop/2026/11/09/9b59b798d7b13c65f2f59623578eed92e70df688135c2f75d30c0434f39bb411.jpg"
+    }
+   ],
+   "flux_utilise": "https://www.lefigaro.fr/rss/figaro_actualites.xml"
+  },
+  {
+   "id": "monde",
+   "nom": "Le Monde",
+   "couleur": "#111111",
+   "une": {
+    "fichier": "unes/monde.webp",
+    "date": "2026-11-08",
+    "source": "https://www.frontpages.com/t/2026/11/07/le-monde-231726klc@2x.webp"
+   },
+   "articles": [
+    {
+     "titre": "EN DIRECT, conférence sociale : le gouvernement annonce une hausse du smic de 1,6 % à partir du 1ᵉʳ décembre ; la CGT dénonce « des miettes » et appelle à une nouvelle journée de grève, le 17 novembre",
+     "lien": "https://www.lemonde.fr/politique/live/2026/11/09/en-direct-conference-sociale-jean-pierre-farandou-annonce-une-hausse-du-smic-de-1-6-au-1er-decembre_6808627_823448.html",
+     "resume": "Alors que Sébastien Lecornu a défendu « la deuxième hausse la plus importante en vingt ans » du smic, la CGT a jugé la proposition insuffisante, tout comme la CFDT. Quant à l’absence de mesures pour les fonctionnaires, le premier ministre a renvoyé à la…",
+     "date": "2026-11-09T12:38:48+01:00",
+     "source": "",
+     "image": "https://img.lemde.fr/2026/11/09/90/0/5383/2691/644/322/60/0/50fd465_ftp-1-7xoox47pwjeh-afp-d6wb27y.jpg"
+    },
+    {
+     "titre": "Comment le mouvement lycéen met en lumière la crise de la démocratisation des études supérieures",
+     "lien": "https://www.lemonde.fr/campus/article/2026/11/09/comment-le-mouvement-lyceen-met-en-lumiere-la-crise-de-la-democratisation-des-etudes-superieures_6808637_4401467.html",
+     "resume": "Alors que le dernier boom démographique pousse plus de candidats vers les universités, l’écart entre les vœux et les places disponibles cristallise les angoisses des lycéens et révèle l’absence de vision des pouvoirs publics pour l’enseignement supérieur.",
+     "date": "2026-11-09T11:30:21+01:00",
+     "source": "",
+     "image": "https://img.lemde.fr/2026/10/13/289/0/3000/1500/644/322/60/0/1c7b8c6_upload-1-gmvr4jrn3vsr-asurp-maniflyce-e-107171.jpg"
+    },
+    {
+     "titre": "Teddy Riner annonce être candidat à l’élection présidentielle de 2027, poussé par la « colère » sociale et l’envie de « fédérer » les Français",
+     "lien": "https://www.lemonde.fr/politique/article/2026/11/09/teddy-riner-annonce-etre-candidat-a-l-election-presidentielle-pousse-par-la-colere-sociale-et-l-envie-de-federer-les-francais_6808643_823448.html",
+     "resume": "Le triple champion olympique de judo en individuel, qui dit n’être « ni de droite ni de gauche », compte aller « jusqu’au bout », sans pour autant arrêter sa carrière sportive, sa campagne débutera au cours des prochains jours.",
+     "date": "2026-11-09T12:11:40+01:00",
+     "source": "",
+     "image": "https://img.lemde.fr/2026/11/09/668/0/5878/2939/644/322/60/0/4938505_ftp-1-am2yw7gkfpwr-afp-d6w679e.jpg"
+    },
+    {
+     "titre": "« La France est le pays le moins raciste du monde » : les propos de Marine Le Pen sur la chaîne américaine CBS, pourtant démentis par une étude du Défenseur des droits",
+     "lien": "https://www.lemonde.fr/politique/article/2026/11/09/marine-le-pen-affirme-sur-une-chaine-americaine-que-la-france-est-le-pays-le-moins-raciste-au-monde-et-qu-il-n-y-a-pas-de-discriminations_6808639_823448.html",
+     "resume": "Interrogée sur les mobilisations sociales en cours en France, la candidate du RN à la présidentielle explique que l’immigration a déstabilisé la société française, en raison notamment d’un taux de chômage des immigrés en France « deux fois plus élevé ».",
+     "date": "2026-11-09T11:47:04+01:00",
+     "source": "",
+     "image": "https://img.lemde.fr/2026/11/05/394/0/5638/2819/644/322/60/0/b5660ec_ftp-1-ygbclvh5nhdh-afp-d6ju6pv.jpg"
+    },
+    {
+     "titre": "La Cour des comptes repart à la charge contre les niches fiscales",
+     "lien": "https://www.lemonde.fr/politique/article/2026/11/09/la-cour-des-comptes-repart-a-la-charge-contre-les-niches-fiscales_6808640_823448.html",
+     "resume": "Malgré les promesses officielles, le coût des niches et exonérations fiscales a augmenté de 42 % en euros constants en vingt ans. La France compte encore 459 dispositifs dérogatoires. Cela « fragilise la notion même de norme fiscale », estiment les…",
+     "date": "2026-11-09T11:48:06+01:00",
+     "source": "",
+     "image": "https://img.lemde.fr/2023/04/17/154/0/3000/1500/644/322/60/0/c430bdb_1681717636668-ghr.jpg"
+    },
+    {
+     "titre": "COP31 : la Turquie et l’Australie, deux pays fortement dépendants du charbon, aux manettes du principal sommet sur le climat",
+     "lien": "https://www.lemonde.fr/planete/article/2026/11/09/cop31-la-turquie-et-l-australie-deux-pays-fortement-dependants-du-charbon-aux-manettes-du-principal-sommet-sur-le-climat_6808608_3244.html",
+     "resume": "Pour la première fois, la présidence de la conférence mondiale, qui s’ouvre lundi à Antalya, est partagée entre deux Etats. Ces deux derniers ont jusqu’ici évité d’aborder la question des énergies fossiles, principales responsables du réchauffement.",
+     "date": "2026-11-09T06:00:20+01:00",
+     "source": "",
+     "image": "https://img.lemde.fr/2026/11/05/348/0/4500/2250/644/322/60/0/4273e99_ftp-1-4lq8hlbxorm0-afp-d6kn99e.jpg"
+    }
+   ],
+   "flux_utilise": "https://www.lemonde.fr/rss/une.xml"
+  },
+  {
+   "id": "croix",
+   "nom": "La Croix",
+   "couleur": "#c8102e",
+   "une": {
+    "fichier": "unes/croix.jpg",
+    "date": "2026-11-09",
+    "source": "https://img.kiosko.net/2026/11/09/fr/lacroix.750.jpg"
+   },
+   "articles": [
+    {
+     "titre": "Crise sociale en France : hausse du smic de 1,6 % ; les syndicats affichent leur mécontentement",
+     "lien": "https://www.la-croix.com/economie/crise-sociale-en-france-les-syndicats-recus-a-matignon-la-revalorisation-du-smic-attendue-20261109",
+     "resume": "Syndicats et patronat sont réunis à Matignon autour du premier ministre pour débattre du pouvoir d’achat et des salaires. Une augmentation du smic de + 1,6 % dès le 1er décembre a été annoncée. Suivez l’actualité de la crise sociale ce lundi 9 novembre.",
+     "date": "2026-11-09T14:05:49+01:00",
+     "source": "",
+     "image": "https://i.la-croix.com/x/2026/11/09/2585019-a-l-issue-dune-reunion-avec-les-partenaires-sociau.jpg"
+    },
+    {
+     "titre": "États-Unis : après la déroute des midterms, les républicains pensent déjà à 2028",
+     "lien": "https://www.la-croix.com/international/etats-unis-apres-la-deroute-des-midterms-les-republicains-pensent-deja-a-2028-20261109",
+     "resume": "Plusieurs ténors se sont exprimés peu après les midterms pour livrer leur analyse de la débâcle. Du vice-président J. D. Vance au secrétaire d’État Marco Rubio, en passant par le sénateur texan Ted Cruz et le gouverneur de Floride, Ron DeSantis, l’heure…",
+     "date": "2026-11-09T13:57:37+01:00",
+     "source": "",
+     "image": "https://i.la-croix.com/x/2026/11/09/2584084-le-vice-president-j-d-vance-dans-le-bureau-ovale-a.jpg"
+    },
+    {
+     "titre": "Guerre en Ukraine : Zelensky se coordonne avec l’UE ; nouvelles sanctions canadiennes contre Moscou",
+     "lien": "https://www.la-croix.com/international/ukraine-russie-jour-1720-point-conflit-ukrainien-poutine-aujourdhui-20261109",
+     "resume": "En amont des pourparlers de paix qui s’ouvrent demain à Abou Dhabi sous médiation américaine, Zelensky a dit s’être coordonné avec l’UE. Le Kremlin refuse d’élargir le format trilatéral. Suivez l’actualité de la guerre en Ukraine de ce lundi 9 novembre.",
+     "date": "2026-11-09T13:56:39+01:00",
+     "source": "",
+     "image": "https://i.la-croix.com/x/2026/11/09/2584754-un-pick-up-circule-pres-de-la-ligne-de-front-dans-.jpg"
+    },
+    {
+     "titre": "« États-Unis : les démocrates ont gagné, mais Trump n’a pas encore tout perdu »",
+     "lien": "https://www.la-croix.com/a-vif/etats-unis-les-democrates-ont-gagne-mais-trump-n-a-pas-encore-tout-perdu-20261109",
+     "resume": "Portés par le thème du pouvoir d’achat et des figures émergentes de qualité, les démocrates signent un retour en force face à un Donald Trump affaibli par une campagne désastreuse. Analyse du professeur d’histoire Vincent Michelot.",
+     "date": "2026-11-09T13:47:28+01:00",
+     "source": "",
+     "image": "https://i.la-croix.com/x/2026/11/09/2584792-apres-30-ans-d-absence-le-texas-bascule-du-cote-de.jpg"
+    },
+    {
+     "titre": "Réacteur nucléaire de Tchernobyl : des nouveaux financements pour réparer l’arche de protection",
+     "lien": "https://www.la-croix.com/ukraine-reunion-a-paris-pour-financer-la-reparation-de-l-arche-de-tchernobyl-20261108",
+     "resume": "Lors d’une conférence jeudi à Paris, quinze contributeurs ont promis 278 millions d’euros pour réparer l’arche de Tchernobyl, endommagée par un drone russe en février 2025.",
+     "date": "2026-11-09T13:39:00+01:00",
+     "source": "",
+     "image": "https://i.la-croix.com/x/2026/11/09/2584945-anatolii-kutsevol-vice-ministre-ukrainien-de-l-ene.jpg"
+    },
+    {
+     "titre": "Pologne : l’auteur de l’attentat meurtrier de Cracovie est mort",
+     "lien": "https://www.la-croix.com/international/pologne-l-auteur-de-lattentat-meurtrier-de-cracovie-est-mort-20261109",
+     "resume": "Trois jours après la fusillade meurtrière de Cracovie, le tireur présumé est mort lundi 9 novembre à l’hôpital. Ce Polonais de 24 ans, grièvement blessé par des policiers, est accusé d’avoir fait six morts et quinze blessés.",
+     "date": "2026-11-09T13:32:25+01:00",
+     "source": "",
+     "image": "https://i.la-croix.com/x/2026/11/09/2584632-des-voitures-de-patrouille-de-police-aux-abords-de.jpg"
+    }
+   ],
+   "flux_utilise": "https://www.la-croix.com/feeds/rss/site.xml"
+  },
+  {
+   "id": "equipe",
+   "nom": "L'Équipe",
+   "couleur": "#e2001a",
+   "une": {
+    "fichier": "unes/equipe.jpg",
+    "date": "2026-11-09",
+    "source": "https://img.kiosko.net/2026/11/09/fr/l_equip.750.jpg"
+   },
+   "articles": [
+    {
+     "titre": "Ligue des nations et amicaux : le programme TV des matches internationaux sur L'Équipe",
+     "lien": "https://www.lequipe.fr/Football/Actualites/Ligue-des-nations-et-amicaux-le-programme-tv-des-matches-internationaux-sur-l-equipe/1742457#at_medium=RSS_feeds",
+     "resume": "Du jeudi 12 au mardi 17 novembre se joueront les deux derniers matches de phase de poules de Ligue des nations. La quasi-totalité des rencontres est à suivre en direct sur les chaînes L'Équipe et L'Équipe Live foot, avec des multiplex vendredi, samedi et…",
+     "date": "2026-11-09T14:00:00+01:00",
+     "source": "",
+     "image": "https://medias.lequipe.fr/img-photo-jpg/les-espagnols-affronteront-la-tchequie-et-l-angleterre-en-ligue-des-nations-s-mantey-l-equipe/1500000002646442/0:0,1999:1332-828-552-75/31789.jpg"
+    },
+    {
+     "titre": "Comment envisager la poursuite de la carrière de judoka de Teddy Riner, candidat à l'élection présidentielle ?",
+     "lien": "https://www.lequipe.fr/Judo/Actualites/Comment-envisager-la-poursuite-de-la-carriere-de-judoka-de-teddy-riner-candidat-a-l-election-presidentielle/1742485#at_medium=RSS_feeds",
+     "resume": "Malgré sa candidature à la présidence de la République, Teddy Riner ne compte pas abandonner sa carrière de judoka. Quel impact cette candidature a-t-elle sur l'avenir sportif du quintuple Champion olympique avec en vue les JO de 2028 ?",
+     "date": "2026-11-09T13:51:43+01:00",
+     "source": "",
+     "image": "https://medias.lequipe.fr/img-photo-jpg/teddy-riner-n-a-pas-dispute-de-competition-en-individuel-depuis-les-jo-2024-j-m-hervio-l-equipe/1500000002646632/0:0,800:533-828-552-75/212b8.jpg"
+    },
+    {
+     "titre": "Abdallah, le banni devenu héros",
+     "lien": "https://www.lequipe.fr/Football/Article/Revelation-de-l-ete-puis-retrograde-en-reserve-et-maintenant-heros-de-l-om-face-a-lens-la-saison-pas-comme-les-autres-de-keyliane-abdallah/1742409#at_medium=RSS_feeds",
+     "resume": "",
+     "date": "2026-11-09T13:37:00+01:00",
+     "source": "",
+     "image": "https://medias.lequipe.fr/img-photo-png/-/1500000000833469/0-828-552-75/0cb67.png"
+    },
+    {
+     "titre": "Même en cas de victoire à la présidentielle, Teddy Riner souhaite participer aux JO en 2028 : « Si la fonction me le permet et si les Français m'y autorisent »",
+     "lien": "https://www.lequipe.fr/Judo/Actualites/Meme-en-cas-de-victoire-a-la-presidentielle-teddy-riner-souhaite-participer-aux-jo-en-2028-si-la-fonction-me-le-permet-et-si-les-francais-m-y-autorisent/1742481#at_medium=RSS_feeds",
+     "resume": "Candidat à l'élection présidentielle en 2027, Teddy Riner a indiqué qu'une victoire ne l'empêcherait pas de participer aux Jeux Olympiques de Los Angeles 2028. À condition que les Françaises et les Français l'y « autorisent ».",
+     "date": "2026-11-09T13:36:47+01:00",
+     "source": "",
+     "image": "https://medias.lequipe.fr/img-photo-jpg/teddy-riner-ne-compte-pas-abandonner-les-tatamis-meme-dans-le-cas-d-une-accession-a-la-presidence-de-la-republique-j-m-hervio-l-equipe/1500000002646626/317:129,1992:1245-828-552-75/57013.jpg"
+    },
+    {
+     "titre": "Joueur de Wolfsburg en D2 allemande, Saël Kumbedi convoqué par Zinédine Zidane pour remplacer Pierre Kalulu dans le groupe de l'équipe de France",
+     "lien": "https://www.lequipe.fr/Football/Actualites/Sael-kumbedi-convoque-par-zinedine-zidane-pour-remplacer-pierre-kalulu-dans-le-groupe-de-l-equipe-de-france/1742480#at_medium=RSS_feeds",
+     "resume": "Saël Kumbedi, jeune défenseur de 21 ans évoluant en deuxième division allemande avec Wolfsburg, a été appelé en équipe de France par Zinédine Zidane pour remplacer Pierre Kalulu, blessé.",
+     "date": "2026-11-09T13:35:59+01:00",
+     "source": "",
+     "image": "https://medias.lequipe.fr/img-photo-jpg/sael-kumbedi-ici-en-novembre-2025-avec-les-espoirs-est-appele-pour-la-premiere-fois-avec-les-bleus-a-martin-l-equipe/1500000002646624/232:163,1858:1247-828-552-75/e1bd0.jpg"
+    },
+    {
+     "titre": "Déjà quelques retouches dans le staff des Bleus",
+     "lien": "https://www.lequipe.fr/Football/Article/Petits-couacs-arret-maladie-moments-de-tension-le-staff-de-zinedine-zidane-doit-deja-subir-quelques-retouches/1742343#at_medium=RSS_feeds",
+     "resume": "",
+     "date": "2026-11-09T13:28:00+01:00",
+     "source": "",
+     "image": "https://medias.lequipe.fr/img-photo-png/-/1500000000833469/0-828-552-75/0cb67.png"
+    }
+   ],
+   "flux_utilise": "https://dwh.lequipe.fr/api/edito/rss?path=/"
+  }
+ ],
+ "sections": [
+  {
+   "id": "monde",
+   "titre": "Actualité principale",
+   "sous_titre": "Les informations les plus importantes, partout dans le monde",
+   "items": [
+    {
+     "titre": "Donald Trump reconnaît que la politique d’expulsions d’immigrés par son administration a été « trop dure »",
+     "lien": "https://www.lemonde.fr/international/article/2026/11/09/donald-trump-estime-maintenant-que-la-politique-americaine-d-expulsions-d-immigres-a-ete-trop-dure_6808473_3211.html",
+     "resume": "Sous pression après la défaite républicaine, le président américain a fait ces déclarations après avoir nommé comme directeur de cabinet l’artisan de cette politique, Stephen Miller, il y a quelques jours.",
+     "date": "2026-11-09T06:30:28+01:00",
+     "source": "lemonde.fr",
+     "image": "https://img.lemde.fr/2026/11/07/119/0/5437/2718/644/322/60/0/0014c5f_ftp-1-71i47qhpf9s9-2303906772.jpg",
+     "reprises": 10,
+     "score": 24.13
+    },
+    {
+     "titre": "Nvidia : la Chine dément toute tentative de piéger Jensen Huang, le PDG qui a reconnu une liaison avec une femme accusée d’être une espionne chinoise",
+     "lien": "https://www.lemonde.fr/international/article/2026/11/09/operation-d-espionnage-visant-le-patron-de-nvidia-la-chine-dement-toute-tentative-de-pieger-jensen-huang_6808638_3210.html",
+     "resume": "La Chine avait précédemment démenti l’article du « New York Times » selon lequel il avait développé une relation étroite avec une citoyenne chinoise espionne à la solde de Pékin.",
+     "date": "2026-11-09T11:36:38+01:00",
+     "source": "lemonde.fr",
+     "image": "https://img.lemde.fr/2026/11/09/455/0/7488/3744/644/322/60/0/9dd2310_upload-1-i1cxjledmgiz-000-d36r6zh.jpg",
+     "reprises": 6,
+     "score": 19.38
+    },
+    {
+     "titre": "France : réunion à Paris des ministres du G7",
+     "lien": "https://www.france24.com/fr/vid%C3%A9o/20261109-france-r%C3%A9union-%C3%A0-paris-des-ministres-du-g7",
+     "resume": "Une réunion des ministres des ⁠Affaires étrangères des ​pays du G7 prévue ce lundi à Paris va permettre aux alliés de Washington d'évaluer si le revers subi par Donald Trump ​lors des élections de mi-mandat aux Etats-Unis va modifier l'approche du président…",
+     "date": "2026-11-09T13:57:56+01:00",
+     "source": "france24.com",
+     "image": "https://s.france24.com/media/display/31bae32e-dc28-11f1-a47e-bf1914cabd52/w:1024/p:16x9/FR-20261109-090608-091108-CS.jpg",
+     "reprises": 4,
+     "score": 10.65
+    },
+    {
+     "titre": "Israël : Gadi Eisenkot face au défi de former une large coalition",
+     "lien": "https://www.france24.com/fr/vid%C3%A9o/20261109-isra%C3%ABl-gadi-eisenkot-face-au-d%C3%A9fi-de-former-une-large-coalition",
+     "resume": "Gadi Eisenkot, principal adversaire du Premier ministre israélien ⁠Benjamin Netanyahu, a déclaré ​dimanche vouloir former un large gouvernement de coalition le plus rapidement possible après des élections législatives sans vainqueur clair qui n'ont dégagé…",
+     "date": "2026-11-09T11:33:05+01:00",
+     "source": "france24.com",
+     "image": "https://s.france24.com/media/display/69f70736-dc28-11f1-991d-1beafce15fea/w:1024/p:16x9/FR-20261109-091140-091621-CS.jpg",
+     "reprises": 5,
+     "score": 8.6
+    },
+    {
+     "titre": "Municipales en Afrique du Sud : l’ANC, parti dominant depuis la fin de l’apartheid, enregistre le pire score de son histoire",
+     "lien": "https://www.lemonde.fr/afrique/article/2026/11/08/afrique-du-sud-l-anc-principal-parti-du-pays-enregistre-le-pire-score-de-son-histoire-aux-elections-municipales_6808463_3212.html",
+     "resume": "Avec 30,76 % des voix, le parti de Nelson Mandela devance encore l’Alliance démocratique, mais plus de la moitié des conseils municipaux, dont presque toutes les grandes villes, devront former des coalitions.",
+     "date": "2026-11-08T19:18:00+01:00",
+     "source": "lemonde.fr",
+     "image": "https://img.lemde.fr/2026/11/08/300/0/3600/1800/644/322/60/0/dc0c7b5_upload-1-drugzkgqvffs-000-d6ew3aq.jpg",
+     "reprises": 5,
+     "score": 8.47
+    },
+    {
+     "titre": "France : Teddy Riner annonce sa candidature à l'élection présidentielle",
+     "lien": "https://www.france24.com/fr/vid%C3%A9o/20261109-teddy-riner-annonce-sa-candidature-%C3%A0-l-%C3%A9lection-pr%C3%A9sidentielle",
+     "resume": "Teddy Riner, légende du judo français et quintuple médaillé d'or aux Jeux olympiques, a fait savoir ce lundi 9 novembre via ses réseaux sociaux, qu'il est candidat à la présidence de la République en 2027.",
+     "date": "2026-11-09T13:04:11+01:00",
+     "source": "france24.com",
+     "image": "https://s.france24.com/media/display/d58c270e-dc34-11f1-8fca-bf1914cabd52/w:1024/p:16x9/miniateddyriner.jpg",
+     "reprises": 3,
+     "score": 8.13
+    }
+   ],
+   "a_traduire": []
+  },
+  {
+   "id": "ia",
+   "titre": "Intelligence artificielle",
+   "sous_titre": "Modèles, entreprises, régulation, recherche",
+   "items": [
+    {
+     "titre": "Anthropic dépense 3 milliards d'euros pour faire tourner Claude avec du gaz fossile, malgré la contestation grandissante autour de l'impact écologique des centres de données IA",
+     "lien": "https://news.google.com/rss/articles/CBMi4gJBVV95cUxQU3NnWThybFBGRHN4Z1cyS3NKY2ZWWWhsT0d1bktEN25hUFJjYmYwOXhxSzhfZGEzY24tb1hsMl83aVBaQTdmZEJrTnZ1WXZsT3FRWEtveWh0cHdsRkZnbFF5eVZxWVpBY1A4aXN5Nzktc0ViS3JDV1VjUmQzSFdTcEo2UHlsTVV4a2k1b19DYVRUajIwNEhSVllkUXhqYnpmdndtTEhyRDdaNmdkeFJnczlXTzVEUmZFaTVNZUtpd2U1X1BFa0VGc0pSanFOamNoSTRGOUZXUWVTb19qSFlOWWNfMWdfanB1X1JQY3ZrbjAtbmt0Rjl3Smg5eGZlbzZCMjk0UXR2aE9nRWR5SW1NUjFDRTYzc0VKdVFLUld6M0xQakFIRnd2QVc4WHZZTElxOFNYNVRhZ2ZJQVk3QWJNZUY1VEdLSTh2c0l5VjV6LWNja0dtU25IV2szcFRvRWU3OEE?oc=5",
+     "resume": "",
+     "date": "2026-11-08T18:15:00+01:00",
+     "source": "Les Numériques",
+     "image": null,
+     "reprises": 11,
+     "score": 20.2
+    },
+    {
+     "titre": "1 250 milliards de dollars de valorisation : OpenAI lève à nouveau des fonds dans un tour de table qui pourrait grimper jusqu’à 20 milliards de dollars",
+     "lien": "https://news.google.com/rss/articles/CBMi4AJBVV95cUxQLUJfeGcwT3AzQ3U4UnRqUHNLZ2Z2cTctaEV1emttekNubzd6aEc4dXliQ2RrTEFGR0V5X2pNSnFzbTFxRG93VDBLZzZSV2ItdFJ3SFFpQTBKNzhCeVRNWDM2WEVVdExGQjd2aTJCU195VFg1TDQzdnJOd1pDc2VjZ2g5WnVHMDVxQTdVaU9QeXdrTE5ZY0VVYncxSWg0NEtoVzRXNmxod2NJSlBKcGZVeWlXNzIzZklRM0MxdDRkMk1tV1JEMERDNGg4TnpZS0JNUjlsWUl0SGpkcUxEbksxbHIzcVVabmdFVXBOUlNHTlBRdU5FRjlVZ3ZYYzBuSDliSXAteDlMU3RRMi1XbXZjY0JDNkFjVkFaU0UybmVja2xqclZFMnBvbTFCaHZHbTRkZkZwYUJJMGhBbTVKZjJDc2taaUNwRzdTaDdCZUlSbjZNY2ltbG45UmtlRDMzSVpM?oc=5",
+     "resume": "",
+     "date": "2026-11-09T11:15:49+01:00",
+     "source": "L'Usine Digitale",
+     "image": null,
+     "reprises": 4,
+     "score": 7.61
+    },
+    {
+     "titre": "Jensen Huang, patron vedette de l'IA rattrapé par une liaison dangereuse",
+     "lien": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxNM3Bxdk9tMmcxNDlUTXlpZlBKNjlJd2VLT1R4SG1IakxrNXhQakxtLXlBOEVfeGdZeThDNGc2QU1QTVN6dlBXMTh3ZDdTNFhMUFNVQ0h1WEM3MUQ1MUFjZ0tORDhJdWE4eFJjUmdLWkhKYURPYmlvQW1GbVJzUWltdGpNcnRYamZ1M2g5WVNQSGVIeGhfdGpRYlU3bnh3OFNDOFBid0xFcTFjTGFLc2JrcTB6aDRJY0dzdTdiQ1FxcjhrZkk3LTFQZ3R1UlRiWDA4eEVIQmJ0NlE5T2ZrclpfcTRpb9IB6AFBVV95cUxOVUthMnV4Q19nTU10eXI2VFlVbHRUZjNReXk5Si1XN2dNWjRFMG9zNWo3ekFNT2Z6M0p1ZGpkWEF3cHNpbXRVT1BPSk9fTWp6SkNrSy01MGRlOENmSklkVHdVY2tuV1Vzekk4ekpOVm5Oc0syc05Bd1RHaldSLTRmbWNkSkh4VmlIajAzWVg5eF9zLWpXZUx2N19BV1JqTUE1bU9Qc1VmU0w2Z1FRYlJ1SkpTVUZCdmpBYkhGaXFBSVR3OTRvNWtTQ2xhTHFjS2l2bXJud05IUklsSTUtOWxJWFZ0SllGOXZQ?oc=5",
+     "resume": "Jensen Huang, le patron de Nvidia, a reconnu dimanche 8 novembre 2026 avoir entretenu une relation extraconjugale avec Alice Huang, une dirigeante chinoise que les renseignements américains soupçonnent de travailler pour Pékin. Aux États-Unis, où le mariage…",
+     "date": "2026-11-09T13:00:00+01:00",
+     "source": "Boursorama",
+     "image": null,
+     "reprises": 3,
+     "score": 5.37
+    },
+    {
+     "titre": "OpenAI annonce le lancement de GPT-6 Cyber après avoir identifié plus de 1 000 failles de sécurité dans Linux et Firefox, et le classe dans la catégorie « Critique » de son cadre de préparation",
+     "lien": "https://news.google.com/rss/articles/CBMi6gJBVV95cUxPbUktdzE1NDNtdnM1UDFkeEx5T1hfa3MwbFN3YzFvbHNMbEhlc0MweG1JcWlsYjYtUVFXMUVSaUdNbVpVc2tBdUZKTFBCQkNhZ2RXZjZETEJaaXQzc1hHcS04eXk4ZjBvdjdsRFBQY2QxU2lyVXJGdk1wZXA2b1R1QXp6bDZQeEc2dXRJLUF6VkUtWWI1TElVOG9Td2NBN0l5dklQYUpaRHQtZzJWNF91bm53dXNYR1B5UkYzSzBNVjQydk1zX1hQTVhLOGRtSTRqTUVpOXdIajdjalB5TjN5YnhRMzhHM2ZyVVZaLWNURld0TE1mbkFicnJxTkhHdVBWdGJwUzAyRmhQamhRd3pxYkZ3cldrU2FyTEd4bGplTEFWeGdmRDdmVW5oYjJiWkxCd3BMeGpvLXluY1JSWk84VnI4eTV5RWcta2NUSWNGYy1Ub3FFX0c3czRmSzNqQnVlQ25vWTJvM1ZDUdIB7wJBVV95cUxOOXlyZFFUSU42eExCX3FDOXlGVkhpdUdQNWJCMjhob2xlOC00VlNPendSd1h3Q0NsUHZiN1p0ZVBKTk8xcHFINHdNdDlnZy1PaFk2aG44bVNRX1ptMWVvT3Mxa2UzV3JLX2tjVURvTlVld1VsZDVYOTc4Z3VCN2FuZG9WWl8wQ3hDZWdQc3dlSVY5NDkyd0pXWHI5V0NpNDEzVUJHN0ZMVU5hazJBS3BteVlQc2pBWTUzZTZPeVhobXRreWFVN09felcxaHM2M3VOQXlIZ0tDRXd6VmVnWVF0d2JTX3B6V1pfTDhvcUFGZWxHM0Zkb3R4R2lwX2ppVDBBS1NPYUtIV09WU0RZckNjbkR1MVZLRTRQNjJsVEtfY1ZqRDV3eUczc1RPMG03WmVHQmVKdThyMS11SGJ6TGw1TG5UaG9PdVotRnUxYW5FUFdIU2FqbS1FWVhkdkNCbWVycFkwR2RGWDhQWmlQTWpR?oc=5",
+     "resume": "",
+     "date": "2026-11-09T02:11:57+01:00",
+     "source": "Developpez.com",
+     "image": null,
+     "reprises": 3,
+     "score": 4.55
+    },
+    {
+     "titre": "IA : la présomption d'utilisation des contenus culturels à l'Assemblée nationale",
+     "lien": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQNGtzZWFjdUE1MzZuNno3ZUJBc0hJSS1JRUNJTWZmV1JxSzZZUDRqNU5KTm9mSXE1YXJwQktNZEhDaGhpRnprUWNTMldrcDZwaDZPalRFdDl2S0lNZ1lOajFoRFNfYmdBb05XRnQ0SGVjYzh2b1pPRHNUa1EtdXFIZlJNMjhvWk9JbE8tS1d0cGdUeGFXWjlFOFN1Y3hYZGkwR0JyWVFsUTJEZ3pCN3FvWVpUQTVxVzZPVkQ5amUxWDNUSE80WUtoZjhYeE5mc1Z3?oc=5",
+     "resume": "",
+     "date": "2026-11-09T10:40:00+01:00",
+     "source": "ActuaLitté.com",
+     "image": null,
+     "reprises": 2,
+     "score": 3.29
+    }
+   ],
+   "a_traduire": [
+    {
+     "titre": "Here’s the full text of Jensen Huang’s memo to Nvidia",
+     "lien": "https://www.theverge.com/ai-artificial-intelligence/1029595/full-text-jensen-huang-affair-memo-nvidia",
+     "resume": "On Sunday, Nvidia announced it was launching an investigation into CEO Jensen Huang's relationship with Alice Huang, an AI executive and agent of the Chinese government. In addition to the Board of Directors announcing the investigation, Huang sent a memo to…",
+     "date": "2026-11-08T23:54:50+01:00",
+     "source": "theverge.com",
+     "image": null,
+     "reprises": 2,
+     "score": 6.27
+    }
+   ]
+  },
+  {
+   "id": "droit",
+   "titre": "Actualité juridique",
+   "sous_titre": "Libertés fondamentales, grandes juridictions, culture juridique pour le CRFPA",
+   "items": [
+    {
+     "titre": "Lyon 2 : suspension d'un professeur validée par le Conseil d'État",
+     "lien": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNUlV2Z01KQXRqTWVzbnpyYmN4TlZyc2hwQTB6R1NRLVFUeThhSUVDcVUxZnFGQXFFMy1ZSERNVzhqZjJOdnQ1OHFEWjRZUWVuRHpWeDJ1RzlfTHlYZUZ1cXVVbDZmd0EzZEpYeTVBbjdZZERrTFFId29NbXN4Nm9qZTh6LUNHODFBNGt2SDR4OFJPcVlDaWc?oc=5",
+     "resume": "",
+     "date": "2026-11-09T00:21:20+01:00",
+     "source": "laclepublique.fr",
+     "image": null,
+     "reprises": 2,
+     "score": 5.78,
+     "libertes": false
+    },
+    {
+     "titre": "La démocratie à l'épreuve - Faut-il restreindre la liberté d’expression",
+     "lien": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQRF9TTG95N2gwN0lfdVBrQ1FvNG91TlZfWXFaUzdOTVA3WElzaHN0UXBIVENUX09ZQW9XcVhjT0htUXZDa0N2YWtfQVJ3SFFnQjdBY0c4WlBITGxNRnVfS0Nld1A1RVZ5Z0FGLTBEcUI3R0VMVUV3MGhXNDlrVno3R3VKWFlmVzBBVERwQlpBMA?oc=5",
+     "resume": "",
+     "date": "2026-11-08T11:33:57+01:00",
+     "source": "Herodote.net",
+     "image": null,
+     "reprises": 2,
+     "score": 5.19,
+     "libertes": true
+    },
+    {
+     "titre": "Poissy : où en est l'appel au Conseil d'État des municipales",
+     "lien": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPdjQ1SlNGbXJWZ3VLYnhxSFpIeFNabC1EWk0wakJBeEVWZGlDMnpveHljVkxxU2N4Sno2dkdGc1VPaFpCWW91aHo1bFRneXNYdmxzTDJ1YldObTRrQ0VERDBIMnd2eHBHSmhfQkVzM0xpSFZ3azRWZW41bmtoZzBIaWdfZjR6bHQ4MGdVdWtxc1E?oc=5",
+     "resume": "",
+     "date": "2026-11-09T04:54:55+01:00",
+     "source": "InfosYvelines",
+     "image": null,
+     "reprises": 3,
+     "score": 4.81,
+     "libertes": false
+    },
+    {
+     "titre": "La CEDH condamne la Suisse: un signal fort en faveur du droit de grève",
+     "lien": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQNnZEMUo0dHhNOEI2MFFsZ0tpU29aTW5YUjVXRTA2eERKLW1uSHc4dVJlWmYxcWhrdDF0X0FCeE1Jb1V1cVpVeHZjalRoaUc3a193aGNpQkpPWWUySGZ5aDQwbE1RbTBIcm4xWmlRaFdfM0l6SzVQOTVrWFkxWkRyT3dTMUxWb05MN1FGMHhlSDJVaXNZTGE3VkpFLWpHaGt20gGvAUFVX3lxTE1DZm9rTGR2bWFZcGpuQkR5X3o5cDlGVVpIOHZzeS1UcGlKNG13T29JTjMyOEVZejhCTjRNYm81Um02OGxraG1EdDA4T2EtN0hrbHYtajlXbllOVnE0N2Q4RDZwbzRCLUZtM3NCQWxvUTdxSl9BSk40NW1GT242Wm9IZVlTa1VxbG5mVGM5YUpDbHAzWHNxelpQWFB1b0FzbWpxUDVUci1fXzBoV1dscVk?oc=5",
+     "resume": "",
+     "date": "2026-11-09T09:29:11+01:00",
+     "source": "syna.ch",
+     "image": null,
+     "reprises": 1,
+     "score": 1.56,
+     "libertes": true
+    },
+    {
+     "titre": "Une semaine de jurisprudence sociale à la Cour de cassation",
+     "lien": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNM09SWWJrNXZ4bTRkREhnU2VRNVVGeGw2eU0wTEo3MUZQVFcyS2Q5em9mWHYxYW1MMzFIQl9vemdlaWktOFBEU2hEVmFHbF82UXlIVGduR2V3N19vYmR3WkJ1NnZ0OFB5TWdSQTYxb3NOdDEyUkdSNlBhSENkbUZaZl9FOWlLblo3SEQ3LVlSLWxKVFFRem1VcDJOZ1V0Rk1XN3RZay04Qzl2bGFnMW5OUl94SjVrVWZtSWhrcE0tWllKY0hRNWhvZkpqYzVWSmxwVDJFXw?oc=5",
+     "resume": "",
+     "date": "2026-11-08T02:17:29+01:00",
+     "source": "Open Lefebvre Dalloz",
+     "image": null,
+     "reprises": 1,
+     "score": 1.3,
+     "libertes": false
+    },
+    {
+     "titre": "Taxe de séjour : la Cour de cassation saisira le Conseil constitutionnel dans le conflit entre Airbnb et l’île d’Oléron",
+     "lien": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1QUG5NRG5WcGxndnNycnBzSGlzMEhYYmZHNVZlanE1dngyTDc4T1lUSmZFNHRkZUhuRUxnY0xRV0c3SklTLXNXbFRRZnFEWnE0RnlkQjVORjA4eGNUdjFPdFlodlhDRmNoRUtXR2ln?oc=5",
+     "resume": "",
+     "date": "2026-11-08T14:13:50+01:00",
+     "source": "https://horticulture-abadie-pyrenees.com/",
+     "image": null,
+     "reprises": 1,
+     "score": 1.27,
+     "libertes": true
+    }
+   ],
+   "a_traduire": []
+  }
+ ]
+}
