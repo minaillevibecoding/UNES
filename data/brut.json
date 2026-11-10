@@ -1,6 +1,6 @@
 {
  "date": "2026-11-10",
- "genere": "2026-11-10T13:57+01:00",
+ "genere": "2026-11-10T15:47+01:00",
  "journaux": [
   {
    "id": "figaro",
@@ -13,20 +13,36 @@
    },
    "articles": [
     {
+     "titre": "À l’Assemblée, dans un climat tendu, la pétition visant à supprimer CNews écartée par les députés",
+     "lien": "https://www.lefigaro.fr/elections/presidentielles/a-l-assemblee-dans-un-climat-tendu-la-petition-visant-a-supprimer-cnews-ecartee-par-les-deputes-20261110",
+     "resume": "Ce mardi après-midi, à l’issue d’un scrutin serré, les parlementaires de la commission des affaires culturelles de l’Assemblée ont décidé de «classer» la pétition visant à supprimer la chaîne d’information de l’audiovisuel français. Ils plaident en revanche…",
+     "date": "2026-11-10T14:29:17+01:00",
+     "source": "",
+     "image": "https://i.f1g.fr/media/cms/3000x2000_crop/2026/11/10/325fbfeff72893eb888b9737f7fa0751fad676589952a85729d741182fe38acd.jpg"
+    },
+    {
+     "titre": "«Si je peux détendre l’ambiance» : en plein débat sur l’avenir de CNews, le discours familier du président de la commission surprend",
+     "lien": "https://www.lefigaro.fr/politique/si-je-peux-detendre-l-ambiance-en-plein-debat-sur-l-avenir-de-cnews-le-discours-familier-du-president-de-la-commission-surprend-20261110",
+     "resume": "VIDÉO - Les députés étaient appelés ce mardi à décider des suites à donner à la pétition demandant la fermeture de CNews. Au cours de cet examen, le président de la commission des Affaires culturelles a eu une tournure de phrase spontanée qui a fait rire ses…",
+     "date": "2026-11-10T14:41:21+01:00",
+     "source": "",
+     "image": "https://i.f1g.fr/media/cms/orig/2026/11/10/c4445dcb5e84b7b2c739137c80adc88c9a02d88eb5a9bcbfb3752b022034a966.jpg"
+    },
+    {
+     "titre": "EN DIRECT - Élue aspergée d’essence à Chelles : Valérie Pécresse dénonce un «déferlement de violence»",
+     "lien": "https://www.lefigaro.fr/actualite-france/en-direct-colere-sociale-mobilisation-education-lyceens-etudiants-enseignants-greve-lecornu-20261110",
+     "resume": "«C’est une élue extraordinairement dévouée, elle ne méritait pas un acte d’une telle violence. Elle est encore complètement sous le choc» a affirmé la présidente de la région Île-de-France.",
+     "date": "2026-11-10T15:42:03+01:00",
+     "source": "",
+     "image": "https://i.f1g.fr/media/cms/2850x1603_crop/2026/11/10/7e84a3567c26c643f332cfec1dbba635bc95db8650de59989fdd025d342f5389.jpg"
+    },
+    {
      "titre": "Seine-et-Marne : une élue aspergée d’essence devant un lycée de Chelles, une enquête ouverte et un suspect interpellé",
      "lien": "https://www.lefigaro.fr/actualite-france/seine-et-marne-une-elue-aspergee-d-essence-devant-un-lycee-de-chelles-une-enquete-ouverte-et-un-suspect-interpelle-20261110",
      "resume": "La conseillère régionale et adjointe au maire Angéla Avond se trouvait mardi matin devant le lycée Gaston-Bachelard. Le ministre de l’Éducation nationale a condamné les faits, évoquant «un crime».",
-     "date": "2026-11-10T13:54:06+01:00",
+     "date": "2026-11-10T13:58:39+01:00",
      "source": "",
-     "image": "https://i.f1g.fr/media/cms/3000x2001_crop/2026/11/10/687d3524b02148e75849d033d45d2a1c4283cf6cd1fa96905d876a50a4f763c7.jpg"
-    },
-    {
-     "titre": "Colère sociale : 8 Français sur 10 jugent que le gouvernement n’a pas été à la hauteur face aux émeutes",
-     "lien": "https://www.lefigaro.fr/actualite-france/colere-sociale-8-francais-sur-10-jugent-que-le-gouvernement-n-a-pas-ete-a-la-hauteur-face-aux-emeutes-20261110",
-     "resume": "EXCLUSIF - Selon le dernier baromètre Odoxa pour Le Figaro, une majorité de nos concitoyens assurent que le pays traverse une véritable crise de régime. Ils exigent un sursaut d’autorité.",
-     "date": "2026-11-10T13:50:25+01:00",
-     "source": "",
-     "image": "https://i.f1g.fr/media/cms/3000x2000_crop/2026/11/08/3fef3a9ef77fd9f3416bc57b6510259b80d5bdf07ac5dd4fb5d5936dacae818d.jpg"
+     "image": "https://i.f1g.fr/media/cms/orig/2026/11/10/0749936fa2046cfd2c48820c3bf1982587e452efd819cdedb4fc890e3e6a4fdd.JPG"
     },
     {
      "titre": "«Restez confinés» : des mortiers d’artifice tirés dans les couloirs d’un lycée à Chelles",
@@ -37,28 +53,12 @@
      "image": "https://i.f1g.fr/media/cms/orig/2026/11/10/6c3235c7633367ffe53ae4bf5f76873129574e5798cd3c64cadb8cdbaaa36560.jpg"
     },
     {
-     "titre": "Un incendie « manifestement criminel » dans un lycée à Aix-en-Provence, une porte brûlée",
-     "lien": "https://www.lefigaro.fr/marseille/un-incendie-declare-dans-un-lycee-a-aix-en-provence-une-porte-brulee-20261110",
-     "resume": "Le lycée Émile Zola, incendié ce mardi matin, restera fermé pour la journée. Selon le président de la région Provence-Alpes-Côte d’Azur, plusieurs individus se seraient introduits dans l’établissement cette nuit.",
-     "date": "2026-11-10T13:54:03+01:00",
+     "titre": "Colère sociale : 8 Français sur 10 jugent que le gouvernement n’a pas été à la hauteur face aux émeutes",
+     "lien": "https://www.lefigaro.fr/actualite-france/colere-sociale-8-francais-sur-10-jugent-que-le-gouvernement-n-a-pas-ete-a-la-hauteur-face-aux-emeutes-20261110",
+     "resume": "EXCLUSIF - Selon le dernier baromètre Odoxa pour Le Figaro, une majorité de nos concitoyens assurent que le pays traverse une véritable crise de régime. Ils exigent un sursaut d’autorité.",
+     "date": "2026-11-10T13:50:25+01:00",
      "source": "",
-     "image": "https://i.f1g.fr/media/cms/orig/2026/11/10/edd5ba1068752ae447476f6b3382d33334b8f986b6130e2ef4cb25405f31646b.JPG"
-    },
-    {
-     "titre": "EN DIRECT - Colère lycéenne : près de 300 blessés parmi les enseignants, selon le gouvernement",
-     "lien": "https://www.lefigaro.fr/actualite-france/en-direct-colere-sociale-mobilisation-education-lyceens-etudiants-enseignants-greve-lecornu-20261110",
-     "resume": "«Ces violences sont absolument inacceptables», et «l’ensemble des forces politiques doit appeler à l’apaisement, au dialogue», a déclaré le porte-parole par intérim du gouvernement Mathieu Lefèvre.",
-     "date": "2026-11-10T13:53:02+01:00",
-     "source": "",
-     "image": "https://i.f1g.fr/media/cms/2850x1603_crop/2026/11/10/f30cd1bb19efa988ff494799d51a1f3ab4b222d75b0ba497d54372bd531c6463.jpg"
-    },
-    {
-     "titre": "L’écrivain Michel Houellebecq mis en examen après des propos sur les musulmans et le «grand remplacement»",
-     "lien": "https://www.lefigaro.fr/faits-divers/l-ecrivain-michel-houellebecq-mis-en-examen-apres-des-propos-sur-les-musulmans-et-le-grand-remplacement-20261110",
-     "resume": "INFO LE FIGARO - Michel Houellebecq était poursuivi après un entretien accordé à Front Populaire, la revue de Michel Onfray, en novembre 2022. L’écrivain de 70 ans a été mis en examen pour complicité de provocation à la discrimination, à la haine ou à la…",
-     "date": "2026-11-10T12:10:20+01:00",
-     "source": "",
-     "image": "https://i.f1g.fr/media/cms/3000x1688_crop/2026/11/10/7353eaa4f97f95a7d374e9842eaffdb8e73d89fc6c9a6ee025cdcb5640284119.jpg"
+     "image": "https://i.f1g.fr/media/cms/3000x2000_crop/2026/11/08/3fef3a9ef77fd9f3416bc57b6510259b80d5bdf07ac5dd4fb5d5936dacae818d.jpg"
     }
    ],
    "flux_utilise": "https://www.lefigaro.fr/rss/figaro_actualites.xml"
@@ -74,52 +74,52 @@
    },
    "articles": [
     {
-     "titre": "« On est observés sous toutes les coutures, sans droit à l’erreur » : l’anxiété sociale grandit parmi les jeunes",
-     "lien": "https://www.lemonde.fr/campus/article/2026/11/10/on-est-observes-sous-toutes-les-coutures-sans-droit-a-l-erreur-l-anxiete-sociale-grandit-parmi-les-jeunes_6808785_4401467.html",
-     "resume": "La part des moins de 30 ans touchés par une phobie sociale ne cesse de croître depuis le Covid-19. Un phénomène révélateur d’une difficulté à trouver sa place pour cette génération sommée de se construire dans un monde de plus en plus hostile et compétitif.",
-     "date": "2026-11-10T06:00:07+01:00",
+     "titre": "En Ukraine, « The Kyiv Independent », ou le journalisme par temps de guerre",
+     "lien": "https://www.lemonde.fr/international/article/2026/11/10/en-ukraine-the-kyiv-independent-ou-le-journalisme-par-temps-de-guerre_6808834_3210.html",
+     "resume": "En activité depuis cinq ans, « The Kyiv Independent », fort d’une centaine d’employés, subsiste seulement grâce à une communauté de 35 000 membres donateurs. Comme les quelques autres rédactions indépendantes du pays, le média en ligne est confronté aux…",
+     "date": "2026-11-10T14:00:05+01:00",
      "source": "",
-     "image": "https://img.lemde.fr/2026/10/30/0/0/2138/1069/644/322/60/0/3f43254_upload-1-5u8tdzoosv0c-campus-10-novembre26-v2.jpg"
+     "image": "https://img.lemde.fr/2026/11/07/670/0/4000/2000/644/322/60/0/0f52ff0_upload-1-qijee7nvunlz-reportage-kyiv-independant-4.jpg"
     },
     {
-     "titre": "EN DIRECT, guerre en Ukraine : Volodymyr Zelensky espère que la Russie sera elle aussi déterminée à parvenir à une « paix véritable »",
-     "lien": "https://www.lemonde.fr/international/live/2026/11/10/en-direct-guerre-en-ukraine-tout-accord-sur-l-ukraine-doit-respecter-son-integrite-territoriale-affirment-europeens-et-americains_6808609_3210.html",
-     "resume": "L’Ukraine et ses partenaires sont « déterminés à travailler de manière constructive en faveur de mesures de désescalade, de l’élaboration de garanties de sécurité efficaces et de l’avènement d’une paix véritable », a écrit le président ukrainien, Volodymyr…",
-     "date": "2026-11-10T11:40:12+01:00",
+     "titre": "La pétition pour « supprimer CNews de l’audiovisuel français » est enterrée par l’Assemblée nationale",
+     "lien": "https://www.lemonde.fr/economie/article/2026/11/10/la-petition-pour-supprimer-cnews-de-l-audiovisuel-francais-est-enterree-par-l-assemblee-nationale_6808844_3234.html",
+     "resume": "Les députés de la commission des affaires culturelles ont décidé, mardi 10 novembre, de classer le texte qui avait dépassé le million de signataires dimanche.",
+     "date": "2026-11-10T15:16:10+01:00",
      "source": "",
-     "image": "https://img.lemde.fr/2026/11/10/569/0/7320/3660/644/322/60/0/c846236_ftp-1-d87zdsykumhs-2026-11-10t084530z-7369598-rc2wkoajbl2x-rtrmadp-3-ukraine-crisis-talks.JPG"
+     "image": "https://img.lemde.fr/2026/11/09/376/0/5604/2802/644/322/60/0/caddb1e_ftp-1-vdncvjhxcjmv-afp-d6xb8wm.jpg"
     },
     {
-     "titre": "Présidentielle 2027 : CNews, à la fois incontournable et infréquentable pour les candidats",
-     "lien": "https://www.lemonde.fr/politique/article/2026/11/10/presidentielle-2027-cnews-a-la-fois-incontournable-et-infrequentable-pour-les-candidats_6808825_823448.html",
-     "resume": "A gauche comme ailleurs, les prétendants à l’Elysée repensent leur stratégie vis-à-vis des médias du groupe Bolloré, alors que les appels au boycott de la chaîne CNews se multiplient.",
-     "date": "2026-11-10T12:00:02+01:00",
+     "titre": "Grève du 10 novembre : étudiants, lycéens et enseignants à nouveau mobilisés pour « mettre le gouvernement sous pression »",
+     "lien": "https://www.lemonde.fr/politique/article/2026/11/10/greve-du-10-novembre-etudiants-lyceens-et-enseignants-appellent-a-une-nouvelle-journee-d-action-pour-mettre-le-gouvernement-sous-pression_6808805_823448.html",
+     "resume": "Près de deux mois après le début du mouvement de contestation et alors que les réponses de l’exécutif sont jugées « insuffisantes », des manifestations sont prévues dans la plupart des grandes villes de France.",
+     "date": "2026-11-10T10:08:26+01:00",
      "source": "",
-     "image": "https://img.lemde.fr/2026/11/09/0/0/5152/2576/644/322/60/0/00b1da5_upload-1-s5pu7xfjyp2j-000-a4jb7uv.jpg"
+     "image": "https://img.lemde.fr/2026/11/09/1068/0/7887/3943/644/322/60/0/d8c6dfb_ftp-1-fi5ydxv9fwhv-afp-d6x976d.jpg"
     },
     {
-     "titre": "Teddy Riner, une candidature inattendue qui vient bousculer un peu plus la campagne présidentielle pour 2027",
-     "lien": "https://www.lemonde.fr/politique/article/2026/11/10/teddy-riner-une-candidature-inattendue-qui-vient-bousculer-un-peu-plus-la-campagne-presidentielle_6808802_823448.html",
-     "resume": "Le sportif de haut niveau a créé la surprise, lundi, en déclarant se présenter pour « relever la France », tout en n’étant « ni de droite ni de gauche ». Quelques dossiers, notamment fiscaux, pourraient handicaper son début de campagne.",
-     "date": "2026-11-10T09:59:19+01:00",
+     "titre": "Israël : le Parlement tient sa première session, tandis que Gadi Eisenkot promet de former un nouveau gouvernement « le plus vite possible »",
+     "lien": "https://www.lemonde.fr/international/article/2026/11/10/israel-le-parlement-tient-sa-premiere-session-tandis-que-gadi-eisenkot-promet-de-former-un-nouveau-gouvernement-le-plus-vite-possible_6808849_3210.html",
+     "resume": "Le premier enjeu pour les nouveaux députés sera l’élection du président du Parlement, poste occupé pour le moment par Amir Ohana, membre du Likoud, le parti de Benyamin Nétanyahou. Plusieurs organisations d’extrême droite ont appelé à manifester devant le…",
+     "date": "2026-11-10T15:32:46+01:00",
      "source": "",
-     "image": "https://img.lemde.fr/2026/11/09/307/0/7432/3716/644/322/60/0/86a1664_ftp-1-y0m41tkcluwy-afp-d6wj6zq.jpg"
+     "image": "https://img.lemde.fr/2026/11/10/680/0/8163/4081/644/322/60/0/e961bc2_ftp-1-mieyk544c4af-afp-d72b3j6.jpg"
     },
     {
-     "titre": "Derrière la cyberattaque contre les frigos de supermarchés, l’Iran et l’unité cyber Shahid Kaveh des gardiens de la révolution",
-     "lien": "https://www.lemonde.fr/pixels/article/2026/11/10/derriere-la-cyberattaque-contre-les-frigos-de-supermarches-l-iran-et-l-unite-cyber-des-gardiens-de-la-revolution_6808819_4408996.html",
-     "resume": "L’Etat français, qui accuse Téhéran d’être à l’origine de l’attaque de la mi-octobre, a convoqué l’ambassadeur iranien à Paris. Cette unité est connue pour ses attaques contre les systèmes industriels.",
-     "date": "2026-11-10T11:30:17+01:00",
+     "titre": "Présidentielle 2027 : David Lisnard et les raisons d’une surprenante percée libérale",
+     "lien": "https://www.lemonde.fr/politique/article/2026/11/10/presidentielle-2027-david-lisnard-et-les-raisons-d-une-percee-liberale-inattendue_6808840_823448.html",
+     "resume": "Longtemps sous-estimé par ses adversaires, le maire de Cannes est la sensation de cet automne à droite. Passé plusieurs fois devant Bruno Retailleau dans les sondages, le candidat mise sur une communication transgressive, une forme de dégagisme et sur le…",
+     "date": "2026-11-10T15:00:03+01:00",
      "source": "",
-     "image": "https://img.lemde.fr/2026/10/12/500/0/6000/3000/644/322/60/0/c291890_ftp-1-9kwosdfuml6x-2026-10-12t154034z-1680256209-rc2q1oaaopie-rtrmadp-3-france-cyberattack.JPG"
+     "image": "https://img.lemde.fr/2026/11/09/416/0/6000/3000/644/322/60/0/0523b29_upload-1-odkf210c8gie-000-c6tr6p7.jpg"
     },
     {
-     "titre": "Gaz : nouvelle hausse de 5,8 % à venir pour les foyers français, dans le sillage de la guerre au Moyen-Orient",
-     "lien": "https://www.lemonde.fr/economie/article/2026/11/10/gaz-nouvelle-hausse-de-5-8-a-venir-pour-les-foyers-francais-dans-le-sillage-du-conflit-au-moyen-orient_6808828_3234.html",
-     "resume": "En 2026, l’augmentation moyenne de la facture devrait atteindre 11,8 %, soit 143 euros de plus, selon les calculs de la Commission de régulation de l’énergie.",
-     "date": "2026-11-10T12:16:20+01:00",
+     "titre": "IA : Anthropic maintient le timing de son entrée en Bourse et vise jusqu’à 1 400 milliards de dollars de valorisation",
+     "lien": "https://www.lemonde.fr/economie/article/2026/11/10/ia-anthropic-maintient-le-timing-de-son-entree-en-bourse-et-vise-jusqu-a-1-400-milliards-de-dollars-de-valorisation_6808850_3234.html",
+     "resume": "La start-up maison mère de Claude pourrait viser une cotation dès le jeudi 19 novembre, avec un prix de première cotation un peu revu à la baisse.",
+     "date": "2026-11-10T15:38:23+01:00",
      "source": "",
-     "image": "https://img.lemde.fr/2026/11/10/125/0/5948/2974/644/322/60/0/bcaec47_upload-1-oh3ub0qv4qcp-000-32vm72j.jpg"
+     "image": "https://img.lemde.fr/2026/11/10/0/0/5000/2500/644/322/60/0/20a9362_upload-1-tfiasafo5cq7-063-2301783801.jpg"
     }
    ],
    "flux_utilise": "https://www.lemonde.fr/rss/une.xml"
@@ -135,52 +135,52 @@
    },
    "articles": [
     {
-     "titre": "Crise dans l’éducation : 49 lycées bloqués ; des manifestations dans les grandes villes",
-     "lien": "https://www.la-croix.com/crise-dans-l-education-etudiants-lyceens-et-enseignants-appellent-a-une-nouvelle-journee-d-action-mardi-20261109",
-     "resume": "Une intersyndicale rassemblant organisations de jeunesse et enseignants appelle à une nouvelle journée de grève et de manifestations. Une cinquantaine de lycées sont bloqués selon le ministère de l’éducation. Suivez l’actualité de la mobilisation de ce mardi…",
-     "date": "2026-11-10T13:56:33+01:00",
+     "titre": "Pour les 600 ans de la mort de Jeanne d’Arc, l’Église lance un programme ambitieux",
+     "lien": "https://www.la-croix.com/religion/pour-les-600-ans-de-la-mort-de-jeanne-d-arc-leglise-lance-un-programme-ambitieux-20261110",
+     "resume": "En marge de leur Assemblée plénière à Lourdes, les évêques de 22 diocèses « johanniques » ont dévoilé, vendredi 6 novembre 2026, une riche programmation thématique autour des 600 ans de la mort de Jeanne d’Arc, qui seront célébrés le 30 mai 2031. Un conseil…",
+     "date": "2026-11-10T15:40:36+01:00",
      "source": "",
-     "image": "https://i.la-croix.com/x/2026/11/09/2585524-une-femme-photographie-des-poubelles-qui-bloquent-.jpg"
+     "image": "https://i.la-croix.com/x/2026/11/10/2585201-sur-le-parvis-de-la-cathedrale-sainte-croix-d-orle.jpg"
     },
     {
-     "titre": "Au ralenti sur la défense, Paris et Berlin veulent empêcher le moteur franco-allemand de caler",
-     "lien": "https://www.la-croix.com/international/au-ralenti-sur-la-defense-paris-et-berlin-veulent-empecher-le-moteur-franco-allemand-de-caler-20261110",
-     "resume": "Les ministres français et allemand des armées et de la défense, Catherine Vautrin et Boris Pistorius, ont répondu, lundi 9 novembre à Berlin, aux questions de députés sur l’avenir de leur coopération. Après l’échec du Scaf, les deux pays se concentrent sur…",
-     "date": "2026-11-10T13:54:58+01:00",
+     "titre": "Discrimination : Michel Houellebecq mis en examen pour des propos hostiles aux musulmans",
+     "lien": "https://www.la-croix.com/culture/discrimination-michel-houellebecq-mis-en-examen-pour-des-propos-hostiles-aux-musulmans-20261110",
+     "resume": "L’écrivain Michel Houellebecq a été mis en examen mardi 10 novembre par le tribunal de Nanterre pour complicité de provocation à la discrimination, à la haine ou à la violence.",
+     "date": "2026-11-10T15:36:57+01:00",
      "source": "",
-     "image": "https://i.la-croix.com/x/2026/11/10/2585803-la-ministre-francaise-des-armees-catherine-vautrin.jpg"
+     "image": "https://i.la-croix.com/x/2026/11/10/2586052-l-ecrivain-michel-houellebecq-a-ete-mis-en-examen-.jpg"
     },
     {
-     "titre": "À Choose Kids, les hôteliers s’engagent auprès de Sarah El Haïry à lutter contre la prostitution de mineurs",
-     "lien": "https://www.la-croix.com/societe/a-choose-kids-les-hoteliers-s-engagent-aupres-de-sarah-el-hairy-a-lutter-contre-la-prostitution-de-mineurs-20261110",
-     "resume": "A l’occasion de la première édition de Choose Kids, organisée le 9 novembre, à Paris, par la haute-commissaire à l’enfance Sarah El Haïry, la fédération de l’hôtellerie France Hospitalité a assuré vouloir « aller plus loin » dans la lutte contre…",
-     "date": "2026-11-10T13:53:20+01:00",
+     "titre": "Pétition contre CNews : les députés refusent un débat dans l’hémicycle",
+     "lien": "https://www.la-croix.com/culture/petition-contre-cnews-les-deputes-refusent-un-debat-dans-l-hemicycle-20261110",
+     "resume": "Les députés ont décidé de classer mardi 10 octobre en commission la pétition réclamant de « supprimer CNews de l’audiovisuel français », malgré plus d’un million de signatures, par 28 voix contre 25.",
+     "date": "2026-11-10T15:32:19+01:00",
      "source": "",
-     "image": "https://i.la-croix.com/x/2026/11/10/2585724-la-haute-commissaire-a-l-enfance-sarah-el-hairy-le.jpg"
+     "image": "https://i.la-croix.com/x/2026/11/10/2585974-les-deputes-ont-decide-mardi-10-novembre-2026-en-c.jpg"
     },
     {
-     "titre": "« Sans ingénieurs, il n’y aura pas de réindustrialisation »",
-     "lien": "https://www.la-croix.com/a-vif/sans-ingenieurs-il-n-y-aura-pas-de-reindustrialisation-20261110",
-     "resume": "Réindustrialisation, transition énergétique, IA : la France aura besoin de 100 000 ingénieurs et techniciens supplémentaires par an d’ici 2035. Mais les vocations scientifiques s’effritent, menaçant l’avenir industriel du pays, souligne Yves Metz, président…",
-     "date": "2026-11-10T13:12:20+01:00",
+     "titre": "Guerre au Moyen-Orient : sanctions canadiennes contre l’Iran ; Trump voit « un élan » vers un accord",
+     "lien": "https://www.la-croix.com/international/direct-guerre-iran-israel-usa-jour-256-moyen-orient-bilan-resume-aujourdhui-20261110",
+     "resume": "Le Canada a réinstauré des sanctions à l’encontre d’entités iraniennes soupçonnées d’avoir contribué à des activités nucléaires « sensibles ». Donald Trump a dit voir « un élan positif » vers un accord avec l’Iran. Suivez l’actualité du conflit au…",
+     "date": "2026-11-10T15:15:28+01:00",
      "source": "",
-     "image": "https://i.la-croix.com/x/2026/11/10/2585717-moins-de-30-des-eleves-ingenieurs-sont-des-jeunes-.jpeg"
+     "image": "https://i.la-croix.com/x/2026/11/10/2585790-un-camp-de-deplaces-s-etend-le-long-du-littoral-de.jpg"
     },
     {
-     "titre": "Guerre en Ukraine : pourparlers entre Kiev et Moscou ; Zelensky arrivé au Danemark",
-     "lien": "https://www.la-croix.com/international/ukraine-russie-jour-1721-point-conflit-ukrainien-poutine-aujourdhui-20261110",
-     "resume": "Des pourparlers ont commencé à Abou Dhabi entre les délégations de Kiev et de Moscou, sous médiation américaine. Le président Volodymyr Zelensky est attendu au Danemark où il doit s’entretenir avec les dirigeants des pays nordiques. Suivez l’actualité de la…",
-     "date": "2026-11-10T12:58:27+01:00",
+     "titre": "« Les Yeux verts », un film poétique sur la souffrance des enfants de l’exil",
+     "lien": "https://www.la-croix.com/culture/les-yeux-verts-un-film-poetique-sur-la-souffrance-des-enfants-de-l-exil-20261110",
+     "resume": "Les réalisateurs de Gagarine, Fanny Liatard et Jérémy Trouilh s’emparent du « syndrome de résignation » qui touche les enfants réfugiés et nous embarque dans un voyage onirique d’une grande beauté, au cœur des Landes où un adolescent et sa petite sœur…",
+     "date": "2026-11-10T14:59:35+01:00",
      "source": "",
-     "image": "https://i.la-croix.com/x/2026/11/10/2585699-des-frappes-russes-ont-touche-la-zone-residentiell.jpg"
+     "image": "https://i.la-croix.com/x/2026/11/10/2585750-dans-les-yeux-verts-nour-le-grand-frere-est-interp.jpg"
     },
     {
-     "titre": "« Une routine chaotique » : à Kherson, en Ukraine, vivre sous la menace des drones russes et de l’hiver",
-     "lien": "https://www.la-croix.com/international/une-routine-chaotique-a-kherson-en-ukraine-vivre-sous-la-menace-des-drones-russes-et-de-l-hiver-20261110",
-     "resume": "À Kherson, ville du sud de l’Ukraine régulièrement frappée par les drones russes, les habitants redoutent l’arrivée de l’hiver et de nouvelles coupures d’électricité et de chauffage. Des écoles aux personnes âgées isolées, chacun tente de s’organiser pour…",
-     "date": "2026-11-10T12:05:53+01:00",
+     "titre": "« On mérite mieux que les invectives » : des débats pour s’écouter font salle comble à Nantes",
+     "lien": "https://www.la-croix.com/societe/on-merite-mieux-que-les-invectives-des-debats-pour-s-ecouter-font-salle-comble-a-nantes-20261110",
+     "resume": "L’association Débattons ! organise des débats tous les mois pour forger son esprit critique, loin des invectives des réseaux sociaux ou des plateaux télévisés. En lien avec notre opération « Faut qu’on parle », nous sommes allés visiter des lieux de…",
+     "date": "2026-11-10T14:18:12+01:00",
      "source": "",
-     "image": "https://i.la-croix.com/x/2026/11/09/2585015-dans-la-zone-rouge-de-la-ville-de-kherson-les-carc.jpg"
+     "image": "https://i.la-croix.com/x/2026/11/10/2585721-une-charte-des-bavards-encadre-ces-rendez-vous-men.jpg"
     }
    ],
    "flux_utilise": "https://www.la-croix.com/feeds/rss/site.xml"
@@ -196,52 +196,52 @@
    },
    "articles": [
     {
-     "titre": "Antoine Dupont à l'ouverture, Grégory Alldritt en 8, Julien Marchand de retour : la compo probable des Bleus contre l'Afrique du Sud",
-     "lien": "https://www.lequipe.fr/Rugby/Actualites/Antoine-dupont-a-l-ouverture-gregory-alldritt-en-8-julien-marchand-de-retour-la-compo-probable-des-bleus-contre-l-afrique-du-sud/1742731#at_medium=RSS_feeds",
-     "resume": "Pour le choc face à l'Afrique du Sud vendredi au Stade de France (21h10), les Bleus pourraient finalement compter sur Antoine Dupont au poste d'ouvreur pour remplacer Romain Ntamack, blessé contre les Fidji. Grégory Alldritt devrait lui pallier le forfait de…",
-     "date": "2026-11-10T13:38:33+01:00",
+     "titre": "L'Olympique Lyonnais communique à la suite de l'incident d'après match concernant son équipe U17",
+     "lien": "https://www.lequipe.fr/Football/Actualites/L-olympique-lyonnais-communique-a-la-suite-de-l-incident-d-apres-match-concernant-son-equipe-u17/1742758#at_medium=RSS_feeds",
+     "resume": "Après la défaite des U17 nationaux de l'OL à Grenoble (1-0) ce dimanche, plusieurs joueurs et membres du staff du club rhodanien ont été victimes d'agressions physiques et de menaces de mort. L'OL a pris parole et a promis des mesures.",
+     "date": "2026-11-10T15:31:27+01:00",
      "source": "",
-     "image": "https://medias.lequipe.fr/img-photo-jpg/antoine-dupont-devrait-porter-le-numero-10-contre-l-afrique-du-sud-a-mounic-l-equipe/1500000002647345/0:0,2000:1333-828-552-75/75240.jpg"
+     "image": "https://medias.lequipe.fr/img-photo-jpg/l-ol-met-en-cause-l-organisation-de-la-rencontre-u17-entre-grenoble-et-lyon-j-b-autissier-l-equipe/1500000002647408/132:105,1620:1097-828-552-75/98b6e.jpg"
     },
     {
-     "titre": "Le Paris FC accueille dimanche au stade Jean-Bouin la 6e édition du tournoi des défenseurs de l'enfance",
-     "lien": "https://www.lequipe.fr/Football/Actualites/Le-stade-jean-bouin-accueille-la-6e-edition-du-tournoi-des-defenseurs-de-l-enfance/1742730#at_medium=RSS_feeds",
-     "resume": "18 équipes, représentants les 18 clubs de L1, composées de jeunes garçons et filles de 7 à 11 ans en difficultés, disputeront un tournoi le 15 novembre au stade Jean-Bouin.",
-     "date": "2026-11-10T13:33:19+01:00",
-     "source": "",
-     "image": "https://medias.lequipe.fr/img-photo-jpg/en-l-absence-de-match-de-top-14-et-de-l1-le-stade-jean-bouin-sera-le-theatre-d-une-bonne-cause-le-15-novembre-j-b-autissier-l-equipe/1500000002647343/0:0,2000:1333-828-552-75/be3b1.jpg"
-    },
-    {
-     "titre": "Del Toro : «Seixas rend ce sport encore plus dur»",
-     "lien": "https://www.lequipe.fr/Cyclisme-sur-route/Article/Isaac-del-toro-se-confie-sur-sa-saison-2026-et-sa-rivalite-naissante-avec-paul-seixas-c-est-bien-qu-il-soit-la-car-il-rend-ce-sport-encore-plus-dur/1742645#at_medium=RSS_feeds",
+     "titre": "Homme «intense» ou «pervers» coupable d'agressions sexuelles : le procès Escoffier",
+     "lien": "https://www.lequipe.fr/Voile/Article/Un-homme-intense-a-la-sexualite-debridee-ou-un-pervers-coupable-d-agressions-sexuelles-recit-du-proces-de-kevin-escoffier/1742659#at_medium=RSS_feeds",
      "resume": "",
-     "date": "2026-11-10T13:26:00+01:00",
+     "date": "2026-11-10T15:31:00+01:00",
      "source": "",
      "image": "https://medias.lequipe.fr/img-photo-png/-/1500000000833469/0-828-552-75/0cb67.png"
     },
     {
-     "titre": "Les mandats les plus courts des entraîneurs au XXIe siècle",
-     "lien": "https://www.lequipe.fr/Football/Actualites/Toppmoller-roux-marcelino-les-mandats-les-plus-courts-des-entraineurs-de-ligue-1-fraichement-arrives-au-xxie-siecle/1719003#at_medium=RSS_feeds",
-     "resume": "",
-     "date": "2026-11-10T13:14:00+01:00",
+     "titre": "La FIA publie les derniers résultats de l'ADUO qui ne provoque aucun changement pour les motoristes",
+     "lien": "https://www.lequipe.fr/Formule-1/Actualites/La-fia-publie-les-derniers-resultats-de-l-aduo-qui-ne-provoque-aucun-changement-pour-les-motoristes/1742756#at_medium=RSS_feeds",
+     "resume": "La troisième et dernière période d'évaluation et d'analyse des moteurs de F1 est terminée. La FIA a publié mardi les résultats de l'ADUO (Additional Development and Upgrade Opportunities) qui ne provoque aucune évolution pour les motoristes engagés.",
+     "date": "2026-11-10T15:27:30+01:00",
      "source": "",
-     "image": "https://medias.lequipe.fr/img-photo-png/-/1500000000833469/0-828-552-75/0cb67.png"
+     "image": "https://medias.lequipe.fr/img-photo-jpg/la-prochaine-periode-d-evaluation-de-l-aduo-concernera-les-six-premiers-gp-de-2027-a-mounic-l-equipe/1500000002647404/0:0,2000:1333-828-552-75/f8d79.jpg"
     },
     {
-     "titre": "Laurent Bonadei, le sélectionneur de l'équipe de France féminine, dévoilera sa prochaine liste le mercredi 18 novembre",
-     "lien": "https://www.lequipe.fr/Football/Actualites/Laurent-bonadei-le-selectionneur-de-l-equipe-de-france-feminine-devoilera-sa-prochaine-liste-le-mercredi-18-novembre/1742723#at_medium=RSS_feeds",
-     "resume": "",
-     "date": "2026-11-10T13:08:10+01:00",
+     "titre": "World Athletics dévoile les minima qualificatifs pour les Jeux Olympiques de Los Angeles 2028",
+     "lien": "https://www.lequipe.fr/Athletisme/Actualites/World-athletics-devoile-les-minima-qualificatifs-pour-les-jeux-olympiques-de-los-angeles-2028/1742753#at_medium=RSS_feeds",
+     "resume": "La fédération internationale d'athlétisme, World Athletics, a dévoilé ce mardi les minima qualificatifs pour les prochains Jeux Olympiques, en 2028 à Los Angeles.",
+     "date": "2026-11-10T15:16:08+01:00",
      "source": "",
-     "image": "https://medias.lequipe.fr/img-photo-jpg/laurent-bonadei-le-patron-des-bleues-a-mounic-l-equipe/1500000002647335/0:0,1999:1332-828-552-75/cc527.jpg"
+     "image": "https://medias.lequipe.fr/img-photo-jpg/les-athletes-savent-desormais-quels-minima-ils-devront-realiser-pour-se-qualifier-aux-prochains-jeux-olympiques-f-faugere-l-equipe/1500000002647399/0:0,2000:1333-828-552-75/18e78.jpg"
     },
     {
-     "titre": "Konsa blessé, le sélectionneur de l'Angleterre Thomas Tuchel convoque le défenseur de Bournemouth James Hill",
-     "lien": "https://www.lequipe.fr/Football/Actualites/Konsa-blesse-le-selectionneur-de-l-angleterre-thomas-tuchel-convoque-le-defenseur-de-bournemouth-james-hill/1742721#at_medium=RSS_feeds",
-     "resume": "James Hill (24 ans) a été appelé pour la première fois avec les « Three Lions » pour remplacer Ezri Konsa qui ne pourra pas jouer lors du premier match de l'Angleterre dans cette trêve.",
-     "date": "2026-11-10T13:05:32+01:00",
+     "titre": "Droits TV : Disney et Skydance, intéressés par les droits de la Ligue 1",
+     "lien": "https://www.lequipe.fr/Medias/Actualites/Droits-tv-disney-et-skydance-interesses-par-les-droits-de-la-ligue-1/1742752#at_medium=RSS_feeds",
+     "resume": "Les deux groupes américains Walt Disney Co. et Skydance Corp., envisagent de se positionner sur le prochain appel d'offres pour les droits audiovisuels du Championnat de France, sur la période 2027-2032.",
+     "date": "2026-11-10T15:15:35+01:00",
      "source": "",
-     "image": "https://medias.lequipe.fr/img-photo-png/-/1500000000833469/0-828-552-75/0cb67.png"
+     "image": "https://medias.lequipe.fr/img-photo-jpg/il-n-est-pas-impossible-que-disney-ou-skydance-diffuse-la-ligue-1-a-mounic-l-equipe/1500000002647397/0:0,2000:1333-828-552-75/b04e9.jpg"
+    },
+    {
+     "titre": "« Mon amour pour ce sport reste aussi fort que jamais » : le message à ses fans d'Esteban Ocon, écarté par Haas avant la fin de saison",
+     "lien": "https://www.lequipe.fr/Formule-1/Actualites/-mon-amour-pour-ce-sport-reste-aussi-fort-que-jamais-le-message-a-ses-fans-d-esteban-ocon-ecarte-par-haas-avant-la-fin-de-saison/1742750#at_medium=RSS_feeds",
+     "resume": "Dans un message publié sur ses réseaux sociaux mardi, Esteban Ocon, qui ne disputera pas la fin de saison avec Haas, a vivement remercié ses fans.",
+     "date": "2026-11-10T15:14:15+01:00",
+     "source": "",
+     "image": "https://medias.lequipe.fr/img-photo-jpg/esteban-ocon-ne-prendra-pas-part-a-la-fin-de-la-saison-de-f1-a-mounic-l-equipe/1500000002647395/0:0,2000:1333-828-552-75/90824.jpg"
     }
    ],
    "flux_utilise": "https://dwh.lequipe.fr/api/edito/rss?path=/"
@@ -254,64 +254,64 @@
    "sous_titre": "Les informations les plus importantes, partout dans le monde",
    "items": [
     {
-     "titre": "États-Unis : une procédure de destitution lancée contre le ministre de la Défense",
-     "lien": "https://www.france24.com/fr/vid%C3%A9o/20261110-%C3%A9tats-unis-une-proc%C3%A9dure-de-destitution-lanc%C3%A9e-contre-le-ministre-de-la-d%C3%A9fense",
-     "resume": "Une procédure de destitution du ministre américain de la Défense, Pete Hegseth, a été initiée lundi 9 novembre au Congrès par un député républicain, qui dénonce notamment la guerre en Iran et la manière dont ce ministre de Donald Trump l'a menée. Le député…",
-     "date": "2026-11-10T11:39:44+01:00",
-     "source": "france24.com",
-     "image": "https://s.france24.com/media/display/52a6cec0-dcf2-11f1-b362-5f54d898a954/w:1024/p:16x9/2026-11-06T012421Z-163758692-RC20IOALR7O5-RTRMADP-3-USA-TRUMP-HEGSETH.jpg",
-     "reprises": 8,
-     "score": 17.03
+     "titre": "EN DIRECT, guerre en Ukraine : Marco Rubio juge les pourparlers d’Abou Dhabi « très productifs »",
+     "lien": "https://www.lemonde.fr/international/live/2026/11/10/en-direct-guerre-en-ukraine-marco-rubio-juge-les-pourparlers-d-abou-dhabi-tres-productifs_6808609_3210.html",
+     "resume": "Les pourparlers de mardi, à Abou Dhabi, entre la Russie et l’Ukraine dans le cadre de la médiation américaine ont été « très productifs », a assuré le secrétaire d’Etat américain, mais il reste, selon lui, « beaucoup de travail à accomplir ».",
+     "date": "2026-11-10T15:43:42+01:00",
+     "source": "lemonde.fr",
+     "image": "https://img.lemde.fr/2026/11/10/688/0/8256/4128/644/322/60/0/a35be39_ftp-1-1w6fo0psnkzr-afp-d72k2fz.jpg",
+     "reprises": 11,
+     "score": 31.68
     },
     {
-     "titre": "Nvidia : le scandale d’espionnage « révèle la face cachée de la guerre froide technologique à laquelle se livrent les Etats-Unis et la Chine »",
-     "lien": "https://www.lemonde.fr/economie/article/2026/11/10/le-scandale-d-espionnage-chez-nvidia-revele-la-face-cachee-de-la-guerre-froide-technologique-a-laquelle-se-livrent-les-etats-unis-et-la-chine_6808810_3234.html",
-     "resume": "Jensen Huang, le dirigeant du géant de la tech, a reconnu avoir entretenu une liaison avec une femme d’affaires chinoise suspectée par les services secrets américains d’espionner pour le compte de Pékin, explique Isabelle Chaperon, chroniqueuse au service…",
-     "date": "2026-11-10T11:00:09+01:00",
+     "titre": "L’élu républicain Thomas Massie déclenche une procédure de destitution envers Pete Hegseth, secrétaire à la défense de Donald Trump",
+     "lien": "https://www.lemonde.fr/international/video/2026/11/10/l-elu-republicain-thomas-massie-declenche-une-procedure-de-destitution-envers-pete-hegseth-secretaire-a-la-defense-de-donald-trump_6808851_3210.html",
+     "resume": "L’élu accuse Pete Hegseth de crimes graves et délits mineurs concernant notamment la guerre en Iran, lancée par Donald Trump sans l’accord du Congrès.",
+     "date": "2026-11-10T15:42:25+01:00",
      "source": "lemonde.fr",
-     "image": "https://img.lemde.fr/2026/11/09/24/0/800/400/644/322/60/0/22eb630_ftp-1-znsn33bwwhmi-2026-11-09t115214z-950371170-rc2akoa0jnij-rtrmadp-3-nvidia-probe-ceo.JPG",
-     "reprises": 5,
-     "score": 11.86
+     "image": "https://img.lemde.fr/2026/11/09/605/0/7258/3629/644/322/60/0/bc3dbad_ftp-1-zuzah7l609uy-ff378942d3814f8cbbfb195a05d30af4-0-5189e0386ded42d3aa9466b6bb2a319e.jpg",
+     "reprises": 12,
+     "score": 28.35
     },
     {
-     "titre": "EN DIRECT, guerre en Ukraine : Volodymyr Zelensky espère que la Russie sera elle aussi déterminée à parvenir à une « paix véritable »",
-     "lien": "https://www.lemonde.fr/international/live/2026/11/10/en-direct-guerre-en-ukraine-tout-accord-sur-l-ukraine-doit-respecter-son-integrite-territoriale-affirment-europeens-et-americains_6808609_3210.html",
-     "resume": "L’Ukraine et ses partenaires sont « déterminés à travailler de manière constructive en faveur de mesures de désescalade, de l’élaboration de garanties de sécurité efficaces et de l’avènement d’une paix véritable », a écrit le président ukrainien, Volodymyr…",
-     "date": "2026-11-10T11:40:12+01:00",
+     "titre": "Cyberattaque contre des réfrigérateurs de supermarchés : l’Iran rejette « les accusations infondées » de la France",
+     "lien": "https://www.lemonde.fr/international/article/2026/11/10/cyberattaque-contre-des-refrigerateurs-de-supermarches-l-iran-rejette-les-accusations-infondees-de-la-france_6808797_3211.html",
+     "resume": "La France a officiellement attribué à une unité cyber relevant du corps des Gardiens de la révolution de la République islamique la responsabilité de la cyberattaque d’ampleur contre des contrôleurs de réfrigération de supermarchés en octobre.",
+     "date": "2026-11-10T14:34:05+01:00",
      "source": "lemonde.fr",
-     "image": "https://img.lemde.fr/2026/11/10/569/0/7320/3660/644/322/60/0/c846236_ftp-1-d87zdsykumhs-2026-11-10t084530z-7369598-rc2wkoajbl2x-rtrmadp-3-ukraine-crisis-talks.JPG",
-     "reprises": 5,
-     "score": 9.75
-    },
-    {
-     "titre": "Derrière la cyberattaque contre les frigos de supermarchés, l’Iran et l’unité cyber Shahid Kaveh des gardiens de la révolution",
-     "lien": "https://www.lemonde.fr/pixels/article/2026/11/10/derriere-la-cyberattaque-contre-les-frigos-de-supermarches-l-iran-et-l-unite-cyber-des-gardiens-de-la-revolution_6808819_4408996.html",
-     "resume": "L’Etat français, qui accuse Téhéran d’être à l’origine de l’attaque de la mi-octobre, a convoqué l’ambassadeur iranien à Paris. Cette unité est connue pour ses attaques contre les systèmes industriels.",
-     "date": "2026-11-10T11:30:17+01:00",
-     "source": "lemonde.fr",
-     "image": "https://img.lemde.fr/2026/10/12/500/0/6000/3000/644/322/60/0/c291890_ftp-1-9kwosdfuml6x-2026-10-12t154034z-1680256209-rc2q1oaaopie-rtrmadp-3-france-cyberattack.JPG",
-     "reprises": 4,
-     "score": 9.42
-    },
-    {
-     "titre": "En Turquie, six mandats d’arrêt au lendemain d’une explosion meurtrière dans une usine",
-     "lien": "https://www.lemonde.fr/international/article/2026/11/10/en-turquie-six-mandats-d-arret-au-lendemain-d-une-explosion-meurtriere-dans-une-usine_6808830_3210.html",
-     "resume": "L’accident, survenu lors du remplacement d’une chaudière dans une usine près d’Izmir, a provoqué la mort d’au moins 17 personnes. Le président turc a déclaré que « l’éventuelle existence de négligences et l’identité des responsables » seraient établies.",
-     "date": "2026-11-10T13:02:51+01:00",
-     "source": "lemonde.fr",
-     "image": "https://img.lemde.fr/2026/11/09/375/0/4500/2250/644/322/60/0/20e2374_ftp-1-mv6tzyfdvjsi-afp-d6ya2nr.jpg",
+     "image": "https://img.lemde.fr/2026/10/13/616/0/6000/3000/644/322/60/0/443cb1e_ftp-1-8ewc1fr8bm04-5340344-01-06.jpg",
      "reprises": 3,
-     "score": 7.59
+     "score": 10.0
     },
     {
-     "titre": "Donald Trump dit voir \"un élan positif\" vers un accord avec l'Iran, après sa rencontre avec le Premier ministre qatarien",
-     "lien": "https://www.franceinfo.fr/monde/iran/guerre-entre-les-etats-unis-israel-et-l-iran/donald-trump-dit-voir-un-elan-positif-vers-un-accord-avec-l-iran-apres-sa-rencontre-avec-le-premier-ministre-qatari_8275775.html#xtor=RSS-3-%5Bgeneral%5D",
-     "resume": "\"Arrêtez de fabriquer de fausses informations à propos de discussions imaginaires\", a rétorqué le secrétaire du Conseil suprême de sécurité nationale iranien.",
-     "date": "2026-11-10T08:33:20+01:00",
-     "source": "franceinfo.fr",
-     "image": "https://www.franceinfo.fr/pictures/ZG9yYeO537lvlgSQbbhcx4QSfPE/0x0:1024x576/432x243/filters:format(jpg)/2026/11/10/6af2b23a773b2066536974.jpg",
-     "reprises": 4,
-     "score": 6.71
+     "titre": "Israël : le Parlement tient sa première session, tandis que Gadi Eisenkot promet de former un nouveau gouvernement « le plus vite possible »",
+     "lien": "https://www.lemonde.fr/international/article/2026/11/10/israel-le-parlement-tient-sa-premiere-session-tandis-que-gadi-eisenkot-promet-de-former-un-nouveau-gouvernement-le-plus-vite-possible_6808849_3210.html",
+     "resume": "Le premier enjeu pour les nouveaux députés sera l’élection du président du Parlement, poste occupé pour le moment par Amir Ohana, membre du Likoud, le parti de Benyamin Nétanyahou. Plusieurs organisations d’extrême droite ont appelé à manifester devant le…",
+     "date": "2026-11-10T15:32:46+01:00",
+     "source": "lemonde.fr",
+     "image": "https://img.lemde.fr/2026/11/10/680/0/8163/4081/644/322/60/0/e961bc2_ftp-1-mieyk544c4af-afp-d72b3j6.jpg",
+     "reprises": 3,
+     "score": 6.9
+    },
+    {
+     "titre": "Argentine: plus de deux millions de personnes réunies à Buenos Aires pour une messe du pape Léon XIV",
+     "lien": "https://www.rfi.fr/fr/am%C3%A9riques/20261110-argentine-plus-de-deux-millions-de-personnes-r%C3%A9unies-%C3%A0-buenos-aires-pour-une-messe-du-pape-l%C3%A9on-xiv",
+     "resume": "Au deuxième jour de sa visite en Argentine, le pape Léon XIV a célébré, lundi 9 novembre, une messe en plein air devant plus de deux millions de personnes rassemblées à Buenos Aires. Le gouvernement argentin avait décrété cette journée fériée pour permettre…",
+     "date": "2026-11-10T05:04:48+01:00",
+     "source": "REUTERS - Agustin Marcarian",
+     "image": "https://s.rfi.fr/media/display/f1d50a02-dc89-11f1-83a7-695cb59fade5/w:1024/p:16x9/2026-11-09T154855Z-1828944766-RC2EKOAYR1AD-RTRMADP-3-POPE-LATAM-ARGENTINA.jpg",
+     "reprises": 3,
+     "score": 4.94
+    },
+    {
+     "titre": "Guerre en Ukraine : 400 000 morts russes ?",
+     "lien": "https://www.france24.com/fr/vid%C3%A9o/20261110-guerre-en-ukraine-400-000-morts-russes",
+     "resume": "400 000. C'est le nombre de soldats russes qui auraient été tués depuis le début de la guerre en Ukraine. Après plus de quatre ans de guerre en Ukraine, le bilan reste difficile à établir. Moscou et Kiev communiquent très peu sur leurs pertes militaires.Mais…",
+     "date": "2026-11-10T13:27:21+01:00",
+     "source": "france24.com",
+     "image": "https://s.france24.com/media/display/087102f8-dd01-11f1-9e1f-695cb59fade5/w:1024/p:16x9/ukraine-morts-russie.jpg",
+     "reprises": 2,
+     "score": 3.61
     }
    ],
    "a_traduire": []
@@ -322,24 +322,34 @@
    "sous_titre": "Modèles, entreprises, régulation, recherche",
    "items": [
     {
-     "titre": "EN EXCLUSIVITÉ-Le projet d'introduction en bourse d'Anthropic, d'un montant de près de 70 milliards de dollars",
-     "lien": "https://news.google.com/rss/articles/CBMi5AJBVV95cUxNSWRIVzRjUFJxdVJyZ1Q0eVJ6UzBQZGFmOGFRT2V0c1Fad09LNjh1bWpCLXF0ZDg2Q1d4M2VwT01Nc1J3anMwWks5bTEwSWNlZWtUMllJWllYcG1MMFRLZm4wY1U5d0FFRmRINXZwMVZDc0VZSmEyUFpCVUxjZHo1VHdRTWktTzR0UFU4RUs1clVpaDIwWG8xMjBPN1FNZ203ZjZYek80aXBydWhZOGZSZlNUdDZPYks0TkdNVTI5ekxiVDZJLXR4amE4aEpGWkNhV2w2bGhXcG1Pb0lKY0Z2QzQxMng1SktSMWNwRzJhTm04Tm1MU2xWRHFpaHNGdTE5dG1Yc0tJNlA3UlZjbG1SeUN3UU1VeXgtbzNRNVQ5RU9WNUl6VlhCUmxhb0hTRHJKdU5UR1JmcGZJZ1lmOWJRS0cwcHkxUElUVktkTUNRRnhGMEV4LWFQQlpXSFVYaVVJV3NaNNIB6gJBVV95cUxNWlhfWmg5NFhFY0ZRdlNOa0daS3VBWmFucTFURjVJWkJPVG9ydG0yOVZpMTRxajN1SERsdnBIdURkeVpTSkVoWHdGUl9sSW81ci1LbVZOSDNDdDZadHRMWFFQODYtSWNaWTZQZDZxWXkyeGlQT2RQaHZQTGhEOVFFZ1BreU5NUHBBVEU3dGotN0RjNzQxQVQtby0tMGNMZ3Q2WXpITE5jQWRJSC0xM1lTQndHN3IyajVyeHI2OGZZekdPSFdwMm42VTZYbXk1bjV4LW5BR3N6cFZSOG1YNVJyeDc3bVJqdjlacEtYV25XOHIzTElQaGU0bTA4emNVbG5CckkwZGJfQlU2REljWWR2MWdJVGZ3S0t4QV9qcVFlZ2lYdXlIUXo4M1c0a2ZiZTMxMm11TUpfY25scV9UbHpEX2VCU2ZvWGNzVDkxWXNPNnJfbzhFaVdvVGZReVpjOVNNbXFpWEprbDhFZw?oc=5",
-     "resume": "",
-     "date": "2026-11-10T05:14:30+01:00",
-     "source": "Boursorama",
+     "titre": "IA : Anthropic maintient le timing de son entrée en Bourse et vise jusqu’à 1 400 milliards de dollars de valorisation",
+     "lien": "https://news.google.com/rss/articles/CBMikgJBVV95cUxOREdJY3dQR2NULVgtNlVoSURKdVJ0aWRWaHNIaFRBRU82emdmcjNyYWlkRUlHM0xraDJMeUZZaXVQRnRwTDZTa285RVhVY3VOc3pnWEQwdHJmbzFNaWJycTduSDZXdmgzMjE2Vk83eEZCZ2lvQlFlZGpydkF1R0ZrOVZGbTZLV1drNURuWk5KSDJaWWZOZlRROXFmTWJYNlB3MFBrT3RlOVFiUU5aUzljLVFwSUUxODF3em85Zk1lOVJrY2VRWTVkQmNMcF9mUzJUVHluUVp4M2F0V2JmbGtkSkxhTGwzam5sNTBuRkdmQkJwS1NydXUwNlRPMXZ3Q21VTEExUTh3NFc2RTE4VmcwNGJn?oc=5",
+     "resume": "Pour lancer Claude Fable 5.2, Anthropic a mis 1 000 agents d’IA au travail sur le dernier théorème de Fermat. En 30 heures, ils ont traduit sa démonstration dans un langage qu’un ordinateur peut vérifier ligne à ligne. Ce n’est pas une nouvelle preuve, mais…",
+     "date": "2026-11-10T15:38:23+01:00",
+     "source": "Le Monde.fr",
      "image": null,
-     "reprises": 9,
-     "score": 32.28
+     "reprises": 20,
+     "score": 76.11
     },
     {
      "titre": "Anthropic dévoile Fable 5.2 et Mythos 5.2, des modèles frontière encore plus performants, mais gourmands",
      "lien": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxOOFhSM0JjUS14TlUyQ0lOZGJ1VmliWXBnZ3daazVDMXFNRERTekZXT3F6VTFXeEltY0VYOHlYMHNaMHZjUjNwQ3hqeDdWaDYxWldTbkpFcUJsOXowbWp1QU8xTW1WendtWktVTXJpN1FqM0xBdE9BNEM0ZzA1RlRWT3FFNG5qVjFxOW1NT2lGX1Jza3N5SUt0M2JMTnBKajJ2T1FicWo3Smw3UTlva0F2X1F6aDlkS2VNSGEtdFVJdDdfd1BSdEJFc21kOEdfRGxvcE5rQjJZU3FTM1J1c3F1UXNKWTF6eEhTZi1VeDZ0bXNNODA?oc=5",
-     "resume": "Pour lancer Claude Fable 5.2, Anthropic a mis 1 000 agents d’IA au travail sur le dernier théorème de Fermat. En 30 heures, ils ont traduit sa démonstration dans un langage qu’un ordinateur peut vérifier ligne à ligne. Ce n’est pas une nouvelle preuve, mais…",
+     "resume": "Anthropic says the new models \"show improvements in areas like coding, reasoning, and vision,\" as well as in communicating more clearly with users.",
      "date": "2026-11-10T11:24:00+01:00",
      "source": "MacGeneration",
      "image": null,
-     "reprises": 12,
-     "score": 24.95
+     "reprises": 6,
+     "score": 11.19
+    },
+    {
+     "titre": "Intelligence artificielle : face à l’« affaiblissement cognitif » et le « risque de dépendance » émotionnelle, des experts remettent 18 propositions à Macron pour protéger les utilisateurs",
+     "lien": "https://news.google.com/rss/articles/CBMi_AJBVV95cUxNOEVTTXR3ZlVQdEE5T2g3RGJqQ2E2SVRVSlFoQWplMXZpczNocnplOWF2YVMtWWdNZGxNNGR1MUR4akxNMFFxUXpJOXdrZ0lKdkZaUFFHc2ViVVVrVlRjU0ktN0ZlaU5NcDFWVlUtb0pDMlZNRU5EekJQOEhZQkM0a2NXT2FFa2l5eXJILXhWUi1ESkVxQWZKbWFMNXlWNFU3dGd6MExsZ09pTlBnbS1mV3Y4S09LX0xMQTduUEh0RmFHeDhORFJBWnBtZjBCanRIS1d6WUMxTFBBQzRPOW1DeGtvdV9BbUotV3lTeWZKVmxWblFiR2xSMUk5aEh2WTd5VExzYjVXLTZ0T2ItMC1DNTB3ampRWXhHNEZJLTE1a0d0cHV5eHNPVTYxbmhPNVZ1OFZ2RDZFbGtzd2I3SGpydHFxUi1lQWMtOU1sRUVqZmYwcGVVbXdzNGRTdzhCSUtVQld5RHgzLWY3RkNuVlYxZ1B2NXVGWElyOGY0Yg?oc=5",
+     "resume": "",
+     "date": "2026-11-10T08:36:19+01:00",
+     "source": "Sud Ouest",
+     "image": null,
+     "reprises": 5,
+     "score": 8.42
     },
     {
      "titre": "Impôts: le fisc va utiliser l'intelligence artificielle pour repérer les constructions non déclarées dans votre jardin",
@@ -349,79 +359,69 @@
      "source": "RMC",
      "image": null,
      "reprises": 4,
-     "score": 7.53
+     "score": 7.09
     },
     {
-     "titre": "Anthropic prévoit de lever jusqu'à $64,4 mds lors de son IPO",
-     "lien": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOWGZYejk1QjlrTFJjdkZXNG8zd0gzbXZ3c0ZHLTlLZnBZUmREcmp4a0FvMGNlRzZYODRGLWhUUG1zSVRvbGRWaHZwUFpjMTNHeFU4eHRiaUc5NmlHVkg0Q1RZYmFyckhCM2F3VDhEUGdvcEJWUllwT01mRTh5M1NwUGxSaTN1WmljbEU5WVpaNm5ac3VRZVJZZzZaVW1NVFR0a3JWQmQwWTlpU0pTcjJ2bUtPekRNd3IwLTlESw?oc=5",
-     "resume": "",
-     "date": "2026-11-10T12:24:05+01:00",
-     "source": "Zonebourse",
+     "titre": "Everything we know so far about the Nvidia spy scandal targeting CEO Jensen Huang",
+     "lien": "https://www.theverge.com/ai-artificial-intelligence/1030422/nvidia-jensen-huang-ai-china-alice-huang",
+     "resume": "The leather-jacketed CEO of Nvidia, Jensen Huang, has acknowledged an affair with Megaspeed exec Alice Huang, spurring an investigation by his company and intense discussions worldwide. Recent reporting noted that since last year, US intelligence reports had…",
+     "date": "2026-11-10T00:07:59+01:00",
+     "source": "theverge.com",
      "image": null,
-     "reprises": 4,
-     "score": 7.33
-    },
-    {
-     "titre": "\"Ce n'est pas parce que c'est de l'IA que ce doit être le Far West\": Emmanuel Macron estime qu'il faut \"interdire\" l'IA là où c'est un \"risque\" pour les enfants, et appelle à une collaboration internationale",
-     "lien": "https://news.google.com/rss/articles/CBMiiANBVV95cUxOeFVkUFJWbktSWW9sci1LdnV4YlVxMFRISklXU0F1RUZvaFhfdm1YS0dieDZGeDRadlJZU0hVWnlGdnpvMHJqdU9OTkoya0NxQmZOQU1malRya01jNjY2MnBoT1pqNW9yb3g5Ry1zNDJielBuOHQyNG1tWWtxNktrRUhoQ3J0UmlKNDhFaGtrcVFfXzVteU9taldQNU9OLUlEb0l4SUtOa0lBQVRWUEtoa0JQSnE4QUR2OFJSR2ltanJqbkN1UmtybGF4TXh3QUY3enZSSE0zUWN6TU5pa2NoN3BRcGVaWFlTUHNOZi1oS2lXRGpOTHBIakphdlozNWxRRGlFQUhIMEotc1VWXy0yYi1mekZWR25JZWlNZEVhMUVIRXZwZG9oSERoSF96bm5wbGx3OVlKLTVYSXpLYVV4bFlHYi16eExCWlpPUFVPb1Q1bnpBcUFMQUliSEJTMTBfTURGZ3lud2wxNlVNSmZmS1dXRUV1R1VGRFB1SU95aURfQ2NIZm0xbw?oc=5",
-     "resume": "",
-     "date": "2026-11-10T11:20:48+01:00",
-     "source": "BFM",
-     "image": null,
-     "reprises": 4,
-     "score": 6.67
+     "reprises": 2,
+     "score": 3.37
     }
    ],
    "a_traduire": [
     {
-     "titre": "Anthropic reportedly plans to move forward with IPO plans",
-     "lien": "https://techcrunch.com/2026/11/09/anthropic-reportedly-plans-to-move-forward-with-ipo-plans/",
-     "resume": "The AI company is expected to set its valuation range this week, the Wall Street Journal reported.",
-     "date": "2026-11-10T02:27:12+01:00",
+     "titre": "Adobe brings AI agents and new creative tools to Photoshop, Premiere, and Firefly",
+     "lien": "https://techcrunch.com/2026/11/10/adobe-adds-more-ai-to-its-products-and-launches-an-mcp/",
+     "resume": "Adobe is taking on Figma with a new prototype builder tool in Firefly.",
+     "date": "2026-11-10T15:05:10+01:00",
      "source": "techcrunch.com",
      "image": null,
      "reprises": 1,
-     "score": 1.41
+     "score": 1.59
     },
     {
-     "titre": "David Ellison says AI could be the ‘biggest creative unlock in modern history’",
-     "lien": "https://www.theverge.com/entertainment/1030510/paramount-skydance-david-ellison-ai",
-     "resume": "During Paramount Skydance's latest earnings call, CEO David Ellison said \"it's hard to imagine\" AI won't have a bigger impact on the film industry than CGI. In response to a question about the company's outlook for AI, Ellison said: \"I think when you zoom…",
-     "date": "2026-11-10T01:28:49+01:00",
+     "titre": "Hands-on with Ring’s new AI drone camera for your home",
+     "lien": "https://www.theverge.com/tech/1030601/ring-drone-cam-hands-on-price-release-date-ai-pilot",
+     "resume": "Ring is finally shipping a flying indoor drone camera. For real this time. The Ring Drone Cam will arrive on January 27th, 2027, for $249.99, Ring founder Jamie Siminoff said at a launch event in New York City this week. If it does actually ship, it will…",
+     "date": "2026-11-10T14:30:00+01:00",
      "source": "theverge.com",
      "image": null,
      "reprises": 1,
-     "score": 1.39
+     "score": 1.58
     },
     {
-     "titre": "A short seller flagged Nvidia CEO’s ties to a suspected Chinese spy six months before the scandal",
-     "lien": "https://techcrunch.com/2026/11/09/a-short-seller-flagged-nvidia-ceos-ties-to-a-suspected-chinese-spy-six-months-before-the-scandal/",
-     "resume": "Six months before Nvidia's spy scandal erupted, Culper Research was already questioning Jensen Huang's unusually close relationship with a Chinese executive.",
-     "date": "2026-11-09T23:46:09+01:00",
+     "titre": "Anthropic sets IPO price range of $70 to $78 per share to reach an implied valuation of $1.404 trillion",
+     "lien": "https://techcrunch.com/2026/11/10/anthropic-sets-ipo-price-range-of-70-to-78-per-share-to-reach-an-implied-valuation-of-1-404-trillion/",
+     "resume": "The company could end up being worth a hefty $1.404 trillion if its shares list at the top of the price range, on a fully diluted basis.",
+     "date": "2026-11-10T15:01:39+01:00",
      "source": "techcrunch.com",
      "image": null,
      "reprises": 1,
-     "score": 1.23
+     "score": 1.46
     },
     {
-     "titre": "The future of AI hinges on… Jensen Huang’s sex life?",
-     "lien": "https://www.theverge.com/ai-artificial-intelligence/1029990/jensen-huang-the-spy-who-loved-me",
-     "resume": "I would prefer that these people's sex lives were none of my business but I guess we have to talk about Jensen Huang and the National Security Incident. Who could have guessed that the guy who was out here signing titties might not have great judgment about…",
-     "date": "2026-11-09T18:36:08+01:00",
-     "source": "theverge.com",
-     "image": null,
-     "reprises": 1,
-     "score": 1.15
-    },
-    {
-     "titre": "The race is on to sue Nvidia",
-     "lien": "https://techcrunch.com/2026/11/09/the-race-is-on-to-sue-nvidia/",
-     "resume": "Nvidia’s stock slid more than 4% after its board opened an investigation into Jensen Huang’s relationship with a suspected Chinese spy, and one securities law expert says the company’s earlier insistence that it was all “normal” could turn into a very…",
-     "date": "2026-11-09T23:23:42+01:00",
+     "titre": "After challenging Google’s Android with Cyanogen, its co-founder takes aim at Windows for AI era",
+     "lien": "https://techcrunch.com/2026/11/10/after-challenging-googles-android-with-cyanogen-its-co-founder-takes-aim-at-windows-for-ai-era/",
+     "resume": "Kora is set to launch as a free-to-use alternative to Windows, targeting users who rely heavily on AI models and agents.",
+     "date": "2026-11-10T15:00:00+01:00",
      "source": "techcrunch.com",
      "image": null,
      "reprises": 1,
-     "score": 1.13
+     "score": 1.36
+    },
+    {
+     "titre": "Spotify’s AI DJ gets new voices, personalities, and an option for less chatter",
+     "lien": "https://techcrunch.com/2026/11/10/spotifys-ai-dj-gets-new-voices-personalities-and-an-option-for-less-chatter/",
+     "resume": "Spotify Premium users can now customize their AI DJ with new voices with different personalities, or turn off the commentary between songs.",
+     "date": "2026-11-10T15:00:00+01:00",
+     "source": "techcrunch.com",
+     "image": null,
+     "reprises": 1,
+     "score": 1.28
     }
    ]
   },
@@ -437,20 +437,9 @@
      "date": "2026-11-10T09:20:04+01:00",
      "source": "Ouest-France",
      "image": null,
-     "reprises": 5,
-     "score": 13.46,
+     "reprises": 6,
+     "score": 15.71,
      "libertes": false
-    },
-    {
-     "titre": "Liberté d'expression",
-     "lien": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNaFlwaU1TeVFhSmFBVTYwOUdWbEJyUV8tcUhINFQ1RU1NUzhGZElSU2hLRk1CV3FoaGJqVnRFUlRWTEVSUWVwbWxXak15SUJGZVg2eE9tN3l5eTFHV0g2b0VOYW5kZUpmMkRJdkJfZ3hHaWpqMkRBU0R1QWp1cnc4M0pHVUdGMkFSMWow?oc=5",
-     "resume": "",
-     "date": "2026-11-10T13:20:11+01:00",
-     "source": "TF1 Info",
-     "image": null,
-     "reprises": 3,
-     "score": 6.76,
-     "libertes": true
     },
     {
      "titre": "Certificats verts: la Cour de cassation rejette le recours de BeProsumer",
@@ -460,7 +449,7 @@
      "source": "L'Echo",
      "image": null,
      "reprises": 2,
-     "score": 6.29,
+     "score": 6.24,
      "libertes": false
     },
     {
@@ -471,29 +460,40 @@
      "source": "https://horticulture-abadie-pyrenees.com/",
      "image": null,
      "reprises": 2,
-     "score": 4.73,
+     "score": 4.65,
      "libertes": false
     },
     {
-     "titre": "Dans le Val-de-Marne, la plainte d'une collègue bouleverse la carrière d'un professeur : l'affaire remonte jusqu'au Conseil d'État",
-     "lien": "https://news.google.com/rss/articles/CBMimAJBVV95cUxQc2xIUjZWR25uLW1HZEpZYU5VUkhrVU95ZlhqdjBmUVlHMFV2S21qampadElia1Z5RnlIRmRLb2RIbW01NUdVZnV5QVN4NUtzQkF0ZVRHZ3F1TWdib1Q0YkJXQ1lOckNnLTdOT0VuRjdtaHRJSlRkb2pFc3pwbElrV0tqOW9BUVp5OVItYlBoZ29hTWJkZFEzQVkwV05ndmhabDYtVktYZ1BJNjMyTHZHODVta1FkMlF3Y0RZbVIxQm9tcFdQWGlUNmN0anlvSThmbFkzQUNGR0o4WlAydGRWXzEwLXE3Yzd4Rm5fQ1llXzNGWmpwQ1YzNndsYzNaYnN4aTkxcFVldVpfdk12dGNYZmZaMS1sM0Nv?oc=5",
+     "titre": "Liberté d'expression",
+     "lien": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNaFlwaU1TeVFhSmFBVTYwOUdWbEJyUV8tcUhINFQ1RU1NUzhGZElSU2hLRk1CV3FoaGJqVnRFUlRWTEVSUWVwbWxXak15SUJGZVg2eE9tN3l5eTFHV0g2b0VOYW5kZUpmMkRJdkJfZ3hHaWpqMkRBU0R1QWp1cnc4M0pHVUdGMkFSMWow?oc=5",
      "resume": "",
-     "date": "2026-11-08T08:04:01+01:00",
-     "source": "Actu.fr",
+     "date": "2026-11-10T14:50:47+01:00",
+     "source": "TF1 Info",
      "image": null,
      "reprises": 2,
-     "score": 2.53,
-     "libertes": false
+     "score": 4.25,
+     "libertes": true
     },
     {
-     "titre": "Veille juridique : le Conseil constitutionnel censure l’interdiction des réseaux sociaux aux moins de 15 ans",
-     "lien": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQNDlqMzBsR0ZZSGNkQ08zeW0tZnBpUi14cnpNTFI4RUF0NXVmbl9oa2t0c2xMRF9SaWY3Ym1ZYkZwMDhnUUFVMXZfS1hSdzZGaDQ1N1Z0N0s0VkNYVXZpdW13SjVzM0pqT2NwSVM5MVpONVQ2aFdZejBYSmM4OHp4dW5SeHdTbE1CdFhvVTlOSVJRRXlYenpMVGl2UnRiWGF0U3V6STdDYUloRE1iSzZZN0phUFhvWU1EaW9ybnh3?oc=5",
+     "titre": "Taxe de séjour : la Cour de cassation saisira le Conseil constitutionnel dans le conflit entre Airbnb et l’île d’Oléron",
+     "lien": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1QUG5NRG5WcGxndnNycnBzSGlzMEhYYmZHNVZlanE1dngyTDc4T1lUSmZFNHRkZUhuRUxnY0xRV0c3SklTLXNXbFRRZnFEWnE0RnlkQjVORjA4eGNUdjFPdFlodlhDRmNoRUtXR2ln?oc=5",
      "resume": "",
-     "date": "2026-11-09T14:32:08+01:00",
-     "source": "Major Prépa",
+     "date": "2026-11-08T14:13:50+01:00",
+     "source": "https://horticulture-abadie-pyrenees.com/",
      "image": null,
-     "reprises": 1,
-     "score": 1.4,
+     "reprises": 2,
+     "score": 3.46,
+     "libertes": true
+    },
+    {
+     "titre": "La liberté d’expression au poteau",
+     "lien": "https://news.google.com/rss/articles/CBMigAFBVV95cUxONm1lSUVzV09jR0UwVkF3M0haMEVuclNXVFlTLUxnSXoxV3ZuSy1CWkNmNEpQSnA0cEkycHdxZWwyNTdyMl84bHlDRmVqckRoRVNYWnB2NE1fOXkxUkdzdDdtQ1Q2TGE3WldHVmdwVnhoQzNIUmc2ZTYtYk9YQWJUUg?oc=5",
+     "resume": "",
+     "date": "2026-11-10T10:55:52+01:00",
+     "source": "Charlie Hebdo",
+     "image": null,
+     "reprises": 2,
+     "score": 3.15,
      "libertes": true
     }
    ],
