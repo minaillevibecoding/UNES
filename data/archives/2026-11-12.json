@@ -1,0 +1,503 @@
+{
+ "date": "2026-11-12",
+ "genere": "2026-11-12T14:14+01:00",
+ "journaux": [
+  {
+   "id": "figaro",
+   "nom": "Le Figaro",
+   "couleur": "#163860",
+   "une": {
+    "fichier": "unes/figaro.jpg",
+    "date": "2026-11-12",
+    "source": "https://static.milibris.com/thumbnail/issue/28dac07f-e913-4d31-9e54-c2cd242a425f/front/catalog-cover-large.jpeg"
+   },
+   "articles": [
+    {
+     "titre": "Tirs de mortiers, incendies, violences sur les proviseurs… Le mouvement lycéen se radicalise alors que les discussions sont dans l’impasse",
+     "lien": "https://www.lefigaro.fr/actualite-france/mortiers-tires-a-l-interieur-des-lycees-incendies-violences-sur-les-proviseurs-le-mouvement-lyceen-se-radicalise-alors-que-les-discussions-sont-dans-l-impasse-20261112",
+     "resume": "Cibles directes des violences, les proviseurs appellent l’État à prendre ses responsabilités. Depuis le début du mouvement, 245 personnels ont été blessés, indique le ministre de l’Éducation qui dénonce une « violence inouïe ».",
+     "date": "2026-11-12T08:17:14+01:00",
+     "source": "",
+     "image": "https://i.f1g.fr/media/cms/3000x2000_crop/2026/11/11/d200af2f680ba1ec6f2bae4251e88c8dc6fb7e16f60130cbc1c61ead5f7df2f6.jpg"
+    },
+    {
+     "titre": "Montpellier : des incendies volontaires dans deux lycées, une personne interpellée",
+     "lien": "https://www.lefigaro.fr/actualite-france/montpellier-des-incendies-volontaires-dans-deux-lycees-une-personne-interpellee-20261112",
+     "resume": "Des départs de feu ont été provoqués jeudi dans les établissements Pierre-Mendès-France et Jean-Mermoz, notamment à l’intérieur de l’un d’eux. Une personne a été interpellée.",
+     "date": "2026-11-12T13:15:39+01:00",
+     "source": "",
+     "image": "https://i.f1g.fr/media/cms/3000x2000_crop/2026/11/12/f20deb0b5156ab18cee338648454863aed9737fc2e5264e52e5e8cdadb5d3d3c.jpg"
+    },
+    {
+     "titre": "Crise étudiante : Valérie Pécresse propose de déployer «en urgence» des caméras dans 50 lycées d’Île-de-France",
+     "lien": "https://www.lefigaro.fr/politique/crise-etudiante-valerie-pecresse-propose-de-deployer-en-urgence-des-cameras-dans-50-lycees-d-ile-de-france-20261112",
+     "resume": "La présidente de la région Île-de-France a décliné, jeudi 12 novembre sur RTL, une série de mesures pour répondre aux dégradations dans les lycées. Une suspension des «aides facultatives de la région» pour les mis en cause est aussi envisagée.",
+     "date": "2026-11-12T11:30:46+01:00",
+     "source": "",
+     "image": "https://i.f1g.fr/media/cms/orig/2026/11/12/e1ec9f3e905de49c21564676a96d6d58d25de799ceceba6fe4e76e1f79ca87f4.JPG"
+    },
+    {
+     "titre": "Le gouvernement souhaite une saisine «systématique» de la justice pour les actes délictueux près des lycées",
+     "lien": "https://www.lefigaro.fr/actualite-france/le-gouvernement-souhaite-une-saisine-systematique-de-la-justice-pour-les-actes-delictueux-pres-des-lycees-20261112",
+     "resume": "Le gouvernement fait état d’une «augmentation certaine du niveau de violence» malgré la reprise des cours dans 98% des établissements.",
+     "date": "2026-11-12T11:56:48+01:00",
+     "source": "",
+     "image": "https://i.f1g.fr/media/cms/orig/2026/11/12/4a5be44b6884928c3c80bdaba94e4b5e0e37c58a695e6777a7aa34a5fef481d0.JPG"
+    },
+    {
+     "titre": "Jordan Bardella a porté plainte pour faux et usage de faux après les accusations d’antisémitisme",
+     "lien": "https://www.lefigaro.fr/politique/jordan-bardella-porte-plainte-pour-faux-et-usage-de-faux-apres-les-accusations-d-antisemitisme-20261112",
+     "resume": "Le patron du RN conteste l’authenticité de textes antisémites que Mediapart lui attribue. Il avait déjà engagé une procédure en diffamation contre le média.",
+     "date": "2026-11-12T13:42:27+01:00",
+     "source": "",
+     "image": "https://i.f1g.fr/media/cms/orig/2026/11/12/3f0bc302ebdf99234cd249f3e2b947bebcaf97bd4985ba451afbe1726f9a67c3.JPG"
+    },
+    {
+     "titre": "« Suspendre momentanément sa conscience critique » : on a lu le manuel d’insurrection venu du Brésil qui inspire les Insoumis",
+     "lien": "https://www.lefigaro.fr/vox/politique/suspendre-momentanement-son-esprit-critique-on-a-lu-le-manuel-d-insurrection-venu-du-bresil-qui-inspire-les-insoumis-20261111",
+     "resume": "ANALYSE - Le Mini-Manuel d’insurrection informationnelle, né de la victoire de Lula au Brésil, séduit la gauche Insoumise par une promesse : gagner la bataille du web en cessant d’interagir avec la droite… et en mettant au passage son libre arbitre en veille.",
+     "date": "2026-11-11T10:33:20+01:00",
+     "source": "",
+     "image": "https://i.f1g.fr/media/cms/3000x2001_crop/2026/11/10/944076704df57924539f32548557f064784e87f7e410b347fae4109e72d034b6.jpg"
+    }
+   ],
+   "flux_utilise": "https://www.lefigaro.fr/rss/figaro_actualites.xml"
+  },
+  {
+   "id": "monde",
+   "nom": "Le Monde",
+   "couleur": "#111111",
+   "une": {
+    "fichier": "unes/monde.webp",
+    "date": "2026-11-11",
+    "source": "https://www.frontpages.com/t/2026/11/10/le-monde-233322o1d@2x.webp"
+   },
+   "articles": [
+    {
+     "titre": "EN DIRECT, présidentielle 2027 | Suivez le grand oral de huit candidats sur les services publics : Eric Zemmour annonce vouloir supprimer 800 000 postes de fonctionnaires",
+     "lien": "https://www.lemonde.fr/politique/live/2026/11/12/en-direct-presidentielle-2027-suivez-le-grand-oral-de-huit-candidats-sur-les-services-publics-raphael-glucksmann-souhaite-une-refonte-et-un-sauvetage-de-l-ecole-publique-dans-son-ensemble_6809070_823448.html",
+     "resume": "Gabriel Attal a défendu la sélection à l’université et estime que Parcoursup peut être amélioré. Fabien Roussel veut, lui, recruter 500 000 fonctionnaires en cinq ans, tandis que Raphaël Glucksmann souhaite une « refonte et un sauvetage de l’école publique…",
+     "date": "2026-11-12T12:50:45+01:00",
+     "source": "",
+     "image": "https://img.lemde.fr/2026/11/12/485/0/3000/1500/644/322/60/0/dce029f_upload-1-udeh7zjtezmo-gj3a2386.jpg"
+    },
+    {
+     "titre": "« La prison, ça a tué ma vie » : l’échec majeur des établissements pénitentiaires pour mineurs",
+     "lien": "https://www.lemonde.fr/m-le-mag/article/2026/11/12/la-prison-ca-a-tue-ma-vie-l-echec-majeur-des-etablissements-penitentiaires-pour-mineurs_6809044_4500055.html",
+     "resume": "En septembre, deux adolescents se sont suicidés dans des établissements pénitentiaires pour mineurs. Ces drames interviennent dans un contexte de crise pour ces structures, créées en 2002 afin de concilier incarcération et éducation. Un récent rapport de…",
+     "date": "2026-11-12T05:00:10+01:00",
+     "source": "",
+     "image": "https://img.lemde.fr/2026/11/09/423/0/1000/500/644/322/60/0/b764e97_ftp-1-tngt9jauiuwr-451361-3528445.jpg"
+    },
+    {
+     "titre": "Mobilisation sociale : la coordination des « gilets jaunes », les organisations de jeunesse et certains syndicats appellent à un « acte V » samedi",
+     "lien": "https://www.lemonde.fr/societe/article/2026/11/12/mobilisation-sociale-la-coordination-des-gilets-jaunes-les-organisations-de-jeunesse-et-certains-syndicats-appelent-a-un-acte-v-samedi_6809098_3224.html",
+     "resume": "La carte collaborative de la coordination des « gilets jaunes » recensait, jeudi matin, 164 manifestations prévues dans toute la France pour la journée de samedi.",
+     "date": "2026-11-12T12:59:10+01:00",
+     "source": "",
+     "image": "https://img.lemde.fr/2026/10/18/382/0/3000/1500/644/322/60/0/1c5edf7_upload-1-tn92x1cmvvb6-asurp-manif17oct-108592.jpg"
+    },
+    {
+     "titre": "Le milliardaire conservateur Pierre-Edouard Stérin sera jugé en janvier pour son refus répété de venir devant une commission d’enquête de l’Assemblée",
+     "lien": "https://www.lemonde.fr/societe/article/2026/11/12/le-milliardaire-conservateur-pierre-edouard-sterin-sera-juge-en-janvier-pour-son-refus-repete-de-venir-devant-une-commission-d-enquete-de-l-assemblee_6809094_3224.html",
+     "resume": "M. Stérin, homme d’affaires proche de l’extrême droite, avait refusé à deux reprises de se rendre à des convocations de la commission d’enquête de l’Assemblée sur « l’organisation des élections en France ». Il devait s’expliquer devant les députés sur son…",
+     "date": "2026-11-12T12:24:53+01:00",
+     "source": "",
+     "image": "https://img.lemde.fr/2026/11/12/263/0/2400/1200/644/322/60/0/31b5b69_upload-1-2uzmotxsmjbg-000-b4zk2cq.jpg"
+    },
+    {
+     "titre": "Comment les jobs d’appoint deviennent une nécessité pour des salariés ou chômeurs en quête de pouvoir d’achat",
+     "lien": "https://www.lemonde.fr/economie/article/2026/11/12/le-jobbing-ce-microtravail-qui-prend-de-plus-en-plus-de-poids-pour-boucler-les-fins-de-mois_6809052_3234.html",
+     "resume": "Les plateformes de « jobbing » séduisent de nombreux particuliers, que ce soit pour les services entre voisins (bricolage, jardinage), la livraison de courses ou le gardiennage de colis. Et ce malgré des montants faibles.",
+     "date": "2026-11-12T06:00:07+01:00",
+     "source": "",
+     "image": "https://img.lemde.fr/2026/11/11/526/0/2752/1376/644/322/60/0/72c92ba_upload-1-zyua6zsuywzc-image0-1.jpeg"
+    },
+    {
+     "titre": "Dans la mer d’Aral en voie d’assèchement, le « miracle » éphémère de la crevette artémia, ressource prisée de l’aquaculture mondiale",
+     "lien": "https://www.lemonde.fr/planete/article/2026/11/12/dans-la-mer-d-aral-en-voie-d-assechement-le-miracle-ephemere-de-la-crevette-artemia-ressource-prisee-de-l-aquaculture-mondiale_6809056_3244.html",
+     "resume": "A l’origine immense lac partagé entre Ouzbékistan et Kazakhstan, la mer d’Aral a vu ses rives reculer sous l’effet de la culture industrielle du coton et des réaménagements hydrologiques. Ses eaux saturées de sel sont devenues le royaume exclusif d’un…",
+     "date": "2026-11-12T06:00:28+01:00",
+     "source": "",
+     "image": "https://img.lemde.fr/2026/11/11/456/0/4008/2004/644/322/60/0/ef5b2e5_upload-1-m9gdwu23crmq-hl-hildegardleloue-mer-aral-artemia-25-sur-25.jpg"
+    }
+   ],
+   "flux_utilise": "https://www.lemonde.fr/rss/une.xml"
+  },
+  {
+   "id": "croix",
+   "nom": "La Croix",
+   "couleur": "#c8102e",
+   "une": {
+    "fichier": "unes/croix.jpg",
+    "date": "2026-11-12",
+    "source": "https://img.kiosko.net/2026/11/12/fr/lacroix.750.jpg"
+   },
+   "articles": [
+    {
+     "titre": "Guerre en Ukraine : les émissaires américains au Kremlin ; Zelensky optimiste sur les négociations",
+     "lien": "https://www.la-croix.com/international/ukraine-russie-jour-1723-point-conflit-ukrainien-poutine-aujourdhui-20261112",
+     "resume": "Les émissaires américains sont arrivés au Kremlin pour une rencontre avec Vladimir Poutine. Volodymyr Zelensky a estimé qu’il pourrait exister une « fenêtre d’opportunité » pour parvenir à une percée dans les négociations. Retrouvez l’actualité de la guerre…",
+     "date": "2026-11-12T14:12:12+01:00",
+     "source": "",
+     "image": "https://i.la-croix.com/x/2026/11/12/2587177-des-personnes-ramassent-des-eclats-de-verre-et-des.jpg"
+    },
+    {
+     "titre": "Agriculture : le gouvernement annonce un plan de relance à 725 millions d’euros",
+     "lien": "https://www.la-croix.com/le-plan-de-relance-agricole-s-elevera-a-725-millions-d-euros-genevard-20261112",
+     "resume": "Annie Genevard et Sébastien Lecornu ont dévoilé jeudi 12 novembre un plan de relance agricole de 725 millions d’euros, dépassant les estimations initiales. L’enveloppe servira à l’adaptation climatique et aux projets d’avenir pour les filières prioritaires.",
+     "date": "2026-11-12T14:07:09+01:00",
+     "source": "",
+     "image": "https://i.la-croix.com/x/2026/10/15/2563285-la-ministre-de-l-agriculture-annie-genevard-c-ento.jpg"
+    },
+    {
+     "titre": "« Eldorado » sur Arte : la folle histoire belge des avions renifleurs",
+     "lien": "https://www.la-croix.com/culture/eldorado-sur-arte-la-folle-histoire-belge-des-avions-renifleurs-20261112",
+     "resume": "Servie par un casting en or (noir), cette série revisite avec un humour bien dosé le scandale des avions renifleurs, cette invraisemblable escroquerie qui toucha le groupe pétrolier Elf Aquitaine dans les années 1970.",
+     "date": "2026-11-12T13:50:33+01:00",
+     "source": "",
+     "image": "https://i.la-croix.com/x/2026/11/12/2585162-de-gauche-a-droite-stephane-guillon-andre-chenaill.jpg"
+    },
+    {
+     "titre": "Les journalistes pour Vladimir Poutine ? Tous des « agents de l’étranger »",
+     "lien": "https://www.la-croix.com/international/les-journalistes-pour-vladimir-poutine-tous-des-agents-de-l-etranger-20261112",
+     "resume": "Dans sa chronique DIPLO-FOCUS, Thomas Hofnung revient cette semaine sur la décision des autorités russes d’interdire leur territoire à deux journalistes français. Un oukaze qui en dit long sur la conception de la presse qui a cours au Kremlin.",
+     "date": "2026-11-12T13:39:05+01:00",
+     "source": "",
+     "image": "https://i.la-croix.com/x/2026/04/09/24037932-thomas-hofnung-chef-de-service-monde-a-la-croix.jpg"
+    },
+    {
+     "titre": "RN : Bardella a porté plainte pour faux et usage de faux après les accusations d’antisémitisme",
+     "lien": "https://www.la-croix.com/politique/rn-bardella-a-porte-plainte-pour-faux-et-usage-de-faux-apres-les-accusations-d-antisemitisme-20261112",
+     "resume": "Jordan Bardella a déposé une plainte pour faux et usage de faux après la publication par Mediapart de messages antisémites qui lui sont attribués, a-t-on appris jeudi 12 novembre.",
+     "date": "2026-11-12T13:15:42+01:00",
+     "source": "",
+     "image": "https://i.la-croix.com/x/2026/11/12/25874822-le-president-du-rn-a-porte-plaint-contre-x-pour-fa.jpg"
+    },
+    {
+     "titre": "« Quand la Chine manipule le monde » : l’influence de Pékin et ses paradoxes",
+     "lien": "https://www.la-croix.com/international/quand-la-chine-manipule-le-monde-l-influence-de-pekin-et-ses-paradoxes-20261112",
+     "resume": "La puissance de la Chine est indéniable. Mais gare à ne pas se laisser éblouir par le récit que tente d’imposer Pékin, plaide la chercheuse Valérie Niquet, dans cet essai riche et concis.",
+     "date": "2026-11-12T12:22:48+01:00",
+     "source": "",
+     "image": "https://i.la-croix.com/x/2026/11/12/2586910-le-president-russe-vladimir-poutine-le-dirigeant-n.jpg"
+    }
+   ],
+   "flux_utilise": "https://www.la-croix.com/feeds/rss/site.xml"
+  },
+  {
+   "id": "equipe",
+   "nom": "L'Équipe",
+   "couleur": "#e2001a",
+   "une": {
+    "fichier": "unes/equipe.jpg",
+    "date": "2026-11-12",
+    "source": "https://img.kiosko.net/2026/11/12/fr/l_equip.750.jpg"
+   },
+   "articles": [
+    {
+     "titre": "Fernandez : «Beaucoup de positif à retenir»",
+     "lien": "https://www.lequipe.fr/Basket/Video/Nba-nets-jordi-fernandez-apres-pelicans-nets-beaucoup-de-positif-a-retenir/20245395#at_medium=RSS_feeds",
+     "resume": "",
+     "date": "2026-11-12T13:44:00+01:00",
+     "source": "",
+     "image": "https://medias.lequipe.fr/img-photo-png/-/1500000000833469/0-828-552-75/0cb67.png"
+    },
+    {
+     "titre": "Cesson-Rennes se sépare de son entraîneur Sébastien Leriche en Daikin StarLigue",
+     "lien": "https://www.lequipe.fr/Handball/Actualites/Cesson-rennes-se-separe-de-son-entraineur-sebastien-leriche-en-daikin-starligue/1743145#at_medium=RSS_feeds",
+     "resume": "Dernier du Championnat avec huit défaites en neuf matches, Cesson-Rennes a annoncé jeudi le départ définitif de son entraîneur Sébastien Leriche, déjà écarté de ses fonctions mi-octobre. Le technicien occupait son poste depuis 2019 et avait ramené les…",
+     "date": "2026-11-12T13:40:08+01:00",
+     "source": "",
+     "image": "https://medias.lequipe.fr/img-photo-jpg/sebastien-leriche-n-est-plus-l-entraineur-de-cesson-rennes-e-garnier-l-equipe/1500000002648782/0:208,2000:1541-828-552-75/50dc6.jpg"
+    },
+    {
+     "titre": "La greffe anglaise n'a pas pris : Crystal Palace se sépare de Pierre Sage, qui pourrait rebondir à Lens",
+     "lien": "https://www.lequipe.fr/Football/Actualites/La-greffe-anglaise-n-a-pas-pris-crystal-palace-se-separe-de-pierre-sage-qui-pourrait-rebondir-a-lens/1743144#at_medium=RSS_feeds",
+     "resume": "Parti de Lens pour Crystal Palace durant l'intersaison, Pierre Sage a conclu sa découverte de la Premier League par une défaite contre Liverpool (1-3), dimanche. Un septième revers en dix journées de Championnat qui lui a été fatal. Il pourrait retrouver la…",
+     "date": "2026-11-12T13:38:48+01:00",
+     "source": "",
+     "image": "https://medias.lequipe.fr/img-photo-png/-/1500000000833469/0-828-552-75/0cb67.png"
+    },
+    {
+     "titre": "« Cette rencontre pourrait inciter les ultras du Stade Rennais à faire le déplacement » : les supporters de Nantes interdits de déplacement pour le 7e tour de Coupe de France contre Châteaubourg, club de R1",
+     "lien": "https://www.lequipe.fr/Football/Actualites/-cette-rencontre-pourrait-inciter-les-ultras-du-stade-rennais-a-faire-le-deplacement-les-supporters-de-nantes-interdits-de-deplacement-pour-le-7e-tour-de-coupe-de-france-contre-chateaubourg-club-de-r1/1743143#at_medium=RSS_feeds",
+     "resume": "La préfecture d'Ille-et-Vilaine a annoncé que les supporters nantais étaient interdits de déplacement à Vitré pour le 7e tour de la Coupe de France entre Châteaubourg, club de R1, et les Canaris dimanche (14 h). Cette décision est motivée par la rivalité…",
+     "date": "2026-11-12T13:16:52+01:00",
+     "source": "",
+     "image": "https://medias.lequipe.fr/img-photo-jpg/lucas-perrin-s-explique-avec-le-parcage-nantais-apres-la-defaite-a-sochaux-0-1-en-septembre-j-b-autissier-l-equipe/1500000002648775/26:16,1968:1311-828-552-75/e83ea.jpg"
+    },
+    {
+     "titre": "Tout le monde veut Olise",
+     "lien": "https://www.lequipe.fr/Football/Article/Competition-entre-equipementiers-et-interet-du-real-madrid-tout-le-monde-veut-olise/1743017#at_medium=RSS_feeds",
+     "resume": "",
+     "date": "2026-11-12T13:10:00+01:00",
+     "source": "",
+     "image": "https://medias.lequipe.fr/img-photo-png/-/1500000000833469/0-828-552-75/0cb67.png"
+    },
+    {
+     "titre": "Arthur Fils est fixé : le Français affrontera Alexander Zverev, Ben Shelton et Rafael Jodar en poules des Finales ATP",
+     "lien": "https://www.lequipe.fr/Tennis/Actualites/Arthur-fils-est-fixe-le-francais-affrontera-alexander-zverev-ben-shelton-et-rafael-jodar-en-poules-des-finales-atp/1743140#at_medium=RSS_feeds",
+     "resume": "Premier Français qualifié pour les Finales ATP depuis 2016, Arthur Fils affrontera en phase de poules le numéro 1 mondial Alexander Zverev, Ben Shelton et Rafael Jodar. Le tournoi des maîtres commence dimanche (à suivre sur Eurosport, disponible sur L'Équipe).",
+     "date": "2026-11-12T13:03:26+01:00",
+     "source": "",
+     "image": "https://medias.lequipe.fr/img-photo-jpg/arthur-fils-la-semaine-derniere-lors-du-rolex-paris-masters-p-lahalle-l-equipe/1500000002648766/229:168,1953:1318-828-552-75/3f900.jpg"
+    }
+   ],
+   "flux_utilise": "https://dwh.lequipe.fr/api/edito/rss?path=/"
+  }
+ ],
+ "sections": [
+  {
+   "id": "monde",
+   "titre": "Actualité principale",
+   "sous_titre": "Les informations les plus importantes, partout dans le monde",
+   "items": [
+    {
+     "titre": "EN DIRECT, guerre en Ukraine : Vladimir Poutine a « détruit » la sécurité européenne après l’invasion de l’Ukraine, estime Antonio Costa, président du Conseil européen",
+     "lien": "https://www.lemonde.fr/international/live/2026/11/12/en-direct-guerre-en-ukraine-vladimir-poutine-a-detruit-la-securite-europeenne-apres-l-invasion-de-l-ukraine-estime-antonio-costa-president-du-conseil-europeen_6808609_3210.html",
+     "resume": "La Russie a d’abord sapé, puis finalement « détruit », l’architecture de sécurité en Europe, a affirmé jeudi le président du Conseil européen, l’instance qui représente les 27 pays de l’UE.",
+     "date": "2026-11-12T13:52:51+01:00",
+     "source": "lemonde.fr",
+     "image": "https://img.lemde.fr/2026/11/12/398/0/4780/2390/644/322/60/0/7d3c6a4_ftp-1-u3fcm8fbuevl-b4c903e7b97e410e941c2edc5ba41dc7-0-ab8d0dcacd1047c4bc533b328254ec50.jpg",
+     "reprises": 13,
+     "score": 28.03
+    },
+    {
+     "titre": "A New York, au moins six morts dans l’effondrement d’un immeuble à Brooklyn",
+     "lien": "https://www.lemonde.fr/international/article/2026/11/12/a-new-york-au-moins-cinq-morts-dans-l-effondrement-d-un-immeuble-a-brooklyn_6809041_3211.html",
+     "resume": "Les pompiers ont extrait jeudi matin les corps de quatre nouvelles victimes, deux décès ayant été annoncés dès mercredi.",
+     "date": "2026-11-12T13:29:07+01:00",
+     "source": "lemonde.fr",
+     "image": "https://img.lemde.fr/2026/11/12/30/0/5616/2808/644/322/60/0/16d8286_ftp-1-ufywnv14p8pp-2026-11-12t000754z-1050707073-rc2zloagvdzq-rtrmadp-3-new-york-building.JPG",
+     "reprises": 6,
+     "score": 21.19
+    },
+    {
+     "titre": "Midterms 2026 : Scott Colom, premier sénateur noir du Mississippi depuis 150 ans",
+     "lien": "https://www.france24.com/fr/vid%C3%A9o/20261112-midterms-2026-scott-colom-premier-s%C3%A9nateur-noir-du-mississippi-depuis-150-ans",
+     "resume": "Plus d'une semaine après le scrutin des midterms aux États-Unis, le démocrate Scott Colom a remporté sur le fil la course pour le poste de sénateur du Mississippi. Il devient ainsi le premier sénateur noir à être élu en près de 150 ans dans cet État du Sud.…",
+     "date": "2026-11-12T12:53:29+01:00",
+     "source": "france24.com",
+     "image": "https://s.france24.com/media/display/32c806d6-de8d-11f1-8632-3f371022a770/w:1024/p:16x9/minia-scott-colom.jpg",
+     "reprises": 4,
+     "score": 11.02
+    },
+    {
+     "titre": "Scandale Nvidia : le patron Jensen Huang bientôt démis de ses fonctions ?",
+     "lien": "https://www.france24.com/fr/vid%C3%A9o/20261112-scandale-nvidia-le-patron-jensen-huang-bient%C3%B4t-d%C3%A9mis-de-ses-fonctions",
+     "resume": "Le conseil d'administration de Nvidia s'apprête à évincer son cofondateur et PDG Jensen Huang, ont rapporté mercredi 11 novembre des médias américains, alors que le dirigeant du géant des puces électroniques fait face à une liste croissante de polémiques,…",
+     "date": "2026-11-12T11:36:27+01:00",
+     "source": "france24.com",
+     "image": "https://s.france24.com/media/display/84b42cee-de7f-11f1-91f4-29048b396e03/w:1024/p:16x9/FR-20261112-093050-093325-CS.jpg",
+     "reprises": 4,
+     "score": 8.64
+    },
+    {
+     "titre": "Christophe Gleizes: mobiliser contre l'oubli",
+     "lien": "https://www.france24.com/fr/%C3%A9missions/on-va-plus-loin/20261112-christophe-gleizes-mobiliser-contre-l-oubli",
+     "resume": "Christophe Gleizes est incarcéré depuis 500 jours en Algérie. L'occasion de sensibiliser l'opinion au sort du journaliste, condamné à sept ans de prison pour apologie du terrorisme après un reportage consacré au club de football de la Jeunesse sportive de…",
+     "date": "2026-11-12T13:15:33+01:00",
+     "source": "france24.com",
+     "image": "https://s.france24.com/media/display/558b7c3a-de91-11f1-9da6-3f371022a770/w:1024/p:16x9/capture-609d2a06.jpg",
+     "reprises": 3,
+     "score": 5.49
+    },
+    {
+     "titre": "Aux Etats-Unis, les élus démocrates veulent lancer des enquêtes tous azimuts contre l’administration Trump",
+     "lien": "https://www.lemonde.fr/international/article/2026/11/12/les-elus-democrates-veulent-lancer-des-enquetes-tous-azimuts-contre-l-administration-trump_6809046_3210.html",
+     "resume": "Après leur éclatante victoire aux midterms du 3 novembre, les démocrates préparent une longue liste de sujets d’investigation possibles, de l’enrichissement personnel du président Trump aux abus systémiques des agents de l’ICE. Au risque que l’administration…",
+     "date": "2026-11-12T05:29:31+01:00",
+     "source": "lemonde.fr",
+     "image": "https://img.lemde.fr/2026/11/09/477/0/5721/2860/644/322/60/0/0d926bd_ftp-1-wdy2adhc91tc-3735b7b985884a25b06f2033dfb73429-0-7c4dba5d65a84d08867bc71a8e3a670c.jpg",
+     "reprises": 3,
+     "score": 5.38
+    }
+   ],
+   "a_traduire": []
+  },
+  {
+   "id": "ia",
+   "titre": "Intelligence artificielle",
+   "sous_titre": "Modèles, entreprises, régulation, recherche",
+   "items": [
+    {
+     "titre": "Comment Anthropic se positionne par rapport à certaines des plus importantes introductions en bourse américaines",
+     "lien": "https://news.google.com/rss/articles/CBMipwJBVV95cUxNcVhTYnQ2dlJyQ1V4a1U3Y3BlS21CRWhOYU1FcVJ5OV9EREw1U3R6QVN2SlIyWWtuaFVoUmM3c095WUNocm4ySnVUUENjWkNpTWFLRzhfTXZpcnlmazNEVUtaaF8zRjFkSTEzdU9tejZwaFd2N0lwZ0NYT19YXzVIQW9MNENKU0o4Tnp0VGZsRGhCVkpxRUQ5Mlk2WmVZOGlMcHhRLTJDbWhwMlFCdEs3NldSVzVzMVM5NGxWT2dpdXNZdWEweERqMzduamUtU0lDTGU2RmZwTkJ4WHZaNy1LX095dXNQWkQyS1hFLXFoTjRCcHIxb2NZYzl0S0VjS0s5MXNNWlBnR2RON3MyY1pwMGdTVTRidWF0OVQzWUdpeUdUQ0NSWHRZ?oc=5",
+     "resume": "",
+     "date": "2026-11-12T12:00:26+01:00",
+     "source": "Boursorama",
+     "image": null,
+     "reprises": 5,
+     "score": 10.99
+    },
+    {
+     "titre": "« L’intelligence artificielle entre dans les opérations militaires » : un centre international ouvrira à Rennes en 2027",
+     "lien": "https://news.google.com/rss/articles/CBMioAJBVV95cUxOYmRYeVFCcGZsRmxDT2N6Wm1lMHRZVGh1aGtCaDR3MmFoQ2x5U3ZMTWhtYjBJSFBtRFpaaWF4U080akYwbUdIeGtTVnR4Z01KMFY2Y0JYMi1sS0ZxaHNUNmFxSzhUalM5Y1lSdVFOTTZNSGlJa0JMb3RnTGpFMWR4blItenF4cV9kcktPQ3VsWFhJYkNEaGV4QWRVVnJ2MHNNNTRqZnpwbnNDN01PS1BVSmxtb0RuVkxiTkZrQndscHJ0czQ3WjJST0tXcnQ4MERvTktHcVE2THNLYWlkSEJNSk5OUFFORTh5aElpUG9rcXdOekd5a0lIcjQ0cEs1T3p4Ri13RDd4NzZCbFdMWWtmRGNmQ21OWlBnaHk4aHU4bGQ?oc=5",
+     "resume": "",
+     "date": "2026-11-12T12:02:06+01:00",
+     "source": "Ouest-France",
+     "image": null,
+     "reprises": 3,
+     "score": 9.67
+    },
+    {
+     "titre": "Anthropic, l'IPO à double détente",
+     "lien": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQdTNSODFzWUJFZWVwUGRHV1oxRjhzbk5DNU02NHIyZ3c4bU1wM0FTZW93LWlYa3dNY19nQ2pUMWhOM21EZGdyeEtqLV9haVlUS292Vm9PYXdTbC1Cc0didTNpNmdCX3Iza0VLdXRWQnpUbElPM056MzhGVXNQbnlIRHpVT2VtaWNKbU4teGYweUhVNUhEbzJXS0FPNUlObzM0NWc?oc=5",
+     "resume": "",
+     "date": "2026-11-12T09:58:40+01:00",
+     "source": "Les Echos",
+     "image": null,
+     "reprises": 3,
+     "score": 7.11
+    },
+    {
+     "titre": "Insultes, brimades… Anthropic interdit désormais à ses utilisateurs de maltraiter son intelligence artificielle Claude",
+     "lien": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxQdm9wOUQ3X0tTMV9VSmNuRzBsdmJMRGFBLUFQTUNpNUFxd2p4alp5NzVUSkdndkhRUVZkSUVRNlUweW1VNnZQS25hOWRmdlRoMXRIZ01vOEh2VWV6Y2pueTRoTUZWenFPdUZtVUwybmtGN0VDUVE4OU8tZGo2eUtpZnhxOFdZdmxLQ3R6SU1SSDVHNGtlSUJFMXNqUVktMjdMdnQ2UE9VQnFuUjhYelNrcVVRRVdVaFFFYkZMajN3cFc0dTZlTVZTX3RkUkRiOUR6eWJ1NWIwWFNUd0JyZ1Jib0lFMkhzcC0yR2tjN3pNTE5Rd0F0dU9iYjJGMA?oc=5",
+     "resume": "",
+     "date": "2026-11-12T11:32:40+01:00",
+     "source": "Le Figaro",
+     "image": null,
+     "reprises": 2,
+     "score": 5.17
+    },
+    {
+     "titre": "Claude Fable 5.2 et Mythos 5.2 : Anthropic baisse ses prix juste avant son entrée en Bourse",
+     "lien": "https://news.google.com/rss/articles/CBMibkFVX3lxTE55OFdKa3oxS3p6cWxiQnVyaWRMaW9zZlROTVdmc1c5X0NveHY1V0FEcnNrc1FCODNIb2R4UU9ja3htSTIwcktBNUZIa1Zxdk42bTJsY0ViWXdpT2FQci1jQ2FadThMc3N5V01VQVFR?oc=5",
+     "resume": "",
+     "date": "2026-11-11T23:30:00+01:00",
+     "source": "GeeksLands",
+     "image": null,
+     "reprises": 3,
+     "score": 5.1
+    }
+   ],
+   "a_traduire": [
+    {
+     "titre": "Nvidia is reportedly preparing to fire Jensen Huang",
+     "lien": "https://www.theverge.com/tech/1031652/jensen-huang-rumor",
+     "resume": "Nvidia's board is preparing to dismiss CEO Jensen Huang following a report from The New York Times about a second alleged extramarital affair, just days after he admitted to a separate affair with a woman alleged to be a Chinese spy, The Wall Street Journal…",
+     "date": "2026-11-11T23:44:36+01:00",
+     "source": "theverge.com",
+     "image": null,
+     "reprises": 2,
+     "score": 3.93
+    },
+    {
+     "titre": "With $720M round, Britain’s Fractile gets a leg up in the race for AI chips",
+     "lien": "https://techcrunch.com/2026/11/11/with-720m-round-britains-fractile-gets-a-leg-up-in-the-race-for-ai-chips/",
+     "resume": "Fractile has now become one of the top-funded players in the race for purpose-built AI chips.",
+     "date": "2026-11-11T20:34:55+01:00",
+     "source": "techcrunch.com",
+     "image": null,
+     "reprises": 1,
+     "score": 1.18
+    },
+    {
+     "titre": "OpenAI’s quarterly revenue reportedly crosses $10B for the first time",
+     "lien": "https://techcrunch.com/2026/11/11/openais-quarterly-revenue-reportedly-crosses-10b-for-the-first-time/",
+     "resume": "Sales of $10 billion represents an almost 50% jump from revenue of $6.7 billion the company recorded in the second quarter.",
+     "date": "2026-11-11T17:14:44+01:00",
+     "source": "techcrunch.com",
+     "image": null,
+     "reprises": 1,
+     "score": 1.02
+    },
+    {
+     "titre": "Plurai wants to help AI agents work better using the same approach that helped get self-driving cars to roads",
+     "lien": "https://techcrunch.com/2026/11/11/plurai-wants-to-help-ai-agents-work-better-using-the-same-approach-that-helped-get-self-driving-cars-to-roads/",
+     "resume": "Like the end-to-end models trained to drive cars, AI agents are probabilistic systems operating in unpredictable environments.",
+     "date": "2026-11-11T15:00:00+01:00",
+     "source": "techcrunch.com",
+     "image": null,
+     "reprises": 1,
+     "score": 0.9
+    },
+    {
+     "titre": "Nvidia’s crisis has corporate governance experts reaching for the popcorn",
+     "lien": "https://techcrunch.com/2026/11/10/nvidias-crisis-has-corporate-governance-experts-reaching-for-the-popcorn/",
+     "resume": "The governance experts we talked to say nobody has seen anything like what's unfolding right now.",
+     "date": "2026-11-11T08:30:51+01:00",
+     "source": "techcrunch.com",
+     "image": null,
+     "reprises": 1,
+     "score": 0.73
+    }
+   ]
+  },
+  {
+   "id": "droit",
+   "titre": "Actualité juridique",
+   "sous_titre": "Libertés fondamentales, grandes juridictions, culture juridique pour le CRFPA",
+   "items": [
+    {
+     "titre": "« Le dossier dure depuis treize ans » : à Saint-Cado, l’avenir du parking de 150 places se joue devant le Conseil d’État",
+     "lien": "https://news.google.com/rss/articles/CBMinAJBVV95cUxPWm5zX1VKdHJ3akpIcUE2QW0xZHNvbElCWlJESGhhSjNjY3lXSUZWUUJ5ZE5YM1oxTFNZV1FxZnlfbXJycEItYjJnRFAxYkpiVG5PZ0VuanhaYklnNERvUkFkalVRRDItTmEyQnNVZGZBN3hQWklBQ2hjcVh2MTlmOWpRMFBZOGR6RVRqVEI2MGh0S1MtSE56SEtzbFI1aGVtVUh6eDFmZktLWUE0bDRHT2xXUURGcXJITGduOGtlNXd4LTdMNkVnLWxWODItemJ5UjVlTUpKMVZyWjZiaE1IRmFsazYxTjRYX2RpUzRPYl9UemxqVzV3OFJOc3l2SmVtMF9PVW1fQXF6RGVXLW9kQXJ6RS1iNGg2OVluNQ?oc=5",
+     "resume": "",
+     "date": "2026-11-12T06:48:04+01:00",
+     "source": "Ouest-France",
+     "image": null,
+     "reprises": 5,
+     "score": 10.37,
+     "libertes": false
+    },
+    {
+     "titre": "CNews, Relay, Mabrouk : la gauche à l’assaut de la liberté d’expression",
+     "lien": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxOOU1NR3JZMDVHalFNWkFRREVlR1J6TXhUNkFYSHJaVlNnLTlRWS03b0xkRW8yZ1FER2lOZ1NpMUgzVWlwNWxVOVQ5V1VwUU51U3JsTmFqSmtwdDZIXzRVTjVObjVtenI3MWxrSDNzLVQyYTVEcEQ5eWVnQnRET3dxMnVHQkp6S3YyOUFXSmxRWHFNeDFxNkFUSGtZOVBhWF9NSGh2R2lScjJLUGM0TXVjMHR1ci1FV2VJZ0JXNXpFdEhUYTJ0N1k3QUN6V19vLVM0OXBWQjBvd3NJTmViLTlVajY0T0pVYnBfNGszRm1Gd28?oc=5",
+     "resume": "",
+     "date": "2026-11-12T07:00:25+01:00",
+     "source": "Valeurs actuelles",
+     "image": null,
+     "reprises": 4,
+     "score": 8.95,
+     "libertes": true
+    },
+    {
+     "titre": "Assurance construction - Clause d’exclusion de garantie partiellement « non formelle » : la sanction n’est plus totale, décide la Cour de cassation",
+     "lien": "https://news.google.com/rss/articles/CBMijgJBVV95cUxPbnU2X05sMGh1b2xvOE5pZHYzYmVYRmxpOExfLUkzY29HVnNINURxZ1B6OEdGdzVlc2pUajBXUThBWDRocEJBNnRxY24tcTJwRHlvVEsyRUQya2NuMmwxSzhDejZ3Zk5sd0VJWnk0ajk5cVk3ZDVmWU5ZVUZPOGFWMzhMbkNhZE15bFB3QXUwMnZSSnoyXzgzVEllUG5oSWZRS2JFM3pMemdNdEhNYlVMUDEta1dlU19tS0RJYlJDc2R3OUxUNVd1Wk5ka3FQdjRobGcxbTFfN2hvV2dldjBSdGJCQ3JFU0VIejRoNFlHdjE1TURaNHB5b0FuVVkxc2h2RjVteUxIblF5aWpTS1E?oc=5",
+     "resume": "",
+     "date": "2026-11-11T10:48:42+01:00",
+     "source": "Le Moniteur",
+     "image": null,
+     "reprises": 2,
+     "score": 5.21,
+     "libertes": false
+    },
+    {
+     "titre": "ESMS : le Conseil d’Etat valide le principe des contrats pluriannuels d’objectifs et de moyens",
+     "lien": "https://news.google.com/rss/articles/CBMi2AJBVV95cUxPVXRmbVlXUWc2UXFOOC1jR2V5bUpmbVRxZTJRMG5lQXluVlQ4SVhrei1rMUJOZmR1cXJiaWVTdGxzbDJ5aUo1ZEoyaG1FQnFMMFJzRU00NGdnRVgxUnU4MXdLMVlXcWZudGR2X0hTYm1uUFQzNTVwcmdFdFBhR0dVT0NrSjhDajhHWVpuSWpERy1GWW1HcTVEUVM0MXlRaUI2Q0dkd2lEMXVLdVFGRExZeGJoTkI1a3FfTU1fRnI4LTkzQkZIeHNfVHplM1dRTTF6VUZmQnlabkdQYVZmbEdQbzRMNmtyTkdLWFM3NkNBM2tsYzAyRzhnOUhpeXZpSDJZVHpqazJrSXpsX0hJdnZxeW5UVWpfR3c2a01zXzVMZmxwbkxBeXNvaE05UW5YWGlabFkwbWNaM1BjelZVSWpxRzVQdXRUaDQwVjQydkhwbGdxTDdObjc5eA?oc=5",
+     "resume": "",
+     "date": "2026-11-09T17:18:57+01:00",
+     "source": "La Gazette des Communes",
+     "image": null,
+     "reprises": 3,
+     "score": 4.34,
+     "libertes": false
+    },
+    {
+     "titre": "Route \"Crucke\": la Région de Bruxelles aurait laissé passer le délai pour saisir le Conseil d’État",
+     "lien": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPcXJ2VEJZVHlIQ1NTb3hKSUJUOEMzR0NxM29rMmlfdEo5LXJZQ2NTRzVMM0M1WC1IYS1qQ01SRXZCRjFUa3JlNWxMc2w2UjY5MnF6ZTVLZFoxY1JwSFNtR2kxT19rQm1QdElaQmZ1dnlqYXZEVzJiWTJmRjRCS1BYN0w2bVp0dFVFXzJxcThJZlY?oc=5",
+     "resume": "",
+     "date": "2026-11-12T09:22:55+01:00",
+     "source": "BruxellesToday",
+     "image": null,
+     "reprises": 2,
+     "score": 4.27,
+     "libertes": false
+    },
+    {
+     "titre": "Droit de grève : la CEDH condamne la Suisse après le licenciement de 17 salariés d’un hôpital",
+     "lien": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPbGgzOVlBcjQxRkxCSFA3YVN2S0R2ckdLYmlQd3JVeVNLaEZ3cmRvM3FCeVlqaUpfbXZVdG83Y3E4a1M4dWpqalI5OTh2dzVaOTZnR0pYSjRIQ205Ukd1c2pmMURPM1RIdUVxWUlKSjFnaU51N0lmb1JwSWtHdGZSak1vT1ZablZCbE5tQzlFM1kxbnNsUFlGamhRVlhoS2xySlE?oc=5",
+     "resume": "",
+     "date": "2026-11-11T05:23:18+01:00",
+     "source": "Juriguide",
+     "image": null,
+     "reprises": 1,
+     "score": 3.11,
+     "libertes": true
+    }
+   ],
+   "a_traduire": []
+  }
+ ]
+}
