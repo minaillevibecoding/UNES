@@ -1,0 +1,483 @@
+{
+ "date": "2026-11-13",
+ "genere": "2026-11-13T13:36+01:00",
+ "journaux": [
+  {
+   "id": "figaro",
+   "nom": "Le Figaro",
+   "couleur": "#163860",
+   "une": {
+    "fichier": "unes/figaro.jpg",
+    "date": "2026-11-13",
+    "source": "https://static.milibris.com/thumbnail/issue/7a2ee6a1-9567-49cd-bcfc-b517a3fe87d7/front/catalog-cover-large.jpeg"
+   },
+   "articles": [
+    {
+     "titre": "EN DIRECT - Panne mondiale de Microsoft et d’Outlook : les difficultés se poursuivent, de lourdes conséquences rapportées dans le monde",
+     "lien": "https://www.lefigaro.fr/secteur/high-tech/en-direct-panne-mondiale-de-microsoft-et-d-outlook-les-difficultes-se-poursuivent-de-lourdes-consequences-rapportees-dans-le-monde-20261113",
+     "resume": "À la mi-journée, le géant américain évoquait des «améliorations» progressives chez une partie de ses clients mais soulignait à nouveau que la situation était instable, malgré ses efforts.",
+     "date": "2026-11-13T13:09:41+01:00",
+     "source": "",
+     "image": "https://i.f1g.fr/media/cms/3000x2001_crop/2026/11/13/7485d3ef55b12de0242d91836b71d91695112e8895e1a9e7f79070ec122bf341.jpg"
+    },
+    {
+     "titre": "Entreprises paralysées, examens perturbés, avions retardés… La panne mondiale de Microsoft et Outlook provoque des conséquences en cascade",
+     "lien": "https://www.lefigaro.fr/secteur/high-tech/entreprises-paralysees-examens-perturbes-avions-retardes-la-panne-mondiale-de-microsoft-et-outlook-provoque-des-consequences-en-cascade-20261113",
+     "resume": "Alors que Microsoft peine à résoudre l’incident qui touche depuis plusieurs heures ses services en ligne, la panne perturbe de très nombreuses organisations, très dépendantes des outils du géant américain.",
+     "date": "2026-11-13T13:09:40+01:00",
+     "source": "",
+     "image": "https://i.f1g.fr/media/cms/3000x1688_crop/2026/11/13/83263d3aeaa2bd67294653306520cda96065bb3568b905e9857b8f5a13794f45.jpg"
+    },
+    {
+     "titre": "«Des progrès encourageants en Europe» : ce qu’il faut savoir de la panne géante d’Outlook et des outils Microsoft",
+     "lien": "https://www.lefigaro.fr/secteur/high-tech/microsoft-dit-que-les-mesures-pour-resoudre-la-panne-mondiale-d-outlook-ne-fonctionnent-pas-comme-prevu-20261113",
+     "resume": "Cette perturbation, qui dure depuis une quinzaine d’heures, empêche des millions d’utilisateurs dans le monde d’accéder à leurs courriels.",
+     "date": "2026-11-13T13:09:37+01:00",
+     "source": "",
+     "image": "https://i.f1g.fr/media/cms/orig/2026/11/13/b6eb9704ef68bf293b854e130fe21049f260bb4fcc12a2b56e3aea254f55e0fd.JPG"
+    },
+    {
+     "titre": "Panne d’Outlook : quelles solutions alternatives à la messagerie pouvez-vous utiliser ?",
+     "lien": "https://www.lefigaro.fr/secteur/high-tech/panne-d-outlook-quelles-solutions-alternatives-a-la-messagerie-pouvez-vous-utiliser-20261113",
+     "resume": "La panne mondiale qui touche la messagerie électronique Outlook et les différents outils de Microsoft 365 génèrent de nombreux problèmes, notamment pour les travailleurs. Il existe des services qui permettent de continuer à communiquer avec ses collègues.",
+     "date": "2026-11-13T12:09:30+01:00",
+     "source": "",
+     "image": "https://i.f1g.fr/media/cms/orig/2026/11/13/47dbabd52335edecbd58b0d4c836febbde0d40ed993b3ee3a7018f604da8c6a6.JPG"
+    },
+    {
+     "titre": "Panne mondiale d'Outlook : Microsoft ne voit «aucun signe d'action malveillante ou de cyberattaque» à ce stade",
+     "lien": "https://www.lefigaro.fr/secteur/high-tech/panne-mondiale-d-outlook-microsoft-ne-voit-aucun-signe-d-action-malveillante-ou-de-cyberattaque-a-ce-stade-20261113",
+     "resume": "Après plus de 12 heures d’une panne que l’entreprise américaine peine à circonscrire, ses équipes ont évacué l’hypothèse d’une action extérieure.",
+     "date": "2026-11-13T13:09:40+01:00",
+     "source": "",
+     "image": "https://i.f1g.fr/media/cms/orig/2026/11/13/6838a625b687fbec36a72393d4579c927bc3640e72609a16bdfda1fc055a1764.JPG"
+    },
+    {
+     "titre": "«Ne pas baisser la garde» : Laurent Nuñez promet un gros dispositif «réactif et percutant» pour un nouveau samedi de colère sociale à hauts risques",
+     "lien": "https://www.lefigaro.fr/actualite-france/ne-pas-baisser-la-garde-laurent-nunez-promet-un-gros-dispositif-reactif-et-percutant-pour-un-nouveau-samedi-de-colere-sociale-a-hauts-risques-20261113",
+     "resume": "INFO LE FIGARO - Alors que les services de renseignements anticipent des troubles à l’ordre public, 70.000 policiers et gendarmes seront à nouveau déployés à travers le pays. Dans une note aux préfets, le ministre anticipe des «troubles graves à l’ordre…",
+     "date": "2026-11-13T13:23:36+01:00",
+     "source": "",
+     "image": "https://i.f1g.fr/media/cms/3000x2000_crop/2026/11/13/2f99f3cb9923b033e8ae4d7f92e889f9edf3a7d5dcbd08876c0146401d63cae1.jpg"
+    }
+   ],
+   "flux_utilise": "https://www.lefigaro.fr/rss/figaro_actualites.xml"
+  },
+  {
+   "id": "monde",
+   "nom": "Le Monde",
+   "couleur": "#111111",
+   "une": {
+    "fichier": "unes/monde.webp",
+    "date": "2026-11-13",
+    "source": "https://www.frontpages.com/t/2026/11/12/le-monde-225705bt0@2x.webp"
+   },
+   "articles": [
+    {
+     "titre": "Ce que l’on sait de la panne d’Outlook et de Microsoft 365",
+     "lien": "https://www.lemonde.fr/pixels/article/2026/11/13/ce-que-l-on-sait-de-la-panne-d-outlook-et-de-microsoft-365_6809312_4408996.html",
+     "resume": "Plusieurs services de Microsoft, comme son outil de messagerie Outlook, Teams ou Copilot, connaissent d’importantes perturbations vendredi, ce qui affecte entreprises et gouvernements à travers le monde. La firme américaine, qui écarte la thèse d’une…",
+     "date": "2026-11-13T11:42:43+01:00",
+     "source": "",
+     "image": "https://img.lemde.fr/2026/11/12/633/0/7646/3823/644/322/60/0/e0d5813_ftp-1-4211qcg8b03w-2304840770.jpg"
+    },
+    {
+     "titre": "Plus de 50 manifestations attendues samedi lors de l’acte V des mobilisations sociales ; 70 000 policiers et gendarmes devraient être mobilisés",
+     "lien": "https://www.lemonde.fr/societe/article/2026/11/13/acte-v-des-mobilisations-sociales-entre-50-et-60-defiles-sur-l-ensemble-du-territoire-national-prevoit-le-ministre-de-l-interieur_6809320_3224.html",
+     "resume": "« On aura le même dispositif que samedi dernier » et que depuis le 24 octobre, a annoncé Laurent Nuñez sur LCI, précisant néanmoins que ce nombre serait affiné lors d’une réunion vendredi.",
+     "date": "2026-11-13T12:16:26+01:00",
+     "source": "",
+     "image": "https://img.lemde.fr/2026/11/10/494/0/5919/2959/644/322/60/0/4f5dc74_ftp-1-gfzxcdqmjas1-2026-11-10t195027z-1101204124-rc24loagx7lv-rtrmadp-3-france-protest.JPG"
+    },
+    {
+     "titre": "Gaz : la piste d’une réserve stratégique à l’étude pour anticiper de futures crises",
+     "lien": "https://www.lemonde.fr/economie/article/2026/11/13/gaz-la-piste-d-une-reserve-strategique-a-l-etude-pour-anticiper-de-futures-crises_6809277_3234.html",
+     "resume": "La France réfléchit à la possibilité de disposer d’un stock d’urgence, comme pour le pétrole, afin de prévenir tout risque de rupture des approvisionnements. Un tel projet est désormais mis en œuvre en Allemagne.",
+     "date": "2026-11-13T06:00:32+01:00",
+     "source": "",
+     "image": "https://img.lemde.fr/2026/11/12/334/0/5184/2592/644/322/60/0/da86e86_upload-1-7xmdt9qdxlet-000-33bj2m7.jpg"
+    },
+    {
+     "titre": "En Cisjordanie occupée, la routine des attaques, des violences et des spoliations",
+     "lien": "https://www.lemonde.fr/international/article/2026/11/13/en-cisjordanie-occupee-la-routine-des-attaques-des-violences-et-des-spoliations_6809298_3210.html",
+     "resume": "Alors que les élections législatives israéliennes du 27 octobre n’ont pas dégagé de majorité claire, la situation continue de se dégrader dans le territoire palestinien, où les colons et l’armée multiplient les exactions.",
+     "date": "2026-11-13T10:00:14+01:00",
+     "source": "",
+     "image": "https://img.lemde.fr/2026/11/11/480/0/5760/2880/644/322/60/0/c17721f_upload-1-lpiqlhhrndzp-lgeai-qusra-colons-violence-25.jpg"
+    },
+    {
+     "titre": "VIDEO - 13 novembre 2015 : le récit des attentats, minute par minute",
+     "lien": "https://www.lemonde.fr/societe/video/2026/11/13/attentats-du-13-novembre-le-recit-en-video-minute-par-minute_6652780_3225.html",
+     "resume": "Grâce à des témoignages de premier plan, une reconstitution du Bataclan en 3D, et des documents rarement diffusés. « Le Monde » retrace cette soirée qui a changé la France.",
+     "date": "2026-11-13T09:36:01+01:00",
+     "source": "",
+     "image": "https://img.lemde.fr/2025/11/07/60/0/1920/960/644/322/60/0/a739dd6_upload-1-0sd1nuy8siuq-vignette-13nov-sirius.jpg"
+    },
+    {
+     "titre": "Les meubles totems du designer Martin Szekely s’exposent à Paris",
+     "lien": "https://www.lemonde.fr/m-styles/article/2026/11/13/les-meubles-totems-du-designer-martin-szekely-s-exposent-a-paris_6809322_4497319.html",
+     "resume": "Avec ses objets du quotidien taillés dans de massives pièces de bois récupérées, le Français rend hommage à l’histoire de son matériau, qui affleure sous la fonction utilitaire.",
+     "date": "2026-11-13T13:00:08+01:00",
+     "source": "",
+     "image": "https://img.lemde.fr/2026/11/10/780/0/2776/1388/644/322/60/0/e85cf03_upload-1-qj6kkrxjpz1u-msz-1-41-r.jpg"
+    }
+   ],
+   "flux_utilise": "https://www.lemonde.fr/rss/une.xml"
+  },
+  {
+   "id": "croix",
+   "nom": "La Croix",
+   "couleur": "#c8102e",
+   "une": {
+    "fichier": "unes/croix.jpg",
+    "date": "2026-11-13",
+    "source": "https://img.kiosko.net/2026/11/13/fr/lacroix.750.jpg"
+   },
+   "articles": [
+    {
+     "titre": "Outlook hors service : ce que l’on sait de la panne mondiale qui touche Microsoft",
+     "lien": "https://www.la-croix.com/microsoft-peine-a-reparer-la-panne-mondiale-d-outlook-20261113",
+     "resume": "Une panne mondiale frappe Outlook depuis jeudi 12 novembre, paralysant entreprises et gouvernements dans 74 pays. Le géant américain cherche des solutions alternatives après l’échec de ses premières mesures. Voici ce que l’on sait.",
+     "date": "2026-11-13T12:54:13+01:00",
+     "source": "",
+     "image": "https://i.la-croix.com/x/2026/11/13/2588273-des-dizaines-de-milliers-d-utilisateurs-ne-pouvaie.jpg"
+    },
+    {
+     "titre": "Quand le repaire de brigands devient une maison de prière",
+     "lien": "https://www.la-croix.com/religion/quand-le-repaire-de-brigands-devient-une-maison-de-priere-20261110",
+     "resume": "Des femmes, des hommes et des dieux. À dix kilomètres de Jérusalem, saint Chariton, victime d’un enlèvement au IVe siècle, a fait du lieu de sa détention un ermitage, puis un monastère. Un lieu de désolation, constate notre chroniqueuse Marie-Farouza…",
+     "date": "2026-11-13T12:29:21+01:00",
+     "source": "",
+     "image": "https://i.la-croix.com/x/2026/03/09/23565902-wp-r-marie-farouza-maximos-credit-magnus-aronsonjp.jpg"
+    },
+    {
+     "titre": "Rugby : le XV de France une nouvelle fois au pied de la montagne sud-africaine",
+     "lien": "https://www.la-croix.com/sport/rugby-le-xv-de-france-une-nouvelle-fois-au-pied-de-la-montagne-sud-africaine-20261113",
+     "resume": "Neuf fois défaits lors des dix dernières rencontres contre les Sud-Africains, les Bleus du rugby, diminués par l’absence de nombreux joueurs blessés, ambitionnent ce vendredi 13 novembre 2026 une victoire que leur sélectionneur Fabien Galthié perche lui-même…",
+     "date": "2026-11-13T12:26:56+01:00",
+     "source": "",
+     "image": "https://i.la-croix.com/x/2026/11/13/2587837-fabien-galthie-le-7-novembre-2026-lors-de-la-reuss.jpg"
+    },
+    {
+     "titre": "Guerre en Ukraine : l’Europe dans les négociations ; plus de 1000 drones abattus en Russie",
+     "lien": "https://www.la-croix.com/international/ukraine-russie-jour-1724-point-conflit-ukrainien-poutine-aujourdhui-20261113",
+     "resume": "Volodymyr Zelensky a Zelensky a affirmé que l’Europe sera présente lors des « prochaines » négociations. L’émissaire américain Jared Kushner a ajouté qu’il ne peut y avoir d’accord « sans les Européens à la table ». Retrouvez l’actualité de la guerre en…",
+     "date": "2026-11-13T12:22:45+01:00",
+     "source": "",
+     "image": "https://i.la-croix.com/x/2026/11/13/2588284-des-militaires-ukrainiens-participent-a-des-operat.jpg"
+    },
+    {
+     "titre": "Panne mondiale d’Outlook : 5 chiffres clés qui montrent l’importance de Microsoft dans l’économie",
+     "lien": "https://www.la-croix.com/societe/panne-mondiale-d-outlook-5-chiffres-cles-qui-montrent-limportance-de-microsoft-dans-leconomie-20261113",
+     "resume": "La multinationale Microsoft est touchée, depuis jeudi 12 novembre 2026, par une panne mondiale affectant notamment sa messagerie Outlook utilisée par des millions d’entreprises. Retour, en chiffres, sur le poids du groupe dans l’économie mondiale.",
+     "date": "2026-11-13T12:03:32+01:00",
+     "source": "",
+     "image": "https://i.la-croix.com/x/2026/11/13/2588386-photo-d-illustration-microsoft-subi-depuis-jeudi-1.jpg"
+    },
+    {
+     "titre": "Présidentielle 2027 : les candidats défendent leur vision des services publics",
+     "lien": "https://www.la-croix.com/politique/presidentielle-2027-les-candidats-defendent-leur-vision-des-services-publics-20261113",
+     "resume": "Franceinfo a invité, jeudi 12 novembre 2026, les candidats à l’élection présidentielle à présenter leur programme sur les services publics. L’occasion de voir les convergences et divergences concrètes entre eux.",
+     "date": "2026-11-13T11:45:48+01:00",
+     "source": "",
+     "image": "https://i.la-croix.com/x/2026/11/13/2588397-huit-candidats-a-l-election-presidentielle-ont-pre.JPG"
+    }
+   ],
+   "flux_utilise": "https://www.la-croix.com/feeds/rss/site.xml"
+  },
+  {
+   "id": "equipe",
+   "nom": "L'Équipe",
+   "couleur": "#e2001a",
+   "une": {
+    "fichier": "unes/equipe.jpg",
+    "date": "2026-11-13",
+    "source": "https://img.kiosko.net/2026/11/13/fr/l_equip.750.jpg"
+   },
+   "articles": [
+    {
+     "titre": "Un premier sponsor suspend sa collaboration avec Teddy Riner, candidat à l'élection présidentielle",
+     "lien": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxPbjhIVDlCM3UxcGg1TzJ5bVVneFg2bmg5ZzZzeE9SVk1fV3ZLcVdvcjZZeUNLQ2t6ckJ3a21vdFp3WG9mWTNPT0RadHdlTE1oWkFTbDR3NW1rY2tLTmhRdUFMdTBHZW1oX1dxeTZfaHZ6Q29NU0c1Nno1blYxZlRtNjluQ29zYkNVYVlERU5yT25VTHp2R3FGVlR4amU5a3NfOTRqMUtFOXNPR1pVOHZxLWU0V0I2U01VajVBTDdqUXdrZW5SR21FdTFCMlNJM1VwOEt4TFA3ejNFV1pQ?oc=5",
+     "resume": "",
+     "date": "2026-11-12T14:21:46+01:00",
+     "source": "L'Équipe",
+     "image": null
+    },
+    {
+     "titre": "La greffe anglaise n'a pas pris : Crystal Palace se sépare de Pierre Sage, qui pourrait retrouver la Ligue 1 et Lens",
+     "lien": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxQMkVVT1N3cDJoQktiQzlDRWt2eC1OSllwM041ckpvVzIzYnc2LVhKLXF4MC1fTVNyRU5QWE5XUnZvSW9ITjFvRmFJOGhQNzdFSnF2VGJXcm5GN2lPVVU0UmNudlUxUVVWajFjZk5kS1RWZy1uaXloSW9rUEo3Q3lWUlFGVS0xczdQNFAtYkpqQlVIc0JqOWZBSjE3LWN5R1FITDhPWi1HWHZyZVRFOW1UdEVHVFMtWENPeG40TVdDRk5MM1NzVnRHeGt2V3VidFJmS291Q2c2TDZza1VVUlFMYUNxSXFNdw?oc=5",
+     "resume": "",
+     "date": "2026-11-12T13:38:48+01:00",
+     "source": "L'Équipe",
+     "image": null
+    },
+    {
+     "titre": "Les notes d'Italie-France : Gusto et Upamecano ont pris l'eau",
+     "lien": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNbXRObW1jT0ZmX3p4allXNDhYY2RtcnYwTEVjcDhScE5YOGw4MGRVdTVpLXpzZGhpOURuS3JPclNIYzZqWnNWVVdWS3NBeEEzNE1tREU5aU4xRUZRdDhkYnZGR3ptQUtXS2tpbzB3U3JyYkVMQ3d1RHY2b0UzZ1NHNnVQT1RtbFZCcERla0lDbl9WdW9RWXhrZ3dvYUdUUFQwTWJTWkQwUHBucEE?oc=5",
+     "resume": "",
+     "date": "2026-11-12T23:46:48+01:00",
+     "source": "L'Équipe",
+     "image": null
+    },
+    {
+     "titre": "« J'ai eu assez de lumière, j'ai besoin d'un peu d'ombre » : Julian Alaphilippe s'exprime pour la première fois depuis sa retraite",
+     "lien": "https://news.google.com/rss/articles/CBMikwJBVV95cUxQaHd6RnRkb1dTbzJIQnVTb1RoRC05NktLcDlJLTFUY085RWhWNWpnWTN4Z3FPakxGemhjNE5GTUMtTTMwWnFXNVFOWmZzYVhTeTE3UE5KYjF5aGFvejNySXYxek5EOXhaVGVoOGNIZ1NQOW5iWXhVZE5RM3FueEhldEFkLXMwZVFMZEo0QURNZXVfbzl2QXVUNW1zamZBWS1LZ0pURDZiQy0xOV9feTdkbkV3a0Jxc2J6ZTAwNHJYNEZpdk85NHNhVE5HU3VCTV90WGFzQmVYdFd0MEpZWXRnS1NIM2xCcjhvYS1VekNWR2lIbk54SERTQ3dQRzZnbFZwdlJnS3hSYmJYU0tvUEUzS3p1QQ?oc=5",
+     "resume": "",
+     "date": "2026-11-13T08:17:24+01:00",
+     "source": "L'Équipe",
+     "image": null
+    },
+    {
+     "titre": "Les Bleus renversés en Italie pour la première défaite de l'ère Zidane, les quarts de la Ligue des nations attendront",
+     "lien": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxNcHZRWnJ6RHZwVGxNYjFOckpFSnBHdkRpcGREdlp1NkZCQnNMV3VqYnFleW5UYzNobHNnc2Z2YXpUYjMzN2o0UE85V3ZFTm9JSWRUdGxFclB3dXpzcTd0MVd3YS1NbVpSRzdsTDJQNXYzbjlvTWhCSFBlRDZYQTd2YkNYVk0xdEh4Und1OGhDdUNaZjd1OHhZS2g5SjBNOW95QzZITEZCcEFpRGtiNVAxU2liTHBZeVRwNGU2eTRXWThnM2YxZGYwRUV6bGU4R3J5TVhnS3RkM3pOMEV6QjBod1FqOVpxU0RvT3QtbV9fbnVXamVXYmlOUDlwZw?oc=5",
+     "resume": "",
+     "date": "2026-11-12T22:41:01+01:00",
+     "source": "L'Équipe",
+     "image": null
+    },
+    {
+     "titre": "« L'Italie retrouve sa grandeur » : la presse transalpine jubile après la victoire de la Nazionale face à l'équipe de France",
+     "lien": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxOaE5FNTNURUpOU2V6M000b2FWUnZEOUdma2FDc2t1MDJ3eHlnQkRSbjFORlJwN1JXM1B1LVBCNTNpMjBhc0FOMlNZQ3Rac08wVnZ6V1E3RWc1dHA0bmNUUkpRYjFhcjZBQXVXb094dVJrWTl0ajlYSUNoeWxJOTAzVFdocUdnRkwtSVozcGpBc0pkVldkZS13bm92OU5YNHlqYngtZXNxNjVyeU12bktLM0tlLXhyVWFSUE1UOGFDOE0za25Td3l2NVZseWhPbXVoN0Rkb0VzLUJWY2taWTBoVWUxeVJRZTNuejZtUEJZQzUxMUFIU2ZXcnAtZw?oc=5",
+     "resume": "",
+     "date": "2026-11-13T10:14:03+01:00",
+     "source": "L'Équipe",
+     "image": null
+    }
+   ],
+   "flux_utilise": "https://news.google.com/rss/search?q=site%3Alequipe.fr%20when%3A1d&hl=fr&gl=FR&ceid=FR:fr"
+  }
+ ],
+ "sections": [
+  {
+   "id": "monde",
+   "titre": "Actualité principale",
+   "sous_titre": "Les informations les plus importantes, partout dans le monde",
+   "items": [
+    {
+     "titre": "Panne mondiale d'Outlook : ce que l’on sait des perturbations et de leurs causes",
+     "lien": "https://www.france24.com/fr/vid%C3%A9o/20261113-panne-mondiale-d-outlook-ce-que-l-on-sait-des-perturbations-et-de-leurs-causes",
+     "resume": "Le géant américain du logiciel Microsoft, confronté vendredi à une panne mondiale de sa messagerie Outlook, a écarté l'hypothèse d'une action malveillante pour expliquer ce dysfonctionnement et affirmé percevoir de premiers \"résultats positifs\" en vue d'un…",
+     "date": "2026-11-13T12:23:31+01:00",
+     "source": "france24.com",
+     "image": "https://s.france24.com/media/display/4521b69e-df53-11f1-98bf-3f371022a770/w:1024/p:16x9/FR-20261113-110218-110716-CS.jpg",
+     "reprises": 6,
+     "score": 26.11
+    },
+    {
+     "titre": "EN DIRECT, guerre en Ukraine : Kaja Kallas met en garde contre les « pièges » tendus par Moscou",
+     "lien": "https://www.lemonde.fr/international/live/2026/11/13/en-direct-guerre-en-ukraine-kaja-kallas-met-en-garde-contre-les-pieges-tendus-par-moscou_6808609_3210.html",
+     "resume": "La cheffe de la diplomatie européenne a appelé les Européens à faire du cessez-le-feu en Ukraine leur priorité. « Si nous commençons à parler de ce que la Russie demande concernant l’architecture de sécurité, nous tombons en réalité dans les pièges que la…",
+     "date": "2026-11-13T11:44:39+01:00",
+     "source": "lemonde.fr",
+     "image": "https://img.lemde.fr/2026/11/13/432/0/4869/2434/644/322/60/0/4d21197_ftp-1-h9bwnim764db-2026-11-13t115051z-673067808-rc2ymoaz5d9v-rtrmadp-3-eu-summit.JPG",
+     "reprises": 10,
+     "score": 24.36
+    },
+    {
+     "titre": "Nvidia : l’ancien PDG de Nvidia Jensen Huang et le secrétaire au commerce Howard Lutnick invités à témoigner au Sénat américain",
+     "lien": "https://www.lemonde.fr/international/article/2026/11/13/nvidia-l-ancien-pdg-de-nvidia-et-le-secretaire-au-commerce-invites-a-temoigner-au-senat-americain_6809295_3210.html",
+     "resume": "La démission de Jensen Huang, après des révélations sur sa liaison avec une femme d’affaires soupçonnée d’espionnage pour la Chine, place le contrôle des exportations de puces avancées au cœur des interrogations du Congrès.",
+     "date": "2026-11-13T09:49:27+01:00",
+     "source": "lemonde.fr",
+     "image": "https://img.lemde.fr/2026/11/12/220/0/2640/1320/644/322/60/0/cd98d99_ftp-1-ltyctgrqp4zj-afp-d7ad3we.jpg",
+     "reprises": 7,
+     "score": 14.41
+    },
+    {
+     "titre": "Guerre en Ukraine : les émissaires de Donald Trump admettent la nécessité de voir les Européens associés aux négociations de paix",
+     "lien": "https://www.lemonde.fr/international/article/2026/11/13/guerre-en-ukraine-les-emissaires-americains-assurent-que-les-europeens-seront-associes-aux-prochaines-reunions-de-negociation-de-paix_6809269_3210.html",
+     "resume": "Depuis plusieurs mois, l’Europe réclame une place à la table des négociations, mais Moscou n’a pas confirmé son accord. Jared Kushner et Steve Witkoff, les envoyés spéciaux du président américain, sont repartis de Moscou, jeudi, avec très peu d’éléments…",
+     "date": "2026-11-13T05:00:29+01:00",
+     "source": "lemonde.fr",
+     "image": "https://img.lemde.fr/2026/11/12/456/0/5456/2728/644/322/60/0/75e98c2_ftp-1-4ldlrrv0c7n8-2026-11-12t161350z-92863598-rc2gmoaa5yyl-rtrmadp-3-europe-community-burnham.JPG",
+     "reprises": 3,
+     "score": 4.52
+    },
+    {
+     "titre": "🔴 Ligue des nations : la France renversée par l'Italie, la qualification en danger",
+     "lien": "https://www.france24.com/fr/sports/20261112-ligue-nations-france-renversee-italie-qualification",
+     "resume": "L'équipe de France a été battue jeudi par l'Italie lors de la cinquième journée de la Ligue des nations. Une première défaite de Zinedine Zidane comme sélectionneur qui rebat les cartes : les Bleus devront s'imposer dimanche s'ils veulent se qualifier pour…",
+     "date": "2026-11-12T22:41:23+01:00",
+     "source": "france24.com",
+     "image": null,
+     "reprises": 3,
+     "score": 4.15
+    },
+    {
+     "titre": "Derrière l’image : en Colombie, la communication controversée du président d’extrême droite",
+     "lien": "https://www.france24.com/fr/%C3%A9missions/les-observateurs/20261113-derri%C3%A8re-image-colombie-communication-controversee-president-extreme-droite-abelardo-de-la-espriella",
+     "resume": "Discours au milieu de sacs mortuaires, vidéos mettant en scène des transferts de détenus et des bombardements… La communication du président colombien d’extrême droite Abelardo de la Espriella - en fonction depuis août - suscite de nombreuses réactions.…",
+     "date": "2026-11-13T11:40:39+01:00",
+     "source": "france24.com",
+     "image": "https://s.france24.com/media/display/0502e730-df4a-11f1-9547-29048b396e03/w:1024/p:16x9/Chronique-vignette-horizontale.jpg",
+     "reprises": 1,
+     "score": 3.36
+    }
+   ],
+   "a_traduire": []
+  },
+  {
+   "id": "ia",
+   "titre": "Intelligence artificielle",
+   "sous_titre": "Modèles, entreprises, régulation, recherche",
+   "items": [
+    {
+     "titre": "Intelligence artificielle : la France annonce le lancement d'un centre international de défense à Rennes",
+     "lien": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPSFlwc1dVNUxKREloTmVJSGVseFpTTHlObXhSbmF1R0FMT3ZRZnotdy1NSy1PQXBDWm54T2hFQnM2ZVc3X1Y1bzdPVnd4NUlhZkFTLVFhWFpLQS1LTGN3OEtyOTd1aldzM1Voblh5b2l1dkxDclJ6d1UxazMtU3VWWGg2Rk5heFItcjhScF9CdlB1NGR4cXBsX1JLTnBCamJjUHVkaURRdUxaYW5QeFJHeEtnUFJnYUdoMGxWeGFJU2VyamtXVElKOQ?oc=5",
+     "resume": "",
+     "date": "2026-11-13T10:00:43+01:00",
+     "source": "Ministère des Armées",
+     "image": null,
+     "reprises": 7,
+     "score": 15.23
+    },
+    {
+     "titre": "\"C'est un coup dur pour à peu près tous les acteurs du secteur\": après le départ de Jensen Huang, le petit monde américain de l'IA partagé entre inquiétude et relative sérénité",
+     "lien": "https://news.google.com/rss/articles/CBMi4wJBVV95cUxNdzl3SkFLNEk1TGhPalVrbThleFpXVWgzbXRJRUYxaXQwUE9aVTZMS3VQQVZteXZraGZUZ25STkJxSEVSazFlZm1yS05kZmF5djRDVTdET1NrNGYyaEFYTmRIQm42M3RoRHBnaF9vZERWUlhBWElsd3NaTDh0WU9SdWg4MWNXNkVXTUlSVFNXMzVuOEtjaXVLdjFvdmVicTNKbzJ3Q3JaNnVHbWt6dUhRZmZDc1YwYTJHS3RZLXZjaXFwOC00SDFYU0diOHIwU1VUckZqRTF3RnJmeDk0OVhrZWpOQjB6S3pxTXBMMGdYSllWVWlCME5iRnl0SVU1MklOOWlYRk1MTUQtMXJCaVdxZzk2a2x3WEdZa0VHZkU1bFNrTkhSUXUyeGNid3hDTWJGTVo0TUk3czlQTXctX2xONTBOQ1dQeUpFS19KcENpZ2JralQwUldRMElVcnc5ZjZ2bjJR?oc=5",
+     "resume": "Jensen Huang, le cofondateur de Nvidia, a démissionné de ses fonctions de CEO. Il quitte le conseil d’administration avec effet immédiat. Colette Kress, la directrice financière, assure l’intérim. L’annonce de la démission de l’emblématique patron de Nvidia…",
+     "date": "2026-11-13T09:49:05+01:00",
+     "source": "BFM",
+     "image": null,
+     "reprises": 4,
+     "score": 10.67
+    },
+    {
+     "titre": "IPO d'Anthropic (Claude) : 10 choses à savoir avant la cotation du 19 novembre",
+     "lien": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNbVNFUUIzS2NienA1MVV3MXR1VDV1RVNIVVlKLWJfNUFZMkdreExVUENtaEp5b3kxRTE0NnJySU9aY05TSW43elVoQ3pHeHo1OUhKbW9uSzdTYnd1RzZUZ2VWNzZ3bEhpY2s3emJkXzFvYnVjbTlpUFZZem9yQTFkb090VlFKN0tpWG05QjZtZFlCRTUzZXUxWGRR?oc=5",
+     "resume": "",
+     "date": "2026-11-13T11:32:13+01:00",
+     "source": "Cryptoast",
+     "image": null,
+     "reprises": 3,
+     "score": 6.43
+    },
+    {
+     "titre": "Anthropic et OpenAI poursuivis en justice pour violation présumée des brevets d'inventeurs relatifs aux réseau",
+     "lien": "https://news.google.com/rss/articles/CBMiqwJBVV95cUxQUE9wYmhEU2tMYk5vLW1Zb09KV3laZUUtT3k3cHdOQ0F2d2k3TkktTmo1RFlVZTg4YzFEbkh1ZDhhb0U1LXBFRnhPT1J6LW5HMDJYLW1LZUJJUXkzZ3pOQlpKV3lBRzR1ckZkTWl2dmRxNE9PYkd5ak02YWVIbFlZQnlNWUIyaV9hS0tzSHFYNUxISzhCQURfYTFXb1pJTDVUWmE0Uno2ZmJLMXItNHFyTi01RHBqTHhXTFBoaVVKaV92b2tBTWxsTzdZbWt5TFo4STR5ZGxtalJydmxfZkJlckFsSW9XdTI2aFdmcG9zZEtTZXNrb3drbEswRkIzTzhab2JMVXlxQkkxbU5SYjRRenEwSXB4Mkk2OTBFVkpQX0liTnJEanZ4c0NQONIBqwJBVV95cUxQUE9wYmhEU2tMYk5vLW1Zb09KV3laZUUtT3k3cHdOQ0F2d2k3TkktTmo1RFlVZTg4YzFEbkh1ZDhhb0U1LXBFRnhPT1J6LW5HMDJYLW1LZUJJUXkzZ3pOQlpKV3lBRzR1ckZkTWl2dmRxNE9PYkd5ak02YWVIbFlZQnlNWUIyaV9hS0tzSHFYNUxISzhCQURfYTFXb1pJTDVUWmE0Uno2ZmJLMXItNHFyTi01RHBqTHhXTFBoaVVKaV92b2tBTWxsTzdZbWt5TFo4STR5ZGxtalJydmxfZkJlckFsSW9XdTI2aFdmcG9zZEtTZXNrb3drbEswRkIzTzhab2JMVXlxQkkxbU5SYjRRenEwSXB4Mkk2OTBFVkpQX0liTnJEanZ4c0NQOA?oc=5",
+     "resume": "",
+     "date": "2026-11-12T21:26:27+01:00",
+     "source": "Boursorama",
+     "image": null,
+     "reprises": 2,
+     "score": 5.95
+    },
+    {
+     "titre": "Les résultats de Nvidia et l’introduction en bourse d’Anthropic mettent à l’épreuve un marché de l’intelligence artificielle (IA) tumultueux",
+     "lien": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxONGdIYkJaMmZGM205Y1l1b2J0ZUZ4dXcya3RNdE8xd0JCUmxEUWozREM4bVhCZ0Q0M3RLRDhDMTg1LWVhcC04QjV0QjhXdGQtVUtYWDc1R19jclF2djJ2a243M0FOSWhfbVJ4b3ItNGZWVGMtN3A2dW1jU0RqV04ya1dKR21UYlRzQUxwWFI2emFSbXNudjRnOG5vWmJfQVduTXZFVUlIVFpjTWYyRTdlbkl6ekEtVzQwb1BCdFVDamwxd1VKdlZQTkxOT1ZyX1lKTDU5M0VYUlpJSnViNTFuZHRodjNvdExhRG5uUA?oc=5",
+     "resume": "",
+     "date": "2026-11-13T12:15:44+01:00",
+     "source": "Zonebourse Suisse",
+     "image": null,
+     "reprises": 3,
+     "score": 4.98
+    }
+   ],
+   "a_traduire": [
+    {
+     "titre": "Nectar launches an AI agent to automate creator discovery and outreach for brands",
+     "lien": "https://techcrunch.com/2026/11/12/nectar-launches-an-ai-agent-to-automate-creator-discovery-and-outreach-for-brands/",
+     "resume": "Nectar's new AI agent automates influencer marketing, helping brands discover creators, manage outreach and partnerships, and track campaign results.",
+     "date": "2026-11-12T20:11:00+01:00",
+     "source": "techcrunch.com",
+     "image": null,
+     "reprises": 1,
+     "score": 1.31
+    },
+    {
+     "titre": "More game developers are starting to use generative AI",
+     "lien": "https://www.theverge.com/games/1032085/gdc-festival-of-gaming-annual-survey-ai-layoffs",
+     "resume": "More video game developers are using generative AI tools in their jobs compared to last year, according to the GDC Festival of Gaming's latest annual industry survey. Forty percent of developers surveyed say they use it \"as part of their job,\" an increase…",
+     "date": "2026-11-12T18:00:00+01:00",
+     "source": "theverge.com",
+     "image": null,
+     "reprises": 1,
+     "score": 1.27
+    },
+    {
+     "titre": "Hugging Face CEO vows to keep fighting for open source AI after Jensen Huang’s exit",
+     "lien": "https://techcrunch.com/2026/11/12/hugging-face-ceo-vows-to-keep-fighting-for-open-source-ai-after-jensen-huangs-exit/",
+     "resume": "Hugging Face's CEO pledged to keep fighting for open source AI after Huang's exit, raising questions about Nvidia's $12.9 billion acquisition.",
+     "date": "2026-11-12T18:36:40+01:00",
+     "source": "techcrunch.com",
+     "image": null,
+     "reprises": 1,
+     "score": 1.15
+    }
+   ]
+  },
+  {
+   "id": "droit",
+   "titre": "Actualité juridique",
+   "sous_titre": "Libertés fondamentales, grandes juridictions, culture juridique pour le CRFPA",
+   "items": [
+    {
+     "titre": "Mobilisation sociale : les délais de publication des arrêtés préfectoraux contestés devant le Conseil d’État",
+     "lien": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxNem5NYXdCRHRqWk1lM29BM3djaF92VWRXZkZLNVdBSHZub09SdGszYThRV3lyb055YnNyY0FNMjRZd1ZVM1JDa0tUdnVIVGE5S2FZWXpfc3IwSElBYTBuNXBSTUZYcDZUN3d5a3QxOFNmaENRaXhwSVZqbFA5ci1OM1V2R240NlNUcy14TmlhZzQ0dG5yYWJ4OG43RWVxUUMzZjRzRnNfeHlNMzNGd0MyRFpqQThNQVNpZnBGdnNUa2hqWDY1TnF3MjZLckFxRkV6ZEhwcHZGWVRRaVo4X0VsbS1FeEU1WmdKUzBGRzZlQ2Q?oc=5",
+     "resume": "",
+     "date": "2026-11-13T08:28:00+01:00",
+     "source": "Actu-Juridique",
+     "image": null,
+     "reprises": 6,
+     "score": 15.71,
+     "libertes": false
+    },
+    {
+     "titre": "Droit de grève : la CEDH condamne la Suisse après le licenciement de 17 salariés d’un hôpital",
+     "lien": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPbGgzOVlBcjQxRkxCSFA3YVN2S0R2ckdLYmlQd3JVeVNLaEZ3cmRvM3FCeVlqaUpfbXZVdG83Y3E4a1M4dWpqalI5OTh2dzVaOTZnR0pYSjRIQ205Ukd1c2pmMURPM1RIdUVxWUlKSjFnaU51N0lmb1JwSWtHdGZSak1vT1ZablZCbE5tQzlFM1kxbnNsUFlGamhRVlhoS2xySlE?oc=5",
+     "resume": "",
+     "date": "2026-11-11T05:23:18+01:00",
+     "source": "Juriguide",
+     "image": null,
+     "reprises": 5,
+     "score": 12.07,
+     "libertes": true
+    },
+    {
+     "titre": "Municipales : le Conseil d’Etat confirme le scrutin",
+     "lien": "https://news.google.com/rss/articles/CBMingFBVV95cUxNbm9ZVFlJbXFRWW5XWkRUNWF1WkRxamFPenNHRm9tTFRRTEc4bi1QZ2VCbDZzQTZPVkNRcmp4ZUZMYUFrNWQ3ZERVcFl1UmgxWjhvZDdRcHZUWTNUZFc5SHZldjcxbWVuUDZ5dXlKaWpEZS1Mb3BPWU1BQ2ZUbllQZUNjU2ZXVm9oLWZrMDR4eHZwZHNhcXFaMW9rVU44UQ?oc=5",
+     "resume": "",
+     "date": "2026-11-13T05:05:00+01:00",
+     "source": "Midi Libre",
+     "image": null,
+     "reprises": 6,
+     "score": 10.43,
+     "libertes": false
+    },
+    {
+     "titre": "Elus et candidats sont dans des situations spécifiques : au juge pénal de le prendre parfois en compte, y compris selon la CEDH",
+     "lien": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxQQUR1dl83YzY5Z2FTMUNEWVN2Y21NNzRJMVNqOGRkQV9lcG9nc0JxSk1FTXdZYzgtMDQ0VTJrNm15OG4zbWNKamtuTkQyUElEeFY2UVdBcWJkalZtdGRzWW1ER2J6UkV5SGNRY184dEdZUVBfXzlleE0zN2l6S1ZBRFVXQ25WdTM4NGcxc0FXSkYtdmtNNHhyOTNsdm5WVGxzMk1hbFdvczZ2LWszb3puNnpIYl9BaDVnNGpoOWx4MjhzMFo4N3B2Z0l2SzJCN0ZoeVBMcjJXQTU0cDlpVlFoaUhOSjdTZFdYNm42emI3MWMtM1h6UFRkYnk5QnfSAYICQVVfeXFMT2ZMcl96TURFUXR5anZ4X3lsMzJNRVJxQUROYVBab09UOTZSSW51U0FTRlpFWDVnVjFjYzg4SF82bmk3OTl4YndVYUZsR0JzdHN1SXpmMjNhSldOZWh1bGlEOUFDN0ZkTm91dHJmNkNfYm9aZnFYSXJYdF9ZMl9CN1pBNEdLNTd5WTljcGRIN0pKeWdncHJadlJWeDl0UTBFZjZaZXhXdlYtczY2MTE2bUU5RksxUDJid0I5b1ZvNzJuc3FGMW9ib3JTdGFOVVFwN281ZnBpV2FsOW0zSk5TVHBNTlVrOFJiRmNJQVROV0JzaFpjTnljQnFWcVBKV0VwUEZB?oc=5",
+     "resume": "",
+     "date": "2026-11-12T18:33:38+01:00",
+     "source": "Landot & associés",
+     "image": null,
+     "reprises": 1,
+     "score": 6.24,
+     "libertes": true
+    },
+    {
+     "titre": "Élections annulées à Nantua : décision du tribunal administratif confirmée par le Conseil d'État",
+     "lien": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxNb0RnZUtvQ1pWRFE5cTUxLTBiMU5iclltUDZneVJkbzRVNjhGU2Myc3NvU1ZsNW4xOVRxT2lHTEg5Smk2R21VYjRYMFR5YVpwd25MbEd6RzdsVUdmNmE4ckRubHVNaDM4MGVKS2ZxdDhCc3hQUXJIeGh4cThrUmVLLTMweWFPY1JRM0tZSFJ1b1ZKZ0dVZU9Md3JOSlNKcFVORHQ4MnluTnJxc0ZjOVpkWWh0dldibDh3MUFsay1UNXhQTWh3WF8wX09hM0xQaUFETVVHbmRjcWYxWUNVbGRyOEVZQ3FrMWtnT2JVT05XQW1INEVHVFJxTHZxeGluVGs?oc=5",
+     "resume": "",
+     "date": "2026-11-11T06:00:08+01:00",
+     "source": "France 3 Régions",
+     "image": null,
+     "reprises": 3,
+     "score": 4.67,
+     "libertes": false
+    },
+    {
+     "titre": "\"C'est inquiétant pour la liberté d'expression\" : à Pau, deux femmes jugées pour diffamation contre François Bayrou sur fond de guerre à Gaza et d'affaire Bétharram",
+     "lien": "https://news.google.com/rss/articles/CBMi7wJBVV95cUxQWC1GVktXU3NSWXMxVzhTZGhjbXMtVW5OMnVZRGRIWDNySk4tNEJzRUoydWxNQ2hBbE94eGlTQXI1UnFnZm9zR3pNVTc1M0VEWnF2T21OaldEN2ZRUFgyYUJTaWdoaEl0VUdlM3ladTRXWnl3b0ZiUGVteW5DV3lUMDR2eTBkVnFpYTBDUkt4OXF0SktOdEF2YXlLTFlmTnctTU9LZXV1X0RhR2VTLW5CcXQ1RXc1R1NDeVR6a2M4akVGOGVmQnRsYjJLWUZPWnFDbnJKemhLWHo2SDR5bE9WYVVsTVdYUmhRcnRFRzY0YTlUYkpuNHphMGNlWjlOdFFIV0NsTHg1V0R1c0xFdVlyRm5uQU9lSUQ2Ty00R0lLcWJFVXJCaW80d25TanY2clo5VG92aF95eEpfbHNxY2l4aXMxb1BfZEhOUkEya21ROTFSRmhBTk1aRTFQeW5RTjdSa1FvVWNGSXQ3clNTS2Fn?oc=5",
+     "resume": "",
+     "date": "2026-11-13T12:46:36+01:00",
+     "source": "France 3 Régions",
+     "image": null,
+     "reprises": 2,
+     "score": 3.83,
+     "libertes": true
+    }
+   ],
+   "a_traduire": []
+  }
+ ]
+}
