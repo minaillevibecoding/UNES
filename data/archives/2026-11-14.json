@@ -1,0 +1,483 @@
+{
+ "date": "2026-11-14",
+ "genere": "2026-11-14T12:44+01:00",
+ "journaux": [
+  {
+   "id": "figaro",
+   "nom": "Le Figaro",
+   "couleur": "#163860",
+   "une": {
+    "fichier": "unes/figaro.jpg",
+    "date": "2026-11-14",
+    "source": "https://static.milibris.com/thumbnail/issue/ad12c9f6-20f1-4b5a-bc04-b6a569a992b4/front/catalog-cover-large.jpeg"
+   },
+   "articles": [
+    {
+     "titre": "« La gloire ne fait pas l’élection » : Coluche, Bigard, Hulot… Avant Teddy Riner, le difficile passage de la célébrité à la course à l’Élysée",
+     "lien": "https://www.lefigaro.fr/elections/presidentielles/la-gloire-ne-fait-pas-l-election-coluche-bigard-hulot-avant-teddy-riner-le-difficile-passage-de-la-celebrite-a-la-course-a-l-elysee-20261114",
+     "resume": "GRAND RÉCIT - À peine le quintuple champion olympique de judo était-il entré, lundi, dans la course présidentielle que ses ambitions rappelaient celles d’autres personnalités étrangères au sérail politique, dont aucune n’a atteint la ligne de départ.",
+     "date": "2026-11-14T08:30:00+01:00",
+     "source": "",
+     "image": "https://i.f1g.fr/media/cms/1918x1079_crop/2026/11/13/ae6ff3f8ec44e94e675a7ce1a7e6dc3fe97649fcd017f0cb93d0c3ee6b55d6c8.jpg"
+    },
+    {
+     "titre": "À peine arrivé, l’ex-ministre de la Santé François Braun quitte la campagne de Teddy Riner",
+     "lien": "https://www.lefigaro.fr/politique/a-peine-arrive-l-ex-ministre-de-la-sante-francois-braun-quitte-la-campagne-de-teddy-riner-20261114",
+     "resume": "Il était présenté comme une figure crédible, donnant du poids à celle du champion de judo. Six jours après le lancement de la campagne du candidat ni de droite ni de gauche, l’ex-ministre du gouvernement Borne quitte le bateau.",
+     "date": "2026-11-14T11:44:31+01:00",
+     "source": "",
+     "image": "https://i.f1g.fr/media/cms/2998x1687_crop/2026/11/14/1bed7da8700288e14d315992068e46fa321de56dcba8368f967739550a1704ab.jpg"
+    },
+    {
+     "titre": "Frédéric Dabi : « Teddy Riner incarne la France qui gagne dans un pays qui estime être en déclin »",
+     "lien": "https://www.lefigaro.fr/vox/politique/frederic-dabi-teddy-riner-incarne-la-france-qui-gagne-dans-un-pays-qui-estime-etre-en-declin-20261113",
+     "resume": "ENTRETIEN - Pour le directeur général de l’Ifop, la candidature du champion olympique, venue de la société civile, révèle une défiance inédite envers la politique et l’absence d’incarnation dans le bloc central.",
+     "date": "2026-11-13T16:17:28+01:00",
+     "source": "",
+     "image": "https://i.f1g.fr/media/cms/3000x2001_crop/2026/11/13/b56eb9aa324cc2087a7ce2adffc864019ad663f928e96b05002c64b367d95d75.jpg"
+    },
+    {
+     "titre": "Guillaume Tabard : « À droite et au centre, une primaire encore possible ou un séisme irréversible ? »",
+     "lien": "https://www.lefigaro.fr/elections/presidentielles/guillaume-tabard-a-droite-et-au-centre-une-primaire-encore-possible-ou-un-seisme-irreversible-20261113",
+     "resume": "CONTRE-POINT - Pour certains, la désignation d’un candidat commun au bloc central relève de l’évidence. Pour d’autres, cette solution hâtive et non organisée a plutôt des airs de porte de sortie pour éviter une humiliation dans les urnes.",
+     "date": "2026-11-13T19:15:17+01:00",
+     "source": "",
+     "image": "https://i.f1g.fr/media/cms/1918x1079_crop/2026/11/13/b94c2b3fb2d6ded00117102dbf2f936287112e3c4112864e5ec49312191fa975.jpg"
+    },
+    {
+     "titre": "Plaies à la main et au front, suspect en fuite : ce que l’on sait de l’agression à l’arme blanche d’un responsable universitaire des Yvelines",
+     "lien": "https://www.lefigaro.fr/actualite-france/un-responsable-d-universite-agresse-a-l-arme-blanche-dans-son-bureau-selon-le-ministre-de-l-enseignement-superieur-20261113",
+     "resume": "Un des vice-présidents de l’Université de Versailles Saint-Quentin-en-Yvelines a été «violemment agressé à l’arme blanche dans son propre bureau» vendredi soir, et «a été blessé», a indiqué vendredi soir le ministre de l’Enseignement supérieur et de la…",
+     "date": "2026-11-14T11:56:39+01:00",
+     "source": "",
+     "image": "https://i.f1g.fr/media/cms/orig/2026/11/14/e9fff166770387a26bf7a37db7f4839a94d8a9aa24e2696d7d1eac5c6e0b578d.JPG"
+    },
+    {
+     "titre": "L’éditorial de Laurence de Charette : « École, université, un abandon d’État »",
+     "lien": "https://www.lefigaro.fr/vox/societe/l-editorial-de-laurence-de-charette-ecole-universite-un-abandon-d-etat-20261113",
+     "resume": "La situation devrait mobiliser toutes les forces de la nation pour un ressaisissement, mais elle ne suscite pour l’heure que de nouveaux et tragiques renoncements.",
+     "date": "2026-11-13T20:12:42+01:00",
+     "source": "",
+     "image": "https://i.f1g.fr/media/cms/1918x1079_crop/2026/11/13/c333ef7fa89d984e0ba8c4023543dc2bf2f2e6485e0a6830c1bfaa275d7999e5.jpg"
+    }
+   ],
+   "flux_utilise": "https://www.lefigaro.fr/rss/figaro_actualites.xml"
+  },
+  {
+   "id": "monde",
+   "nom": "Le Monde",
+   "couleur": "#111111",
+   "une": {
+    "fichier": "unes/monde.webp",
+    "date": "2026-11-14",
+    "source": "https://www.frontpages.com/t/2026/11/13/le-monde-215932kf8@2x.webp"
+   },
+   "articles": [
+    {
+     "titre": "Mobilisation lycéenne : la communication opaque du gouvernement sur les chiffres des lycées perturbés et des interpellations",
+     "lien": "https://www.lemonde.fr/societe/article/2026/11/14/mouvement-lyceen-la-communication-opaque-du-gouvernement-sur-les-chiffres-des-lycees-perturbes-et-des-interpellations_6809555_3224.html",
+     "resume": "Depuis la rentrée du 2 novembre, l’éducation nationale ne partage plus que les chiffres des lycées entièrement bloqués. Un bilan qui minimise la mobilisation, de l’avis des chefs d’établissement. Le nombre d’interpellations, lui, est passé sous silence…",
+     "date": "2026-11-14T05:00:06+01:00",
+     "source": "",
+     "image": "https://img.lemde.fr/2026/10/13/447/0/8448/4224/644/322/60/0/a08f5db_upload-1-a74t3clwuqo2-l1020561.jpg"
+    },
+    {
+     "titre": "EN DIRECT, guerre en Ukraine : Volodymyr Zelensky affirme que les Etats-Unis ont évoqué des concessions territoriales en échange d’une adhésion à l’OTAN",
+     "lien": "https://www.lemonde.fr/international/live/2026/11/14/en-direct-guerre-en-ukraine-volodymyr-zelensky-affirme-que-les-etats-unis-ont-evoque-des-concessions-territoriales-en-echange-d-une-adhesion-a-l-otan_6808609_3210.html",
+     "resume": "« C’est la première fois que cette question a été soulevée », a déclaré le président ukrainien, quelques jours après le dernier cycle de pourparlers de paix à Abou ⁠Dhabi. Il a répété que l’Ukraine n’était pas disposée à retirer ⁠ses ‌troupes et que les…",
+     "date": "2026-11-14T12:13:27+01:00",
+     "source": "",
+     "image": "https://img.lemde.fr/2026/11/12/543/0/6754/3377/644/322/60/0/d5b1d16_ftp-1-ewrwnghrwutf-26d9ac290f55483da5fb4b7188da8cda-1-261a4dffa5174eaeb7abb0ca5e2ea62b.jpg"
+    },
+    {
+     "titre": "L’affaire Nvidia tourne à la crise politique pour Donald Trump",
+     "lien": "https://www.lemonde.fr/international/article/2026/11/14/aux-etats-unis-l-affaire-nvidia-tourne-a-la-crise-politique-pour-donald-trump_6809696_3210.html",
+     "resume": "Selon le « New York Times », le président américain aurait été mis au courant, dès le mois de mai, des risques liés à la relation entre Jensen Huang, patron du géant des semi-conducteurs, et une entrepreneuse chinoise soupçonnée d’espionnage. Il est…",
+     "date": "2026-11-14T06:00:42+01:00",
+     "source": "",
+     "image": "https://img.lemde.fr/2026/11/13/141/0/3696/1848/644/322/60/0/19a017d_ftp-1-qfxvmkmw6bdf-2026-11-13t192458z-561553309-rc27tnatnx85-rtrmadp-3-nvidia-ceo.JPG"
+    },
+    {
+     "titre": "Pour les écoles d’ingénieurs, la difficile équation de la baisse du niveau en maths",
+     "lien": "https://www.lemonde.fr/campus/article/2026/11/14/pour-les-ecoles-d-ingenieurs-la-difficile-equation-de-la-baisse-du-niveau-en-maths_6810082_4401467.html",
+     "resume": "Alors que les résultats de l’enquête internationale PISA ont une nouvelle fois souligné les lacunes des jeunes Français en sciences, les établissements redoublent d’efforts pour redresser la barre.",
+     "date": "2026-11-14T12:00:10+01:00",
+     "source": "",
+     "image": "https://img.lemde.fr/2026/11/02/27/0/3557/1778/644/322/60/0/2f64df9_upload-1-ylf8vnor02hf-maths-texture-2.jpg"
+    },
+    {
+     "titre": "Comment l’extrême droite fait passer pour du féminisme un discours défavorable aux femmes",
+     "lien": "https://www.lemonde.fr/idees/article/2026/11/14/comment-l-extreme-droite-fait-passer-pour-du-feminisme-un-discours-defavorable-aux-femmes_6809686_3232.html",
+     "resume": "Plutôt que de remettre en question des violences structurelles, les milieux réactionnaires vantent une pseudo-inégalité naturelle entre les hommes et les femmes sur la question du corps. Une hiérarchie qui leur permet d’en défendre d’autres, et de faire des…",
+     "date": "2026-11-14T06:00:11+01:00",
+     "source": "",
+     "image": "https://img.lemde.fr/2026/11/11/187/128/2426/1213/644/322/60/0/fc43e57_upload-1-z3e7pwy7it8h-feminisme-extremedroitre.jpg"
+    },
+    {
+     "titre": "Un XXe Sommet de la Francophonie au Cambodge, pour « réinvestir dans la paix », a été rattrapée par la guerre dans les Grands Lacs",
+     "lien": "https://www.lemonde.fr/international/article/2026/11/14/reunie-au-cambodge-pour-reinvestir-dans-la-paix-la-francophonie-rattrapee-par-la-guerre-dans-les-grands-lacs_6809691_3210.html",
+     "resume": "Au sommet de Phnom Penh, du 14 au 16 novembre, l’élection du secrétaire général de l’Organisation internationale de la francophonie (OIF) tourne à la bataille par procuration entre le Rwanda et la RDC.",
+     "date": "2026-11-14T06:00:20+01:00",
+     "source": "",
+     "image": "https://img.lemde.fr/2026/11/12/197/0/7763/3881/644/322/60/0/5605832_ftp-1-3pldwi7tpqsm-afp-d79f4t3.jpg"
+    }
+   ],
+   "flux_utilise": "https://www.lemonde.fr/rss/une.xml"
+  },
+  {
+   "id": "croix",
+   "nom": "La Croix",
+   "couleur": "#c8102e",
+   "une": {
+    "fichier": "unes/croix.jpg",
+    "date": "2026-11-14",
+    "source": "https://img.kiosko.net/2026/11/14/fr/lacroix.750.jpg"
+   },
+   "articles": [
+    {
+     "titre": "« Emmanuel Macron ne peut ignorer l’économie criminelle du Cambodge »",
+     "lien": "https://www.la-croix.com/a-vif/emmanuel-macron-ne-peut-ignorer-l-economie-criminelle-du-cambodge-20261114",
+     "resume": "Alors qu’Emmanuel Macron se rend à Phnom Penh pour le Sommet de la francophonie les 15 et 16 novembre, Mu Sochua, opposante au régime de Hun Manet, enjoint au président français de réclamer des comptes sur le respect des droits humains.",
+     "date": "2026-11-14T12:43:00+01:00",
+     "source": "",
+     "image": "https://i.la-croix.com/x/2026/11/13/2588791-le-20e-sommet-de-la-francophonie-se-tient-a-phnom-.jpg"
+    },
+    {
+     "titre": "Guerre en Ukraine : Zelensky dévoile une proposition américaine de céder le Donbass contre une adhésion à l’Otan",
+     "lien": "https://www.la-croix.com/international/ukraine-russie-jour-1725-point-conflit-ukrainien-poutine-aujourdhui-20261114",
+     "resume": "Volodymyr Zelensky a révélé samedi 14 novembre que Washington lui aurait proposé des concessions territoriales contre une adhésion à l’Otan, tout en alertant sur les ambitions militaires russes cet hiver. Retrouvez l’actualité de la guerre en Ukraine de ce…",
+     "date": "2026-11-14T12:30:05+01:00",
+     "source": "",
+     "image": "https://i.la-croix.com/x/2026/11/14/2589235-volodymyr-zelensky-au-sommet-de-dublin-vendredi-13.jpg"
+    },
+    {
+     "titre": "Sylvain Delouvée, chercheur : « L’interaction sociale aide à se sentir considéré »",
+     "lien": "https://www.la-croix.com/politique/sylvain-delouvee-chercheur-l-interaction-sociale-aide-a-se-sentir-considere-20261114",
+     "resume": "Sylvain Delouvée, enseignant en psychologie sociale à l’Université Rennes 2, revient sur les mécanismes à l’œuvre derrière le manque de considération. Et comment parer au ressentiment contemporain.",
+     "date": "2026-11-14T12:12:50+01:00",
+     "source": "",
+     "image": "https://i.la-croix.com/x/2026/11/14/2583144-a-l-appel-des-gilets-jaunes-de-commercy-une-assemb.jpg"
+    },
+    {
+     "titre": "Fonction publique, le gouvernement annonce des mesures mais ne calme pas la colère",
+     "lien": "https://www.la-croix.com/economie/fonction-publique-le-gouvernement-annonce-des-mesures-mais-ne-calme-pas-la-colere-20261114",
+     "resume": "Le gouvernement a annoncé, vendredi 13 novembre 2026, des mesures notamment pour aligner les agents publics sur la revalorisation du smic qui sera effective au 1er décembre. Les syndicats, qui réclament un dégel du point d’indice, ont appelé à la…",
+     "date": "2026-11-14T11:57:35+01:00",
+     "source": "",
+     "image": "https://i.la-croix.com/x/2026/11/14/2589220-le-premier-ministre-sebastien-lecornu-et-le-minist.jpg"
+    },
+    {
+     "titre": "Face à la Russie, l’Europe désigne enfin ses représentants",
+     "lien": "https://www.la-croix.com/international/face-a-la-russie-l-europe-designe-enfin-ses-representants-20261114",
+     "resume": "Réunis vendredi 13 novembre à Dublin, les Vingt-Sept ont choisi ceux qui les représenteront lors d’éventuels pourparlers visant à regagner la paix en Ukraine. Mais en interne, des divisions existent toujours, notamment concernant l’aide financière à Kiev.",
+     "date": "2026-11-14T11:42:46+01:00",
+     "source": "",
+     "image": "https://i.la-croix.com/x/2026/11/14/2589218-friedrich-merz-ursula-von-der-leyen-et-emmanuel-ma.jpg"
+    },
+    {
+     "titre": "Mouvement social : 50 à 60 cortèges attendus ce samedi, 70 000 policiers mobilisés",
+     "lien": "https://www.la-croix.com/societe/direct-acte-v-manifestation-14-novembre-colere-crise-sociale-violences-aujourdhui-20261031-20261114",
+     "resume": "Des dizaines de manifestations sont à nouveau prévues ce samedi, avec des revendications variées, dans le sillage du mouvement lycéen et de la crise du pouvoir d’achat. À Rennes, le plus grand lycée de France va devoir fermer pour une semaine. Retrouvez…",
+     "date": "2026-11-14T11:18:51+01:00",
+     "source": "",
+     "image": "https://i.la-croix.com/x/2026/11/14/2589210-des-fourgons-de-crs-dans-une-rue-du-centre-ville-d.jpg"
+    }
+   ],
+   "flux_utilise": "https://www.la-croix.com/feeds/rss/site.xml"
+  },
+  {
+   "id": "equipe",
+   "nom": "L'Équipe",
+   "couleur": "#e2001a",
+   "une": {
+    "fichier": "unes/equipe.jpg",
+    "date": "2026-11-14",
+    "source": "https://img.kiosko.net/2026/11/14/fr/l_equip.750.jpg"
+   },
+   "articles": [
+    {
+     "titre": "Championnat des nations : un XV de France héroïque vient à bout de l'Afrique du Sud à un an de la Coupe du monde",
+     "lien": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxQQ0VUemFFQnJzSGVIei16QTVlaWRXU043RUZ3b1QwUUlEblA5VEd0WmVBb1NMeGRaU2hkamVacGJzNVMyOU9HQTJ0dzFLdlhuUnZtajIxdmZxMUhYekpKcTNEcWRleTZqRmYxeU5yNkFzOFZmWnFnNnRWUXdYZ2V0bHhscUNCcGJoeHZNVUxqNVo4V0RadWpBdkxKbHZkWUlxQ25fMExPWDQ0Nko0Z2NQOFRXTGVVQjdObFNMLVpRUk1JZ0pRbmROeGpKdEVtamdFbzg1MDRZSS1zMGxFMlpVSE4tLVFMS3B3Ql8za0swbw?oc=5",
+     "resume": "",
+     "date": "2026-11-13T23:17:15+01:00",
+     "source": "L'Équipe",
+     "image": null
+    },
+    {
+     "titre": "Alexander Zverev serait visé par une nouvelle plainte de son ex-compagne pour fausses déclarations",
+     "lien": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxPZ1FqWnYtOVZMd0NQYWc3ZXFQT3dTU0NJQTFxZWR6b1V5WlJWeXRPcVBvQ2FDZGNKbnI2ZzJKNUxRVm5WZjN5TVdiQklFbVFKdl85dTZDZ05JUElOZzNKU0ZnNFNPLVpySEh2dGFpRlcyRmRKU2o2c1NTcVNWSVRvYzZ4NU1hTXlGMGhNYW40Sk5qLXY3d2ZOeWdHbG9LNlQzZ1NabHd1aU5WQTY4Uk5oRWxPMUhtbXJzdUY5STEwWHVwS3FLeWxmQnNNOHdyUW5IRHpRUVZ3NEdWVHdkbDE2RA?oc=5",
+     "resume": "",
+     "date": "2026-11-13T22:16:17+01:00",
+     "source": "L'Équipe",
+     "image": null
+    },
+    {
+     "titre": "Pourquoi l'essai casquette de Théo Attissogbe lors de France-Afrique du Sud est parfaitement valable",
+     "lien": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxPZ0o5SlpRSXdETGNGU2drVmUwNnpJS01oVVNkOFZxZlBkcjNzSnQ4NHE1VzV2U0tYU2xYWG9lMHFTQklScVo4a2dPYnppSWhrUGpJR0VTRU1LeTBrcGRMaW5sX0t1MnNJYmtHX0V3RjBWYWJhOWZnNHZNWnFXdHJyLWx6Wmo3US00QmFCbG52V2xBNHhrTGJZdDhZU0tkNzNueXNMWURxMUc2bUZKWGhYWjBiYUVHclFSbXZjRnpxZUlTdFQwZlZmbGQ2VGRGM05FdUZySnBGUmtPSVU1Rmsyczdn?oc=5",
+     "resume": "",
+     "date": "2026-11-13T21:58:33+01:00",
+     "source": "L'Équipe",
+     "image": null
+    },
+    {
+     "titre": "Rassie Ersamus change toute sa première ligne à quelques minutes du coup d'envoi de France-Afrique du Sud",
+     "lien": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxOR19rNWhPLS16R0NJdnlVdzBnQnVQYk5ocjZTUlQ5VU1OZVJCZlJrQVZJOHdzenZwbEZQXzJqT1NQbUZ1Ym5aS3VDeFMyN01DdUFkUW92VGhoQW9JTVFZY0liSW8xLUMzRnoyZ1RqN2QxTTVrc0F4ZEtpb1M3QkRYVDVuSDgyN2p6bEkwSm9QZnY0NlQ2Vk5aNVhlWGRtT3lHYVoyaFZZVXZlSVZEZWtDbEtfcjd2WjdvMFlwWkxxZnU5b05yQjhhOS00UnRzNmdoQ3B6UlpIZU1qZFh3SmkwbHRYWWZYbHUx?oc=5",
+     "resume": "",
+     "date": "2026-11-13T20:30:36+01:00",
+     "source": "L'Équipe",
+     "image": null
+    },
+    {
+     "titre": "Walid Regragui parmi la liste des candidats auditionnés par le RC Lens",
+     "lien": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxOT01KN1VOMW1TLXpjWkc4bkUyY3lweldQdGFUTllsNVV2RWVHWm9TRTkzb1dzUjd4SHRURWtPS1VCTWotUEZDa2loRlhxOTNKWEd5X2lMM1BqOWZBcEtmS3VleXowc1E3dS1ydkJNamVtRUQtX0tsU3VjaEtwNVgyMDFjSmpYcnJVVV8wdjlkODNKckJ1bWhhallscWsySF90ajZUV2owYkNWX0xoWUhmZjVQOXFkYzc0MnZSaE8tUUhGNDR0cDBaTEExQ2JvQ3h3NkhnVTQwVEQwakpzVUVYLXpjb1VBMkFNQVE?oc=5",
+     "resume": "",
+     "date": "2026-11-13T17:58:56+01:00",
+     "source": "L'Équipe",
+     "image": null
+    },
+    {
+     "titre": "Désiré Doué victime d'une luxation dentaire, l'avis d'un spécialiste : « Ce qui peut être problématique, c'est de reprendre un coup »",
+     "lien": "https://news.google.com/rss/articles/CBMipgJBVV95cUxOSk9tTllhc1VxcWxMUHRjODdzVFFEM0t4cHE1bFBsbTN6N0JZanlDdjNBTWZZZ01kXy1fX2ZpaFNkWTJ3TW5DcUN4b3dMZHE2eUczaGh5c3pHemstdW4tNnRFbXAwYm5Fd3lDblRON2c3bXk0TVk5Z2tCc0ZTdWd5aTY2NGM0cnN0cWlqR3FBR1ZvNmRzMndUbzVZdWg5MzRBdUd3aGE0SmRGUS1FQVZtcHpTSG9UZTNwdFNfcUY0YmRoQXRQQXh2YXBiVUtnUWg5dlFWajRMYzhWOGhlMmI4cXFvdndEQTU4R3NXdDhYOXdMNVEzSHBHcHF4MGlUNGtMR0IwblpBcE9oQUg1dzRSYXhhYXZ6X2Mta0QtdjZydzRXcW1SWGc?oc=5",
+     "resume": "",
+     "date": "2026-11-13T13:36:54+01:00",
+     "source": "L'Équipe",
+     "image": null
+    }
+   ],
+   "flux_utilise": "https://news.google.com/rss/search?q=site%3Alequipe.fr%20when%3A1d&hl=fr&gl=FR&ceid=FR:fr"
+  }
+ ],
+ "sections": [
+  {
+   "id": "monde",
+   "titre": "Actualité principale",
+   "sous_titre": "Les informations les plus importantes, partout dans le monde",
+   "items": [
+    {
+     "titre": "Suspension des vols aux Etats-Unis : une panne géante que l’administration Trump cherche déjà à politiser",
+     "lien": "https://www.lemonde.fr/economie/article/2026/11/14/aux-etats-unis-apres-la-suspension-des-vols-l-administration-trump-politise-cette-panne-geante-et-reclame-50-milliards-de-dollars_6809689_3234.html",
+     "resume": "Un dysfonctionnement affectant les centres régionaux de contrôle aérien a conduit les autorités à clouer les avions au sol dans tout le pays, vendredi. Le secrétaire aux transports, Sean Duffy, a mis en cause du « vieux matériel » et réclame 50 milliards de…",
+     "date": "2026-11-14T06:00:20+01:00",
+     "source": "lemonde.fr",
+     "image": "https://img.lemde.fr/2026/11/14/855/0/8192/4096/644/322/60/0/72d6083_ftp-1-0qqceik3orbi-7596bdea0c404a96a95a8e4986fe72cb-1-75108cacdedf4d9b9c2ce22ac927802a.jpg",
+     "reprises": 12,
+     "score": 44.47
+    },
+    {
+     "titre": "EN DIRECT, guerre en Ukraine : Volodymyr Zelensky affirme que les Etats-Unis ont évoqué des concessions territoriales en échange d’une adhésion à l’OTAN",
+     "lien": "https://www.lemonde.fr/international/live/2026/11/14/en-direct-guerre-en-ukraine-volodymyr-zelensky-affirme-que-les-etats-unis-ont-evoque-des-concessions-territoriales-en-echange-d-une-adhesion-a-l-otan_6808609_3210.html",
+     "resume": "« C’est la première fois que cette question a été soulevée », a déclaré le président ukrainien, quelques jours après le dernier cycle de pourparlers de paix à Abou ⁠Dhabi. Il a répété que l’Ukraine n’était pas disposée à retirer ⁠ses ‌troupes et que les…",
+     "date": "2026-11-14T12:13:27+01:00",
+     "source": "lemonde.fr",
+     "image": "https://img.lemde.fr/2026/11/12/543/0/6754/3377/644/322/60/0/d5b1d16_ftp-1-ewrwnghrwutf-26d9ac290f55483da5fb4b7188da8cda-1-261a4dffa5174eaeb7abb0ca5e2ea62b.jpg",
+     "reprises": 5,
+     "score": 13.66
+    },
+    {
+     "titre": "Le pape Léon XIV accueilli triomphalement dans son ancien diocèse de Chiclayo, au Pérou : « Nous avons l’impression qu’il rentre à la maison »",
+     "lien": "https://www.lemonde.fr/international/article/2026/11/14/le-pape-leon-xiv-accueilli-triomphalement-dans-son-ancien-diocese-de-chiclayo-au-perou-nous-avons-l-impression-qu-il-rentre-a-la-maison_6809853_3210.html",
+     "resume": "Près de 1 million de personnes sont venues saluer, vendredi 13 novembre, le souverain pontife dans la ville péruvienne dont il fut l’évêque pendant près de dix ans avant de rejoindre Rome.",
+     "date": "2026-11-14T09:30:03+01:00",
+     "source": "lemonde.fr",
+     "image": "https://img.lemde.fr/2026/11/13/572/0/6865/3432/644/322/60/0/13f4a92_ftp-1-7qgykzhyy6lf-afp-d7f43nq.jpg",
+     "reprises": 5,
+     "score": 11.54
+    },
+    {
+     "titre": "L’affaire Nvidia tourne à la crise politique pour Donald Trump",
+     "lien": "https://www.lemonde.fr/international/article/2026/11/14/aux-etats-unis-l-affaire-nvidia-tourne-a-la-crise-politique-pour-donald-trump_6809696_3210.html",
+     "resume": "Selon le « New York Times », le président américain aurait été mis au courant, dès le mois de mai, des risques liés à la relation entre Jensen Huang, patron du géant des semi-conducteurs, et une entrepreneuse chinoise soupçonnée d’espionnage. Il est…",
+     "date": "2026-11-14T06:00:42+01:00",
+     "source": "lemonde.fr",
+     "image": "https://img.lemde.fr/2026/11/13/141/0/3696/1848/644/322/60/0/19a017d_ftp-1-qfxvmkmw6bdf-2026-11-13t192458z-561553309-rc27tnatnx85-rtrmadp-3-nvidia-ceo.JPG",
+     "reprises": 4,
+     "score": 7.92
+    },
+    {
+     "titre": "Les Bleus battent les Springboks à Paris pour la première fois depuis 21 ans",
+     "lien": "https://www.france24.com/fr/%C3%A9missions/sports/20261114-bleus-battent-springboks-paris-pour-premi%C3%A8re-fois-depuis-21-ans",
+     "resume": "Le XV de France a décroché une victoire de prestige en s'imposant au bout du suspense contre l'Afrique du Sud (21-19), vendredi soir au Stade de France. Une victoire bonifiée contre l'Argentine suffira aux Bleus pour se qualifier en finale du Championnat des…",
+     "date": "2026-11-14T11:27:01+01:00",
+     "source": "france24.com",
+     "image": "https://s.france24.com/media/display/0732732e-dfe8-11f1-801a-29048b396e03/w:1024/p:16x9/J24-France-celebrate.jpg",
+     "reprises": 3,
+     "score": 5.76
+    },
+    {
+     "titre": "Un navire-citerne percute un bateau de croisière à La Nouvelle-Orléans, aucun blessé grave",
+     "lien": "https://www.lemonde.fr/international/article/2026/11/14/un-navire-citerne-percute-un-bateau-de-croisiere-a-la-nouvelle-orleans-aucun-blesse-grave_6809455_3210.html",
+     "resume": "Douze personnes ont été sorties de l’eau, et 32 personnes ont été transportées à l’hôpital. La collision a eu lieu alors que le bateau de la compagnie American Cruise Lines était amarré à quai, sur le Mississippi, avec ses passagers à bord.",
+     "date": "2026-11-14T01:35:34+01:00",
+     "source": "lemonde.fr",
+     "image": "https://img.lemde.fr/2026/11/13/0/0/4096/2048/644/322/60/0/391ef5e_ftp-1-odjiz3lt1vpq-07111035b3cf4c5db9d75b72e3859525-0-dbbd6e1e18784bb898b020f42cce4be3.jpg",
+     "reprises": 2,
+     "score": 5.54
+    }
+   ],
+   "a_traduire": []
+  },
+  {
+   "id": "ia",
+   "titre": "Intelligence artificielle",
+   "sous_titre": "Modèles, entreprises, régulation, recherche",
+   "items": [
+    {
+     "titre": "«Nous sommes très paranoïaques» : à quelques jours de son entrée en Bourse, le patron d’Anthropic défend sa priorité donnée à la sécurité de l’IA",
+     "lien": "https://news.google.com/rss/articles/CBMimwJBVV95cUxNa2cyNFU4clFHMGM0SzBHd0pmUmhFTjRQTkxURmFhOFowandOdmNwazBNanltNUlzbkVkWGJfUVZpYTE4MVRVaHNubTRSczh1VUlNdDFyLXVSak1DdUh1LWcxTzFoQUIxeE1qRUVHQ3kyM182eE1ldm1vTVgtNGxIVnBGNW4telh3Y0FqWHd1Y2dCa2lSLWRGNE04ZTlNN2lKMDNzdGpCN1FrMEJPT3ZvRURoZWFxbVNWRnZjOVJQaDd4M2gzNFRXdmUtV0pqbVhTVHU4MzY2WUZlLWxGRWFNb1JSaFBhQ01aelpLVE96V0ZCYnREdmgwbXBKVmU1Ui1kWFhtSTZVX0E0SU1FQlJiRUk4QWpIODREVGJF?oc=5",
+     "resume": "",
+     "date": "2026-11-14T10:02:35+01:00",
+     "source": "Le Figaro",
+     "image": null,
+     "reprises": 11,
+     "score": 27.09
+    },
+    {
+     "titre": "ChatGPT Wallet permet aux agents IA de faire des achats et bientôt de payer à notre place",
+     "lien": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxPT3V2RW1fd3ZQNGM5S1hXbHIxbFhPVGlEdTRpUm1PcFNWcEJGcWVXZW9qTXpWRGJ0cTRXSmg3RnZ5VE5ibi1aUGszQzFwNkdldkNKQUNxSnNYTXptNWVkWllmY1NHMU55VzRDaGswNWtMVkVrODhqMi1qbXQ2RUg3cW1teDhTZnRjLXFXSERoUHR0R090a1haTHhUejhHb0JoSE8zRDBDczctM04wOXJIV1BOWXhVLVV0Q1NxckV6U2tydm40TmpJaVNkbUdDYWlqNkl3Q3VpOUd2VGdtMFFGalFB?oc=5",
+     "resume": "After launching its Dots AI agents platform earlier this year, OpenAI is launching a wallet for the agents. ChatGPT Wallet is rolling out starting today for ChatGPT Pro subscribers in the US aged 18 and older using a US billing address and \"eligible…",
+     "date": "2026-11-14T12:08:00+01:00",
+     "source": "MacGeneration",
+     "image": null,
+     "reprises": 9,
+     "score": 24.2
+    },
+    {
+     "titre": "« Il est Nvidia » : Jensen Huang, le pape de l'intelligence artificielle qui semblait intouchable",
+     "lien": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxOVnJKX1RYT3lFajgxX0s5MmpzTm5EbTh1bUluNUtCWkpqd0lMV0pXQ0V0bGJ5SjBwTmtGdmg3dl83eTZSNUl4MV8wYjY5bnNXSGk0YUZKTkpTdnBadWpnWUNiZS1jLXpGUDVQV25FRE53cExwWVZfdHNtQmVueHVDYlpuM3JHc0xoMFFsbzZrQzh3bU5JaTBXRk9xcHFVOVY3YTQxWDZXSzZLeTZxdEFOdWpzUFBSRWpmVDNWUU96M090S1hZckpoOFEyek10dmpOQmpmLWlOMHBmZFByTkZybXdzX0IwOFptTklhcVNkaFg?oc=5",
+     "resume": "Au lendemain de la démission de Jensen Huang, une partie des salariés de Nvidia refuse de tourner la page. Selon des messages internes consultés par Wired, certains demandent au conseil d'administration de faire revenir leur fondateur.",
+     "date": "2026-11-14T08:30:20+01:00",
+     "source": "Les Echos",
+     "image": null,
+     "reprises": 5,
+     "score": 11.72
+    },
+    {
+     "titre": "IA : Arthur Mensch appelle les dirigeants européens à agir «dès maintenant» pour rester dans la course",
+     "lien": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQaTFtbFhRUVFEYTc5bE1ZZnRfNFdYSmVqUGR2ZFRMRzRWRXVlVVR5SEZMTVItaEFvdzBuYUlKeVJVYVB4M1pPYzJhZ29tRVYyTGE1Q0t0TzdLMDlrbmNEQ2FlNDJCZGRDVUM1VXhnRUFJWDJvSTQ5eUhaVHBZdmVDSlltNUJWeHdSd3gzXzFhdGg2c0g0aHFuZW9LRUF4dURrMGh3dUVxVG9IZWZpOGZqYWc1ZmRsVU9TT2NBdkczNWVWNGoxQWhSRVJZU1VoRDRPM0E?oc=5",
+     "resume": "",
+     "date": "2026-11-14T05:52:35+01:00",
+     "source": "Maddyness",
+     "image": null,
+     "reprises": 3,
+     "score": 4.11
+    },
+    {
+     "titre": "Intelligence artificielle : « Ne pas enlever l’humain de l’équation sinon on va arriver à du grand n’importe quoi »",
+     "lien": "https://news.google.com/rss/articles/CBMisAJBVV95cUxPQmhGSC1TNi1fN1BaUHlHVHd6LW56U1hvM283MTJ1QzdOblI3OGp0LWxTQTZMWUNyeUxwMkJldjRObF9ObVF6eGM2VDdTQ25HT0FGUnlIZWdyVmxTYWVmQlExYnM1cTllWjNwWlJ1NjczUmt0ampFUzRNN3BfZ2FiaUtJYkRSeUZ1ak1TOHhLSUhmNWc1TG1mTDhxNm5SZkF5bVNqSW9Ob3RpbHV3WDVwd1N5aTVUSnlndkRYb1RENm1pdmZQcFR4OGFELUJKOThpd3NSbDJ6YkV0MDJIcUM5UDZYUWRfUm8zQnZmMW45VmVpTW93V3Q0aEdIblpPNXNzTnZ3cUdlU0QyVGtTYU1KYjlZcHQtZl9rdXVfbXFCNnhMR3M2NWF0VUo5cHVHamth?oc=5",
+     "resume": "",
+     "date": "2026-11-14T08:16:04+01:00",
+     "source": "Ouest-France",
+     "image": null,
+     "reprises": 2,
+     "score": 3.5
+    }
+   ],
+   "a_traduire": [
+    {
+     "titre": "CoreWeave Has $22.4 Billion in OpenAI Contracts. Could OpenAI’s Cash Burn Threaten Its Growth?",
+     "lien": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNcV9JSEJGQXhqUFlMLWt2bllWUUczOFVnN3NjakFrN2pZbHRxMEhSMk1ZUkxIZmwyNG44UW8xajJGTW43VUJxZzYyZWlkcDRQLVNFNE5tWjYyemxqNWwxQVNjR09iY1RSRnBFODM5OTQ4dkt2enJNbF9nT2Fta3Z3VEZIN2tiNTNWYVNHWFE0ZlRmMWI2Wkp4OUJJd3ZVRUJGdmJtLUE4SVBmdW5MZWdCYXlkWUZHN1V1TGZR?oc=5",
+     "resume": "",
+     "date": "2026-11-14T10:33:45+01:00",
+     "source": "TIKR.com",
+     "image": null,
+     "reprises": 1,
+     "score": 1.56
+    },
+    {
+     "titre": "ChatGPT’s new Wallet lets AI agents shop and check out for you",
+     "lien": "https://techcrunch.com/2026/11/13/chatgpts-new-wallet-lets-ai-agents-shop-and-check-out-for-you/",
+     "resume": "ChatGPT Wallet lets AI agents shop and check out on users' behalf, starting with a limited rollout to U.S. Pro subscribers.",
+     "date": "2026-11-13T17:00:12+01:00",
+     "source": "techcrunch.com",
+     "image": null,
+     "reprises": 1,
+     "score": 1.27
+    },
+    {
+     "titre": "Claude’s Duet agent is a little neurotic and surprisingly helpful",
+     "lien": "https://www.theverge.com/ai-artificial-intelligence/1032518/claude-duet-ai-agent-hands-on",
+     "resume": "Normally, the products I test don't offer to help me write up my experience with them. Duet is different. Claude Duet is Anthropic's AI agent for consumers, the latest attempt by an AI company to try to convince us that agents can be useful for people who…",
+     "date": "2026-11-13T15:00:00+01:00",
+     "source": "theverge.com",
+     "image": null,
+     "reprises": 1,
+     "score": 1.24
+    }
+   ]
+  },
+  {
+   "id": "droit",
+   "titre": "Actualité juridique",
+   "sous_titre": "Libertés fondamentales, grandes juridictions, culture juridique pour le CRFPA",
+   "items": [
+    {
+     "titre": "Mobilisation sociale : les délais de publication des arrêtés préfectoraux contestés devant le Conseil d’État",
+     "lien": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxNem5NYXdCRHRqWk1lM29BM3djaF92VWRXZkZLNVdBSHZub09SdGszYThRV3lyb055YnNyY0FNMjRZd1ZVM1JDa0tUdnVIVGE5S2FZWXpfc3IwSElBYTBuNXBSTUZYcDZUN3d5a3QxOFNmaENRaXhwSVZqbFA5ci1OM1V2R240NlNUcy14TmlhZzQ0dG5yYWJ4OG43RWVxUUMzZjRzRnNfeHlNMzNGd0MyRFpqQThNQVNpZnBGdnNUa2hqWDY1TnF3MjZLckFxRkV6ZEhwcHZGWVRRaVo4X0VsbS1FeEU1WmdKUzBGRzZlQ2Q?oc=5",
+     "resume": "",
+     "date": "2026-11-13T08:28:00+01:00",
+     "source": "Actu-Juridique",
+     "image": null,
+     "reprises": 12,
+     "score": 24.88,
+     "libertes": false
+    },
+    {
+     "titre": "La Cour européenne des droits de l'homme condamne la Suisse pour des violences policières à Genève",
+     "lien": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPZVEzYkotN3BkVlpZQmF0TV8xU3hOQldyWUtyZUlJaklUXzVYcDBHNXRsRDhzRWR6Z3FFemlZRlNUYjJmY2ZrQkJCTXdvWHV6Tm1nbW5qaHdja3YyMHpFWE9ZT3hIZWluS25qMmY3T29wTzlHQmNwQWxJbG0wekxXTzJFTFFfNllURDdfMVQ3Q2lLN0xDYXhUT2wwMnBoV0tPT196cg?oc=5",
+     "resume": "",
+     "date": "2026-11-12T19:27:54+01:00",
+     "source": "Le Temps",
+     "image": null,
+     "reprises": 4,
+     "score": 7.42,
+     "libertes": true
+    },
+    {
+     "titre": "Municipales : le Conseil d’Etat confirme le scrutin",
+     "lien": "https://news.google.com/rss/articles/CBMingFBVV95cUxNbm9ZVFlJbXFRWW5XWkRUNWF1WkRxamFPenNHRm9tTFRRTEc4bi1QZ2VCbDZzQTZPVkNRcmp4ZUZMYUFrNWQ3ZERVcFl1UmgxWjhvZDdRcHZUWTNUZFc5SHZldjcxbWVuUDZ5dXlKaWpEZS1Mb3BPWU1BQ2ZUbllQZUNjU2ZXVm9oLWZrMDR4eHZwZHNhcXFaMW9rVU44UQ?oc=5",
+     "resume": "",
+     "date": "2026-11-13T05:05:00+01:00",
+     "source": "Midi Libre",
+     "image": null,
+     "reprises": 3,
+     "score": 4.92,
+     "libertes": false
+    },
+    {
+     "titre": "Elus et candidats sont dans des situations spécifiques : au juge pénal de le prendre parfois en compte, y compris selon la CEDH",
+     "lien": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxQQUR1dl83YzY5Z2FTMUNEWVN2Y21NNzRJMVNqOGRkQV9lcG9nc0JxSk1FTXdZYzgtMDQ0VTJrNm15OG4zbWNKamtuTkQyUElEeFY2UVdBcWJkalZtdGRzWW1ER2J6UkV5SGNRY184dEdZUVBfXzlleE0zN2l6S1ZBRFVXQ25WdTM4NGcxc0FXSkYtdmtNNHhyOTNsdm5WVGxzMk1hbFdvczZ2LWszb3puNnpIYl9BaDVnNGpoOWx4MjhzMFo4N3B2Z0l2SzJCN0ZoeVBMcjJXQTU0cDlpVlFoaUhOSjdTZFdYNm42emI3MWMtM1h6UFRkYnk5QnfSAYICQVVfeXFMT2ZMcl96TURFUXR5anZ4X3lsMzJNRVJxQUROYVBab09UOTZSSW51U0FTRlpFWDVnVjFjYzg4SF82bmk3OTl4YndVYUZsR0JzdHN1SXpmMjNhSldOZWh1bGlEOUFDN0ZkTm91dHJmNkNfYm9aZnFYSXJYdF9ZMl9CN1pBNEdLNTd5WTljcGRIN0pKeWdncHJadlJWeDl0UTBFZjZaZXhXdlYtczY2MTE2bUU5RksxUDJid0I5b1ZvNzJuc3FGMW9ib3JTdGFOVVFwN281ZnBpV2FsOW0zSk5TVHBNTlVrOFJiRmNJQVROV0JzaFpjTnljQnFWcVBKV0VwUEZB?oc=5",
+     "resume": "",
+     "date": "2026-11-12T18:33:38+01:00",
+     "source": "Landot & associés",
+     "image": null,
+     "reprises": 1,
+     "score": 3.14,
+     "libertes": true
+    },
+    {
+     "titre": "Cumul avec compléments AEEH : le Conseil d'Etat censure les CAF",
+     "lien": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQYm1kcG9ldThxTnlGMm96VkEyTFJpYUJrRzB4YnN6eWxJcXJHc2tRZFNMTHRTUElkRmY2UkRyQ3VBMGdnenY5X2w2Y2J4TFJ2UHpLd09lYUhTQ2RHR0FEa0JHY3FwMVZEdXZYOEczc2xBdy1fcmtpR0oyWHRMNlA5M3AzTGpBMldHazNpYkZyeVJfWm5xdGM3aFJETW9vR3ZYWjBXUUJ0a1FCVEhEOHVkWA?oc=5",
+     "resume": "",
+     "date": "2026-11-13T15:50:26+01:00",
+     "source": "Le Club de Mediapart",
+     "image": null,
+     "reprises": 1,
+     "score": 3.03,
+     "libertes": true
+    },
+    {
+     "titre": "\"C'est inquiétant pour la liberté d'expression\" : à Pau, deux femmes jugées pour diffamation contre François Bayrou sur fond de guerre à Gaza et d'affaire Bétharram",
+     "lien": "https://news.google.com/rss/articles/CBMi7wJBVV95cUxQWC1GVktXU3NSWXMxVzhTZGhjbXMtVW5OMnVZRGRIWDNySk4tNEJzRUoydWxNQ2hBbE94eGlTQXI1UnFnZm9zR3pNVTc1M0VEWnF2T21OaldEN2ZRUFgyYUJTaWdoaEl0VUdlM3ladTRXWnl3b0ZiUGVteW5DV3lUMDR2eTBkVnFpYTBDUkt4OXF0SktOdEF2YXlLTFlmTnctTU9LZXV1X0RhR2VTLW5CcXQ1RXc1R1NDeVR6a2M4akVGOGVmQnRsYjJLWUZPWnFDbnJKemhLWHo2SDR5bE9WYVVsTVdYUmhRcnRFRzY0YTlUYkpuNHphMGNlWjlOdFFIV0NsTHg1V0R1c0xFdVlyRm5uQU9lSUQ2Ty00R0lLcWJFVXJCaW80d25TanY2clo5VG92aF95eEpfbHNxY2l4aXMxb1BfZEhOUkEya21ROTFSRmhBTk1aRTFQeW5RTjdSa1FvVWNGSXQ3clNTS2Fn?oc=5",
+     "resume": "",
+     "date": "2026-11-13T12:46:36+01:00",
+     "source": "France 3 Régions",
+     "image": null,
+     "reprises": 2,
+     "score": 2.98,
+     "libertes": true
+    }
+   ],
+   "a_traduire": []
+  }
+ ]
+}
