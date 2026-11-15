@@ -1,32 +1,48 @@
 {
  "date": "2026-11-15",
- "genere": "2026-11-15T13:14+01:00",
+ "genere": "2026-11-15T14:52+01:00",
  "journaux": [
   {
    "id": "figaro",
    "nom": "Le Figaro",
    "couleur": "#163860",
    "une": {
-    "fichier": "unes/figaro.jpg",
-    "date": "2026-11-14",
-    "source": "https://static.milibris.com/thumbnail/issue/ad12c9f6-20f1-4b5a-bc04-b6a569a992b4/front/catalog-cover-large.jpeg"
+    "fichier": "unes/figaro.webp",
+    "date": "2026-11-15",
+    "source": "https://www.frontpages.com/t/2026/11/15/le-figaro-1434135r5@2x.webp"
    },
    "articles": [
     {
-     "titre": "Cyberattaque chez Maileva, filiale de La Poste : ce que l’on sait du vol des données personnelles de 22 millions de personnes",
-     "lien": "https://www.lefigaro.fr/secteur/high-tech/cyberattaque-chez-maileva-filiale-de-la-poste-ce-que-l-on-sait-du-vol-des-donnees-personnelles-d-un-tiers-de-la-population-francaise-20261115",
-     "resume": "DÉCRYPTAGE - Victime d’une cyberattaque mi-septembre, la plateforme spécialisée dans l’envoi de courriers professionnels a subi le vol des coordonnées de 22 millions de personnes.",
-     "date": "2026-11-15T12:09:44+01:00",
+     "titre": "Colère sociale : plus de 400 interpellations en France, une centaine de gardes à vue à Paris",
+     "lien": "https://www.lefigaro.fr/actualite-france/colere-sociale-une-centaine-de-personnes-placees-en-garde-a-vue-a-paris-dont-38-mineurs-20261115",
+     "resume": "Samedi, près de 400 personnes ont été interpellées en France en marge des manifestations de l’acte V du mouvement social.",
+     "date": "2026-11-15T13:48:23+01:00",
      "source": "",
-     "image": "https://i.f1g.fr/media/cms/2996x1686_crop/2026/11/15/b614874a5f03c2c2070fb7bfd6b3ca1251089829860d55f93d7648d2d7a452e4.jpg"
+     "image": "https://i.f1g.fr/media/cms/orig/2026/11/15/957db5cff00f0c87e7c18545f533e78261429ce7d3a9b316fff857354579fd8a.JPG"
     },
     {
-     "titre": "Victime d’une cyberattaque, Maileva, une filiale de La Poste, annonce un vol de données concernant 22 millions de personnes",
-     "lien": "https://www.lefigaro.fr/secteur/high-tech/victime-d-une-cyberattaque-maileva-une-filiale-de-la-poste-annonce-un-vol-de-donnees-concernant-22-millions-de-personnes-20261114",
-     "resume": "Maileva est une plateforme spécialisée dans l’envoi de courriers professionnels pour les PME et les entreprises de taille intermédiaire. Les données exposées sont le prénom, le nom et l’adresse postale des personnes concernées.",
-     "date": "2026-11-14T22:29:52+01:00",
+     "titre": "Protection des enfants, opposition au «permis de tuer» et au gouvernement : à Paris, un mouvement social aux revendications multiples et en perte de vitesse",
+     "lien": "https://www.lefigaro.fr/actualite-france/protection-des-enfants-opposition-au-permis-de-tuer-et-au-gouvernement-a-paris-un-mouvement-social-aux-revendications-multiples-et-en-perte-de-vitesse-20261114",
+     "resume": "REPORTAGE - Le cortège parisien a rassemblé 24.000 personnes selon Beauvau et 100.000 selon l’Interfac de la jeunesse. Si la première partie de l’itinéraire s’est déroulée sans accroc, quelques affrontements ont eu lieu en fin de parcours, place de la Nation.",
+     "date": "2026-11-14T21:18:37+01:00",
      "source": "",
-     "image": "https://i.f1g.fr/media/cms/orig/2026/11/14/b114c2e6f3d49c7144b3f2b4cb01b0c6912ba631627b3dd116059252c7f72534.JPG"
+     "image": "https://i.f1g.fr/media/cms/3000x2001_crop/2026/11/14/88fc9aaa236f4126ce67fbbf593c6c74e00bf72ea90e860b72fbff19244c3f6d.jpg"
+    },
+    {
+     "titre": "«Solidarité et indignation» : TF1 apporte son soutien à BFMTV après l’agression de leurs journalistes à Lyon",
+     "lien": "https://tvmag.lefigaro.fr/programme-tv/actu-tele/solidarite-et-indignation-tf1-apporte-son-soutien-a-bfmtv-apres-l-agression-de-leurs-journalistes-a-lyon-20261115",
+     "resume": "Anne-Claire Coudray a tenu à adresser quelques mots à l’égard de ses collègues de la chaîne d’information en continu lors de son journal télévisé de 20 heures ce samedi 14 novembre.",
+     "date": "2026-11-15T12:20:57+01:00",
+     "source": "",
+     "image": "https://i.f1g.fr/media/cms/orig/2026/11/15/c91cb210b8524c8c2fc3f4259e726eebeb53e72ec2928a2ed428f801ea2b32fb.JPG"
+    },
+    {
+     "titre": "Le gouvernement interdit la vente de mortiers d'artifice jusqu'au 27 novembre",
+     "lien": "https://www.lefigaro.fr/actualite-france/le-gouvernement-interdit-la-vente-de-mortiers-d-artifice-jusqu-au-27-novembre-20261115",
+     "resume": "L’interdiction porte sur les artifices de catégories F2 et F3, ceux de catégorie F4 restent réservés aux artificiers professionnels.",
+     "date": "2026-11-15T08:45:26+01:00",
+     "source": "",
+     "image": "https://i.f1g.fr/media/cms/orig/2026/11/15/6cebfff29a433cc60e698a3600cea3af742cb1abdc703e05d013cb57445080bb.JPG"
     },
     {
      "titre": "Réquisitions, taxe foncière progressive, résidences secondaires en sursis… Comment Mélenchon veut administrer la propriété privée",
@@ -43,22 +59,6 @@
      "date": "2026-11-14T22:17:51+01:00",
      "source": "",
      "image": "https://i.f1g.fr/media/cms/orig/2026/11/14/0ed98c48fa7320b8b8fe57049cba0e9133bae1a352d1d2e512d1dd610a286d3f.JPG"
-    },
-    {
-     "titre": "Colère sociale : une centaine de personnes placées en garde à vue à Paris, dont 38 mineurs",
-     "lien": "https://www.lefigaro.fr/actualite-france/colere-sociale-une-centaine-de-personnes-placees-en-garde-a-vue-a-paris-dont-38-mineurs-20261115",
-     "resume": "Samedi, 108 personnes ont été placées en garde à vue, en marge de la manifestation parisienne de l’Acte V du mouvement social.",
-     "date": "2026-11-15T12:17:42+01:00",
-     "source": "",
-     "image": "https://i.f1g.fr/media/cms/orig/2026/11/15/957db5cff00f0c87e7c18545f533e78261429ce7d3a9b316fff857354579fd8a.JPG"
-    },
-    {
-     "titre": "«Solidarité et indignation» : TF1 apporte son soutien à BFMTV après l’agression de leurs journalistes à Lyon",
-     "lien": "https://tvmag.lefigaro.fr/programme-tv/actu-tele/solidarite-et-indignation-tf1-apporte-son-soutien-a-bfmtv-apres-l-agression-de-leurs-journalistes-a-lyon-20261115",
-     "resume": "Anne-Claire Coudray a tenu à adresser quelques mots à l’égard de ses collègues de la chaîne d’information en continu lors de son journal télévisé de 20 heures ce samedi 14 novembre.",
-     "date": "2026-11-15T12:20:57+01:00",
-     "source": "",
-     "image": "https://i.f1g.fr/media/cms/orig/2026/11/15/c91cb210b8524c8c2fc3f4259e726eebeb53e72ec2928a2ed428f801ea2b32fb.JPG"
     }
    ],
    "flux_utilise": "https://www.lefigaro.fr/rss/figaro_actualites.xml"
@@ -74,6 +74,14 @@
    },
    "articles": [
     {
+     "titre": "Présidentielle 2027 : 40 déclarations des candidats et de leurs soutiens passées au crible",
+     "lien": "https://www.lemonde.fr/les-decodeurs/article/2026/11/15/presidentielle-2027-40-declarations-des-candidats-et-de-leurs-soutiens-passees-au-crible_6811018_4355770.html",
+     "resume": "Les Décodeurs du « Monde » confrontent, dans cette base de données évolutive, les arguments des politiques aux données indépendantes disponibles.",
+     "date": "2026-11-15T14:19:59+01:00",
+     "source": "",
+     "image": "https://img.lemde.fr/2026/11/13/125/0/1500/750/644/322/60/0/4aa7c4a_upload-1-vbsny8e5mbhk-verif-decla-politique.jpg"
+    },
+    {
      "titre": "Sur les traces de « ChatNoir » et « Casquette », ces deux jeunes de 18 et 16 ans soupçonnés d’avoir piraté le site des impôts",
      "lien": "https://www.lemonde.fr/societe/article/2026/11/15/sur-les-traces-de-chatnoir-et-casquette-le-duo-d-adolescents-soupconnes-d-avoir-pirate-le-site-des-impots_6810985_3224.html",
      "resume": "Ces adolescents sont mis en examen dans de multiples procédures, dont les piratages d’ampleur du fisc et de l’éducation nationale durant l’été, et sont aussi suspectés d’avoir ciblé Free et BFM-TV.",
@@ -82,44 +90,36 @@
      "image": "https://img.lemde.fr/2026/11/05/582/0/4252/2126/644/322/60/0/072457f_upload-1-nklihjm7k4pk-mw-lm-cybercrime-1.jpg"
     },
     {
-     "titre": "Le lent déclin économique de la France face au reste de l’Europe",
-     "lien": "https://www.lemonde.fr/economie/article/2026/11/15/le-lent-declin-economique-de-la-france-face-au-reste-de-l-europe_6810984_3234.html",
-     "resume": "L’Hexagone affiche l’une des plus faibles croissances européennes cette année. Un phénomène qui accentue la chute du pays dans le classement européen en PIB par habitant, désormais en dessous de la moyenne.",
-     "date": "2026-11-15T06:15:07+01:00",
+     "titre": "Guerre en Ukraine : Emmanuel Macron s’en prend « à ceux qui veulent rationner les moyens » de Kiev ; Marine Le Pen le renvoie à « sa propre turpitude »",
+     "lien": "https://www.lemonde.fr/international/article/2026/11/15/guerre-en-ukraine-emmanuel-macron-s-en-prend-a-ceux-qui-veulent-rationner-les-moyens-de-kiev-marine-le-pen-le-renvoie-a-sa-propre-turpitude_6811019_3210.html",
+     "resume": "Le chef de l’Etat ne cite pas Marine Le Pen, mais la candidate du RN a déjà annoncé que, si elle était élue, elle couperait l’aide financière à l’Ukraine après une période de six mois.",
+     "date": "2026-11-15T14:22:32+01:00",
      "source": "",
-     "image": "https://img.lemde.fr/2026/11/13/399/0/5700/2850/644/322/60/0/8a4f3b3_upload-1-z9mvgb5tupsr-000-c9428we.jpg"
-    },
-    {
-     "titre": "EN DIRECT, guerre en Ukraine : les restrictions d’accès à Starshield persistent et empêchent Kiev de se protéger des attaques russes, dit Volodymyr Zelensky",
-     "lien": "https://www.lemonde.fr/international/live/2026/11/15/en-direct-guerre-en-ukraine-l-emissaire-americain-jared-kushner-regrette-la-diffusion-de-positions-maximalistes-apres-les-negociations-avec-l-ukraine-et-la-russie_6810982_3210.html",
-     "resume": "Selon le président ukrainien, la Russie avait utilisé « plus de 2 300 drones d’attaque, 1 590 bombes aériennes et 15 missiles de différents types » au cours de la semaine passée. « De nombreuses de ces attaques sont possibles en raison des limitations de…",
-     "date": "2026-11-15T10:59:59+01:00",
-     "source": "",
-     "image": "https://img.lemde.fr/2026/10/17/371/0/3810/1905/644/322/60/0/741a5dd_ftp-1-y1fd910kabzp-2026-10-17t100023z-1329003188-rc2a4oa0c6jm-rtrmadp-3-ukraine-crisis-trump-zelenskiy.JPG"
+     "image": "https://img.lemde.fr/2026/11/12/337/0/4052/2026/644/322/60/0/7233495_ftp-1-opnl0qflmago-9508dec139874825832f095206ec3481-0-ae56cb967fb24b748a55fdad2f68a484.jpg"
     },
     {
      "titre": "« On reçoit des coups de fil avec des menaces de saisir un avocat » : quand les parents contestent les décisions scolaires dans les grandes écoles",
      "lien": "https://www.lemonde.fr/campus/article/2026/11/15/on-recoit-des-coups-de-fil-avec-des-menaces-de-saisir-un-avocat-quand-les-parents-contestent-les-decisions-scolaires-dans-les-grandes-ecoles_6811012_4401467.html",
      "resume": "La propension grandissante des familles à demander des justifications sur les notes et les dossiers de leurs enfants, déjà observée au lycée, apparaît désormais dans le supérieur. Dans les écoles de commerce en particulier, les frais engagés, de plus en plus…",
-     "date": "2026-11-15T12:00:12+01:00",
+     "date": "2026-11-15T12:00:07+01:00",
      "source": "",
      "image": "https://img.lemde.fr/2026/11/06/39/0/2126/1063/644/322/60/0/53eec13_upload-1-y2fenn9hz6dk-finale-les-parents.JPG"
     },
     {
-     "titre": "Présidentielle 2027 : Edouard Philippe tente de déployer son contre-agenda face aux vents contraires",
-     "lien": "https://www.lemonde.fr/politique/article/2026/11/15/presidentielle-2027-edouard-philippe-tente-de-deployer-son-contre-agenda-face-aux-vents-contraires_6810973_823448.html",
-     "resume": "Sous pression de ses concurrents de la droite et du centre qui veulent une primaire, le candidat maintient son refus d’y participer. Il s’est lancé dans un nouveau tour de France pour essayer de contrer les sondages et les critiques sur le manque…",
-     "date": "2026-11-15T05:30:08+01:00",
+     "titre": "« GTA Online » : à quelques jours de la sortie de « GTA VI », les joueurs du mode en ligne se préparent à « la dernière danse »",
+     "lien": "https://www.lemonde.fr/pixels/article/2026/11/15/a-quelques-jours-de-la-sortie-de-gta-vi-les-joueurs-de-gta-online-entre-nostalgie-et-excitation-chaque-moment-passe-en-jeu-est-peut-etre-le-dernier_6811016_4408996.html",
+     "resume": "« Grand Theft Auto V » s’est imposé comme l’un des jeux les plus vendus de l’histoire grâce à son mode multijoueur en ligne, dont la popularité ne va pas immédiatement s’évanouir : la fonctionnalité sera absente de « GTA VI » à sa sortie, jeudi 19 novembre.",
+     "date": "2026-11-15T13:54:55+01:00",
      "source": "",
-     "image": "https://img.lemde.fr/2026/10/26/937/0/3113/1556/644/322/60/0/4b960ad_upload-1-ofg8mand2744-mmagnin-la-france-de-lordre-11.jpg"
+     "image": "https://img.lemde.fr/2026/11/13/106/0/3379/1689/644/322/60/0/9b4352d_upload-1-d1ijzskuzxby-capture-d-ecran-79.png"
     },
     {
-     "titre": "Katharina Pistor, professeure de droit : « Les citoyens s’apprêtent à n’être qu’une simple ressource gérée par des patrons de la tech tels que Musk, Thiel et Zuckerberg »",
-     "lien": "https://www.lemonde.fr/idees/article/2026/11/15/les-citoyens-s-appretent-a-n-etre-qu-une-simple-ressource-geree-par-des-patrons-de-la-tech-tels-que-musk-thiel-et-zuckerberg_6811002_3232.html",
-     "resume": "Dans une tribune au « Monde », Katharina Pistor, professeure de droit, compare la domination exercée par la « confrérie de la tech » sur les citoyens à l’approche adoptée autrefois par les colons envers les peuples autochtones.",
-     "date": "2026-11-15T10:00:21+01:00",
+     "titre": "A Moissac, la maison des enfants juifs est à vendre : « C’est grâce à elle qu’on a survécu. Vous n’imaginez pas comme on a été heureux ici »",
+     "lien": "https://www.lemonde.fr/m-le-mag/article/2026/11/15/a-moissac-la-maison-des-enfants-juifs-est-a-vendre-c-est-grace-a-elle-qu-on-a-survecu-vous-n-imaginez-pas-comme-on-a-ete-heureux-ici_6810975_4500055.html",
+     "resume": "Plus de 500 enfants juifs ont été accueillis pendant la guerre dans la petite ville du bord du Tarn, à l’initiative du mouvement des éclaireurs israélites. Une association se mobilise pour que l’endroit devienne un lieu de mémoire vivant.",
+     "date": "2026-11-15T06:00:06+01:00",
      "source": "",
-     "image": "https://img.lemde.fr/2026/10/22/233/0/2791/1395/644/322/60/0/67d24f5_ftp-1-0e83cq4ey3ne-2026-10-22t020830z-612713388-rc2cpnaanwpu-rtrmadp-3-meta-platforms-zuckerberg.JPG"
+     "image": "https://img.lemde.fr/2026/11/05/450/0/1199/599/644/322/60/0/563f638_ftp-1-hhxtnmomjelk-451072-3534810.jpg"
     }
    ],
    "flux_utilise": "https://www.lemonde.fr/rss/une.xml"
@@ -135,6 +135,38 @@
    },
    "articles": [
     {
+     "titre": "« Infodémie » de David Colon : le virus de la désinformation tue aussi les démocraties",
+     "lien": "https://www.la-croix.com/culture/infodemie-de-david-colon-le-virus-de-la-desinformation-tue-aussi-les-democraties-20261115",
+     "resume": "Après La Guerre de l’information (Tallandier, 2023) dont il décrivait les mécanismes, l’historien et spécialiste des luttes d’influence David Colon décrypte dans son dernier essai, Infodémie, les ressorts de la désinformation, ses conséquences et les moyens…",
+     "date": "2026-11-15T14:46:26+01:00",
+     "source": "",
+     "image": "https://i.la-croix.com/x/2026/11/15/2573712-une-adolescente-consulte-sur-son-smartphone-des-re.jpg"
+    },
+    {
+     "titre": "600 ans de la mort de Jeanne d’Arc : « Il est capital d’éviter toute récupération visant à diviser »",
+     "lien": "https://www.la-croix.com/culture/600-ans-de-la-mort-de-jeanne-d-arc-il-est-capital-deviter-toute-recuperation-visant-a-diviser-20261115",
+     "resume": "L’historienne Catherine Guyon coordonne le comité scientifique élaborant le label « Jeanne d’Arc 1431-2031 », lancé par l’Église de France pour encadrer les commémorations d’ici à 2031. Elle explique à La Croix pourquoi il est nécessaire de veiller au…",
+     "date": "2026-11-15T14:22:45+01:00",
+     "source": "",
+     "image": "https://i.la-croix.com/x/2026/11/15/2587650-la-statue-de-jeanne-d-arc-a-nice-devant-leglise-qu.jpg"
+    },
+    {
+     "titre": "Un poème pour la route : « Qu’est-ce qui fait courir un enfant ? », de Pierre Barouh",
+     "lien": "https://www.la-croix.com/culture/un-poeme-pour-la-route-qu-est-ce-qui-fait-courir-un-enfant-de-pierre-barouh-20261115",
+     "resume": "L’artiste et parolier Pierre Barouh a marqué la chanson française avec des titres comme « La Bicyclette » ou « Un homme et une femme ». Le recueil de l’ensemble de ses textes paraît dans la grande collection « Poésie & Chansons » des éditions Seghers.",
+     "date": "2026-11-15T13:43:45+01:00",
+     "source": "",
+     "image": "https://i.la-croix.com/x/2026/11/13/2586164-etre-heureux-c-est-plus-ou-moins-ce-quon-cherche-p.jpg"
+    },
+    {
+     "titre": "Géorgie : la « Trump Tower » de Tbilissi, un projet aux mains du pouvoir pour renouer avec l’Amérique",
+     "lien": "https://www.la-croix.com/international/georgie-la-trump-tower-de-tbilissi-un-projet-aux-mains-du-pouvoir-pour-renouer-avec-l-amerique-20261115",
+     "resume": "Une tour du nom du président américain Donald Trump doit bientôt être érigée dans la capitale géorgienne, Tbilissi. Sur place, le projet est perçu comme une preuve de la dérive du parti au pouvoir depuis 2023.",
+     "date": "2026-11-15T13:31:03+01:00",
+     "source": "",
+     "image": "https://i.la-croix.com/x/2026/11/13/2587654-le-premier-ministre-georgien-irakli-kobakhidze-lor.jpg"
+    },
+    {
      "titre": "En Haïti, l’importation de la méthode Bukele contre les gangs pose question",
      "lien": "https://www.la-croix.com/international/en-haiti-l-importation-de-la-methode-bukele-contre-les-gangs-pose-question-20261115",
      "resume": "Fort d’une première victoire armée contre un gang haïtien, le président salvadorien Nayib Bukele doit recevoir la visite du premier ministre Alix Didier Fils-Aimé, les 16 et 17 novembre. Au-delà de l’affichage, la pacification totale du pays et les…",
@@ -149,38 +181,6 @@
      "date": "2026-11-15T11:46:36+01:00",
      "source": "",
      "image": "https://i.la-croix.com/x/2026/11/15/2589703-des-fideles-et-des-membres-des-forces-de-securite-.jpg"
-    },
-    {
-     "titre": "Pour une banque culturelle à l’image des banques alimentaires",
-     "lien": "https://www.la-croix.com/culture/pour-une-banque-culturelle-a-l-image-des-banques-alimentaires-20261115",
-     "resume": "Dans sa chronique hebdomadaire, Emmanuelle Giuliani se prend à souhaiter que, sur le modèle des collectes de la banque alimentaire, s’instaure le principe d’une banque culturelle. Même – surtout – en période de crise du pouvoir d’achat, l’art reste un bien…",
-     "date": "2026-11-15T11:34:34+01:00",
-     "source": "",
-     "image": "https://i.la-croix.com/x/2026/10/16/2562042-emmanuelle-giuliani-en-charge-de-la-musique-classi.jpg"
-    },
-    {
-     "titre": "« Inside Gaza » reçoit le prix du meilleur documentaire au festival Cinemania",
-     "lien": "https://www.la-croix.com/culture/dans-gaza-sur-arte-un-remarquable-documentaire-sur-les-humbles-heros-de-l-information-20251201",
-     "resume": "Le film, qui montre le travail de quatre journalistes de l’AFP à Gaza pendant les sept premiers mois de la guerre, a reçu samedi 14 novembre le prix du meilleur documentaire au festival Cinemania, à Montréal. Un huis clos où, malgré l’omniprésence du danger…",
-     "date": "2026-11-15T11:28:12+01:00",
-     "source": "",
-     "image": "https://i.la-croix.com/x/2025/12/01/2271550-mohammed-abed-a-documente-la-tragedie-a-gaza-penda.jpg"
-    },
-    {
-     "titre": "Ouverture des commerces le dimanche jusqu’à Noël : pourquoi la concrétisation se fait attendre",
-     "lien": "https://www.la-croix.com/economie/ouverture-des-commerces-le-dimanche-jusqu-a-noel-pourquoi-la-concretisation-se-fait-attendre-20261115",
-     "resume": "Après les dégradations de commerces survenues le 17 octobre, le gouvernement avait annoncé son souhait de permettre aux commerces d’ouvrir trois dimanches supplémentaires d’ici à Noël. Deux semaines après cet aval, l’ouverture dominicale peine à se…",
-     "date": "2026-11-15T11:25:40+01:00",
-     "source": "",
-     "image": "https://i.la-croix.com/x/2026/11/15/2589692-des-commerces-barricades-a-paris-avant-une-manifes.jpg"
-    },
-    {
-     "titre": "Léon XIV au Pérou : à Zana, l’au revoir du pape aux descendants d’esclaves",
-     "lien": "https://www.la-croix.com/religion/leon-xiv-au-perou-a-zana-l-au-revoir-du-pape-aux-descendants-desclaves-20261115",
-     "resume": "Samedi 14 novembre, à Zana, lors de son voyage de douze jours en Amérique latine, Léon XIV a dit au revoir à son ancien diocèse de Chiclayo. Dans cette ancienne ville sucrière du nord du Pérou, bâtie par des esclaves africains, il revenait en pape, six mois…",
-     "date": "2026-11-15T10:42:52+01:00",
-     "source": "",
-     "image": "https://i.la-croix.com/x/2026/11/15/2589666-le-pape-leon-xiv-salue-les-fideles-au-sanctuaire-s.jpg"
     }
    ],
    "flux_utilise": "https://www.la-croix.com/feeds/rss/site.xml"
@@ -196,52 +196,52 @@
    },
    "articles": [
     {
-     "titre": "Qu'est-ce qui changerait si les Bleus finissaient à la première place de leur groupe en Ligue des nations ?",
-     "lien": "https://www.lequipe.fr/Football/Actualites/Qu-est-ce-qui-changerait-si-les-bleus-finissaient-a-la-premiere-place-de-leur-groupe-en-ligue-des-nations/1743501#at_medium=RSS_feeds",
-     "resume": "Les Bleus doivent encore assurer, ce dimanche face à la Turquie (20h45), leur qualification pour les quarts de finale de la Ligue des nations. Ils pourraient aussi avoir intérêt à terminer en tête de leur groupe.",
-     "date": "2026-11-15T13:05:00+01:00",
+     "titre": "La mémoire de Carlo Molinari sera honorée avant France-Turquie",
+     "lien": "https://www.lequipe.fr/Football/Actualites/La-memoire-de-carlo-molinari-sera-honoree-avant-france-turquie/1743808#at_medium=RSS_feeds",
+     "resume": "Une minute d'applaudissement sera observée en hommage à Carlo Molinari, mythique président du FC Metz décédé le 4 novembre, avant la rencontre de Ligue des nations entre la France et la Turquie ce dimanche (20 h 45).",
+     "date": "2026-11-15T14:33:22+01:00",
      "source": "",
-     "image": "https://medias.lequipe.fr/img-photo-jpg/l-equipe-de-france-aligne-en-italie-jeudi-1-3-f-faugere-l-equipe/1500000002649938/308:240,1934:1324-828-552-75/ba193.jpg"
+     "image": "https://medias.lequipe.fr/img-photo-jpg/carlo-molinari-sera-honore-ce-soir-a-bordeaux-l-argueyrolles-l-equipe/1500000002651263/0:0,2000:1333-828-552-75/36e98.jpg"
     },
     {
-     "titre": "Tous les scénarios qui envoient la France en finale du Championnat des nations",
-     "lien": "https://www.lequipe.fr/Rugby/Actualites/Tous-les-scenarios-qui-envoient-la-france-en-finale-du-championnat-des-nations/1743801#at_medium=RSS_feeds",
-     "resume": "Après leur succès contre l'Afrique du Sud vendredi soir (21-19), les Bleus ont conservé la tête de la poule de l'hémisphère nord. Ils ont leur destin en main pour se qualifier en finale du Championnat des nations mais l'Angleterre et l'Irlande peuvent encore…",
-     "date": "2026-11-15T13:03:26+01:00",
-     "source": "",
-     "image": "https://medias.lequipe.fr/img-photo-jpg/antoine-dupont-et-les-bleus-ont-leur-destin-entre-les-mains-p-lahalle-l-equipe/1500000002651236/0:0,2000:1333-828-552-75/2b757.jpg"
-    },
-    {
-     "titre": "Où voir le combat Gane vs Hokit ?",
-     "lien": "https://www.lequipe.fr/Guide-d-achat/High-tech-multimedia/Actualites/Ciryl-gane-a-quelle-heure-et-sur-quelle-chaine-voir-le-francais-defendre-sa-ceinture-a-l-ufc-334/1743437#at_medium=RSS_feeds",
+     "titre": "Jeanmonnot : «J’ai cru que j’allais me faire avoir»",
+     "lien": "https://www.lequipe.fr/Biathlon/Video/Bleues-lou-jeanmonnot-apres-sa-victoire-sur-la-mass-start-de-bessans-j-ai-cru-que-j-allais-me-faire-avoir-il-fallait-se-depouiller-jusqu-a-la-fin/20245614#at_medium=RSS_feeds",
      "resume": "",
-     "date": "2026-11-15T13:00:00+01:00",
+     "date": "2026-11-15T14:21:00+01:00",
      "source": "",
      "image": "https://medias.lequipe.fr/img-photo-png/-/1500000000833469/0-828-552-75/0cb67.png"
     },
     {
-     "titre": "Pourquoi la victoire de Ciryl Gane contre Josh Hokit à l'UFC 334 n'est pas un « vol »",
-     "lien": "https://www.lequipe.fr/Mma/Actualites/Pourquoi-la-victoire-de-ciryl-gane-contre-josh-hokit-a-l-ufc-334-n-est-pas-un-vol/1743799#at_medium=RSS_feeds",
-     "resume": "Bousculé par Josh Hokit à l'UFC 334, dans la nuit de samedi à dimanche à New York, Ciryl Gane a conservé son titre des lourds au terme d'un combat éprouvant. Contestée, sa victoire reste cohérente et ouvre un débat sur la suite : retrouver Tom Aspinall ou…",
-     "date": "2026-11-15T12:40:03+01:00",
+     "titre": "Un Lucas Pinheiro Braathen intouchable remporte le slalom de Levi devant Clément Noël",
+     "lien": "https://www.lequipe.fr/Ski/Actualites/Un-lucas-pinheiro-braathen-intouchable-remporte-le-slalom-de-levi-devant-clement-noel/1743807#at_medium=RSS_feeds",
+     "resume": "Tenant du titre, Lucas Pinheiro Braathen a maîtrisé la seconde manche du slalom de Levi, dimanche, reléguant le Français Clément Noël à 56 centièmes. Le champion olympique Loïc Meillard complète le podium.",
+     "date": "2026-11-15T14:20:02+01:00",
      "source": "",
      "image": "https://medias.lequipe.fr/img-photo-png/-/1500000000833469/0-828-552-75/0cb67.png"
     },
     {
-     "titre": "Nouveau capitaine du Portugal, Bernardo Silva forfait pour le déplacement au pays de Galles en Ligue des nations",
-     "lien": "https://www.lequipe.fr/Football/Actualites/Nouveau-capitaine-du-portugal-bernardo-silva-forfait-pour-le-deplacement-au-pays-de-galles-en-ligue-des-nations/1743797#at_medium=RSS_feeds",
-     "resume": "Désigné capitaine pour le début de l'ère post-Cristiano Ronaldo, Bernardo Silva a été jugé inapte pour le déplacement du Portugal au pays de Galles (mardi, 20h45) en Ligue des nations. Il avait pourtant joué et marqué avec la Seleçao samedi soir face au…",
-     "date": "2026-11-15T12:32:25+01:00",
+     "titre": "«Je serai à Turin en 2026» : la prémonition qui a porté Fils au plus fort de ses doutes",
+     "lien": "https://www.lequipe.fr/Tennis/Article/-je-serai-a-turin-en-2026-la-premonition-qui-a-porte-arthur-fils-au-plus-fort-de-ses-doutes-et-l-a-mene-jusqu-aux-finales-atp/1743671#at_medium=RSS_feeds",
+     "resume": "",
+     "date": "2026-11-15T14:16:00+01:00",
      "source": "",
      "image": "https://medias.lequipe.fr/img-photo-png/-/1500000000833469/0-828-552-75/0cb67.png"
     },
     {
-     "titre": "Lucas Da Cunha sera titulaire face à la Turquie, annonce le sélectionneur des Bleus Zinédine Zidane",
-     "lien": "https://www.lequipe.fr/Football/Actualites/Lucas-da-cunha-sera-titulaire-face-a-la-turquie-annonce-le-selectionneur-des-bleus-zinedine-zidane/1743796#at_medium=RSS_feeds",
-     "resume": "Le sélectionneur de l'équipe de France Zinédine Zidane a annoncé sur « Téléfoot » que le milieu de terrain de Côme Lucas Da Cunha serait aligné d'entrée face à la Turquie en Ligue des nations (20 h 45).",
-     "date": "2026-11-15T12:28:13+01:00",
+     "titre": "Kirkeeide s'adjuge la mass-start de Geilo",
+     "lien": "https://www.lequipe.fr/Biathlon/Video/F-malgre-un-premier-tir-debout-cauchemardesque-maren-kirkeeide-remporte-la-mass-start-devant-guro-ytterhus-karoline-knotten-et-lisa-vittozzi/20245613#at_medium=RSS_feeds",
+     "resume": "",
+     "date": "2026-11-15T14:15:00+01:00",
      "source": "",
-     "image": "https://medias.lequipe.fr/img-photo-jpg/lucas-da-cunha-nouveau-visage-des-bleus-s-mantey-l-equipe/1500000002651220/0:0,2000:1333-828-552-75/ced18.jpg"
+     "image": "https://medias.lequipe.fr/img-photo-png/-/1500000000833469/0-828-552-75/0cb67.png"
+    },
+    {
+     "titre": "League of Legends : avec le sacre de BLG, un retour de la Chine au sommet de la hiérarchie mondiale au meilleur des moments",
+     "lien": "https://www.lequipe.fr/Esport/Actualites/League-of-legends-avec-le-sacre-de-blg-un-retour-de-la-chine-au-sommet-de-la-hierarchie-mondiale-au-meilleur-des-moments/1743805#at_medium=RSS_feeds",
+     "resume": "Le titre mondial de Bilibili Gaming, acquis dans la nuit de samedi à dimanche à New York face aux Sud-Coréens de GenG (3-1), marque la fin de cinq ans d'attente pour le Championnat chinois. Une bouffée d'air frais pour une ligue et un marché en déclin ces…",
+     "date": "2026-11-15T14:08:45+01:00",
+     "source": "",
+     "image": "https://medias.lequipe.fr/img-photo-jpg/les-joueurs-de-bilibili-gaming-ont-couru-vers-le-trophee-des-worlds-une-fois-la-victoire-acquise-s-wisnoski-riot-games/1500000002651251/0:0,2000:1333-828-552-75/d6847.jpg"
     }
    ],
    "flux_utilise": "https://dwh.lequipe.fr/api/edito/rss?path=/"
@@ -255,13 +255,13 @@
    "items": [
     {
      "titre": "EN DIRECT, guerre en Ukraine : les restrictions d’accès à Starshield persistent et empêchent Kiev de se protéger des attaques russes, dit Volodymyr Zelensky",
-     "lien": "https://www.lemonde.fr/international/live/2026/11/15/en-direct-guerre-en-ukraine-l-emissaire-americain-jared-kushner-regrette-la-diffusion-de-positions-maximalistes-apres-les-negociations-avec-l-ukraine-et-la-russie_6810982_3210.html",
+     "lien": "https://www.lemonde.fr/international/live/2026/11/15/en-direct-guerre-en-ukraine-les-restrictions-d-acces-a-starshield-persistent-et-empechent-kiev-de-se-proteger-des-attaques-russes-dit-volodymyr-zelensky_6810982_3210.html",
      "resume": "Selon le président ukrainien, la Russie avait utilisé « plus de 2 300 drones d’attaque, 1 590 bombes aériennes et 15 missiles de différents types » au cours de la semaine passée. « De nombreuses de ces attaques sont possibles en raison des limitations de…",
-     "date": "2026-11-15T10:59:59+01:00",
+     "date": "2026-11-15T14:48:26+01:00",
      "source": "lemonde.fr",
      "image": "https://img.lemde.fr/2026/10/17/371/0/3810/1905/644/322/60/0/741a5dd_ftp-1-y1fd910kabzp-2026-10-17t100023z-1329003188-rc2a4oa0c6jm-rtrmadp-3-ukraine-crisis-trump-zelenskiy.JPG",
      "reprises": 7,
-     "score": 20.34
+     "score": 28.02
     },
     {
      "titre": "L’Iran revendique une attaque de drones contre une base américaine à Bahreïn",
@@ -270,18 +270,18 @@
      "date": "2026-11-15T06:58:52+01:00",
      "source": "lemonde.fr",
      "image": "https://img.lemde.fr/2026/11/15/20/0/1356/678/644/322/60/0/78a9612_upload-1-rbvoysc1ymbx-capture-d-e-cran-2026-11-14-a-10-55-04-pm.png",
-     "reprises": 6,
-     "score": 15.2
+     "reprises": 9,
+     "score": 20.7
     },
     {
-     "titre": "Des câbles en cuivre vétustes sont à l'origine des perturbations de milliers de vols aux Etats-Unis, assure l'administration Trump",
-     "lien": "https://www.franceinfo.fr/monde/usa/des-cables-en-cuivre-vetustes-a-l-origine-des-perturbations-de-milliers-de-vols-aux-etats-unis-selon-l-administration-trump_8283218.html#xtor=RSS-3-%5Bmonde%5D",
-     "resume": "Le remplacement de câbles vétustes a \"provoqué des problèmes dans la communication avec les avions\" ainsi que sur des radars, a détaillé samedi le ministre des Transports américain.",
-     "date": "2026-11-15T11:05:14+01:00",
-     "source": "franceinfo.fr",
-     "image": "https://www.franceinfo.fr/pictures/ZyCk4gsAlIHMgGWpnbdcQ7rBAs8/0x73:1024x649/432x243/filters:format(jpg)/2026/11/15/6af95bbe0d2a8046763407.jpg",
-     "reprises": 4,
-     "score": 9.47
+     "titre": "Le Kremlin confirme une rencontre trilatérale entre Donald Trump, Vladimir Poutine et Xi Jinping, le 19 novembre en Chine",
+     "lien": "https://www.lemonde.fr/international/article/2026/11/15/le-kremlin-confirme-une-rencontre-trilaterale-entre-donald-trump-vladimir-poutine-et-xi-jinping-le-19-novembre-en-chine_6809488_3211.html",
+     "resume": "La Maison Blanche a annoncé, vendredi, que les discussions des trois chefs d’Etat, en marge du sommet de l’APEC à Shenzhen, porteraient sur le désarmement nucléaire. Selon un responsable américain, s’exprimant sous couvert d’anonymat, l’Iran sera aussi au…",
+     "date": "2026-11-15T04:22:56+01:00",
+     "source": "lemonde.fr",
+     "image": "https://img.lemde.fr/2026/11/12/777/0/6395/3197/644/322/60/0/dbd03f3_ftp-1-rnrtf0xqviyw-2026-11-12t044435z-1814496472-rc2j7oa0ksia-rtrmadp-3-apec-summit-shenzhen.JPG",
+     "reprises": 5,
+     "score": 8.6
     },
     {
      "titre": "Sommet de la francophonie : Emmanuel Macron appelle à l’« unité » et au « consensus » face aux tensions entre la RDC et le Rwanda",
@@ -291,27 +291,27 @@
      "source": "lemonde.fr",
      "image": "https://img.lemde.fr/2026/11/15/554/0/6652/3326/644/322/60/0/3289c2a_ftp-1-hqs21wpxr2q6-afp-d7hg6ul.jpg",
      "reprises": 4,
-     "score": 9.3
+     "score": 8.34
     },
     {
-     "titre": "En Israël, Gadi Eisenkot dénonce les « ruses » de Benyamin Nétanyahou, qui plaide pour la formation d’un gouvernement d’union",
-     "lien": "https://www.lemonde.fr/international/article/2026/11/14/en-israel-gadi-eisenkot-denonce-les-ruses-de-benyamin-netanyahou-qui-plaide-pour-la-formation-d-un-gouvernement-d-union_6810511_3210.html",
-     "resume": "Aux yeux du premier ministre israélien sortant, seul un gouvernement d’union nationale avec Gadi Eisenkot permettra de « garantir la sécurité d’Israël » face à l’Iran, dont il promet d’éliminer la menace « une fois pour toutes ».",
-     "date": "2026-11-14T20:33:52+01:00",
+     "titre": "Jordanie : trois hommes condamnés à mort pour l’attaque meurtrière d’une église orthodoxe en octobre",
+     "lien": "https://www.lemonde.fr/international/article/2026/11/15/jordanie-trois-hommes-condamnes-a-mort-pour-l-attaque-meurtriere-d-une-eglise-orthodoxe-en-octobre_6810998_3210.html",
+     "resume": "Neuf personnes avaient été tuées et 25 avaient été blessées dans cette attaque sans précédent contre les chrétiens du royaume, le 23 octobre.",
+     "date": "2026-11-15T09:52:09+01:00",
      "source": "lemonde.fr",
-     "image": "https://img.lemde.fr/2026/11/10/216/0/2596/1298/644/322/60/0/1307f6b_ftp-1-tkrai4d4vsyw-6dd4ab72bfde45dd83ec57ad49247915-2-77bd5d1930694f2ebd877c35ce6429ef.jpg",
-     "reprises": 5,
-     "score": 8.18
+     "image": "https://img.lemde.fr/2026/10/24/459/0/5500/2750/644/322/60/0/dee9f72_ftp-1-ch7uhvg9gb9m-2026-10-24t133814z-2025982202-rc2l9oaxpk5k-rtrmadp-3-jordan-church.JPG",
+     "reprises": 3,
+     "score": 5.62
     },
     {
-     "titre": "Le Kremlin confirme une rencontre trilatérale entre Donald Trump, Vladimir Poutine et Xi Jinping, le 19 novembre en Chine",
-     "lien": "https://www.lemonde.fr/international/article/2026/11/15/le-kremlin-confirme-une-rencontre-trilaterale-entre-donald-trump-vladimir-poutine-et-xi-jinping-le-19-novembre-en-chine_6809488_3211.html",
-     "resume": "La Maison Blanche a annoncé, vendredi, que les discussions des trois chefs d’Etat, en marge du sommet de l’APEC à Shenzhen, porteraient sur le désarmement nucléaire. Selon un responsable américain, s’exprimant sous couvert d’anonymat, l’Iran sera aussi au…",
-     "date": "2026-11-15T04:22:56+01:00",
-     "source": "lemonde.fr",
-     "image": "https://img.lemde.fr/2026/11/12/777/0/6395/3197/644/322/60/0/dbd03f3_ftp-1-rnrtf0xqviyw-2026-11-12t044435z-1814496472-rc2j7oa0ksia-rtrmadp-3-apec-summit-shenzhen.JPG",
-     "reprises": 4,
-     "score": 7.1
+     "titre": "Au Pérou, le pape alerte sur l'exode rural dans les Andes",
+     "lien": "https://www.france24.com/fr/vid%C3%A9o/20261115-au-p%C3%A9rou-le-pape-alerte-sur-l-exode-rural-dans-les-andes",
+     "resume": "Lors de son étape au Pérou, le pape a évoqué l'exode rural dans les Andes, qu'il décrit comme une \"souffrance\" pour les habitants. Une visite à forte dimension personnelle dans un pays dont il a acquis la nationalité et où il bénéficie d'un accueil…",
+     "date": "2026-11-15T14:02:06+01:00",
+     "source": "france24.com",
+     "image": "https://s.france24.com/media/display/90252c96-e0f4-11f1-ad25-3f371022a770/w:1024/p:16x9/AP26318836176531.jpg",
+     "reprises": 3,
+     "score": 5.61
     }
    ],
    "a_traduire": []
@@ -329,27 +329,27 @@
      "source": "BFM Bourse",
      "image": null,
      "reprises": 1,
-     "score": 3.98
+     "score": 3.75
+    },
+    {
+     "titre": "Tim Burton : «Plus l’intelligence artificielle avance, plus j’apprécie le côté humain du cinéma»",
+     "lien": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5scENuUWdwQXdLdTVsUTFFX05lcmcxbDVVNGlTRkFfb2hQbzZsSjF0WFVmLVNKZi15cnpoRHIwNUUxaHNMNzdraXZVQ2hzbW9ZeC1hNGhrdmNXYmstQTlGdVhadlhRVndjemFqSw?oc=5",
+     "resume": "",
+     "date": "2026-11-15T13:00:00+01:00",
+     "source": "Vanity Fair",
+     "image": null,
+     "reprises": 2,
+     "score": 3.37
     },
     {
      "titre": "Affaire Nvidia : Donald Trump rattrapé par ses liens avec Jensen Huang",
      "lien": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxPcnBucEhDQXM1emxMejFNaVpYRjJuQVA2QUtpd2U3bHFjRm54YWNGMkZZUm82QU9idVdqSHljVG1BNkxCdDItbFBGYkZlVjNCdGlXcGZ4QzdGVnJuM1o5NF9HVFdZS3FzZl8wWjRTSFdWQkZKXzlnNFctUkk1ZmJhcC02X1VYZGU0Ql9pNTYweFdXYVB4OTJuTzV6aENidmVRamR3VldNRFZ3QkFRVnlXUW9nU3VPMllMUWdDYVgzaWd1Vjc0ME1QYWN4Wi1kZ3ZKN1VWdUp4R28?oc=5",
      "resume": "The petition had attracted more than 115,000 signatures as of Saturday afternoon.",
-     "date": "2026-11-15T12:57:53+01:00",
+     "date": "2026-11-15T14:20:27+01:00",
      "source": "Libération",
      "image": null,
      "reprises": 2,
-     "score": 3.33
-    },
-    {
-     "titre": "\"Des CV dopés à l'IA qui parlent à des IA pour réussir à avoir un rendez-vous face à un humain\" : un expert fait le point sur l’intelligence artificielle dans le processus de recrutement",
-     "lien": "https://news.google.com/rss/articles/CBMiygJBVV95cUxQVFRBeDhuOElWM0pseENNbHJ3blh1dnQ0bl8wVHRMclNscHU0Y0gzYWdVNEwwRjQ2SHBfSWJFYS1fOFU3RTZybmpjdTZyc3NlSkxYUmlsbUJfZVBsYkliU21ya1lheEJSZTd5UThQLUNKMFd5dTY5NjZjeko0ODhqYjlsZ0tNcUZvV2JuSW5uWl9samtWZGxSaGRuMTJpZDRJaExzWVk0VUFZRFFvNl9Fdk84Z1hlTzh6WWV4TTlpNi01cFRGU2pad3JmZ0owS2p4UnZIUFhuNUkxRklFbHJGR2JlTXdmWEg0Z1duUUdiRE44YTdpS3VfUldyRTJXX2dFNW52OUwxa21xYW5aVDEwcERDWTBWTmpyM21kQWo2RUpHOXp4cDRPV1NKZ0FadHBhT296UEtFLXZPazdSVnhQT1kxT0xoRWxYWVE?oc=5",
-     "resume": "",
-     "date": "2026-11-15T08:00:00+01:00",
-     "source": "TF1 Info",
-     "image": null,
-     "reprises": 2,
-     "score": 3.19
+     "score": 3.35
     },
     {
      "titre": "Les géants de l’IA recrutent d’anciens espions pour protéger leurs secrets",
@@ -359,7 +359,7 @@
      "source": "Mon Carnet – de l'actualité numérique",
      "image": null,
      "reprises": 1,
-     "score": 2.96
+     "score": 2.87
     },
     {
      "titre": "Anthropic lance Claude Fable 5.2 : ce que la nouvelle IA change selon votre formule, gratuite ou payante",
@@ -369,7 +369,7 @@
      "source": "Selectra",
      "image": null,
      "reprises": 2,
-     "score": 2.74
+     "score": 2.64
     }
    ],
    "a_traduire": [
@@ -381,7 +381,7 @@
      "source": "TIKR.com",
      "image": null,
      "reprises": 1,
-     "score": 1.52
+     "score": 1.49
     },
     {
      "titre": "The AI graveyard: a running list of projects and startups that didn’t make it",
@@ -391,7 +391,7 @@
      "source": "techcrunch.com",
      "image": null,
      "reprises": 1,
-     "score": 1.29
+     "score": 1.26
     },
     {
      "titre": "The OpenAI board member who fired Sam Altman says we still can’t trust AI CEOs",
@@ -401,7 +401,7 @@
      "source": "theverge.com",
      "image": null,
      "reprises": 1,
-     "score": 1.25
+     "score": 1.22
     }
    ]
   },
@@ -418,7 +418,7 @@
      "source": "Actu.fr",
      "image": null,
      "reprises": 6,
-     "score": 13.19,
+     "score": 13.06,
      "libertes": false
     },
     {
@@ -429,8 +429,30 @@
      "source": "Actu-Juridique",
      "image": null,
      "reprises": 6,
-     "score": 9.49,
+     "score": 9.42,
      "libertes": false
+    },
+    {
+     "titre": "Elus et candidats sont dans des situations spécifiques : au juge pénal de le prendre parfois en compte, y compris selon la CEDH",
+     "lien": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxQQUR1dl83YzY5Z2FTMUNEWVN2Y21NNzRJMVNqOGRkQV9lcG9nc0JxSk1FTXdZYzgtMDQ0VTJrNm15OG4zbWNKamtuTkQyUElEeFY2UVdBcWJkalZtdGRzWW1ER2J6UkV5SGNRY184dEdZUVBfXzlleE0zN2l6S1ZBRFVXQ25WdTM4NGcxc0FXSkYtdmtNNHhyOTNsdm5WVGxzMk1hbFdvczZ2LWszb3puNnpIYl9BaDVnNGpoOWx4MjhzMFo4N3B2Z0l2SzJCN0ZoeVBMcjJXQTU0cDlpVlFoaUhOSjdTZFdYNm42emI3MWMtM1h6UFRkYnk5QnfSAYICQVVfeXFMT2ZMcl96TURFUXR5anZ4X3lsMzJNRVJxQUROYVBab09UOTZSSW51U0FTRlpFWDVnVjFjYzg4SF82bmk3OTl4YndVYUZsR0JzdHN1SXpmMjNhSldOZWh1bGlEOUFDN0ZkTm91dHJmNkNfYm9aZnFYSXJYdF9ZMl9CN1pBNEdLNTd5WTljcGRIN0pKeWdncHJadlJWeDl0UTBFZjZaZXhXdlYtczY2MTE2bUU5RksxUDJid0I5b1ZvNzJuc3FGMW9ib3JTdGFOVVFwN281ZnBpV2FsOW0zSk5TVHBNTlVrOFJiRmNJQVROV0JzaFpjTnljQnFWcVBKV0VwUEZB?oc=5",
+     "resume": "",
+     "date": "2026-11-12T18:33:38+01:00",
+     "source": "Landot & associés",
+     "image": null,
+     "reprises": 2,
+     "score": 3.43,
+     "libertes": true
+    },
+    {
+     "titre": "Aidez-moi à faire avancer ce combat : Pour les droits du peuple palestinniens et la liberté d'expression",
+     "lien": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPd2o2SEJLTS1rbkJOMVpydkdFZkNwU1ZBN09XWHp2b21iU1ljMGJ5c2tDcmVLNFFhRk5kQVVxN28yVWVLYmNtZ0VoMHBrRmJLalJTMlEzSzR1QnNLYmtKZl9CQ0hzWnktTlg4MU5aR0MtQ2RXWlU2S1UydlRkY3B4MjN0SGduX2FsTnhoMXp2S2xlRnRYT21ZMjhIUlA0dm5jUExSNEpEV29VMmtW?oc=5",
+     "resume": "",
+     "date": "2026-11-15T10:37:59+01:00",
+     "source": "MyPetition.org",
+     "image": null,
+     "reprises": 2,
+     "score": 3.05,
+     "libertes": true
     },
     {
      "titre": "La Cour européenne des droits de l'homme condamne la Suisse pour des violences policières à Genève",
@@ -439,8 +461,8 @@
      "date": "2026-11-12T19:27:54+01:00",
      "source": "Le Temps",
      "image": null,
-     "reprises": 4,
-     "score": 6.36,
+     "reprises": 2,
+     "score": 2.71,
      "libertes": true
     },
     {
@@ -451,29 +473,7 @@
      "source": "France 3 Régions",
      "image": null,
      "reprises": 2,
-     "score": 2.59,
-     "libertes": true
-    },
-    {
-     "titre": "Guillaume Kasbarian au JDD : «La liberté d’expression est un droit fondamental bien français»",
-     "lien": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPaUUzbnotSVBpeXNScDlHbktQNk96eU1LUWZ1TXRoVHZpVzRiazdhb2UyQUI4cS1ud004dS0wYmZMUVR1ejlfT3pncDk4Q3F3OHRZNWZ1VDgyN3dOc2FqMlpDZlI1MmxVYXRSYXZoMVYyc3p1VTg0XzFUZWJESkZnLU1HVmEtMGtnekxYdi1QOGZnQmpfeDBoQjNMVEhQM003Q2sydjhLaWVqUjBnY0xTV19Bc0R4T29qSHFtVlktV016QQ?oc=5",
-     "resume": "",
-     "date": "2026-11-15T07:20:04+01:00",
-     "source": "lejdd.fr",
-     "image": null,
-     "reprises": 1,
-     "score": 1.55,
-     "libertes": true
-    },
-    {
-     "titre": "Rivesaltes (Mémorial) : Charles et Kader Tamazount : « Deux parcours d’engagement, deux distinctions, une même fidélité aux valeurs de la République »… l’arrêt de la CEDH du 4 avril 2024 mis en lumière",
-     "lien": "https://news.google.com/rss/articles/CBMiuwJBVV95cUxQMUE3elBTblFVUWVOQ3B4U3ZkMktXWUtBdkNKaEl0dGN4Z2F6UUVWS2lfNkNoVFpwMlJEejBpRHhJWEhQZUthQUpnbk8xbEd1bVR3dDA0a0pMN3l2eHRzTEwtdGgwVWlOMjZnSTF2UTRBTllZZjZfTGhDWmgxcmduRGhNc2RESmNzY3VzUjdkNUY5WVc3TzdVXzhQTXpVV2VxeUxxVmlfRVZtMmNTcDNaZFdpaHNBNDN5bGx0UmJoY1FnVWdvUzNwcjR3NE5XQlVRTlYxWGRnb3RBYXpGaUllNWswNWFsa3ctTkVzdk4zaXl1MDhqLXB6aEJiT0cxd0hUN0tSenBvaHpUTTZvM002bWJEMHd1OW53aTUyU0VYbG1zeVNFS1M3aVNRemM1UkJWcEFLM1JFc3YzdHM?oc=5",
-     "resume": "",
-     "date": "2026-11-15T07:33:41+01:00",
-     "source": "Ouillade",
-     "image": null,
-     "reprises": 1,
-     "score": 1.42,
+     "score": 2.56,
      "libertes": true
     }
    ],
