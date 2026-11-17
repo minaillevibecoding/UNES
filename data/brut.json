@@ -1,6 +1,6 @@
 {
- "date": "2026-11-16",
- "genere": "2026-11-16T16:36+01:00",
+ "date": "2026-11-17",
+ "genere": "2026-11-17T14:49+01:00",
  "journaux": [
   {
    "id": "figaro",
@@ -8,57 +8,57 @@
    "couleur": "#163860",
    "une": {
     "fichier": "unes/figaro.jpg",
-    "date": "2026-11-16",
-    "source": "https://static.milibris.com/thumbnail/issue/373f7940-5a35-42e2-828c-f44a3140e074/front/catalog-cover-large.jpeg"
+    "date": "2026-11-17",
+    "source": "https://static.milibris.com/thumbnail/issue/981d4ced-1c25-4a1d-a4d4-fd088c2f141f/front/catalog-cover-large.jpeg"
    },
    "articles": [
     {
-     "titre": "Noyau dur d’activistes, CRS en renfort, chaos dans les classes… La visite d’Édouard Geffray à Nantes vire au fiasco",
-     "lien": "https://www.lefigaro.fr/nantes/entre-des-crs-en-armes-et-une-jeunesse-en-feu-la-visite-chaotique-du-ministre-de-l-education-a-nantes-20261116",
-     "resume": "RÉCIT - Le ministre de l’Éducation a vécu ce lundi une matinée houleuse à l’intérieur du lycée Nelson Mandela, incendié début octobre. Après six semaines de fermeture, certains élèves ont voulu montrer leur détermination à poursuivre la mobilisation.",
-     "date": "2026-11-16T16:14:23+01:00",
+     "titre": "EN DIRECT - Grève du 17 novembre : la manifestation parisienne s’élance depuis la place de la Nation, jusqu’à 60.000 personnes attendues",
+     "lien": "https://www.lefigaro.fr/actualite-france/en-direct-colere-sociale-toutes-les-organisations-appellent-a-se-mobiliser-massivement-ce-mardi-pour-transformer-l-essai-20261117",
+     "resume": "Des éléments d’ultragauche «devraient tenter d’intervenir notamment en fin de cortège pour faire dégénérer» les manifestations, selon des sources policières au Figaro.",
+     "date": "2026-11-17T14:18:38+01:00",
      "source": "",
-     "image": "https://i.f1g.fr/media/cms/2998x1687_crop/2026/11/16/0f56a97c91a29a237683f30e7d0630350f795cd0853150f2801c1a991f099b4d.jpg"
+     "image": "https://i.f1g.fr/media/cms/3000x2000_crop/2026/11/17/a49f9b1498bf3e3ff8b0118265aba4315b16bbfe713f1e4b1f4c143b93c8d40b.jpg"
     },
     {
-     "titre": "Colère sociale : enseignants, étudiants et lycéens se mobilisent une énième fois pour davantage de moyens",
-     "lien": "https://www.lefigaro.fr/actualite-france/colere-sociale-enseignants-etudiants-et-lyceens-se-mobilisent-une-enieme-fois-pour-davantage-de-moyens-20261116",
-     "resume": "Malgré l’interdiction de cortèges et rassemblements devant certains établissements, étudiants et lycéens comptent bien prendre part à la nouvelle manifestation de ce mardi aux côtés des personnels d’éducation.",
-     "date": "2026-11-16T15:12:44+01:00",
+     "titre": "« Les collègues ont peur et sont à bout » : après des mobilisations violentes, Marseille fait face à une pénurie de CRS",
+     "lien": "https://www.lefigaro.fr/marseille/les-collegues-ont-peur-et-sont-a-bout-apres-des-mobilisations-violentes-marseille-fait-face-a-une-penurie-de-crs-20261117",
+     "resume": "La violence des manifestations intervenues ces dernières semaines dans la cité phocéenne est à l’origine d’arrêts maladie en cascade au sein des compagnies. De quoi contraindre les autorités à «adapter» le dispositif policier pour encadrer le mouvement de ce…",
+     "date": "2026-11-17T13:16:05+01:00",
      "source": "",
-     "image": "https://i.f1g.fr/media/cms/3000x1688_crop/2026/11/16/a75abcd32fa1340653a268881eeac0e33d6753613610ab8f8259eba21adc5a5a.jpg"
+     "image": "https://i.f1g.fr/media/cms/3000x2000_crop/2026/11/17/04798b6ee4a35acf72e08139ffbcd133f8d440631417f69c811434cfdf2b8902.jpg"
     },
     {
-     "titre": "L’interdiction temporaire de la vente de mortiers peut-elle vraiment limiter leur accès ?",
-     "lien": "https://www.lefigaro.fr/actualite-france/l-interdiction-de-la-vente-de-mortiers-peut-elle-vraiment-limiter-leur-acces-20261116",
-     "resume": "Après les tirs survenus dans des établissements scolaires, l’exécutif a ordonné dimanche une suspension nationale du commerce de plusieurs engins pyrotechniques.",
-     "date": "2026-11-16T14:59:47+01:00",
+     "titre": "Le directeur de la prison d’Aix-Luynes placé en garde à vue pour des soupçons de détention d’images à caractère pédopornographique",
+     "lien": "https://www.lefigaro.fr/marseille/le-directeur-de-la-prison-d-aix-luynes-place-en-garde-a-vue-pour-des-soupcons-de-detention-d-images-a-caractere-pedopornographique-20261117",
+     "resume": "INFO LE FIGARO - La garde à vue du chef d’établissement, qui reste présumé innocent, est toujours en cours. Une perquisition est intervenue ce mardi matin au sein du centre pénitentiaire et l’Ofmin a été saisi du dossier.",
+     "date": "2026-11-17T13:58:18+01:00",
      "source": "",
-     "image": "https://i.f1g.fr/media/cms/3000x2000_crop/2026/11/16/b02cd46e212330ea0760b47207e049472c0cbc2e7f3674397d2ce249369ae2ab.jpg"
+     "image": "https://i.f1g.fr/media/cms/3000x2000_crop/2026/11/17/e5f14ff8a1b10592ecc858a579a14b891c751e700fea9e6bed2f4bf6fd855efe.jpg"
     },
     {
-     "titre": "Grève du 17 novembre : transports, manifestations… À quoi faut-il s’attendre pour cette nouvelle journée de mobilisation ?",
-     "lien": "https://www.lefigaro.fr/social/greve-du-17-novembre-transports-manifestations-a-quoi-faut-il-s-attendre-pour-cette-nouvelle-journee-de-mobilisation-20261116",
-     "resume": "Une intersyndicale de la fonction publique, rejointe par plusieurs centrales syndicales, telles que la CGT et la CFDT, appelle à la grève et à la manifestation ce mardi 17 novembre, réclamant des hausses de salaires. Les dernières annonces du gouvernement…",
-     "date": "2026-11-16T15:44:32+01:00",
+     "titre": "EN DIRECT - Présidentielle 2027 : Bruno Retailleau tacle Marine Le Pen et sa réforme des retraites «injuste et bancale», qui «fragiliserait le système»",
+     "lien": "https://www.lefigaro.fr/elections/presidentielles/en-direct-presidentielle-2027-marine-le-pen-detaille-ce-mardi-son-projet-de-reforme-des-retraites-20261117",
+     "resume": "Marine Le Pen a affirmé mardi que sa réforme des retraites, qui doit notamment ramener l’âge légal de départ à 62 voire 60 ans, sera «engagée dès (son) arrivée au pouvoir» si elle remporte l’élection présidentielle l’an prochain.",
+     "date": "2026-11-17T14:42:50+01:00",
      "source": "",
-     "image": "https://i.f1g.fr/media/cms/3000x2000_crop/2026/11/16/aa6d234352e0b388341c95e3c4bed5b08b87128f2dfd003b501e82cbb392d211.jpg"
+     "image": "https://i.f1g.fr/media/cms/3000x2001_crop/2026/11/17/4d293e20bceef03be3587381ce3fffc2f93aca11913244ad95137f61060737fc.jpg"
     },
     {
-     "titre": "Robert Pattinson sera le prochain James Bond",
-     "lien": "https://www.lefigaro.fr/cinema/robert-pattinson-sera-le-prochain-james-bond-20261116",
-     "resume": "Amazon a mis fin au suspense qui dure depuis plusieurs mois pour le remplacement de Daniel Craig, dernier acteur à avoir incarné l’agent secret.",
-     "date": "2026-11-16T16:15:34+01:00",
+     "titre": "Départ de 60 à 62 ans, capitalisation, âge du «premier emploi stable»… Ce qu’il faut retenir du projet de Marine Le Pen pour les retraites",
+     "lien": "https://www.lefigaro.fr/elections/presidentielles/depart-de-60-a-62-ans-capitalisation-age-du-premier-emploi-stable-ce-qu-il-faut-retenir-du-projet-de-marine-le-pen-pour-les-retraites-20261117",
+     "resume": "La candidate du Rassemblement national (RN) à la présidentielle a détaillé ce mardi sa réforme des retraites. Elle a notamment précisé la manière dont elle comptait abaisser l’âge de départ en cas d’arrivée au pouvoir, ainsi que les pistes de financement.",
+     "date": "2026-11-17T13:11:37+01:00",
      "source": "",
-     "image": "https://i.f1g.fr/media/cms/1920x1080_crop/2026/11/16/dedf4b1d40a3cb9cb255a67baea78eb0edf549777c3ea54f3b6b709800655cca.jpg"
+     "image": "https://i.f1g.fr/media/cms/3000x2080_crop/2026/11/17/0968336b347d8ecefcd313c599a369f91b32a469c44999cb978cb520b4fdd145.jpg"
     },
     {
-     "titre": "Des soldats français présents sur le sol ukrainien dans le cadre de l’opération Volia",
-     "lien": "https://www.lefigaro.fr/international/des-soldats-francais-presents-sur-le-sol-ukrainien-dans-le-cadre-de-l-operation-volia-20261116",
-     "resume": "DÉCRYPTAGE - RFI a révélé lundi le nom de l’opération de soutien menée par l’armée française au profit de son partenaire ukrainien.",
-     "date": "2026-11-16T14:20:22+01:00",
+     "titre": "Retraites : êtes-vous favorable à un âge de départ de 60 à 62 ans avec 40 à 42 années de cotisations, comme le propose Marine Le Pen ?",
+     "lien": "https://www.lefigaro.fr/politique/retraites-etes-vous-favorable-a-un-age-de-depart-de-60-a-62-ans-avec-40-a-42-annees-de-cotisations-comme-le-propose-marine-le-pen-20261117",
+     "resume": "",
+     "date": "2026-11-17T12:44:40+01:00",
      "source": "",
-     "image": "https://i.f1g.fr/media/cms/3000x1687_crop/2026/11/16/bc663af7a9352a9b671e58ce214ad04d7660fc2a88c4d7c5ee912045a08af1c3.jpg"
+     "image": null
     }
    ],
    "flux_utilise": "https://www.lefigaro.fr/rss/figaro_actualites.xml"
@@ -69,57 +69,57 @@
    "couleur": "#111111",
    "une": {
     "fichier": "unes/monde.webp",
-    "date": "2026-11-15",
-    "source": "https://www.frontpages.com/t/2026/11/14/le-monde-2243299ds@2x.webp"
+    "date": "2026-11-17",
+    "source": "https://www.frontpages.com/t/2026/11/16/le-monde-200039wpx@2x.webp"
    },
    "articles": [
     {
-     "titre": "« Fractures françaises » : la violence comme marqueur politique déterminant",
-     "lien": "https://www.lemonde.fr/politique/article/2026/11/16/fractures-francaises-la-violence-comme-marqueur-politique-determinant_6811535_823448.html",
-     "resume": "Facteur de rejet, d’inquiétude ou d’identification, le rapport à la violence est devenu un marqueur politique essentiel, analyse Brice Teinturier, directeur général délégué d’Ipsos, à partir de l’enquête « Fractures françaises » réalisée pour « Le Monde »…",
-     "date": "2026-11-16T07:45:09+01:00",
+     "titre": "EN DIRECT, manifestations du 17 novembre : après Marseille, Lyon ou Nantes, le cortège vient de s’élancer à Paris",
+     "lien": "https://www.lemonde.fr/politique/live/2026/11/17/en-direct-greve-du-17-novembre-suivez-la-mobilisation-a-marseille-lyon-ou-nantes-avec-nos-envoyes-speciaux-avant-le-cortege-parisien-qui-doit-s-elancer-a-14-heures_6812905_823448.html",
+     "resume": "L’ensemble des organisations syndicales dans la fonction publique appellent à se mobiliser ce mardi pour exiger des augmentations immédiates de salaires. Nos correspondants sont sur place à Paris, Marseille, Lyon, Toulouse, en Bretagne et dans le Nord.",
+     "date": "2026-11-17T13:46:53+01:00",
      "source": "",
-     "image": "https://img.lemde.fr/2026/11/15/251/0/3007/1503/644/322/60/0/3b2226d_upload-1-kqfcz4e3kfzx-frame-1385.jpg"
+     "image": "https://img.lemde.fr/2026/11/17/1971/0/5254/2627/644/322/60/0/27ea06d_upload-1-eedh2lb3fcmn-197a4586.jpeg"
     },
     {
-     "titre": "Des militaires français opèrent désormais en Ukraine",
-     "lien": "https://www.lemonde.fr/international/article/2026/11/16/des-militaires-francais-operent-desormais-en-ukraine_6811865_3210.html",
-     "resume": "De petits contingents de militaires français assurent des rotations en Ukraine pour de la formation et de la réparation de matériel de guerre, a confirmé au « Monde » une source proche du dossier, à la suite des informations de RFI.",
-     "date": "2026-11-16T14:42:53+01:00",
+     "titre": "« C’est l’Etat qui est brutal » : ces jeunes mobilisés qui légitiment la violence comme moyen de se faire entendre",
+     "lien": "https://www.lemonde.fr/campus/article/2026/11/17/c-est-l-etat-qui-est-brutal-ces-jeunes-mobilises-qui-legitiment-la-violence-comme-moyen-de-se-faire-entendre_6812976_4401467.html",
+     "resume": "Du primo-manifestant indigné par les méthodes de répression policière aux membres de black blocs ciblant les institutions et les enseignes de luxe, une partie de la jeunesse défend le recours à la force face à une violence devenue « systémique ».",
+     "date": "2026-11-17T14:45:07+01:00",
      "source": "",
-     "image": "https://img.lemde.fr/2026/11/06/1032/0/6192/3096/644/322/60/0/c9e5a36_ftp-1-ticgvokrfqrc-97dec7c374304621be28c1ccf6e6e9e9-0-06b5af51bb0c47cb988e42153f3c9803.jpg"
+     "image": "https://img.lemde.fr/2026/10/18/482/0/4500/2250/644/322/60/0/e7f0ef9_upload-1-zzj94i5non5r-mfache-17102027-le-monde-mobilisation-du-17-octobre-bordeaux-081.jpg"
     },
     {
-     "titre": "Robert Pattinson va incarner James Bond, devenant le septième acteur à interpréter le célèbre espion britannique au cinéma",
-     "lien": "https://www.lemonde.fr/culture/article/2026/11/16/robert-pattinson-va-incarner-james-bond-devenant-le-septieme-acteur-a-interpreter-le-celebre-espion-britannique-au-cinema_6812095_3246.html",
-     "resume": "La désignation de l’acteur britannique intervient pendant la plus longue pause de l’histoire de l’emblématique espion au cinéma, et met fin à des années de spéculations sur celui qui reprendrait le rôle de Daniel Craig.",
-     "date": "2026-11-16T16:28:45+01:00",
+     "titre": "« Inside Deutsche Bank » : malgré les scandales et la guerre en Ukraine, la banque a tenté de préserver son activité avec les Russes",
+     "lien": "https://www.lemonde.fr/les-decodeurs/article/2026/11/17/inside-deutsche-bank-malgre-les-scandales-et-la-guerre-en-ukraine-la-banque-a-tente-de-preserver-son-activite-avec-les-russes_6812915_4355770.html",
+     "resume": "Pour l’établissement bancaire, la Russie représente un marché historique et fructueux alimenté par une clientèle de sociétés publiques aux pratiques douteuses et par des oligarques au profil sulfureux. Avec ses « clients les plus sensibles », il a perduré…",
+     "date": "2026-11-17T07:00:15+01:00",
      "source": "",
-     "image": "https://img.lemde.fr/2026/11/16/458/0/5500/2750/644/322/60/0/8ca0576_ftp-1-tkhywgpyqzwi-2026-11-16t151945z-2110735739-rc2i8maka7n1-rtrmadp-3-film-bond.JPG"
+     "image": "https://img.lemde.fr/2026/11/16/279/0/3000/1500/644/322/60/0/1df6da8_upload-1-ung7bjh76wpv-db-03-russie.jpg"
     },
     {
-     "titre": "Cibles des attaques de drones iraniens, les pays du Golfe veulent multiplier les infrastructures souterraines",
-     "lien": "https://www.lemonde.fr/economie/article/2026/11/16/cibles-des-attaques-de-drones-iraniens-les-pays-du-golfe-veulent-multiplier-les-infrastructures-souterraines_6811769_3234.html",
-     "resume": "Les projets d’enfouissement d’infrastructures critiques se multiplient dans la région, même si la tendance avait commencé bien avant la guerre au Moyen-Orient. Un nouveau marché de la construction en sous-sol s’ouvre aux puissances étrangères.",
-     "date": "2026-11-16T14:00:05+01:00",
+     "titre": "Présidentielle 2027 : Marine Le Pen présente sa réforme des retraites, un système basé sur la progressivité et une part de capitalisation",
+     "lien": "https://www.lemonde.fr/politique/article/2026/11/17/presidentielle-2027-marine-le-pen-presente-sa-reforme-des-retraites-et-promet-que-des-centaines-de-milliers-de-travailleurs-partiront-plus-tot-qu-avec-la-reforme-borne_6812963_823448.html",
+     "resume": "La candidate du RN a promis que « des centaines de milliers de travailleurs partiront plus tôt » avec sa réforme, qui sera « engagée dès [son] arrivée au pouvoir » et promet d’abolir celle d’Elisabeth Borne au 1ᵉʳ janvier 2028.",
+     "date": "2026-11-17T12:32:16+01:00",
      "source": "",
-     "image": "https://img.lemde.fr/2026/11/13/1000/0/6000/3000/644/322/60/0/eccfbb8_upload-1-86swwfm7krdl-000-99ej2g7.jpg"
+     "image": "https://img.lemde.fr/2026/11/17/370/0/4952/2476/644/322/60/0/18f6497_upload-1-50jidmfz2ofh-z-m1141.jpeg"
     },
     {
-     "titre": "EN DIRECT, présidentielle 2027 : « En France, seul le smic est indexé sur l’inflation. C’est donc le seul salaire qui garantit le pouvoir d’achat » : l’économiste Mathieu Plane a répondu à vos questions sur la vie chère",
-     "lien": "https://www.lemonde.fr/election-presidentielle-2027/live/2026/11/16/en-direct-presidentielle-2027-pouvoir-d-achat-posez-vos-questions-a-l-economiste-mathieu-plane_6811633_6205049.html",
-     "resume": "Les Français ont-ils perdu du pouvoir d’achat ces dernières années ? Quelles classes sociales ont été le plus touchées ? Quelles sont les causes de ce décrochage ? Mathieu Plane, économiste et directeur adjoint au département analyse et prévision de…",
-     "date": "2026-11-16T13:59:22+01:00",
+     "titre": "La Commission européenne confirme le décrochage de la France dans ses prévisions économiques d’automne",
+     "lien": "https://www.lemonde.fr/economie/article/2026/11/17/la-commission-europeenne-confirme-le-decrochage-de-la-france-dans-ses-previsions-economiques-d-automne_6812945_3234.html",
+     "resume": "En 2026, la croissance de l’Union européenne a mieux résisté que ne l’attendaient les experts de la Commission, sauf dans l’Hexagone, qui fait pâle figure. Quant à l’inflation, elle va continuer à grever le pouvoir d’achat dans toute l’UE en 2027.",
+     "date": "2026-11-17T11:00:04+01:00",
      "source": "",
-     "image": "https://img.lemde.fr/2026/10/03/83/0/4252/2126/644/322/60/0/a3a2c70_upload-1-7l3uinrzwlof-outletmarquette-53.jpg"
+     "image": "https://img.lemde.fr/2026/02/19/250/0/3000/1500/644/322/60/0/3c10a51_upload-1-jaehtckrvyzm-option-124.jpg"
     },
     {
-     "titre": "Avant la sortie de « GTA VI », les internautes en ébullition : « J’ai du mal à trouver le sommeil »",
-     "lien": "https://www.lemonde.fr/pixels/article/2026/11/16/avant-la-sortie-de-gta-vi-les-internautes-en-ebullition-j-ai-du-mal-a-trouver-le-sommeil_6812029_4408996.html",
-     "resume": "Sur les réseaux sociaux, les fans de « Grand Theft Auto » débordent d’enthousiasme à trois jours de sa sortie, jeudi 19 novembre, partageant par millions sketchs, vidéos IA et témoignages.",
-     "date": "2026-11-16T16:00:58+01:00",
+     "titre": "Plans d’épargne-retraite : ce qui a changé en 2026",
+     "lien": "https://www.lemonde.fr/argent/article/2026/11/17/plans-d-epargne-retraite-ce-qui-a-change-en-2026_6812971_1657007.html",
+     "resume": "Davantage souscrit pour les avantages fiscaux à l’entrée que pour le complément de revenu qu’il génère à la sortie, le PER a fait l’objet de trois ajustements dans le cadre des lois budgétaires de l’Etat. En cette période propice aux versements de fin…",
+     "date": "2026-11-17T14:00:03+01:00",
      "source": "",
-     "image": "https://img.lemde.fr/2026/11/10/257/0/6000/3000/644/322/60/0/cd58626_ftp-1-o2zbefl9bl5b-afp-d6zv23c.jpg"
+     "image": "https://img.lemde.fr/2023/04/17/197/0/3000/1500/644/322/60/0/2b21620_1681717634755-dd.jpg"
     }
    ],
    "flux_utilise": "https://www.lemonde.fr/rss/une.xml"
@@ -130,57 +130,57 @@
    "couleur": "#c8102e",
    "une": {
     "fichier": "unes/croix.jpg",
-    "date": "2026-11-16",
-    "source": "https://img.kiosko.net/2026/11/16/fr/lacroix.750.jpg"
+    "date": "2026-11-17",
+    "source": "https://img.kiosko.net/2026/11/17/fr/lacroix.750.jpg"
    },
    "articles": [
     {
-     "titre": "Sainte Gertrude la Grande, la conversion d’une moniale",
-     "lien": "https://www.la-croix.com/Religion/2015-11-14/Sainte-Gertrude-la-Grande-la-conversion-d-une-moniale-2015-11-14-1380170",
-     "resume": "Par les deux ouvrages qu’elle a laissés, la moniale Gertrude de Helfta (1256-vers 1301) est considérée comme l’une des plus grandes mystiques du Moyen Âge. Inscrite au catalogue des saints en 1678, elle est fêtée le 16 novembre.",
-     "date": "2026-11-16T16:14:28+01:00",
+     "titre": "LA RENCONTRE D’UNE VIE",
+     "lien": "https://www.la-croix.com/service/la-rencontre-d-une-vie-20261117",
+     "resume": "Quand Elina Dumont a rencontré Sœur Emmanuelle, elle était dans la rue depuis quinze ans après une enfance difficile en famille d’accueil. Aujourd’hui comédienne, autrice et chroniqueuse sur RMC, elle reste profondément marquée par cette rencontre et par…",
+     "date": "2026-11-17T14:36:01+01:00",
      "source": "",
-     "image": "https://i.la-croix.com/x/2026/11/16/2590530-le-mariage-mystique-de-sainte-gertrude-de-helfta-p.jpg"
+     "image": null
     },
     {
-     "titre": "Erreurs médicales, complications : comment les recours des patients impactent les pratiques des médecins",
-     "lien": "https://www.la-croix.com/societe/erreurs-medicales-complications-comment-les-recours-des-patients-impactent-les-pratiques-des-medecins-20261116",
-     "resume": "Mis en cause après un soin, une intervention ou un diagnostic, les médecins sont de plus en plus souvent confrontés à des recours engagés par leurs patients. Un risque pesant pour la profession, toutefois consciente que ces recours peuvent amener des progrès.",
-     "date": "2026-11-16T16:06:12+01:00",
+     "titre": "Mouvement social : quand la saga « Hunger Games » inspire les jeunes manifestants",
+     "lien": "https://www.la-croix.com/culture/mouvement-social-quand-la-saga-hunger-games-inspire-les-jeunes-manifestants-20261117",
+     "resume": "Dans les cortèges, de Paris à Marseille, l’œuvre dystopique de Suzanne Collins, dont un nouvel opus sort mercredi au cinéma, n’en finit pas d’inspirer les adolescents. Ils en reprennent les symboles pour dénoncer l’inégalité des chances et la répression…",
+     "date": "2026-11-17T14:10:10+01:00",
      "source": "",
-     "image": "https://i.la-croix.com/x/2026/11/16/2587797-selon-l-office-national-dindemnisation-des-acciden.jpg"
+     "image": "https://i.la-croix.com/x/2026/11/17/2590625-des-manifestants-font-le-salut-a-trois-doigts-sign.jpg"
     },
     {
-     "titre": "Guerre au Moyen-Orient : pétrolier touché dans le détroit d’Ormuz ; frappe israélienne au Liban",
-     "lien": "https://www.la-croix.com/international/direct-guerre-iran-israel-usa-jour-262-moyen-orient-bilan-resume-aujourdhui-20261116",
-     "resume": "Un pétrolier a été touché à la sortie du détroit d’Ormuz par un projectile d’origine inconnue qui a provoqué un incendie. L’aviation israélienne a mené une frappe dans l’est du Liban, affirmant avoir visé le Hezbollah. Retrouvez l’actualité du conflit au…",
-     "date": "2026-11-16T15:58:30+01:00",
+     "titre": "Présidentielle 2027 : le rôle symbolique de Gérard Larcher pour une primaire de la droite et du centre",
+     "lien": "https://www.la-croix.com/politique/presidentielle-2027-le-role-symbolique-de-gerard-larcher-pour-une-primaire-de-la-droite-et-du-centre-20261117",
+     "resume": "Gérard Larcher, le président du Sénat, est le seul à pouvoir réunir autour de la même table les candidats de la droite et du centre à l’élection présidentielle, David Lisnard, Bruno Retailleau, Édouard Philippe et Gabriel Attal. Ce n’est toutefois pas lui…",
+     "date": "2026-11-17T13:55:36+01:00",
      "source": "",
-     "image": "https://i.la-croix.com/x/2026/11/16/2590142-des-decombres-de-maisons-deux-jours-apres-des-frap.jpg"
+     "image": "https://i.la-croix.com/x/2026/11/16/2590687-gerard-larcher-president-du-senat-ici-au-palais-du.jpg"
     },
     {
-     "titre": "Guerre en Ukraine : 600 drones lancés vers Moscou ; les alliés de l’Ukraine prêts à se réunir",
-     "lien": "https://www.la-croix.com/international/ukraine-russie-jour-1727-point-conflit-ukrainien-poutine-aujourdhui-20261116",
-     "resume": "Environ 600 drones ont été lancés vers Moscou dans la nuit et ce matin, dont 191 ont été interceptés. Volodymyr Zelensky a annoncé dimanche qu’une réunion de la « Coalition des volontaires » était en cours de préparation. Suivez l’actualité de la guerre en…",
-     "date": "2026-11-16T15:47:45+01:00",
+     "titre": "DIRECT. Grève du 17 novembre 2026 : perturbations, manifestations… Le point à la mi-journée",
+     "lien": "https://www.la-croix.com/economie/direct-greve-mardi-17-novembre-2026-sncf-ecole-parcours-manifestation-aujourdhui-20261117",
+     "resume": "Écoles, SNCF, transports perturbés… Les syndicats de la fonction publique ont appelé à une grève interprofessionnelle pour réclamer une revalorisation des salaires. Des cortèges sont prévus à Paris, Lyon, Marseille ou Toulouse. Suivez en direct la…",
+     "date": "2026-11-17T13:24:25+01:00",
      "source": "",
-     "image": "https://i.la-croix.com/x/2026/11/16/2590034-une-frappe-aerienne-russe-sur-zaporijjia-en-ukrain.jpg"
+     "image": "https://i.la-croix.com/x/2026/11/17/2591293-le-defile-a-nantes-lors-de-la-journee-d-emobilisat.jpg"
     },
     {
-     "titre": "Avortement : le gouvernement britannique gracie les femmes condamnées",
-     "lien": "https://www.la-croix.com/international/avortement-le-gouvernement-britannique-gracie-les-femmes-condamnees-20261116",
-     "resume": "Les femmes ayant été condamnées pour avoir avorté en Angleterre et au pays de Galles ont été graciées lundi 16 novembre, a annoncé le gouvernement britannique, après l’entrée en vigueur d’une loi dépénalisant l’IVG hors délai.",
-     "date": "2026-11-16T15:44:26+01:00",
+     "titre": "Guerre en Ukraine : à Kiev sous les bombes, « les explosions, on n’y fait presque plus attention »",
+     "lien": "https://www.la-croix.com/international/guerre-en-ukraine-a-kiev-sous-les-bombes-les-explosions-on-n-y-fait-presque-plus-attention-20261117",
+     "resume": "Deux ponts fermés, une ligne de métro hors service, des coupures d’eau et d’électricité : après une nuit de bombardements intenses, mardi 17 novembre, Kiev tente de fonctionner malgré le chaos. Et pour dissuader la Russie, l’Ukraine a frappé le pont de…",
+     "date": "2026-11-17T13:15:33+01:00",
      "source": "",
-     "image": "https://i.la-croix.com/x/2026/11/16/2590471-une-contre-manifestation-en-faveur-du-droit-a-l-av.jpg"
+     "image": "https://i.la-croix.com/x/2026/11/17/2591356-un-pont-de-kiev-frappe-par-les-russes-le-17-novemb.JPG"
     },
     {
-     "titre": "Cyberattaque sur Maileva : une entreprise peu connue qui gardait les données de 22 millions de Français",
-     "lien": "https://www.la-croix.com/societe/cyberattaque-sur-maileva-une-entreprise-peu-connue-qui-gardait-les-donnees-de-22-millions-de-francais-20261116",
-     "resume": "Maileva, filiale du groupe La Poste, a reconnu samedi 14 novembre 2026 avoir été victime d’une cyberattaque d’ampleur à la mi-septembre. Cet incident pourrait avoir des conséquences sur 22 millions de personnes dont les prénoms, noms et adresses ont été volés.",
-     "date": "2026-11-16T15:29:35+01:00",
+     "titre": "« L’espérance ne dépend ni de la bonne santé du monde ni de notre performance »",
+     "lien": "https://www.la-croix.com/a-vif/l-esperance-ne-depend-ni-de-la-bonne-sante-du-monde-ni-de-notre-performance-20261117",
+     "resume": "Guerres, injustices, extrémismes : face à l’accumulation des mauvaises nouvelles, l’optimisme obligatoire des rayons « bien-être » sonne creux. En relisant Paul et la figure d’Abraham, la pasteure Céline Rohmer trouve une autre forme d’espérance, celle qui…",
+     "date": "2026-11-17T12:48:43+01:00",
      "source": "",
-     "image": "https://i.la-croix.com/x/2026/11/16/2590198-maileva-filiale-du-groupe-la-poste-a-reconnu-samed.jpg"
+     "image": "https://i.la-croix.com/x/2026/08/21/2516402-celine-rohmer-theologienne-pasteure-de-l-eglise-pr.jpg"
     }
    ],
    "flux_utilise": "https://www.la-croix.com/feeds/rss/site.xml"
@@ -191,57 +191,57 @@
    "couleur": "#e2001a",
    "une": {
     "fichier": "unes/equipe.jpg",
-    "date": "2026-11-16",
-    "source": "https://img.kiosko.net/2026/11/16/fr/l_equip.750.jpg"
+    "date": "2026-11-17",
+    "source": "https://img.kiosko.net/2026/11/17/fr/l_equip.750.jpg"
    },
    "articles": [
     {
-     "titre": "Augmenter le salary-cap pour compenser les blessures, une proposition plus sensible qu'il n'y paraît",
-     "lien": "https://www.lequipe.fr/Rugby/Article/Rehaussement-du-salary-cap-pour-compenser-l-hecatombe-de-blessures-pourquoi-la-proposition-de-laurent-marti-pose-d-autres-questions-sensibles/1744024#at_medium=RSS_feeds",
+     "titre": "Bryson DeChambeau rejoint le DP World Tour après la dissolution du LIV Golf",
+     "lien": "https://www.lequipe.fr/Golf/Actualites/Bryson-dechambeau-rejoint-le-dp-world-tour-apres-la-dissolution-du-liv-golf/1744224#at_medium=RSS_feeds",
+     "resume": "Membre du LIV Golf depuis sa création il y a quatre ans, Bryson DeChambeau a décidé de rejoindre le DP World Tour suite à la dissolution du circuit saoudien. L'Américain croyait encore à la résurrection du LIV Golf au début du mois.",
+     "date": "2026-11-17T14:23:56+01:00",
+     "source": "",
+     "image": "https://medias.lequipe.fr/img-photo-png/-/1500000000833469/0-828-552-75/0cb67.png"
+    },
+    {
+     "titre": "Le show Vinicius : porté par un triplé en douze minutes de l'attaquant du Real Madrid, le Brésil écrase Singapour en match amical",
+     "lien": "https://www.lequipe.fr/Football/Actualites/Le-show-vinicius-porte-par-un-triple-en-douze-minutes-de-l-attaquant-du-real-madrid-le-bresil-ecrase-singapour-en-match-amical/1744221#at_medium=RSS_feeds",
+     "resume": "Grâce à un triplé de Vinicius en douze minutes, son premier en sélection, le Brésil a écrasé Singapour (7-0) lors d'un match amical, ce mardi midi, pour sa dernière de l'année. L'ancien Lyonnais Endrick a aussi participé à la fête.",
+     "date": "2026-11-17T13:51:44+01:00",
+     "source": "",
+     "image": "https://medias.lequipe.fr/img-photo-jpg/vinicius-a-inscrit-le-premier-triple-de-sa-carriere-sous-le-maillot-du-bresil-k-asakura-aflo-sport/1500000002652735/0:0,2000:1333-828-552-75/9bf18.jpg"
+    },
+    {
+     "titre": "« Mon histoire de joueur s'achève » : l'ancien défenseur du PSG et de Monaco Layvin Kurzawa annonce sa retraite",
+     "lien": "https://www.lequipe.fr/Football/Actualites/-mon-histoire-de-joueur-s-acheve-layvin-kurzawa-annonce-sa-retraite/1744202#at_medium=RSS_feeds",
+     "resume": "Ancien international français (13 sélections), Layvin Kurzawa a annoncé ce mardi la fin de sa carrière à l'âge de 34 ans. Le latéral gauche a notamment évolué à Monaco et au PSG. Durant son passage au sein du club de la capitale, il a écrit l'histoire de la…",
+     "date": "2026-11-17T13:29:25+01:00",
+     "source": "",
+     "image": "https://medias.lequipe.fr/img-photo-jpg/layvin-kurzawa-a-joue-au-psg-entre-2015-et-2024-s-mantey-l-equipe/1500000002652700/249:233,1692:1195-828-552-75/3b7ec.jpg"
+    },
+    {
+     "titre": "Plus protecteur et moins ouvert, Zidane imprime sa marque dans la com",
+     "lien": "https://www.lequipe.fr/Football/Article/-une-vision-plus-minimaliste-plus-distant-avec-les-medias-et-protecteur-avec-ses-joueurs-zinedine-zidane-imprime-sa-marque-dans-la-communication-des-bleus/1744129#at_medium=RSS_feeds",
      "resume": "",
-     "date": "2026-11-16T16:14:00+01:00",
+     "date": "2026-11-17T13:23:00+01:00",
      "source": "",
      "image": "https://medias.lequipe.fr/img-photo-png/-/1500000000833469/0-828-552-75/0cb67.png"
     },
     {
-     "titre": "Nadir Hifi et Mathias Lessort remplacés par Sylvain Francisco et Neal Sako pour la fenêtre des qualifications à la Coupe du monde",
-     "lien": "https://www.lequipe.fr/Basket/Actualites/Nadir-hifi-et-mathias-lessort-remplaces-par-sylvain-francisco-et-neal-sako-pour-la-fenetre-des-qualifications-a-la-coupe-du-monde/1744032#at_medium=RSS_feeds",
-     "resume": "Le sélectionneur des Bleus Frédéric Fauthoux a appelé Sylvain Francisco (Panathinaïkos) et Neal Sako (Valence) pour suppléer Nadir Hifi (Paris) et Mathias Lessort (Panathinaïkos), qui ont déclaré forfait pour les deux matches de qualifications à la Coupe du…",
-     "date": "2026-11-16T16:10:31+01:00",
+     "titre": "La candidature de Philippe Diallo à la présidence de la FIFA acceptée par le comité exécutif de la FFF",
+     "lien": "https://www.lequipe.fr/Football/Actualites/La-candidature-de-philippe-diallo-a-la-presidence-de-la-fifa-acceptee-par-le-comite-executif-de-la-fff/1744201#at_medium=RSS_feeds",
+     "resume": "Lors d'un point presse tenu ce mardi, Philippe Diallo a annoncé que sa candidature à la présidence de la FIFA avait été validée par le comité exécutif de la Fédération française de football (FFF).",
+     "date": "2026-11-17T13:21:06+01:00",
      "source": "",
-     "image": "https://medias.lequipe.fr/img-photo-jpg/sylvain-francisco-va-retrouver-les-bleus-a-la-fin-du-mois-a-mounic-l-equipe/1500000002652082/495:330,1779:1186-828-552-75/13768.jpg"
+     "image": "https://medias.lequipe.fr/img-photo-jpg/philippe-diallo-lors-de-la-derniere-coupe-du-monde-f-faugere-l-equipe/1500000002652697/0:0,2000:1333-828-552-75/a6a59.jpg"
     },
     {
-     "titre": "La France grimpe à la troisième place du classement mondial",
-     "lien": "https://www.lequipe.fr/Rugby/Actualites/La-france-grimpe-a-la-troisieme-place-du-classement-mondial/1744029#at_medium=RSS_feeds",
-     "resume": "Après sa victoire contre l'Afrique du Sud vendredi (21-19), l'équipe de France grimpe à la troisième place du classement mondial publié par World Rugby.",
-     "date": "2026-11-16T15:59:44+01:00",
-     "source": "",
-     "image": "https://medias.lequipe.fr/img-photo-jpg/les-bleus-troisiemes-du-classement-mondial-p-lahalle-l-equipe/1500000002652073/0:0,1999:1332-828-552-75/673e5.jpg"
-    },
-    {
-     "titre": "Blessé avec l'Espagne en Ligue des nations, Pau Cubarsi incertain pour la réception de Villarreal avec le FC Barcelone",
-     "lien": "https://www.lequipe.fr/Football/Actualites/Blesse-avec-l-espagne-en-ligue-des-nations-pau-cubarsi-incertain-pour-la-reception-de-villarreal-avec-le-fc-barcelone/1744027#at_medium=RSS_feeds",
-     "resume": "Touché avec la sélection espagnole, Pau Cubarsi est incertain pour la reprise de la Liga et la rencontre entre le FC Barcelone et Villarreal.",
-     "date": "2026-11-16T15:56:04+01:00",
+     "titre": "Quelle eSIM choisir pour voyager ?",
+     "lien": "https://www.lequipe.fr/Guide-d-achat/High-tech-multimedia/Actualites/Quelle-esim-choisir-pour-voyager-en-2026-le-comparatif-complet/1722378#at_medium=RSS_feeds",
+     "resume": "",
+     "date": "2026-11-17T13:00:00+01:00",
      "source": "",
      "image": "https://medias.lequipe.fr/img-photo-png/-/1500000000833469/0-828-552-75/0cb67.png"
-    },
-    {
-     "titre": "« Je n'avais pas imaginé tout ça » : appelé de dernière minute et buteur contre la Turquie, l'inattendu Éli Junior Kroupi se montre déjà chez les Bleus",
-     "lien": "https://www.lequipe.fr/Football/Article/-je-n-avais-pas-imagine-tout-ca-appele-de-derniere-minute-et-buteur-contre-la-turquie-l-inattendu-eli-junior-kroupi-se-montre-deja-chez-les-bleus/1744025#at_medium=RSS_feeds",
-     "resume": "Appelé tardivement après le forfait de Marcus Thuram, l'attaquant de Bournemouth Éli Junior Kroupi a marqué son premier but en bleu contre la Turquie (2-1), dimanche à Bordeaux. Une récompense après des mois contrariés par une blessure à un pied.",
-     "date": "2026-11-16T15:50:02+01:00",
-     "source": "",
-     "image": "https://medias.lequipe.fr/img-photo-jpg/eli-junior-kroupi-est-entre-en-jeu-lors-de-la-victoire-des-bleus-contre-la-turquie-2-1-dimanche-s-mantey-l-equipe/1500000002652063/0:0,1951:1301-828-552-75/60fd1.jpg"
-    },
-    {
-     "titre": "Carlos Alcaraz en démonstration face à Frances Tiafoe pour son entrée en lice aux Finales ATP de Turin",
-     "lien": "https://www.lequipe.fr/Tennis/Actualites/Carlos-alcaraz-en-demonstration-face-a-frances-tiafoe-pour-son-entree-en-lice-aux-finales-atp-de-turin/1744020#at_medium=RSS_feeds",
-     "resume": "Pour son premier match aux Finales ATP de Turin, Carlos Alcaraz n'a laissé aucune chance à Frances Tiafoe ce lundi après-midi avec une victoire sans appel en 1h09 (6-2, 6-2). L'Espagnol, qui vise un premier titre dans ce tournoi des maîtres, a fait forte…",
-     "date": "2026-11-16T15:38:35+01:00",
-     "source": "",
-     "image": "https://medias.lequipe.fr/img-photo-jpg/carlos-alcaraz-ce-lundi-a-turin-f-faugere-l-equipe/1500000002652050/0:0,2000:1333-828-552-75/27480.jpg"
     }
    ],
    "flux_utilise": "https://dwh.lequipe.fr/api/edito/rss?path=/"
@@ -254,64 +254,64 @@
    "sous_titre": "Les informations les plus importantes, partout dans le monde",
    "items": [
     {
-     "titre": "EN DIRECT, guerre en Ukraine : Donald Trump, Xi Jinping et Vladimir Poutine doivent se retrouver jeudi à Shenzhen, en Chine, pour leur première rencontre à trois",
-     "lien": "https://www.lemonde.fr/international/live/2026/11/16/en-direct-guerre-en-ukraine-donald-trump-xi-jinping-et-vladimir-poutine-doivent-se-retrouver-jeudi-a-shenzhen-en-chine-pour-leur-premiere-rencontre-a-trois_6810982_3210.html",
-     "resume": "« On ne saurait surestimer la signification et la portée symbolique de cette rencontre », a déclaré lundi Iouri Ouchakov, conseiller diplomatique du président russe. Il a invoqué l’alliance des trois pays durant la seconde guerre mondiale et leur coopération…",
-     "date": "2026-11-16T15:39:27+01:00",
+     "titre": "EN DIRECT, guerre en Ukraine : la Russie dénonce une « participation directe » de la France au conflit",
+     "lien": "https://www.lemonde.fr/international/live/2026/11/17/en-direct-guerre-en-ukraine-la-russie-denonce-une-participation-directe-de-la-france-au-conflit_6810982_3210.html",
+     "resume": "Le ministre des affaires étrangères russe a annoncé avoir adressé une mise en garde à Paris concernant la présence de soldats français en Ukraine. De petits contingents de militaires français assurent des rotations pour de la formation et de la réparation de…",
+     "date": "2026-11-17T14:29:44+01:00",
      "source": "lemonde.fr",
-     "image": "https://img.lemde.fr/2026/11/12/378/0/3715/1857/644/322/60/0/5c4ead4_ftp-1-ag57kfduwxid-afp-d79r6qq.jpg",
+     "image": "https://img.lemde.fr/2026/11/16/404/0/4870/2435/644/322/60/0/bdcfc98_ftp-1-ethrqrabjbsk-afp-d7mz9cp.jpg",
+     "reprises": 9,
+     "score": 24.64
+    },
+    {
+     "titre": "Rwanda : Kigali signe un accord pour accueillir des migrants expulsés d'Europe",
+     "lien": "https://www.france24.com/fr/vid%C3%A9o/20261117-rwanda-kigali-signe-un-accord-pour-accueillir-des-migrants-expuls%C3%A9s-d-europe",
+     "resume": "🇷🇼 Le Rwanda pourrait devenir une destination pour les migrants expulsés d’Europe. Cinq pays européens, dont l’Allemagne et les Pays-Bas, soutiennent la création d’un centre d’accueil sur son sol. Un projet controversé, appuyé par Bruxelles et dénoncé par…",
+     "date": "2026-11-17T14:36:32+01:00",
+     "source": "france24.com",
+     "image": "https://s.france24.com/media/display/b2c6eb4c-e287-11f1-8ccf-c5c0357b2a0c/w:1024/p:16x9/Couv-RWANDA-Migrants.jpg",
+     "reprises": 5,
+     "score": 13.79
+    },
+    {
+     "titre": "Trump arrive à Manille avant un sommet avec Xi et Poutine en Chine",
+     "lien": "https://www.france24.com/fr/vid%C3%A9o/20261117-trump-arrive-%C3%A0-manille-avant-un-sommet-avec-xi-et-poutine-en-chine",
+     "resume": "Le président américain Donald Trump est arrivé mardi soir à Manille, où il doit notamment rencontrer les dirigeants de l'Inde, du Japon et de l'Australie avant un sommet avec ses homologues chinois Xi Jinping et russe Vladimir Poutine en Chine jeudi.",
+     "date": "2026-11-17T12:57:48+01:00",
+     "source": "france24.com",
+     "image": "https://s.france24.com/media/display/cebe5df4-e27c-11f1-b9e5-c5c0357b2a0c/w:1024/p:16x9/FR-20261117-120413-120915-CS-01.jpg",
      "reprises": 6,
-     "score": 16.07
+     "score": 12.53
     },
     {
-     "titre": "L’élection du secrétaire général de l’Organisation internationale de la francophonie reportée d’un an",
-     "lien": "https://www.lemonde.fr/afrique/article/2026/11/16/l-election-du-secretaire-general-de-l-organisation-internationale-de-la-francophonie-reportee-d-un-an_6811682_3212.html",
-     "resume": "Ce report a lieu dans le contexte d’un bras de fer entre la RDC et le Rwanda. La sortante rwandaise, Louise Mushikiwabo, candidate à un troisième mandat, restera en poste jusqu’à la tenue du nouveau scrutin, pour lequel le Rwanda ne présentera pas de candidat.",
-     "date": "2026-11-16T10:43:11+01:00",
+     "titre": "En Serbie, la Liste étudiante fait une entrée historique au Parlement",
+     "lien": "https://www.lemonde.fr/international/article/2026/11/17/en-serbie-la-liste-etudiante-en-ordre-de-marche-pour-son-entree-au-parlement_6812966_3210.html",
+     "resume": "Les représentants des étudiants se préparent à former un gouvernement dont la première tâche sera d’effectuer une purge de l’administration démissionnaire, accusée de corruption à grande échelle. Des contrats juteux passés avec de grands groupes européens et…",
+     "date": "2026-11-17T13:00:01+01:00",
      "source": "lemonde.fr",
-     "image": "https://img.lemde.fr/2026/11/16/426/0/5107/2553/644/322/60/0/00e227a_ftp-1-2qjbnnpyzc4h-2026-11-16t090731z-131018243-rc2vooamahv5-rtrmadp-3-cambodia-francophonie.JPG",
+     "image": "https://img.lemde.fr/2026/11/16/551/0/3334/1667/644/322/60/0/f16903f_upload-1-5atvuloxglha-students-serbia-061.jpg",
      "reprises": 5,
-     "score": 12.76
+     "score": 10.3
     },
     {
-     "titre": "L'Allemagne, l'Autriche, le Danemark, la Grèce et les Pays-Bas présentent leur projet de «hub de retour» pour migrants au Rwanda",
-     "lien": "https://www.rfi.fr/fr/europe/20261116-l-allemagne-l-autriche-le-danemark-la-gr%C3%A8ce-et-les-pays-bas-pr%C3%A9sentent-leur-projet-de-hub-de-retour-pour-migrants-au-rwanda",
-     "resume": "Cinq pays européens défendent une politique migratoire très ferme et pilotent ensemble un projet visant à envoyer des migrants dans des centres situés hors d’Europe. Après des mois de réflexion, ils ont retenu le Rwanda pour un premier projet pilote, dont…",
-     "date": "2026-11-16T16:35:36+01:00",
-     "source": "AP Photo/Heinz-Peter Bader - Heinz-Peter Bader",
-     "image": "https://s.rfi.fr/media/display/013e2372-e1d3-11f1-80e8-f71d22e7fea9/w:1024/p:16x9/AP26320558302536.jpg",
-     "reprises": 5,
-     "score": 9.97
-    },
-    {
-     "titre": "Frappes ukrainiennes en Russie : le pont de Crimée touché",
-     "lien": "https://www.france24.com/fr/vid%C3%A9o/20261116-frappes-ukrainiennes-en-russie-le-pont-de-crim%C3%A9e-touch%C3%A9",
-     "resume": "La Russie a affirmé, lundi 16 novembre, avoir détruit 1 336 drones ukrainiens dans la nuit du 15 novembre, un nombre remarquablement élevé, et a indiqué que le pont stratégique qui relie le territoire russe à la péninsule de Crimée avait été \"frappé\" par…",
-     "date": "2026-11-16T12:35:48+01:00",
-     "source": "france24.com",
-     "image": "https://s.france24.com/media/display/3c690d70-e1ad-11f1-9a03-f71d22e7fea9/w:1024/p:16x9/FR-20261116-093408-093822-CS.jpg",
+     "titre": "L’Iran revendique une attaque contre une base américaine à Bahreïn",
+     "lien": "https://www.lemonde.fr/international/article/2026/11/17/l-iran-revendique-une-attaque-contre-une-base-americaine-a-bahrein_6812959_3210.html",
+     "resume": "Les combats connaissent une accalmie depuis septembre, mais vendredi, puis dimanche, l’Iran avait déjà revendiqué des attaques contre des systèmes de radars américains à Bahreïn.",
+     "date": "2026-11-17T11:53:55+01:00",
+     "source": "lemonde.fr",
+     "image": "https://img.lemde.fr/2026/09/02/176/0/3600/1800/644/322/60/0/49f9bb0_ftp-1-iqrafoxhmh8r-5976048-01-06.jpg",
      "reprises": 4,
-     "score": 7.05
+     "score": 10.21
     },
     {
-     "titre": "Estonie : le pays ferme sa frontière avec la Russie après une tentative d'attaque",
-     "lien": "https://www.france24.com/fr/vid%C3%A9o/20261116-estonie-le-pays-ferme-sa-fronti%C3%A8re-avec-la-russie-apr%C3%A8s-une-tentative-d-attaque",
-     "resume": "L'Estonie fermera tous ses postes frontières avec la Russie à compter du 1ᵉʳ décembre, a déclaré dimanche 15 novembre le ministre estonien des Affaires étrangères, à la suite d'une tentative d'incendie d'une entreprise du secteur de la défense imputée par…",
-     "date": "2026-11-16T12:38:44+01:00",
-     "source": "france24.com",
-     "image": "https://s.france24.com/media/display/3ecd6382-e1ac-11f1-b1cc-29048b396e03/w:1024/p:16x9/FR-20261116-093227-093407-CS-01.jpg",
-     "reprises": 4,
-     "score": 6.86
-    },
-    {
-     "titre": "Incendie d’un immeuble à Phuket : au moins 11 morts et 36 blessés",
-     "lien": "https://www.franceinfo.fr/replay-jt/france-2/13-heures/incendie-d-un-immeuble-a-phuket-au-moins-11-morts-et-36-blesses_8284961.html#xtor=RSS-3-%5Bmonde%5D",
-     "resume": "Au moins 11 morts et 36 blessés. C’est le tout dernier bilan de l’incendie qui a ravagé un immeuble sur l’île touristique de Phuket (Thaïlande). Le bâtiment abritait un restaurant et des logements. Pour l’instant, l’origine du feu reste inconnue.",
-     "date": "2026-11-16T15:23:29+01:00",
-     "source": "franceinfo.fr",
-     "image": "https://www.franceinfo.fr/pictures/eZ_oefNfKvrvna3nxuRtbqnBZ7Q/0x0:1920x1080/432x243/filters:format(jpg)/2026/11/16/6afb111a55e76564993826.jpg",
-     "reprises": 2,
-     "score": 6.12
+     "titre": "« Inside Deutsche Bank » : malgré les scandales et la guerre en Ukraine, la banque a tenté de préserver son activité avec les Russes",
+     "lien": "https://www.lemonde.fr/les-decodeurs/article/2026/11/17/inside-deutsche-bank-malgre-les-scandales-et-la-guerre-en-ukraine-la-banque-a-tente-de-preserver-son-activite-avec-les-russes_6812915_4355770.html",
+     "resume": "Pour l’établissement bancaire, la Russie représente un marché historique et fructueux alimenté par une clientèle de sociétés publiques aux pratiques douteuses et par des oligarques au profil sulfureux. Avec ses « clients les plus sensibles », il a perduré…",
+     "date": "2026-11-17T07:00:15+01:00",
+     "source": "lemonde.fr",
+     "image": "https://img.lemde.fr/2026/11/16/279/0/3000/1500/644/322/60/0/1df6da8_upload-1-ung7bjh76wpv-db-03-russie.jpg",
+     "reprises": 3,
+     "score": 9.14
     }
    ],
    "a_traduire": []
@@ -322,106 +322,106 @@
    "sous_titre": "Modèles, entreprises, régulation, recherche",
    "items": [
     {
-     "titre": "Les médias du groupe LVMH de Bernard Arnault s’allient à OpenAI",
-     "lien": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxNak9SM2FpMXhWUGN5QmdyN3hZdXJfaWdFVnNTbVVDRzl5SEpIR29OSUZzNFhoYjM4alR4VTdXYWZKc2xTaUIzTU9ES2M5Tkk5MGY3Z1A0TFRuZ2I3VHFyZnFLeVR4MnJGdGZaMWRacjRqaXZtTnRjc0VuemxLUUtvZFJETlFXVHRMVC16SWZ4LV9yZl9QbUZhSnpOeXlnUC1MRzM4bXpURkk2bE1rd1JLUUNneXdOZ3YtdktucVhZMUlZekpKMXBMTl9CMXloM1o0QzY4UlZXMWc?oc=5",
+     "titre": "\"Nous voulons de l'innovation qui se conforme à la loi\": la Californie poursuit OpenAI en justice dans l'affaire des agents IA qui se sont échappés pour pirater Hugging Face",
+     "lien": "https://news.google.com/rss/articles/CBMi4wJBVV95cUxQeFJYY2diSWFpMlNGVWxvX0hEVzlDVk5zb2ZBQXJGVTdsRE5ZTGY3cDMzcmtOWGxFVHFiTjF0SmVSNGhUOUcwVC1TX2todlFqWmJoalgyQmJneUNQbXRoTHJ5YUVHcWRENXRxdHAyLVdBcDVCbnpocm9qRW1YWEx3Y1kyQTZBVHpaTW9pX18yUmlfRjFQdWM2YTdtdkRkZTgyOFhhcTJuTjlYSXl1SXA0UUhmNFR0SWpZSTBIWkMyVEQyM3ZKZUdocmpCUXVqMDhtRWsyZXVmSXpzZnRaclVZTEZJR0s4cW9FLW1tRnl4RGNyTG5OZmoyU1d5Z1JqdGhFb3RvNFYwQ29mcGFKTFRyWjBvMzVCajNQdG5pM0ctYjM0UFJaNFdkRHBDdzR6amFiMFpWenNPSzRfRnJwbllXMmVFX3c0cGxJT2cxZERfUjZTWUhBblZMOUQ3VGsyOHlfbFVz?oc=5",
      "resume": "",
-     "date": "2026-11-16T13:39:47+01:00",
-     "source": "Libération",
+     "date": "2026-11-17T10:14:28+01:00",
+     "source": "BFM",
      "image": null,
-     "reprises": 5,
-     "score": 13.97
+     "reprises": 6,
+     "score": 13.57
     },
     {
-     "titre": "L’introduction en Bourse d’Anthropic aurait pu rapporter 40 milliards de dollars à Sam Bankman-Fried, l’escroc dont les sociétés ont été liquidées",
-     "lien": "https://news.google.com/rss/articles/CBMiuwJBVV95cUxPMUpJM2ExQTZLT1NLQnVNcC1xc1VUMlJpMlFzcFQ3Q0ZNSC1fdVdPd1NpTDVVXzVoQ1RTcm04c3d6YWFicjhIdjhaRmg3VUt3R290bVd4V3UyeVFUOWt2OFNyTFhOMHNmUmIyVTZJdVhzWGVqckx6ZVBOUnNPSG1ScjVaaVd0dG00aE1PS3VyOUs3c1JFQktXVHktSWF4N1VkQll1R29EaWM1bFBnTUg2Ujh2eklqbGticWR5dXVnUlRueDZHWGhNdGVoVl8tb0ZqU1NWQ0dGVlF3b21SNGlUd0VlRUlyUWxjMjRob01oLXJta2lZLUNnWGdZWGIwQ0tUNVdoUFVlaXFBY2k5eFFKNGppRjdqaEhMRlFrQll5eDZpc0JMRmdmTHdqbExDT0JObmwyU3U0ZDh3LXM?oc=5",
-     "resume": "",
-     "date": "2026-11-16T04:56:52+01:00",
-     "source": "Le Parisien",
+     "titre": "Commande publique : un premier guide pour tout comprendre à l’intelligence artificielle et bien préparer son achat",
+     "lien": "https://news.google.com/rss/articles/CBMipwJBVV95cUxPNFJrdmw0VUkwazRzZ3V1Ny1BaElXZkNabHFOUTZQQW91NVlNdlU0SktfLUEzZlJ5N3BNdktNQmFPQ2pnNjFQTVNDdDNQQ1ltMERtOUtpQkhmSjJPX1MtcWswY0lkOFVyVDhzZkNMa3VBX3VZTlhVczktNGNtanIzTUJJRkxOS1N4NlRta2QxbjZSai1lcWFsaEFFLVR5UnJUXy1oaFhBV21BOVl1VnozR2dYbXVySTRydXJKXzluWWc4eGU2Z2JfSkwyaE1UR2JuSmZUUnRDYlBoVENLNHFTa3B0RXFKc2lIaU5qY0pNMHFiQnhoVklaUkhRMHFpenl0YmhndFB4VkxweFZHS3NJbnIxamNDdnlrYi14alNUQXNNdlFvclA4?oc=5",
+     "resume": "OVHcloud a présenté le 17 novembre 2026 Olala mini, première itération d'une nouvelle famille de modèles de langage. Open source et entraîné à partir de zéro sur des supercalculateurs européens, il marque l'arrivée du géant français du cloud sur un terrain…",
+     "date": "2026-11-17T13:50:00+01:00",
+     "source": "Le Moniteur",
      "image": null,
-     "reprises": 5,
-     "score": 9.07
+     "reprises": 6,
+     "score": 12.17
     },
     {
-     "titre": "Wall Street en baisse à l'entame d'une semaine clé pour l'IA",
-     "lien": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOb1FlNGRsSXc5QjBWaGpBcThraTZRZFhjcWZteG4tVnFHaFBkWUtER0NuaDlobDZsSG5sdzBQNVNxZjYzeVZ1c1RqWUkzbkJiMU1Edk9sMk9hX19leDFHYmh2MWdDXzNSbWcyTTRvN2RHTmtCUUJTeG5MMjNYTFM2UkVjRTI1V0kwUjIyRXhMTEZudw?oc=5",
+     "titre": "Anthropic : 900 milliards de dollars pour combien de mois d'avance ?",
+     "lien": "https://news.google.com/rss/articles/CBMingFBVV95cUxPejdCOHhlT1VzaFNlMzVyekpvc1ZLMV92ZnlfX0xpbnZybm1FZEpOY3hoS0Ezc2lrTWZSa2RNeDJxcXFqWTJVRVUwWWFBQnVCQnB0cGpCaGNDZUVvMW43VmRvOTBYM0J6akNNeUpKMEdSc0drMnQ1MXhZcDE2NG9kUkNVTnZzWVNIQS1CMXlYV2FiYzlvQmgzWjA5Yy0tQQ?oc=5",
      "resume": "",
-     "date": "2026-11-16T15:36:02+01:00",
-     "source": "Yahoo Finance France",
+     "date": "2026-11-17T07:30:00+01:00",
+     "source": "ActuIA",
      "image": null,
      "reprises": 4,
-     "score": 8.69
+     "score": 7.19
     },
     {
-     "titre": "OpenAI dévoile ChatGPT Wallet aux abonnés ChatGPT Pro américains",
-     "lien": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPQnRZb3h4NGtpQlBRTFNXeTRORW5kb1NEeWFqQXhPbFNFblhVcHJWUi1Bc09EVFZTYzh1czN5Y3lSb2VNNmM3OXI2RDJhZlh1M05FbTFJRjNKT05sc3pieHJLWTlUSjVDejBseHpPdzhXY1JqaFRjbVduX0tmUXdfekQ1WmlyOGdzVW5LSXRySGRmZFhaNVRORlVLLWgydm5rSmlBSG1heEtoVUJBdm51cA?oc=5",
+     "titre": "Intelligence artificielle : perte de données, entraînement de modèles, deepfakes... Pourquoi vous ne devriez pas utiliser vos photos personnelles sur l'IA",
+     "lien": "https://news.google.com/rss/articles/CBMioAJBVV95cUxOSG9YN3RTQ2poclU2U1R5TGpaZ3czMFVuYTRWLWZzWlFUYl9kNjhmSzQ0RFhyNGxxZnR0RUtDdHhrWk05SjRvTldVRlpfY0tWU0x6NnYzX2NEQ3g5Y1p6eXo1b3hHRWNWaGNIekRYWGxQZnAwU1pIa0FCdGltVjhoSE4zUC1CWmJ2RGlPNURNRVRCRWpRcmVxQVRBZUJhenIxUVIxUlg4M3VOVWp4R0RKLW85NVV0WTI0ZGFWOWJBSUFSdWhaSjZ6aG9MaVV1STMwOWczMEluSElHaXViVHIxa3hYY0UwcURqTUhDblN6SEYtQTNHQTFkVWtZQVdzR1Y2Y0RoaWZ2d2hwVEpOY0k4WERYdDN1QWQ4UnA1OGFkNVY?oc=5",
      "resume": "",
-     "date": "2026-11-16T15:37:51+01:00",
-     "source": "JDN",
+     "date": "2026-11-17T12:43:00+01:00",
+     "source": "ladepeche.fr",
      "image": null,
-     "reprises": 4,
-     "score": 6.85
+     "reprises": 3,
+     "score": 4.82
     },
     {
-     "titre": "Anthropic fixe le prix de son IPO avant son entrée au Nasdaq : cinq clés à connaître",
-     "lien": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPczR1SGZnVU45NmkyYkRLTjdBMEI5cC02a09PdXNuTENtSlJ1VmpkcFJrM2dKUklMYUVuNmJKREt4NTBpR1pHVzVPNkZtYXQwNUtmOFFjYUVXaG1oNjRCRTVwWElFQVR6ckFPNmJXQzB2WFpXT055eFZvNlhUZ2xONVJObFdaODNFMVpNSGJ5MEhZZVJxWFhSeUZhem8yN3RtcE5BWkNSUkcwMkdmMTQtTHg3Z1FJdnFJ?oc=5",
+     "titre": "The King’s Trust et OpenAI lancent un partenariat de 1 million de livres sterling",
+     "lien": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5jZVhwR2ZqaEMzTXROSzdjY3hlMVh1TkdGZHNFVDZxREU3NGgzdUt4d3NlQl9Ib3BMclBxTEtEakdXVDhKSUN5SmZhYl9WaDlnYzliVjFmOXB1VVZ4VFRWUVFWcmtlR21EdlE?oc=5",
      "resume": "",
-     "date": "2026-11-16T13:03:23+01:00",
-     "source": "Euronews",
+     "date": "2026-11-17T11:47:53+01:00",
+     "source": "OpenAI",
      "image": null,
-     "reprises": 2,
-     "score": 3.6
+     "reprises": 1,
+     "score": 3.64
     }
    ],
    "a_traduire": [
     {
-     "titre": "Apple’s new study looks to improve the effectiveness of AI health tools",
-     "lien": "https://www.theverge.com/tech/1033355/apples-new-study-looks-to-improve-the-effectiveness-of-ai-health-tools",
-     "resume": "Apple announced a new study today with the goal of better understanding how people interact with conversational AI health tools and how useful their responses actually are. The company is conducting the Apple Health AI Usage Study in collaboration with…",
-     "date": "2026-11-16T02:26:56+01:00",
+     "titre": "Apple is testing daily usage limits for more complex Siri AI interactions",
+     "lien": "https://www.theverge.com/tech/1034581/apple-intelligence-siri-ai-daily-usage-limits-icloud-subscription",
+     "resume": "Apple released betas of iOS 27.3, iPadOS 27.3, and macOS 27.3 today, and the company is using the update to test new per device daily usage limits for some Siri AI and Apple Intelligence features, according to MacRumors. Basic Siri commands and requests will…",
+     "date": "2026-11-16T20:24:40+01:00",
      "source": "theverge.com",
      "image": null,
-     "reprises": 2,
-     "score": 3.93
-    },
-    {
-     "titre": "Nvidia and OpenAI Are “the New Defense Contractors,” Says Scott Galloway. Bad News: That Means Oversight",
-     "lien": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNbFhGNWNiUGs0MjBadTRlNndSQzZNNjdvWkZwTDlCRUNGUE00R3N5MmRaSkZUUUdpNVpjY0pjaE5oYjAzbUJ5dG40dkxESDJEc2J3VV9DX1Y3VTIxQ01XWFdteGYtenRfZFI4enYwOFpXQnVQUWFqdlYzbWxKSER2MnhvNlpuek5VRzNNdXV4NjBUWkgwOUVBVmJGUWRnRUhCUVJlYmN4QXJXdjVxV1hjaU9KUjB6V2lfZnp1RUdMUlduZHVhZzNv?oc=5",
-     "resume": "",
-     "date": "2026-11-16T15:37:30+01:00",
-     "source": "TIKR.com",
-     "image": null,
      "reprises": 1,
-     "score": 1.58
+     "score": 1.29
     },
     {
-     "titre": "Is bad news for Jensen Huang also bad news for the AI industry?",
-     "lien": "https://techcrunch.com/2026/11/15/is-bad-news-for-jensen-huang-also-bad-news-for-the-ai-industry/",
-     "resume": "\"Jensen is Nvidia, right? And so much of this economy is riding on Nvidia.\"",
-     "date": "2026-11-15T22:56:35+01:00",
+     "titre": "Trump says ex-Nvidia CEO Jensen Huang’s affair with an alleged Chinese spy did not threaten national security",
+     "lien": "https://techcrunch.com/2026/11/16/trump-says-ex-nvidia-ceo-jensen-huangs-affair-with-an-alleged-chinese-spy-did-not-threaten-national-security/",
+     "resume": "Trump contradicted his own government's intelligence officials, who reportedly concluded that Alice Huang is a Chinese spy.",
+     "date": "2026-11-16T20:12:02+01:00",
      "source": "techcrunch.com",
      "image": null,
      "reprises": 1,
-     "score": 1.18
+     "score": 1.29
     },
     {
-     "titre": "Jensen Huang might be plotting a return and more of the latest Nvidia drama",
-     "lien": "https://www.theverge.com/tech/1033999/jensen-huang-return-nvidia-megaspeed",
-     "resume": "The drama around Nvidia co-founder and former CEO Jensen Huang is evolving quickly. The latest edition of our Stepback newsletter should get you up to speed, but there have already been a number of new developments since this morning. That includes rumors…",
-     "date": "2026-11-15T21:43:49+01:00",
-     "source": "theverge.com",
+     "titre": "Sam Altman on Nvidia without Jensen Huang: The industry will be ‘fine’",
+     "lien": "https://techcrunch.com/2026/11/16/sam-altman-on-nvidia-without-jensen-huang-the-industry-will-be-fine/",
+     "resume": "OpenAI CEO Sam Altman acknowledged the special role Nvidia CEO Jensen Huang has played in the AI boom, but ultimately thinks the industry will be “fine” without him at the helm.",
+     "date": "2026-11-16T19:11:10+01:00",
+     "source": "techcrunch.com",
      "image": null,
      "reprises": 1,
-     "score": 1.16
+     "score": 1.14
     },
     {
-     "titre": "Congress wants to tighten export rules on AI chips after Nvidia spy scandal",
-     "lien": "https://www.theverge.com/ai-artificial-intelligence/1033984/congress-export-rules-ai-chips-china",
-     "resume": "Unsurprisingly, following the scandal involving now-former Nvidia CEO Jensen Huang and a suspected Chinese spy, Congress is looking to further restrict exports of AI chips. Both Democrats and Republicans have voiced support for various measures and bills…",
-     "date": "2026-11-15T20:15:43+01:00",
-     "source": "theverge.com",
+     "titre": "FBI says Artex AI open source hacking tool used to breach networks in ‘under three hours’",
+     "lien": "https://techcrunch.com/2026/11/16/fbi-says-artex-ai-open-source-hacking-tool-used-to-breach-networks-in-under-three-hours/",
+     "resume": "The FBI says that the open source hacking tool was used in cyberattacks targeting a U.S. IT giant and the South Korean financial industry.",
+     "date": "2026-11-16T18:36:43+01:00",
+     "source": "techcrunch.com",
      "image": null,
      "reprises": 1,
      "score": 1.03
+    },
+    {
+     "titre": "Jordan Belfort’s new AI voice startup, Tone, wants to sell like the ‘Wolf of Wall Street’",
+     "lien": "https://techcrunch.com/2026/11/16/jordan-belforts-new-ai-voice-startup-tone-wants-to-sell-like-the-wolf-of-wall-street/",
+     "resume": "Belfort claims his AI sales voice can already close deals almost as well as the best human salespeople, and he thinks it will catch up in a year.",
+     "date": "2026-11-16T18:10:00+01:00",
+     "source": "techcrunch.com",
+     "image": null,
+     "reprises": 1,
+     "score": 0.95
     }
    ]
   },
@@ -438,62 +438,62 @@
      "source": "Informat.ro",
      "image": null,
      "reprises": 3,
-     "score": 7.41,
+     "score": 6.85,
      "libertes": true
     },
     {
-     "titre": "« Une attaque directe contre la liberté d’expression » : un journaliste assassiné au Mexique, le dixième cette année",
-     "lien": "https://news.google.com/rss/articles/CBMilgJBVV95cUxNMlRMNUlENlZJSi1vNWlncGY3RUFrVWd6WXpDaXhjd3RlUF9mV1pJRHJhXzFNbVFXbENMZkgyczFXdVpLU0tGTFlzUHZlc3d3dTRUZ1BiQ3hENm1UX3FSZWF3RXNqRHZ5QnM4QW4tQi1SNHQtTW9Fa0tIOWE2VmZkTzdVZXljM3VXd0JhSHZoVTJjbkRSYm9TaWJBdUZzYVNsOUcwZGZobkFrN2xZOTlYRjNtaV9lTHdmSlVNUzU0R0xDWVlJVXBHU1AxUWtPOXd5WVNvYVRsY1ZnbG5uNjItMXVQa0g5TTlBTTVNcC1Ka1RqWFdnODhIaUFWSFdtUnR6Snk4SFdwRzcxVVQzT1Nqb19hTzdzZw?oc=5",
+     "titre": "60% des Français ne font pas confiance au Conseil constitutionnel, selon un sondage Ipsos",
+     "lien": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOZTkxM1o5a0RJbWI1NGZTUEkzdXdCdmE1RFVmcXNCQ2cxa3EzYVlET25FZWFZd2NDY09YcFFDSmwyM3NuMkgtbTczM0E0ZWlBRHBMeWVENjRGQTl2Ny1oOG5tdXJybU1DN1JfMmQ4Vm5nbFRvNUpCZnVvTU9KUDBISVdsbGhsRFhUS0RqV29wcnNQNnlxdDJLbXZJM1ZmS2ZqV1RFNHdxRldYbVZqSE9wNUJhR01hNDJmWjdYdjd5U1poWDlI?oc=5",
      "resume": "",
-     "date": "2026-11-16T08:05:49+01:00",
-     "source": "Ouest-France",
+     "date": "2026-11-17T09:02:47+01:00",
+     "source": "Epoch Times",
      "image": null,
-     "reprises": 2,
-     "score": 3.75,
+     "reprises": 3,
+     "score": 6.35,
      "libertes": true
     },
     {
-     "titre": "La liberté d'expression va rythmer la Fête du Livre du Var 2026",
-     "lien": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNTmhrQmlDLW5sdkZScVdmbWdYeXlLaF9HUGhjdDZveUctUEZmQ090dXZhWjZ4VERfS0JpZTJ5TjBlbjBVYVh5a1FzclZCUjNMYjM3eUlSMjJ4WnFvWVhyZ2JEYkhOUnRtQlhMVlNTcE5kUnMwdDNTeFlyZlM2TjZzNWc4VDQ5R0ZWRnVSMDMzRmdGWEFGQUNyT1k1YTFFUlZRbFVBZGZjcnVkaEZ6?oc=5",
+     "titre": "Fuligule milouin, le Conseil d’État rejette le recours de la LPO",
+     "lien": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOT3g3Zi1YX2VHdlJzbnlhdTNGclIxOTY2LXd5REx3RmhsN0pXamdmOHl1UVZrNzJjbVpnRlpEM2FGRkdOb0hyUHZPcHZwenAwR1J3UU9YcDMycDZ1TFo5bk9zd0YyS0x5cXlWWEZycEVIUGZUczJ3QkRwRVJVc0wyR2lsWHVhdjR2dWprbWhyWXp6bjB2ZjJ6ZkRCb1ZIdHU0ZDNWS0pSZlRYUFBm?oc=5",
      "resume": "",
-     "date": "2026-11-16T14:46:00+01:00",
-     "source": "mesinfos",
+     "date": "2026-11-17T12:05:47+01:00",
+     "source": "Le Chasseur Français",
+     "image": null,
+     "reprises": 3,
+     "score": 5.72,
+     "libertes": false
+    },
+    {
+     "titre": "La CEDH exige la libération immédiate de l'opposant turc Can Atalay",
+     "lien": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNaDhuX3lCRVcwaVVvM1RjQS15Y0hZT3RGQm5JaVlkVGh1ZHMzN1pURWJ0aUJUX0ZGQWxnY28tUUs1czBEY1g3VWItUEY2RG9mN1M0eDJoV2xfeEZBdllxaTZBUFAtTWV1NFI2ak01OEczV2VvU1Rwdl9BcXhDelVDdXdvdUlYUXhKT2xPU1NKczhVRXlZQ3FuTFBScnNqblRMdjNhcjZVVEVXTVVaNmlGTTJONXZPcHVT?oc=5",
+     "resume": "",
+     "date": "2026-11-17T12:27:59+01:00",
+     "source": "L'Orient-Le Jour",
      "image": null,
      "reprises": 1,
      "score": 1.58,
      "libertes": true
     },
     {
-     "titre": "Conflits d’intérêts des ministres : le Conseil d’État précise les limites du contrôle de la HATVP.",
-     "lien": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQUkthek5JajVvYi1HckhIU1F6el9PcWN3S0lVdmxqcUVTTDRJUko4QTBuVERoSkZGQ05BUUJMWXU3aTJFczdRWnBKek9penRPVVRmMXJ6QlVGLTdrYzFfaV9QVHh2bWY4VDdTZ1N4U2RKQ1hadGtzQ3B2WmxIVHBJcnJPbURTeTRaWFJURC1zTndMV0hxU0RsVnpnRGdEd3otbVN5bGRESEtQUTdOckxGbm5QV0lMTXB4aXpkeTR4RER5anVVbDE3Uk5WWUdhS21qekdz0gHYAUFVX3lxTFBLT05CdHJEM2ZvNGJGZGV4NUJobUpBcjMtWnIxeVdjcS1wWjVHOURGX2RYV041NFhKUmFaMDNaZVhxUFhIVkVDWWliOFJnUXRWNGJQd0JFaUkzVklCM1BITVAwT2JmZEx6QjlBYXlhNi1ZeUhYXzQ2dDIyZnhoNEZwak9wSHVmckQwamhaQlljVXBqQUh3b0VCLW9VeTY3T1Zpdmk5LVkyTEo1UXYzeUcyRWRWQTllVm9fb1BUR2E2WGlFU1kzR2cydEZLOHR3aGNCT2Q1bldCMg?oc=5",
+     "titre": "Veille juridique : la Cour de cassation valide les clauses résolutoires « balais » et renforce la liberté contractuelle",
+     "lien": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQcVEtSzdhdzNsQksxYWVjMHNxaDg0Z25IV0REaXVOVlYxLS03Tm1ZS01CRU5mQzVzd25uX1hDS1NRazBCTkwzemtHQVg5NWd2OTdyVG5kUkt4SkU5WnZYX1hFUTE2UURQM09DS0l6RE5XdEJveVQ3eURMMmdUcHA5M0dqTG9HazZZSWh5V2F6Q2kxQWtsTXBMRV9fVU9HWlBxZmFKM21jempQQ0VEZ3lNUWJ5NFVFWWwyQlkwUmVqR1oyeHhhb0s0UVEwVmY?oc=5",
      "resume": "",
-     "date": "2026-11-16T07:00:26+01:00",
-     "source": "Landot & associés",
+     "date": "2026-11-17T09:16:56+01:00",
+     "source": "Major Prépa",
      "image": null,
      "reprises": 1,
-     "score": 1.52,
-     "libertes": false
+     "score": 1.55,
+     "libertes": true
     },
     {
-     "titre": "Une semaine de jurisprudence sociale à la Cour de cassation",
-     "lien": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPYkFzdGVKNFg3ZkpqdzEtVURaa0xCMTFsc2VHV1ppWlNRSFQ4d3lIV0FQcWUwczY5d3pWbVF5VlhRX28zN0dNZnR3U1cxU05TN2FtVW43R2JfMUc4bmpwX2NHV2lDc0pzblFpTWc1eWNxVjJZYXkydV9tbWFtRXgtOFB0MUI3VjVSZGZpNGNMNXJjS0dZdzBCUy15M2c3bTRwWlBCZkRYeUJaT09laEJTRlE5aTVQZ0IzcmpJRnVJaFJuODFXZmJhYVEtN2loNHdXam1uNw?oc=5",
+     "titre": "IKEA : la liberté d'expression peut-elle justifier l'usage d'une marque renommée à des fins politiques",
+     "lien": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPY2dGSnlKbU1PTF9UdnBOd3ZUT2w5dWFsX0hGZjJNVGZtVVJJX25Gb3kwSU1BOWRoNW1WWlYtN1FkU0lhM0EweDhOdDF4U2xZQjlYd1dydmt6b0NmQVNTQUUyNUhJZ01NRGpwNnR0Q0FSeVBaaDFfQndDY0FsVVhCQVJ3OEJSNXhFbUVGclZzSU9uLTRURHhWczZOMA?oc=5",
      "resume": "",
-     "date": "2026-11-15T09:00:00+01:00",
-     "source": "Open Lefebvre Dalloz",
+     "date": "2026-11-17T07:30:00+01:00",
+     "source": "Le Taurillon",
      "image": null,
      "reprises": 1,
-     "score": 1.34,
-     "libertes": false
-    },
-    {
-     "titre": "\"On l'a remis un peu sous le feu des projecteurs\", un nouveau festival pour défendre la liberté d'expression et la mémoire du cinéaste résistant René Vautier",
-     "lien": "https://news.google.com/rss/articles/CBMi4wJBVV95cUxPQ1JlMmJzN0p2SUdJbVYwR1hvcWZBVWxaOTd6a3BhUmtSNXVld184RUNjU2ktTjY2TjZlMTc4QndmX244TWs2OEJpNXB2V0hGaGJ1X29uQWFieVBJRmM1dkxydXlyaHBRT3lXTnh1emxvU3dkdGJCQUVsQ0FhYkI5dHI2ZklGWDJOem56UDA4Tzc2M0h1enFYZVdMS3V5ZTBPbDJNM3p6YmtGSzRtU1J3UzcwUi1oZ0hJUzZyVURQRzlPSzdMQy1sR0YxZ1BWQTZIcDNtZzBzTTl3alNZZ2t6OENNRTVNNHZ2akVyLUN4WEl0WW5LUVFWQmlTWVNIMG5UQkh3T2t1NVZFTWoweUdZdmgwNHk3VWE1bmNGZDUwZXN0cGVtaDlCcTIxZHV2emJhQTlSWFJoQlpkZ1JOMWxZUlZod2JYbkdueGxPTjFkaFQyd1J0NnktamRoUUFETWMzbXl3?oc=5",
-     "resume": "",
-     "date": "2026-11-16T07:10:01+01:00",
-     "source": "France 3 Régions",
-     "image": null,
-     "reprises": 1,
-     "score": 1.29,
+     "score": 1.54,
      "libertes": true
     }
    ],
