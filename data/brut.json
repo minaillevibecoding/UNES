@@ -1,6 +1,6 @@
 {
  "date": "2026-11-17",
- "genere": "2026-11-17T14:49+01:00",
+ "genere": "2026-11-17T16:54+01:00",
  "journaux": [
   {
    "id": "figaro",
@@ -13,12 +13,20 @@
    },
    "articles": [
     {
-     "titre": "EN DIRECT - Grève du 17 novembre : la manifestation parisienne s’élance depuis la place de la Nation, jusqu’à 60.000 personnes attendues",
+     "titre": "EN DIRECT - Grève du 17 novembre : la justice suspend l’interdiction de rassemblements autour de certains lycées et universités à Paris",
      "lien": "https://www.lefigaro.fr/actualite-france/en-direct-colere-sociale-toutes-les-organisations-appellent-a-se-mobiliser-massivement-ce-mardi-pour-transformer-l-essai-20261117",
-     "resume": "Des éléments d’ultragauche «devraient tenter d’intervenir notamment en fin de cortège pour faire dégénérer» les manifestations, selon des sources policières au Figaro.",
-     "date": "2026-11-17T14:18:38+01:00",
+     "resume": "La mobilisation a repris mardi dans plusieurs villes de France autour d’un large éventail de revendications, dans des manifestations qui mêlent lycéens, étudiants, retraités, salariés du privé, à l’appel des syndicats d’agents publics qui veulent obtenir de…",
+     "date": "2026-11-17T16:35:03+01:00",
      "source": "",
-     "image": "https://i.f1g.fr/media/cms/3000x2000_crop/2026/11/17/a49f9b1498bf3e3ff8b0118265aba4315b16bbfe713f1e4b1f4c143b93c8d40b.jpg"
+     "image": "https://i.f1g.fr/media/cms/3000x1687_crop/2026/11/17/70d8e4aa6a56a482882acadc2eeba8654a3a3a945ddb419afa0425bc06879fdd.jpg"
+    },
+    {
+     "titre": "Point d’indice, primes, indemnités : comment fonctionne la rémunération des fonctionnaires ?",
+     "lien": "https://www.lefigaro.fr/social/point-d-indice-primes-indemnites-comment-fonctionne-la-remuneration-des-fonctionnaires-20261117",
+     "resume": "NOTA BENE - Alors que les syndicats de la fonction publique appellent à la grève ce mardi pour réclamer une hausse de leurs salaires via une revalorisation du point d’indice, Le Figaro fait le point sur la mécanique souvent mal connue derrière la fiche de…",
+     "date": "2026-11-17T16:45:10+01:00",
+     "source": "",
+     "image": "https://i.f1g.fr/media/cms/3000x1687_crop/2026/11/17/06b571db29515b1a4cdf497c6f5dab5a586f047058c0d3c00136333bfd1d56b0.jpg"
     },
     {
      "titre": "« Les collègues ont peur et sont à bout » : après des mobilisations violentes, Marseille fait face à une pénurie de CRS",
@@ -29,36 +37,28 @@
      "image": "https://i.f1g.fr/media/cms/3000x2000_crop/2026/11/17/04798b6ee4a35acf72e08139ffbcd133f8d440631417f69c811434cfdf2b8902.jpg"
     },
     {
-     "titre": "Le directeur de la prison d’Aix-Luynes placé en garde à vue pour des soupçons de détention d’images à caractère pédopornographique",
-     "lien": "https://www.lefigaro.fr/marseille/le-directeur-de-la-prison-d-aix-luynes-place-en-garde-a-vue-pour-des-soupcons-de-detention-d-images-a-caractere-pedopornographique-20261117",
-     "resume": "INFO LE FIGARO - La garde à vue du chef d’établissement, qui reste présumé innocent, est toujours en cours. Une perquisition est intervenue ce mardi matin au sein du centre pénitentiaire et l’Ofmin a été saisi du dossier.",
-     "date": "2026-11-17T13:58:18+01:00",
-     "source": "",
-     "image": "https://i.f1g.fr/media/cms/3000x2000_crop/2026/11/17/e5f14ff8a1b10592ecc858a579a14b891c751e700fea9e6bed2f4bf6fd855efe.jpg"
-    },
-    {
      "titre": "EN DIRECT - Présidentielle 2027 : Bruno Retailleau tacle Marine Le Pen et sa réforme des retraites «injuste et bancale», qui «fragiliserait le système»",
      "lien": "https://www.lefigaro.fr/elections/presidentielles/en-direct-presidentielle-2027-marine-le-pen-detaille-ce-mardi-son-projet-de-reforme-des-retraites-20261117",
      "resume": "Marine Le Pen a affirmé mardi que sa réforme des retraites, qui doit notamment ramener l’âge légal de départ à 62 voire 60 ans, sera «engagée dès (son) arrivée au pouvoir» si elle remporte l’élection présidentielle l’an prochain.",
-     "date": "2026-11-17T14:42:50+01:00",
+     "date": "2026-11-17T16:05:02+01:00",
      "source": "",
-     "image": "https://i.f1g.fr/media/cms/3000x2001_crop/2026/11/17/4d293e20bceef03be3587381ce3fffc2f93aca11913244ad95137f61060737fc.jpg"
+     "image": "https://i.f1g.fr/media/cms/3000x2001_crop/2026/11/17/c48700726c66d437b9ef87b1524d4b724fd94e71583872deeba3b4e62015aa06.jpg"
     },
     {
      "titre": "Départ de 60 à 62 ans, capitalisation, âge du «premier emploi stable»… Ce qu’il faut retenir du projet de Marine Le Pen pour les retraites",
      "lien": "https://www.lefigaro.fr/elections/presidentielles/depart-de-60-a-62-ans-capitalisation-age-du-premier-emploi-stable-ce-qu-il-faut-retenir-du-projet-de-marine-le-pen-pour-les-retraites-20261117",
      "resume": "La candidate du Rassemblement national (RN) à la présidentielle a détaillé ce mardi sa réforme des retraites. Elle a notamment précisé la manière dont elle comptait abaisser l’âge de départ en cas d’arrivée au pouvoir, ainsi que les pistes de financement.",
-     "date": "2026-11-17T13:11:37+01:00",
+     "date": "2026-11-17T15:08:19+01:00",
      "source": "",
      "image": "https://i.f1g.fr/media/cms/3000x2080_crop/2026/11/17/0968336b347d8ecefcd313c599a369f91b32a469c44999cb978cb520b4fdd145.jpg"
     },
     {
-     "titre": "Retraites : êtes-vous favorable à un âge de départ de 60 à 62 ans avec 40 à 42 années de cotisations, comme le propose Marine Le Pen ?",
-     "lien": "https://www.lefigaro.fr/politique/retraites-etes-vous-favorable-a-un-age-de-depart-de-60-a-62-ans-avec-40-a-42-annees-de-cotisations-comme-le-propose-marine-le-pen-20261117",
-     "resume": "",
-     "date": "2026-11-17T12:44:40+01:00",
+     "titre": "«Mensonge», «arnaque» et «vices cachés» : la droite et le centre attaquent la réforme des retraites de Marine Le Pen",
+     "lien": "https://www.lefigaro.fr/elections/presidentielles/mensonge-arnaque-et-vices-caches-la-droite-et-le-centre-attaquent-la-reforme-des-retraites-de-marine-le-pen-20261117",
+     "resume": "La favorite de l’élection présidentielle a détaillé son plan intitulé «réparer notre système de retraites» lors d’un point presse ce matin au QG du Rassemblement National. Ses opposants de droite et du centre ne l’ont pas épargnée.",
+     "date": "2026-11-17T16:53:18+01:00",
      "source": "",
-     "image": null
+     "image": "https://i.f1g.fr/media/cms/orig/2026/11/17/e5da6d917c308d80143c60a8fb5816176b1baf614738b594937ceef0f8db8eae.JPG"
     }
    ],
    "flux_utilise": "https://www.lefigaro.fr/rss/figaro_actualites.xml"
@@ -74,18 +74,18 @@
    },
    "articles": [
     {
-     "titre": "EN DIRECT, manifestations du 17 novembre : après Marseille, Lyon ou Nantes, le cortège vient de s’élancer à Paris",
+     "titre": "EN DIRECT, manifestations du 17 novembre : 200 lycéens bloqués à Marseille, le cortège parisien arrive à place d’Italie… Suivez la mobilisation en France grâce à nos correspondants",
      "lien": "https://www.lemonde.fr/politique/live/2026/11/17/en-direct-greve-du-17-novembre-suivez-la-mobilisation-a-marseille-lyon-ou-nantes-avec-nos-envoyes-speciaux-avant-le-cortege-parisien-qui-doit-s-elancer-a-14-heures_6812905_823448.html",
-     "resume": "L’ensemble des organisations syndicales dans la fonction publique appellent à se mobiliser ce mardi pour exiger des augmentations immédiates de salaires. Nos correspondants sont sur place à Paris, Marseille, Lyon, Toulouse, en Bretagne et dans le Nord.",
+     "resume": "L’ensemble des organisations syndicales de la fonction publique appellent à se mobiliser mardi pour exiger des augmentations immédiates de traitements. Nos correspondants sont sur le terrain à Paris, Marseille, Lyon, Toulouse, en Bretagne et dans le Nord.",
      "date": "2026-11-17T13:46:53+01:00",
      "source": "",
-     "image": "https://img.lemde.fr/2026/11/17/1971/0/5254/2627/644/322/60/0/27ea06d_upload-1-eedh2lb3fcmn-197a4586.jpeg"
+     "image": "https://img.lemde.fr/2026/11/17/472/0/3840/1920/644/322/60/0/52e78b7_upload-1-bjdwqwkydp4i-dscf0372.jpeg"
     },
     {
      "titre": "« C’est l’Etat qui est brutal » : ces jeunes mobilisés qui légitiment la violence comme moyen de se faire entendre",
      "lien": "https://www.lemonde.fr/campus/article/2026/11/17/c-est-l-etat-qui-est-brutal-ces-jeunes-mobilises-qui-legitiment-la-violence-comme-moyen-de-se-faire-entendre_6812976_4401467.html",
      "resume": "Du primo-manifestant indigné par les méthodes de répression policière aux membres de black blocs ciblant les institutions et les enseignes de luxe, une partie de la jeunesse défend le recours à la force face à une violence devenue « systémique ».",
-     "date": "2026-11-17T14:45:07+01:00",
+     "date": "2026-11-17T14:45:03+01:00",
      "source": "",
      "image": "https://img.lemde.fr/2026/10/18/482/0/4500/2250/644/322/60/0/e7f0ef9_upload-1-zzj94i5non5r-mfache-17102027-le-monde-mobilisation-du-17-octobre-bordeaux-081.jpg"
     },
@@ -106,20 +106,20 @@
      "image": "https://img.lemde.fr/2026/11/17/370/0/4952/2476/644/322/60/0/18f6497_upload-1-50jidmfz2ofh-z-m1141.jpeg"
     },
     {
-     "titre": "La Commission européenne confirme le décrochage de la France dans ses prévisions économiques d’automne",
-     "lien": "https://www.lemonde.fr/economie/article/2026/11/17/la-commission-europeenne-confirme-le-decrochage-de-la-france-dans-ses-previsions-economiques-d-automne_6812945_3234.html",
-     "resume": "En 2026, la croissance de l’Union européenne a mieux résisté que ne l’attendaient les experts de la Commission, sauf dans l’Hexagone, qui fait pâle figure. Quant à l’inflation, elle va continuer à grever le pouvoir d’achat dans toute l’UE en 2027.",
-     "date": "2026-11-17T11:00:04+01:00",
+     "titre": "Pétition pour interdire CNews : un débat élargi à tous les médias finalement organisé et déjà controversé",
+     "lien": "https://www.lemonde.fr/economie/article/2026/11/17/petition-pour-interdire-cnews-un-debat-elargi-a-tous-les-medias-finalement-organise-et-deja-controverse_6812980_3234.html",
+     "resume": "L’Assemblée nationale a acté, mardi 17 novembre, qu’elle discutera en Hémicycle du pluralisme et de la liberté d’expression dans les médias, mais pas de la suppression de la chaîne du groupe Bolloré. LFI dénonce « un scandale ».",
+     "date": "2026-11-17T15:20:00+01:00",
      "source": "",
-     "image": "https://img.lemde.fr/2026/02/19/250/0/3000/1500/644/322/60/0/3c10a51_upload-1-jaehtckrvyzm-option-124.jpg"
+     "image": "https://img.lemde.fr/2026/11/17/1134/0/7488/3744/644/322/60/0/08492e2_upload-1-jgmw5smvui7p-000-d6tm2lr-1.jpg"
     },
     {
-     "titre": "Plans d’épargne-retraite : ce qui a changé en 2026",
-     "lien": "https://www.lemonde.fr/argent/article/2026/11/17/plans-d-epargne-retraite-ce-qui-a-change-en-2026_6812971_1657007.html",
-     "resume": "Davantage souscrit pour les avantages fiscaux à l’entrée que pour le complément de revenu qu’il génère à la sortie, le PER a fait l’objet de trois ajustements dans le cadre des lois budgétaires de l’Etat. En cette période propice aux versements de fin…",
-     "date": "2026-11-17T14:00:03+01:00",
+     "titre": "Outlook : après la panne géante, Microsoft avance de premières explications",
+     "lien": "https://www.lemonde.fr/pixels/article/2026/11/17/outlook-apres-la-panne-geante-microsoft-avance-de-premieres-explications_6812983_4408996.html",
+     "resume": "L’incident survenu jeudi et vendredi, d’une durée inhabituelle, a été causé par une fragilité logicielle qui s’est manifestée à la suite d’une conjonction malheureuse de dysfonctionnements.",
+     "date": "2026-11-17T15:34:54+01:00",
      "source": "",
-     "image": "https://img.lemde.fr/2023/04/17/197/0/3000/1500/644/322/60/0/2b21620_1681717634755-dd.jpg"
+     "image": "https://img.lemde.fr/2026/11/17/460/0/5559/2779/644/322/60/0/a91bd1a_upload-1-iedz1chb64wb-063-2304840767-1.jpg"
     }
    ],
    "flux_utilise": "https://www.lemonde.fr/rss/une.xml"
@@ -135,52 +135,52 @@
    },
    "articles": [
     {
-     "titre": "LA RENCONTRE D’UNE VIE",
-     "lien": "https://www.la-croix.com/service/la-rencontre-d-une-vie-20261117",
-     "resume": "Quand Elina Dumont a rencontré Sœur Emmanuelle, elle était dans la rue depuis quinze ans après une enfance difficile en famille d’accueil. Aujourd’hui comédienne, autrice et chroniqueuse sur RMC, elle reste profondément marquée par cette rencontre et par…",
-     "date": "2026-11-17T14:36:01+01:00",
+     "titre": "Guerre en Ukraine : Paris réfute les accusations de Moscou ; frappe sur le pont de Crimée",
+     "lien": "https://www.la-croix.com/international/ukraine-russie-jour-1728-point-conflit-ukrainien-poutine-aujourdhui-20261117",
+     "resume": "Paris juge « absurde » d’affirmer que les soldats français présents en Ukraine participent directement au conflit, comme l’a fait la Russie. Zelensky a qualifié d’« opération sans précédent » l’attaque contre le pont reliant la Russie à la péninsule de…",
+     "date": "2026-11-17T16:46:37+01:00",
      "source": "",
-     "image": null
+     "image": "https://i.la-croix.com/x/2026/11/17/2591013-des-militaires-francais-avec-la-coalition-des-volo.jpg"
     },
     {
-     "titre": "Mouvement social : quand la saga « Hunger Games » inspire les jeunes manifestants",
-     "lien": "https://www.la-croix.com/culture/mouvement-social-quand-la-saga-hunger-games-inspire-les-jeunes-manifestants-20261117",
-     "resume": "Dans les cortèges, de Paris à Marseille, l’œuvre dystopique de Suzanne Collins, dont un nouvel opus sort mercredi au cinéma, n’en finit pas d’inspirer les adolescents. Ils en reprennent les symboles pour dénoncer l’inégalité des chances et la répression…",
-     "date": "2026-11-17T14:10:10+01:00",
-     "source": "",
-     "image": "https://i.la-croix.com/x/2026/11/17/2590625-des-manifestants-font-le-salut-a-trois-doigts-sign.jpg"
-    },
-    {
-     "titre": "Présidentielle 2027 : le rôle symbolique de Gérard Larcher pour une primaire de la droite et du centre",
-     "lien": "https://www.la-croix.com/politique/presidentielle-2027-le-role-symbolique-de-gerard-larcher-pour-une-primaire-de-la-droite-et-du-centre-20261117",
-     "resume": "Gérard Larcher, le président du Sénat, est le seul à pouvoir réunir autour de la même table les candidats de la droite et du centre à l’élection présidentielle, David Lisnard, Bruno Retailleau, Édouard Philippe et Gabriel Attal. Ce n’est toutefois pas lui…",
-     "date": "2026-11-17T13:55:36+01:00",
-     "source": "",
-     "image": "https://i.la-croix.com/x/2026/11/16/2590687-gerard-larcher-president-du-senat-ici-au-palais-du.jpg"
-    },
-    {
-     "titre": "DIRECT. Grève du 17 novembre 2026 : perturbations, manifestations… Le point à la mi-journée",
+     "titre": "DIRECT. Grève du 17 novembre 2026 : manifestation en cours à Paris... Suivez la mobilisation",
      "lien": "https://www.la-croix.com/economie/direct-greve-mardi-17-novembre-2026-sncf-ecole-parcours-manifestation-aujourdhui-20261117",
-     "resume": "Écoles, SNCF, transports perturbés… Les syndicats de la fonction publique ont appelé à une grève interprofessionnelle pour réclamer une revalorisation des salaires. Des cortèges sont prévus à Paris, Lyon, Marseille ou Toulouse. Suivez en direct la…",
-     "date": "2026-11-17T13:24:25+01:00",
+     "resume": "Écoles, SNCF, transports perturbés… Les syndicats de la fonction publique ont appelé à une grève interprofessionnelle pour réclamer une revalorisation des salaires. Des cortèges ont défilé à Paris, Lyon, Marseille ou Toulouse. Suivez en direct la…",
+     "date": "2026-11-17T16:46:20+01:00",
      "source": "",
      "image": "https://i.la-croix.com/x/2026/11/17/2591293-le-defile-a-nantes-lors-de-la-journee-d-emobilisat.jpg"
     },
     {
-     "titre": "Guerre en Ukraine : à Kiev sous les bombes, « les explosions, on n’y fait presque plus attention »",
-     "lien": "https://www.la-croix.com/international/guerre-en-ukraine-a-kiev-sous-les-bombes-les-explosions-on-n-y-fait-presque-plus-attention-20261117",
-     "resume": "Deux ponts fermés, une ligne de métro hors service, des coupures d’eau et d’électricité : après une nuit de bombardements intenses, mardi 17 novembre, Kiev tente de fonctionner malgré le chaos. Et pour dissuader la Russie, l’Ukraine a frappé le pont de…",
-     "date": "2026-11-17T13:15:33+01:00",
+     "titre": "Guerre au Moyen-Orient : frappe israélienne meurtrière ; attaque iranienne à Bahreïn",
+     "lien": "https://www.la-croix.com/international/direct-guerre-iran-israel-usa-jour-263-moyen-orient-bilan-resume-aujourdhui-20261117",
+     "resume": "Six personnes sont mortes suite à une frappe israélienne dans la bande de Gaza. L’Iran revendique une attaque sur un « système radar » américain à Bahreïn. Retrouvez l’actualité du conflit au Moyen-Orient de ce mardi 17 novembre.",
+     "date": "2026-11-17T16:43:43+01:00",
      "source": "",
-     "image": "https://i.la-croix.com/x/2026/11/17/2591356-un-pont-de-kiev-frappe-par-les-russes-le-17-novemb.JPG"
+     "image": "https://i.la-croix.com/x/2026/11/17/2591219-une-procession-funeraire-a-jabalia-dans-la-bande-d.jpg"
     },
     {
-     "titre": "« L’espérance ne dépend ni de la bonne santé du monde ni de notre performance »",
-     "lien": "https://www.la-croix.com/a-vif/l-esperance-ne-depend-ni-de-la-bonne-sante-du-monde-ni-de-notre-performance-20261117",
-     "resume": "Guerres, injustices, extrémismes : face à l’accumulation des mauvaises nouvelles, l’optimisme obligatoire des rayons « bien-être » sonne creux. En relisant Paul et la figure d’Abraham, la pasteure Céline Rohmer trouve une autre forme d’espérance, celle qui…",
-     "date": "2026-11-17T12:48:43+01:00",
+     "titre": "« Beaucoup naissent atteints du cancer » : comment la pollution du fleuve Santiago empoisonne les Mexicains",
+     "lien": "https://www.la-croix.com/planete/beaucoup-naissent-atteints-du-cancer-comment-la-pollution-du-fleuve-santiago-empoisonne-les-mexicains-20261117",
+     "resume": "Guadalajara, la deuxième plus grande ville du Mexique, traverse une crise de l’eau sans précédent. En cause, le Santiago, un fleuve pollué par des rejets industriels qui condamnent les habitants de la région à une vie de maladies. Reportage dans ce…",
+     "date": "2026-11-17T16:35:57+01:00",
      "source": "",
-     "image": "https://i.la-croix.com/x/2026/08/21/2516402-celine-rohmer-theologienne-pasteure-de-l-eglise-pr.jpg"
+     "image": "https://i.la-croix.com/x/2026/11/17/2587681-lors-d-une-manifestation-a-guadalajara-mexique-le-.jpg"
+    },
+    {
+     "titre": "Mort de Jean-Marie Duthilleul, l’architecte des gares et églises",
+     "lien": "https://www.la-croix.com/culture/mort-de-jean-marie-duthilleul-l-architecture-des-gares-et-eglises-20261117",
+     "resume": "Renommé pour ses architectures d’une trentaine de gares en France et dans le monde, Jean-Marie Duthilleul, catholique engagé qui a signé aussi des réalisations pour l’Église, est décédé lundi 16 novembre 2026, à l’âge de 73 ans, annonce sa famille à La Croix.",
+     "date": "2026-11-17T16:29:52+01:00",
+     "source": "",
+     "image": "https://i.la-croix.com/x/2026/11/17/2586917-l-architecte-jean-marie-duthilleul-ici-en-2013-est.jpg"
+    },
+    {
+     "titre": "Sur les traces de la compagne de saint Augustin : La Croix et Le Monde de la Bible révèlent une découverte inédite",
+     "lien": "https://www.la-croix.com/service/sur-les-traces-de-la-compagne-de-saint-augustin-la-croix-et-le-monde-de-la-bible-revelent-une-decouverte-inedite-20261117",
+     "resume": "La Croix et Le Monde de la Bible associent leur expertise pour retracer les recherches qui pourraient lever le voile sur l’identité de la compagne de saint Augustin. Des inscriptions retrouvées dans les marges d’un manuscrit ancien suggèrent que le père de…",
+     "date": "2026-11-17T16:23:00+01:00",
+     "source": "",
+     "image": "https://i.la-croix.com/x/2026/11/17/2591640-sandrobotticellisant-agostinonellostudio1480circad.jpg"
     }
    ],
    "flux_utilise": "https://www.la-croix.com/feeds/rss/site.xml"
@@ -196,52 +196,52 @@
    },
    "articles": [
     {
-     "titre": "Bryson DeChambeau rejoint le DP World Tour après la dissolution du LIV Golf",
-     "lien": "https://www.lequipe.fr/Golf/Actualites/Bryson-dechambeau-rejoint-le-dp-world-tour-apres-la-dissolution-du-liv-golf/1744224#at_medium=RSS_feeds",
-     "resume": "Membre du LIV Golf depuis sa création il y a quatre ans, Bryson DeChambeau a décidé de rejoindre le DP World Tour suite à la dissolution du circuit saoudien. L'Américain croyait encore à la résurrection du LIV Golf au début du mois.",
-     "date": "2026-11-17T14:23:56+01:00",
-     "source": "",
-     "image": "https://medias.lequipe.fr/img-photo-png/-/1500000000833469/0-828-552-75/0cb67.png"
-    },
-    {
-     "titre": "Le show Vinicius : porté par un triplé en douze minutes de l'attaquant du Real Madrid, le Brésil écrase Singapour en match amical",
-     "lien": "https://www.lequipe.fr/Football/Actualites/Le-show-vinicius-porte-par-un-triple-en-douze-minutes-de-l-attaquant-du-real-madrid-le-bresil-ecrase-singapour-en-match-amical/1744221#at_medium=RSS_feeds",
-     "resume": "Grâce à un triplé de Vinicius en douze minutes, son premier en sélection, le Brésil a écrasé Singapour (7-0) lors d'un match amical, ce mardi midi, pour sa dernière de l'année. L'ancien Lyonnais Endrick a aussi participé à la fête.",
-     "date": "2026-11-17T13:51:44+01:00",
-     "source": "",
-     "image": "https://medias.lequipe.fr/img-photo-jpg/vinicius-a-inscrit-le-premier-triple-de-sa-carriere-sous-le-maillot-du-bresil-k-asakura-aflo-sport/1500000002652735/0:0,2000:1333-828-552-75/9bf18.jpg"
-    },
-    {
-     "titre": "« Mon histoire de joueur s'achève » : l'ancien défenseur du PSG et de Monaco Layvin Kurzawa annonce sa retraite",
-     "lien": "https://www.lequipe.fr/Football/Actualites/-mon-histoire-de-joueur-s-acheve-layvin-kurzawa-annonce-sa-retraite/1744202#at_medium=RSS_feeds",
-     "resume": "Ancien international français (13 sélections), Layvin Kurzawa a annoncé ce mardi la fin de sa carrière à l'âge de 34 ans. Le latéral gauche a notamment évolué à Monaco et au PSG. Durant son passage au sein du club de la capitale, il a écrit l'histoire de la…",
-     "date": "2026-11-17T13:29:25+01:00",
-     "source": "",
-     "image": "https://medias.lequipe.fr/img-photo-jpg/layvin-kurzawa-a-joue-au-psg-entre-2015-et-2024-s-mantey-l-equipe/1500000002652700/249:233,1692:1195-828-552-75/3b7ec.jpg"
-    },
-    {
-     "titre": "Plus protecteur et moins ouvert, Zidane imprime sa marque dans la com",
-     "lien": "https://www.lequipe.fr/Football/Article/-une-vision-plus-minimaliste-plus-distant-avec-les-medias-et-protecteur-avec-ses-joueurs-zinedine-zidane-imprime-sa-marque-dans-la-communication-des-bleus/1744129#at_medium=RSS_feeds",
+     "titre": "Arribagé, fils de footballeur et spécialiste de double",
+     "lien": "https://www.lequipe.fr/Tennis/Article/-tout-le-monde-etait-contre-cette-decision-radicale-theo-arribage-le-toulousain-qui-a-fait-fi-des-avis-pour-se-consacrer-entierement-au-double/1744056#at_medium=RSS_feeds",
      "resume": "",
-     "date": "2026-11-17T13:23:00+01:00",
+     "date": "2026-11-17T16:16:00+01:00",
      "source": "",
      "image": "https://medias.lequipe.fr/img-photo-png/-/1500000000833469/0-828-552-75/0cb67.png"
     },
     {
-     "titre": "La candidature de Philippe Diallo à la présidence de la FIFA acceptée par le comité exécutif de la FFF",
-     "lien": "https://www.lequipe.fr/Football/Actualites/La-candidature-de-philippe-diallo-a-la-presidence-de-la-fifa-acceptee-par-le-comite-executif-de-la-fff/1744201#at_medium=RSS_feeds",
-     "resume": "Lors d'un point presse tenu ce mardi, Philippe Diallo a annoncé que sa candidature à la présidence de la FIFA avait été validée par le comité exécutif de la Fédération française de football (FFF).",
-     "date": "2026-11-17T13:21:06+01:00",
+     "titre": "L'Égypte et le Nigeria tenus en échec en qualifications pour la CAN 2027, le Gabon battu",
+     "lien": "https://www.lequipe.fr/Football/Actualites/L-egypte-et-le-nigeria-tenus-en-echec-en-qualifications-pour-la-can-2027-le-gabon-battu/1744260#at_medium=RSS_feeds",
+     "resume": "Quatre jours après s'être imposés à domicile, l'Égypte et le Nigeria ont dû se contenter du match nul ce mardi respectivement contre le Malawi (0-0) et la Tanzanie (0-0), en qualifications à la CAN. Le Gabon a, lui, été battu par le Lesotho (1-2).",
+     "date": "2026-11-17T16:13:15+01:00",
      "source": "",
-     "image": "https://medias.lequipe.fr/img-photo-jpg/philippe-diallo-lors-de-la-derniere-coupe-du-monde-f-faugere-l-equipe/1500000002652697/0:0,2000:1333-828-552-75/a6a59.jpg"
+     "image": "https://medias.lequipe.fr/img-photo-jpg/mohamed-salah-lors-de-la-coupe-du-monde-2026-f-faugere-l-equipe/1500000002652840/223:245,1802:1297-828-552-75/f1603.jpg"
     },
     {
-     "titre": "Quelle eSIM choisir pour voyager ?",
-     "lien": "https://www.lequipe.fr/Guide-d-achat/High-tech-multimedia/Actualites/Quelle-esim-choisir-pour-voyager-en-2026-le-comparatif-complet/1722378#at_medium=RSS_feeds",
-     "resume": "",
-     "date": "2026-11-17T13:00:00+01:00",
+     "titre": "Tiger Woods fera bien son retour au Hero World Challenge",
+     "lien": "https://www.lequipe.fr/Golf/Actualites/Tiger-woods-fera-bien-son-retour-au-hero-world-challenge/1744259#at_medium=RSS_feeds",
+     "resume": "Tiger Woods effectuera son grand retour à la compétition au Hero World Challenge, du 3 au 6 décembre aux Bahamas, plus de deux ans après son dernier tournoi officiel. À 50 ans, le quintuple vainqueur de l'épreuve tentera de mesurer son état physique face à…",
+     "date": "2026-11-17T16:12:54+01:00",
      "source": "",
-     "image": "https://medias.lequipe.fr/img-photo-png/-/1500000000833469/0-828-552-75/0cb67.png"
+     "image": "https://medias.lequipe.fr/img-photo-jpg/tiger-woods-lors-de-la-ryder-cup-2018-p-lahalle-l-equipe/1500000002652839/292:253,1694:1188-828-552-75/5c2b3.jpg"
+    },
+    {
+     "titre": "L'équipe de France déroule contre l'Ukraine et poursuit son sans-faute en qualifications à l'Euro 2027",
+     "lien": "https://www.lequipe.fr/Basket/Actualites/L-equipe-de-france-deroule-contre-l-ukraine-et-poursuit-son-sans-faute-en-qualifications-a-l-euro-2027/1744257#at_medium=RSS_feeds",
+     "resume": "Grâce à un troisième quart-temps abouti, l'équipe de France s'est imposée contre l'Ukraine (60-108), ce mardi lors des qualifications à l'Euro 2027. Les Bleues, vice-championnes du monde en titre, enchaînent un troisième succès en autant de rencontres.",
+     "date": "2026-11-17T16:10:27+01:00",
+     "source": "",
+     "image": "https://medias.lequipe.fr/img-photo-jpg/valeriane-ayayi-a-inscrit-13-points-contre-l-ukraine-a-mounic-l-equipe/1500000002652834/0:0,1999:1333-828-552-75/bc7ad.jpg"
+    },
+    {
+     "titre": "Après avoir digéré son départ d'Auxerre, Christophe Pelissier se sent d'attaque : « Je suis prêt à relever n'importe quel défi »",
+     "lien": "https://www.lequipe.fr/Football/Actualites/Apres-avoir-digere-son-depart-d-auxerre-christophe-pelissier-se-sent-d-attaque-je-suis-pret-a-relever-n-importe-quel-defi/1744256#at_medium=RSS_feeds",
+     "resume": "Christophe Pelissier (61 ans), libre depuis son départ d'Auxerre l'été dernier, continue de travailler avec son staff technique afin d'être prêt à reprendre le fil de sa carrière d'entraîneur quand l'opportunité se présentera.",
+     "date": "2026-11-17T16:05:34+01:00",
+     "source": "",
+     "image": "https://medias.lequipe.fr/img-photo-jpg/christophe-pelissier-a-dirige-l-aj-auxerre-d-octobre-2022-jusqu-a-l-ete-2026-b-paquot-l-equipe/1500000002652832/227:103,1953:1253-828-552-75/b1d15.jpg"
+    },
+    {
+     "titre": "Une victoire qui relance tout : Arthur Fils s'impose contre Rafael Jodar et se replace pour la qualification en demi-finales des Finales ATP",
+     "lien": "https://www.lequipe.fr/Tennis/Actualites/Une-victoire-qui-relance-tout-arthur-fils-s-impose-contre-rafael-jodar-et-se-replace-pour-la-qualification-en-demi-finales-des-finales-atp/1744255#at_medium=RSS_feeds",
+     "resume": "Après une défaite inaugurale contre Ben Shelton, Arthur Fils a corrigé le tir en venant à bout de Rafael Jodar ce mardi en trois manches (4-6, 6-2, 6-2) à Turin. Le Français se replace dans la course aux demi-finales des Finales ATP.",
+     "date": "2026-11-17T16:04:57+01:00",
+     "source": "",
+     "image": "https://medias.lequipe.fr/img-photo-jpg/arhur-fils-se-relance-aux-finales-atp-f-faugere-l-equipe/1500000002652831/0:0,1999:1333-828-552-75/f72c8.jpg"
     }
    ],
    "flux_utilise": "https://dwh.lequipe.fr/api/edito/rss?path=/"
@@ -260,38 +260,8 @@
      "date": "2026-11-17T14:29:44+01:00",
      "source": "lemonde.fr",
      "image": "https://img.lemde.fr/2026/11/16/404/0/4870/2435/644/322/60/0/bdcfc98_ftp-1-ethrqrabjbsk-afp-d7mz9cp.jpg",
-     "reprises": 9,
-     "score": 24.64
-    },
-    {
-     "titre": "Rwanda : Kigali signe un accord pour accueillir des migrants expulsés d'Europe",
-     "lien": "https://www.france24.com/fr/vid%C3%A9o/20261117-rwanda-kigali-signe-un-accord-pour-accueillir-des-migrants-expuls%C3%A9s-d-europe",
-     "resume": "🇷🇼 Le Rwanda pourrait devenir une destination pour les migrants expulsés d’Europe. Cinq pays européens, dont l’Allemagne et les Pays-Bas, soutiennent la création d’un centre d’accueil sur son sol. Un projet controversé, appuyé par Bruxelles et dénoncé par…",
-     "date": "2026-11-17T14:36:32+01:00",
-     "source": "france24.com",
-     "image": "https://s.france24.com/media/display/b2c6eb4c-e287-11f1-8ccf-c5c0357b2a0c/w:1024/p:16x9/Couv-RWANDA-Migrants.jpg",
-     "reprises": 5,
-     "score": 13.79
-    },
-    {
-     "titre": "Trump arrive à Manille avant un sommet avec Xi et Poutine en Chine",
-     "lien": "https://www.france24.com/fr/vid%C3%A9o/20261117-trump-arrive-%C3%A0-manille-avant-un-sommet-avec-xi-et-poutine-en-chine",
-     "resume": "Le président américain Donald Trump est arrivé mardi soir à Manille, où il doit notamment rencontrer les dirigeants de l'Inde, du Japon et de l'Australie avant un sommet avec ses homologues chinois Xi Jinping et russe Vladimir Poutine en Chine jeudi.",
-     "date": "2026-11-17T12:57:48+01:00",
-     "source": "france24.com",
-     "image": "https://s.france24.com/media/display/cebe5df4-e27c-11f1-b9e5-c5c0357b2a0c/w:1024/p:16x9/FR-20261117-120413-120915-CS-01.jpg",
-     "reprises": 6,
-     "score": 12.53
-    },
-    {
-     "titre": "En Serbie, la Liste étudiante fait une entrée historique au Parlement",
-     "lien": "https://www.lemonde.fr/international/article/2026/11/17/en-serbie-la-liste-etudiante-en-ordre-de-marche-pour-son-entree-au-parlement_6812966_3210.html",
-     "resume": "Les représentants des étudiants se préparent à former un gouvernement dont la première tâche sera d’effectuer une purge de l’administration démissionnaire, accusée de corruption à grande échelle. Des contrats juteux passés avec de grands groupes européens et…",
-     "date": "2026-11-17T13:00:01+01:00",
-     "source": "lemonde.fr",
-     "image": "https://img.lemde.fr/2026/11/16/551/0/3334/1667/644/322/60/0/f16903f_upload-1-5atvuloxglha-students-serbia-061.jpg",
-     "reprises": 5,
-     "score": 10.3
+     "reprises": 10,
+     "score": 24.78
     },
     {
      "titre": "L’Iran revendique une attaque contre une base américaine à Bahreïn",
@@ -300,18 +270,48 @@
      "date": "2026-11-17T11:53:55+01:00",
      "source": "lemonde.fr",
      "image": "https://img.lemde.fr/2026/09/02/176/0/3600/1800/644/322/60/0/49f9bb0_ftp-1-iqrafoxhmh8r-5976048-01-06.jpg",
-     "reprises": 4,
-     "score": 10.21
+     "reprises": 5,
+     "score": 8.94
     },
     {
-     "titre": "« Inside Deutsche Bank » : malgré les scandales et la guerre en Ukraine, la banque a tenté de préserver son activité avec les Russes",
-     "lien": "https://www.lemonde.fr/les-decodeurs/article/2026/11/17/inside-deutsche-bank-malgre-les-scandales-et-la-guerre-en-ukraine-la-banque-a-tente-de-preserver-son-activite-avec-les-russes_6812915_4355770.html",
-     "resume": "Pour l’établissement bancaire, la Russie représente un marché historique et fructueux alimenté par une clientèle de sociétés publiques aux pratiques douteuses et par des oligarques au profil sulfureux. Avec ses « clients les plus sensibles », il a perduré…",
-     "date": "2026-11-17T07:00:15+01:00",
+     "titre": "En Serbie, la Liste étudiante fait une entrée historique au Parlement",
+     "lien": "https://www.lemonde.fr/international/article/2026/11/17/en-serbie-la-liste-etudiante-en-ordre-de-marche-pour-son-entree-au-parlement_6812966_3210.html",
+     "resume": "Les représentants des étudiants se préparent à former un gouvernement, dont la première tâche sera d’effectuer une purge de l’administration démissionnaire, accusée de corruption à grande échelle. Des contrats juteux passés avec de grands groupes européens…",
+     "date": "2026-11-17T13:00:01+01:00",
      "source": "lemonde.fr",
-     "image": "https://img.lemde.fr/2026/11/16/279/0/3000/1500/644/322/60/0/1df6da8_upload-1-ung7bjh76wpv-db-03-russie.jpg",
+     "image": "https://img.lemde.fr/2026/11/16/551/0/3334/1667/644/322/60/0/f16903f_upload-1-5atvuloxglha-students-serbia-061.jpg",
+     "reprises": 4,
+     "score": 7.64
+    },
+    {
+     "titre": "Rwanda : Kigali signe un accord pour accueillir des migrants expulsés d'Europe",
+     "lien": "https://www.france24.com/fr/vid%C3%A9o/20261117-rwanda-kigali-signe-un-accord-pour-accueillir-des-migrants-expuls%C3%A9s-d-europe",
+     "resume": "🇷🇼 Le Rwanda pourrait devenir une destination pour les migrants expulsés d’Europe. Cinq pays européens, dont l’Allemagne et les Pays-Bas, soutiennent la création d’un centre d’accueil sur son sol. Un projet controversé, appuyé par Bruxelles et dénoncé par…",
+     "date": "2026-11-17T14:36:32+01:00",
+     "source": "france24.com",
+     "image": "https://s.france24.com/media/display/b2c6eb4c-e287-11f1-8ccf-c5c0357b2a0c/w:1024/p:16x9/Couv-RWANDA-Migrants.jpg",
+     "reprises": 4,
+     "score": 6.53
+    },
+    {
+     "titre": "Donald Trump dit \"prendre très au sérieux\" une possible menace d'attaque iranienne à Washington",
+     "lien": "https://www.france24.com/fr/am%C3%A9riques/20261117-donald-trump-dit-prendre-tr%C3%A8s-au-s%C3%A9rieux-une-possible-menace-d-attaque-iranienne-%C3%A0-washington",
+     "resume": "En déplacement à Manille, le président des États-Unis a déclaré \"prendre très au sérieux\" une information de la chaîne de télévision CNN, selon laquelle Téhéran projetait un attentat à la \"bombe sale\", c'est-à-dire composée de matériaux radioactifs, à…",
+     "date": "2026-11-17T16:20:35+01:00",
+     "source": "©  Aaron Favila, Pool AP via AP",
+     "image": "https://s.france24.com/media/display/33aa0a04-e298-11f1-ba28-1ba7ddfab527/w:1024/p:16x9/AP26321504671499.jpg",
      "reprises": 3,
-     "score": 9.14
+     "score": 6.21
+    },
+    {
+     "titre": "Trump arrive à Manille avant un sommet avec Xi et Poutine en Chine",
+     "lien": "https://www.france24.com/fr/vid%C3%A9o/20261117-trump-arrive-%C3%A0-manille-avant-un-sommet-avec-xi-et-poutine-en-chine",
+     "resume": "Le président américain Donald Trump est arrivé mardi soir à Manille, où il doit notamment rencontrer les dirigeants de l'Inde, du Japon et de l'Australie avant un sommet avec ses homologues chinois Xi Jinping et russe Vladimir Poutine en Chine jeudi.",
+     "date": "2026-11-17T12:57:48+01:00",
+     "source": "france24.com",
+     "image": "https://s.france24.com/media/display/cebe5df4-e27c-11f1-b9e5-c5c0357b2a0c/w:1024/p:16x9/FR-20261117-120413-120915-CS-01.jpg",
+     "reprises": 3,
+     "score": 6.09
     }
    ],
    "a_traduire": []
@@ -322,54 +322,54 @@
    "sous_titre": "Modèles, entreprises, régulation, recherche",
    "items": [
     {
-     "titre": "\"Nous voulons de l'innovation qui se conforme à la loi\": la Californie poursuit OpenAI en justice dans l'affaire des agents IA qui se sont échappés pour pirater Hugging Face",
-     "lien": "https://news.google.com/rss/articles/CBMi4wJBVV95cUxQeFJYY2diSWFpMlNGVWxvX0hEVzlDVk5zb2ZBQXJGVTdsRE5ZTGY3cDMzcmtOWGxFVHFiTjF0SmVSNGhUOUcwVC1TX2todlFqWmJoalgyQmJneUNQbXRoTHJ5YUVHcWRENXRxdHAyLVdBcDVCbnpocm9qRW1YWEx3Y1kyQTZBVHpaTW9pX18yUmlfRjFQdWM2YTdtdkRkZTgyOFhhcTJuTjlYSXl1SXA0UUhmNFR0SWpZSTBIWkMyVEQyM3ZKZUdocmpCUXVqMDhtRWsyZXVmSXpzZnRaclVZTEZJR0s4cW9FLW1tRnl4RGNyTG5OZmoyU1d5Z1JqdGhFb3RvNFYwQ29mcGFKTFRyWjBvMzVCajNQdG5pM0ctYjM0UFJaNFdkRHBDdzR6amFiMFpWenNPSzRfRnJwbllXMmVFX3c0cGxJT2cxZERfUjZTWUhBblZMOUQ3VGsyOHlfbFVz?oc=5",
+     "titre": "Anthropic : une introduction en haut de fourchette ou au-delà ?",
+     "lien": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNVk14N0I4eGUwZ2xiNlg1WGJ2Vm5abGxVRC1WMVh0cDdadFlISXFiZlJwaEk5bmU0RUJPcXp0VmJ5NXplTzd2aHRSeTVrRVducC0zZk15VXFRSzBtOUNsT1Z4elM3dWd5ak96eEZidWJ2cWJHQUdTenlUUlprenpHQjZIM3RzdFRqNFlaVmhVY25INHdBYjRSQUxVUm5iam5mRWM0UmlReFVsTzU2a2ZvZTJ6YkxSVEl2WTBUWXNudVA?oc=5",
      "resume": "",
-     "date": "2026-11-17T10:14:28+01:00",
-     "source": "BFM",
-     "image": null,
-     "reprises": 6,
-     "score": 13.57
-    },
-    {
-     "titre": "Commande publique : un premier guide pour tout comprendre à l’intelligence artificielle et bien préparer son achat",
-     "lien": "https://news.google.com/rss/articles/CBMipwJBVV95cUxPNFJrdmw0VUkwazRzZ3V1Ny1BaElXZkNabHFOUTZQQW91NVlNdlU0SktfLUEzZlJ5N3BNdktNQmFPQ2pnNjFQTVNDdDNQQ1ltMERtOUtpQkhmSjJPX1MtcWswY0lkOFVyVDhzZkNMa3VBX3VZTlhVczktNGNtanIzTUJJRkxOS1N4NlRta2QxbjZSai1lcWFsaEFFLVR5UnJUXy1oaFhBV21BOVl1VnozR2dYbXVySTRydXJKXzluWWc4eGU2Z2JfSkwyaE1UR2JuSmZUUnRDYlBoVENLNHFTa3B0RXFKc2lIaU5qY0pNMHFiQnhoVklaUkhRMHFpenl0YmhndFB4VkxweFZHS3NJbnIxamNDdnlrYi14alNUQXNNdlFvclA4?oc=5",
-     "resume": "OVHcloud a présenté le 17 novembre 2026 Olala mini, première itération d'une nouvelle famille de modèles de langage. Open source et entraîné à partir de zéro sur des supercalculateurs européens, il marque l'arrivée du géant français du cloud sur un terrain…",
-     "date": "2026-11-17T13:50:00+01:00",
-     "source": "Le Moniteur",
-     "image": null,
-     "reprises": 6,
-     "score": 12.17
-    },
-    {
-     "titre": "Anthropic : 900 milliards de dollars pour combien de mois d'avance ?",
-     "lien": "https://news.google.com/rss/articles/CBMingFBVV95cUxPejdCOHhlT1VzaFNlMzVyekpvc1ZLMV92ZnlfX0xpbnZybm1FZEpOY3hoS0Ezc2lrTWZSa2RNeDJxcXFqWTJVRVUwWWFBQnVCQnB0cGpCaGNDZUVvMW43VmRvOTBYM0J6akNNeUpKMEdSc0drMnQ1MXhZcDE2NG9kUkNVTnZzWVNIQS1CMXlYV2FiYzlvQmgzWjA5Yy0tQQ?oc=5",
-     "resume": "",
-     "date": "2026-11-17T07:30:00+01:00",
-     "source": "ActuIA",
+     "date": "2026-11-17T15:53:00+01:00",
+     "source": "Boursier.com",
      "image": null,
      "reprises": 4,
-     "score": 7.19
+     "score": 15.87
     },
     {
-     "titre": "Intelligence artificielle : perte de données, entraînement de modèles, deepfakes... Pourquoi vous ne devriez pas utiliser vos photos personnelles sur l'IA",
-     "lien": "https://news.google.com/rss/articles/CBMioAJBVV95cUxOSG9YN3RTQ2poclU2U1R5TGpaZ3czMFVuYTRWLWZzWlFUYl9kNjhmSzQ0RFhyNGxxZnR0RUtDdHhrWk05SjRvTldVRlpfY0tWU0x6NnYzX2NEQ3g5Y1p6eXo1b3hHRWNWaGNIekRYWGxQZnAwU1pIa0FCdGltVjhoSE4zUC1CWmJ2RGlPNURNRVRCRWpRcmVxQVRBZUJhenIxUVIxUlg4M3VOVWp4R0RKLW85NVV0WTI0ZGFWOWJBSUFSdWhaSjZ6aG9MaVV1STMwOWczMEluSElHaXViVHIxa3hYY0UwcURqTUhDblN6SEYtQTNHQTFkVWtZQVdzR1Y2Y0RoaWZ2d2hwVEpOY0k4WERYdDN1QWQ4UnA1OGFkNVY?oc=5",
+     "titre": "Anthropic obtient sa première recommandation 'Acheter'",
+     "lien": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9nN0I3Z010RlNKQUg0elhSeDUzUUlDMDhfRmRuXzdwcGJHNEZTZER6QmtXU0RJMU9IV19fVHI4RzJEMXR4T0F2elpxREFPNzBFVFZCcmFKb0MyYzNodHZJX2xNdEplQQ?oc=5",
      "resume": "",
-     "date": "2026-11-17T12:43:00+01:00",
-     "source": "ladepeche.fr",
+     "date": "2026-11-17T14:32:10+01:00",
+     "source": "TradingView",
+     "image": null,
+     "reprises": 5,
+     "score": 11.08
+    },
+    {
+     "titre": "Olala, le premier modèle d’IA de l’entreprise française OVHcloud",
+     "lien": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxNZ2hkcFoyOEtnMGRIM0t2UW1sdXMzcUM3NURrWnJidi1selZzNER3WmhwRlpic1VEWlNNTUl1emJzei1KdGpCeklfZ2xzbXI2ZWk5V2tQUW9USllLbG01allrWGJRa0ZBNC1GMkdpTlVFMW04bUZKZ2RlSkVDTnN5dmx2LWRibDJIcmthLUN5dGFJLVFNcTRMaUI4RXZ2NGFCaDd6MkV2VjZ3bFRPSFFGMTZ6dF9wcExHRzlObm5jMXlrb1ZEcDVESVFoVno0U0s1Z1JVaEZpS2kya2ZoVXllTA?oc=5",
+     "resume": "OVHcloud a présenté le 17 novembre 2026 Olala mini, première itération d'une nouvelle famille de modèles de langage. Open source et entraîné à partir de zéro sur des supercalculateurs européens, il marque l'arrivée du géant français du cloud sur un terrain…",
+     "date": "2026-11-17T10:12:33+01:00",
+     "source": "Le Monde.fr",
+     "image": null,
+     "reprises": 5,
+     "score": 9.59
+    },
+    {
+     "titre": "La Californie attaque OpenAI après l’incident Hugging Face",
+     "lien": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPa2NkZ1V3dU15M01ubU1Nc0JvOE80VFFlTGhWdEJPNzVzTFFVaWV5X0RUa09uYWRQeEh3c2phZFFtM3V3LXI4clhWVkhhNFVtNmJuOXRJVHBfRFg5dktYaU5zY3k1RktPMFdtUHhoQUdyVnc4X1F6bW05VE9sc2VKTkJtWDV1VHBnVzF0cVB3WUsydFRlZkhVTVBFQWw5bWx2NnJIdWxiMlFpZ9IBrwFBVV95cUxOODNYbThMdm5SRGFFUGRrT0NBaE5NajIwek5JbTlhbEg1TmcweEFfQTg5al9VZDVkYTBtdDdaXzBDUWZPZUc3MC1JMjQzaWpCejc2QldnUlZrd1FBNmpLNmhOVGE2UTRxRE1tY1VKYlh4NEctNXpZRldlS1pIRUJIOGs1dTI4b044eHpucVl2el95T2Q0Nlcyb2tlMFgtTE9YVVk4Zzl0U2c0SGpZYUo0?oc=5",
+     "resume": "",
+     "date": "2026-11-17T11:57:48+01:00",
+     "source": "Silicon.fr",
+     "image": null,
+     "reprises": 5,
+     "score": 9.37
+    },
+    {
+     "titre": "Azur Tech Winter : Intelligence artificielle, cybersécurité, la tech (…)",
+     "lien": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPUkg5NkxzVUZmNS1KNm1NNDBKcGhGeDhYajN1a3BKUm95WW9yNWpGZ0xwWm5rSGlaVG9QeFV4U3VnMzd1cUF5a3Rkd3pzYTJBc3Nkc3hjbWVybmFTN3UxbGJkQ3VGUGItTmM4d0wxdWpPUllvMTQ5cVBtRnRNaTJPTXlXNnV2TERremFHS0pYVXVXUmo1NXlnOEFwcw?oc=5",
+     "resume": "",
+     "date": "2026-11-17T15:03:37+01:00",
+     "source": "Petites Affiches",
      "image": null,
      "reprises": 3,
-     "score": 4.82
-    },
-    {
-     "titre": "The King’s Trust et OpenAI lancent un partenariat de 1 million de livres sterling",
-     "lien": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5jZVhwR2ZqaEMzTXROSzdjY3hlMVh1TkdGZHNFVDZxREU3NGgzdUt4d3NlQl9Ib3BMclBxTEtEakdXVDhKSUN5SmZhYl9WaDlnYzliVjFmOXB1VVZ4VFRWUVFWcmtlR21EdlE?oc=5",
-     "resume": "",
-     "date": "2026-11-17T11:47:53+01:00",
-     "source": "OpenAI",
-     "image": null,
-     "reprises": 1,
-     "score": 3.64
+     "score": 5.07
     }
    ],
    "a_traduire": [
@@ -381,7 +381,7 @@
      "source": "theverge.com",
      "image": null,
      "reprises": 1,
-     "score": 1.29
+     "score": 1.26
     },
     {
      "titre": "Trump says ex-Nvidia CEO Jensen Huang’s affair with an alleged Chinese spy did not threaten national security",
@@ -391,7 +391,7 @@
      "source": "techcrunch.com",
      "image": null,
      "reprises": 1,
-     "score": 1.29
+     "score": 1.25
     },
     {
      "titre": "Sam Altman on Nvidia without Jensen Huang: The industry will be ‘fine’",
@@ -401,7 +401,7 @@
      "source": "techcrunch.com",
      "image": null,
      "reprises": 1,
-     "score": 1.14
+     "score": 1.11
     },
     {
      "titre": "FBI says Artex AI open source hacking tool used to breach networks in ‘under three hours’",
@@ -411,7 +411,7 @@
      "source": "techcrunch.com",
      "image": null,
      "reprises": 1,
-     "score": 1.03
+     "score": 1.0
     },
     {
      "titre": "Jordan Belfort’s new AI voice startup, Tone, wants to sell like the ‘Wolf of Wall Street’",
@@ -421,7 +421,7 @@
      "source": "techcrunch.com",
      "image": null,
      "reprises": 1,
-     "score": 0.95
+     "score": 0.91
     }
    ]
   },
@@ -438,7 +438,7 @@
      "source": "Informat.ro",
      "image": null,
      "reprises": 3,
-     "score": 6.85,
+     "score": 6.78,
      "libertes": true
     },
     {
@@ -449,7 +449,7 @@
      "source": "Epoch Times",
      "image": null,
      "reprises": 3,
-     "score": 6.35,
+     "score": 6.3,
      "libertes": true
     },
     {
@@ -460,7 +460,7 @@
      "source": "Le Chasseur Français",
      "image": null,
      "reprises": 3,
-     "score": 5.72,
+     "score": 5.67,
      "libertes": false
     },
     {
@@ -471,7 +471,7 @@
      "source": "L'Orient-Le Jour",
      "image": null,
      "reprises": 1,
-     "score": 1.58,
+     "score": 1.56,
      "libertes": true
     },
     {
@@ -482,7 +482,7 @@
      "source": "Major Prépa",
      "image": null,
      "reprises": 1,
-     "score": 1.55,
+     "score": 1.54,
      "libertes": true
     },
     {
@@ -493,7 +493,7 @@
      "source": "Le Taurillon",
      "image": null,
      "reprises": 1,
-     "score": 1.54,
+     "score": 1.52,
      "libertes": true
     }
    ],
