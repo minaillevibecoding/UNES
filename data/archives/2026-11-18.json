@@ -1,0 +1,503 @@
+{
+ "date": "2026-11-18",
+ "genere": "2026-11-18T14:25+01:00",
+ "journaux": [
+  {
+   "id": "figaro",
+   "nom": "Le Figaro",
+   "couleur": "#163860",
+   "une": {
+    "fichier": "unes/figaro.jpg",
+    "date": "2026-11-18",
+    "source": "https://static.milibris.com/thumbnail/issue/7b571e05-2e19-40c2-8ec7-67975a01550c/front/catalog-cover-large.jpeg"
+   },
+   "articles": [
+    {
+     "titre": "EN DIRECT - Présidentielle 2027 : Édouard Philippe assure que «la crise financière a commencé» et juge la France «proche de la situation qu’a connue la Grèce»",
+     "lien": "https://www.lefigaro.fr/elections/presidentielles/presidentielle-2027-edouard-philippe-a-la-traine-dans-les-sondages-presente-son-projet-a-date-20261118",
+     "resume": "«Nous devons oser des réformes radicales, en rupture avec ce qui a été fait ces dernières années», a lancé Édouard Philippe mercredi lors d’une conférence de presse de présentation de son programme pour l’élection présidentielle.",
+     "date": "2026-11-18T14:10:03+01:00",
+     "source": "",
+     "image": "https://i.f1g.fr/media/cms/2600x1732_crop/2026/11/18/7028a4e8165c96b0d057a9b468542e26419962ad83878eb9cc7e0b58504df3b3.jpg"
+    },
+    {
+     "titre": "Présidentielle 2027 : face à Marine Le Pen, Jean-Luc Mélenchon gagnera l’élection, assure Darmanin",
+     "lien": "https://www.lefigaro.fr/politique/presidentielle-2027-face-a-marine-le-pen-jean-luc-melenchon-gagnera-l-election-assure-darmanin-20261118",
+     "resume": "Soutien d’Édouard Philippe, le ministre de la Justice a appelé Bruno Retailleau et Gabriel Attal à se désister en faveur du candidat Horizons, sans passer par une primaire, afin d’empêcher le patron de LFI d’accéder au second tour.",
+     "date": "2026-11-18T10:28:37+01:00",
+     "source": "",
+     "image": "https://i.f1g.fr/media/cms/orig/2026/11/18/c52801e4d90fd3a0562ef652334e38cec502e843f0dce3863556b81b81479041.JPG"
+    },
+    {
+     "titre": "Présidentielle 2027 : «On doit lui mettre la pression», Lisnard fait de la participation de Philippe «une condition» pour une primaire",
+     "lien": "https://www.lefigaro.fr/elections/presidentielles/presidentielle-2027-on-doit-lui-mettre-la-pression-lisnard-fait-de-la-participation-de-philippe-une-condition-pour-une-primaire-20261118",
+     "resume": "Au lendemain d’une réunion qui a posé les premières bases d’une primaire à droite et au centre, David Lisnard souhaite voir Édouard Philippe y participer. Le candidat Horizons continue de refuser.",
+     "date": "2026-11-18T08:36:40+01:00",
+     "source": "",
+     "image": "https://i.f1g.fr/media/cms/orig/2026/11/18/4f8acbbf30da12a24b4ec593df0ff0ec32d6c0b3fd16884930170dd6c6293114.JPG"
+    },
+    {
+     "titre": "Présidentielle 2027 : Jean-Philippe Tanguy propose «un débat» avec David Lisnard",
+     "lien": "https://www.lefigaro.fr/elections/presidentielles/presidentielle-2027-jean-philippe-tanguy-propose-un-debat-avec-david-lisnard-20261118",
+     "resume": "Invité de BFMTV ce mercredi 18 novembre, Jean-Philippe Tanguy estime que David Lisnard «profite d’une certaine ambiguïté» et l’invite à débattre des retraites.",
+     "date": "2026-11-18T10:30:04+01:00",
+     "source": "",
+     "image": "https://i.f1g.fr/media/cms/orig/2026/11/18/d87dbd14949df43e705f96c94f817d0532ec282417d201668b353c691c51ae50.JPG"
+    },
+    {
+     "titre": "Présidentielle 2027 : Édouard Philippe promet une «rupture» de fond pour relancer sa campagne face à David Lisnard",
+     "lien": "https://www.lefigaro.fr/elections/presidentielles/presidentielle-2027-edouard-philippe-promet-une-rupture-de-fond-pour-relancer-sa-campagne-face-a-david-lisnard-20261118",
+     "resume": "DÉCRYPTAGE - Le candidat d’Horizons à l’élection présidentielle a vanté mardi son projet «massif et sérieux» face à ses adversaires Jean-Luc Mélenchon et Marine Le Pen, lors d’une conférence de presse, en réaffirmant son refus de participer à une primaire.",
+     "date": "2026-11-18T14:15:11+01:00",
+     "source": "",
+     "image": "https://i.f1g.fr/media/cms/2850x1604_crop/2026/11/18/66fe85fdbbfa701a1c6ad3c571870ea1d311b96dbe1582faa72121b5dc24d4dc.jpg"
+    },
+    {
+     "titre": "Les images de la poignée de main entre Donald Trump et Vladimir Poutine en Chine, sous le regard de Xi Jinping",
+     "lien": "https://www.lefigaro.fr/international/les-images-de-la-poignee-de-main-entre-donald-trump-et-vladimir-poutine-en-chine-sous-le-regard-de-xi-jinping-20261118",
+     "resume": "VIDÉO - Les dirigeants américain et russe se sont serré la main mercredi lors d’une réception à l’occasion d’une réunion régionale à Shenzhen, qui marque leur première rencontre depuis plus d’un an.",
+     "date": "2026-11-18T13:29:09+01:00",
+     "source": "",
+     "image": "https://i.f1g.fr/media/cms/orig/2026/11/18/a52ebd389801f9c76141ac2edd58dcedc80586a00613ca8fa35e76981cdbb968.jpg"
+    }
+   ],
+   "flux_utilise": "https://www.lefigaro.fr/rss/figaro_actualites.xml"
+  },
+  {
+   "id": "monde",
+   "nom": "Le Monde",
+   "couleur": "#111111",
+   "une": {
+    "fichier": "unes/monde.webp",
+    "date": "2026-11-18",
+    "source": "https://www.frontpages.com/t/2026/11/17/le-monde-200034g22@2x.webp"
+   },
+   "articles": [
+    {
+     "titre": "Jean-Luc Mélenchon et l’Ukraine : ce que disent les votes de LFI au Parlement européen",
+     "lien": "https://www.lemonde.fr/les-decodeurs/article/2026/11/18/jean-luc-melenchon-et-l-ukraine-ce-que-disent-les-votes-de-la-france-insoumise-au-parlement-europeen_6813096_4355770.html",
+     "resume": "Accusé d’ambiguïté sur la guerre en Ukraine, le candidat de La France insoumise à l’élection présidentielle assure que les « insoumis » défendent Kiev sans varier dans leurs votes au Parlement européen. Les Décodeurs du « Monde » ont vérifié.",
+     "date": "2026-11-18T09:45:01+01:00",
+     "source": "",
+     "image": "https://img.lemde.fr/2026/11/08/137/0/4724/2362/644/322/60/0/811509f_upload-1-vghks1aqziim-mmagnin-meeting-melenchon-54.jpg"
+    },
+    {
+     "titre": "« GTA VI », un jeu de braquage sulfureux devenu mastodonte du divertissement",
+     "lien": "https://www.lemonde.fr/pixels/article/2026/11/18/gta-vi-un-jeu-de-braquage-sulfureux-devenu-mastodonte-du-divertissement_6813125_4408996.html",
+     "resume": "Le nouvel opus de la saga « Grand Theft Auto », déjà disponible dans certain pays, a pulvérisé des records de vente avec ses précommandes. Longtemps critiquée pour sa violence, la série s’est imposée comme un des mètres étalons de l’industrie.",
+     "date": "2026-11-18T13:23:42+01:00",
+     "source": "",
+     "image": "https://img.lemde.fr/2026/11/17/0/0/3840/1920/644/322/60/0/1e268d2_upload-1-z99c0uryyeir-jason-and-lucia-17-117-b11r13mg5.jpg"
+    },
+    {
+     "titre": "Présidentielle 2027 : Edouard Philippe présente une partie de son programme pour « rétablir l’ordre et remettre la France sur le chemin du progrès »",
+     "lien": "https://www.lemonde.fr/politique/article/2026/11/18/presidentielle-2027-edouard-philippe-presente-une-partie-de-son-programme-pour-retablir-l-ordre-et-remettre-la-france-sur-le-chemin-du-progres_6813122_823448.html",
+     "resume": "« Nous devons oser des réformes radicales, en rupture avec ce qui a été fait ces dernières années », a dit le candidat Horizons en détaillant des mesures sur l’école, la justice et la réforme des retraites, rappelant son attachement au projet européen et à…",
+     "date": "2026-11-18T12:46:08+01:00",
+     "source": "",
+     "image": "https://img.lemde.fr/2026/11/18/106/0/5967/2983/644/322/60/0/63dd8bb_ftp-1-ly3uahzd5xm6-afp-d7uw2fx.jpg"
+    },
+    {
+     "titre": "Donald Trump est arrivé en Chine, avant un sommet tripartite inédit avec Xi Jinping et Vladimir Poutine",
+     "lien": "https://www.lemonde.fr/international/article/2026/11/18/donald-trump-est-arrive-en-chine-avant-un-sommet-tripartite-inedit-avec-xi-jinping-et-vladimir-poutine_6813120_3210.html",
+     "resume": "Le président américain, arrivé à Shenzhen mercredi après-midi, a été devancé par M. Poutine, arrivé dans la nuit de mardi à mercredi. Leur réunion, à l’agenda obscur, doit se tenir jeudi.",
+     "date": "2026-11-18T12:30:36+01:00",
+     "source": "",
+     "image": "https://img.lemde.fr/2026/11/18/1197/0/7658/3829/644/322/60/0/b807fc0_ftp-1-nxnziiqedxl2-afp-d7up9kp.jpg"
+    },
+    {
+     "titre": "« Je me contente d’un petit poêle à bois, je porte deux gilets, je calfeutre tout » : ces foyers qui restreignent leur chauffage pour ne pas alourdir leurs factures",
+     "lien": "https://www.lemonde.fr/economie/article/2026/11/18/je-m-enroule-dans-des-plaids-ces-menages-qui-restreignent-leur-chauffage-pour-affronter-l-envolee-des-prix-de-l-energie_6813075_3234.html",
+     "resume": "Alors que les prix de l’énergie flambent, sur fond de tensions internationales, de plus en plus de ménages vivent une « sobriété subie », souffrant de froid dans leur logement.",
+     "date": "2026-11-18T06:30:06+01:00",
+     "source": "",
+     "image": "https://img.lemde.fr/2026/11/16/984/0/3667/1833/644/322/60/0/fba5d3b_upload-1-b73eca5rsoot-ad039-1europres-dsc09332.jpg"
+    },
+    {
+     "titre": "La sonde Voyager 1 devient l’objet humain le plus lointain, à 25,9 milliards de kilomètres de la Terre",
+     "lien": "https://www.lemonde.fr/sciences/article/2026/11/18/la-sonde-voyager-1-est-desormais-a-la-distance-vertigineuse-d-un-jour-lumiere-de-la-terre_6813119_1650684.html",
+     "resume": "Il faut désormais vingt-quatre heures aux ondes radio pour atteindre l’iconique sonde interplanétaire de la NASA. Objet humain le plus lointain de notre planète, la sonde devrait mettre trente mille ans pour quitter définitivement notre Système solaire.",
+     "date": "2026-11-18T12:30:01+01:00",
+     "source": "",
+     "image": "https://img.lemde.fr/2025/05/21/0/0/1024/512/644/322/60/0/6773ead_sirius-fs-upload-1-temw1r73qd7o-1747843998681-000-was6853790.jpg"
+    }
+   ],
+   "flux_utilise": "https://www.lemonde.fr/rss/une.xml"
+  },
+  {
+   "id": "croix",
+   "nom": "La Croix",
+   "couleur": "#c8102e",
+   "une": {
+    "fichier": "unes/croix.jpg",
+    "date": "2026-11-18",
+    "source": "https://img.kiosko.net/2026/11/18/fr/lacroix.750.jpg"
+   },
+   "articles": [
+    {
+     "titre": "Guerre en Ukraine : le Canada veut renforcer les sanctions ; nouveau prêt de l’UE pour Kiev",
+     "lien": "https://www.la-croix.com/international/ukraine-russie-jour-1729-point-conflit-ukrainien-poutine-aujourdhui-20261118",
+     "resume": "Le premier ministre canadien menace la Russie de renforcer les sanctions « tant que la guerre se poursuivra ». La Commission européenne va proposer aux 27 d’accorder un nouveau prêt de 45 milliards d’euros à l’Ukraine en 2027. Suivez l’actualité de la guerre…",
+     "date": "2026-11-18T13:48:14+01:00",
+     "source": "",
+     "image": "https://i.la-croix.com/x/2026/11/18/2592168-un-membre-des-services-de-secours-ukrainien-tente-.jpg"
+    },
+    {
+     "titre": "Prix Interallié 2026 : Jessica L. Nelson lauréate pour « Les Amants du Vercors »",
+     "lien": "https://www.la-croix.com/culture/prix-interallie-2026-jessica-l-nelson-laureate-pour-les-amants-du-vercors-20261118",
+     "resume": "La romancière Jessica L. Nelson a reçu ce mercredi 18 novembre le prix Interallié pour Les Amants du Vercors, son douzième ouvrage, paru chez Albin Michel.",
+     "date": "2026-11-18T13:43:28+01:00",
+     "source": "",
+     "image": "https://i.la-croix.com/x/2026/11/18/2592350-jessica-l-nelson-a-remporte-mercredi-18-novembre-2.jpg"
+    },
+    {
+     "titre": "« Se domani non torno », le film choc sur les féminicides qui chamboule l’Italie",
+     "lien": "https://www.la-croix.com/culture/se-domani-non-torno-le-film-choc-sur-les-feminicides-qui-chamboule-l-italie-20261118",
+     "resume": "Trois ans après l’assassinat de l’étudiante Giulia Cecchettin par son ex-petit ami, Se domani non torno raconte ce féminicide à travers le combat du père de la victime contre les violences faites aux femmes. Avec plus de 300 000 entrées en deux semaines, le…",
+     "date": "2026-11-18T13:31:40+01:00",
+     "source": "",
+     "image": "https://i.la-croix.com/x/2026/11/18/2591624-realise-par-paola-randi-le-film-se-domani-non-torn.jpeg"
+    },
+    {
+     "titre": "« Il y a une place pour les chansons qui ne prennent pas les enfants pour des bébés »",
+     "lien": "https://www.la-croix.com/a-vif/il-y-a-une-place-pour-les-chansons-qui-ne-prennent-pas-les-enfants-pour-des-bebes-20261118",
+     "resume": "Entre comptines éducatives et tubes pour adultes, un vide musical persiste pour les enfants. François Welgryn, parolier et président du label InTenSe, plaide pour une création jeunesse qui respecte la sensibilité des 4-14 ans.",
+     "date": "2026-11-18T13:14:38+01:00",
+     "source": "",
+     "image": "https://i.la-croix.com/x/2026/11/18/2592293-92-des-enfants-ages-de-4-a-14-ans-ecoutent-de-la-m.jpg"
+    },
+    {
+     "titre": "Mouvement lycéen : 3 000 conseils de discipline entre septembre et début novembre",
+     "lien": "https://www.la-croix.com/societe/mouvement-lyceen-3-000-conseils-de-discipline-entre-septembre-et-debut-novembre-20261118",
+     "resume": "Le ministre de l’éducation nationale Édouard Geffray a révélé mercredi 18 novembre que 3 000 conseils de discipline ont eu lieu depuis septembre, liés au mouvement lycéen. Plus de 1 000 plaintes pénales ont également été déposées.",
+     "date": "2026-11-18T12:32:31+01:00",
+     "source": "",
+     "image": "https://i.la-croix.com/x/2026/11/18/2592348-environ-3-000-conseils-de-disciplines-ont-eu-lieu-.jpg"
+    },
+    {
+     "titre": "Présidentielle 2027 : ce que proposent les candidats sur la guerre en Ukraine",
+     "lien": "https://www.la-croix.com/politique/presidentielle-2027-ce-que-proposent-les-candidats-sur-la-guerre-en-ukraine-20261118",
+     "resume": "La rencontre entre Marine Le Pen et l’ambassadeur d’Ukraine en France, lundi 16 novembre 2026, illustre la montée en puissance de la question ukrainienne dans le débat politique, à l’approche de l’élection présidentielle. Un sujet sur lequel les candidats…",
+     "date": "2026-11-18T12:17:33+01:00",
+     "source": "",
+     "image": "https://i.la-croix.com/x/2026/11/18/2591929-des-candidats-a-l-election-presidentielle-dont-rap.jpg"
+    }
+   ],
+   "flux_utilise": "https://www.la-croix.com/feeds/rss/site.xml"
+  },
+  {
+   "id": "equipe",
+   "nom": "L'Équipe",
+   "couleur": "#e2001a",
+   "une": {
+    "fichier": "unes/equipe.jpg",
+    "date": "2026-11-18",
+    "source": "https://img.kiosko.net/2026/11/18/fr/l_equip.750.jpg"
+   },
+   "articles": [
+    {
+     "titre": "GTA VI, ou comment une franchise culte est devenue aussi un jeu de sports",
+     "lien": "https://www.lequipe.fr/Jeuxvideo/Article/-la-panoplie-de-sports-est-assez-folle-dans-gta-vi-les-sports-vont-envahir-vice-city/1743997#at_medium=RSS_feeds",
+     "resume": "",
+     "date": "2026-11-18T13:38:00+01:00",
+     "source": "",
+     "image": "https://medias.lequipe.fr/img-photo-png/-/1500000000833469/0-828-552-75/0cb67.png"
+    },
+    {
+     "titre": "1h36' sur le court mais 10 minutes de temps de jeu effectif : le match express entre Alexander Zverev et Ben Shelton aux Finales ATP",
+     "lien": "https://www.lequipe.fr/Tennis/Actualites/1h36-sur-le-court-mais-10-minutes-de-temps-de-jeu-effectif-le-match-express-entre-alexander-zverev-et-ben-shelton-aux-finales-atp/1744427#at_medium=RSS_feeds",
+     "resume": "Opposés mardi soir aux Finales ATP, Alexander Zverev et Ben Shelton ont passé très peu de temps à disputer des échanges. L'Allemand - vainqueur - et l'Américain ont surtout joué des points très courts et fait des aces.",
+     "date": "2026-11-18T13:27:08+01:00",
+     "source": "",
+     "image": "https://medias.lequipe.fr/img-photo-jpg/ben-shelton-a-gauche-a-ete-battu-par-alexander-zverev-a-droite-mardi-soir-f-faugere-l-equipe/1500000002653444/183:151,1809:1235-828-552-75/4bbd7.jpg"
+    },
+    {
+     "titre": "Bielle-Biarrey et Gros ménagés à l'entraînement, le reste de la compo du XV de France face à l'Argentine se confirme",
+     "lien": "https://www.lequipe.fr/Rugby/Actualites/Bielle-biarrey-et-gros-menages-a-l-entrainement-le-reste-de-la-compo-du-xv-de-france-face-a-l-argentine-se-confirme/1744426#at_medium=RSS_feeds",
+     "resume": "Alors que Louis Bielle-Biarrey et Jean-Baptiste Gros ont été ménagés, l'entraînement de ce mercredi a confirmé le reste de la composition d'équipe pour la réception de l'Argentine samedi (21h10).",
+     "date": "2026-11-18T13:22:29+01:00",
+     "source": "",
+     "image": "https://medias.lequipe.fr/img-photo-jpg/louis-bielle-biarrey-lors-d-un-entrainement-de-l-equipe-de-france-a-mounic-l-equipe/1500000002653442/0:0,1999:1332-828-552-75/5cf10.jpg"
+    },
+    {
+     "titre": "Blanchi, Sam Prendergast est autorisé à défier l'Afrique du Sud avec l'Irlande dans le Championnat des nations",
+     "lien": "https://www.lequipe.fr/Rugby/Actualites/Blanchi-sam-prendergast-est-autorise-a-defier-l-afrique-du-sud-avec-l-irlande-dans-le-championnat-des-nations/1744425#at_medium=RSS_feeds",
+     "resume": "Cité après un plaquage dangereux dit « pivotant » contre les Fidji, Sam Prendergast n'a pas été suspendu. L'ouvreur pourra être aligné pour le match entre l'Irlande et l'Afrique du Sud samedi (17h40)",
+     "date": "2026-11-18T13:21:32+01:00",
+     "source": "",
+     "image": "https://medias.lequipe.fr/img-photo-png/-/1500000000833469/0-828-552-75/0cb67.png"
+    },
+    {
+     "titre": "Quelle eSIM choisir pour voyager ?",
+     "lien": "https://www.lequipe.fr/Guide-d-achat/High-tech-multimedia/Actualites/Quelle-esim-choisir-pour-voyager-en-2026-le-comparatif-complet/1722378#at_medium=RSS_feeds",
+     "resume": "",
+     "date": "2026-11-18T13:00:00+01:00",
+     "source": "",
+     "image": "https://medias.lequipe.fr/img-photo-png/-/1500000000833469/0-828-552-75/0cb67.png"
+    },
+    {
+     "titre": "Diallo et Infantino, deux opposants qui se ressemblent tant",
+     "lien": "https://www.lequipe.fr/Football/Article/Philippe-diallo-et-gianni-infantino-concurrents-pour-la-presidence-de-la-fifa-deux-profils-totalement-identiques-propulses-sur-le-devant-de-la-scene-sur-un-concours-de-circonstances/1744329#at_medium=RSS_feeds",
+     "resume": "",
+     "date": "2026-11-18T12:38:00+01:00",
+     "source": "",
+     "image": "https://medias.lequipe.fr/img-photo-png/-/1500000000833469/0-828-552-75/0cb67.png"
+    }
+   ],
+   "flux_utilise": "https://dwh.lequipe.fr/api/edito/rss?path=/"
+  }
+ ],
+ "sections": [
+  {
+   "id": "monde",
+   "titre": "Actualité principale",
+   "sous_titre": "Les informations les plus importantes, partout dans le monde",
+   "items": [
+    {
+     "titre": "Donald Trump est arrivé en Chine, avant un sommet tripartite inédit avec Xi Jinping et Vladimir Poutine",
+     "lien": "https://www.lemonde.fr/international/article/2026/11/18/donald-trump-est-arrive-en-chine-avant-un-sommet-tripartite-inedit-avec-xi-jinping-et-vladimir-poutine_6813120_3210.html",
+     "resume": "Le président américain, arrivé à Shenzhen mercredi après-midi, a été devancé par M. Poutine, arrivé dans la nuit de mardi à mercredi. Leur réunion, à l’agenda obscur, doit se tenir jeudi.",
+     "date": "2026-11-18T12:30:36+01:00",
+     "source": "lemonde.fr",
+     "image": "https://img.lemde.fr/2026/11/18/1197/0/7658/3829/644/322/60/0/b807fc0_ftp-1-nxnziiqedxl2-afp-d7up9kp.jpg",
+     "reprises": 9,
+     "score": 30.86
+    },
+    {
+     "titre": "L’Iran attaque des cibles à Bahreïn et au Koweït après un bombardement américain sur l’île de Qechm",
+     "lien": "https://www.lemonde.fr/international/article/2026/11/18/bahrein-et-koweit-cibles-par-des-attaques-de-drones-iraniens_6813084_3210.html",
+     "resume": "Ces attaques avec des « drones de combat et des drones kamikazes », selon Téhéran, ont eu lieu après les frappes de l’armée américaine, qui ont dit avoir visé un site de missiles sur l’île iranienne de Qechm.",
+     "date": "2026-11-18T07:57:46+01:00",
+     "source": "lemonde.fr",
+     "image": "https://img.lemde.fr/2026/11/02/250/0/3000/1500/644/322/60/0/9317d25_ftp-1-k1vv0fybxq7n-5643d9e4d8294b9795885d64a062ba42-1-47a35b7da52749dfb4a66a36b6167327.jpg",
+     "reprises": 9,
+     "score": 19.4
+    },
+    {
+     "titre": "La Commission européenne propose un nouveau prêt de 45 milliards d'euros à l'Ukraine",
+     "lien": "https://www.france24.com/fr/europe/20261118-commission-europ%C3%A9enne-propose-nouveau-pr%C3%AAt-45-milliards-euros-ukraine",
+     "resume": "La Commission européenne va proposer aux États membres de l'UE d'accorder un nouveau prêt de 45 milliards d'euros à Kiev, a annoncé mercredi Ursula von der Leyen. \"Nous pensons que c'est la meilleure façon de donner à l'Ukraine une position de force à la…",
+     "date": "2026-11-18T12:07:51+01:00",
+     "source": "© Yves Herman, Reuters",
+     "image": "https://s.france24.com/media/display/f5199c72-e338-11f1-83de-c5c0357b2a0c/w:1024/p:16x9/2026-11-18T100455Z-260316918-RC29QOAC9KFB-RTRMADP-3-UKRAINE-CRISIS-EU-LOAN.jpg",
+     "reprises": 6,
+     "score": 12.73
+    },
+    {
+     "titre": "Midterms 2026 : les démocrates remportent l’élection en Alaska et parachèvent le basculement du Sénat américain",
+     "lien": "https://www.lemonde.fr/international/article/2026/11/18/midterms-2026-malgre-la-polemique-les-democrates-s-imposent-en-alaska-et-parachevent-le-basculement-du-senat-americain_6813069_3210.html",
+     "resume": "La victoire de Mary Peltola permet au Parti démocrate de disposer de 56 élus contre 44 républicains à la Chambre haute.",
+     "date": "2026-11-18T05:56:29+01:00",
+     "source": "lemonde.fr",
+     "image": "https://img.lemde.fr/2026/11/18/536/0/4800/2400/644/322/60/0/6d8105f_ftp-1-y51ovygikbaz-afp-d7tv8cq.jpg",
+     "reprises": 5,
+     "score": 9.64
+    },
+    {
+     "titre": "Guerre en Ukraine : un haut dirigeant du Pentagone critique les frappes en Russie",
+     "lien": "https://www.france24.com/fr/vid%C3%A9o/20261118-guerre-en-ukraine-un-haut-dirigeant-du-pentagone-critique-les-frappes-en-russie",
+     "resume": "Le secrétaire adjoint américain à la Défense Elbridge Colby a critiqué mardi 17 novembre devant les alliés de Kiev, réunis au siège de l'Otan à Bruxelles, les frappes en profondeur de l'Ukraine contre la Russie, les jugeant source d'\"escalade\". L'Allemagne a…",
+     "date": "2026-11-18T11:34:29+01:00",
+     "source": "france24.com",
+     "image": "https://s.france24.com/media/display/3cddbf34-e334-11f1-867e-c5c0357b2a0c/w:1024/p:16x9/FR-20261118-090554-090730-CS.jpg",
+     "reprises": 3,
+     "score": 7.44
+    },
+    {
+     "titre": "Aux Etats-Unis, des pannes en cascade rappellent la vulnérabilité des infrastructures américaines, accrue par l’IA",
+     "lien": "https://www.lemonde.fr/economie/article/2026/11/18/aux-etats-unis-des-pannes-en-cascade-soulignent-la-vulnerabilite-des-infrastructures-americaines-accrue-par-l-ia_6813123_3234.html",
+     "resume": "De Microsoft à la NSA en passant par la banque J.P. Morgan et le système de communication aérien, de nombreuses structures – et des millions d’Américains – ont été affectés, depuis jeudi 12 novembre, par une série de défaillances. A priori sans lien, elles…",
+     "date": "2026-11-18T13:00:06+01:00",
+     "source": "lemonde.fr",
+     "image": "https://img.lemde.fr/2026/11/14/103/0/5248/2624/644/322/60/0/b0f1138_ftp-1-kpp2nxxxj18e-b127c6f7e7444ec78e76a533664d2aeb-2-e562df7ead9d47748d53b884fc0fe5fa.jpg",
+     "reprises": 3,
+     "score": 5.35
+    }
+   ],
+   "a_traduire": []
+  },
+  {
+   "id": "ia",
+   "titre": "Intelligence artificielle",
+   "sous_titre": "Modèles, entreprises, régulation, recherche",
+   "items": [
+    {
+     "titre": "Aujourd'hui l'économie - L'entrée en bourse d'Anthropic teste pour la première fois le cœur de l'intelligence artificielle",
+     "lien": "https://news.google.com/rss/articles/CBMijAJBVV95cUxNQTlJOVo5OExabDE2Sk85SWNGd0QxSEhQbGluR2t0akVNWU5oUGdfd1cxel9kdTNFdGtURDVMRjNZTU10MXpRaUVTcXNvVkNucnYxZUI1SFBJNGxBODhCVC0xMGRSWXlUMG9laExnODJNVndxR3JmdnZQZy1tYlMwN3RYWUNiY2pYQ05uR2dHT2g3Y2RlbHh4WUtwakhMbzVqcDJnZlNKZEo3MjgyLUs1UjRHVWdOeExFMWotTm9DRFJRQlBlX0NUTjZNNWFuQUdXQ1Vsa0pua2U4Ym93eUF0NnpFOHhOdzBJWk55ZjhlUkhKQ2RhRml2T3JUd0NMWU16c3RtTE9QMzI0Vno0?oc=5",
+     "resume": "",
+     "date": "2026-11-18T13:27:50+01:00",
+     "source": "RFI",
+     "image": null,
+     "reprises": 9,
+     "score": 20.87
+    },
+    {
+     "titre": "GPT-6.2 Astra et Sol : OpenAI lance ses nouveaux meilleurs modèles la veille de l'IPO d’Anthropic",
+     "lien": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPdWNuUmhVYXZVQzk2QS1NY1M3OUI2NnVBVkJ1SVR6WlkzQm5LaWU1dVo3YUNnT3p6ZXVsTTYzWmhpY3VBbmNPbXlWVzJQN0pYaWFjU3hpZG02T1ZKZm5qWkpJLXJCdmRmTENuajEzVnZrRjlOdHkwb01tV3prM01tVXoyZDFIeGQ4V3g4TkdJYzFQeEpad0s0enZhdUxxTFBpTkEyZFUzaXFOZUdWUFpzSnJlbURJdE1nejhUcWNhNUtFV3Jqbm4tdUFsUG9CXzZWQ2c?oc=5",
+     "resume": "OpenAI lance GPT-6.2 Astra et GPT-6.2 Sol, deux modèles plus performants et plus économes en tokens que leurs prédécesseurs. OpenAI compare ouvertement Astra à Claude Fable 5.2, alors que ses nouveautés arrivent le jour où Anthropic fixe le prix de son…",
+     "date": "2026-11-18T11:17:10+01:00",
+     "source": "Numerama",
+     "image": null,
+     "reprises": 6,
+     "score": 11.41
+    },
+    {
+     "titre": "« Le Figaro » signe, à son tour, un accord avec OpenAI",
+     "lien": "https://news.google.com/rss/articles/CBMiugFBVV95cUxONm5pZUxqTG5lY1FrM1g3elFDeVREbnExQkpoTWJVdU0yNGN6X0hNUWhoZHV4d01FenVBOVhQTnRsYTRKNEZobWlWcGlfRTljR1lkeTJOUEJZamV5SVRMX2hZRG5HUXhkLWM1eXN0b3g0ZXh4XzljdkxXcjRnSDRHZWJLU3dZb2J0M2VManhCYWtGRmdaS0dsYVRRMDAyRFVBNlBmMHRwNHlHVTZ5WmJGbnZEc3BuaHpkSWc?oc=5",
+     "resume": "",
+     "date": "2026-11-18T10:58:38+01:00",
+     "source": "Le Monde.fr",
+     "image": null,
+     "reprises": 3,
+     "score": 5.32
+    },
+    {
+     "titre": "Bourse Zurich: le SMI louvoie entre Nvidia et Anthropic",
+     "lien": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNRWd5dVJsZEN2dG91RkxNNVFRS1pSM3dqTFFlSVlZR2k4cDVYQ1NUUTk3bVBmbGZXTldqNjVtbDRsb1NHTy1lUDM5UG9hQ3JDS3QxQlR2N21hSENCZlJhWjRiS1FENTduMGFrbjRWa2lJRy1vbDNENEhHZ2JOVWRmTk5Lb0dpcTIzVHBHWW9FMlFqUUw2a09wMGd2c2RvZGc5eTJVU2U0dGZ5aVl3MTg3YlJuWTNIdw?oc=5",
+     "resume": "",
+     "date": "2026-11-18T11:31:45+01:00",
+     "source": "Zonebourse",
+     "image": null,
+     "reprises": 1,
+     "score": 4.75
+    },
+    {
+     "titre": "L'IA trouve les failles vraiment trop vite : Anthropic et Google sonnent la fin des 90 jours de grâce avant la divulgation",
+     "lien": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxOc3BEN2w0aXlUQ3h2bHIyY1NwTTVEaTRVU1A0QWt5bW40RHhaV0U3TkZnWW9xbEJjMjNlVnBjNVhfb1hzN1AzaTJFeXc2dWR4RHdVcXo3ZmVMTXdEMFcxSmJkRmY2M3RRUVo4VDRCV2dHOHZzblRkdjRvQzlNVTdScXJDMXFnbDVJdnBQaUdxUG14Zm50TkU5Z3A1LUhTNWxMTEZMWi0zblFzZWxWb2tyVnZZNnQtYXdOdmZ5SEEwbTdwNGdzM1g1eXZSTmlEMms5MGpYVWlEdnU0SUNUbnkwNU5IaW11SGpLTk1qQUlBTkJMSUdY?oc=5",
+     "resume": "Anthropic ne laissera plus que 30 jours aux éditeurs pour corriger les failles graves qu'elle leur signale, contre 90 jusqu'ici. Trois jours plus tôt, Google Project Zero avait annoncé une baisse comparable, mais plus progressive.",
+     "date": "2026-11-18T14:01:00+01:00",
+     "source": "Numerama",
+     "image": null,
+     "reprises": 2,
+     "score": 3.69
+    }
+   ],
+   "a_traduire": [
+    {
+     "titre": "Jensen Huang says he’s willing to return as Nvidia CEO",
+     "lien": "https://www.theverge.com/tech/1035420/jensen-huang-nvidia-return-as-ceo-statement",
+     "resume": "Jensen Huang, who resigned as Nvidia's CEO last week, would be willing to return as CEO if the company's board of directors wanted it, he said in a statement reported on by The Wall Street Journal. \"Since my departure, I've seen an outpouring of calls from…",
+     "date": "2026-11-17T17:09:57+01:00",
+     "source": "theverge.com",
+     "image": null,
+     "reprises": 2,
+     "score": 7.53
+    },
+    {
+     "titre": "Nvidia clarifies when it will — and won’t —keep financing neoclouds",
+     "lien": "https://techcrunch.com/2026/11/18/nvidia-clarifies-when-it-will-and-wont-keep-financing-neoclouds/",
+     "resume": "If Nvidia is backstopping a data center loan, it won't be on the hook unless the neocould has independent financing and gets the facility built, with Nvidia gear installed, interim CEO Colette Kress explained.",
+     "date": "2026-11-18T14:00:00+01:00",
+     "source": "techcrunch.com",
+     "image": null,
+     "reprises": 1,
+     "score": 4.04
+    },
+    {
+     "titre": "Nvidia is abandoning China after Jensen Huang’s ouster",
+     "lien": "https://techcrunch.com/2026/11/17/nvidia-is-abandoning-china-after-jensen-huangs-ouster/",
+     "resume": "Nvidia's interim CEO says the company is done selling chips to China. How much will that cost?",
+     "date": "2026-11-18T00:37:48+01:00",
+     "source": "techcrunch.com",
+     "image": null,
+     "reprises": 1,
+     "score": 1.14
+    },
+    {
+     "titre": "Amazon and Google will together own nearly 30% of Anthropic after its IPO",
+     "lien": "https://techcrunch.com/2026/11/17/amazon-and-google-will-together-own-nearly-30-of-anthropic-after-its-ipo/",
+     "resume": "Amazon will own just under 15% of Anthropic after the IPO, with the option to go much higher. Google is a close second with holdings of nearly 14%.",
+     "date": "2026-11-17T23:29:05+01:00",
+     "source": "techcrunch.com",
+     "image": null,
+     "reprises": 1,
+     "score": 0.92
+    },
+    {
+     "titre": "Google expands access to Gemini Tasks, which can help with calls, purchases",
+     "lien": "https://techcrunch.com/2026/11/17/google-expands-access-to-gemini-tasks-which-can-help-with-calls-purchases/",
+     "resume": "Gemini's Task mode can help users coordinate calls, log into websites, and even make purchases on the user's behalf.",
+     "date": "2026-11-17T20:02:20+01:00",
+     "source": "techcrunch.com",
+     "image": null,
+     "reprises": 1,
+     "score": 0.82
+    }
+   ]
+  },
+  {
+   "id": "droit",
+   "titre": "Actualité juridique",
+   "sous_titre": "Libertés fondamentales, grandes juridictions, culture juridique pour le CRFPA",
+   "items": [
+    {
+     "titre": "Défiance : une majorité de Français ne fait pas confiance au Conseil constitutionnel",
+     "lien": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQSDd5eXhBeGY3cUY5bnFiaFVwUGtYUFRCbno2cHpqUVdBVVpKMFVFdS0yUElRNlRKS2FtRWo0aF9kdmdoN0VXaWsyLWlobXNwa3ZWS0hFT0R0NUFPTWFFdXdRQjNORzhjZG5oSXQ4T0FIeGk1RWNkeTVHX09ReGdyQXVsYW1BT2ptaXVrWGhkcTZ3RUJkMGNZQXZDdUJnZUl4YUVESnpyV3MxZXgtcEgyS1ZMdk9aYzNMd0VKUA?oc=5",
+     "resume": "",
+     "date": "2026-11-16T15:25:57+01:00",
+     "source": "lejdd.fr",
+     "image": null,
+     "reprises": 3,
+     "score": 5.68,
+     "libertes": true
+    },
+    {
+     "titre": "Pétition sur la suppression de CNews : un débat sur la liberté d’expression et les médias prévu à l’Assemblée",
+     "lien": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxNbWpCQ1liaGJhT3ZmZTltdlk5dGxEU1hfT0hWVmVkWVJmeG5iSVVSSTYzOVc5Z1JYd1VDTEJkaEI1blVPNDBDVktuYkdMV184SjVISlg0cFJTcnM3cy1TMXFtTVlmZllEaVlBQm5uVnBjZlVOVENEZW1GTUVndUtLSUdmM1pEb1dDUjNLZGNlVGpDaEYxMExlQ1BDakV4OTVxM05nVFF4OHp2SXY4WWFCR3dacnFveVFveTgyNFFOUEtNRUlBM0FtdHplaVM3UFVnN2FDVGZmQmxILW9Yb280WnNxV2FfMHpGdkE?oc=5",
+     "resume": "",
+     "date": "2026-11-17T17:42:01+01:00",
+     "source": "Télérama",
+     "image": null,
+     "reprises": 3,
+     "score": 4.99,
+     "libertes": true
+    },
+    {
+     "titre": "Fuligule milouin : le Conseil d’État maintient la chasse, une décision très satisfaisante pour la FNC",
+     "lien": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxQVnNWTncxZFRlYmZUY3N6X0JCOXpuNWNoV0tYOUlxS1llME9XVFdEOVdFa2NxWU1yWnZ1bnI3cm5QUlRmcV9rNkVSTXpEbjNUel9zbUpwbTBvekVLX2NwaGl2dmF1QndETWVRNHE3cWFMRUFpanF2cGJhMy0yRVN1MUxXMndYSG95eU5zRUdsZ2tsRDBPcVFPT0IyUnhDVTh5R1pYMUNhNWRSZnNEZEFld1IxbVFBLVBmc1NSNEtTZkJ5TmkxbmRMb05VX2Ytb2NKblFFM251SXp5eGpU?oc=5",
+     "resume": "",
+     "date": "2026-11-16T19:19:03+01:00",
+     "source": "Fédération Nationale des Chasseurs",
+     "image": null,
+     "reprises": 3,
+     "score": 4.69,
+     "libertes": false
+    },
+    {
+     "titre": "La HCCJ a rejeté la demande de Cristi Dănileț visant à annuler la sanction disciplinaire, bien que la CEDH lui ait donné raison dans l’affaire concernant la liberté d’expression",
+     "lien": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNZTJvc2ZDUkhFZ2NYN05DLWhyNTVEYmxwajVfblZ2MG5WNktXOXdMUmJMZ0RGS1RXVlBDWklYN0hqeTV2VkFKVHo3czdxNTRLZjhmRGZHdkZCb0syX3ZuMXFBZ21nOUlSNEUteUNuZkYtdFB5YW5rYnNoWUpNbUFjV2ZmUE10VkVRNEExemg1MU9TUWNzNExjYU5MbVQ1QkxqRG5Pb3JNQVM3NVNhcXZsb0Q3VVpadWpzc21kc3hKTnRPVkRUS1NBbUVB?oc=5",
+     "resume": "",
+     "date": "2026-11-16T13:35:20+01:00",
+     "source": "Informat.ro",
+     "image": null,
+     "reprises": 1,
+     "score": 2.89,
+     "libertes": true
+    },
+    {
+     "titre": "La liberté d’expression ne saurait justifier les atteintes aux figures emblématiques de la nation (Grand Imam d’Al-Azhar)",
+     "lien": "https://news.google.com/rss/articles/CBMimwJBVV95cUxQNWQwN1RsWGZBS1phaTg5Sm5xeEtsUndwN0RqNG9IX1d6Yk01WWF5TW01eWFlVTVqNFI5MmZaSVJyWUdtZXNOVzFLMGQwSkh6Si03UXdkcmdMdjNPSHBORTNwNFFwYVZ1QlhKcHFXNnY1M1BFV3N5MF8ySnEtRk84R055R1dFRFNrV1g1Nmt1amhFX042QlRZWVFYSXhvYVlMZmw4NThWQ0hvR2dOTktnTHVseHp0TjA0SEdsQS1rVUY1Q2haTnVsNFpucDAtb01YUmZTclMybDVINE9CNTRGUG9MWjFuSktrZDdsVzF6ZzdKVmpjZ3hPcDEyQ1FibU9CZFlqYW5iRVg4ZEtfbjh2Znp0SURwT3ozZHhn?oc=5",
+     "resume": "",
+     "date": "2026-11-18T12:40:37+01:00",
+     "source": "الهيئة العامة للاستعلامات",
+     "image": null,
+     "reprises": 2,
+     "score": 2.88,
+     "libertes": true
+    },
+    {
+     "titre": "Annulation de l’élection à Couëron : le maire, Axel Casenave, fait appel devant le Conseil d’État, annonce son avocat",
+     "lien": "https://news.google.com/rss/articles/CBMiowJBVV95cUxOeG9tRkhhM3FnUzB3RUMwQ1IycjQxNlB2RV9QRHFiNjNwTWNuc3pzR0gzdlpOZGE2T2p1WExwSndDNmdORFFiTEVtdzNtVWtFekNBWTJXeVUxdjNnVl9INGVzUzNzdHZDbXUzZ2dlYUhXMl8zN3RtMXE3STQ5R0szWHNkQkpTUzlldjVpYnc2aDBNdE5Gd3FaTnMxRnpGRHVmOHdONGhyQTBiOXJucmwwV0JtTlliYkJteG94U3k0ZE95WFNrM2Rra0t2NzhIbUxEc0VsSkxSMkxhMTc0VGplNHN2SW5HYm8tRnlJeUZjYUduQ2FZR3luOVJrMVdheEdDMFEtdVVBdE5LOWozM05qdXpuRFhjSzc0WUtuZG43SjJlZ28?oc=5",
+     "resume": "",
+     "date": "2026-11-17T17:57:03+01:00",
+     "source": "Ouest-France",
+     "image": null,
+     "reprises": 2,
+     "score": 2.75,
+     "libertes": false
+    }
+   ],
+   "a_traduire": []
+  }
+ ]
+}
