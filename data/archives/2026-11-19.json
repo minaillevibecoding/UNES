@@ -1,0 +1,503 @@
+{
+ "date": "2026-11-19",
+ "genere": "2026-11-19T14:52+01:00",
+ "journaux": [
+  {
+   "id": "figaro",
+   "nom": "Le Figaro",
+   "couleur": "#163860",
+   "une": {
+    "fichier": "unes/figaro.jpg",
+    "date": "2026-11-19",
+    "source": "https://static.milibris.com/thumbnail/issue/ecf32bb9-1eab-411c-8f24-ab1a60431076/front/catalog-cover-large.jpeg"
+   },
+   "articles": [
+    {
+     "titre": "À Shenzhen, Xi Jinping s’affiche en pilier d’un nouvel ordre mondial en tutoyant Trump et en ménageant Poutine",
+     "lien": "https://www.lefigaro.fr/international/a-shenzhen-xi-jinping-s-affiche-en-pilier-d-un-nouvel-ordre-mondial-en-tutoyant-trump-et-en-menageant-poutine-20261119",
+     "resume": "RÉCIT - À l’issue de leur rencontre ce jeudi, les présidents chinois, américain et russe ont assuré s’engager en faveur de la «paix», avec le maintien de la «stabilité stratégique», et contre la «guerre nucléaire», sans engagements contraignants.",
+     "date": "2026-11-19T14:35:49+01:00",
+     "source": "",
+     "image": "https://i.f1g.fr/media/cms/2850x1603_crop/2026/11/19/e8592373b3c3806271bfd9d8473aebff0aadef2b24402d3f6aac0786e77281a3.jpg"
+    },
+    {
+     "titre": "Jean-François Colosimo : « Lire Carl Schmitt pour comprendre le sommet Xi-Trump-Poutine »",
+     "lien": "https://www.lefigaro.fr/vox/monde/jean-francois-colosimo-lire-carl-schmitt-pour-comprendre-le-sommet-xi-trump-poutine-20261119",
+     "resume": "TRIBUNE - Le sommet de Shenzhen doit se décrypter à l’aune des écrits du juriste allemand que lisent assidûment les conseillers de Xi Jinping, Donald Trump et Vladimir Poutine. Ces derniers prônent la fin de l’universalisme au profit d’une planète partagée…",
+     "date": "2026-11-19T14:21:23+01:00",
+     "source": "",
+     "image": "https://i.f1g.fr/media/cms/3000x2000_crop/2026/11/19/710c741e6bdcd5ff9323d51915f139855199ec9ff1ffd3a463e87197cd276ad7.jpg"
+    },
+    {
+     "titre": "EN DIRECT - Sommet de Shenzhen : la Chine, les États-Unis et la Russie adoptent une «déclaration de paix», Poutine dit avoir invité «des Européens» à Moscou",
+     "lien": "https://www.lefigaro.fr/international/en-direct-a-shenzhen-donald-trump-xi-jinping-et-vladimir-poutine-se-retrouvent-pour-un-face-a-face-inedit-20261119",
+     "resume": "Donald Trump, Vladimir Poutine et Xi Jinping se sont réunis ce jeudi en Chine pour un sommet inédit qui fait craindre, dans une période de crises multiples, des arrangements entre grandes puissances aux dépens d’autres acteurs internationaux comme l’Ukraine.",
+     "date": "2026-11-19T14:42:02+01:00",
+     "source": "",
+     "image": "https://i.f1g.fr/media/cms/3000x2026_crop/2026/11/19/7dc52412b9242b5baa4c9cb063b42c215e468e8692536715302f23f36d343f73.jpg"
+    },
+    {
+     "titre": "Pensez-vous que le sommet de Shenzhen, Xi Jinping, Donald Trump et Vladimir Poutine, est une bonne chose pour la stabilité du monde ?",
+     "lien": "https://www.lefigaro.fr/international/pensez-vous-que-le-sommet-de-shenzhen-xi-jinping-donald-trump-et-vladimir-poutine-est-une-bonne-chose-pour-la-stabilite-du-monde-20261119",
+     "resume": "",
+     "date": "2026-11-19T10:59:21+01:00",
+     "source": "",
+     "image": null
+    },
+    {
+     "titre": "EN DIRECT - Présidentielle 2027 : les socialistes vont proposer à l’Assemblée la régularisation de centaines de milliers de sans-papiers, une mesure de Glucksmann",
+     "lien": "https://www.lefigaro.fr/elections/presidentielles/en-direct-presidentielle-2027-c-est-une-bonne-nouvelle-faisons-le-repond-lfi-a-marine-tondelier-prete-a-une-coalition-autour-de-melenchon-20261119",
+     "resume": "Déçu de la «clarification» opérée par Marine Tondelier en faveur de Jean-Luc Mélenchon, Raphaël Glucksmann en a appelé jeudi à «la tradition profondément pro-européenne» des électeurs écologistes.",
+     "date": "2026-11-19T14:33:02+01:00",
+     "source": "",
+     "image": "https://i.f1g.fr/media/cms/3000x2000_crop/2026/11/19/4895578d70e9cea6f3981ac662fcbf4eb568d0020a00a2f02c0c1ad2339ae061.jpg"
+    },
+    {
+     "titre": "«Édouard Philippe est dérouté, donc il est déroutant» : les indiscrétions du Figaro Magazine",
+     "lien": "https://www.lefigaro.fr/elections/presidentielles/edouard-philippe-est-deroute-donc-il-est-deroutant-les-indiscretions-du-figaro-magazine-20261119",
+     "resume": "CHRONIQUE - Petites phrases et coulisses de la semaine politique.",
+     "date": "2026-11-19T11:00:00+01:00",
+     "source": "",
+     "image": "https://i.f1g.fr/media/cms/3000x2001_crop/2026/11/18/c126f0c88d9ed3114579165ace8ecfe5a727b7057480c1980accdfa67d84bdc8.jpg"
+    }
+   ],
+   "flux_utilise": "https://www.lefigaro.fr/rss/figaro_actualites.xml"
+  },
+  {
+   "id": "monde",
+   "nom": "Le Monde",
+   "couleur": "#111111",
+   "une": {
+    "fichier": "unes/monde.webp",
+    "date": "2026-11-19",
+    "source": "https://www.frontpages.com/t/2026/11/18/le-monde-183024qo1@2x.webp"
+   },
+   "articles": [
+    {
+     "titre": "Ce qu’il faut retenir des déclarations de Donald Trump, Xi Jinping et Vladimir Poutine lors de leur rencontre historique à Shenzhen",
+     "lien": "https://www.lemonde.fr/international/article/2026/11/19/ce-qu-il-faut-retenir-des-declarations-de-donald-trump-xi-jinping-et-vladimir-poutine-lors-de-leur-rencontre-historique-a-shenzhen_6813287_3210.html",
+     "resume": "Les trois dirigeants ont évoqué différents sujets, parmi lesquels la paix mondiale, la guerre en Ukraine, les armes nucléaires, mais aussi l’intelligence artificielle.",
+     "date": "2026-11-19T12:34:17+01:00",
+     "source": "",
+     "image": "https://img.lemde.fr/2026/11/19/346/0/6262/3131/644/322/60/0/20b781a_ftp-1-tmhgw5n6wo8w-afp-d7y46cc.jpg"
+    },
+    {
+     "titre": "Présidentielle 2027 : une campagne « course à l’échalote » pour tenter de répondre aux colères françaises",
+     "lien": "https://www.lemonde.fr/politique/article/2026/11/19/presidentielle-2027-une-campagne-course-a-l-echalote-pour-tenter-de-repondre-aux-coleres-francaises_6813302_823448.html",
+     "resume": "Alors qu’une majorité de l’opinion se dit défiante à l’égard de l’Etat et revendique le divorce avec les élites, les candidats de la droite et du centre s’essayent à un registre plus populiste, tandis que Marine Le Pen poursuit sa stratégie de normalisation.",
+     "date": "2026-11-19T14:00:02+01:00",
+     "source": "",
+     "image": "https://img.lemde.fr/2026/09/26/867/0/6826/3413/644/322/60/0/c1cfe4b_upload-1-aewr6pwmxv1r-kzihnioglu-pol-concorde-pape-leon-xiv-26092026-41.jpg"
+    },
+    {
+     "titre": "« L’IA redessine les règles du jeu à une vitesse que nous n’avions jamais connue » : des responsables de la cybersécurité de l’Etat sonnent l’alarme",
+     "lien": "https://www.lemonde.fr/pixels/article/2026/11/19/l-ia-redessine-les-regles-du-jeu-a-une-vitesse-que-nous-n-avions-jamais-connue-des-responsables-de-la-cybersecurite-de-l-etat-sonnent-l-alarme_6813298_4408996.html",
+     "resume": "A Rennes, les plus hauts responsables français ont diffusé un message inédit sur les dangers de l’intelligence artificielle, alors que Sébastien Lecornu a convoqué jeudi une réunion interministérielle classifiée sur la cybersécurité.",
+     "date": "2026-11-19T13:30:07+01:00",
+     "source": "",
+     "image": "https://img.lemde.fr/2026/11/18/264/0/3172/1586/644/322/60/0/e6a0d7a_ftp-1-xhahxsmpl7lb-2026-11-18t142704z-158085383-rc2aqoagh65t-rtrmadp-3-france-cyber.JPG"
+    },
+    {
+     "titre": "La Birmanie a commis un génocide à l’encontre des Rohingya, minorité majoritairement musulmane, statue la Cour internationale de justice",
+     "lien": "https://www.lemonde.fr/international/article/2026/11/19/la-birmanie-a-commis-un-genocide-a-l-encontre-de-la-minorite-rohingya-statue-la-cour-internationale-de-justice_6813288_3210.html",
+     "resume": "Les violences avaient contraint des centaines de milliers de personnes à fuir leur foyer. Des témoignages ont fait état de viols collectifs, d’exécutions de masse et, de manière plus générale, d’une cruauté inimaginable.",
+     "date": "2026-11-19T12:42:12+01:00",
+     "source": "",
+     "image": "https://img.lemde.fr/2026/11/19/252/0/5262/2631/644/322/60/0/1d6fc3f_ftp-1-ngpl05qgyney-2026-11-19t091224z-1527449319-rc2xqoa1b9gy-rtrmadp-3-myanmar-rohingya-world-court.JPG"
+    },
+    {
+     "titre": "EN DIRECT, sortie de « GTA VI » : la subversion et la critique de l’Amérique en question",
+     "lien": "https://www.lemonde.fr/pixels/live/2026/11/19/en-direct-sortie-de-gta-vi-les-premieres-impressions-et-reactions_6813247_4408996.html",
+     "resume": "« Grand Theft Auto VI », le dernier titre du studio Rockstar Games, est accessible sur PlayStation 5 et Xbox Series. Suivez toute la journée les premières impressions des joueurs et du service « Pixels » du « Monde ».",
+     "date": "2026-11-19T08:00:05+01:00",
+     "source": "",
+     "image": "https://img.lemde.fr/2026/11/18/120/0/3840/1920/644/322/60/0/dd46fe1_upload-1-9yizswa1ross-vice-city-19-01ow62-xq-64i.jpg"
+    },
+    {
+     "titre": "Françoise Lebrun, actrice emblématique de « La Maman et la Putain », de Mai 68 au mouvement des lycéens de 2026",
+     "lien": "https://www.lemonde.fr/culture/article/2026/11/19/francoise-lebrun-actrice-emblematique-de-la-maman-et-la-putain-de-mai-68-au-mouvement-des-lyceens-de-2026_6813304_3246.html",
+     "resume": "La comédienne de 82 ans, à l’affiche de la série « Paolo », présente des films emblématiques de sa carrière au festival Entrevues de Belfort, qui se tient jusqu’au 22 novembre.",
+     "date": "2026-11-19T14:00:16+01:00",
+     "source": "",
+     "image": "https://img.lemde.fr/2026/11/19/242/0/3036/1518/644/322/60/0/d849c02_upload-1-1poabgmxl2p2-020-2281417736.jpg"
+    }
+   ],
+   "flux_utilise": "https://www.lemonde.fr/rss/une.xml"
+  },
+  {
+   "id": "croix",
+   "nom": "La Croix",
+   "couleur": "#c8102e",
+   "une": {
+    "fichier": "unes/croix.jpg",
+    "date": "2026-11-19",
+    "source": "https://img.kiosko.net/2026/11/19/fr/lacroix.750.jpg"
+   },
+   "articles": [
+    {
+     "titre": "Sommet inédit entre Trump, Poutine et Xi : Adieu Yalta, bonjour Shenzhen !",
+     "lien": "https://www.la-croix.com/international/sommet-inedit-entre-trump-poutine-et-xi-adieu-yalta-bonjour-shenzhen-20261119",
+     "resume": "Dans sa chronique DIPLO-FOCUS de cette semaine, Thomas Hofnung revient sur la rencontre trilatérale qui s’est tenue à Shenzhen, en Chine, jeudi 19 novembre. S’il n’en était pas l’initiateur, le président chinois Xi Jinping saura en tirer profit.",
+     "date": "2026-11-19T14:44:52+01:00",
+     "source": "",
+     "image": "https://i.la-croix.com/x/2026/04/09/24037932-thomas-hofnung-chef-de-service-monde-a-la-croix.jpg"
+    },
+    {
+     "titre": "Guerre en Ukraine : Poutine invite les Européens à Moscou ; Zelensky à Berlin avec ses alliés",
+     "lien": "https://www.la-croix.com/international/ukraine-russie-jour-1730-point-conflit-ukrainien-poutine-aujourdhui-20261119",
+     "resume": "Vladimir Poutine assure avoir invité les responsables européens à Moscou avant d’éventuelles négociations sur l’Ukraine. Xi Jinping et Donald Trump ont dit vouloir apporter leur « aide » pour mettre fin au conflit. Suivez l’actualité de la guerre en Ukraine…",
+     "date": "2026-11-19T14:34:07+01:00",
+     "source": "",
+     "image": "https://i.la-croix.com/x/2026/11/19/2593096-a-kramatorsk-en-ukraine-les-civils-doivent-travers.jpg"
+    },
+    {
+     "titre": "« Le Nouveau Rideau de fer », immersion dans une Europe qui refuse d’être dévorée par l’ogre russe",
+     "lien": "https://www.la-croix.com/international/le-nouveau-rideau-de-fer-immersion-dans-une-europe-qui-refuse-d-etre-devoree-par-logre-russe-20261119",
+     "resume": "Dans son livre Le Nouveau Rideau de fer, le journaliste Cyrille Louis invite le lecteur à sillonner les pays de la Norvège à la Pologne, en passant par les États baltes, qui suscitent la convoitise de la Russie et subissent ses opérations de déstabilisation.…",
+     "date": "2026-11-19T14:05:37+01:00",
+     "source": "",
+     "image": "https://i.la-croix.com/x/2026/11/19/2593426-des-soldats-norvegiens-patrouillent-a-kirkenes-a-l.jpg"
+    },
+    {
+     "titre": "Rohingyas : la Birmanie a commis un génocide, statue la CIJ",
+     "lien": "https://www.la-croix.com/international/rohingyas-la-birmanie-avait-l-intention-de-detruire-la-population-declare-la-cij-20261119",
+     "resume": "Près de 10 000 morts, des viols, des villages rasés : la CIJ a estimé jeudi 19 novembre que la Birmanie avait commis un génocide contre les Rohingyas en 2017. Un verdict historique, à la suite duquel la cour a déclaré que la Birmanie était tenue d’indemniser…",
+     "date": "2026-11-19T14:01:51+01:00",
+     "source": "",
+     "image": "https://i.la-croix.com/x/2026/11/19/2593419-le-representant-de-la-birmanie-ko-ko-hlaing-assist.jpg"
+    },
+    {
+     "titre": "Cybercriminalité : la Commission européenne a été la cible d’une attaque assistée par l’IA",
+     "lien": "https://www.la-croix.com/international/cybercriminalite-la-commission-europeenne-a-ete-la-cible-d-une-attaque-assistee-par-lia-20261119",
+     "resume": "La Commission européenne a annoncé jeudi 19 novembre avoir subi fin octobre une cyberattaque pilotée par l’IA via un outil chinois nommé Artex. Une enquête est ouverte.",
+     "date": "2026-11-19T13:49:52+01:00",
+     "source": "",
+     "image": "https://i.la-croix.com/x/2026/11/19/2593520-la-commission-europeenne-a-ete-la-cible-d-une-cybe.jpg"
+    },
+    {
+     "titre": "Violences urbaines du 17 octobre : France assureurs estime les coûts à 207 millions d’euros",
+     "lien": "https://www.la-croix.com/societe/violences-urbaines-du-17-octobre-france-assureurs-estime-les-couts-a-207-millions-d-euros-20261119",
+     "resume": "France Assureurs a publié jeudi 19 novembre un bilan des violences urbaines survenues en France les 17 et 18 octobre en marge des manifestations contre la vie chère et estime à 207 millions d’euros le préjudice financier pour 5 280 sinistres déclarés.",
+     "date": "2026-11-19T13:48:04+01:00",
+     "source": "",
+     "image": "https://i.la-croix.com/x/2026/11/19/2593546-la-federation-france-assureurs-estime-que-le-preju.jpg"
+    }
+   ],
+   "flux_utilise": "https://www.la-croix.com/feeds/rss/site.xml"
+  },
+  {
+   "id": "equipe",
+   "nom": "L'Équipe",
+   "couleur": "#e2001a",
+   "une": {
+    "fichier": "unes/equipe.jpg",
+    "date": "2026-11-19",
+    "source": "https://img.kiosko.net/2026/11/19/fr/l_equip.750.jpg"
+   },
+   "articles": [
+    {
+     "titre": "Lucas Andjisseramatchi prêté à Oyonnax par La Rochelle",
+     "lien": "https://www.lequipe.fr/Rugby/Actualites/Lucas-andjisseramatchi-prete-a-oyonnax-par-la-rochelle/1744637#at_medium=RSS_feeds",
+     "resume": "En manque de temps de jeu avec la Rochelle, le jeune troisième-ligne Lucas Andjisseramatchi, formé à Massy, va terminer la saison en Pro D2 à Oyonnax, club qui rêve de retrouver l'élite.",
+     "date": "2026-11-19T14:34:25+01:00",
+     "source": "",
+     "image": "https://medias.lequipe.fr/img-photo-png/-/1500000000833469/0-828-552-75/0cb67.png"
+    },
+    {
+     "titre": "Le coup droit, l'atout maître de Fils",
+     "lien": "https://www.lequipe.fr/Tennis/Article/Avec-son-coup-droit-considere-comme-l-un-des-cinq-meilleurs-au-monde-arthur-fils-vise-l-exploit-face-au-numero-1-mondial-alexander-zverev-aux-finales-atp/1744494#at_medium=RSS_feeds",
+     "resume": "",
+     "date": "2026-11-19T14:29:00+01:00",
+     "source": "",
+     "image": "https://medias.lequipe.fr/img-photo-png/-/1500000000833469/0-828-552-75/0cb67.png"
+    },
+    {
+     "titre": "Ismaëlo Ganiou et Abdallah Sima ont repris l'entraînement collectif avec le RC Lens",
+     "lien": "https://www.lequipe.fr/Football/Actualites/Ismaelo-ganiou-et-abdallah-sima-ont-repris-l-entrainement-collectif-avec-le-rc-lens/1744635#at_medium=RSS_feeds",
+     "resume": "Absents ces dernières semaines, Ismaëlo Ganiou et Abdallah Sima ont repris l'entraînement collectif mercredi avec le RC Lens. Ils pourraient être dans le groupe samedi (20 h 45) pour la réception de Toulouse.",
+     "date": "2026-11-19T14:23:38+01:00",
+     "source": "",
+     "image": "https://medias.lequipe.fr/img-photo-jpg/ismaelo-ganiou-et-abdallah-sima-a-mounic-j-b-autissier-l-equipe/1500000002654194/0:0,1593:1062-828-552-75/b8430.jpg"
+    },
+    {
+     "titre": "« Une très grande fierté » : Axel Witsel raconte l'hommage qu'il a reçu en Belgique après avoir mis un terme à sa carrière internationale",
+     "lien": "https://www.lequipe.fr/Football/Actualites/-une-tres-grande-fierte-axel-witsel-raconte-l-hommage-qu-il-a-recu-en-belgique-apres-avoir-mis-un-terme-a-sa-carriere-internationale/1744634#at_medium=RSS_feeds",
+     "resume": "Le milieu de Nice Axel Witsel, fraîchement rentré de Belgique où il a été honoré, a pris quelques instants, ce jeudi, pour raconter son parcours en sélection.",
+     "date": "2026-11-19T14:23:32+01:00",
+     "source": "",
+     "image": "https://medias.lequipe.fr/img-photo-png/-/1500000000833469/0-828-552-75/0cb67.png"
+    },
+    {
+     "titre": "La difficile adaptation du sport pro aux défis du changement climatique",
+     "lien": "https://www.lequipe.fr/Tous-sports/Article/Apres-la-canicule-de-l-ete-2026-la-difficile-adaptation-du-sport-professionnel/1744322#at_medium=RSS_feeds",
+     "resume": "",
+     "date": "2026-11-19T14:18:00+01:00",
+     "source": "",
+     "image": "https://medias.lequipe.fr/img-photo-png/-/1500000000833469/0-828-552-75/0cb67.png"
+    },
+    {
+     "titre": "« Si je devais comparer un peu, ce serait au Manchester City de Guardiola dans les grandes années » : comment l'OGC Nice aborde la venue du PSG",
+     "lien": "https://www.lequipe.fr/Football/Actualites/-si-je-devais-comparer-un-peu-ce-serait-au-manchester-city-de-guardiola-dans-les-grandes-annees-comment-l-ogc-nice-aborde-la-venue-du-psg/1744630#at_medium=RSS_feeds",
+     "resume": "Nice va recevoir le PSG dans un stade comble, samedi (17 h 15). La confiance est là mais Olivier Pantaloni se veut prudent. Axel Witsel compare même ce PSG au grand Manchester City de Pep Guardiola.",
+     "date": "2026-11-19T14:12:35+01:00",
+     "source": "",
+     "image": "https://medias.lequipe.fr/img-photo-jpg/axel-witsel-a-dispute-8-matches-de-ligue-1-cette-saison-j-b-autissier-l-equipe/1500000002654160/0:0,2000:1333-828-552-75/f5360.jpg"
+    }
+   ],
+   "flux_utilise": "https://dwh.lequipe.fr/api/edito/rss?path=/"
+  }
+ ],
+ "sections": [
+  {
+   "id": "monde",
+   "titre": "Actualité principale",
+   "sous_titre": "Les informations les plus importantes, partout dans le monde",
+   "items": [
+    {
+     "titre": "Les images de la rencontre entre Xi Jinping, Donald Trump et Vladimir Poutine au sommet de l’Apec",
+     "lien": "https://www.lemonde.fr/international/video/2026/11/19/les-images-de-la-rencontre-entre-xi-jinping-donald-trump-et-vladimir-poutine-au-sommet-de-l-apec_6813309_3210.html",
+     "resume": "La rencontre a duré environ quatre-vingts minutes. Les trois dirigeants se sont rencontrés en marge d’une réunion de la Coopération économique Asie-Pacifique (APEC).",
+     "date": "2026-11-19T14:30:51+01:00",
+     "source": "lemonde.fr",
+     "image": "https://img.lemde.fr/2026/11/19/620/0/7435/3717/644/322/60/0/2eed97f_ftp-1-imgwtmsuaaqn-4fe235370bb1440991f60d1e51aece45-2-877e568423d040ef856774389887ed6a.jpg",
+     "reprises": 13,
+     "score": 70.94
+    },
+    {
+     "titre": "La Birmanie a commis un génocide à l’encontre des Rohingya, minorité majoritairement musulmane, statue la Cour internationale de justice",
+     "lien": "https://www.lemonde.fr/international/article/2026/11/19/la-birmanie-a-commis-un-genocide-a-l-encontre-de-la-minorite-rohingya-statue-la-cour-internationale-de-justice_6813288_3210.html",
+     "resume": "Les violences avaient contraint des centaines de milliers de personnes à fuir leur foyer. Des témoignages ont fait état de viols collectifs, d’exécutions de masse et, de manière plus générale, d’une cruauté inimaginable.",
+     "date": "2026-11-19T12:42:12+01:00",
+     "source": "lemonde.fr",
+     "image": "https://img.lemde.fr/2026/11/19/252/0/5262/2631/644/322/60/0/1d6fc3f_ftp-1-ngpl05qgyney-2026-11-19t091224z-1527449319-rc2xqoa1b9gy-rtrmadp-3-myanmar-rohingya-world-court.JPG",
+     "reprises": 7,
+     "score": 15.5
+    },
+    {
+     "titre": "Midterms 2026 : en Alaska, la fin du décompte consacre la victoire nette au Sénat de la démocrate Mary Peltola",
+     "lien": "https://www.lemonde.fr/international/article/2026/11/19/midterms-2026-en-alaska-la-fin-du-decompte-consacre-la-victoire-nette-au-senat-de-la-democrate-mary-peltola_6813261_3210.html",
+     "resume": "Dans cet Etat américain grand comme trois fois la France, la candidate autochtone l’a emporté sur son adversaire républicain, Dan Sullivan, en faisant le plein de voix dans les zones reculées et rurales et en surfant sur l’envolée du coût de la vie, pire que…",
+     "date": "2026-11-19T10:05:06+01:00",
+     "source": "lemonde.fr",
+     "image": "https://img.lemde.fr/2026/11/04/0/0/4176/2088/644/322/60/0/b6413fa_ftp-1-o0krzoxejh5e-2026-11-04t064941z-711274939-rc2ugoad52se-rtrmadp-3-usa-election-alaska.JPG",
+     "reprises": 4,
+     "score": 11.43
+    },
+    {
+     "titre": "Groenland : le Parlement danois ratifie l’accord de sécurité avec les Etats-Unis et le territoire autonome",
+     "lien": "https://www.lemonde.fr/international/article/2026/11/19/groenland-le-parlement-danois-ratifie-l-accord-de-securite-avec-les-etats-unis-et-le-territoire-autonome_6813273_3210.html",
+     "resume": "Les 109 députés présents ont voté en faveur du texte, qui a été adopté sans opposition ni abstention.",
+     "date": "2026-11-19T11:20:29+01:00",
+     "source": "lemonde.fr",
+     "image": "https://img.lemde.fr/2026/11/12/468/0/5616/2808/644/322/60/0/6893b8f_ftp-1-7ttvhvvcjf1c-afp-d7a96cm.jpg",
+     "reprises": 4,
+     "score": 10.9
+    },
+    {
+     "titre": "Arabie saoudite : le quartier financier de Riyad de nouveau attaqué, la tour du fonds souverain endommagée",
+     "lien": "https://www.lemonde.fr/international/article/2026/11/19/arabie-saoudite-le-quartier-financier-de-riyad-de-nouveau-attaque-la-tour-du-fonds-souverain-endommagee_6813250_3210.html",
+     "resume": "« Des débris sont tombés et les dégâts matériels sont en cours d’évaluation », a reconnu la coalition menée par l’Arabie saoudite, quelques heures après avoir annoncé avoir intercepté un missile tiré par les houthistes.",
+     "date": "2026-11-19T08:23:43+01:00",
+     "source": "lemonde.fr",
+     "image": "https://img.lemde.fr/2026/10/16/150/0/2412/1206/644/322/60/0/a9abb93_ftp-1-csrcv1c7fken-2026-10-16t120015z-391827927-rc2a4oaimp85-rtrmadp-3-iran-risis-saudi-riyadh.JPG",
+     "reprises": 3,
+     "score": 5.18
+    },
+    {
+     "titre": "Sénégal : le surf fait de plus en plus d’adeptes chez les jeunes",
+     "lien": "https://www.france24.com/fr/vid%C3%A9o/20261119-s%C3%A9n%C3%A9gal-le-surf-fait-de-plus-en-plus-d-adeptes-chez-les-jeunes",
+     "resume": "🇸🇳 Au Sénégal, le surf attire de plus en plus de jeunes, mais le coût du matériel reste un frein à sa démocratisation. À Ngor, près de Dakar, un jeune surfeur professionnel a créé une école pour transmettre sa passion aux enfants de son village.",
+     "date": "2026-11-19T14:20:18+01:00",
+     "source": "france24.com",
+     "image": "https://s.france24.com/media/display/e6d35538-e40d-11f1-9fba-13439ca2fe89/w:1024/p:16x9/Couv-2-SENEGAL-SURF.jpg",
+     "reprises": 1,
+     "score": 3.54
+    }
+   ],
+   "a_traduire": []
+  },
+  {
+   "id": "ia",
+   "titre": "Intelligence artificielle",
+   "sous_titre": "Modèles, entreprises, régulation, recherche",
+   "items": [
+    {
+     "titre": "Donald Trump s'oppose à toute \"réglementation mondialiste\" de l'intelligence artificielle et entend préserver la liberté d'action des États-Unis face à la Chine",
+     "lien": "https://news.google.com/rss/articles/CBMixwJBVV95cUxQU0pZSjNQM3lLUnowN3UtSl9ZOXhzaV84bU5ZWXpGTkhCQXJxY2NBQnEySU5KcXZLaDJ1NHpvc1dZaFd4QUpsZ2gtZjhKdmZONDM0SFFMamtpNXFfZnRoZEdXQnFUR0pWR3ZDOTJkSDdkU0tLVG9rWXhhTENjYXlLbmRKQmhDYk1jYTlsb2M2QktJTnYwOXZXclJtYy1EclhaLUVnd1hBb0I0UXd5TnczT3lwRTJwWjVHT1BWZHVINVpiZkdqOUthYUo3WURLWlBIelUwbzRyQTRLNlZ1OHJ5R2I5b1JIRXVSQ2hLaDEyMmJNeUdTTDE0d3U4d0pkN2pXZ2cxaGZmVER3M3RhczQ1QVR1QzBEVDVrSUlGR0ZXbzlmT1hRYkJzU1BXdUpoc1BHelp2VDZCMUxZUWViR1ZJdlhfV2FnLTg?oc=5",
+     "resume": "L'arrivée d'Anthropic sur le Nasdaq, ce jeudi 19 novembre 2026, ne va pas seulement enrichir les investisseurs. Des milliers de salariés, des chercheurs aux postes administratifs, détiennent des actions qui valent désormais une petite (voire une très grosse)…",
+     "date": "2026-11-19T06:36:00+01:00",
+     "source": "BFM",
+     "image": null,
+     "reprises": 21,
+     "score": 73.78
+    },
+    {
+     "titre": "La Commission européenne annonce avoir été la cible d'une cyberattaque assistée par l'intelligence artificielle en octobre",
+     "lien": "https://news.google.com/rss/articles/CBMimwJBVV95cUxNcUgzWG1uMGExcjhTUzZILTlxOE5LS3lHQTNVV1VOdnI4RS0zMTZmRjBFNG1UNHVoOUlEajMydjd2dzFzTmFyXzRRb3ByVXk4c2p4bFBmUmJSV1gxY0JKdmdRTFNpcE11czVxYWhkVF8tdmd1eGZJM0RhdktXQ1dYN25PbzRzbDNfdUxYSGtMWmpZakdPYVNCSTFHQzJFV0JreFBFRnhoME9CRHBVUTJqQzBwQVJVQ0hWbUthUndCd2lfcVlWNnNtM2I5X29Lb0NBTzQxNWo1TzVhSnhFSWhzMnMycEVya3dJZkdIR2Q2M2ZmQXdWeE50bkRwc2lSelI0clJDTDFiMk1kVHV1Mmk5Rk10VFk3TUVkYmtn?oc=5",
+     "resume": "",
+     "date": "2026-11-19T13:59:55+01:00",
+     "source": "franceinfo",
+     "image": null,
+     "reprises": 6,
+     "score": 11.8
+    },
+    {
+     "titre": "Introduction en Bourse d’Anthropic : comment la start-up et son modèle Claude ont détrôné OpenAI",
+     "lien": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPVmxzRzBlUTFjTW9KYjIyQzJpYkNaVDROSldEdllmSzhJM1A4YjV5THFDUnU0dnRoZVFZZVRra2NGZjdZVG40VEs2VUtuc3VNUlNhT0VwaHZISlF4MTFyOG1tb25TWTkySEdMekVnak83UXVCVi00ODRIQnN1S2JiSFlMVmpOdjZSbUdLZEwxUGJMZlBEcXNIOVRxUmFkV3h6SVdQMk5pQ2dudDVtRGQyeWR4QU96b3hrSnIzZV9wRlpfOURoR1lldg?oc=5",
+     "resume": "",
+     "date": "2026-11-19T05:45:08+01:00",
+     "source": "Le Monde.fr",
+     "image": null,
+     "reprises": 6,
+     "score": 11.12
+    },
+    {
+     "titre": "Aux Etats-Unis, Wall Street met fin à l’euphorie généralisée sur l’IA et cherche à trier les gagnants et les perdants de cette révolution",
+     "lien": "https://news.google.com/rss/articles/CBMirgJBVV95cUxPR0FfSXhyNUVMSDZKMTBHbFdnX2tCY0t3dGFCNVg0YWF6QlJKcjZOQzJMQW43X19hNFNaY3RlMUlYSGpVZ1RFUmh1eTNzZGg2dzJuTUpRcFl4dlpIeGdWR2JCLTQ5LXZuTFJmMVFma3dkSF9MUVpad0cwRXdfMmRvMGFOMU1lS0JrWndSaFU5SjF0V0pSWGhrS3U2cmE5N05hT0VmT29NT3AwYjRxU20xdHdJNjFoRDUzY0JFZUtfN3N3ME1IcDN3ZW11RHcwRjUzcW5MZFZmWW4wRnJITm9tbWtfUkRFV2d6OUpnZzhFM3J3ZExqampZRW5Vcm1lcjVmcURRaEhaVEMyUUlDQUFRRVNxb2pULXBCVkxXUWFQY3pwd0FJa05hQmpvT2xkQQ?oc=5",
+     "resume": "Anthropic ne laissera plus que 30 jours aux éditeurs pour corriger les failles graves qu'elle leur signale, contre 90 jusqu'ici. Trois jours plus tôt, Google Project Zero avait annoncé une baisse comparable, mais plus progressive.",
+     "date": "2026-11-19T06:00:17+01:00",
+     "source": "Le Monde.fr",
+     "image": null,
+     "reprises": 3,
+     "score": 5.27
+    },
+    {
+     "titre": "Cac 40 : En attendant les premiers pas d'Anthropic à New York, le CAC 40 grignote du terrain",
+     "lien": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxOaHBqWFh0YldWQ1l3dFduczVCOUFwV3Zla3ZLbDdiQ1hGeElfYTVWZjVDMTh6RVY5b2M1U0dvX2MyOFZSUXNocU5wX05LbUJQUUZxa3V0RnpLOVZ0a01jMkdjc21peTBXX1l0dnBjRzV4bnA5bGcxSXkxWmdjVTVvbWxWTWJiZndjSHBZQzZIbjhqdjZJSUpYLTJlSFlUTEUwLWZFVFFNNm12Z0RQZkRmMXpCNl92empzVnUyeklGNG9zMy14czUzaTJEZ0tuZDdTUVlnUDZSN3FMdnNieVFaUTFGcFFjcUdvVzBMNWw4UFcyQQ?oc=5",
+     "resume": "",
+     "date": "2026-11-19T12:47:29+01:00",
+     "source": "BFM Bourse",
+     "image": null,
+     "reprises": 2,
+     "score": 2.86
+    }
+   ],
+   "a_traduire": [
+    {
+     "titre": "Amidst fears of AI cyberattacks, Satya Nadella says lots of critical infrastructure is ‘unpatchable’",
+     "lien": "https://techcrunch.com/2026/11/18/amidst-fears-of-ai-cyberattacks-satya-nadella-says-lots-of-critical-infrastructure-is-unpatchable/",
+     "resume": "The Microsoft CEO downplayed the recent Outlook outage while noting that AI was causing both opportunities and new challenges for securing much of the connected world.",
+     "date": "2026-11-19T00:45:00+01:00",
+     "source": "techcrunch.com",
+     "image": null,
+     "reprises": 1,
+     "score": 1.36
+    },
+    {
+     "titre": "Trump’s latest land grab is an AI hub in the Philippines",
+     "lien": "https://www.theverge.com/policy/1036749/trump-ai-chip-data-center-us-philippines-pax-silica",
+     "resume": "President Donald Trump was greeted by no less than five beauty queens when he landed in the Philippines on Tuesday, according to local news outlet Rappler. As he stepped onto the tarmac, a child handed him small US and Philippine flags. A band played \"YMCA,\"…",
+     "date": "2026-11-18T20:40:36+01:00",
+     "source": "theverge.com",
+     "image": null,
+     "reprises": 1,
+     "score": 1.3
+    },
+    {
+     "titre": "Satya Nadella predicts AI agents will reshuffle the economics of the web",
+     "lien": "https://techcrunch.com/2026/11/18/satya-nadella-predicts-ai-agents-will-reshuffle-the-economics-of-the-web/",
+     "resume": "Microsoft's CEO says AI agents could disrupt advertising-driven business models, forcing companies like Amazon to rethink how they compete for customers.",
+     "date": "2026-11-18T23:58:11+01:00",
+     "source": "techcrunch.com",
+     "image": null,
+     "reprises": 1,
+     "score": 1.22
+    },
+    {
+     "titre": "Palmer Luckey thinks China is ‘thrilled to have Jensen out,’ so he wants the ousted Nvidia CEO reinstated",
+     "lien": "https://techcrunch.com/2026/11/18/palmer-luckey-thinks-china-is-thrilled-to-have-jensen-out-so-he-wants-the-ousted-nvidia-ceo-reinstated/",
+     "resume": "\"It makes America weaker to knock him out,\" the Anduril CEO said about ousted Nvidia leader Jensen Huang.",
+     "date": "2026-11-18T22:31:21+01:00",
+     "source": "techcrunch.com",
+     "image": null,
+     "reprises": 1,
+     "score": 1.1
+    },
+    {
+     "titre": "Will Wright’s next game uses AI to map your memories",
+     "lien": "https://www.theverge.com/games/1036140/will-wright-mymems-ai-game-interview",
+     "resume": "Will Wright, the creator of legendary franchises like SimCity and The Sims, is working on a new game - and it's built around AI. The new title, focused on your memories, is called MyMems. Like Wright's other titles, it sounds extremely ambitious, giving…",
+     "date": "2026-11-18T15:00:00+01:00",
+     "source": "theverge.com",
+     "image": null,
+     "reprises": 1,
+     "score": 1.07
+    }
+   ]
+  },
+  {
+   "id": "droit",
+   "titre": "Actualité juridique",
+   "sous_titre": "Libertés fondamentales, grandes juridictions, culture juridique pour le CRFPA",
+   "items": [
+    {
+     "titre": "Covid: la CEDH valide l'obligation vaccinale des soignants en France",
+     "lien": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQWVNBQ29YVXBYLS00NUNZSXZjQk13MGoyTk1pZ1hUcDBlZ0hJUXBLeVVXa2ZyNkxlaFpVR0JZRWxnNWRIRTYyWWpOb2NQdVJXaHZvX1VTdlNhcjVYTWVMdXljb2Vtb192SHFGUUM1cEM2aVhraVNveWRCc1kxSU0yZlNnQ1RFYWlraWxyMWZzanhjNEpEYWRja1NlZTBDZUJ5eVlhVFFlbnkzajBtMUdyeHZOU2tfZk1QZGxjeQ?oc=5",
+     "resume": "",
+     "date": "2026-11-19T13:08:28+01:00",
+     "source": "France 24",
+     "image": null,
+     "reprises": 4,
+     "score": 8.94,
+     "libertes": true
+    },
+    {
+     "titre": "Loup dans les Pyrénées-Atlantiques : le Conseil d’État rejette le recours des associations de protection de la nature",
+     "lien": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxQN1FvU25hUm5CMkYxVjF0NXpQa2ZTa0ttSHZSb0EtMmR4Qm5wZE9XcUw4YVM4UE83Zjdab3VUNjdLczNUMmNpQS1meGV2bUlGQlhxUXMwZkdVRWtpcDVBRGtMQW9LeC1mZDJVZGFQRFZTMUlhM05PWXBGOE1sYXlvam03QTJNSjJ1dTRUbXhGeWFzdzBNcC1Ody1zaUlNbnM1WG9aemlhOHpNeUw0SERHazZTZWNLdWVQS0o1SnBNd05feUM0M3BVVzhKZk5hem9jbDFBNVI5ME1KTS1DWnkzZXRwU1pYZw?oc=5",
+     "resume": "",
+     "date": "2026-11-19T08:50:23+01:00",
+     "source": "La Semaine des Pyrénées",
+     "image": null,
+     "reprises": 3,
+     "score": 6.71,
+     "libertes": false
+    },
+    {
+     "titre": "Protection des lanceurs d’alerte : la Cour de cassation donne raison à Houria Aouimeur",
+     "lien": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNSF8xeFFrTU1qeFdwa1JiR3pqMzNub2l5aHpBOWx4T1Q2T040czJXVzh5RXB6X3Ftby1iUmhFTGE3aEFSUkh3b0ROdkYxOW8xeXRpcGhzS0pVeWt0cGVfM2xrWXlBNWFwNW5ybFhCdDU4bWIzdkRGMUtCbWUxNElNZjIyRmFpejAtbS12c2lwOHJoUDVUSUNUdW5PbXFXNXpxMlkzcEFSa1pQWUI2aERPLUd5aEdrZFlSR3cw?oc=5",
+     "resume": "",
+     "date": "2026-11-19T11:37:22+01:00",
+     "source": "Anticor",
+     "image": null,
+     "reprises": 3,
+     "score": 5.95,
+     "libertes": false
+    },
+    {
+     "titre": "Deux liaisons cachées avec ses salariées : la Cour de cassation valide le licenciement du directeur",
+     "lien": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxQeVAyWDF5dmRNMnpCVXlCVzhuRnBzdFRGYm9nT1dkaldpMlVwRWNuU21xa2RRY1U0ZFhwWm5ERl9HdnNqOEZGWS1BMzdmVGxqanBySnYwTEdFLS1IaW95UzVHZF93dU1QV2IwNlFJXy00VVhTdUs3M2Vwb0thdnBGall5ZldPcGVXU0NlUkg0dEV2MVFXWlhnUjRENkU4eWVIdkstdlFSLUM5N3lONEJfRERSYlh4bW15YUwtUmduSGJTbWV4TUVnQ1J5TEVnNHdobVNoQndzTVhWNlNWaThLOFFOVVNYZGRid0cxTWRtM3JieVRy?oc=5",
+     "resume": "",
+     "date": "2026-11-19T10:59:18+01:00",
+     "source": "JDN",
+     "image": null,
+     "reprises": 3,
+     "score": 5.68,
+     "libertes": false
+    },
+    {
+     "titre": "Affaire Katebe Katoto contre Moïse Katumbi : la Cour de cassation rouvre les débats et renvoie la cause en mars 2027",
+     "lien": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOUUI4NUVXNzZhaVQzMEJ5WnNROTBSMTBvNmpDa1p4b1UxUDZhbnBrSE5WVmJwTllOUFRZWEI3RXp6dDgxVzB3cDE4cmlGaFoxenVfV1BNa09QVWp4TnhSck1GWDZPbGlJUzdrUFdXd0hITFhiOE1QdmFIMjYyZTUzRGJYM0tvUkprQVhnZkdRNURLTHBXblpyRlJPTk1QbUh4anpwc2tSdFE4VFpHeG5Xb2VGWXozeTA?oc=5",
+     "resume": "",
+     "date": "2026-11-18T15:59:24+01:00",
+     "source": "Actualite.cd",
+     "image": null,
+     "reprises": 3,
+     "score": 4.86,
+     "libertes": false
+    },
+    {
+     "titre": "Pétition sur la suppression de CNews : un débat sur la liberté d’expression et les médias prévu à l’Assemblée",
+     "lien": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxNbWpCQ1liaGJhT3ZmZTltdlk5dGxEU1hfT0hWVmVkWVJmeG5iSVVSSTYzOVc5Z1JYd1VDTEJkaEI1blVPNDBDVktuYkdMV184SjVISlg0cFJTcnM3cy1TMXFtTVlmZllEaVlBQm5uVnBjZlVOVENEZW1GTUVndUtLSUdmM1pEb1dDUjNLZGNlVGpDaEYxMExlQ1BDakV4OTVxM05nVFF4OHp2SXY4WWFCR3dacnFveVFveTgyNFFOUEtNRUlBM0FtdHplaVM3UFVnN2FDVGZmQmxILW9Yb280WnNxV2FfMHpGdkE?oc=5",
+     "resume": "",
+     "date": "2026-11-17T17:42:01+01:00",
+     "source": "Télérama",
+     "image": null,
+     "reprises": 3,
+     "score": 4.04,
+     "libertes": true
+    }
+   ],
+   "a_traduire": []
+  }
+ ]
+}
