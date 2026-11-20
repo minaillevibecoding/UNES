@@ -1,0 +1,503 @@
+{
+ "date": "2026-11-20",
+ "genere": "2026-11-20T14:35+01:00",
+ "journaux": [
+  {
+   "id": "figaro",
+   "nom": "Le Figaro",
+   "couleur": "#163860",
+   "une": {
+    "fichier": "unes/figaro.jpg",
+    "date": "2026-11-20",
+    "source": "https://static.milibris.com/thumbnail/issue/ca55fc70-a9eb-401a-b3ef-974275b301ec/front/catalog-cover-large.jpeg"
+   },
+   "articles": [
+    {
+     "titre": "Messages de soulèvements, « Black Friday » du pillage : les « gilets jaunes » et l’ultragauche veulent relancer le mouvement de colère sociale",
+     "lien": "https://www.lefigaro.fr/actualite-france/messages-de-soulevements-black-friday-du-pillage-les-gilets-jaunes-et-l-ultragauche-veulent-relancer-le-mouvement-de-colere-sociale-20261120",
+     "resume": "Alors que les pilleurs pourraient s’en prendre aux boutiques et aux marchés de Noël, 70.000 policiers et gendarmes seront déployés ce samedi. Pour cet «Acte VI», les émeutiers veulent faire renaître la flamme des «gilets», huit ans après.",
+     "date": "2026-11-20T13:08:02+01:00",
+     "source": "",
+     "image": "https://i.f1g.fr/media/cms/3000x2001_crop/2026/11/20/0cb270e9c34ea172f63c85b5dd0faabd1dc9e39780c8d03d76055656535ea0c7.jpg"
+    },
+    {
+     "titre": "Salaires : huit syndicats de la fonction publique appellent à une journée de grève le 1er décembre",
+     "lien": "https://www.lefigaro.fr/social/salaires-huit-syndicats-de-la-fonction-publique-appellent-a-une-journee-de-greve-le-1er-decembre-20261120",
+     "resume": "Dans un communiqué commun publié vendredi, les organisations syndicales dénoncent la dégradation de la situation salariale des agents publics et les invitent à se mobiliser partout en France.",
+     "date": "2026-11-20T14:16:28+01:00",
+     "source": "",
+     "image": "https://i.f1g.fr/media/cms/3000x2000_crop/2026/11/20/89aaef80953e3370b942c60cc2c919245d241e29dad570dc7fa9a036c7f37ff7.jpg"
+    },
+    {
+     "titre": "Manifestant mort le 17 octobre à Paris : de l’alcool, des stupéfiants et de la méthadone retrouvés dans son corps",
+     "lien": "https://www.lefigaro.fr/faits-divers/manifestant-mort-le-17-octobre-a-paris-de-l-alcool-des-stupefiants-et-de-la-methadone-retrouves-dans-son-corps-20261120",
+     "resume": "La famille de la victime, Christophe M., avait demandé une autopsie et des examens rapides, afin de connaître les raisons de son décès, qui, selon elle, aurait pu être provoqué par des gaz lacrymogènes.",
+     "date": "2026-11-20T14:32:09+01:00",
+     "source": "",
+     "image": "https://i.f1g.fr/media/cms/orig/2026/11/20/4a7695f0cf4ec1e283bcfa852ea89bfcc70e047de456e9b9c3c35d043904a48d.JPG"
+    },
+    {
+     "titre": "EN DIRECT - Présidentielle 2027 : Dominique de Villepin officialise sa candidature face au «pourrissement» du pays",
+     "lien": "https://www.lefigaro.fr/elections/presidentielles/en-direct-presidentielle-2027-tensions-chez-les-ecologistes-villepin-se-prepare-a-entrer-en-scene-20261120",
+     "resume": "Il aime le risque et la lumière. L’ancien premier ministre Dominique de Villepin, dont les paris n’ont pas toujours été gagnants, s’est fixé un défi particulièrement audacieux en se lançant pour la deuxième fois dans la course à l’Élysée.",
+     "date": "2026-11-20T13:48:03+01:00",
+     "source": "",
+     "image": "https://i.f1g.fr/media/cms/3000x2000_crop/2026/11/20/74f2f37992157c28d261b8e7c198ea5e2c4702d6e04b5286260c7f377b3edbc9.jpg"
+    },
+    {
+     "titre": "Présidentielle 2027 : Édouard Philippe devance Jean-Luc Mélenchon, s'il devient candidat unique du centre et de la droite, selon un sondage",
+     "lien": "https://www.lefigaro.fr/elections/presidentielles/candidats/presidentielle-2027-edouard-philippe-devance-jean-luc-melenchon-s-il-devient-candidat-unique-du-centre-et-de-la-droite-selon-un-sondage-20261120",
+     "resume": "Édouard Philippe, qui refuse toujours l’idée d’une primaire, s’est dit prêt dimanche à participer à une réunion permettant aux quatre candidats déclarés de trouver une «méthode de départage».",
+     "date": "2026-11-20T13:37:10+01:00",
+     "source": "",
+     "image": "https://i.f1g.fr/media/cms/3000x2000_crop/2026/11/20/df42552183c2911e37d4a10ea35aac75840f7dd33c34fd9ba0569108e21943b3.jpg"
+    },
+    {
+     "titre": "Présidentielle 2027 : pourquoi Marine Le Pen assume de couper le robinet de l’aide à l’Ukraine",
+     "lien": "https://www.lefigaro.fr/elections/presidentielles/presidentielle-2027-pourquoi-marine-le-pen-assume-de-couper-le-robinet-de-l-aide-a-l-ukraine-20261119",
+     "resume": "DÉCRYPTAGE - La position de la candidate RN, historiquement favorable à la Russie de Vladimir Poutine, provoque de nombreuses critiques de ses adversaires.",
+     "date": "2026-11-19T19:57:44+01:00",
+     "source": "",
+     "image": "https://i.f1g.fr/media/cms/3000x2000_crop/2026/11/19/0193bcb67da910de0b120bcbd6bb5d25922501bdd5107e574be1168a4a27c2a7.jpg"
+    }
+   ],
+   "flux_utilise": "https://www.lefigaro.fr/rss/figaro_actualites.xml"
+  },
+  {
+   "id": "monde",
+   "nom": "Le Monde",
+   "couleur": "#111111",
+   "une": {
+    "fichier": "unes/monde.webp",
+    "date": "2026-11-20",
+    "source": "https://www.frontpages.com/t/2026/11/19/le-monde-180032dru@2x.webp"
+   },
+   "articles": [
+    {
+     "titre": "Comment le problème oligarchique s’est imposé dans le débat démocratique",
+     "lien": "https://www.lemonde.fr/idees/article/2026/11/20/comment-le-probleme-oligarchique-s-est-impose-dans-le-debat-democratique_6813586_3232.html",
+     "resume": "Samedi 21 novembre doit se tenir à Paris un sommet contre l’oligarchie internationale avec la participation de plusieurs Prix Nobel. Car s’il y a encore quinze ans, le mot « oligarque » visait surtout les ultrariches russes corrompus, les milliardaires sont…",
+     "date": "2026-11-20T06:00:18+01:00",
+     "source": "",
+     "image": "https://img.lemde.fr/2026/11/18/1474/0/2433/1216/644/322/60/0/0bb8149_upload-1-cpkcib9worhp-lemonde-2026-novembre-oligarques-bonhomme.jpg"
+    },
+    {
+     "titre": "Comment la France a échoué à enrayer sa désindustrialisation : « Plus de 3 000 usines ont fermé depuis 2009 »",
+     "lien": "https://www.lemonde.fr/economie/article/2026/11/20/comment-la-france-a-echoue-a-enrayer-sa-desindustrialisation-plus-de-3-000-usines-ont-ferme-depuis-2009_6813580_3234.html",
+     "resume": "En cinq décennies, la France, longtemps pays de production, est devenue un pays de consommation de biens produits à l’étranger. L’ensemble des filières a été touché par ce mouvement, avec des répercussions sociales et territoriales profondes.",
+     "date": "2026-11-20T05:45:09+01:00",
+     "source": "",
+     "image": "https://img.lemde.fr/2026/11/19/498/0/4781/2390/644/322/60/0/06f05ec_upload-1-qhxk6sm3ckqp-000-a4uq8ml.jpg"
+    },
+    {
+     "titre": "EN DIRECT, guerre en Ukraine : la France exige une réunion de l’ONU après la salve de missiles lancée par la Russie contre l’Ukraine dans la nuit de jeudi à vendredi",
+     "lien": "https://www.lemonde.fr/international/live/2026/11/20/en-direct-guerre-en-ukraine-la-pologne-accuse-la-russie-d-avoir-viole-son-espace-aerien-et-evoque-un-lien-avec-l-exercice-de-la-coalition-des-volontaires_6810982_3210.html",
+     "resume": "« Le Kremlin a encore frappé Kiev. Des civils tués. Les ambassades d’Autriche et des Pays-Bas touchées. Ce sont des crimes. La France les condamne avec la plus grande fermeté », a écrit le chef de la diplomatie française, Jean-Noël Barrot, vendredi.",
+     "date": "2026-11-20T12:26:44+01:00",
+     "source": "",
+     "image": "https://img.lemde.fr/2026/11/20/250/0/3000/1500/644/322/60/0/d491ea0_ftp-1-jtu15jyytkvd-eed97e434e9b48e5b79828bbb6ea83a0-0-6ff06e285c974c2fba00671d3aac9186.jpg"
+    },
+    {
+     "titre": "Dominique de Villepin annonce sa candidature à l’élection présidentielle de 2027",
+     "lien": "https://www.lemonde.fr/election-presidentielle-2027/article/2026/11/20/dominique-de-villepin-annonce-sa-candidature-a-l-election-presidentielle-de-2027_6813622_6205049.html",
+     "resume": "L’ancien premier ministre de Jacques Chirac a officialisé, vendredi, sa candidature en se présentant comme une alternative au macronisme, à LFI et au RN. Il a notamment dénoncé « une situation de pourrissement » dans le pays.",
+     "date": "2026-11-20T11:37:29+01:00",
+     "source": "",
+     "image": "https://img.lemde.fr/2026/11/20/548/0/6574/3287/644/322/60/0/948feac_ftp-1-t5yk2wl4strp-afp-d84a6vt.jpg"
+    },
+    {
+     "titre": "La Birmanie rattrapée par sa longue persécution des Rohingya après sa condamnation pour génocide",
+     "lien": "https://www.lemonde.fr/international/article/2026/11/20/la-birmanie-rattrapee-par-sa-longue-persecution-des-rohingya-apres-sa-condamnation-pour-genocide_6813628_3210.html",
+     "resume": "Le régime du président Min Aung Hlaing, principal instigateur des massacres de 2017 en tant que chef de l’armée birmane, est cloué au pilori par la justice internationale pour « intention génocidaire » après des décennies d’exclusion et de violences contre…",
+     "date": "2026-11-20T12:00:06+01:00",
+     "source": "",
+     "image": "https://img.lemde.fr/2026/11/18/574/0/6894/3447/644/322/60/0/0d7894a_ftp-1-a000do2siwkf-2bd1a1925c834f7fb86b7d2cbac3bf8e-0-afb15987abcb437aa25a6aa79b9a1fdf.jpg"
+    },
+    {
+     "titre": "Fuites en provenance du ministère de l’intérieur vers le RN : des faits « extrêmement graves » s’ils sont avérés, juge Laurent Nuñez",
+     "lien": "https://www.lemonde.fr/societe/article/2026/11/20/fuites-en-provenance-du-ministere-de-l-interieur-vers-le-rn-des-faits-extremement-graves-s-ils-sont-averes-juge-laurent-nunez_6813604_3224.html",
+     "resume": "La justice soupçonne des fuites d’éléments liés à des enquêtes en cours concernant le Rassemblement national. Des perquisitions ont été menées au siège du parti et au ministère de l’intérieur. Le préfet Hugues Moutouh est suspecté.",
+     "date": "2026-11-20T09:46:19+01:00",
+     "source": "",
+     "image": "https://img.lemde.fr/2026/11/06/322/0/3870/1935/644/322/60/0/526152c_ftp-1-vco24adnfdtr-afp-d6mt2we.jpg"
+    }
+   ],
+   "flux_utilise": "https://www.lemonde.fr/rss/une.xml"
+  },
+  {
+   "id": "croix",
+   "nom": "La Croix",
+   "couleur": "#c8102e",
+   "une": {
+    "fichier": "unes/croix.jpg",
+    "date": "2026-11-20",
+    "source": "https://img.kiosko.net/2026/11/20/fr/lacroix.750.jpg"
+   },
+   "articles": [
+    {
+     "titre": "Fonction publique : l’intersyndicale lancer un nouvel appel à la grève pour le 1er décembre",
+     "lien": "https://www.la-croix.com/economie/fonction-publique-l-intersyndicale-lancer-un-nouvel-appel-a-la-greve-pour-le-1er-decembre-20261120",
+     "resume": "Les syndicats de la fonction publique ont appelé vendredi 20 novembre à une journée de grève et de mobilisation le mardi 1er décembre.",
+     "date": "2026-11-20T14:22:48+01:00",
+     "source": "",
+     "image": "https://i.la-croix.com/x/2026/11/20/2594653-les-syndicats-de-la-fonction-publique-ont-appele-v.jpg"
+    },
+    {
+     "titre": "Guerre au Moyen-Orient : les houthistes menacent Riyad ; appel à évacuer un port yéménite",
+     "lien": "https://www.la-croix.com/international/direct-guerre-iran-israel-usa-jour-266-moyen-orient-bilan-resume-aujourdhui-20261120",
+     "resume": "Les combattants houthistes du Yémen menacent de frapper à nouveau le quartier financier de Riyad. L’Irak se défend de mener une guerre dans un groupe pro-iranien. Suivez l’actualité de la guerre au Moyen-Orient ce vendredi 20 novembre.",
+     "date": "2026-11-20T13:56:14+01:00",
+     "source": "",
+     "image": "https://i.la-croix.com/x/2026/11/20/2594615-une-usine-de-chaussures-detruite-par-une-frappe-sa.jpg"
+    },
+    {
+     "titre": "Guerre en Ukraine : six morts dans des frappes russes ; violation de l’espace aérien polonais",
+     "lien": "https://www.la-croix.com/international/ukraine-russie-jour-1731-point-conflit-ukrainien-poutine-aujourdhui-20261120",
+     "resume": "Des frappes russes ont fait six morts en Ukraine alors que des missiles balistiques ont touché deux ponts de Kiev. L’Ukraine dénonce une violation par la Russie de l’espace aérien polonais. Suivez l’actualité de la guerre en Ukraine, ce vendredi 20 novembre.",
+     "date": "2026-11-20T13:37:43+01:00",
+     "source": "",
+     "image": "https://i.la-croix.com/x/2026/11/20/2594257-volodymyr-zelensky-s-est-rendu-jeudi-19-novembre-2.jpg"
+    },
+    {
+     "titre": "Violences faites aux femmes et aux enfants : le combat commun du magistrat Aurélien Martini et de la réalisatrice Andréa Bescond",
+     "lien": "https://www.la-croix.com/societe/violences-faites-aux-femmes-et-aux-enfants-le-combat-commun-du-magistrat-aurelien-martini-et-de-la-realisatrice-andrea-bescond-20261119",
+     "resume": "Conversation entre une artiste et un magistrat. Andréa Bescond, réalisatrice des Chatouilles, et Aurélien Martini, procureur de la République adjoint, débattent des avancées de la loi « intégrale » contres les violences sexuelles et sexistes, votée le 13…",
+     "date": "2026-11-20T13:34:35+01:00",
+     "source": "",
+     "image": "https://i.la-croix.com/x/2026/11/20/2590175-andrea-bescond-a-gauche-actrice-et-aurelien-martin.jpg"
+    },
+    {
+     "titre": "Perquisitions, préfet convoqué : ce que l’on sait de l’affaire des « fuites » au bénéfice du RN",
+     "lien": "https://www.la-croix.com/politique/perquisitions-prefet-convoque-ce-que-l-on-sait-de-laffaire-des-fuites-au-benefice-du-rn-20261120",
+     "resume": "Une information judiciaire ouverte en juillet pour « violation du secret professionnel », « violation du secret de l’enquête » et « recel de ces délits » vise le RN. Soupçonné d’être à l’origine des fuites, le préfet Hugues Moutouh a été convoqué vendredi 20…",
+     "date": "2026-11-20T13:32:44+01:00",
+     "source": "",
+     "image": "https://i.la-croix.com/x/2026/11/20/2594497-le-prefet-du-loire-et-de-la-region-centre-val-de-l.jpg"
+    },
+    {
+     "titre": "Accro à la marche rapide",
+     "lien": "https://www.la-croix.com/a-vif/accro-a-la-marche-rapide-20261120",
+     "resume": "On l’appelle marche rapide ou nordique. Notre chroniqueuse s’y est mise depuis quelques mois. Mais la marche peut-elle s’accommoder de la vitesse ?",
+     "date": "2026-11-20T13:22:05+01:00",
+     "source": "",
+     "image": "https://i.la-croix.com/x/2026/10/02/2549961-josephine-lebard.jpg"
+    }
+   ],
+   "flux_utilise": "https://www.la-croix.com/feeds/rss/site.xml"
+  },
+  {
+   "id": "equipe",
+   "nom": "L'Équipe",
+   "couleur": "#e2001a",
+   "une": {
+    "fichier": "unes/equipe.jpg",
+    "date": "2026-11-20",
+    "source": "https://img.kiosko.net/2026/11/20/fr/l_equip.750.jpg"
+   },
+   "articles": [
+    {
+     "titre": "Sur les bancs, le changement, c'est constant",
+     "lien": "https://www.lequipe.fr/Football/Article/Pourquoi-les-entraineurs-de-ligue-1-changent-de-plus-en-plus-en-souvent/1744772#at_medium=RSS_feeds",
+     "resume": "",
+     "date": "2026-11-20T14:16:00+01:00",
+     "source": "",
+     "image": "https://medias.lequipe.fr/img-photo-png/-/1500000000833469/0-828-552-75/0cb67.png"
+    },
+    {
+     "titre": "Clara Burel et Diane Parry en simple, Fiona Ferro forfait : le programme du barrage de BJK Cup entre la France et l'Australie",
+     "lien": "https://www.lequipe.fr/Tennis/Actualites/Clara-burel-et-diane-parry-en-simple-fiona-ferro-forfait-le-programme-du-barrage-de-bjk-cup-entre-la-france-et-l-australie/1744861#at_medium=RSS_feeds",
+     "resume": "Alizé Cornet a désigné Clara Burel et Diane Parry pour les simples face à l'Australie, lors du barrage d'accession de Billie Jean King Cup, ce week-end. Léolia Jeanjean et Kristina Mladenovic seront associées en double.",
+     "date": "2026-11-20T14:10:38+01:00",
+     "source": "",
+     "image": "https://medias.lequipe.fr/img-photo-png/-/1500000000833469/0-828-552-75/0cb67.png"
+    },
+    {
+     "titre": "Thibaut Courtois prolonge son contrat avec le Real Madrid jusqu'en 2028",
+     "lien": "https://www.lequipe.fr/Football/Actualites/Thibaut-courtois-prolonge-son-contrat-avec-le-real-madrid-jusqu-en-2028/1744860#at_medium=RSS_feeds",
+     "resume": "Le gardien du Real Madrid, Thibaut Courtois, a signé une prolongation de contrat jusqu'en juin 2028, a annoncé vendredi le club espagnol. Federico Valverde devrait de son côté prolonger jusqu'en 2031.",
+     "date": "2026-11-20T14:09:19+01:00",
+     "source": "",
+     "image": "https://medias.lequipe.fr/img-photo-png/-/1500000000833469/0-828-552-75/0cb67.png"
+    },
+    {
+     "titre": "Flavien Coton s'arrête en quarts du WTT Contender de Mascate",
+     "lien": "https://www.lequipe.fr/Tennis-de-table/Actualites/Flavien-coton-s-arrete-en-quarts-du-wtt-contender-de-mascate/1744859#at_medium=RSS_feeds",
+     "resume": "Le Français Flavien Coton ne verra pas le dernier carré du WTT Contender de Mascate (Oman) puisqu'il s'est fait sortir en quarts ce vendredi.",
+     "date": "2026-11-20T14:03:59+01:00",
+     "source": "",
+     "image": "https://medias.lequipe.fr/img-photo-jpg/flavien-coton-s-boue-l-equipe/1500000002654965/0:0,2000:1333-828-552-75/7efa9.jpg"
+    },
+    {
+     "titre": "Marco Bezzecchi meilleur temps des essais libres 1 du GP du Portugal, Johann Zarco 14e, Fabio Quartararo 17e",
+     "lien": "https://www.lequipe.fr/Moto/Actualites/Marco-bezzecchi-meilleur-temps-des-essais-libres-1-du-gp-du-portugal-johann-zarco-14e-fabio-quartararo-17e/1744855#at_medium=RSS_feeds",
+     "resume": "Marco Bezzecchi a dominé les premiers essais libres sur le circuit de Portimao ce vendredi. Le pilote Aprilia a devancé Jorge Martin (Aprilia) et Alex Marquez (Ducati Gresini). Le leader au Championnat Marc Marquez, qui peut décrocher un 8e titre en MotoGP…",
+     "date": "2026-11-20T13:24:45+01:00",
+     "source": "",
+     "image": "https://medias.lequipe.fr/img-photo-png/-/1500000000833469/0-828-552-75/0cb67.png"
+    },
+    {
+     "titre": "Des combats clandestins et l'ascension sulfureuse de «Tortank» et «Silverback»",
+     "lien": "https://www.lequipe.fr/Mma/Article/Des-combats-clandestins-au-mma-professionnel-l-ascension-sulfureuse-de-tortank-et-silverback/1744555#at_medium=RSS_feeds",
+     "resume": "",
+     "date": "2026-11-20T13:20:00+01:00",
+     "source": "",
+     "image": "https://medias.lequipe.fr/img-photo-png/-/1500000000833469/0-828-552-75/0cb67.png"
+    }
+   ],
+   "flux_utilise": "https://dwh.lequipe.fr/api/edito/rss?path=/"
+  }
+ ],
+ "sections": [
+  {
+   "id": "monde",
+   "titre": "Actualité principale",
+   "sous_titre": "Les informations les plus importantes, partout dans le monde",
+   "items": [
+    {
+     "titre": "EN DIRECT, guerre en Ukraine : la France exige une réunion de l’ONU après la salve de missiles lancée par la Russie contre l’Ukraine dans la nuit de jeudi à vendredi",
+     "lien": "https://www.lemonde.fr/international/live/2026/11/20/en-direct-guerre-en-ukraine-la-pologne-accuse-la-russie-d-avoir-viole-son-espace-aerien-et-evoque-un-lien-avec-l-exercice-de-la-coalition-des-volontaires_6810982_3210.html",
+     "resume": "« Le Kremlin a encore frappé Kiev. Des civils tués. Les ambassades d’Autriche et des Pays-Bas touchées. Ce sont des crimes. La France les condamne avec la plus grande fermeté », a écrit le chef de la diplomatie française, Jean-Noël Barrot, vendredi.",
+     "date": "2026-11-20T12:26:44+01:00",
+     "source": "lemonde.fr",
+     "image": "https://img.lemde.fr/2026/11/20/250/0/3000/1500/644/322/60/0/d491ea0_ftp-1-jtu15jyytkvd-eed97e434e9b48e5b79828bbb6ea83a0-0-6ff06e285c974c2fba00671d3aac9186.jpg",
+     "reprises": 12,
+     "score": 28.87
+    },
+    {
+     "titre": "Au Royaume-Uni, Andy Burnham ravive le débat sur le Brexit, plus de cinq ans après sa mise en œuvre effective",
+     "lien": "https://www.lemonde.fr/international/article/2026/11/20/au-royaume-uni-andy-burnham-ravive-le-debat-sur-le-brexit-plus-de-cinq-ans-apres-sa-mise-en-uvre-effective_6813589_3210.html",
+     "resume": "Alors que les Européens et le Royaume-Uni doivent discuter de leur relation, vendredi 20 novembre, le sujet reste complexe outre-Manche. S’il martèle vouloir resserrer les liens avec l’Union, le premier ministre britannique entretient le flou sur la nature…",
+     "date": "2026-11-20T06:00:18+01:00",
+     "source": "lemonde.fr",
+     "image": "https://img.lemde.fr/2026/11/16/433/0/2724/1362/644/322/60/0/ce3e7f5_ftp-1-q6gvetkhjmtw-2026-11-16t213551z-1177466647-rc27poaisss8-rtrmadp-3-britain-eu-burnham.JPG",
+     "reprises": 6,
+     "score": 16.47
+    },
+    {
+     "titre": "Guerre en Ukraine : Kiev mise sur l’isolement stratégique de la Crimée occupée",
+     "lien": "https://www.lemonde.fr/international/article/2026/11/20/l-ukraine-mise-sur-l-isolement-strategique-de-la-crimee-occupee_6813616_3210.html",
+     "resume": "Une série de frappes ukrainiennes sur le pont de Crimée, symbole de l’occupation russe, a lourdement endommagé l’ouvrage cher au cœur de Vladimir Poutine, réduisant l’accès de la Russie à la presqu’île.",
+     "date": "2026-11-20T11:00:08+01:00",
+     "source": "lemonde.fr",
+     "image": "https://img.lemde.fr/2026/11/19/636/0/9700/4850/644/322/60/0/a7249c5_ftp-1-tccjrdtko2vf-afp-d82b9cu.jpg",
+     "reprises": 4,
+     "score": 13.27
+    },
+    {
+     "titre": "La Birmanie rattrapée par sa longue persécution des Rohingya après sa condamnation pour génocide",
+     "lien": "https://www.lemonde.fr/international/article/2026/11/20/la-birmanie-rattrapee-par-sa-longue-persecution-des-rohingya-apres-sa-condamnation-pour-genocide_6813628_3210.html",
+     "resume": "Le régime du président Min Aung Hlaing, principal instigateur des massacres de 2017 en tant que chef de l’armée birmane, est cloué au pilori par la justice internationale pour « intention génocidaire » après des décennies d’exclusion et de violences contre…",
+     "date": "2026-11-20T12:00:06+01:00",
+     "source": "lemonde.fr",
+     "image": "https://img.lemde.fr/2026/11/18/574/0/6894/3447/644/322/60/0/0d7894a_ftp-1-a000do2siwkf-2bd1a1925c834f7fb86b7d2cbac3bf8e-0-afb15987abcb437aa25a6aa79b9a1fdf.jpg",
+     "reprises": 3,
+     "score": 9.35
+    },
+    {
+     "titre": "Pologne : deux missiles russes s’abattent dans le sud-est du pays, frontalier de l’Ukraine",
+     "lien": "https://www.lemonde.fr/international/article/2026/11/20/pologne-deux-missiles-russes-s-abattent-dans-le-sud-est-du-pays-frontalier-de-l-ukraine_6813636_3210.html",
+     "resume": "Dénonçant une « provocation », le premier ministre polonais, Donald Tusk, a jugé que cette violation de l’espace aérien polonais pourrait avoir un rapport avec les manœuvres militaires de la coalition des volontaires qui se déroulent dans la même région.",
+     "date": "2026-11-20T13:53:54+01:00",
+     "source": "lemonde.fr",
+     "image": "https://img.lemde.fr/2026/11/20/148/0/2000/1000/644/322/60/0/862b124_ftp-1-10sfq1arhk2v-afp-d84q3cq.jpg",
+     "reprises": 4,
+     "score": 8.0
+    },
+    {
+     "titre": "Dominique de Villepin annonce sa candidature à l'élection présidentielle de 2027",
+     "lien": "https://www.france24.com/fr/vid%C3%A9o/20261120-pr%C3%A9sidentielle-2027-l-ancien-premier-ministre-dominique-de-villepin-annonce-sa-candidature",
+     "resume": "Dominique de Villepin a officialisé vendredi 20 novembre sa candidature à l'élection présidentielle de 2027. L'ex-Premier ministre se présente comme une alternative au macronisme, à La France insoumise et au Rassemblement national.",
+     "date": "2026-11-20T12:42:32+01:00",
+     "source": "france24.com",
+     "image": "https://s.france24.com/media/display/9fb85a8a-e4d6-11f1-8eb3-6b451f569414/w:1024/p:16x9/miniadefvillepin.jpg",
+     "reprises": 2,
+     "score": 7.77
+    }
+   ],
+   "a_traduire": []
+  },
+  {
+   "id": "ia",
+   "titre": "Intelligence artificielle",
+   "sous_titre": "Modèles, entreprises, régulation, recherche",
+   "items": [
+    {
+     "titre": "La forte inquiétude autour de l’intelligence artificielle (IA) pèse sur les marchés actions asiatiques",
+     "lien": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxNQkduWWxOQ0hjUDNMUW5xZXFPb2RUNVUwV2VXcHA1QkxtMm5GaFZ0d005X3NLbjRHd3RKUFF3ZWpZVmJKeXp5aE5jNUxFOTN4Sk40ZzVoczM3Ums5Uk1RY09wbzdiYi11eVpmMkQ5d0k4Mnh3ZmxCZFRGa3VMQnV2Nmt0U0NzYXBlREhBbm0xVjdiaVZuVzJDckd0ZnFhNDQ3RjZYX005SmZVN1NkRUNJLThTNmtXUFphclhveE5GWXh3MlR0RmhIcHg4cTVhZHJ4R0VXVVRlU1hITkdOTHNzTVhiLVlOZS13Vkd2S1h3?oc=5",
+     "resume": "L'arrivée d'Anthropic sur le Nasdaq, ce jeudi 19 novembre 2026, ne va pas seulement enrichir les investisseurs. Des milliers de salariés, des chercheurs aux postes administratifs, détiennent des actions qui valent désormais une petite (voire une très grosse)…",
+     "date": "2026-11-20T11:55:17+01:00",
+     "source": "Zonebourse Suisse",
+     "image": null,
+     "reprises": 7,
+     "score": 28.6
+    },
+    {
+     "titre": "IA : l’action Anthropic finit sa première journée en hausse de 17 % et valorise l’entreprise à 1 280 milliards de dollars",
+     "lien": "https://news.google.com/rss/articles/CBMiswJBVV95cUxNaVN5ZlVrTnlROWdJdkpBc0QzSURjdFVuWW1hZm5VWEluSTAySExyQTRsMFM5OGFhdzVZa0dqVEd4NmJvT0gycmVhdHJFQWZvUEhEWWVJZUFNNjhRUE5CeVhzY09EajdJMExxQ0ZldDc4YkQ0U3A5bDlVeXZ2SFNkdE5yNjhiYlhGbGgteHRmemRhd2I0YUdYdUpLdDYzaG1Dcm5IY1Q0Q0JiSFZHU090Z0puYmU4RnRrUHgweE40QmtrTWx1Vk02T1dJVGxyNmhPRnlFZDZ4VDhGWHRnOG5ETkVnY1RoUllSVGNsdlduSHFpNnY1QWJ6UjVzUEhCUHRsOUFibVhkLU56X19SaVEwYmpTY3djSnE1OEdHMi1kY2RRdFktd3ZFV21sSVdpd1MxeXA4?oc=5",
+     "resume": "Anthropic has officially gone public. It began trading on the Nasdaq under the ticker symbol \"ANT\" at $111.50 per share, up from its initial $83 per share price that put company's value at around $1.5 trillion. The listing comes nearly a month after…",
+     "date": "2026-11-20T00:30:54+01:00",
+     "source": "Le Monde.fr",
+     "image": null,
+     "reprises": 12,
+     "score": 24.57
+    },
+    {
+     "titre": "Anthropic entre en Bourse, révélant les liens financiers qui alimentent la bulle de l’IA",
+     "lien": "https://news.google.com/rss/articles/CBMikgJBVV95cUxPSWZBVUVoSHdUTmpadXFfYXBZTnZsWU5BZl9KUzlHYW1rVkwxNnM3T2h4VU5KMC1XZXNIdjJzRWRqdnNUUmpKOEhxVFdqR01IUmFnREZleGZzZ0M2NWNTWnZyS29paHVzTHU4WUJ2YnVBaVY4UnlQRjZtUk14MW9tOXN0NWk3aElXa01SYkNCSWhodXRhZ051bmZXNDJzWkdPM2t2YmVkLWJsam9vN0JGOWpsZlFlZzVhaFBOQWNNeGRZV0tkQWJCSlJzVlFEQ1JJQjVJd2ZjS3pSbVRGZkJQR3dvZTJIaVY3bmY5QzZURWZRbUt0MW1BcklmVC1leGl4dlBaRzRoN0s1ZHBReFV2VllB?oc=5",
+     "resume": "",
+     "date": "2026-11-20T11:55:09+01:00",
+     "source": "L'Usine Digitale",
+     "image": null,
+     "reprises": 4,
+     "score": 9.27
+    },
+    {
+     "titre": "IPO Anthropic : comment investir dans Claude avant, pendant et après son introduction en Bourse ?",
+     "lien": "https://news.google.com/rss/articles/CBMidkFVX3lxTFA3VngybllWTWd5U2NWUUdXT2FjcW5BVzBZU1pJanpRTkowVDZCLWRVYmp4UVc2RjhzcjllbXRWS0tYUVNyUnVNQWNiZlBHOWY2S3ZYZVlrd1pmRFlDZGpIZEVvYnV1dFZWSm1Fdm5odzJ6ZUxTUWc?oc=5",
+     "resume": "",
+     "date": "2026-11-20T12:20:30+01:00",
+     "source": "Cafédelabourse",
+     "image": null,
+     "reprises": 3,
+     "score": 8.37
+    },
+    {
+     "titre": "Demain, l’intelligence artificielle assistera le chirurgien, mais qui décidera ?",
+     "lien": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOM3Z4NDlKNS11N1B1bnMtcE15amN3UlJrTW1rNFNlbG90em9WZ3ZhZEN0VmlrRjg2eHVlOXJxTTQzQzFhbEhGc2pQQnl0WEJWeGN3SV9qcEJIZ2dTdU1RVDA4NnFqTlVfOUZva2dyZ1VSLTE1NUxSbnpYN0V5LTNNbVItVXRVQXJtbGVzc1VKX0Zzd2YtaEtEQmxzd3pDN2lwYkJjMW1IVC1tU1VwOTB5NWRYbzVXUQ?oc=5",
+     "resume": "",
+     "date": "2026-11-20T13:34:00+01:00",
+     "source": "Whatsupdoc-lemag.fr",
+     "image": null,
+     "reprises": 2,
+     "score": 3.98
+    }
+   ],
+   "a_traduire": [
+    {
+     "titre": "Signal is blocking Gemini and Siri AI from reading your screen",
+     "lien": "https://www.theverge.com/ai-artificial-intelligence/1038390/signal-blocking-ai-agent-screenshots-mobile-app",
+     "resume": "Signal is restricting the ability to take screenshots on Android and iOS devices in an effort to prevent AI agents from reading users' messages and other data. The agentic AI capabilities built into operating systems that analyze on-screen information to…",
+     "date": "2026-11-20T13:30:47+01:00",
+     "source": "theverge.com",
+     "image": null,
+     "reprises": 1,
+     "score": 1.58
+    },
+    {
+     "titre": "Google gives Gemini the ability to use your Mac for you",
+     "lien": "https://techcrunch.com/2026/11/19/google-gives-gemini-the-ability-to-use-your-mac-for-you/",
+     "resume": "Google's latest update to Gemini brings an AI agent to the Mac that can organize files, fill out forms, and tackle multistep workflows.",
+     "date": "2026-11-19T19:09:11+01:00",
+     "source": "techcrunch.com",
+     "image": null,
+     "reprises": 1,
+     "score": 1.28
+    },
+    {
+     "titre": "Apple is hiring engineers to build its own AI agent",
+     "lien": "https://www.theverge.com/tech/1038227/apple-ai-agent-engineer-job-listing",
+     "resume": "Apple is working on its own AI agent that can perform a range of tasks for you, including browsing the web, working across apps, writing code, and calling services. That's according to a job listing spotted by Bloomberg, which says Apple is looking for an…",
+     "date": "2026-11-19T23:31:41+01:00",
+     "source": "theverge.com",
+     "image": null,
+     "reprises": 1,
+     "score": 1.22
+    },
+    {
+     "titre": "Meta’s AI agent Muse is mixing up conversations and could be exposing private data, report says",
+     "lien": "https://techcrunch.com/2026/11/19/metas-ai-agent-muse-is-mixing-up-conversations-and-exposing-private-data-report-says/",
+     "resume": "In some of these instances, employees said Muse surfaced messages about childcare requests they never made, career advice they never asked for, product orders they never placed, and bank account balances that didn't belong to them.",
+     "date": "2026-11-19T18:38:40+01:00",
+     "source": "techcrunch.com",
+     "image": null,
+     "reprises": 1,
+     "score": 1.14
+    },
+    {
+     "titre": "Google is putting AI chats right on the homepage",
+     "lien": "https://www.theverge.com/tech/1038059/google-search-homepage-ai-chats",
+     "resume": "Google is updating its homepage to include AI searches. In a post on X, Google's vice president of product, Robby Stein, shows how you can now open a collapsible sidebar to view and continue your AI chats. Based on the GIF shared by Stein, it looks like you…",
+     "date": "2026-11-19T21:05:06+01:00",
+     "source": "theverge.com",
+     "image": null,
+     "reprises": 1,
+     "score": 1.08
+    }
+   ]
+  },
+  {
+   "id": "droit",
+   "titre": "Actualité juridique",
+   "sous_titre": "Libertés fondamentales, grandes juridictions, culture juridique pour le CRFPA",
+   "items": [
+    {
+     "titre": "Malgré un ultime recours devant le Conseil d’État, ce village breton comptera bientôt 100 éoliennes dans son territoire",
+     "lien": "https://news.google.com/rss/articles/CBMivAJBVV95cUxOdFJRQTVtOWVLN1BSbU10TkVhT3ZzR0ctem1RVFVfejk0aG1YbzUxMGNBZWh1bVNJRG5kY0QzYzcyQ2tlUHJINE1ZQVpDckw5WTNHS0NKa2xyQ0ZCbVBVbHg5blpGVDlLUDhVamhEeHRRMGdDZUlEY25jSURvYjNqbFZHZGZSR2Q1MFpacm9Sbl8zRE43X1VSckJUY0FTSVhKRnF3eVlSdkNEby1IVjA2XzlfWkJlT1JIcDI2MU4zWnhGTGpxOHZ2U0dQMS1pR0ZPdUtIY2U4dXhqbjhmTnFIbXRLd182VlJVZFhZakdYbEw2QmdRYUo4RDUxdlVkU2JlX3FMMVM4VUVLMHhJalR1UWtkaDkyRS1uYjZYaHFzdTN1Z1hsakxKb1k0S2FsZWUwWUM5cnBVSVVtZXRR?oc=5",
+     "resume": "",
+     "date": "2026-11-19T21:28:29+01:00",
+     "source": "Ouest-France",
+     "image": null,
+     "reprises": 8,
+     "score": 17.79,
+     "libertes": false
+    },
+    {
+     "titre": "Covid : l'obligation vaccinale des soignants en France validée par la CEDH",
+     "lien": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQMVVfdUMzQXVOcjNGMUFDYVBPaUhabkZyZ3lpQmgzOWhjSG5xRDdxaXU1Um5fR3JxR3ZKc0JzM3N4TTBzOGhNbFc1cy1NVl9ZT0VDVGEtWURhX1VmbWFHek5FLWF5Zm1QNW51UlNjMWUtUzBWMlFPaXpnei03VWdOQ0tlT1hkQ0M0VTFOclNyVW5ScnBUYlQ1VTFZVUw1SlNFXzd2U1Y5ekQxeHF1SmxLQmEtcTN5a1pl?oc=5",
+     "resume": "",
+     "date": "2026-11-19T14:30:19+01:00",
+     "source": "TF1 Info",
+     "image": null,
+     "reprises": 4,
+     "score": 7.98,
+     "libertes": true
+    },
+    {
+     "titre": "Houria Aouimeur : une belle victoire arrachée de haute lutte devant la Cour de cassation",
+     "lien": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPX2NNTW40S3F6Z2xUdGRMVkdJWWwwbmJUOE4yYVQzUm9EcTQ3WndsdTVXZTB6YXhlUXgyanR1UTlxVzNteE9lQnlPMWRfYVNaVkhsdWtyV1dQWjBKU2I3Y25WVnFnVWZWOG9yUmtGYnJBMUc4ZXZLOEpET01lZ21kQzNDSUgzMGFZelJYTXE2NUR5bXplcWpMY3FXenY2VndCQkdWbnFuVzZMQjdN?oc=5",
+     "resume": "",
+     "date": "2026-11-20T11:29:46+01:00",
+     "source": "Maison des Lanceurs d'Alerte",
+     "image": null,
+     "reprises": 3,
+     "score": 5.85,
+     "libertes": false
+    },
+    {
+     "titre": "Italie. Le Parlement adopte une définition répressive de l’antisémitisme, « un jour sombre pour la liberté d’expression",
+     "lien": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxOaTRoWHlVRG9zazI0eG9sME4xT2c3aUF5NTBMU0FtTngxTFJHVEhnMHV0ZFV5NUxCNW5pN0o5c282TmlZb0Uwb0FKQ3JNUnVpdnFURnpXRUhNa2RNMTJUUy1KVFRkeXhwaTBkanIwdW1pU2ZWYlRBQmdSTGNRVndxMnpBR2ItQlQ2aFh4UkRfdE5UbjBlcXNpejZtdUlWODFSV1JqT29iZ1NicjN3UWNzQWlrUmVOSUNrV1FYNDVLZWlaWFVWdnExZmxsTkNxeS1RUEVfSWNEWDFCSlp2QXl1Z3NHWW0tLXRGRGtqa3ljbjItR2g2bXVsZHpB?oc=5",
+     "resume": "",
+     "date": "2026-11-17T19:55:00+01:00",
+     "source": "Amnesty International",
+     "image": null,
+     "reprises": 3,
+     "score": 4.94,
+     "libertes": true
+    },
+    {
+     "titre": "Pétition sur la suppression de CNews : un débat sur la liberté d’expression et les médias prévu à l’Assemblée",
+     "lien": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxNbWpCQ1liaGJhT3ZmZTltdlk5dGxEU1hfT0hWVmVkWVJmeG5iSVVSSTYzOVc5Z1JYd1VDTEJkaEI1blVPNDBDVktuYkdMV184SjVISlg0cFJTcnM3cy1TMXFtTVlmZllEaVlBQm5uVnBjZlVOVENEZW1GTUVndUtLSUdmM1pEb1dDUjNLZGNlVGpDaEYxMExlQ1BDakV4OTVxM05nVFF4OHp2SXY4WWFCR3dacnFveVFveTgyNFFOUEtNRUlBM0FtdHplaVM3UFVnN2FDVGZmQmxILW9Yb280WnNxV2FfMHpGdkE?oc=5",
+     "resume": "",
+     "date": "2026-11-17T17:42:01+01:00",
+     "source": "Télérama",
+     "image": null,
+     "reprises": 3,
+     "score": 4.1,
+     "libertes": true
+    },
+    {
+     "titre": "Affaire Katebe Katoto contre Moïse Katumbi : la Cour de cassation rouvre les débats et renvoie la cause en mars 2027",
+     "lien": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOUUI4NUVXNzZhaVQzMEJ5WnNROTBSMTBvNmpDa1p4b1UxUDZhbnBrSE5WVmJwTllOUFRZWEI3RXp6dDgxVzB3cDE4cmlGaFoxenVfV1BNa09QVWp4TnhSck1GWDZPbGlJUzdrUFdXd0hITFhiOE1QdmFIMjYyZTUzRGJYM0tvUkprQVhnZkdRNURLTHBXblpyRlJPTk1QbUh4anpwc2tSdFE4VFpHeG5Xb2VGWXozeTA?oc=5",
+     "resume": "",
+     "date": "2026-11-18T15:59:24+01:00",
+     "source": "Actualite.cd",
+     "image": null,
+     "reprises": 3,
+     "score": 4.0,
+     "libertes": false
+    }
+   ],
+   "a_traduire": []
+  }
+ ]
+}
