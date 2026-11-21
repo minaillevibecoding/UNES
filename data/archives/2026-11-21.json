@@ -1,0 +1,493 @@
+{
+ "date": "2026-11-21",
+ "genere": "2026-11-21T13:59+01:00",
+ "journaux": [
+  {
+   "id": "figaro",
+   "nom": "Le Figaro",
+   "couleur": "#163860",
+   "une": {
+    "fichier": "unes/figaro.jpg",
+    "date": "2026-11-21",
+    "source": "https://static.milibris.com/thumbnail/issue/0683559c-c2db-4f21-8cf1-76411d163c18/front/catalog-cover-large.jpeg"
+   },
+   "articles": [
+    {
+     "titre": "« Il a bien fallu s’adapter » : du totem des 60 ans jusqu’à la capitalisation obligatoire, la longue mue de Marine Le Pen sur les retraites",
+     "lien": "https://www.lefigaro.fr/elections/presidentielles/il-a-bien-fallu-s-adapter-du-totem-des-60-ans-jusqu-a-la-capitalisation-obligatoire-la-longue-mue-de-marine-le-pen-sur-les-retraites-20261121",
+     "resume": "RÉCIT - De sa rupture avec les accents libéraux portés par Jean-Marie Le Pen au début des années 2010, jusqu’à sa récente conversion au réalisme budgétaire pour 2027, la candidate nationaliste a considérablement fait évoluer sa vision.",
+     "date": "2026-11-21T13:00:00+01:00",
+     "source": "",
+     "image": "https://i.f1g.fr/media/cms/1916x1078_crop/2026/11/20/b2a2ba6312434082001447a402260befa064e3bea7218cc9da0957f1fcff4117.jpg"
+    },
+    {
+     "titre": "L’armée finlandaise a détecté une «attaque de drone» contre un cargo russe dans le golfe de Finlande",
+     "lien": "https://www.lefigaro.fr/international/finlande-l-armee-a-detecte-une-attaque-de-drone-contre-un-cargo-russe-dans-le-golfe-de-finlande-20261121",
+     "resume": "«Samedi matin, les forces de défense finlandaises ont détecté une attaque de drone contre un cargo russe à l’ouest de Suursaari, dans l’est du golfe de Finlande, en eaux internationales», a annoncé le ministère de la Défense.",
+     "date": "2026-11-21T13:30:24+01:00",
+     "source": "",
+     "image": "https://i.f1g.fr/media/cms/orig/2026/11/21/a85dff4320dd6de030534f0de5d3f5dc562413b17014bb946a228e16809f2280.JPG"
+    },
+    {
+     "titre": "L’adhésion de l’Ukraine à l’Otan, la carte de négociation remise en jeu face à la Russie",
+     "lien": "https://www.lefigaro.fr/international/l-adhesion-de-l-ukraine-a-l-otan-la-carte-de-negociation-remise-en-jeu-face-a-la-russie-20261120",
+     "resume": "DÉCRYPTAGE - L’hypothèse d’une adhésion a été « rouverte » par Emmanuel Macron alors que les États-Unis s’y opposaient il y a encore deux ans et que Moscou la considère comme inacceptable.",
+     "date": "2026-11-20T21:30:00+01:00",
+     "source": "",
+     "image": "https://i.f1g.fr/media/cms/2396x1348_crop/2026/11/20/6dc2164ebaa1c3015eded970b401e11c5dd41072f0e555b57f27ad032770f861.jpg"
+    },
+    {
+     "titre": "« Kiev risque de se voir coupée en deux îles » : les ponts de la capitale ukrainienne, nouvelles cibles de la Russie",
+     "lien": "https://www.lefigaro.fr/international/kiev-risque-de-se-voir-coupee-en-deux-iles-les-ponts-de-la-capitale-ukrainienne-nouvelles-cibles-de-la-russie-20261120",
+     "resume": "RÉCIT - Vladimir Poutine avait promis des « représailles encore plus douloureuses » après l’attaque du pont de Crimée. Dans la nuit de jeudi à vendredi, une attaque balistique massive a engendré de forts embouteillages dans la capitale. Deux ambassades…",
+     "date": "2026-11-20T18:55:11+01:00",
+     "source": "",
+     "image": "https://i.f1g.fr/media/cms/3000x1688_crop/2026/11/20/21d82fef97c531c72da8c9d5199a5cb7c149d26e793c963925a540bb7d32699e.jpg"
+    },
+    {
+     "titre": "EN DIRECT - Colère sociale : Laurent Nuñez appelle les préfets à la vigilance à l’approche d’une sixième journée de mobilisation",
+     "lien": "https://www.lefigaro.fr/actualite-france/en-direct-colere-sociale-laurent-nunez-appelle-les-prefets-a-la-vigilance-20261121",
+     "resume": "Cet «Acte VI» s’inscrit aussi dans le cadre d’un appel européen de syndicats et associations de défense du droit au logement à des actions coordonnées sur trois jours, de vendredi à dimanche.",
+     "date": "2026-11-21T13:52:02+01:00",
+     "source": "",
+     "image": "https://i.f1g.fr/media/cms/3000x2001_crop/2026/11/21/78691cb16aae4d5bcda1f077c35efd737845077ba0a4c2cfaae77acffda5c193.jpg"
+    },
+    {
+     "titre": "Messages de soulèvements, « Black Friday » du pillage : les « gilets jaunes » et l’ultragauche veulent relancer le mouvement de colère sociale",
+     "lien": "https://www.lefigaro.fr/actualite-france/messages-de-soulevements-black-friday-du-pillage-les-gilets-jaunes-et-l-ultragauche-veulent-relancer-le-mouvement-de-colere-sociale-20261120",
+     "resume": "Alors que les pilleurs pourraient s’en prendre aux boutiques et aux marchés de Noël, 70.000 policiers et gendarmes seront déployés ce samedi. Pour cet «Acte VI», les émeutiers veulent se rappeler au bon souvenir des «gilets», huit ans après.",
+     "date": "2026-11-21T13:45:12+01:00",
+     "source": "",
+     "image": "https://i.f1g.fr/media/cms/3000x2001_crop/2026/11/20/0cb270e9c34ea172f63c85b5dd0faabd1dc9e39780c8d03d76055656535ea0c7.jpg"
+    }
+   ],
+   "flux_utilise": "https://www.lefigaro.fr/rss/figaro_actualites.xml"
+  },
+  {
+   "id": "monde",
+   "nom": "Le Monde",
+   "couleur": "#111111",
+   "une": {
+    "fichier": "unes/monde.webp",
+    "date": "2026-11-21",
+    "source": "https://www.frontpages.com/t/2026/11/20/le-monde-180033ump@2x.webp"
+   },
+   "articles": [
+    {
+     "titre": "Mobilisation lycéenne : les preuves des accusations de « complicités » de violences portées par Matignon à l’encontre d’enseignants restent introuvables",
+     "lien": "https://www.lemonde.fr/societe/article/2026/11/21/mobilisation-lyceenne-les-introuvables-complicites-de-violences-parmi-les-enseignants-denoncees-par-matignon_6813920_3224.html",
+     "resume": "Le premier ministre et son cabinet ont alimenté auprès de la presse l’idée de complicités au sein du personnel de l’éducation nationale dans les heurts qui ont eu lieu dans et aux abords des lycées. « Le Monde » a contacté plusieurs chefs d’établissement qui…",
+     "date": "2026-11-21T06:00:03+01:00",
+     "source": "",
+     "image": "https://img.lemde.fr/2026/11/18/171/0/4500/2250/644/322/60/0/3259e94_upload-1-cftvjm76njtd-04-17112026-1a0a6566-intersyndicale-carrot.jpg"
+    },
+    {
+     "titre": "Thomas Piketty : « Le projet de convention fiscale de l’ONU a le potentiel de changer la face du monde »",
+     "lien": "https://www.lemonde.fr/la-chronique-de-thomas-piketty/article/2026/11/21/thomas-piketty-le-projet-de-convention-fiscale-de-l-onu-a-le-potentiel-de-changer-la-face-du-monde_6813978_6649149.html",
+     "resume": "Les négociations aux Nations unies autour d’une convention-cadre sur la coopération fiscale reprennent à Nairobi le 30 novembre. Les Occidentaux seraient bien inspirés de s’y intéresser, faute de quoi ils risquent de passer à côté de l’histoire, explique…",
+     "date": "2026-11-21T11:00:13+01:00",
+     "source": "",
+     "image": "https://img.lemde.fr/2026/11/20/0/0/5568/2784/644/322/60/0/783fdde_upload-1-qh21g31rztuh-000-648j6xm.jpg"
+    },
+    {
+     "titre": "Présidentielle 2027 : qui sont les candidats déclarés ou probables ?",
+     "lien": "https://www.lemonde.fr/les-decodeurs/article/2026/11/21/presidentielle-2027-qui-sont-les-candidats-declares-ou-probables_6680905_4355771.html",
+     "resume": "Une trentaine de candidats déclarés ou potentiels sont identifiables à ce stade. Mais leur chemin reste très long jusqu’au scrutin d’avril 2027.",
+     "date": "2026-11-21T13:13:25+01:00",
+     "source": "",
+     "image": "https://img.lemde.fr/2026/11/18/125/0/1500/750/644/322/60/0/d7cedb5_upload-1-cmvixzkgtuwj-verif-candidatures2.jpg"
+    },
+    {
+     "titre": "Dans la défense, le rapprochement entre le Canada et l’Union européenne prend corps",
+     "lien": "https://www.lemonde.fr/international/article/2026/11/21/dans-la-defense-le-rapprochement-entre-le-canada-et-l-union-europeenne-prend-corps_6814009_3210.html",
+     "resume": "Sur fond de tensions géopolitiques mondiales et d’incertitudes quant à l’engagement américain, Ottawa et Bruxelles coopèrent sur le soutien à l’Ukraine et le réarmement du Vieux Continent.",
+     "date": "2026-11-21T12:30:05+01:00",
+     "source": "",
+     "image": "https://img.lemde.fr/2026/11/17/1440/0/8640/4320/644/322/60/0/c4b54b9_ftp-1-gfhzc5szzo2l-0d80874ff7564d9bbf81b97727b0298d-0-c067cb1adf934ac9980753c7db7e105f.jpg"
+    },
+    {
+     "titre": "Génocide des Rohingya : la Cour internationale de justice rend un arrêt pour l’histoire",
+     "lien": "https://www.lemonde.fr/international/article/2026/11/20/genocide-des-rohingya-la-cour-internationale-de-justice-confirme-qu-elle-est-indubitablement-la-boussole-du-droit-international_6813702_3210.html",
+     "resume": "La plus haute Cour de l’ONU établit pour la première fois la responsabilité d’un Etat, la Birmanie, dans « le crime des crimes ». Alors que l’Afrique du Sud a saisi l’institution contre Israël, accusant l’Etat hébreu d’un génocide contre les Palestiniens de…",
+     "date": "2026-11-20T21:38:52+01:00",
+     "source": "",
+     "image": "https://img.lemde.fr/2026/11/20/816/0/4928/2464/644/322/60/0/cc22378_ftp-1-7jkzpxcagury-afp-d83v29f.jpg"
+    },
+    {
+     "titre": "La F1, ce sport mixte sur le papier, où les femmes peinent toujours à exister",
+     "lien": "https://www.lemonde.fr/sport/article/2026/11/21/la-f1-ce-sport-mixte-sur-le-papier-ou-les-femmes-peinent-toujours-a-exister_6813981_3242.html",
+     "resume": "Aucune pilote n’a pris le départ d’un Grand Prix depuis l’Italienne Lella Lomardi en 1976. La F1 Academy, lancée en 2023 et dont la dernière manche de la saison se déroule en marge du Grand Prix de Las Vegas, samedi, vise à y remédier. Mais les freins…",
+     "date": "2026-11-21T11:30:15+01:00",
+     "source": "",
+     "image": "https://img.lemde.fr/2026/10/25/548/0/3947/1973/644/322/60/0/7dcf5f4_ftp-1-w1vsvi9ijou4-2301970250.jpg"
+    }
+   ],
+   "flux_utilise": "https://www.lemonde.fr/rss/une.xml"
+  },
+  {
+   "id": "croix",
+   "nom": "La Croix",
+   "couleur": "#c8102e",
+   "une": {
+    "fichier": "unes/croix.jpg",
+    "date": "2026-11-21",
+    "source": "https://img.kiosko.net/2026/11/21/fr/lacroix.750.jpg"
+   },
+   "articles": [
+    {
+     "titre": "Pas-de-Calais : routes et maisons inondées, 800 personnes évacuées",
+     "lien": "https://www.la-croix.com/pas-de-calais-routes-et-maisons-inondees-la-pluie-devrait-diminuer-20261120",
+     "resume": "Près de 800 personnes ont été évacuées depuis jeudi 19 novembre dans le Pas-de-Calais en raison d’inondations après de fortes pluies ces derniers jours.",
+     "date": "2026-11-21T12:25:01+01:00",
+     "source": "",
+     "image": "https://i.la-croix.com/x/2026/11/20/2594623-inondation-a-raye-sur-authie-dans-le-pas-de-calais.jpg"
+    },
+    {
+     "titre": "Le père Stéphane Duteurtre nommé évêque de Saint-Étienne",
+     "lien": "https://www.la-croix.com/religion/le-pere-stephane-duteurtre-nomme-eveque-de-saint-etienne-20261121",
+     "resume": "Curé de la paroisse Notre-Dame de Clignancourt, à Paris, le père Stéphane Duteurtre, 59 ans, a été nommé, ce samedi 21 novembre, évêque de Saint-Étienne, dans la Loire.",
+     "date": "2026-11-21T12:06:34+01:00",
+     "source": "",
+     "image": "https://i.la-croix.com/x/2026/11/21/2595251-le-pere-stephane-duteurtre.PNG"
+    },
+    {
+     "titre": "« Faut-il cesser de parler avec ceux qui fragilisent les fondements du débat démocratique ? »",
+     "lien": "https://www.la-croix.com/a-vif/faut-il-cesser-de-parler-avec-ceux-qui-fragilisent-les-fondements-du-debat-democratique-20261121",
+     "resume": "Syndicats fuyant certaines caméras, politiques pratiquant la sélection de leurs interlocuteurs : le refus de discuter s’érige en principe. Un rempart contre les extrêmes qui peut sembler séduisant, mais aux effets pervers redoutables.",
+     "date": "2026-11-21T11:38:29+01:00",
+     "source": "",
+     "image": "https://i.la-croix.com/x/2026/08/21/2515931-marie-grand-est-agregee-de-philosophie.jpg"
+    },
+    {
+     "titre": "Les marchés boursiers mondiaux ébranlés par la fébrilité autour de l’IA",
+     "lien": "https://www.la-croix.com/les-bourses-mondiales-emportees-par-les-doutes-sur-la-rentabilite-de-l-ia-20261120",
+     "resume": "Les Bourses mondiales ont été sévèrement secouées par la tourmente autour de l’intelligence artificielle vendredi 20 novembre, dont les importants besoins en capitaux suscitent désormais la défiance des investisseurs.",
+     "date": "2026-11-21T11:32:20+01:00",
+     "source": "",
+     "image": "https://i.la-croix.com/x/2026/11/18/2592953-un-operateur-a-la-bourse-de-new-york-le-16-novembr.jpg"
+    },
+    {
+     "titre": "« Femmeblancherie » : un procès fait la lumière sur la mouvance masculiniste",
+     "lien": "https://www.la-croix.com/societe/femmeblancherie-un-proces-fait-la-lumiere-sur-la-mouvance-masculiniste-20261121",
+     "resume": "Sept hommes ont été jugés à Paris, les 18 et 19 novembre 2026, pour des messages haineux visant les femmes lors des premières audiences d’un grand procès du mouvement masculiniste, qui va se poursuivre en plusieurs étapes jusqu’au 6 janvier 2027.",
+     "date": "2026-11-21T11:17:15+01:00",
+     "source": "",
+     "image": "https://i.la-croix.com/x/2026/11/21/2594954-le-canal-femmeblancherie-comptait-1-758-abonnes-su.jpeg"
+    },
+    {
+     "titre": "Exposition : à la Fondation Cartier, l’art politique et généreux d’Ibrahim Mahama",
+     "lien": "https://www.la-croix.com/culture/exposition-a-la-fondation-cartier-l-art-politique-et-genereux-dibrahim-mahama-20261121",
+     "resume": "La Fondation Cartier, à Paris, consacre une exposition d’envergure à l’artiste ghanéen de 39 ans, très investi dans le développement culturel de son pays et la transmission aux jeunes générations. L’occasion de découvrir son travail, axé sur l’héritage…",
+     "date": "2026-11-21T10:38:22+01:00",
+     "source": "",
+     "image": "https://i.la-croix.com/x/2026/11/20/2587389-le-plasticien-et-sculpteur-ghaneen-ibrahim-mahara-.jpg"
+    }
+   ],
+   "flux_utilise": "https://www.la-croix.com/feeds/rss/site.xml"
+  },
+  {
+   "id": "equipe",
+   "nom": "L'Équipe",
+   "couleur": "#e2001a",
+   "une": {
+    "fichier": "unes/equipe.jpg",
+    "date": "2026-11-21",
+    "source": "https://img.kiosko.net/2026/11/21/fr/l_equip.750.jpg"
+   },
+   "articles": [
+    {
+     "titre": "En panne de résultats en Ligue 1, Monaco en 3-4-3 contre Auxerre ?",
+     "lien": "https://www.lequipe.fr/Football/Actualites/En-panne-de-resultats-en-ligue-1-monaco-en-3-4-3-contre-auxerre/1745088#at_medium=RSS_feeds",
+     "resume": "Plongée dans une série négative de cinq matches sans succès en Ligue 1, l'ASM devrait évoluer dans un système différent ce samedi soir face à Auxerre (20h45). Filipe Luis pourrait s'appuyer pour la première fois sur une défense à trois.",
+     "date": "2026-11-21T13:30:00+01:00",
+     "source": "",
+     "image": "https://medias.lequipe.fr/img-photo-jpg/les-resultats-font-cruellement-defaut-a-l-asm-de-filipe-luis-le-moment-de-changer-de-systeme-de-jeu-j-b-autissier-l-equipe/1500000002655798/0:0,2000:1333-828-552-75/57c90.jpg"
+    },
+    {
+     "titre": "Chessum : «Le défi sera immense face aux All Blacks»",
+     "lien": "https://www.lequipe.fr/Rugby/Video/Championnat-des-nations-angleterre-ollie-chessum-avant-angleterre-nouvelle-zelande-le-defi-sera-immense/20246016#at_medium=RSS_feeds",
+     "resume": "",
+     "date": "2026-11-21T13:27:00+01:00",
+     "source": "",
+     "image": "https://medias.lequipe.fr/img-photo-png/-/1500000000833469/0-828-552-75/0cb67.png"
+    },
+    {
+     "titre": "Groenewald : « La F1 est un laboratoire pour les carburants de demain »",
+     "lien": "https://www.lequipe.fr/Formule-1/Article/-la-f1-est-un-laboratoire-pour-les-carburants-de-demain-entretien-avec-le-secretaire-general-de-la-fia-willem-groenewald/1744962#at_medium=RSS_feeds",
+     "resume": "",
+     "date": "2026-11-21T13:20:00+01:00",
+     "source": "",
+     "image": "https://medias.lequipe.fr/img-photo-png/-/1500000000833469/0-828-552-75/0cb67.png"
+    },
+    {
+     "titre": "Nouveau désaveu pour Philippe Diallo : après la Conmebol, la CAF annonce aussi son soutien à Gianni Infantino pour la présidence de la FIFA",
+     "lien": "https://www.lequipe.fr/Football/Actualites/Nouveau-desaveu-pour-philippe-diallo-apres-la-conmebol-la-caf-annonce-aussi-son-soutien-a-gianni-infantino-pour-la-presidence-de-la-fifa/1745087#at_medium=RSS_feeds",
+     "resume": "Lors de la 48e assemblée générale de la CAF organisée ce samedi à Abuja, au Nigeria, le président Patrice Motsepe a demandé aux 54 fédérations membres de se lever pour afficher un soutien à la candidature de Gianni Infantino.",
+     "date": "2026-11-21T13:13:35+01:00",
+     "source": "",
+     "image": "https://medias.lequipe.fr/img-photo-png/-/1500000000833469/0-828-552-75/0cb67.png"
+    },
+    {
+     "titre": "Marco Bezzecchi en pole-position du GP du Portugal devant Marc Marquez, Johann Zarco 8e",
+     "lien": "https://www.lequipe.fr/Moto/Actualites/Marco-bezzecchi-en-pole-position-du-gp-du-portugal-devant-marc-marquez-johann-zarco-8e/1745086#at_medium=RSS_feeds",
+     "resume": "Marco Bezzecchi s'est offert le record du circuit et la première place sur la grille de Portimao, ce samedi, lors des qualifications du GP du Portugal. Marc Marquez, qui peut valider le titre ce week-end, a signé le 2e temps, alors que Jorge Martin s'est…",
+     "date": "2026-11-21T13:11:15+01:00",
+     "source": "",
+     "image": "https://medias.lequipe.fr/img-photo-png/-/1500000000833469/0-828-552-75/0cb67.png"
+    },
+    {
+     "titre": "Devant Richard Gasquet, au niveau de Gilles Simon et de Gaël Monfils : Arthur Fils sera 6e mondial lundi",
+     "lien": "https://www.lequipe.fr/Tennis/Actualites/Devant-richard-gasquet-au-niveau-de-gilles-simon-et-de-gael-monfils-arthur-fils-sera-6e-mondial-lundi/1745085#at_medium=RSS_feeds",
+     "resume": "Les défaites vendredi de Flavio Cobolli puis de Frances Tiafoe aux Finales ATP permettent à Arthur Fils de gagner une place pour devenir 6e mondial. Le Français de 22 ans, éliminé en poules du Masters, égale ainsi la meilleure marque de Gaël Monfils et de…",
+     "date": "2026-11-21T13:09:10+01:00",
+     "source": "",
+     "image": "https://medias.lequipe.fr/img-photo-jpg/arthur-fils-s-est-arrete-en-poules-des-finales-atp-f-faugere-l-equipe/1500000002655792/21:12,1963:1307-828-552-75/cf64c.jpg"
+    }
+   ],
+   "flux_utilise": "https://dwh.lequipe.fr/api/edito/rss?path=/"
+  }
+ ],
+ "sections": [
+  {
+   "id": "monde",
+   "titre": "Actualité principale",
+   "sous_titre": "Les informations les plus importantes, partout dans le monde",
+   "items": [
+    {
+     "titre": "De retour d’Asie, Donald Trump défend sa proximité avec Vladimir Poutine et Xi Jinping",
+     "lien": "https://www.lemonde.fr/international/article/2026/11/21/etats-unis-de-retour-d-asie-donald-trump-defend-sa-proximite-avec-vladimir-poutine-et-xi-jinping_6813916_3210.html",
+     "resume": "Le président américain s’est félicité vendredi, à Washington, des discussions menées avec ses homologues russe et chinois, en particulier au sujet de l’Ukraine. Un compte rendu qui montre que le milliardaire continue de poursuivre ses chimères quant à un…",
+     "date": "2026-11-21T05:30:19+01:00",
+     "source": "lemonde.fr",
+     "image": "https://img.lemde.fr/2026/11/19/352/0/4229/2114/644/322/60/0/413ae62_ftp-1-a7l1ek7fortd-afp-d7y46cp.jpg",
+     "reprises": 7,
+     "score": 16.67
+    },
+    {
+     "titre": "France : acte VI de la mobilisation contre la vie chère",
+     "lien": "https://www.france24.com/fr/vid%C3%A9o/20261121-france-acte-vi-de-la-mobilisation-contre-la-vie-ch%C3%A8re",
+     "resume": "Les manifestations reprennent ce samedi 21 novembre en France. C'est le sixième acte d'une mobilisation contre la vie chère. À Paris, le cortège partira de la place de la République.",
+     "date": "2026-11-21T11:36:51+01:00",
+     "source": "france24.com",
+     "image": "https://s.france24.com/media/display/f915a852-e590-11f1-a065-e56ab3dc0809/w:1024/p:16x9/FR-20261121-100429-100542-CS.jpg",
+     "reprises": 4,
+     "score": 7.93
+    },
+    {
+     "titre": "Aux États-Unis, le ministère de l'Agriculture et le FBI victimes d'une cyber-attaque",
+     "lien": "https://www.france24.com/fr/am%C3%A9riques/20261121-%C3%A9tats-unis-le-minist%C3%A8re-de-l-agriculture-et-le-fbi-victimes-de-piratages-informatiques",
+     "resume": "Quelques jours après des pannes technologiques dans des secteurs stratégiques du pays, le ministère de l'Agriculture et la police fédérale des États-Unis ont été victimes de piratages informatiques, ont rapporté, vendredi, les médias américains.",
+     "date": "2026-11-21T08:31:14+01:00",
+     "source": "© Cliff Owen, AP",
+     "image": "https://s.france24.com/media/display/c8b6415c-e578-11f1-81f3-6b451f569414/w:1024/p:16x9/AP24318480363864.jpg",
+     "reprises": 4,
+     "score": 7.29
+    },
+    {
+     "titre": "Aux Etats-Unis, Wall Street en déroute après la dégringolade des sociétés liées à l’IA",
+     "lien": "https://www.lemonde.fr/economie/article/2026/11/21/aux-etats-unis-wall-street-en-deroute-apres-la-degringolade-des-societes-liees-a-l-intelligence-artificielle_6813811_3234.html",
+     "resume": "Les inquiétudes sur le modèle économique des entreprises d’intelligence artificielle, les incertitudes sur l’avenir des data centers et les déboires du champion Nvidia ont effacé des milliards de dollars de capitalisation. La Bourse américaine a vécu l’une…",
+     "date": "2026-11-21T01:33:30+01:00",
+     "source": "lemonde.fr",
+     "image": "https://img.lemde.fr/2026/11/17/145/0/8640/4320/644/322/60/0/1aac9c6_ftp-1-bl2mjk8u5plu-723cd91866ad4c908c14cab2908a80fe-0-22cb69999ee142a0a4ae95c6c2e55cd5.jpg",
+     "reprises": 3,
+     "score": 7.26
+    },
+    {
+     "titre": "Le Danemark accuse la Russie d'avoir tenté d'assassiner un rappeur ukrainien",
+     "lien": "https://www.france24.com/fr/vid%C3%A9o/20261121-le-danemark-accuse-la-russie-d-avoir-tent%C3%A9-d-assassiner-un-rappeur-ukrainien",
+     "resume": "Grand appui de l'Ukraine, le Danemark a accusé Moscou d'avoir fomenté une tentative d'assassinat d'un rappeur ukrainien sur son sol et va expulser l'attaché de défense de l'ambassade de Russie.",
+     "date": "2026-11-21T13:14:58+01:00",
+     "source": "france24.com",
+     "image": "https://s.france24.com/media/display/7b5f0e1a-e59c-11f1-9110-13439ca2fe89/w:1024/p:16x9/FR-20261121-110144-110333-CS.jpg",
+     "reprises": 4,
+     "score": 6.48
+    },
+    {
+     "titre": "«Robots tueurs»: un accord à l'ONU en vue d'un possible encadrement international",
+     "lien": "https://www.rfi.fr/fr/monde/20261121-robots-tueurs-un-accord-%C3%A0-l-onu-en-vue-d-un-possible-encadrement-international",
+     "resume": "Les pays réunis à Genève pour une conférence de l'ONU sur les «robots tueurs» se sont accordés samedi 21 novembre, après cinq jours d'âpres discussions, pour ouvrir la voie à un possible encadrement international de l'utilisation des systèmes d'armes…",
+     "date": "2026-11-21T07:58:43+01:00",
+     "source": "AFP - LUDOVIC MARIN",
+     "image": "https://s.rfi.fr/media/display/1fe1a062-e573-11f1-a5e4-13439ca2fe89/w:1024/p:16x9/000-44NU4MW.jpg",
+     "reprises": 3,
+     "score": 5.33
+    }
+   ],
+   "a_traduire": []
+  },
+  {
+   "id": "ia",
+   "titre": "Intelligence artificielle",
+   "sous_titre": "Modèles, entreprises, régulation, recherche",
+   "items": [
+    {
+     "titre": "Il s'agit de l'un des sept problèmes mathématiques du \"millénaire\": un chercheur affirme avoir résolu l'hypothèse de Riemann avec l'appui de l'IA d'Anthropic",
+     "lien": "https://news.google.com/rss/articles/CBMizAJBVV95cUxOS0Q5NmhfY2JFRUh3dGpyT2pib2RGZGlvNEZvNjh5d0U0VFFybVh4dF9mYTNXclNrd3NoNmxjLUU3OG1jZUZGa2plRWJnbE4xODRUMGtBbUVwTzdleUZNMEF3aGdDenppdGFPeklHZDQteUdUb3BxOERyeXZNMElBbUhLNjkzNTN5bUVzNkdzUU5UTS0xcUNTT2ZLT2JyMTFLV083N0NiWkJXZFVYT2M5MmxqUjZqX2loWWJEeUZ5WnFOWlhuMFlBY0pmQ2dzT1RHeTFtVnhJQTlTNTZoUXEyOWpTdkhQc0tlUndDNzA0djJEOTZjQ0NFUG9RRDRQZjhXNl9HQ2ZzcG1hZjIxblBrSFN6OURMdXBUWDhReG5uQnlXOFBjazZwY3RLOFp3N0ZQQXFMazRBVy1McnpudGdXZTlTQWxjNkk3UUh1cw?oc=5",
+     "resume": "Deux démonstrations concurrentes de l’hypothèse de Riemann, l’un des problèmes ouverts les plus célèbres des mathématiques, ont été rendues publiques ce vendredi 20 novembre. Quelques heures après celle d’Anthropic, le président de l’American Mathematical…",
+     "date": "2026-11-21T11:08:40+01:00",
+     "source": "BFM",
+     "image": null,
+     "reprises": 11,
+     "score": 30.67
+    },
+    {
+     "titre": "La Bourse de Wall Street enregistre des centaines de milliards de dollars de pertes, pénalisée par le secteur de l'IA",
+     "lien": "https://news.google.com/rss/articles/CBMimgJBVV95cUxQLTVGZ0NrQ2Y5cXBTcFV6Qm02MTJnaklZTzY1S2FDUlZuSE93ZTZRTXdONVpOZTUxYi1ydjVxbzNTNTNCelEzbFJGcVhTeFZKNU03RnFvRmNpWlBHMlhpNURsSU1NYXh5VzdRb2JGZ3ZUUjJ4VGxmRW5GaXN0ZXgxSWZfaU5sbEliWlU1NmZJc3YwdVlHOUZic0FsNldfQVFRcHpYalR6VzhmclIxX2tjQkFvUFZzRHJDZ2ZiUzVDdU0xM2VGVXBpblpYZ2U2cHpsN2xuUUExOE9maWtNOEMwdUZFM3RSSXoyNjBNOFllNURfNVozb3pSODFhM2d4NjNXLTFiWld5QmdWSndNUjBjbUFGeTJ0Q21pdVE?oc=5",
+     "resume": "",
+     "date": "2026-11-21T12:33:52+01:00",
+     "source": "franceinfo",
+     "image": null,
+     "reprises": 10,
+     "score": 19.31
+    },
+    {
+     "titre": "Anthropic ou le pari de plus en plus vertigineux de l’IA",
+     "lien": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQQlFnV1E4UHJTNi1OUkVhSUZkLVFxaks1QUk1OGdlY2JEdG15eXBfTWVOVHdRN2tYazJzX1dXaDBzVmhuc0RtWkNJX05aVlg5T2lRMmFaZk5uVjJYWVIwX3NjNkVlVVA1aDV5U3pRMTA4eG5vd0NfeFF5eDVvVFNiWDVaLTBWQkNMUmo4UGMtTVJNQ2lJS01nZ0lTSDdNVC13Y0VVNTJlZTJ3cDNpcjNLb0lQTEFOZU5rbi1wZXlCcw?oc=5",
+     "resume": "",
+     "date": "2026-11-21T11:30:10+01:00",
+     "source": "Le Monde.fr",
+     "image": null,
+     "reprises": 2,
+     "score": 5.81
+    },
+    {
+     "titre": "Trop belles pour être vraies ? Des humoristes générées par l'intelligence artificielle circulent sur les réseaux sociaux",
+     "lien": "https://news.google.com/rss/articles/CBMikwJBVV95cUxOeFk4OThOWWhwRF84U0ZTaVJqdEhkd25MOUMyOFNrRTBMQXduOXV4cWY4a25qNTZmcWZjVUQ1V2pQeFA1MnFpMG41cWRqbUFmcUg4cW54TWFCNVlmT3RESG40S1MyVmlGR0pxOFBPRnlPM0hWSmx1RVB2NVlxaG1adzktLTlLLWZYd3BlU1l4aURQcVBrRUFhbmRoR3ZoN0JLLW1xRGwwYkE5d2JaVmdXZ3h4RU9CYm90ak5IUVFRc0h5LUowT1JtOVB1WEw2VmJrUVFVbWt5ekZrb05fMkVoZFdCR0FvQU1lU3RaS3dndGUzSTNXVHlWU0RWXzZWakNkTG5PUzRLaVczUVhCT1pHZ2dUaw?oc=5",
+     "resume": "",
+     "date": "2026-11-21T12:10:07+01:00",
+     "source": "TF1+",
+     "image": null,
+     "reprises": 3,
+     "score": 5.19
+    },
+    {
+     "titre": "Le français OVHcloud entre dans la course à l’IA ; l’entrée en Bourse d’Anthropic ne rassure pas le marché : les temps forts de la semaine",
+     "lien": "https://news.google.com/rss/articles/CBMijwJBVV95cUxQQVpnUEMzc3BYMVdlSzRZOGFScWpQeWJjQjktZFprWUt1UV9wbVp6MzhnUkdIVHBhMUFaWHhfM2l3RTdwb2tKRk9KVHhWQ2ZCUnp1WDZqajhyYVdnVTBnRUthdWItdTA3VWFoSWVZVkZCbzJ5cjRQM3VNZEV2VkJva0ZWUDUxV0lBQm1uNGlmYU54Sm1QS2dRaEhVRW8zRVVQdE1HZUhGT3Z3S1RzbVFQVGNPamVpOFlWZTdneVlEbU9rb2hTLVNaR0REdmc1WENMTTlhZFhkU05MNDVQeTBjbVpxTzRLR0RXVUQzZGZBUEgtX1VJT2tUeHo5UUVCV2RmR3hGc1IyOVNmRkNxZXlN?oc=5",
+     "resume": "",
+     "date": "2026-11-21T11:56:49+01:00",
+     "source": "L'Orient-Le Jour",
+     "image": null,
+     "reprises": 3,
+     "score": 4.14
+    }
+   ],
+   "a_traduire": [
+    {
+     "titre": "AI claimed a solution to the 167-year-old Riemann hypothesis — and a human did, too",
+     "lien": "https://techcrunch.com/2026/11/20/ai-claimed-a-solution-to-the-167-year-old-riemann-hypothesis-and-a-human-did-too/",
+     "resume": "Mathematicians are having their minds blown by the latest AI-driven result — and there's a competing human solution, too.",
+     "date": "2026-11-20T20:32:08+01:00",
+     "source": "techcrunch.com",
+     "image": null,
+     "reprises": 1,
+     "score": 1.31
+    },
+    {
+     "titre": "Trump threatens ‘tremendous tax’ for moving AI data centers outside the US",
+     "lien": "https://www.theverge.com/policy/1038892/trump-foreign-data-centers-tax",
+     "resume": "President Donald Trump promised to put a \"tremendous tax\" on companies that build data centers outside of the US, even as states and cities around the country are placing restrictions on new applications to build them. \"We're not going to allow our companies…",
+     "date": "2026-11-20T19:50:19+01:00",
+     "source": "theverge.com",
+     "image": null,
+     "reprises": 1,
+     "score": 1.3
+    },
+    {
+     "titre": "Anthropic mathematician claims to have solved prestigious Millennium Prize problem with Claude",
+     "lien": "https://www.theverge.com/ai-artificial-intelligence/1010051/anthropic-riemann-hypothesis-millennium-prize-problem",
+     "resume": "Anthropic mathematician Levent Alpöge claims he has proved the Riemann hypothesis, one of mathematics's most notoriously difficult problems, with the help of Claude, cracking a puzzle that has eluded some of the world's best mathematicians for decades. If…",
+     "date": "2026-11-20T17:34:13+01:00",
+     "source": "theverge.com",
+     "image": null,
+     "reprises": 1,
+     "score": 1.13
+    },
+    {
+     "titre": "Signal is blocking Gemini and Siri AI from reading your screen",
+     "lien": "https://www.theverge.com/ai-artificial-intelligence/1038390/signal-blocking-ai-agent-screenshots-mobile-app",
+     "resume": "Signal is restricting the ability to take screenshots on Android and iOS devices in an effort to prevent AI agents from reading users' messages and other data. The agentic AI capabilities built into operating systems that analyze on-screen information to…",
+     "date": "2026-11-20T13:30:47+01:00",
+     "source": "theverge.com",
+     "image": null,
+     "reprises": 1,
+     "score": 0.96
+    }
+   ]
+  },
+  {
+   "id": "droit",
+   "titre": "Actualité juridique",
+   "sous_titre": "Libertés fondamentales, grandes juridictions, culture juridique pour le CRFPA",
+   "items": [
+    {
+     "titre": "Municipales à Nantes : un appel devant le Conseil d'État contre la réélection de Johanna Rolland",
+     "lien": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9mRVhGV3BudUdsLVkzVzI4UzRCQThDbjJ2bWU5RFNNa2p3Wk1IRGhIaUNJSjFfTDk3UjlfYVU3cmNfb3g0V2t1ZElDeDI2VDg?oc=5",
+     "resume": "",
+     "date": "2026-11-19T03:20:18+01:00",
+     "source": "https://infos-media-nantes.fr/",
+     "image": null,
+     "reprises": 5,
+     "score": 7.55,
+     "libertes": false
+    },
+    {
+     "titre": "Covid : l'obligation vaccinale des soignants en France validée par la CEDH",
+     "lien": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQMVVfdUMzQXVOcjNGMUFDYVBPaUhabkZyZ3lpQmgzOWhjSG5xRDdxaXU1Um5fR3JxR3ZKc0JzM3N4TTBzOGhNbFc1cy1NVl9ZT0VDVGEtWURhX1VmbWFHek5FLWF5Zm1QNW51UlNjMWUtUzBWMlFPaXpnei03VWdOQ0tlT1hkQ0M0VTFOclNyVW5ScnBUYlQ1VTFZVUw1SlNFXzd2U1Y5ekQxeHF1SmxLQmEtcTN5a1pl?oc=5",
+     "resume": "",
+     "date": "2026-11-19T14:30:19+01:00",
+     "source": "TF1 Info",
+     "image": null,
+     "reprises": 4,
+     "score": 7.33,
+     "libertes": true
+    },
+    {
+     "titre": "Loup dans les Pyrénées-Atlantiques : le Conseil d’État rejette le recours des associations de protection de la nature",
+     "lien": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxQN1FvU25hUm5CMkYxVjF0NXpQa2ZTa0ttSHZSb0EtMmR4Qm5wZE9XcUw4YVM4UE83Zjdab3VUNjdLczNUMmNpQS1meGV2bUlGQlhxUXMwZkdVRWtpcDVBRGtMQW9LeC1mZDJVZGFQRFZTMUlhM05PWXBGOE1sYXlvam03QTJNSjJ1dTRUbXhGeWFzdzBNcC1Ody1zaUlNbnM1WG9aemlhOHpNeUw0SERHazZTZWNLdWVQS0o1SnBNd05feUM0M3BVVzhKZk5hem9jbDFBNVI5ME1KTS1DWnkzZXRwU1pYZw?oc=5",
+     "resume": "",
+     "date": "2026-11-19T08:50:23+01:00",
+     "source": "La Semaine des Pyrénées",
+     "image": null,
+     "reprises": 3,
+     "score": 5.96,
+     "libertes": false
+    },
+    {
+     "titre": "Protection des lanceurs d’alerte : la Cour de cassation donne raison à Houria Aouimeur",
+     "lien": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNSF8xeFFrTU1qeFdwa1JiR3pqMzNub2l5aHpBOWx4T1Q2T040czJXVzh5RXB6X3Ftby1iUmhFTGE3aEFSUkh3b0ROdkYxOW8xeXRpcGhzS0pVeWt0cGVfM2xrWXlBNWFwNW5ybFhCdDU4bWIzdkRGMUtCbWUxNElNZjIyRmFpejAtbS12c2lwOHJoUDVUSUNUdW5PbXFXNXpxMlkzcEFSa1pQWUI2aERPLUd5aEdrZFlSR3cw?oc=5",
+     "resume": "",
+     "date": "2026-11-19T11:37:22+01:00",
+     "source": "Anticor",
+     "image": null,
+     "reprises": 3,
+     "score": 5.21,
+     "libertes": false
+    },
+    {
+     "titre": "Licenciement pour inaptitude dans la fonction publique : le Conseil d’État retient une définition élargie du périmètre de l’obligation de reclassement",
+     "lien": "https://news.google.com/rss/articles/CBMijwJBVV95cUxQMWRoWng1VUh0Tm9QcXc4QXFaN0VuTHBpcU9raW4xSlNidWYwakFFUVc5cGRCVkxwaklJWURVa0dZZjRLb0RFa0pNNFVvWjAzaHgxQ1pWQ3hsMy1FQ0ZWWlRZYlpFOTFpenZzM3dna214M04wOFpOZC1McHBfWkI1RHQ1NTFoZVlXN18tRDVMcjR0OWFRNC1VQjhRNFdhUWIweTl0Y21YQ0I3cnFCcnE5SUI4TW5wcUplTHRtRXRvWm1iaWY0bGNRNWxacEJBZGQ1MVRQbUhMT3pOOGtfdDdlaTRvTmFFQ2lWY1I3am53dkpJUm80SUhVb3kzeHV6NjhtWkZ3M2R0cDg2TjdMMFdB?oc=5",
+     "resume": "",
+     "date": "2026-11-19T14:46:31+01:00",
+     "source": "Acteurs Publics",
+     "image": null,
+     "reprises": 3,
+     "score": 4.2,
+     "libertes": false
+    },
+    {
+     "titre": "Garde à vue de mineurs : les parents doivent être informés d’une prolongation, juge le Conseil constitutionnel",
+     "lien": "https://news.google.com/rss/articles/CBMivwJBVV95cUxQRnpybXdkTmpnS0djSnp4YU9NeW8zYlVyTnc3NzFiWlZsZHYtTkE1YkRGNmlZdGczZmZyR2VWS0tZS0k1NTFxT2Y2Mnk3clExVU1yZnh1SWxJWEtvZXRzZ0FQd01tN2hCVmgtNm1rbDRpaVBKUEtqZFhONno4THhxbWNiTWlfSlpzYllhcjEwelJzNS1UbnBQcmR5MUk5dFY4Wm05WXEtNTdHWE5KNE1INjVFaU1ZeVRNV1loMjJxM2pYeUZBcW80LUFIUmVlOW1lazI4U1ZXa09vMUF6ZUEzYTI4WW14MUFUMFJlbGhBUzVPUENkMUU0d2VtLVNhSG9walpxRlFReEZ2Zl9VSU15NnVpYzJWcGhPdlFoekZXZ3Uzck1QODFNbnpvNkpZZWFvemlZcklnb1VVdWNxcmlr?oc=5",
+     "resume": "",
+     "date": "2026-11-20T13:00:32+01:00",
+     "source": "Ouest-France",
+     "image": null,
+     "reprises": 2,
+     "score": 4.04,
+     "libertes": true
+    }
+   ],
+   "a_traduire": []
+  }
+ ]
+}
