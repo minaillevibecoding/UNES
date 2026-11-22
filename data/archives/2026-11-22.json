@@ -1,6 +1,6 @@
 {
  "date": "2026-11-22",
- "genere": "2026-11-22T13:50+01:00",
+ "genere": "2026-11-22T15:29+01:00",
  "journaux": [
   {
    "id": "figaro",
@@ -13,12 +13,12 @@
    },
    "articles": [
     {
-     "titre": "Un projet qui omet la sortie des énergies fossiles : la COP31 s’achève sur un constat d’échec",
-     "lien": "https://www.lefigaro.fr/sciences/cop31-l-union-europeenne-s-oppose-frontalement-au-dernier-projet-de-declaration-finale-20261122",
-     "resume": "Le président turc de la COP31 a reconnu dimanche l’absence d’accord des pays sur le projet de décision finale de la conférence sur le climat. L’Union européenne et certains pays vulnérables ont refusé de signer un texte «pas à la hauteur» des enjeux.",
-     "date": "2026-11-22T13:47:29+01:00",
+     "titre": "Soupçons de fuites vers le RN : Marine Le Pen dit n’avoir «jamais reçu d’information confidentielle» de la part du préfet Hugues Moutouh",
+     "lien": "https://www.lefigaro.fr/politique/soupcons-de-fuites-vers-le-rn-marine-le-pen-dit-n-avoir-jamais-recu-d-information-confidentielle-de-la-part-du-prefet-hugues-moutouh-20261122",
+     "resume": "Le préfet de la région Centre-Val de Loire est soupçonné d’être impliqué dans des fuites sur des enquêtes mettant en cause le Rassemblement national. Une enquête est en cours.",
+     "date": "2026-11-22T14:32:41+01:00",
      "source": "",
-     "image": "https://i.f1g.fr/media/cms/3000x2002_crop/2026/11/22/4f7f6366e448a52c2c1d5294e97863d73b81ea1a83d9182535594e443ea242ba.jpg"
+     "image": "https://i.f1g.fr/media/cms/orig/2026/11/22/9b31243377f39bf231065c0ab2ecc7c304243f4071f161186cc9ae09fb599907.JPG"
     },
     {
      "titre": "Soupçons de fuites au profit du RN : un mail du service du préfet Hugues Moutouh découvert en perquisition chez un proche de Marine Le Pen",
@@ -45,20 +45,20 @@
      "image": "https://i.f1g.fr/media/cms/2850x1603_crop/2026/11/20/336945e53b046a03604be5b698ab12daab8b758cd6360038da9522575c515235.jpg"
     },
     {
-     "titre": "Budget : pourquoi la règle d’or n’est pas la solution miracle aux déficits chroniques de la France",
-     "lien": "https://www.lefigaro.fr/conjoncture/budget-pourquoi-la-regle-d-or-n-est-pas-la-solution-miracle-aux-deficits-chroniques-de-la-france-20260804",
-     "resume": "DÉCRYPTAGE - Envisagée par Emmanuel Macron qui voudrait convoquer le Congrès, cette contrainte budgétaire peut être efficace, mais seulement à certaines conditions.",
-     "date": "2026-11-22T10:42:29+01:00",
+     "titre": "Viol présumé d’une élève des Chartreux à Lyon : la face obscure du père Jean-Bernard Plessy, et le crépuscule d’un directeur star",
+     "lien": "https://www.lefigaro.fr/faits-divers/viol-presume-d-une-eleve-des-chartreux-a-lyon-la-face-obscure-du-pere-jean-bernard-plessy-et-le-crepuscule-d-un-directeur-star-20261122",
+     "resume": "ENQUÊTE - Homme d’affaires admiré et craint, l’ex-directeur du célèbre groupe d’enseignement catholique incarnait un mélange de tradition et de modernité. En octobre, sa mise en examen pour des viols présumés sur une élève a scellé sa chute. Et le début…",
+     "date": "2026-11-22T08:00:00+01:00",
      "source": "",
-     "image": "https://i.f1g.fr/media/cms/3000x1687_crop/2026/08/04/158dc990968e34057cfcc15b0c9e3e8212bcdc1fc8ec0fc9ce04f79a6a191efc.jpg"
+     "image": "https://i.f1g.fr/media/cms/3000x2001_crop/2026/11/19/dd8ff8f8753f649bdb3d04f61061fa4ac8e86b7afb3d00ca83158c91e3ebd7bd.jpg"
     },
     {
-     "titre": "Budget : Emmanuel Macron réfléchirait à convoquer le Congrès pour instaurer une règle d'or",
-     "lien": "https://www.lefigaro.fr/politique/budget-emmanuel-macron-reflechirait-a-convoquer-le-congres-pour-instaurer-une-regle-d-or-20261122",
-     "resume": "Selon la Tribune Dimanche, le président de la République envisagerait de s’appuyer sur un projet de loi constitutionnelle voté dans les mêmes termes en 2011 par les deux chambres, à l’initiative du gouvernement de François Fillon",
-     "date": "2026-11-22T12:36:09+01:00",
+     "titre": "Un projet qui omet la sortie des énergies fossiles : la COP31 s’achève sur un constat d’échec",
+     "lien": "https://www.lefigaro.fr/sciences/cop31-l-union-europeenne-s-oppose-frontalement-au-dernier-projet-de-declaration-finale-20261122",
+     "resume": "Le président turc de la COP31 a reconnu dimanche l’absence d’accord des pays sur le projet de décision finale de la conférence sur le climat. L’Union européenne et certains pays vulnérables ont refusé de signer un texte «pas à la hauteur» des enjeux.",
+     "date": "2026-11-22T14:01:25+01:00",
      "source": "",
-     "image": "https://i.f1g.fr/media/cms/orig/2026/11/22/f780a12c18a4ba27bded649959577e5f878756c3242a73323e7d3f016eb94b75.JPG"
+     "image": "https://i.f1g.fr/media/cms/3000x2002_crop/2026/11/22/4f7f6366e448a52c2c1d5294e97863d73b81ea1a83d9182535594e443ea242ba.jpg"
     }
    ],
    "flux_utilise": "https://www.lefigaro.fr/rss/figaro_actualites.xml"
@@ -82,6 +82,30 @@
      "image": "https://img.lemde.fr/2026/11/22/165/0/2803/1401/644/322/60/0/5289506_ftp-1-ek202bqq2pqs-3792d361fabb4fecb2415873fc099424-0-5bd4a13d39904f6186ed418e2f6ba2cf.jpg"
     },
     {
+     "titre": "Fuites vers le RN : Marine Le Pen dit n’avoir « jamais reçu d’informations confidentielles » du préfet Hugues Moutouh",
+     "lien": "https://www.lemonde.fr/societe/article/2026/11/22/fuites-vers-le-rn-marine-le-pen-dit-n-avoir-jamais-recu-d-informations-confidentielles-du-prefet-hugues-moutouh_6814216_3224.html",
+     "resume": "La candidate du RN à l’élection présidentielle 2027 a également assuré ne pas connaître personnellement le haut fonctionnaire, qui a annoncé, samedi, avoir demandé à être relevé de ses fonctions.",
+     "date": "2026-11-22T15:01:15+01:00",
+     "source": "",
+     "image": "https://img.lemde.fr/2026/11/18/967/0/6500/3250/644/322/60/0/530dfbc_upload-1-rzxcru3hebgn-kzihnioglu-paris-bardella-lepen-17112026-17.jpg"
+    },
+    {
+     "titre": "Le Groupe Castel, empire discret de la bière et du vin, secoué par une guerre de pouvoir",
+     "lien": "https://www.lemonde.fr/economie/article/2026/11/22/le-groupe-castel-empire-discret-de-la-biere-et-du-vin-secoue-par-une-guerre-de-pouvoir_6814179_3234.html",
+     "resume": "Un âpre conflit de gouvernance tourmente le géant des boissons, où l’on se dispute l’héritage, spirituel comme financier, de son charismatique fondateur, Pierre Castel. La 11ᵉ fortune française vient d’avoir 100 ans.",
+     "date": "2026-11-22T06:00:31+01:00",
+     "source": "",
+     "image": "https://img.lemde.fr/2026/11/20/252/0/2625/1312/644/322/60/0/4f5c077_upload-1-wly4lqpugvxj-gettyimages-2187492495.jpg"
+    },
+    {
+     "titre": "Désobéir au pouvoir politique : le débat resurgit dans la fonction publique",
+     "lien": "https://www.lemonde.fr/politique/article/2026/11/21/desobeir-au-pouvoir-politique-le-debat-resurgit-dans-la-fonction-publique_6814050_823448.html",
+     "resume": "Le collectif Nos services publics a lancé, jeudi 19 novembre, une formation consacrée aux droits et responsabilités des agents publics. Dans la fonction publique, le principe d’obéissance hiérarchique reste la règle et la désobéissance une rare exception.",
+     "date": "2026-11-21T18:00:07+01:00",
+     "source": "",
+     "image": "https://img.lemde.fr/2026/10/26/0/0/3000/1500/644/322/60/0/c40d6aa_upload-1-jatcsvrwei61-meetingrn-orleans-asurp-204750.jpg"
+    },
+    {
      "titre": "La défiance contre les data centers devient mondiale, de l’Inde au Chili en passant par l’Irlande ou le Japon",
      "lien": "https://www.lemonde.fr/international/article/2026/11/22/data-centers-la-defiance-monte-partout-dans-le-monde-de-l-inde-au-chili-en-passant-par-l-irlande-ou-le-japon_6814186_3210.html",
      "resume": "Ces gigantesques installations ne suscitent pas la colère qu’aux Etats-Unis. Elles apparaissent sur tous les continents où elles provoquent les mêmes inquiétudes : exploitation excessive des ressources naturelles, consommation effrénée d’énergie, opacité.…",
@@ -90,36 +114,12 @@
      "image": "https://img.lemde.fr/2026/11/14/917/0/5500/2750/644/322/60/0/a84b083_ftp-1-xkavpiejahgn-2026-11-14t135955z-1515608311-rc2pnoaa2v2i-rtrmadp-3-ai-britain-protest.JPG"
     },
     {
-     "titre": "Fuites de Beauvau vers le RN : d’un email trouvé au domicile de Frédéric Chatillon aux suspicions visant le préfet Hugues Moutouh, itinéraire d’une enquête sensible",
-     "lien": "https://www.lemonde.fr/societe/article/2026/11/21/fuites-de-beauvau-vers-le-rn-d-un-email-trouve-au-domicile-d-un-ami-de-marine-le-pen-aux-suspicions-visant-le-prefet-moutouh-itineraire-d-une-enquete-sensible_6814067_3224.html",
-     "resume": "Selon les informations du « Monde », les investigations sur les fuites d’informations confidentielles vers le RN ont été déclenchées après la découverte d’un courriel d’une fonctionnaire du ministère de l’intérieur au domicile à Rome de Frédéric Chatillon,…",
-     "date": "2026-11-21T22:00:02+01:00",
-     "source": "",
-     "image": "https://img.lemde.fr/2026/11/19/65/0/4500/2250/644/322/60/0/57cc642_ftp-1-7hc6fbncp65v-afp-d82e9wf.jpg"
-    },
-    {
-     "titre": "Le « racisme anti-Blancs », matrice à fantasmes utilisée par l’extrême droite",
-     "lien": "https://www.lemonde.fr/societe/article/2026/11/22/le-racisme-anti-blancs-matrice-a-fantasmes-utilisee-par-l-extreme-droite_6814187_3224.html",
-     "resume": "Dans une tentative d’inverser les rapports de domination, une partie de l’extrême droite française veut populariser ce concept né chez les identitaires dans les années 1970.",
-     "date": "2026-11-22T06:30:18+01:00",
-     "source": "",
-     "image": "https://img.lemde.fr/2026/11/21/222/0/4104/2052/644/322/60/0/eb62165_upload-1-qp0kmsr8al1b-le-monde-v5.jpg"
-    },
-    {
      "titre": "Aux Etats-Unis, les témoignages de détenus américains de l’ICE",
      "lien": "https://www.lemonde.fr/international/article/2026/11/22/aux-etats-unis-les-temoignages-des-detenus-americains-de-l-ice_6814185_3210.html",
      "resume": "Depuis 2025, ProPublica, l’organisme américain spécialisé en journalisme d’enquête d’intérêt public, a identifié plus de 500 citoyens américains retenus contre leur gré par des agents de l’immigration. Voici quelques-unes de leurs histoires.",
      "date": "2026-11-22T06:30:06+01:00",
      "source": "",
      "image": "https://img.lemde.fr/2026/11/17/310/0/3000/1500/644/322/60/0/8af4661_upload-1-ousor0nbq8ov-20260320-maney-citizen-kids-020.JPG"
-    },
-    {
-     "titre": "« J’aime avoir la bouche en feu » : ces jeunes qui s’affrontent à coups de dégustation de piments",
-     "lien": "https://www.lemonde.fr/m-perso/article/2026/11/22/j-aime-avoir-la-bouche-en-feu-ces-jeunes-qui-s-affrontent-a-coups-de-degustation-de-piments_6814184_4497916.html",
-     "resume": "En sauce, en nouilles instantanées ou en poudre, le piquant semble attirer de plus en plus de vingtenaires. Entre la recherche de sensations fortes et le plaisir gustatif, certains adeptes du feu en bouche repoussent leurs limites.",
-     "date": "2026-11-22T06:30:08+01:00",
-     "source": "",
-     "image": "https://img.lemde.fr/2026/11/18/1154/0/2362/1181/644/322/60/0/946ddc7_upload-1-jydxd6nel3bi-hot-ones.jpg"
     }
    ],
    "flux_utilise": "https://www.lemonde.fr/rss/une.xml"
@@ -134,6 +134,30 @@
     "source": "https://img.kiosko.net/2026/11/22/fr/lacroix.750.jpg"
    },
    "articles": [
+    {
+     "titre": "Climat : faute de consensus, la COP31 se termine sans accord",
+     "lien": "https://www.la-croix.com/planete/climat-faute-de-consensus-la-cop31-se-termine-sans-accord-20261122",
+     "resume": "Plus de 48 heures après l’heure de fin officielle des négociations, la Turquie a reconnu dimanche 22 novembre qu’il n’y avait « pas d’accord » sur la décision finale. Plusieurs blocs, dont l’Union européenne, se sont opposés à un texte jugé insuffisant, sans…",
+     "date": "2026-11-22T14:42:01+01:00",
+     "source": "",
+     "image": "https://i.la-croix.com/x/2026/11/22/2595846-cop31-president-murat-kurum-attends-a-plenary-sess.jpg"
+    },
+    {
+     "titre": "Le Conseil de l’Europe appelle à une couverture médiatique « éthique » des violences sexuelles faites aux enfants",
+     "lien": "https://www.la-croix.com/culture/le-conseil-de-l-europe-appelle-a-une-couverture-mediatique-ethique-des-violences-sexuelles-faites-aux-enfants-20261122",
+     "resume": "À l’occasion de la Journée pour la protection des enfants contre l’exploitation et les abus sexuels célébrée le 18 novembre 2026, le Conseil de l’Europe a publié un manuel destiné aux journalistes afin d’encourager les médias à fournir une information…",
+     "date": "2026-11-22T14:32:57+01:00",
+     "source": "",
+     "image": "https://i.la-croix.com/x/2026/11/22/2595764-ces-orientations-concretes-representent-selon-le-c.jpeg"
+    },
+    {
+     "titre": "Exposition : au Musée Picasso, les éclats poétiques de Kurt Schwitters",
+     "lien": "https://www.la-croix.com/culture/exposition-au-musee-picasso-les-eclats-poetiques-de-kurt-schwitters-20261122",
+     "resume": "L’artiste allemand Kurt Schwitters, proche des dadaïstes, fut à la fois poète, peintre, sculpteur, maître des collages et des assemblages, photographe et graphiste. Dans une vaste exposition présentée jusqu’au 7 février 2027, le Musée Picasso, à Paris,…",
+     "date": "2026-11-22T13:52:32+01:00",
+     "source": "",
+     "image": "https://i.la-croix.com/x/2026/11/22/2592332-photographies-de-kurt-schwitters-recitant-son-poem.jpg"
+    },
     {
      "titre": "La patronne et l’écologie Chapitre 1 : le vertige de la dirigeante",
      "lien": "https://www.la-croix.com/economie/la-patronne-et-l-ecologie-chapitre-1-le-vertige-de-la-dirigeante-20261122",
@@ -157,30 +181,6 @@
      "date": "2026-11-22T11:34:12+01:00",
      "source": "",
      "image": "https://i.la-croix.com/x/2026/11/22/2595686-devant-un-batiment-endommage-par-une-frappe-de-mis.jpg"
-    },
-    {
-     "titre": "Le préfet Moutouh démissionne après des soupçons de fuites vers le RN",
-     "lien": "https://www.la-croix.com/politique/le-prefet-moutouh-demissionne-apres-des-soupcons-de-fuites-vers-le-rn-20261122",
-     "resume": "Soupçonné d’avoir transmis des informations confidentielles au RN sur des enquêtes visant le parti, le préfet Hugues Moutouh a annoncé samedi 22 novembre demander à être relevé de ses fonctions, invoquant une « campagne de déstabilisation ».",
-     "date": "2026-11-22T11:19:48+01:00",
-     "source": "",
-     "image": "https://i.la-croix.com/x/2026/11/22/2595672-le-prefet-hugues-moutouh-a-demande-samedi-22-novem.jpg"
-    },
-    {
-     "titre": "Présidentielle : Ruffin renonce, le paysage se clarifie à gauche",
-     "lien": "https://www.la-croix.com/presidentielle-ruffin-renonce-le-paysage-se-clarifie-a-gauche-20261121",
-     "resume": "François Ruffin a annoncé samedi 21 novembre son retrait de la course à la présidentielle, déplorant l’échec de son projet de grande primaire à gauche et le « duel des deux gauches irréconciliables » qui s’installe à cinq mois du scrutin.",
-     "date": "2026-11-22T10:59:20+01:00",
-     "source": "",
-     "image": "https://i.la-croix.com/x/2026/11/21/2595453-le-depute-les-ecologistes-et-apparentes-francois-r.jpg"
-    },
-    {
-     "titre": "« On n’a plus rien à perdre » : dans l’Espagne dépeuplée, le combat d’un maire pour sauver son village",
-     "lien": "https://www.la-croix.com/international/on-n-a-plus-rien-a-perdre-dans-lespagne-depeuplee-le-combat-dun-maire-pour-sauver-son-village-20261122",
-     "resume": "Près de Salamanque, en Castille-Leon, les campagnes se dépeuplent. Mais la récente crise du logement nationale, qui pourrait provoquer la chute de Pedro Sanchez aux élections législatives du 29 novembre, redonne de l’espoir à ceux qui veulent réhabiliter les…",
-     "date": "2026-11-22T10:36:04+01:00",
-     "source": "",
-     "image": "https://i.la-croix.com/x/2026/11/20/2594701-aujourd-hui-aldehuela-de-yeltes-ne-compte-plus-que.jpg"
     }
    ],
    "flux_utilise": "https://www.la-croix.com/feeds/rss/site.xml"
@@ -196,50 +196,50 @@
    },
    "articles": [
     {
-     "titre": "Après un Championnat des nations décevant, la Nouvelle-Zélande va tomber à la 5e place mondiale",
-     "lien": "https://www.lequipe.fr/Rugby/Actualites/Apres-un-championnat-des-nations-decevant-la-nouvelle-zelande-va-tomber-a-la-5e-place-mondiale/1745361#at_medium=RSS_feeds",
-     "resume": "Plombés par leurs défaites contre le pays de Galles, le week-end dernier, et l'Angleterre, samedi, dans le cadre du Championnat des nations, les All Blacks vont tomber à la 5e place mondiale, leur plus mauvais classement depuis 4 ans.",
-     "date": "2026-11-22T13:31:03+01:00",
+     "titre": "Revue de presse : la victoire des Bleus contre l'Argentine saluée mais reléguée par le triomphe de l'Angleterre contre la Nouvelle-Zélande",
+     "lien": "https://www.lequipe.fr/Rugby/Actualites/Revue-de-presse-la-victoire-des-bleus-contre-l-argentine-saluee-mais-releguee-par-le-triomphe-de-l-angleterre-contre-la-nouvelle-zelande/1745375#at_medium=RSS_feeds",
+     "resume": "Davantage que la performance des Bleus contre l'Argentine (45-17), c'est la projection vers la finale du Championnat des nations entre la France et l'Afrique du Sud dimanche prochain, qui excite la presse étrangère. La victoire écrasante de l'Angleterre face…",
+     "date": "2026-11-22T15:01:30+01:00",
+     "source": "",
+     "image": "https://medias.lequipe.fr/img-photo-jpg/le-pack-francais-face-aux-pumas-samedi-soir-au-stade-de-france-45-17-s-boue-l-equipe/1500000002656805/0:0,1500:1000-828-552-75/a6a43.jpg"
+    },
+    {
+     "titre": "Justo Piccardo après les tensions entre le sélectionneur argentin Felipe Contepomi et Montpellier sur son cas : « J'essaie de ne pas m'impliquer »",
+     "lien": "https://www.lequipe.fr/Rugby/Actualites/Justo-piccardo-apres-les-tensions-entre-le-selectionneur-argentin-felipe-contepomi-et-montpellier-sur-son-cas-j-essaie-de-ne-pas-m-impliquer/1745374#at_medium=RSS_feeds",
+     "resume": "Le trois-quarts centre Justo Piccardo, qui a finalement joué face aux Bleus, samedi, alors qu'il n'était pas prévu sur la feuille de match, est revenu sur les échanges à distance entre son sélectionneur Felipe Contepomi et son club, Montpellier, au sujet de…",
+     "date": "2026-11-22T14:58:37+01:00",
+     "source": "",
+     "image": "https://medias.lequipe.fr/img-photo-jpg/justo-piccardo-plaque-par-matthieu-jalibert-samedi-face-aux-bleus-a-mounic-l-equipe/1500000002656803/213:114,1791:1166-828-552-75/7b983.jpg"
+    },
+    {
+     "titre": "Marc Marquez sacré champion du monde MotoGP pour la 8e fois après sa 8e place au GP du Portugal, remporté par Marco Bezzecchi",
+     "lien": "https://www.lequipe.fr/Moto/Actualites/Marc-marquez-sacre-champion-du-monde-motogp-pour-la-8e-fois-apres-sa-8e-place-au-gp-du-portugal-remporte-par-marco-bezzecchi/1745371#at_medium=RSS_feeds",
+     "resume": "En terminant 8e du Grand Prix du Portugal ce dimanche, pendant que Jorge Martin prenait la 2e place, Marc Marquez a rempli la condition pour devenir champion du monde MotoGP pour la 8e fois. La course a été remportée par Marco Bezzecchi.",
+     "date": "2026-11-22T14:52:37+01:00",
      "source": "",
      "image": "https://medias.lequipe.fr/img-photo-png/-/1500000000833469/0-828-552-75/0cb67.png"
     },
     {
-     "titre": "Koundé sur le banc, De Jong aligné en défense centrale contre Villarreal",
-     "lien": "https://www.lequipe.fr/Football/match-direct/championnat-d-espagne/2026-2027/fc-barcelone-villarreal-live/693199#at_medium=RSS_feeds",
-     "resume": "",
-     "date": "2026-11-22T13:26:00+01:00",
+     "titre": "Michael Olise vers un forfait pour le déplacement du Bayern Munich à Lille en Ligue des champions",
+     "lien": "https://www.lequipe.fr/Football/Actualites/Michael-olise-vers-un-forfait-pour-le-deplacement-du-bayern-munich-a-lille-en-ligue-des-champions/1745370#at_medium=RSS_feeds",
+     "resume": "L'attaquant français du Bayern Munich Michael Olise, touché à la cheville gauche lors du match nul contre le FC Cologne (1-1), vendredi en Bundesliga, devrait être forfait pour le déplacement des Bavarois à Lille, mercredi en Ligue des champions (21 heures).",
+     "date": "2026-11-22T14:52:22+01:00",
+     "source": "",
+     "image": "https://medias.lequipe.fr/img-photo-jpg/michael-olise-etait-sorti-blesse-lors-du-match-nul-contre-cologne-1-1-vendredi-m-fischer-witters/1500000002656796/0:0,2000:1333-828-552-75/c86a0.jpg"
+    },
+    {
+     "titre": "Grâce notamment à Randal Kolo Muani, la Juventus écrase Venise et recolle à l'AC Milan",
+     "lien": "https://www.lequipe.fr/Football/Actualites/Grace-notamment-a-randal-kolo-muani-la-juventus-ecrase-venise-et-recolle-a-l-ac-milan/1745368#at_medium=RSS_feeds",
+     "resume": "Après une première période poussive, la Juventus a largement dominé Venise (4-0) ce dimanche lors de la 12e journée de Serie A. Les hommes de Luciano Spalletti ont fait la différence après la pause en inscrivant quatre buts en moins de vingt minutes. Randal…",
+     "date": "2026-11-22T14:44:46+01:00",
      "source": "",
      "image": "https://medias.lequipe.fr/img-photo-png/-/1500000000833469/0-828-552-75/0cb67.png"
     },
     {
-     "titre": "Les résultats complets du groupe C",
-     "lien": "https://www.lequipe.fr/Football/national-1-groupe-c/page-calendrier-resultats/11e-journee#at_medium=RSS_feeds",
+     "titre": "Rabillard, l'Olympien de coeur devenu chouchou des Manceaux",
+     "lien": "https://www.lequipe.fr/Football/Article/-c-etait-un-reve-de-gosse-antoine-rabillard-l-olympien-de-coeur-devenu-chouchou-des-manceaux-de-retour-au-velodrome-pour-affronter-l-om/1745168#at_medium=RSS_feeds",
      "resume": "",
-     "date": "2026-11-22T13:17:00+01:00",
-     "source": "",
-     "image": "https://medias.lequipe.fr/img-photo-png/-/1500000000833469/0-828-552-75/0cb67.png"
-    },
-    {
-     "titre": "Les nommés pour le Vélo d'Or 2026",
-     "lien": "https://www.lequipe.fr/stories/107#at_medium=RSS_feeds",
-     "resume": "",
-     "date": "2026-11-22T13:15:00+01:00",
-     "source": "",
-     "image": "https://medias.lequipe.fr/img-photo-png/-/1500000000833469/0-828-552-75/0cb67.png"
-    },
-    {
-     "titre": "Le PSG confirme que Désiré Doué a bien été victime d'une rupture du ligament croisé antérieur du genou droit",
-     "lien": "https://www.lequipe.fr/Football/Actualites/Le-psg-confirme-que-desire-doue-a-bien-ete-victime-d-une-rupture-du-ligament-croise-anterieur-du-genou-droit/1745360#at_medium=RSS_feeds",
-     "resume": "Touché au genou droit samedi lors de la victoire du PSG face à l'OGC Nice (3-2), Désiré Doué souffre bien d'une rupture du ligament croisé antérieur. L'international français devrait subir une intervention chirurgicale en fin de mois, a annoncé le club…",
-     "date": "2026-11-22T13:12:43+01:00",
-     "source": "",
-     "image": "https://medias.lequipe.fr/img-photo-jpg/desire-doue-s-est-ecroule-de-douleur-ce-samedi-face-a-nice-avant-de-sortir-sur-civiere-e-garnier-l-equipe/1500000002656762/318:181,1992:1297-828-552-75/c0e8b.jpg"
-    },
-    {
-     "titre": "Les résultats complets du groupe B",
-     "lien": "https://www.lequipe.fr/Football/national-1-groupe-b/page-calendrier-resultats/10e-journee#at_medium=RSS_feeds",
-     "resume": "",
-     "date": "2026-11-22T13:11:00+01:00",
+     "date": "2026-11-22T14:41:00+01:00",
      "source": "",
      "image": "https://medias.lequipe.fr/img-photo-png/-/1500000000833469/0-828-552-75/0cb67.png"
     }
@@ -254,54 +254,14 @@
    "sous_titre": "Les informations les plus importantes, partout dans le monde",
    "items": [
     {
-     "titre": "EN DIRECT, guerre en Ukraine : quatorze personnes portées disparues à la suite de l’attaque par un drone russe d’un immeuble d’habitation près de Kiev",
+     "titre": "EN DIRECT, guerre en Ukraine : le bilan de l’attaque d’un immeuble d’habitation par un drone russe près de Kiev s’alourdit",
      "lien": "https://www.lemonde.fr/international/live/2026/11/22/en-direct-guerre-en-ukraine-quatorze-personnes-portees-disparues-a-la-suite-de-l-attaque-d-un-drone-russe-sur-un-immeuble-d-habitation-pres-de-kiev_6814183_3210.html",
-     "resume": "Une attaque de drone russe dans la nuit de samedi à dimanche dans le raïon de Vychhorod, non loin de Kiev, a endommagé un immeuble d’habitation de cinq étages, a rapporté le chef de l’administration militaire de l’oblast, précisant qu’un incendie s’est…",
+     "resume": "Selon un nouveau communiqué de la police nationale ukrainienne, l’attaque d’un immeuble de cinq étages par un drone russe à Dymer – au nord de Kiev –, a provoqué la mort d’une femme, et fait trois blessés, dimanche. Quinze autres personnes sont toujours…",
      "date": "2026-11-22T11:50:43+01:00",
      "source": "lemonde.fr",
-     "image": "https://img.lemde.fr/2026/11/22/441/0/3777/1888/644/322/60/0/f005d56_ftp-1-alc67he72l7p-afp-d8ab4zq.jpg",
+     "image": "https://img.lemde.fr/2026/11/22/412/0/4000/2000/644/322/60/0/ef07f84_upload-1-pdzgkfiy1fyq-bombardement-dymer-7.jpg",
      "reprises": 9,
-     "score": 26.42
-    },
-    {
-     "titre": "Le Mexique arrête un baron de la drogue recherché par les États-Unis",
-     "lien": "https://www.france24.com/fr/vid%C3%A9o/20261122-le-mexique-arr%C3%AAte-un-baron-de-la-drogue-recherch%C3%A9-par-les-%C3%A9tats-unis",
-     "resume": "Le Mexique a annoncé samedi 21 novembre l'arrestation du baron de la drogue Fausto Isidro Meza alias \"Chapo Isidro\", l'un des dix criminels les plus recherchés par le FBI, lors d'une opération qui a fait 11 morts et a été saluée par les États-Unis comme une…",
-     "date": "2026-11-22T12:24:55+01:00",
-     "source": "france24.com",
-     "image": "https://s.france24.com/media/display/a160af44-e662-11f1-9a3e-1bac47ab2f5d/w:1024/p:16x9/FR-20261122-101102-101223-CS.jpg",
-     "reprises": 4,
-     "score": 7.03
-    },
-    {
-     "titre": "Bahreïn accuse l’Iran d’avoir frappé l’un de ses sites industriels ; Téhéran affirme riposter à des tirs américains",
-     "lien": "https://www.lemonde.fr/guerre-au-proche-orient/article/2026/11/21/bahrein-accuse-l-iran-d-avoir-frappe-l-un-de-ses-sites-industriels_6814069_6325529.html",
-     "resume": "Plus tôt samedi, l’Iran avait déclaré avoir intercepté un drone américain visant l’île de Qechm, dans le détroit d’Ormuz. Les gardiens de la révolution ont dit avoir visé à plusieurs reprises cette semaine des installations américaines à Bahreïn.",
-     "date": "2026-11-21T22:31:47+01:00",
-     "source": "lemonde.fr",
-     "image": "https://img.lemde.fr/2026/11/06/687/0/5500/2750/644/322/60/0/27b5a5b_ftp-1-osblhese6bkq-2026-11-06t141621z-864316799-rc2cioas5ady-rtrmadp-3-iran-crisis-bahrain.JPG",
-     "reprises": 4,
-     "score": 7.01
-    },
-    {
-     "titre": "Israël : Gadi Eisenkot invite le parti de Benyamin Nétanyahou à des négociations de coalition",
-     "lien": "https://www.lemonde.fr/international/article/2026/11/21/israel-gadi-eisenkot-invite-le-parti-de-benyamin-netanyahou-a-des-negociations-de-coalition_6814066_3210.html",
-     "resume": "M. Eisenkot est chargé de former un gouvernement, à la suite des législatives de la fin d’octobre, qui n’ont dégagé aucune majorité absolue, ni pour son camp ni pour celui du premier ministre sortant.",
-     "date": "2026-11-21T21:00:05+01:00",
-     "source": "lemonde.fr",
-     "image": "https://img.lemde.fr/2026/11/17/999/0/7613/3806/644/322/60/0/ca55061_ftp-1-weq7m5gcmjev-fb05246d6e7e4e278ce60fe9c7f2f923-0-b0ef1a5086784403a71984eddbadc920.jpg",
-     "reprises": 4,
-     "score": 6.84
-    },
-    {
-     "titre": "« Un des plus grands crimes du sport international » : dans le monde, 10 millions d’enfants auraient recours au dopage",
-     "lien": "https://news.google.com/rss/articles/CBMilwJBVV95cUxQMzkwczJxemVrbU5lTTlRZlpzTndUY19wcUZaZ3Z2SHNhN2RHRXB3cFJuVW1VVURQbEV4WXY2OWdmR2dRRDdwdDE0VllFSnhnSHNmV200VzE3TjhZTFJHUDFFenotZVdMYzlBQW9wUGFOMnFvUjFIN0FSMlhCS0dMN1NJNlNpRExfdVdFOGpqVUdTcE95SEZ4cXM0Tk5EbUJGRy1XWEczV19QbV9kOG5PWnVzd2RWMXQ0ZGVsMTdNMEduZFJtUEtFaThYelRndXBHWUpFV3ZCNFpJajlZTXFCc0t1U21rMkN4V1lLYnZSbVdKR29jbDlWX0ZiOXdoT3F5TmdXalVTNDRrTTJLcXB2d1d2dUdNN2M?oc=5",
-     "resume": "",
-     "date": "2026-11-21T14:56:10+01:00",
-     "source": "Ouest-France",
-     "image": null,
-     "reprises": 2,
-     "score": 5.65
+     "score": 20.81
     },
     {
      "titre": "Scandale de triche à l’IA en Corée du Sud : sous pression, le ministre de l’éducation démissionne",
@@ -311,7 +271,47 @@
      "source": "lemonde.fr",
      "image": "https://img.lemde.fr/2026/11/16/0/481/3518/1759/644/322/60/0/df72555_ftp-1-kiyd4csptgeh-b73cb2ebc90f4b14b797a87243c3b93d-0-db04d24a679e4c169eb0e07aaa832b62.jpg",
      "reprises": 3,
-     "score": 5.59
+     "score": 7.95
+    },
+    {
+     "titre": "Guerre au Moyen-Orient : un nageur britannique traverse le détroit d'Ormuz",
+     "lien": "https://www.france24.com/fr/vid%C3%A9o/20261122-guerre-au-moyen-orient-un-nageur-britannique-traverse-le-d%C3%A9troit-d-ormuz",
+     "resume": "Face à l'immobilisme politique, certains tentent de faire changer les lignes par l'exemple. Un nageur britannique a traversé le détroit d'Ormuz pour dénoncer les conséquences dévastatrices de la guerre au Moyen-Orient. Les Anglais appellent cela \"la…",
+     "date": "2026-11-22T12:48:25+01:00",
+     "source": "france24.com",
+     "image": "https://s.france24.com/media/display/82975cf8-e661-11f1-99e6-6b451f569414/w:1024/p:16x9/FR-20261122-100354-100522-CS.jpg",
+     "reprises": 3,
+     "score": 7.86
+    },
+    {
+     "titre": "Israël : Gadi Eisenkot invite le parti de Benyamin Nétanyahou à des négociations de coalition",
+     "lien": "https://www.lemonde.fr/international/article/2026/11/21/israel-gadi-eisenkot-invite-le-parti-de-benyamin-netanyahou-a-des-negociations-de-coalition_6814066_3210.html",
+     "resume": "M. Eisenkot est chargé de former un gouvernement, à la suite des législatives de la fin d’octobre, qui n’ont dégagé aucune majorité absolue, ni pour son camp ni pour celui du premier ministre sortant.",
+     "date": "2026-11-21T21:00:05+01:00",
+     "source": "lemonde.fr",
+     "image": "https://img.lemde.fr/2026/11/17/999/0/7613/3806/644/322/60/0/ca55061_ftp-1-weq7m5gcmjev-fb05246d6e7e4e278ce60fe9c7f2f923-0-b0ef1a5086784403a71984eddbadc920.jpg",
+     "reprises": 4,
+     "score": 7.07
+    },
+    {
+     "titre": "Le Mexique arrête un baron de la drogue recherché par les États-Unis",
+     "lien": "https://www.france24.com/fr/vid%C3%A9o/20261122-le-mexique-arr%C3%AAte-un-baron-de-la-drogue-recherch%C3%A9-par-les-%C3%A9tats-unis",
+     "resume": "Le Mexique a annoncé samedi 21 novembre l'arrestation du baron de la drogue Fausto Isidro Meza alias \"Chapo Isidro\", l'un des dix criminels les plus recherchés par le FBI, lors d'une opération qui a fait 11 morts et a été saluée par les États-Unis comme une…",
+     "date": "2026-11-22T12:24:55+01:00",
+     "source": "france24.com",
+     "image": "https://s.france24.com/media/display/a160af44-e662-11f1-9a3e-1bac47ab2f5d/w:1024/p:16x9/FR-20261122-101102-101223-CS.jpg",
+     "reprises": 4,
+     "score": 6.87
+    },
+    {
+     "titre": "Bahreïn accuse l’Iran d’avoir frappé l’un de ses sites industriels ; Téhéran affirme riposter à des tirs américains",
+     "lien": "https://www.lemonde.fr/guerre-au-proche-orient/article/2026/11/21/bahrein-accuse-l-iran-d-avoir-frappe-l-un-de-ses-sites-industriels_6814069_6325529.html",
+     "resume": "Plus tôt samedi, l’Iran avait déclaré avoir intercepté un drone américain visant l’île de Qechm, dans le détroit d’Ormuz. Les gardiens de la révolution ont dit avoir visé à plusieurs reprises cette semaine des installations américaines à Bahreïn.",
+     "date": "2026-11-21T22:31:47+01:00",
+     "source": "lemonde.fr",
+     "image": "https://img.lemde.fr/2026/11/06/687/0/5500/2750/644/322/60/0/27b5a5b_ftp-1-osblhese6bkq-2026-11-06t141621z-864316799-rc2cioas5ady-rtrmadp-3-iran-crisis-bahrain.JPG",
+     "reprises": 4,
+     "score": 6.83
     }
    ],
    "a_traduire": []
@@ -328,18 +328,18 @@
      "date": "2026-11-21T20:28:00+01:00",
      "source": "Le Temps",
      "image": null,
-     "reprises": 6,
-     "score": 13.84
+     "reprises": 7,
+     "score": 16.58
     },
     {
-     "titre": "Un mathématicien annonce la résolution de l'hypothèse de Riemann, l'un des plus célèbres problèmes du monde, avec l'aide d'une IA d'Anthropic",
-     "lien": "https://news.google.com/rss/articles/CBMilgJBVV95cUxQSmc5cnJPdDBNWWtKenI1Y0tMZkNVUUw2SldVQzVjNHBzSXJWRlZyUVNGc0RidjRkUmp0V19neWFUazRNeFVxbWJSd1N2TVVUNXRYV3pIUTV5S21UM0ZLTUlFaTY3QWZuMTAyTzE2NVlSZjA0SGphVjY0dXR1OGhPa2JKWEthbjRJTVVoV1BSazhWa0k5T1ptRHZUdndFNFR2ei1iRS1YQUlzaWtrRnRpQTAtbnNFcU95OXF2Q3BPNzZFV1ZwMUZGZXJNMUU5ZU5BdV9iSXdqcW15dGhkbldBYmlSaTd0Zzlsam5yQ0oxM3lCRjFyaWN3VWMya2pWWXlueWFKWDBSeS1CLTN2MEd6V0ZGSDVGZw?oc=5",
-     "resume": "Deux démonstrations concurrentes de l’hypothèse de Riemann, l’un des problèmes ouverts les plus célèbres des mathématiques, ont été rendues publiques ce vendredi 20 novembre. Quelques heures après celle d’Anthropic, le président de l’American Mathematical…",
-     "date": "2026-11-21T10:44:37+01:00",
-     "source": "franceinfo",
+     "titre": "En Corée du Sud, le ministre de l’Education démissionne après un scandale de triche à l’IA",
+     "lien": "https://news.google.com/rss/articles/CBMiiwJBVV95cUxNZjFwUDQ1MnJwa21jOEtteWYwQVh1M25sdEZvZmw4UzdFbngzWTlMc0EwSXlwZXZnUm0xazRnd1JyTWNoR0Y1VUlnMjZTc052Q0tBUHNKeDdkcXY4SzZuQWU2N25CdEEyY3hFOXpRdllUX1R4cHlMR1lRTm50ZkRuazBhZi1vMDJ1M1loRGpjRlBLWUlOSnJZVkxSZ2owZ0VVbTU0RWRaSHJ4bGdsTWhlVlVqTGZ6dVB4X211dHdtYXRDbDc5czJtZmg0bFFhZjRsRktJd1NnckxZU2tNU0xDVXl2blhrbFJLMW92NjcyQWJNand2eEFMQ3o1WlRnTGxpYjR5SWQ1d2xmbkU?oc=5",
+     "resume": "",
+     "date": "2026-11-22T12:25:48+01:00",
+     "source": "Libération",
      "image": null,
-     "reprises": 5,
-     "score": 7.28
+     "reprises": 3,
+     "score": 5.65
     },
     {
      "titre": "Comme SpaceX, Anthropic a suivi un processus d’introduction en Bourse inhabituel, au grand dam de certains banquiers",
@@ -349,30 +349,40 @@
      "source": "Zonebourse Suisse",
      "image": null,
      "reprises": 3,
-     "score": 5.76
+     "score": 5.54
     },
     {
-     "titre": "En Corée du Sud, le ministre de l’Education démissionne après un scandale de triche à l’IA",
-     "lien": "https://news.google.com/rss/articles/CBMiiwJBVV95cUxNZjFwUDQ1MnJwa21jOEtteWYwQVh1M25sdEZvZmw4UzdFbngzWTlMc0EwSXlwZXZnUm0xazRnd1JyTWNoR0Y1VUlnMjZTc052Q0tBUHNKeDdkcXY4SzZuQWU2N25CdEEyY3hFOXpRdllUX1R4cHlMR1lRTm50ZkRuazBhZi1vMDJ1M1loRGpjRlBLWUlOSnJZVkxSZ2owZ0VVbTU0RWRaSHJ4bGdsTWhlVlVqTGZ6dVB4X211dHdtYXRDbDc5czJtZmg0bFFhZjRsRktJd1NnckxZU2tNU0xDVXl2blhrbFJLMW92NjcyQWJNand2eEFMQ3o1WlRnTGxpYjR5SWQ1d2xmbkU?oc=5",
+     "titre": "Les Américains, terrifiés par le risque d'une grande panne liée à l'IA, stockent de quoi survivre",
+     "lien": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxQdnBPLWlkRlJpRVItNDJ0VEZrdmoydnRPNGgwVzU5cU5nYUpfRmRNcGo5aVR2T0xxbXl4OUp1NTY0OUxPY1V4Qjk4dGE0eFk2aDd4Vjl6Rk4yRWVhLXFoSTRoc2ZwMDd0TlROVktTcTFOeWtqRDB2SmdnMFFoNXBSZHlXU2s5a0ZpbVVGOXQ1TjRTZUNIb0hnV2hTT0dHZU5ZWGpOX3NoVnF0eTI5cWdHTUxqa3ZDaDBEd2dUY3g1dXJFXzg1MEVfUF8yLWYtS0hQVmdiWV8tNTRkVFBzdG1BNmRpYjgxc2padUxfQ3pUeEdyLWNYdmc?oc=5",
      "resume": "",
-     "date": "2026-11-22T12:21:00+01:00",
-     "source": "Libération",
-     "image": null,
-     "reprises": 3,
-     "score": 5.51
-    },
-    {
-     "titre": "Il est milliardaire mais n'a aucun diplôme, il scrute la \"boîte noire\" de Claude: qui est Chris Olah, le visage méconnu d’Anthropic qui a demandé l'aide du pape pour encadrer l'IA?",
-     "lien": "https://news.google.com/rss/articles/CBMi3AJBVV95cUxNUXIzZVdNM0FuODJNLWJQRnlzdG56MTBfdW5DZXZCcENkVXpvU0VzamJkcG5MN3l1X19RR3ZxdzlNOHFiNWNpci1mMTFYWG00THNIcjk4Qnh5NlBOZ1F5Ym1GRlZjdFZfSjdKZTNMZE1nNl9kZ0ZUa1ZRTGJyaWYxTjQ5TFRVNlNOTmZUUURfMFZJdHlod094Z2xnOFd5ODh3dmlMZVpLdVUxalRNbjJTTnBzeFZ3N3RFaTNjQ2stS1BtSVRQZVBkdFY2Q3JiVFBBS1U4YTdSTjFIdlpjU0ZXM0F3alRqbGpGVjBVNUVUeGJJLWdvMGRxRFlLaS1KZjZNTVNPZ0gxRDhTY3NCRzlFQjdEdkNVLV9sckRhSUp3QUxseldKSG5mQWZJRXFLOGk5YTNUaGQxRHVGNzJ0WEozX2h5bnNmQ2FpT3o1QmxGTnRlV1FoekVrM05iaDA?oc=5",
-     "resume": "",
-     "date": "2026-11-22T11:02:51+01:00",
-     "source": "BFM",
+     "date": "2026-11-22T14:45:08+01:00",
+     "source": "Les Echos",
      "image": null,
      "reprises": 1,
-     "score": 3.33
+     "score": 3.57
+    },
+    {
+     "titre": "Un mathématicien annonce la résolution de l'hypothèse de Riemann, l'un des plus célèbres problèmes du monde, avec l'aide d'une IA d'Anthropic",
+     "lien": "https://news.google.com/rss/articles/CBMilgJBVV95cUxQSmc5cnJPdDBNWWtKenI1Y0tMZkNVUUw2SldVQzVjNHBzSXJWRlZyUVNGc0RidjRkUmp0V19neWFUazRNeFVxbWJSd1N2TVVUNXRYV3pIUTV5S21UM0ZLTUlFaTY3QWZuMTAyTzE2NVlSZjA0SGphVjY0dXR1OGhPa2JKWEthbjRJTVVoV1BSazhWa0k5T1ptRHZUdndFNFR2ei1iRS1YQUlzaWtrRnRpQTAtbnNFcU95OXF2Q3BPNzZFV1ZwMUZGZXJNMUU5ZU5BdV9iSXdqcW15dGhkbldBYmlSaTd0Zzlsam5yQ0oxM3lCRjFyaWN3VWMya2pWWXlueWFKWDBSeS1CLTN2MEd6V0ZGSDVGZw?oc=5",
+     "resume": "",
+     "date": "2026-11-21T10:44:37+01:00",
+     "source": "Franceinfo",
+     "image": null,
+     "reprises": 3,
+     "score": 3.35
     }
    ],
    "a_traduire": [
+    {
+     "titre": "The Binding of Isaac: Repentance+ retire sa musique générée par IA après la colère des joueurs",
+     "lien": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNRFE0QnFiSTQ3N1YtWHltYWt2aGRvLTg3VnQwZ2NCVEloN29rM293RVNEN1Y5djFPcHhXZzFEekw1bmdQLTdvcXNxRHoyZHFFR3hmQjhNLTVQVnl6emdwRGlsQUx2aUVNSk5UamV1bjZvTGJFbkNDSzh1a0xYUmtVWHpuVWhZek9lQ1RFajd3R0dROUE?oc=5",
+     "resume": "",
+     "date": "2026-11-22T10:39:39+01:00",
+     "source": "big-n.fr",
+     "image": null,
+     "reprises": 1,
+     "score": 1.52
+    },
     {
      "titre": "Here are the top AI agents that can live in your text messages",
      "lien": "https://techcrunch.com/2026/11/21/all-the-ai-agents-that-can-live-in-your-text-messages/",
@@ -381,7 +391,7 @@
      "source": "techcrunch.com",
      "image": null,
      "reprises": 1,
-     "score": 1.27
+     "score": 1.24
     },
     {
      "titre": "Is selling an AI version of your face to this microdrama startup the future of Hollywood?",
@@ -391,7 +401,7 @@
      "source": "techcrunch.com",
      "image": null,
      "reprises": 1,
-     "score": 1.12
+     "score": 1.09
     }
    ]
   },
@@ -401,25 +411,14 @@
    "sous_titre": "Libertés fondamentales, grandes juridictions, culture juridique pour le CRFPA",
    "items": [
     {
-     "titre": "Alain Berset appelle à veiller à ce que les « centres de retour » soient conformes à la Convention européenne des droits de l’homme",
-     "lien": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOSy1MYkZiVTdGcDFnSUZtTTljWThPa3J2RUcxcUVyMzRWMFlBdWZWVFNTek5PbGd4b1l1eUpNRjd3T19LdnJEMFd5X1ZNUGdZMUU3Rm42VDdJME52UWszVzVPUW02czhaT0ZXUEtJWlAyVnE3VVhxN3htWHlwNlNiTTVabUtmazV2OTdVUDhBZFBDQnVMWkNEM25OWXpocVV4bXVGWTBxMHk2b2FVb2pEQmFYbXpXRmJFQ3FGcFhxZGR1SWk3ZTJ0TG10aU8?oc=5",
+     "titre": "Décision n° 2026-1233 QPC du 20 novembre 2026",
+     "lien": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9NcmJkMmhGZGVSeDhGbXBOOXRjRHNOSDdfRGVhNkM2VnloUnZZYXF2X1RsRlVVeUdtZzhrU3BTbkFBLXV3dzRNMkhodm10cDdVd3k2OWJ2VXhXcUdBN2YwRjZHRVJnU0FwcE5RTWNYQ0I0bk9yeWZn?oc=5",
      "resume": "",
-     "date": "2026-11-20T21:07:13+01:00",
-     "source": "The Council of Europe",
+     "date": "2026-11-20T09:59:37+01:00",
+     "source": "Conseil constitutionnel",
      "image": null,
-     "reprises": 5,
-     "score": 8.87,
-     "libertes": true
-    },
-    {
-     "titre": "Garde à vue de mineurs : les parents doivent être informés d’une prolongation, juge le Conseil constitutionnel",
-     "lien": "https://news.google.com/rss/articles/CBMivwJBVV95cUxQRnpybXdkTmpnS0djSnp4YU9NeW8zYlVyTnc3NzFiWlZsZHYtTkE1YkRGNmlZdGczZmZyR2VWS0tZS0k1NTFxT2Y2Mnk3clExVU1yZnh1SWxJWEtvZXRzZ0FQd01tN2hCVmgtNm1rbDRpaVBKUEtqZFhONno4THhxbWNiTWlfSlpzYllhcjEwelJzNS1UbnBQcmR5MUk5dFY4Wm05WXEtNTdHWE5KNE1INjVFaU1ZeVRNV1loMjJxM2pYeUZBcW80LUFIUmVlOW1lazI4U1ZXa09vMUF6ZUEzYTI4WW14MUFUMFJlbGhBUzVPUENkMUU0d2VtLVNhSG9walpxRlFReEZ2Zl9VSU15NnVpYzJWcGhPdlFoekZXZ3Uzck1QODFNbnpvNkpZZWFvemlZcklnb1VVdWNxcmlr?oc=5",
-     "resume": "",
-     "date": "2026-11-20T13:00:32+01:00",
-     "source": "Ouest-France",
-     "image": null,
-     "reprises": 3,
-     "score": 5.12,
+     "reprises": 1,
+     "score": 7.41,
      "libertes": true
     },
     {
@@ -430,7 +429,29 @@
      "source": "https://www.parlons-politique.fr/",
      "image": null,
      "reprises": 3,
-     "score": 5.0,
+     "score": 4.94,
+     "libertes": true
+    },
+    {
+     "titre": "Garde à vue de mineurs : les parents doivent être informés d’une prolongation, juge le Conseil constitutionnel",
+     "lien": "https://news.google.com/rss/articles/CBMivwJBVV95cUxQRnpybXdkTmpnS0djSnp4YU9NeW8zYlVyTnc3NzFiWlZsZHYtTkE1YkRGNmlZdGczZmZyR2VWS0tZS0k1NTFxT2Y2Mnk3clExVU1yZnh1SWxJWEtvZXRzZ0FQd01tN2hCVmgtNm1rbDRpaVBKUEtqZFhONno4THhxbWNiTWlfSlpzYllhcjEwelJzNS1UbnBQcmR5MUk5dFY4Wm05WXEtNTdHWE5KNE1INjVFaU1ZeVRNV1loMjJxM2pYeUZBcW80LUFIUmVlOW1lazI4U1ZXa09vMUF6ZUEzYTI4WW14MUFUMFJlbGhBUzVPUENkMUU0d2VtLVNhSG9walpxRlFReEZ2Zl9VSU15NnVpYzJWcGhPdlFoekZXZ3Uzck1QODFNbnpvNkpZZWFvemlZcklnb1VVdWNxcmlr?oc=5",
+     "resume": "",
+     "date": "2026-11-20T13:00:32+01:00",
+     "source": "Ouest-France",
+     "image": null,
+     "reprises": 3,
+     "score": 4.87,
+     "libertes": true
+    },
+    {
+     "titre": "L'obligation vaccinale des soignants contre le Covid était justifiée, la CEDH a tranché",
+     "lien": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQU2l6Q3ZSNDBITmY5cWl0amphNmo4aU5BS0FsU3EtLUJWcEMzZThsWkZvWjBhXzd3dFlHOGRrZXo2LVp6X0hzSUxRWkNUc2stOVpwVG1STFJLQjdtRkpjeFdWU0pZelRfU2Q4bXpDR0ZodEo5ODJ4SUxscy1hTEh2V1hXRVRjcTZpbjYzQnRWaE9mV3NndnFjdXp2cVlPNGlhQUhmQXZyUGtNZXhHWmItTEV1NnVKNUJXcHBOTi1taGw?oc=5",
+     "resume": "",
+     "date": "2026-11-19T16:45:00+01:00",
+     "source": "Whatsupdoc-lemag.fr",
+     "image": null,
+     "reprises": 3,
+     "score": 4.51,
      "libertes": true
     },
     {
@@ -441,7 +462,7 @@
      "source": "France 3 Régions",
      "image": null,
      "reprises": 3,
-     "score": 4.25,
+     "score": 4.3,
      "libertes": true
     },
     {
@@ -452,19 +473,8 @@
      "source": "Ouest-France",
      "image": null,
      "reprises": 3,
-     "score": 3.93,
+     "score": 4.04,
      "libertes": false
-    },
-    {
-     "titre": "Décision n° 2026-1233 QPC du 20 novembre 2026",
-     "lien": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9NcmJkMmhGZGVSeDhGbXBOOXRjRHNOSDdfRGVhNkM2VnloUnZZYXF2X1RsRlVVeUdtZzhrU3BTbkFBLXV3dzRNMkhodm10cDdVd3k2OWJ2VXhXcUdBN2YwRjZHRVJnU0FwcE5RTWNYQ0I0bk9yeWZn?oc=5",
-     "resume": "",
-     "date": "2026-11-20T09:59:37+01:00",
-     "source": "Conseil constitutionnel",
-     "image": null,
-     "reprises": 1,
-     "score": 3.41,
-     "libertes": true
     }
    ],
    "a_traduire": []
