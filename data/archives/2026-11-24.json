@@ -1,6 +1,6 @@
 {
  "date": "2026-11-24",
- "genere": "2026-11-24T16:15+01:00",
+ "genere": "2026-11-24T18:35+01:00",
  "journaux": [
   {
    "id": "figaro",
@@ -13,52 +13,52 @@
    },
    "articles": [
     {
-     "titre": "Le MI5 alerte les fournisseurs de l'armée ukrainienne au Royaume-Uni sur le risque de sabotage russe",
-     "lien": "https://www.lefigaro.fr/international/le-mi5-alerte-les-fournisseurs-de-l-armee-ukrainienne-au-royaume-uni-sur-le-risque-de-sabotage-russe-20261124",
-     "resume": "Cette alerte est publiée «en réponse à l’intensification, par la Russie, de ses tentatives de sabotage visant des installations européennes liées à la défense», selon un communiqué.",
-     "date": "2026-11-24T15:53:22+01:00",
-     "source": "",
-     "image": "https://i.f1g.fr/media/cms/orig/2026/11/24/fe1820e87b43509d4a33f9eea1cdebc183fcbed7b823fa6aeb1e7fd76225a5be.JPG"
-    },
-    {
-     "titre": "Guerre en Ukraine : plus de 1000 soldats russes se seraient suicidés depuis le début du conflit",
-     "lien": "https://www.lefigaro.fr/international/guerre-en-ukraine-plus-de-1000-soldats-russes-se-seraient-suicides-depuis-le-debut-du-conflit-20261124",
-     "resume": "Le chiffre avancé sous-estime le nombre réel, selon le Guardian, qui a analysé plus de 11 millions d’actes de décès issus de données confidentielles de l’agence nationale russe des statistiques, Rosstat.",
-     "date": "2026-11-24T15:08:54+01:00",
-     "source": "",
-     "image": "https://i.f1g.fr/media/cms/2850x1603_crop/2026/11/24/7f754f0c186c7985ab70de0ec84b09e71fb24497f10b57b4ce6b3b7a0d9073a5.jpg"
-    },
-    {
-     "titre": "« Beaucoup paniquent parce que l’usine, c’était leur vie » : dans la cité ukrainienne de Kryvyï Rih, le choc après la mise en veille du géant de l’acier ArcelorMittal",
-     "lien": "https://www.lefigaro.fr/conjoncture/beaucoup-paniquent-parce-que-l-usine-c-etait-leur-vie-dans-la-cite-ukrainienne-de-kryvyi-rih-le-choc-apres-la-mise-en-veille-du-geant-de-l-acier-arcelormittal-20261124",
-     "resume": "REPORTAGE - Dans la cité d’origine du président Zelensky, la fermeture des hauts-fourneaux laisse en suspens le sort de milliers d’employés et un manque à gagner pour la ville. Sous le coup des attaques russes, la sidérurgie ukrainienne n’a plus produit une…",
-     "date": "2026-11-24T09:19:54+01:00",
-     "source": "",
-     "image": "https://i.f1g.fr/media/cms/3000x1687_crop/2026/11/24/4c3b32d1b4837fd11eaea57d9f2178f8383ad749af7fba5cbb39c0d009540a84.jpg"
-    },
-    {
-     "titre": "Ukraine : le premier ministre hongrois Péter Magyar attendu mardi pour un entretien avec Zelensky",
-     "lien": "https://www.lefigaro.fr/international/ukraine-le-premier-ministre-hongrois-peter-magyar-attendu-mardi-pour-un-entretien-avec-zelensky-20261124",
-     "resume": "Péter Magyar doit échanger mardi 24 novembre avec Volodymyr Zelensky et des représentants de la minorité hongroise dans l’ouest de l’Ukraine. Ce déplacement s’inscrit dans les efforts du chef du gouvernement hongrois pour renouer avec Kiev après les tensions…",
-     "date": "2026-11-24T11:03:32+01:00",
-     "source": "",
-     "image": "https://i.f1g.fr/media/cms/orig/2026/11/24/55e5ddf822c2e4616f86589997e2849072941e19722de2e0156fe3265f5471f2.JPG"
-    },
-    {
-     "titre": "CAN : le Sénégal récupère son titre de 2025, le Maroc déchu",
-     "lien": "https://www.lefigaro.fr/sports/football/can-le-senegal-recupere-son-titre-de-2025-le-maroc-dechu-20261124",
-     "resume": "Le Tribunal arbitral du sport a tranché ce mardi. Le Sénégal sera officiellement déclaré vainqueur de la CAN 2025.",
-     "date": "2026-11-24T15:51:21+01:00",
-     "source": "",
-     "image": "https://i.f1g.fr/media/cms/orig/2026/11/24/ce64c489f94565552f1fe88efab9fa58c0f0d7f52a817024d5dc033ac25afb04.JPG"
-    },
-    {
      "titre": "Les coulisses de la rencontre de François Hollande avec 200 personnalités triées sur le volet",
      "lien": "https://www.lefigaro.fr/elections/presidentielles/les-coulisses-de-la-rencontre-de-francois-hollande-avec-200-personnalites-triees-sur-le-volet-20261124",
      "resume": "INFO LE FIGARO - L’ancien président socialiste a réuni mardi un aréopage d’élus locaux et de figures de la société civile à son QG politique parisien. Il a prononcé un discours aux forts accents politiques.",
      "date": "2026-11-24T16:02:27+01:00",
      "source": "",
      "image": "https://i.f1g.fr/media/cms/3000x2000_crop/2026/11/24/3f64226b40dfdc40a7525bd15e22871d66786b7f05a549b8fcf805bf0c0aec0d.jpg"
+    },
+    {
+     "titre": "EN DIRECT - Présidentielle 2027 : Édouard Philippe dénonce une «vendetta judiciaire» après l’ouverture d’une enquête au Havre",
+     "lien": "https://www.lefigaro.fr/elections/presidentielles/en-direct-presidentielle-2027-en-quete-de-parrainage-de-nombreux-candidats-attendus-au-congres-des-maires-de-france-20261124",
+     "resume": "Une enquête a été ouverte à la suite d’un signalement à la justice pour détournement de fonds publics à la communauté urbaine du Havre dirigée par Édouard Philippe.",
+     "date": "2026-11-24T18:25:02+01:00",
+     "source": "",
+     "image": "https://i.f1g.fr/media/cms/3000x2000_crop/2026/11/24/2ee02cd63a6cba11ae8b5fe3e8ff530d108360e14031b8e00f0c5422ed432da4.jpg"
+    },
+    {
+     "titre": "« Pour l’instant, on ne bouge pas » : Bruno Retailleau et David Lisnard, rivaux d’un jour, alliés demain ?",
+     "lien": "https://www.lefigaro.fr/elections/presidentielles/pour-l-instant-on-ne-bouge-pas-bruno-retailleau-et-david-lisnard-rivaux-d-un-jour-allies-demain-20261124",
+     "resume": "DÉCRYPTAGE - La percée sondagière du maire de Cannes vient bousculer la campagne présidentielle du Vendéen, tout en affaiblissant celle d’Édouard Philippe.",
+     "date": "2026-11-24T17:21:16+01:00",
+     "source": "",
+     "image": "https://i.f1g.fr/media/cms/1875x1055_crop/2026/11/24/edf0f3dd419e3df8948a6c1fd2db3c3cc92b05477666599f9e8c91c37e7bad18.jpg"
+    },
+    {
+     "titre": "Présidentielle 2027 : une enquête ouverte pour détournement de fonds publics à l'agglomération du Havre présidée par Édouard Philippe",
+     "lien": "https://www.lefigaro.fr/elections/presidentielles/presidentielle-2027-une-enquete-ouverte-pour-detournement-de-fonds-publics-a-l-agglomeration-du-havre-presidee-par-edouard-philippe-20261124",
+     "resume": "«Une plainte a été adressée à mes services via le parquet national financier initialement saisi, j’ai transmis en enquête au commissariat du Havre», a indiqué la procureur Soizic Guillaume.",
+     "date": "2026-11-24T14:35:33+01:00",
+     "source": "",
+     "image": "https://i.f1g.fr/media/cms/orig/2026/11/24/a631641e32d29f1cb305befa6bd71baa470e311038a49b055fce42c90856eb3a.JPG"
+    },
+    {
+     "titre": "Congrès des maires : « Faut-il faire une confiance aveugle aux élus locaux ? »",
+     "lien": "https://www.lefigaro.fr/vox/societe/congres-des-maires-faut-il-faire-une-confiance-aveugle-aux-elus-locaux-20261124",
+     "resume": "FIGAROVOX/TRIBUNE - Alors que s’ouvre le Congrès des maires ce mardi, l’extension de leurs prérogatives met à mal les libertés des citoyens, à commencer par le droit de propriété, estime le directeur de la stratégie du think tank Génération Libre Sacha…",
+     "date": "2026-11-24T14:31:07+01:00",
+     "source": "",
+     "image": "https://i.f1g.fr/media/cms/2734x1538_crop/2026/11/24/0c4cdba169990bef39fc67bbde22183e7406bee4b4bb7e77fea66a19653d6722.png"
+    },
+    {
+     "titre": "Élèves politisés de milieux favorisés, personnels «empathiques», soutien de LFI… Un rapport dresse le portrait des perturbateurs de lycées",
+     "lien": "https://www.lefigaro.fr/actualite-france/eleves-politises-de-milieux-favorises-personnels-empathiques-soutien-de-lfi-un-rapport-dresse-le-portrait-des-perturbateurs-de-lycees-20261124",
+     "resume": "ANALYSE - À la demande du ministre Édouard Geffray, l’inspection générale de l’Éducation nationale a mené une mission flash pour déterminer les raisons des blocages qui perdurent encore. Elle a rendu son rapport ce 24 novembre.",
+     "date": "2026-11-24T16:08:32+01:00",
+     "source": "",
+     "image": "https://i.f1g.fr/media/cms/3000x2004_crop/2026/11/24/d417df0de2c0e2d1a06703e568c43b4c0cdde1c40f2c713daac438c5176ee4f5.jpg"
     }
    ],
    "flux_utilise": "https://www.lefigaro.fr/rss/figaro_actualites.xml"
@@ -74,12 +74,12 @@
    },
    "articles": [
     {
-     "titre": "COP31 : « L’espoir de nombreux observateurs est qu’Antalya crée une sorte de sursaut et permette à la diplomatie climatique de repartir sur de meilleures bases »",
-     "lien": "https://www.lemonde.fr/planete/live/2026/11/24/cop31-comment-rebondir-apres-l-echec-de-la-conference-d-antalya-sur-le-climat-posez-vos-questions-a-notre-journaliste_6814769_3244.html",
-     "resume": "La conférence de l’ONU sur le climat s’est soldée dimanche par un échec, après le rejet du texte d’accord proposé par la présidence turque. Comment l’expliquer ? Que va-t-il se passer maintenant ? Notre journaliste Perrine Mouterde, spécialiste du climat qui…",
-     "date": "2026-11-24T14:25:08+01:00",
+     "titre": "Derrière l’affaire Nvidia, un vaste réseau de détournement de puces d’IA au service de la Chine",
+     "lien": "https://www.lemonde.fr/economie/article/2026/11/24/derriere-l-affaire-nvidia-un-vaste-reseau-de-detournement-de-puces-d-ia-au-service-de-la-chine_6814811_3234.html",
+     "resume": "Alors que Jensen Huang a repris la tête du géant des processeurs américain, lundi 23 novembre, la presse financière mondiale retrace les méthodes qui ont permis d’expédier les puces vers le territoire chinois, malgré les restrictions des Etats-Unis.",
+     "date": "2026-11-24T16:49:58+01:00",
      "source": "",
-     "image": "https://img.lemde.fr/2026/11/23/468/0/5616/2808/644/322/60/0/b5712cf_ftp-1-n6m1ywe9edif-2043b169c5ae490d87bf2e7eac29e85c-0-e531a02b5e5b4679b14c3203c69e01f8.jpg"
+     "image": "https://img.lemde.fr/2026/11/23/277/0/5000/2500/644/322/60/0/950de7d_ftp-1-4nenkwh1gj7l-2026-11-23t142223z-1619699420-rc2rkeajxlru-rtrmadp-3-nvidia-ceo.JPG"
     },
     {
      "titre": "Nicolas Sarkozy, Carla Bruni et Mimi Marchand renvoyés devant le tribunal dans l’affaire de la fausse rétractation de l’homme d’affaires Ziad Takieddine",
@@ -90,36 +90,36 @@
      "image": "https://img.lemde.fr/2026/11/24/0/0/4498/2249/644/322/60/0/0d5ecd3_ftp-1-k2cyp0j91u2e-afp-d8fx7we.jpg"
     },
     {
-     "titre": "CAN 2025 : le Tribunal arbitral du sport déclare le Sénégal champion d’Afrique de football, au détriment du Maroc",
+     "titre": "La difficile quête de souveraineté de la filière drones, dépendante de composants critiques chinois",
+     "lien": "https://www.lemonde.fr/economie/article/2026/11/24/la-difficile-quete-de-souverainete-de-la-filiere-drones-dependante-de-composants-critiques-chinois_6814731_3234.html",
+     "resume": "Moteurs, batteries, hélices… De nombreux appareils, y compris destinés à des usages militaires, ne peuvent pas voler sans ces pièces produites en Chine. Les industriels cherchent à développer une filière européenne pour viser l’indépendance.",
+     "date": "2026-11-24T10:30:05+01:00",
+     "source": "",
+     "image": "https://img.lemde.fr/2026/11/23/575/0/5568/2784/644/322/60/0/3ec1d8c_upload-1-ak9ptk03ief2-000-33dk3jp.jpg"
+    },
+    {
+     "titre": "« La vérité d’une rencontre s’établit sur le terrain » : le Sénégal, déclaré vainqueur près d’un an après la finale, célèbre son titre de champion d’Afrique",
      "lien": "https://www.lemonde.fr/football/article/2026/11/24/can-2025-le-tribunal-arbitral-du-sport-declare-le-senegal-champion-d-afrique-des-nations-au-detriment-du-maroc_6814779_1616938.html",
-     "resume": "Le 18 janvier 2026, la finale de la CAN entre les deux équipes s’était achevée dans le chaos et la tension, ouvrant la voie à près d’un an de batailles juridiques. Mardi, le TAS a déclaré le Sénégal vainqueur.",
+     "resume": "La finale de la CAN 2025 entre le Sénégal et le Maroc s’était achevée, le 18 janvier, dans la tension, ouvrant la voie à des mois de batailles juridiques. Mardi 24 novembre, le Tribunal arbitral du sport a déclaré vainqueurs les Lions de la Teranga.",
      "date": "2026-11-24T15:34:56+01:00",
      "source": "",
      "image": "https://img.lemde.fr/2026/11/24/685/0/4105/2052/644/322/60/0/07ef447_ftp-1-mapns33avgeg-afp-d8ce8zq.jpg"
     },
     {
-     "titre": "« J’ai perdu quasiment la moitié de mes étudiants de première année » : près de deux mois après le début des mobilisations, le risque de décrochage en licence",
-     "lien": "https://www.lemonde.fr/campus/article/2026/11/24/j-ai-perdu-quasiment-la-moitie-de-mes-etudiants-de-premiere-annee-pres-de-deux-mois-apres-le-debut-des-mobilisations-le-risque-de-decrochage-en-licence_6814704_4401467.html",
-     "resume": "Dans les facultés touchées par les blocages, la désorganisation des cours et le passage au distanciel désorientent les étudiants les plus jeunes et inquiètent leurs enseignants.",
-     "date": "2026-11-24T06:00:15+01:00",
+     "titre": "En Colombie, dix ans après l’accord de paix, le laborieux retour à la vie civile des ex-FARC",
+     "lien": "https://www.lemonde.fr/international/article/2026/11/24/en-colombie-dix-ans-apres-l-accord-de-paix-le-laborieux-retour-a-la-vie-civile-des-ex-farc_6814720_3210.html",
+     "resume": "L’accord de 2016 avec le gouvernement colombien prévoyait le désarmement de la guérilla et le retour à la vie civile de 14 000 combattants à partir de zones rurales spécifiques. Une minorité s’y maintient encore. Tous sont confrontés à la précarité de leurs…",
+     "date": "2026-11-24T08:30:00+01:00",
      "source": "",
-     "image": "https://img.lemde.fr/2026/11/23/270/0/2710/1355/644/322/60/0/f343ff4_upload-1-8mqbkrtwt0vo-inquie-tude-e-tudiante.jpg"
+     "image": "https://img.lemde.fr/2026/11/23/668/0/5315/2657/644/322/60/0/376e8f8_upload-1-ed6ixirgvcme-044-nm15500-ex-combattants-etcr-col.jpg"
     },
     {
-     "titre": "Election présidentielle américaine de 2028 : chez les démocrates, un casting de candidats très riche et une primaire plus ouverte que jamais",
-     "lien": "https://www.lemonde.fr/international/article/2026/11/24/election-presidentielle-americaine-de-2028-chez-les-democrates-un-casting-tres-riche-pour-un-premier-role_6814712_3210.html",
-     "resume": "Les midterms à peine passées, les démocrates se tournent déjà vers la présidentielle. Tous les candidats potentiels étaient réunis pour deux jours de conférence à Denver, la capitale du Colorado, les 12 et 13 novembre. Soit une quinzaine de postulants, alors…",
-     "date": "2026-11-24T06:30:05+01:00",
+     "titre": "« Paper Tiger » : le cinéaste James Gray livre le récit captivant d’une lente dislocation familiale",
+     "lien": "https://www.lemonde.fr/culture/article/2026/11/24/paper-tiger-le-cineaste-james-gray-livre-le-recit-captivant-d-une-lente-dislocation-familiale_6814821_3246.html",
+     "resume": "Le nouveau film du réalisateur américain, présenté en compétition à Cannes et inspiré de sa propre jeunesse, est servi par un formidable trio d’acteurs, Scarlett Johansson, Adam Driver et Miles Teller.",
+     "date": "2026-11-24T17:35:50+01:00",
      "source": "",
-     "image": "https://img.lemde.fr/2026/10/29/133/0/5460/2730/644/322/60/0/187a86f_ftp-1-y6dukl2a5zvf-b603fd0faba443c6ab8c8ceaad7e56fa-0-e8a5dbfc4c8246f99ee030cf9da3c23f.jpg"
-    },
-    {
-     "titre": "Le congrès des maires de France s’ouvre sur fond de course à la présidentielle et de protestations autour de la double candidature de David Lisnard",
-     "lien": "https://www.lemonde.fr/politique/article/2026/11/24/le-congres-des-maires-de-france-s-ouvre-sur-fond-de-course-a-la-presidentielle-et-de-protestations-autour-de-la-double-candidature-de-david-lisnard_6814718_823448.html",
-     "resume": "Pour les prétendants en quête des 500 parrainages nécessaires à leur candidature, difficile en effet de faire l’impasse sur le plus grand rassemblement d’élus locaux d’Europe.",
-     "date": "2026-11-24T08:09:47+01:00",
-     "source": "",
-     "image": "https://img.lemde.fr/2026/11/24/640/0/7676/3838/644/322/60/0/8cceb57_upload-1-mw5ruwlwfswf-000-84m46rb.jpg"
+     "image": "https://img.lemde.fr/2026/11/19/126/0/5168/2584/644/322/60/0/9c51500_upload-1-dvzleigppv1a-paper-tiger-snd-tous-droits-reserves-2-b67ce42fb8.jpg"
     }
    ],
    "flux_utilise": "https://www.lemonde.fr/rss/une.xml"
@@ -135,52 +135,52 @@
    },
    "articles": [
     {
-     "titre": "Qui est Victor Manuel Fernandez, à qui François a confié son journal intime ?",
-     "lien": "https://www.la-croix.com/religion/qui-est-victor-manuel-fernandez-a-qui-francois-a-confie-son-journal-intime-20261124",
-     "resume": "Théologien et ami de trente ans du pape argentin, le préfet du dicastère pour la doctrine de la foi fait paraître Le Journal spirituel du pape François, des carnets intimes du Saint-Père, mercredi 25 novembre en français. Longtemps sa plume depuis…",
-     "date": "2026-11-24T16:04:45+01:00",
+     "titre": "Au Liban, le village chrétien de Debel piégé entre occupation israélienne et soupçons de collaboration",
+     "lien": "https://www.la-croix.com/international/au-liban-le-village-chretien-de-debel-piege-entre-occupation-israelienne-et-soupcons-de-collaboration-20261124",
+     "resume": "La vidéo d’une porte-parole de l’armée israélienne publiée le 22 novembre, filmée dans une école du village chrétien de Debel, dans le sud du Liban occupé, a provoqué de vives réactions dans le pays. Début juillet, Benyamin Netanyahou affirmait que certaines…",
+     "date": "2026-11-24T18:32:53+01:00",
      "source": "",
-     "image": "https://i.la-croix.com/x/2026/11/24/2597563-le-cardinal-argentin-victor-manuel-fernandez-lors-.jpg"
+     "image": "https://i.la-croix.com/x/2026/11/24/2597717-un-drapeau-israelien-flotte-sur-un-batiment-situe-.jpg"
     },
     {
-     "titre": "Énergie, eau, mobilité… À Stockholm, des écoquartiers modèles pour les villes de demain",
-     "lien": "https://www.la-croix.com/planete/energie-eau-mobilite-a-stockholm-des-ecoquartiers-modeles-pour-les-villes-de-demain-20261124",
-     "resume": "Dans la capitale suédoise, deux écoquartiers XXL sortis de terre à une décennie d’intervalle sont devenus les laboratoires de la ville durable, facile à vivre, vertueuse et adaptée aux changements climatiques. Visite guidée.",
-     "date": "2026-11-24T16:01:59+01:00",
+     "titre": "« Est-ce que notre année va compter ? » : à Marseille, des étudiants bousculés par les blocus",
+     "lien": "https://www.la-croix.com/societe/est-ce-que-notre-annee-va-compter-a-marseille-des-etudiants-bouscules-par-les-blocus-20261124",
+     "resume": "Aix-Marseille Université, plus grande université de l’Hexagone, vit au rythme des blocages, qui s’essoufflent ces dernières semaines. Si les étudiants soutiennent majoritairement les revendications du mouvement, ils sont quand même inquiets pour leur avenir.",
+     "date": "2026-11-24T18:09:19+01:00",
      "source": "",
-     "image": "https://i.la-croix.com/x/2026/11/24/2594827-l-ecoquartier-de-hammarby-sjostad-a-stockholm-accu.jpg"
+     "image": "https://i.la-croix.com/x/2026/11/24/25978762-manifestation-des-lyceens-et-etudiants-a-aix-en-pr.jpg"
     },
     {
-     "titre": "Football : le Sénégal récupère son titre de champion d’Afrique au détriment du Maroc",
-     "lien": "https://www.la-croix.com/sport/football-le-senegal-recupere-son-titre-de-champion-d-afrique-au-detriment-du-maroc-20261124",
-     "resume": "Dix mois après une finale chaotique en Coupe d’Afrique des nations, le Tribunal arbitral du sport a statué mardi 24 novembre à l’unanimité sur le titre de champion décerné au Sénégal et non au Maroc.",
-     "date": "2026-11-24T15:52:09+01:00",
+     "titre": "Rouvrons les universités !",
+     "lien": "https://www.la-croix.com/societe/rouvrons-les-universites-20261124",
+     "resume": "À quelques jours des premiers examens, environ 20 % des universités sont toujours perturbées.",
+     "date": "2026-11-24T18:07:28+01:00",
      "source": "",
-     "image": "https://i.la-croix.com/x/2026/11/24/2597665-les-joueurs-du-senegal-soulevent-le-trophee-apres-.jpg"
+     "image": "https://i.la-croix.com/x/2026/10/29/2575805-thiebault-dromard-directeur-adjoint-de-la-redactio.jpg"
     },
     {
-     "titre": "Le respect des aînés, une « bénédiction » : Mohammed el mahdi Krabch, la foi au service des seniors",
-     "lien": "https://www.la-croix.com/religion/le-respect-des-aines-une-benediction-mohammed-el-mahdi-krabch-la-foi-au-service-des-seniors-20261124",
-     "resume": "Imam, théologien, aumônier d’hôpitaux, Mohammed el mahdi Krabch, 48 ans, promeut le soin aux plus âgés, persuadé qu’il en va aussi de l’avenir des plus jeunes. Une conviction forte qui s’enracine dans sa foi musulmane.",
-     "date": "2026-11-24T15:45:49+01:00",
+     "titre": "Bug informatique à la Croix-Rouge : des milliers d’euros virés par erreur aux salariés",
+     "lien": "https://www.la-croix.com/societe/bug-informatique-a-la-croix-rouge-des-milliers-d-euros-vires-par-erreur-aux-salaries-20261124",
+     "resume": "Un dysfonctionnement technique lors de la mise à jour du logiciel de virements de la Croix-Rouge française a provoqué des paiements non dus à ses salariés mi-novembre, certains percevant jusqu’à 9 500 €. Le remboursement s’annonce complexe pour une partie…",
+     "date": "2026-11-24T17:55:02+01:00",
      "source": "",
-     "image": "https://i.la-croix.com/x/2026/11/23/2592466-wp-image0jpeg.jpeg"
+     "image": "https://i.la-croix.com/x/2026/11/24/2597685-la-croix-rouge-qui-compte-17-500-salaries-en-franc.jpg"
     },
     {
-     "titre": "Guerre en Ukraine : frappes meurtrières à Zaporijjia ; Zelensky reçoit le premier ministre hongrois",
-     "lien": "https://www.la-croix.com/international/ukraine-russie-jour-1735-point-conflit-ukrainien-poutine-aujourdhui-20261124",
-     "resume": "Deux personnes ont été tuées, et plus de 40 blessées, dans les frappes russes menées dans la nuit sur Zaporijjia. Le premier ministre hongrois a annoncé qu’il rencontrera le président ukrainien en Transcarpatie. Suivez l’actualité de la guerre en Ukraine ce…",
-     "date": "2026-11-24T14:59:40+01:00",
+     "titre": "Entre crises spirituelles et peur de la toute-puissance : La Croix décrypte le journal spirituel inédit du pape François",
+     "lien": "https://www.la-croix.com/service/entre-crises-spirituelles-et-peur-de-la-toute-puissance-la-croix-decrypte-le-journal-spirituel-inedit-du-pape-francois-20261124",
+     "resume": "À l’occasion de la parution du Journal spirituel du pape François (Albin Michel), La Croix décrypte les écrits personnels rédigés par Jorge Mario Bergoglio entre 1992 et 2024. Commentés par le cardinal Víctor Manuel Fernández, l’un de ses plus proches…",
+     "date": "2026-11-24T17:46:50+01:00",
      "source": "",
-     "image": "https://i.la-croix.com/x/2026/11/24/2597351-des-policiers-ukrainiens-inspectent-les-lieux-d-un.jpg"
+     "image": null
     },
     {
-     "titre": "Automobile : le constructeur chinois BYD annonce vouloir acquérir une usine en Moselle",
-     "lien": "https://www.la-croix.com/economie/automobile-le-constructeur-chinois-byd-annonce-vouloir-acquerir-une-usine-en-moselle-20261124",
-     "resume": "Le géant chinois de l’électrique BYD a ouvert des négociations pour racheter l’usine Ineos Automotive d’Hambach, en Moselle, afin d’y produire des véhicules pour le marché européen, a-t-il annoncé mardi 24 novembre.",
-     "date": "2026-11-24T14:43:33+01:00",
+     "titre": "Aurore Bergé : « Nous avons engagé une révolution » dans la lutte contre les violences faites aux femmes",
+     "lien": "https://www.la-croix.com/societe/aurore-berge-nous-avons-engage-une-revolution-dans-la-lutte-contre-les-violences-faites-aux-femmes-20261124",
+     "resume": "À l’occasion de la Journée internationale de lutte contre les violences faites aux femmes, le 25 novembre, Aurore Bergé, ministre déléguée chargée de l’égalité entre les femmes et les hommes, livre en exclusivité à La Croix le bilan des dispositifs mis en…",
+     "date": "2026-11-24T17:35:09+01:00",
      "source": "",
-     "image": "https://i.la-croix.com/x/2026/11/24/2597612-le-constructeur-byd-a-annonce-mardi-24-novembre-20.jpg"
+     "image": "https://i.la-croix.com/x/2026/11/24/2597641-aurore-berge-ministre-deleguee-chargee-de-l-egalit.jpg"
     }
    ],
    "flux_utilise": "https://www.la-croix.com/feeds/rss/site.xml"
@@ -196,50 +196,50 @@
    },
    "articles": [
     {
-     "titre": "L'Euroligue pourrait lancer une Summer League pour l'été 2027",
-     "lien": "https://www.lequipe.fr/Basket/Actualites/L-euroligue-pourrait-lancer-une-summer-league-pour-l-ete-2027/1745817#at_medium=RSS_feeds",
-     "resume": "L'Euroligue envisagerait de lancer sa propre Summer League dès l'été 2027. Ce tournoi serait à vocation internationale et pourrait réunir six équipes pour sa première édition.",
-     "date": "2026-11-24T15:52:07+01:00",
+     "titre": "« Une opportunité pour voir nos jeunes » : malgré les absences, Frédéric Fauthoux veut profiter de la fenêtre internationale pour tester des rookies",
+     "lien": "https://www.lequipe.fr/Basket/Actualites/-une-opportunite-pour-voir-nos-jeunes-malgre-les-absences-frederic-fauthoux-veut-profiter-de-la-fenetre-internationale-pour-tester-des-rookies/1745857#at_medium=RSS_feeds",
+     "resume": "L'équipe de France a pris ses quartiers lundi à Dijon pour quatre séances d'entraînement avant de s'envoler jeudi matin pour l'Estonie, où elle espère valider sa qualification pour la Coupe du monde 2027 au Qatar (match vendredi à 18 heures).",
+     "date": "2026-11-24T18:04:08+01:00",
      "source": "",
-     "image": "https://medias.lequipe.fr/img-photo-jpg/l-euroligue-poursuit-son-projet-d-expansion-s-mantey-l-equipe/1500000002658632/0:0,1999:1333-828-552-75/65add.jpg"
+     "image": "https://medias.lequipe.fr/img-photo-jpg/frederic-fauthoux-le-selectionneur-des-bleus-a-mounic-l-equipe/1500000002658716/0:0,2000:1333-828-552-75/63c8c.jpg"
     },
     {
-     "titre": "Après des rumeurs de retraite, Egan Bernal prolonge officiellement avec l'équipe Netcompany-Ineos",
-     "lien": "https://www.lequipe.fr/Cyclisme-sur-route/Actualites/Apres-des-rumeurs-de-retraite-egan-bernal-prolonge-officiellement-avec-l-equipe-netcompany-ineos/1745815#at_medium=RSS_feeds",
-     "resume": "La formation Netcompany-Ineos a officialisé ce mardi la prolongation du contrat d'Egan Bernal. Le Colombien, lauréat du Tour de France 2019 et du Giro 2021, enterre définitivement les rumeurs de retraite.",
-     "date": "2026-11-24T15:43:20+01:00",
+     "titre": "Le RC Lens dans le top 10 après sa victoire face à Leipzig en Youth League",
+     "lien": "https://www.lequipe.fr/Football/Actualites/Le-rc-lens-dans-le-top-10-apres-sa-victoire-face-a-leipzig-en-youth-league/1745856#at_medium=RSS_feeds",
+     "resume": "Menés dès l'entame de la rencontre, les jeunes Lensois ont renversé le RB Leipzig (3-2), ce mardi, lors de la 5e journée de Youth League. Un succès qui leur permet de grimper à la 9e place du classement à une journée de la fin de la phase de ligue.",
+     "date": "2026-11-24T18:03:40+01:00",
      "source": "",
-     "image": "https://medias.lequipe.fr/img-photo-jpg/egan-bernal-est-sous-contrat-jusqu-en-2029-avec-netcompany-ineos-b-papon-l-equipe/1500000002658618/0:0,2000:1333-828-552-75/a4a58.jpg"
+     "image": "https://medias.lequipe.fr/img-photo-jpg/mohamed-seddik-a-ouvert-le-score-pour-les-lensois-2-1-d-catry-sportpix/1500000002658715/0:0,1999:1333-828-552-75/d8d47.jpg"
     },
     {
-     "titre": "CAN 2025 : le Maroc débouté en appel par le TAS, le Sénégal récupère son titre",
-     "lien": "https://www.lequipe.fr/Football/Actualites/Can-2025-le-maroc-deboute-en-appel-par-le-tas-le-senegal-recupere-son-titre/1745812#at_medium=RSS_feeds",
-     "resume": "Ce mardi, le Tribunal arbitral du sport a rendu son verdict concernant le vainqueur officiel de la CAN 2025. Titré sur le terrain le 18 janvier, puis déclaré perdant sur tapis vert le 17 mars par la Confédération africaine, le Sénégal a été entendu en appel…",
-     "date": "2026-11-24T15:21:03+01:00",
-     "source": "",
-     "image": "https://medias.lequipe.fr/img-photo-jpg/au-terme-de-dix-mois-de-procedures-avec-le-maroc-le-senegal-peut-officiellement-savourer-son-deuxieme-titre-de-champion-d-afrique-apres-celui-de-2021-f-faugere-l-equipe/1500000002658580/0:0,2000:1333-828-552-75/2fb21.jpg"
-    },
-    {
-     "titre": "Ferrer : «Nous sommes favoris sans aucun doute»",
-     "lien": "https://www.lequipe.fr/Tennis/Video/Coupe-davis-espagne-nous-sommes-favoris-sans-aucun-doute-david-ferrer-avant-le-quart-de-finale-de-coupe-davis-entre-l-espagne-et-l-autriche/20246232#at_medium=RSS_feeds",
+     "titre": "Qu'est ce qui va changer cette saison ?",
+     "lien": "https://www.lequipe.fr/Biathlon/Video/Coupe-du-monde-qu-est-qui-va-changer-cette-saison/20246220#at_medium=RSS_feeds",
      "resume": "",
-     "date": "2026-11-24T15:11:00+01:00",
+     "date": "2026-11-24T18:00:00+01:00",
      "source": "",
      "image": "https://medias.lequipe.fr/img-photo-png/-/1500000000833469/0-828-552-75/0cb67.png"
     },
     {
-     "titre": "Pas de course d'adieu pour Maverick Vinales, remplacé par Pol Espargaro au Grand Prix de Valence",
-     "lien": "https://www.lequipe.fr/Moto/Actualites/Pas-de-course-d-adieu-pour-maverick-vinales-remplace-par-pol-espargaro-au-grand-prix-de-valence/1745806#at_medium=RSS_feeds",
-     "resume": "L'équipe Tech 3 KTM a annoncé le forfait de son pilote Maverick Vinales pour le dernier Grand Prix de la saison, ce week-end à Valence. Toujours blessé à l'épaule gauche, l'Espagnol sera remplacé par son compatriote Pol Espargaro.",
-     "date": "2026-11-24T15:07:16+01:00",
+     "titre": "Pourchaire, Pin, Loeb, Duval... quel avenir pour les pilotes Stellantis ?",
+     "lien": "https://www.lequipe.fr/Sport-auto/Article/Pourchaire-pin-loeb-duval-quel-avenir-pour-les-pilotes-concernes-par-les-arrets-des-programmes-stellantis-et-renault/1745853#at_medium=RSS_feeds",
+     "resume": "",
+     "date": "2026-11-24T17:58:00+01:00",
      "source": "",
      "image": "https://medias.lequipe.fr/img-photo-png/-/1500000000833469/0-828-552-75/0cb67.png"
     },
     {
-     "titre": "Hifi, une série irréelle dans les moments «clutch»",
-     "lien": "https://www.lequipe.fr/Basket/Article/Entre-confiance-et-culot-nadir-hifi-une-serie-irreelle-dans-les-moments-clutch-avec-paris-meme-a-0-sur-25-au-tir-je-vais-lui-donner-le-dernier-ballon/1745699#at_medium=RSS_feeds",
-     "resume": "",
-     "date": "2026-11-24T15:04:00+01:00",
+     "titre": "Par solidarité avec Rassie Erasmus, son adjoint Mzwandile Stick donne une conférence de presse en xhosa, un dialecte local",
+     "lien": "https://www.lequipe.fr/Rugby/Actualites/Par-solidarite-avec-rassie-erasmus-son-adjoint-mzwandile-stick-donne-une-conference-de-presse-en-xhosa-un-dialecte-local/1745854#at_medium=RSS_feeds",
+     "resume": "L'entraîneur adjoint des Springboks, Mzwandile Stick, a tenu sa conférence de presse en xhosa. Un geste fort qui intervient une semaine après la suspension pour six matches de Rassie Erasmus pour les critiques qu'il avait formulées, en anglais, envers…",
+     "date": "2026-11-24T17:55:43+01:00",
+     "source": "",
+     "image": "https://medias.lequipe.fr/img-photo-png/-/1500000000833469/0-828-552-75/0cb67.png"
+    },
+    {
+     "titre": "Le carton rouge concédé par Leny Yoro contre Liverpool annulé par la Fédération anglaise",
+     "lien": "https://www.lequipe.fr/Football/Actualites/Le-carton-rouge-concede-par-leny-yoro-contre-liverpool-annule-par-la-federation-anglaise/1745849#at_medium=RSS_feeds",
+     "resume": "Manchester United a annoncé ce mardi avoir été informé par la Fédération anglaise de football (FA) de l'annulation du carton rouge concédé dimanche par Leny Yoro contre Liverpool (0-4).",
+     "date": "2026-11-24T17:52:01+01:00",
      "source": "",
      "image": "https://medias.lequipe.fr/img-photo-png/-/1500000000833469/0-828-552-75/0cb67.png"
     }
@@ -254,14 +254,24 @@
    "sous_titre": "Les informations les plus importantes, partout dans le monde",
    "items": [
     {
-     "titre": "CAN 2025 : le Tribunal arbitral du sport déclare le Sénégal champion d’Afrique de football, au détriment du Maroc",
+     "titre": "« La vérité d’une rencontre s’établit sur le terrain » : le Sénégal, déclaré vainqueur près d’un an après la finale, célèbre son titre de champion d’Afrique",
      "lien": "https://www.lemonde.fr/football/article/2026/11/24/can-2025-le-tribunal-arbitral-du-sport-declare-le-senegal-champion-d-afrique-des-nations-au-detriment-du-maroc_6814779_1616938.html",
-     "resume": "Le 18 janvier 2026, la finale de la CAN entre les deux équipes s’était achevée dans le chaos et la tension, ouvrant la voie à près d’un an de batailles juridiques. Mardi, le TAS a déclaré le Sénégal vainqueur.",
+     "resume": "La finale de la CAN 2025 entre le Sénégal et le Maroc s’était achevée, le 18 janvier, dans la tension, ouvrant la voie à des mois de batailles juridiques. Mardi 24 novembre, le Tribunal arbitral du sport a déclaré vainqueurs les Lions de la Teranga.",
      "date": "2026-11-24T15:34:56+01:00",
      "source": "lemonde.fr",
      "image": "https://img.lemde.fr/2026/11/24/685/0/4105/2052/644/322/60/0/07ef447_ftp-1-mapns33avgeg-afp-d8ce8zq.jpg",
+     "reprises": 10,
+     "score": 29.33
+    },
+    {
+     "titre": "EN DIRECT, guerre en Ukraine | Navires russes pris pour cibles en Libye : l’Italie exprime son inquiétude à l’Ukraine",
+     "lien": "https://www.lemonde.fr/international/live/2026/11/24/en-direct-guerre-en-ukraine-navires-russes-pris-pour-cibles-en-libye-l-italie-exprime-son-inquietude-a-l-ukraine_6814183_3210.html",
+     "resume": "Antonio Tajani a souligné qu’il était « fondamental pour l’Italie de continuer à travailler pour éviter l’extension du conflit à la Méditerranée » et a souligné la nécessité de « respecter l’intégrité territoriale de la Libye ».",
+     "date": "2026-11-24T16:28:55+01:00",
+     "source": "lemonde.fr",
+     "image": "https://img.lemde.fr/2026/11/23/24/0/1492/746/644/322/60/0/68d0383_ftp-1-07xi9dvtsch0-afp-d8dq2g3.jpg",
      "reprises": 6,
-     "score": 24.05
+     "score": 17.12
     },
     {
      "titre": "Nvidia : Donald Trump aurait gagné jusqu’à 15 millions de dollars grâce à ses actions après le retour de Jensen Huang, selon le « Financial Times »",
@@ -270,18 +280,28 @@
      "date": "2026-11-24T12:56:00+01:00",
      "source": "lemonde.fr",
      "image": "https://img.lemde.fr/2026/11/16/205/0/2468/1234/644/322/60/0/a94542a_ftp-1-c1j4xikxkhn6-2026-11-16t162329z-2005700223-rc27znab2ucn-rtrmadp-3-usa-trump-nvidia.JPG",
-     "reprises": 8,
-     "score": 23.42
+     "reprises": 6,
+     "score": 15.09
     },
     {
-     "titre": "EN DIRECT, guerre en Ukraine : « Les actes de l’Ukraine ne visent que l’agresseur », affirme Kiev après les attaques de bateaux russes au large de la Libye et de la Finlande",
-     "lien": "https://www.lemonde.fr/international/live/2026/11/24/en-direct-guerre-en-ukraine-le-hongrois-peter-magyar-va-rencontrer-volodymyr-zelensky-mardi-en-transcarpatie_6814183_3210.html",
-     "resume": "Volodymyr Zelensky a confirmé, mardi, que les forces ukrainiennes avaient attaqué un cargo en ​route pour l’exclave ‌russe de Kaliningrad, samedi, dans le golfe de Finlande. « Aucune tierce partie » n’est visée, assure le ministère des affaires étrangères…",
-     "date": "2026-11-24T10:53:31+01:00",
+     "titre": "En Colombie, un attentat à la voiture piégée fait au moins 25 blessés, à la veille des dix ans de l’accord de paix avec les FARC",
+     "lien": "https://www.lemonde.fr/international/article/2026/11/24/en-colombie-un-attentat-a-la-voiture-piegee-fait-au-moins-25-blesses-a-la-veille-des-dix-ans-de-l-accord-de-paix-avec-les-farc_6814815_3210.html",
+     "resume": "Le président colombien a attribué l’attentat à des dissidents de l’ex-guérilla. Aucun groupe n’a pour l’heure revendiqué l’attaque de Villavicencio.",
+     "date": "2026-11-24T17:02:16+01:00",
      "source": "lemonde.fr",
-     "image": "https://img.lemde.fr/2026/11/23/79/0/2096/1048/644/322/60/0/cb68da6_ftp-1-d0b4vl4cnnfa-14df2a81be304f1781ac3d9d34d5a39c-0-837fc18d8eb0430f8e3a9a37027db94b.jpg",
-     "reprises": 5,
-     "score": 11.27
+     "image": "https://img.lemde.fr/2026/11/24/456/0/5472/2736/644/322/60/0/ccf3a40_ftp-1-glgpcbk1rsde-2026-11-24t151037z-52219646-rc2buoaccdbi-rtrmadp-3-colombia-violence.JPG",
+     "reprises": 6,
+     "score": 10.36
+    },
+    {
+     "titre": "CAN 2025 : pourquoi le TAS a donné raison à l'arbitre et au Sénégal",
+     "lien": "https://www.france24.com/fr/sports/20261124-can-2025-pourquoi-tas-arbitre-senegal-maroc",
+     "resume": "Le Tribunal arbitral du sport (TAS) a invalidé, mardi, la décision du jury d'appel de la CAF et rendu au Sénégal son titre de champion d'Afrique 2025 face au Maroc. L'instance basée à Lausanne estime que l'arbitre de la finale était seul juge pour reprendre…",
+     "date": "2026-11-24T18:02:32+01:00",
+     "source": "© Sebastien Bozon, AFP",
+     "image": "https://s.france24.com/media/display/d3d55ed4-e824-11f1-9de7-29d00e23de9a/w:1024/p:16x9/000-936L3LV.jpg",
+     "reprises": 2,
+     "score": 9.69
     },
     {
      "titre": "« Le Journal spirituel du pape François » dévoile trente-deux années de réflexions du Saint-Père argentin",
@@ -291,27 +311,7 @@
      "source": "lemonde.fr",
      "image": "https://img.lemde.fr/2026/11/24/160/0/1920/960/644/322/60/0/f6d245a_upload-1-3iutn1m0fqzy-pppp.jpg",
      "reprises": 5,
-     "score": 9.31
-    },
-    {
-     "titre": "Gaza : le responsable de la sécurité intérieure du Hamas, Naeem Abou Nahal, tué dans un bombardement israélien",
-     "lien": "https://www.lemonde.fr/international/article/2026/11/24/gaza-le-responsable-de-la-securite-interieure-du-hamas-naeem-abou-nahal-tue-dans-un-bombardement-israelien_6814764_3210.html",
-     "resume": "Mardi, sept personnes ont été tuées dans plusieurs bombardements israéliens sur l’enclave palestinienne, selon les bilans partagés par la défense civile, organisation de premiers secours opérant sous l’autorité du Hamas.",
-     "date": "2026-11-24T13:52:10+01:00",
-     "source": "lemonde.fr",
-     "image": "https://img.lemde.fr/2026/11/24/456/0/5472/2736/644/322/60/0/b7db30e_ftp-1-jtoi6pzho3cp-afp-d8fh9ml.jpg",
-     "reprises": 4,
-     "score": 7.8
-    },
-    {
-     "titre": "L'Iran inflige 74 coups de fouet à la chanteuse Parastoo Ahmadi",
-     "lien": "https://www.rfi.fr/fr/moyen-orient/20261124-l-iran-inflige-74-coups-de-fouet-%C3%A0-la-chanteuse-parastoo-ahmadi",
-     "resume": "Les autorités iraniennes ont infligé, lundi 23 novembre, 74 coups de fouet à la chanteuse Parastoo Ahmadi qui s'était produite sans voile dans une vidéo diffusée sur YouTube, rapporte l'agence de presse Isna, citant son avocat.",
-     "date": "2026-11-24T13:46:59+01:00",
-     "source": "© YouTube Parastoo Ahmadi",
-     "image": "https://s.rfi.fr/media/display/7f17504a-b87a-11ef-b7ad-005056bfb2b6/w:1024/p:16x9/Screen%20Shot%202024-12-12%20at%2012.13.57.png",
-     "reprises": 4,
-     "score": 6.72
+     "score": 8.52
     }
    ],
    "a_traduire": []
@@ -322,54 +322,54 @@
    "sous_titre": "Modèles, entreprises, régulation, recherche",
    "items": [
     {
-     "titre": "Anthropic lève 81,3 milliards de dollars en Bourse, la plus grosse introduction de l’histoire",
-     "lien": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQVjFzWk5rMTVwUkNhNGxpQ3ppRzRTa1FwSEw3UjN5aHcxWUVESnU0RG5WcEJxdHQtWmlMTWY5LWZldTl1XzVyTHhYTkxHVEQtc3ZIQldTUmstT01Jd1JDWl9LVWRQRkVVcFZoZmRkVW85ZVh6NDUtUXJyc3FkTnY3QTZWMGg5Q3N4cld6MWxFdHkzdTZvcTNfdl9CNDRUMTROQV9zb25fRkp3QUx0WjRIM2JFZm4tSmhCV3BLU0Z4WURFM1ZjM25BcmhuVFRJUQ?oc=5",
-     "resume": "",
-     "date": "2026-11-24T11:17:17+01:00",
-     "source": "ZDNET",
-     "image": null,
-     "reprises": 11,
-     "score": 36.34
-    },
-    {
-     "titre": "[IA Insider] Jensen Huang is back ! Nvidia reprend des couleurs",
-     "lien": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxOV3QyaVFOQ2w2MDdYUE0weXhVRGlEaDJGNVpEM1FSTmpaaEVrczBzZDlpS003WkVKTGdscE4zT3lwek53Qkhvbk5hTzVsNzJ1dUFpSXg1U1RvMWxuUF9JTW5lUnRnZFFVN0cta0lnelU1b3dPYldQaEdWNkg4LTNtT3dIQnRKNk96ZU9QVUlKZmlURzQ1b0tOcjZvckR3aHIyWFNud0J5ckg2QktMSmhSNEYxMVJmdkQ1djZUU2lnbGlua3lFZEwzeDZyUzBFZFVidWx5eXFfV3p1UWFIX3F4NWhWbl83VzdrVW9XcnY3elU?oc=5",
-     "resume": "After the leather-jacketed CEO, president, and co-founder of Nvidia, Jensen Huang, acknowledged an affair with Megaspeed exec Alice Huang, his company initially announced an investigation. However, after The New York Times reported there was evidence of…",
-     "date": "2026-11-24T14:31:43+01:00",
+     "titre": "La start-up fondée par Demis Hassabis, Isomorphic Labs, lève 5 milliards de dollars pour accélérer la découverte de médicaments grâce à l’IA",
+     "lien": "https://news.google.com/rss/articles/CBMi1gJBVV95cUxNU2gwQ3hGX1RaNll3ajdiVk5zVzlyaVlxTnJaTE9RckNXOVZIbG91QWtCSHdwbXhPSlNaYzVJQmEwRmk0bWFmYTU3cmNZSFJpcUdyTUp0OTRZX3ZrRDlWRVRhbEZJaTBsdDJDMGQycGdtclBTYjFkZzZBM2VUa1p0dDdXVWthRUYxcGdPN3BzYUtlU1hZUFFQaGl5VkpXTVVqZnVzOUZwUnV3M2p3OElWTTZQYkhLcFdob3ZHR2RwRUZKaGZMZ05hTVpYWV83eHhVbVZ5NUdXY3laU3k5NnZsVUw5aWc3cEd0RFVVdERMWWZ4ajRGSF93bVkxM0FxVlpYNDR4NVVPR2FCX24xNW5ldWkwazNEX1h0alp0d2I2c1UySFd3SjltZmY2eXFIV09zX05QNDhuYzhpcW1FQUNjaGdDWG5LUFFvSGFnRzdFRGZxU2tFV1E?oc=5",
+     "resume": "Le 20 novembre 2026, un mathématicien d’Anthropic a annoncé avoir démontré avec Claude l’hypothèse de Riemann, l’une des énigmes les plus célèbres des mathématiques. À peine l’annonce faite, les regards se tournent vers P vs NP.",
+     "date": "2026-11-24T17:06:07+01:00",
      "source": "L'Usine Digitale",
      "image": null,
-     "reprises": 5,
-     "score": 15.91
+     "reprises": 16,
+     "score": 50.71
     },
     {
-     "titre": "Anthropic lance Claude Ship pour automatiser la correction et la validation des pull requests",
-     "lien": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5JWVZuT0xpLWxZYXRwLWx3dkdUTHR0RmZTOV9jUFV2bTFCcFhkQmVDM3VxdnlYTGVzSVhhTG1mV0JaNnFOZ2xmb05Sd0pjVWZIQ1drcTFOZWJfb2luclRfbHFFR2VZYlhuNGxmaVRR?oc=5",
-     "resume": "Anthropic dévoile Claude Ship, un ensemble d'agents capables de relire, corriger et même approuver du code avant sa mise en ligne.",
-     "date": "2026-11-24T10:43:10+01:00",
-     "source": "BDM",
+     "titre": "Affaire Nvidia : les 5 questions qui se posent après le spectaculaire come-back de Jensen Huang",
+     "lien": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxNY2Nnd2w3cFd1MmJJaGU5UkduVkt4X1czcXFfazZ6TlVtVHVCeDhDODJsUmdBSjQxSGVRNnoxc0YtYkdSUlUtdkt2Q3Z0SmZiODVIVzhTUmZMWU9oNEt6MGRycEp4bU9KVmRleWhyNEcxdFNra0FXMjNmQnM0TWdiNDFodnk3UnlSdmtORzdfNjUyNlFYOVVNZ19yeXB6Sjloay1KdTQtbWNIMkVIVU81X2gzTERkZkNHektaRko3akNxUmktUjBqQXZVSE9SX1FWTERyY2hrS2c4Q3JrWEpXRWhpYkhMbnpuWFVoZThsTVgzbzFXcWc?oc=5",
+     "resume": "After the leather-jacketed CEO, president, and co-founder of Nvidia, Jensen Huang, acknowledged an affair with Megaspeed exec Alice Huang, his company initially announced an investigation. However, after The New York Times reported there was evidence of…",
+     "date": "2026-11-24T17:00:03+01:00",
+     "source": "Les Echos",
      "image": null,
      "reprises": 4,
-     "score": 7.77
+     "score": 13.58
     },
     {
-     "titre": "Un mathématicien d’Anthropic démontre l’hypothèse de Riemann, l’une des conjectures les plus célèbres de toutes les mathématiques",
-     "lien": "https://news.google.com/rss/articles/CBMikgJBVV95cUxNcUNCTGFTRlRicEZqcEdabUNWQzZFWGJwRU90dFQ0dTdLVDJVZzliR1FDUVUwVDJyOEpmY2FLUGZSOUVvdWZ4VFVhWDdLSmVEblc1NWlGUGVMaG1fNkYxN1RtN0xPTDZNRWdtMjNtd0t2aHJhblV5SzFvamxPdFhqZjA3ZXc5eWdyb0VZZ04xQUhjWlE4N09qd2VsSlJKRFl6NTQ5T0dvLVR5RzZhMHNfdkV3Q0hHUjNRRXNyR2hzaWVCVTJacXZaZnM3OVc3ak5xMWZmLTBHQTVpQ2tRRkZHLWgzNnpYWkJFcFphVFQyZ1hWLTlkQnQ4T1E2bE1LSHdhWUZpUDlSM0xYZHIwcERHSl93?oc=5",
-     "resume": "Le chiffre avait fait le tour du monde : la preuve de l'hypothèse de Riemann obtenue avec Claude aurait nécessité plus de 250 000 pages d'explications. Son auteur, Levent Alpöge, assure désormais qu'il s'agissait d'une plaisanterie. Il reconnaît aussi que…",
-     "date": "2026-11-23T18:08:47+01:00",
-     "source": "Pour la Science",
+     "titre": "Claude Ship : Anthropic veut confier la revue de code aux agents IA",
+     "lien": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNX25wbmZ6XzM5TGQ4S2ZRNXVMekNSNmd6bXpjTkRrNzVZbzJzYkhVWG13YVVFYlRqRUtJV1J1TmxCR3hac2FDWGdETTFtZUtOZlJGcTNHSVI1a29vLU9YbVFmRWlrWUZ3ZmMwWTNuTzMtN1F0TzdDNXFQaFBqV0FmOGJYRUg0a1NMaFpfQkFJSzFRTGc2S3poTTkyYW9zRkk2eHpkV2xsSy1SNWtFdnc?oc=5",
+     "resume": "Anthropic dévoile Claude Ship, un ensemble d'agents capables de relire, corriger et même approuver du code avant sa mise en ligne.",
+     "date": "2026-11-24T18:26:38+01:00",
+     "source": "Le Mag IT",
+     "image": null,
+     "reprises": 7,
+     "score": 13.28
+    },
+    {
+     "titre": "Intelligence artificielle : c’est quoi un robot conversationnel ?",
+     "lien": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxQSjR1QWxjM0VRbF8wbm54NUJsR0M0THZ1U3dXVkN5OHFidHI1b0tQRFlXYkdxMC1uQ1lucGo4b1BVTHRkcGFkaUN3WFFYeUVnejVIeGJ6c3NWaEF4ZmRENUd3RmQ3Nmpja0loTkVXdTBZbWh1Q01fMnRsSFkweHROMlJ1MlNLdk5pcWxfYUVVSk9HbUJiRHJrWDY0YU9ySV9iYl9DQ244ZzBUWVVwS1g5QVlPUVNyZ2lwVzd4bzQtb0pkcXN3empRZmd3MGN6N1ozUWlYSTF5QkdsTzhlVEdOWnlKZlBHTm9BcHNnbl9PUUwxdms?oc=5",
+     "resume": "",
+     "date": "2026-11-24T15:27:26+01:00",
+     "source": "Ouest-France",
      "image": null,
      "reprises": 2,
-     "score": 3.14
+     "score": 3.04
     },
     {
-     "titre": "Appels sur l'actualité - IA : Anthropic une valorisation record mais pour quelle rentabilité ?",
-     "lien": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxOeDRiTlN2X19hbjJTWEZOSDh0M0pOSXd5S1FFaFhGZzI0aFJrSTBQNHdGdkhORlpBdHhxNFdORFZQU1l5Rzl0WU5NOGUySDNoV1VrTUhQSS1BdTlkbWEzTnJPZlRJSjV4YjRPQVJFUS1HZy1IRXR3Y0hobERUZTZ6dUVkSGJpNHY5Z1pBcjB4Q3huOXllc0p1OUNvelM1RHNRREYtU3R5SWVTaUNidy10U1IzcnV3Y01jUlNTaUsyVWktOFozdUtHTGotRTBvMWpFdDYtTQ?oc=5",
+     "titre": "ELSAN nomme Mehdi Ghissassi à son Conseil de surveillance pour accompagner ses ambitions dans l’intelligence artificielle",
+     "lien": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxNYWk1U0sydUtxRG5PLXFNendHVTJPdlJsNWVHNllqSlV5clduYks2bWp0MzV3UWxkczc0ZnpXQk5NSVkwb3MtazJWUy11NmZuOGRoRy1BUmx5c19BYlRrRHM0TkdnUmpuX2JKakFnelVOclZTa2wya0YwWHIta2tXNWhLdGtEMGgzUk93WktacHVEVGFWNW9ySWc1UHYybTVFcF9rbi1lR0FoNzlyWGx2WFAya1RnZDF1TkFuaDhvLTlsLTJJZXdiMDZrME5TeDduSDJ6eWVWR2hRbkx0RGc?oc=5",
      "resume": "",
-     "date": "2026-11-24T11:20:47+01:00",
-     "source": "RFI",
+     "date": "2026-11-24T13:50:55+01:00",
+     "source": "Hospitalia.fr",
      "image": null,
-     "reprises": 1,
-     "score": 2.93
+     "reprises": 2,
+     "score": 2.99
     }
    ],
    "a_traduire": [
@@ -381,47 +381,47 @@
      "source": "techcrunch.com",
      "image": null,
      "reprises": 1,
-     "score": 2.93
+     "score": 2.56
     },
     {
-     "titre": "Elon Musk and others rejoice as Jensen Huang is reinstated at Nvidia amid scandal",
-     "lien": "https://techcrunch.com/2026/11/23/elon-musk-and-others-rejoice-as-jensen-huang-is-reinstated-at-nvidia-amid-scandal/",
-     "resume": "\"The mistake has been corrected,\" Elon Musk chimed in.",
-     "date": "2026-11-23T22:47:41+01:00",
+     "titre": "Tidal to ban and remove millions of AI-generated tracks as AI slop inundates music streaming",
+     "lien": "https://techcrunch.com/2026/11/24/tidal-to-ban-and-remove-millions-of-ai-generated-tracks-as-ai-slop-inundates-music-streaming/",
+     "resume": "The company said it will still accept songs that were made with AI assistance, but not fully generated.",
+     "date": "2026-11-24T17:46:00+01:00",
      "source": "techcrunch.com",
      "image": null,
      "reprises": 1,
-     "score": 1.31
+     "score": 1.59
     },
     {
-     "titre": "Claude AI can review pull requests and ship fixes on its own now",
-     "lien": "https://www.theverge.com/ai-artificial-intelligence/1040134/anthropic-claude-ship-ai-pull-requests",
-     "resume": "Anthropic is launching some new Claude AI features to help software engineers ship code. As part of a new Claude Ship product being announced today, Claude now can review, fix, and approve pull requests. Engineers have already been able to take advantage of…",
-     "date": "2026-11-23T21:00:00+01:00",
+     "titre": "Jensen Huang deepfakes are the hot new AI slop",
+     "lien": "https://www.theverge.com/tech/1041222/jensen-huang-nvidia-scandal-deepfakes",
+     "resume": "Jensen Huang is partying it up in Ibiza. In a video with nearly 6 million views on Instagram, the former CEO of Nvidia is dancing in a crowded club, champagne glass in hand, still wearing his signature black leather jacket. Suddenly, from behind him, Alice…",
+     "date": "2026-11-24T17:30:00+01:00",
      "source": "theverge.com",
      "image": null,
      "reprises": 1,
-     "score": 1.28
+     "score": 1.58
     },
     {
-     "titre": "Google Search’s AI Mode can now tap into Drive and Wallet for more personalized responses",
-     "lien": "https://techcrunch.com/2026/11/23/google-searchs-ai-mode-can-now-tap-into-drive-and-wallet-for-more-personalized-responses/",
-     "resume": "By bringing Personal Intelligence in AI Mode to Drive, Wallet, and the Gemini app, Google is leveraging the wealth of user data that's already within its ecosystem",
-     "date": "2026-11-23T20:14:46+01:00",
+     "titre": "Résidences « Arts in the Age of AI » 2028 de la Villa Albertine",
+     "lien": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOLWllcmNPazdBZ0Z0QUI5TTd1bnlmN2lpVHUxRWJEX1RYR3Awd0I1THNBRzMyZm1mRl93ZlB1Y3RNQmpDUTNiQmxJaHlVU0ZISGtnUTlMM3VYaHFVMVpDMXNWZ2ktRFZ6eWJTR2NxRUVMQjBoSjQ0c0lDQXdMbDBfV25rZlNVRXA0VkxMN21LRU1haEdyeTY2ZjBB?oc=5",
+     "resume": "",
+     "date": "2026-11-24T17:23:53+01:00",
+     "source": "Artcena",
+     "image": null,
+     "reprises": 1,
+     "score": 1.58
+    },
+    {
+     "titre": "Why a Crusoe investor is betting on solar and batteries to power future AI data centers",
+     "lien": "https://techcrunch.com/2026/11/24/why-a-crusoe-investor-is-betting-on-solar-and-batteries-to-power-future-ai-data-centers/",
+     "resume": "Next-generation data centers will need tens of gigawatts of power every year. One of Crusoe's investors thinks solar and energy storage are the obvious choice.",
+     "date": "2026-11-24T17:10:00+01:00",
      "source": "techcrunch.com",
      "image": null,
      "reprises": 1,
-     "score": 1.14
-    },
-    {
-     "titre": "Nothing’s upcoming Ear Note is a pair of earbuds with AI transcription",
-     "lien": "https://www.theverge.com/gadgets/1040357/nothing-ear-note-earbuds-ai-recording",
-     "resume": "Nothing's new AI device is the Ear Note, a set of earbuds and their microphone-equipped charging case that can record and transcribe conversations, with a connected app to manage the recordings, transcriptions and AI-generated summaries, similar to Apple's…",
-     "date": "2026-11-23T20:04:52+01:00",
-     "source": "theverge.com",
-     "image": null,
-     "reprises": 1,
-     "score": 1.13
+     "score": 1.45
     }
    ]
   },
@@ -431,37 +431,26 @@
    "sous_titre": "Libertés fondamentales, grandes juridictions, culture juridique pour le CRFPA",
    "items": [
     {
-     "titre": "Municipales 2026 : le Conseil d’État a rendu sa décision, le résultat est annulé à Capdenac-Gare, les électeurs devront retourner aux urnes",
-     "lien": "https://news.google.com/rss/articles/CBMingJBVV95cUxPUF9HWnVPaUdhTzBWMjB6Q1RrVkdIOGt3Z2VGTkJwZWVIUWNEWmxoOU9xaWppZWRhdjM1QlRXTExuUWpENVU2REFLZXpSYXpzbDFDRGZSSDk0aTZWSzVMaDVJSFdZbHhla3VCeWdqUDRBekxIMkNKem1kSzFRVTZ4WTl0YUY1RzNLUWlySWRQME01T1NDUmRWVnhRdXhNcTRGMTB2elJnVWNCR3dseVV3eUd5NGdPNDZubTRIQ3VneWFpQ01rTC1RNS1oNktuLTNKTF9Ta0xlQm9ydFhVcEN4aWJmam5LSnNzZU4tdlhOOHFYMzJDcUREMlpPRTM0QTJaTzVTNnVLVUozd0V4SGx6YkhNdjVUUjIyOEFBUkln?oc=5",
+     "titre": "Analyses du Conseil d’État du 1er au 15 novembre 2026",
+     "lien": "https://news.google.com/rss/articles/CBMilgJBVV95cUxNV3VrVlZfY2lZelpFaDBmUnltamJCQURfQ0lXVVYyd2Y0Y0ZzTjRnUHVJUHJ1cjF5blhwai0yakQyT1JMWFJIWXdsMlNfQ1JDSEtXcVRBZWRCZUtTY1FXbnc1eHJWRGxTbXk2RTNycVpmUjRrTFdIN0NEUUhuazNtSFRHMGs5cTQ0eUFFSFlGZlJUaEZwclMyam1vRVpKODJsUlFfcWVhX1daUjBXSGd0MFA5dWVpLV9tTE5yZ2xCRG1hV2tDdEQ0NmsxVHlDMnIzN3M3X3BIWDBOOHhpaWJsRDdRc2pBNGtBamFlMUtjUS1PeHQ4b2JfYUI2RG1jaDBGUmxTeUg4T2pIbm96bXp3Z0xKZThZZw?oc=5",
      "resume": "",
-     "date": "2026-11-24T08:47:00+01:00",
-     "source": "Centre Presse Aveyron",
+     "date": "2026-11-24T17:16:17+01:00",
+     "source": "Conseil d'État",
      "image": null,
-     "reprises": 12,
-     "score": 24.35,
+     "reprises": 8,
+     "score": 18.66,
      "libertes": false
     },
     {
-     "titre": "Les députés socialistes saisissent le Conseil constitutionnel sur la loi instaurant une présomption d'usage légal des armes",
-     "lien": "https://news.google.com/rss/articles/CBMiggJBVV95cUxNM2NNblpOVERyZnk4dmlFUkh6MkNYMTdEU3VvZjJ1SXZ5cmVmQlh1QzBTRWZrbkRiUTljTHZiMjZXa0xyeGlGbTVmbWg0UUxYREN5dUVCWkwtMzlOMWlQeG1ENmZvcG1oOU5sWWJrMXJFMV80OEVraU9TSGxmblhqbnJtRmR0RURkOE8tRjd6OXBYem1MM0NWdGxqVGxFTmdxODBUdFZJNzVBcURVcHdUdmFmTlBFODF3TVFpeFFLSlBJYVh0cGxOTTYxeEFISEwySm8wSXhFaUU4R2tyZmdLV1V2YUxXUV9fZlNZaEhRSXpsVVRmb0hKMG1tQ1g2dG1kanc?oc=5",
+     "titre": "Recours au Conseil d’État pour faire annuler les élections municipales à St-Macaire : voici le résultat et des réactions",
+     "lien": "https://news.google.com/rss/articles/CBMilAJBVV95cUxOWEhJT3cxUzYzd0lhWnluSWo3aWx4YnJFaWpiX0J4ejN4eHIwbHZkRUQ1OGRBMlVaeVVkSzYtRkc1YktjN0xTMDlaWHBoQzBHODRIWC1qVVB5Ry1NYl9ORWk1UGVNR2JTak1tcVdaSzZndW9EZXQ3MGlpMTlSMDNVQXJHd3RrYXc4MkI4YkdldnF6Sk5zWHg3WVk0cnhsTDdJRWo5SDdxazJ0a2FKRkFxa28tSFdFOXl1bUREckZSU1BtUThEY3VtNFBUVV9nczBrMnZEd0UzR3pmZlIzVGpGa0FKX3hqWXBUMXY1bkNfUU1YU2JZTlM1aHZRb29leHMzVjhLd2NuQmdmb1pmd3NKN2xJT2w?oc=5",
      "resume": "",
-     "date": "2026-11-23T20:38:06+01:00",
-     "source": "franceinfo",
-     "image": null,
-     "reprises": 5,
-     "score": 10.81,
-     "libertes": true
-    },
-    {
-     "titre": "Présidentielle: Éric Zemmour veut supprimer l'Arcom \"au nom de la liberté d'expression\"",
-     "lien": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxOSG1HZUhEbmF5WGtsSUlaeFBQVXh6U3RPdVcwTUJvN2ZvQ1ZlT0g0NzVjV2UzNjNKVHB1OEFLQkV1QUxXYW9QYVR4R1lIdFZEckRFaEJkbF9PYzQ5amZESHlkVGJrc3lmSmp1eHlqOVNOcGpTX1hRZVRqTldGVUdNMDdfRmlwbzVfWllTemtqTGh3eW5ZNFk2QUxqa3p6YlUwNzU1dXFfdmYwdkE5aWFYblNPaXhCX1NuVkpuR2ZHOG1zalIxOS1MOG9pV3AxemVIbGY3QVVOT1VGYk80T21vYVdR?oc=5",
-     "resume": "",
-     "date": "2026-11-23T17:09:43+01:00",
-     "source": "RMC",
+     "date": "2026-11-24T15:46:51+01:00",
+     "source": "Actu.fr",
      "image": null,
      "reprises": 4,
-     "score": 6.18,
-     "libertes": true
+     "score": 7.74,
+     "libertes": false
     },
     {
      "titre": "La CEDH autorise le refoulement des migrants arrivés d’un pays « instrumentalisant » les flux migratoires",
@@ -471,18 +460,7 @@
      "source": "Le Monde.fr",
      "image": null,
      "reprises": 3,
-     "score": 6.03,
-     "libertes": true
-    },
-    {
-     "titre": "La CEDH écarte pour deux ans une avocate qui citait une jurisprudence inventée par l'IA",
-     "lien": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNbXluZVpOcXYxN0otMHJtY2lMUjYxWjlUMlBDQ3E1Ymh1UWJ2ck01UkdJWWt1RDA1djRMT0owQ0I1SS1LREtZZHlqbkRJaWZyMjA4OG1hdkF5dENJZDlDaWVUcHVNY1V3Rlp4Q1JGcW5yUXQ4V0Z2NjVQbFo3N2ZWYmF0R1d6TjVVdDhYaFl1RDl1N3RnYTktclZORlU5ZnNTdTRodzdoeDdJZGJ4MVUtcC1uRGJwMUFNUTk2bQ?oc=5",
-     "resume": "",
-     "date": "2026-11-23T13:00:00+01:00",
-     "source": "ActuIA",
-     "image": null,
-     "reprises": 2,
-     "score": 3.17,
+     "score": 6.62,
      "libertes": true
     },
     {
@@ -492,9 +470,31 @@
      "date": "2026-11-21T21:13:58+01:00",
      "source": "Egora",
      "image": null,
-     "reprises": 2,
-     "score": 2.55,
+     "reprises": 3,
+     "score": 4.0,
      "libertes": true
+    },
+    {
+     "titre": "Les députés socialistes saisissent le Conseil constitutionnel sur la loi instaurant une présomption d'usage légal des armes",
+     "lien": "https://news.google.com/rss/articles/CBMiggJBVV95cUxNM2NNblpOVERyZnk4dmlFUkh6MkNYMTdEU3VvZjJ1SXZ5cmVmQlh1QzBTRWZrbkRiUTljTHZiMjZXa0xyeGlGbTVmbWg0UUxYREN5dUVCWkwtMzlOMWlQeG1ENmZvcG1oOU5sWWJrMXJFMV80OEVraU9TSGxmblhqbnJtRmR0RURkOE8tRjd6OXBYem1MM0NWdGxqVGxFTmdxODBUdFZJNzVBcURVcHdUdmFmTlBFODF3TVFpeFFLSlBJYVh0cGxOTTYxeEFISEwySm8wSXhFaUU4R2tyZmdLV1V2YUxXUV9fZlNZaEhRSXpsVVRmb0hKMG1tQ1g2dG1kanc?oc=5",
+     "resume": "",
+     "date": "2026-11-23T20:38:06+01:00",
+     "source": "franceinfo",
+     "image": null,
+     "reprises": 2,
+     "score": 3.89,
+     "libertes": true
+    },
+    {
+     "titre": "La Cour de cassation confirme la condamnation d’Eric Zemmour",
+     "lien": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOYmhJNmE0czFWdXctQ1NBU25zdS1TdkFhUjdTbWRFOF84ckJUb29kZy1SX1JxTlNqLVJuSC1SMlI4RkxhQ2pzZFJUU1NxS0N6eXBVckJvM0EwcDUwOVlkZG4yWmxtREYtbUtNbmc5cEFmM3IzSkxxR2R6VGZaRnVFYTRlWjZaZDFUbUZzNTNR?oc=5",
+     "resume": "",
+     "date": "2026-11-24T16:32:43+01:00",
+     "source": "Le Journal des Français",
+     "image": null,
+     "reprises": 1,
+     "score": 3.25,
+     "libertes": false
     }
    ],
    "a_traduire": []
