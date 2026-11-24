@@ -1,2 +1,2 @@
-run 45233213899 (2026-11-23T17:58:25Z) : déploiement success
+run 45423369920 (2026-11-24T15:16:08Z) : déploiement failure
 Mis à jour le lundi 23 novembre 2026 à 18:57 · Sélection automatique
