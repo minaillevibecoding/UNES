@@ -1,6 +1,6 @@
 {
  "date": "2026-11-26",
- "genere": "2026-11-26T15:25+01:00",
+ "genere": "2026-11-26T17:47+01:00",
  "journaux": [
   {
    "id": "figaro",
@@ -13,10 +13,42 @@
    },
    "articles": [
     {
+     "titre": "Donald Trump souhaite que Vladimir Poutine «mette fin à toute agression militaire» en Europe",
+     "lien": "https://www.lefigaro.fr/international/donald-trump-souhaite-que-vladimir-poutine-mette-fin-a-toute-agression-militaire-en-europe-20261126",
+     "resume": "Dans un message publié sur Truth Social, le président américain a évoqué ses récents échanges avec son homologue russe en Chine, affirmant avoir abordé avec lui la nécessité de parvenir rapidement à un accord entre Moscou et Kiev.",
+     "date": "2026-11-26T16:26:02+01:00",
+     "source": "",
+     "image": "https://i.f1g.fr/media/cms/3000x2001_crop/2026/11/26/c45ec99e6070c399995ae3c826c439c21ebeb8c7486c42e903b2939d21f508eb.jpg"
+    },
+    {
+     "titre": "Guerre en Ukraine : Trump et le secrétaire général de l'Otan exhortent la Russie à ne pas «étendre la guerre» avec Kiev",
+     "lien": "https://www.lefigaro.fr/international/guerre-en-ukraine-trump-et-le-secretaire-general-de-l-otan-exhortent-la-russie-a-ne-pas-etendre-la-guerre-avec-kiev-20261126",
+     "resume": "Réunis mercredi en Floride, le président américain et Mark Rutte ont également plaidé pour une résolution rapide et pacifique du conflit.",
+     "date": "2026-11-26T06:31:59+01:00",
+     "source": "",
+     "image": "https://i.f1g.fr/media/cms/orig/2026/11/26/323b2860c6e0fbf183bdf66106df89735c26d9f501464b239150e6c3d66502b6.JPG"
+    },
+    {
+     "titre": "Guerre en Ukraine : un Colombien condamné à 20 ans de prison par la justice russe pour avoir combattu pour Kiev",
+     "lien": "https://www.lefigaro.fr/international/guerre-en-ukraine-un-colombien-condamne-a-20-ans-de-prison-par-la-justice-russe-pour-avoir-combattu-pour-kiev-20261126",
+     "resume": "Des milliers de Colombiens combattent sur le front en Ukraine dans les deux camps des belligérants. Fin octobre, le ministère colombien des Affaires étrangères avait recensé au moins 256 morts et 973 disparus parmi ses ressortissants.",
+     "date": "2026-11-26T12:41:08+01:00",
+     "source": "",
+     "image": "https://i.f1g.fr/media/cms/3000x2000_crop/2026/11/26/91c10db984f3e3d2e6a999aba0fbf10553fa62f46c48bc75ee0eef7c39dcd496.jpg"
+    },
+    {
+     "titre": "Guerre en Ukraine : une attaque de drone fait cinq morts dans la région de Zaporijjia sous contrôle russe",
+     "lien": "https://www.lefigaro.fr/international/guerre-en-ukraine-une-attaque-de-drone-fait-cinq-morts-dans-la-region-de-zaporijjia-sous-controle-russe-20261126",
+     "resume": "Cinq personnes ont été tuées et trois autres ont été blessées dans une attaque de drone survenue, ce jeudi, dans la région de Zaporijjia, sous contrôle russe, selon le gouverneur désigné par Moscou.",
+     "date": "2026-11-26T08:12:26+01:00",
+     "source": "",
+     "image": "https://i.f1g.fr/media/cms/2964x1910_crop/2026/11/26/52be82ac2321ee52f27b1e9a7662143426fc36497f878c86d98508f0ae507929.jpg"
+    },
+    {
      "titre": "Sécurité, immigration… David Lisnard révèle son programme présidentiel au Figaro Magazine",
      "lien": "https://www.lefigaro.fr/elections/presidentielles/programmes/securite-immigration-david-lisnard-revele-son-programme-presidentiel-au-figaro-magazine-20261126",
      "resume": "EXCLUSIF - Le maire de Cannes veut, en un quinquennat, refaire de la France un des pays les plus sûrs d’Europe.",
-     "date": "2026-11-26T15:00:00+01:00",
+     "date": "2026-11-26T17:10:09+01:00",
      "source": "",
      "image": "https://i.f1g.fr/media/cms/2143x1206_crop/2026/11/26/14791475fe8e80fc6efd51c3daf0e5ca423ff88e57a2fc83d9865e8e4bc01311.jpg"
     },
@@ -24,41 +56,9 @@
      "titre": "Présidentielle 2027 : réélu sans appel à la tête des maires de France, David Lisnard poursuit sa campagne",
      "lien": "https://www.lefigaro.fr/elections/presidentielles/presidentielle-2027-reelu-sans-appel-a-la-tete-des-maires-de-france-david-lisnard-poursuit-sa-campagne-20261125",
      "resume": "DÉCRYPTAGE - Confirmé avec 72,06 % des voix, le maire de Cannes promet de défendre les territoires durant la campagne présidentielle, dans laquelle il s’engage sous les couleurs de son mouvement, Nouvelle Énergie.",
-     "date": "2026-11-26T14:39:37+01:00",
+     "date": "2026-11-26T16:45:34+01:00",
      "source": "",
      "image": "https://i.f1g.fr/media/cms/2850x1603_crop/2026/11/25/7bcd63f954abc1b488bd7ea1b793a04bb4b235fe7a1707b64ad1be2f28049461.jpg"
-    },
-    {
-     "titre": "Présidentielle 2027 : David Lisnard dit «oui» à Édouard Philippe pour un débat mais avec «une primaire»",
-     "lien": "https://www.lefigaro.fr/elections/presidentielles/presidentielle-2027-david-lisnard-dit-oui-a-edouard-philippe-pour-un-debat-mais-avec-une-primaire-20261126",
-     "resume": "Le maire de Cannes est resté sur sa ligne, militant pour l’organisation d’une primaire à droite incluant Éric Zemmour et Nicolas Dupont-Aignan.",
-     "date": "2026-11-26T10:38:33+01:00",
-     "source": "",
-     "image": "https://i.f1g.fr/media/cms/orig/2026/11/26/5fe704eae515e29f20246827cd340d42ebcc18e4bf351f4b17aefb56fb4b84eb.JPG"
-    },
-    {
-     "titre": "EN DIRECT - Présidentielle 2027 : «La France soutiendra toujours les pays opprimés», affirme Teddy Riner après sa sortie polémique sur l’Ukraine",
-     "lien": "https://www.lefigaro.fr/elections/presidentielles/en-direct-presidentielle-2027-marine-le-pen-se-declare-sereine-face-a-l-emergence-de-david-lisnard-20261126",
-     "resume": "En visite au Salon des maires de France à Paris afin de collecter des parrainages, le candidat avait estimé que la France devait arrêter «de donner de l’argent que nous n’avons pas» pour soutenir l’Ukraine.",
-     "date": "2026-11-26T15:12:35+01:00",
-     "source": "",
-     "image": "https://i.f1g.fr/media/cms/3000x2000_crop/2026/11/26/45c8cdc728939a4a0cc54ab33a4940fdbf629053741e80ea0af279c6038059ab.jpg"
-    },
-    {
-     "titre": "«Je voudrais m’excuser auprès de toute la nation française», déclare Émilie König, revenante de Daech, au premier jour de son procès",
-     "lien": "https://www.lefigaro.fr/faits-divers/je-voudrais-m-excuser-aupres-de-toute-la-nation-francaise-declare-emilie-koenig-revenante-de-daech-au-premier-jour-de-son-proces-20261126",
-     "resume": "Cette Bretonne avait gagné la Syrie en 2013 pour rejoindre un soldat de l’État islamique avec lequel elle s’était mariée en ligne, avant de participer activement à la propagande de Daech. Elle encourt 30 ans de réclusion criminelle.",
-     "date": "2026-11-26T10:51:31+01:00",
-     "source": "",
-     "image": "https://i.f1g.fr/media/cms/3000x1688_crop/2026/11/26/55f9bb43c7e8a5fb64264ddf932fff4045919e765a8b7d9ced0ac5be0420bfdd.jpg"
-    },
-    {
-     "titre": "Appels au djihad, armes, police de la charia : Émilie König, «l’égérie de Daech» qui jure s’être repentie",
-     "lien": "https://www.lefigaro.fr/faits-divers/appels-au-djihad-armes-police-de-la-charia-emilie-koenig-l-egerie-de-daech-qui-jure-s-etre-repentie-20261125",
-     "resume": "PORTRAIT - Cette Lorientaise est l’une des premières ressortissantes françaises à avoir rejoint les rangs de l’État islamique au «Sham», en 2013, et l’une des dernières à avoir quitté le territoire syrien, une fois Daech défait. Son procès devant la cour…",
-     "date": "2026-11-26T09:58:55+01:00",
-     "source": "",
-     "image": "https://i.f1g.fr/media/cms/1920x1080_crop/2026/11/24/877fc4c4166c550a964b1bce4e90b690428540cc5961179aa2a64f4df8086271.jpg"
     }
    ],
    "flux_utilise": "https://www.lefigaro.fr/rss/figaro_actualites.xml"
@@ -82,20 +82,20 @@
      "image": "https://img.lemde.fr/2026/11/25/210/0/3000/1500/644/322/60/0/fa42aac_upload-1-z22xmwfkx9d4-02-bardella-messages-preuves.jpg"
     },
     {
+     "titre": "A la tête de la BCE, un trio fraîchement nommé pour protéger l’Europe de l’inflation… et peut-être la France d’une attaque sur les marchés",
+     "lien": "https://www.lemonde.fr/economie/article/2026/11/26/a-la-tete-de-la-bce-un-trio-fraichement-nomme-pour-proteger-l-europe-de-l-inflation-et-peut-etre-la-france-d-une-attaque-sur-les-marches_6815550_3234.html",
+     "resume": "Les dirigeants des 21 pays de la zone euro ont désigné, jeudi, les titulaires des postes les plus influents de la Banque centrale européenne, selon des sources diplomatiques. L’Espagnol Pablo Hernandez de Cos succédera à Christine Lagarde à la présidence de…",
+     "date": "2026-11-26T16:04:15+01:00",
+     "source": "",
+     "image": "https://img.lemde.fr/2026/11/26/221/0/6000/3000/644/322/60/0/98cc741_upload-1-gjf1s9dawpkv-ap26330506683267.jpg"
+    },
+    {
      "titre": "Gérard Depardieu renvoyé en procès pour une partie des viols dont l’accuse Charlotte Arnould",
      "lien": "https://www.lemonde.fr/societe/article/2026/11/26/gerard-depardieu-renvoye-en-proces-pour-une-partie-des-viols-dont-l-accuse-charlotte-arnould_6815543_3224.html",
      "resume": "Cette décision de la cour, saisie par la défense de l’acteur, qui conteste les accusations, est susceptible d’un pourvoi en cassation.",
-     "date": "2026-11-26T15:13:52+01:00",
+     "date": "2026-11-26T15:13:51+01:00",
      "source": "",
      "image": "https://img.lemde.fr/2026/11/24/718/0/4441/2220/644/322/60/0/78c8f31_ftp-1-ckie4ub2cpgc-afp-d84z2we.jpg"
-    },
-    {
-     "titre": "« A l’hôpital, ils ne savaient pas si je passerais la nuit » : les grenades assourdissantes blessent toujours plus gravement les manifestants",
-     "lien": "https://www.lemonde.fr/societe/article/2026/11/26/a-l-hopital-ils-ne-savaient-pas-si-je-passerais-la-nuit-les-grenades-assourdissantes-blessent-toujours-plus-gravement-les-manifestants_6815510_3224.html",
-     "resume": "Stéphanie et Jonathan ne se connaissent pas mais, depuis le 24 octobre, ils ont un point commun : tous deux ont vu leur corps perforé par un éclat de grenade assourdissante. Des blessures qui continuent de les hanter.",
-     "date": "2026-11-26T10:44:09+01:00",
-     "source": "",
-     "image": "https://img.lemde.fr/2026/11/25/0/0/5314/2657/644/322/60/0/7c3ec3c_upload-1-wif6thr4krew-lyon-portraits-le-monde-25nov2026-alexandre-bagdassarian-12.jpg"
     },
     {
      "titre": "Présidentielle 2027 : Edouard Philippe passe à l’offensive face à David Lisnard",
@@ -106,20 +106,20 @@
      "image": "https://img.lemde.fr/2026/11/25/656/0/8000/4000/644/322/60/0/ac3e5cd_upload-1-vqc2qntywxtq-jmug261125072.jpg"
     },
     {
-     "titre": "Présidentielle 2027 : Jean-Luc Mélenchon, en visite vendredi à Berlin, inquiète l’Allemagne avec sa rhétorique anti-allemande",
-     "lien": "https://www.lemonde.fr/international/article/2026/11/26/l-allemagne-s-inquiete-de-la-rhetorique-anti-allemande-de-jean-luc-melenchon_6815524_3210.html",
-     "resume": "Le candidat de La France insoumise à l’élection présidentielle française de 2027, de passage à Berlin le 27 novembre, n’a à ce stade pas de rendez-vous prévu avec des élus du parti de gauche radicale Die Linke, qu’il nomme pourtant « notre partenaire…",
-     "date": "2026-11-26T12:23:09+01:00",
+     "titre": "Dix ans après l’accord avec les FARC en Colombie : « Négocier la paix dans une démocratie est très difficile car elle devient alors un moyen de faire de la politique »",
+     "lien": "https://www.lemonde.fr/international/article/2026/11/26/dix-ans-apres-l-accord-avec-les-farc-en-colombie-negocier-la-paix-dans-une-democratie-est-tres-difficile-car-elle-devient-alors-un-moyen-de-faire-de-la-politique_6815536_3210.html",
+     "resume": "Ancien haut-commissaire pour la paix en Colombie, Sergio Jaramillo a mené les négociations avec les Forces armées révolutionnaires de Colombie entre 2012 et 2016. Il revient, dans un entretien au « Monde », sur la façon dont le désarmement de la guérilla a…",
+     "date": "2026-11-26T14:30:00+01:00",
      "source": "",
-     "image": "https://img.lemde.fr/2026/11/08/0/0/4724/2362/644/322/60/0/5a0d85c_upload-1-09k4dmywuhey-mmagnin-meeting-melenchon-63.jpg"
+     "image": "https://img.lemde.fr/2026/11/23/443/0/5315/2657/644/322/60/0/03e3f46_upload-1-wkm293mgftxl-007-nm15408-ex-combattants-etcr-col.jpg"
     },
     {
-     "titre": "Présidentielle 2027 : le désarroi des partis pro-Ukraine et pro-Europe alors que ces sujets ne mobilisent pas les électeurs",
-     "lien": "https://www.lemonde.fr/politique/article/2026/11/26/presidentielle-2027-le-desarroi-des-partis-pro-ukraine-et-pro-europe-alors-que-ces-sujets-ne-mobilisent-pas-les-electeurs_6815508_823448.html",
-     "resume": "De Raphaël Glucksmann à Gabriel Attal, en passant par Edouard Philippe, les défenseurs d’une ligne ferme face à Moscou peinent à imposer les sujets internationaux en raison des préoccupations pour le pouvoir d’achat et la dette.",
-     "date": "2026-11-26T10:30:01+01:00",
+     "titre": "Après Jeanne d’Arc, le RN mise sur l’image fantasmée de la Renaissance",
+     "lien": "https://www.lemonde.fr/culture/article/2026/11/26/apres-jeanne-d-arc-le-rn-mise-sur-l-image-fantasmee-de-la-renaissance_6815533_3246.html",
+     "resume": "Le Rassemblement national a lancé, à l’approche de l’élection présidentielle, l’opération numérique « C’est beau, c’est français », centrée notamment sur des monuments emblématiques de la Renaissance, suscitant l’ire des propriétaires des lieux et des…",
+     "date": "2026-11-26T14:00:11+01:00",
      "source": "",
-     "image": "https://img.lemde.fr/2026/11/18/1997/0/3667/1833/644/322/60/0/c962c50_upload-1-hc8oc9s5d69f-ad014-glucksmann-villeurbanne-dsc09888.jpg"
+     "image": "https://img.lemde.fr/2026/11/24/0/0/3319/1659/644/322/60/0/3e28391_upload-1-3qsk9tso4ii9-lemonde-novembre-2026-rn-renaissance-histoire.jpg"
     }
    ],
    "flux_utilise": "https://www.lemonde.fr/rss/une.xml"
@@ -135,52 +135,52 @@
    },
    "articles": [
     {
-     "titre": "Avent 2026 : près de 15 retraites en ligne pour se préparer à Noël",
-     "lien": "https://www.la-croix.com/religion/avent-2026-pres-de-15-retraites-en-ligne-pour-se-preparer-a-noel-20261126",
-     "resume": "Méditations quotidiennes, podcasts, chants liturgiques et exercices d’écriture : pour l’Avent 2026, nombre de parcours spirituels en ligne sont proposés par des applis, des médias et des communautés religieuses pour se préparer à Noël.",
-     "date": "2026-11-26T15:24:03+01:00",
+     "titre": "Manifestations des lycéens : la politique à fleur de peau",
+     "lien": "https://www.la-croix.com/a-vif/manifestations-des-lyceens-la-politique-a-fleur-de-peau-20261126",
+     "resume": "À l’occasion des mouvements lycéens survenus dans notre pays, bon nombre de jeunes Français ont pris conscience de la nécessité de s’investir dans les débats publics. Ils doivent le faire avec responsabilité.",
+     "date": "2026-11-26T17:41:46+01:00",
      "source": "",
-     "image": "https://i.la-croix.com/x/2026/11/26/2599759-de-nombreux-parcours-spirituels-sont-proposes-en-l.jpeg"
+     "image": "https://i.la-croix.com/x/2026/10/26/2573007-loup-besmond-de-senneville-est-redacteur-en-chef-a.jpg"
     },
     {
-     "titre": "Ukraine, « notre guerre » imposée par la Russie",
-     "lien": "https://www.la-croix.com/international/ukraine-notre-guerre-imposee-par-la-russie-20261126",
-     "resume": "Dans sa chronique DIPLO-FOCUS, Thomas Hofnung revient cette semaine sur les déclarations du candidat à la présidentielle Teddy Riner, lequel évoque une guerre en Ukraine qui ne serait pas la « nôtre ». Un propos qui méconnaît la réalité de la menace sur la…",
-     "date": "2026-11-26T15:21:57+01:00",
+     "titre": "Laure Adler : « Devenir vieille, une révolution intérieure »",
+     "lien": "https://www.la-croix.com/societe/laure-adler-devenir-vieille-une-revolution-interieure-20261126",
+     "resume": "À 76 ans, Laure Adler, ex-directrice de France Culture, milite pour que notre société change de regard sur les personnes âgées. Pour elle, la vieillesse peut également être une source d’épanouissement. Son récit en vidéo.",
+     "date": "2026-11-26T17:36:42+01:00",
      "source": "",
-     "image": "https://i.la-croix.com/x/2026/04/09/24037932-thomas-hofnung-chef-de-service-monde-a-la-croix.jpg"
+     "image": "https://i.la-croix.com/x/2026/11/26/2596528-pour-laure-adler-la-lenteur-est-une-possibilite-de.jpg"
     },
     {
-     "titre": "En Afrique du Sud, les difficultés financières des athlètes les poussent à bout",
-     "lien": "https://www.la-croix.com/international/en-afrique-du-sud-les-difficultes-financieres-des-athletes-les-poussent-a-bout-20261126",
-     "resume": "L’olympienne la plus médaillée de l’histoire du pays, la nageuse Tatjana Smith, a annoncé récemment qu’elle représenterait désormais les Pays-Bas en compétition internationale. Un choc pour la nation, et un coup de projecteur sur les difficultés des athlètes…",
-     "date": "2026-11-26T15:21:42+01:00",
+     "titre": "Présidentielle 2027 : après ses propos sur l’Ukraine, comment Teddy Riner s’est retrouvé au cœur de la polémique",
+     "lien": "https://www.la-croix.com/politique/presidentielle-2027-apres-ses-propos-sur-l-ukraine-comment-teddy-riner-sest-retrouve-au-cour-de-la-polemique-20261126",
+     "resume": "Au Congrès des maires de France, mercredi 25 novembre 2026, le quintuple champion olympique a multiplié les approximations sur la guerre en Ukraine. Amateurisme ou positionnement politique assumé, la question des influences qui gravitent autour de lui se pose.",
+     "date": "2026-11-26T17:27:08+01:00",
      "source": "",
-     "image": "https://i.la-croix.com/x/2026/11/26/2598831-la-sud-africaine-tatjana-smith-lors-de-la-finale-d.jpg"
+     "image": "https://i.la-croix.com/x/2026/11/26/2599739-teddy-riner-judoka-francais-et-candidat-a-l-electi.jpg"
     },
     {
-     "titre": "Gérard Depardieu : le renvoi en procès pour viol de l’acteur confirmé en appel",
-     "lien": "https://www.la-croix.com/societe/gerard-depardieu-le-renvoi-en-proces-pour-viol-de-l-acteur-confirme-en-appel-20261126",
-     "resume": "La cour d’appel de Paris a confirmé, jeudi 26 novembre, le renvoi de Gérard Depardieu en procès pour viol et agression sexuelle sur la comédienne Charlotte Arnould, pour les faits du 7 août 2018.",
-     "date": "2026-11-26T15:06:33+01:00",
+     "titre": "IA : Artex, l’outil de cybersécurité détourné qui démocratise le piratage informatique",
+     "lien": "https://www.la-croix.com/societe/ia-artex-l-outil-de-cybersecurite-detourne-qui-democratise-le-piratage-informatique-20261126",
+     "resume": "Pensé pour permettre aux organisations de déceler des failles de cybersécurité, Artex est devenu en quelques semaines l’un des outils de piratage IA les plus redoutés. Mercredi 13 novembre 2026, le FBI lançait une alerte inédite sur ce logiciel dont la…",
+     "date": "2026-11-26T17:20:23+01:00",
      "source": "",
-     "image": "https://i.la-croix.com/x/2026/11/26/2599711-gerard-depardieu-ici-lors-d-un-precedent-proces-en.jpg"
+     "image": "https://i.la-croix.com/x/2026/11/26/2599833-depuis-plusieurs-mois-avec-la-diffusion-du-logicie.jpg"
     },
     {
-     "titre": "Mort de Theodore Zeldin, l’historien des passions françaises",
-     "lien": "https://www.la-croix.com/culture/mort-de-theodore-zeldin-l-historien-des-passions-francaises-20261126",
-     "resume": "L’historien, philosophe et sociologue britannique Theodore Zeldin est mort à Oxford le 13 novembre 2026, à 93 ans. Ce francophile convaincu a livré une analyse pénétrante de la psyché et des émotions des Français, pensant la façon dont l’individuel devient…",
-     "date": "2026-11-26T15:01:21+01:00",
+     "titre": "« Estuaire » de Jacques Robinet : la liturgie de la mort",
+     "lien": "https://www.la-croix.com/culture/estuaire-de-jacques-robinet-la-liturgie-de-la-mort-20261126",
+     "resume": "Malade, Jacques Robinet a tenu le journal de la fin de sa vie, pendant les derniers mois qui ont précédé sa mort. Un livre bouleversant, lumineux et profond.",
+     "date": "2026-11-26T16:40:58+01:00",
      "source": "",
-     "image": "https://i.la-croix.com/x/2026/11/26/2599481-theodore-zeldin-mort-le-13-novembre-2026-a-oxford-.jpg"
+     "image": "https://i.la-croix.com/x/2026/11/26/2597390-jacques-robinet-compare-la-mort-a-un-estuaire-par-.jpg"
     },
     {
-     "titre": "« Moyen-Orient », de Philippe Pétriat : une histoire des fractures et des peuples",
-     "lien": "https://www.la-croix.com/international/moyen-orient-de-philippe-petriat-une-histoire-des-fractures-et-des-peuples-20261126",
-     "resume": "L’historien Philippe Pétriat retrace les bouleversements qui ont jalonné la région depuis la capitulation de l’Empire ottoman jusqu’à l’onde de choc du 7 octobre 2023. Un ouvrage riche en cartes et en photos d’époque, qui éclaire des dynamiques politiques et…",
-     "date": "2026-11-26T15:00:57+01:00",
+     "titre": "Guerre au Moyen-Orient : 38 Palestiniens de Gaza évacués vers la France ; frappes sur Sanaa",
+     "lien": "https://www.la-croix.com/international/direct-guerre-iran-israel-usa-jour-272-moyen-orient-bilan-resume-aujourdhui-20261126",
+     "resume": "Trente-huit Palestiniens évacués de Gaza sont arrivés en France. La capitale yéménite aux mains des houthistes a été visée par une série de frappes de l’aviation saoudienne. Suivez l’actualité de la guerre au Moyen-Orient ce jeudi 26 novembre.",
+     "date": "2026-11-26T16:37:03+01:00",
      "source": "",
-     "image": "https://i.la-croix.com/x/2026/11/26/2599641-a-gaza-le-1er-janvier-2000-quel-poids-de-cette-lou.JPG"
+     "image": "https://i.la-croix.com/x/2026/11/26/2599311-des-enfants-palestiniens-constatent-les-degats-apr.jpg"
     }
    ],
    "flux_utilise": "https://www.la-croix.com/feeds/rss/site.xml"
@@ -196,52 +196,52 @@
    },
    "articles": [
     {
-     "titre": "« Une erreur manifeste » : pourquoi le carton rouge de Leny Yoro lors de Liverpool - Manchester United a été annulé par la Fédération anglaise",
-     "lien": "https://www.lequipe.fr/Football/Actualites/-une-erreur-manifeste-pourquoi-le-carton-rouge-de-leny-yoro-lors-de-liverpool-manchester-united-a-ete-annule-par-la-federation-anglaise/1746337#at_medium=RSS_feeds",
-     "resume": "Expulsé dès la 8e minute de Liverpool - Manchester United dimanche (0-4) pour une faute sur Alexander Isak, Leny Yoro a vu son carton rouge être annulé quelques jours plus tard. La Fédération anglaise (FA) a justifié ce jeudi le choix de lever sa suspension.",
-     "date": "2026-11-26T15:05:11+01:00",
+     "titre": "La Rochelle privée de nombreux internationaux pour la réception de Perpignan en Top 14",
+     "lien": "https://www.lequipe.fr/Rugby/Actualites/La-rochelle-privee-de-nombreux-internationaux-pour-la-reception-de-perpignan-en-top-14/1746375#at_medium=RSS_feeds",
+     "resume": "Entre les joueurs encore retenus en sélection et ceux qui en sont revenus blessés, La Rochelle devra composer avec de nombreuses absences pour affronter Perpignan samedi après-midi dans le cadre de la 10e journée de Top 14.",
+     "date": "2026-11-26T17:23:29+01:00",
      "source": "",
-     "image": "https://medias.lequipe.fr/img-photo-png/-/1500000000833469/0-828-552-75/0cb67.png"
+     "image": "https://medias.lequipe.fr/img-photo-jpg/oscar-jegou-ne-jouera-pas-avec-la-rochelle-contre-perpignan-l-hahn-l-equipe/1500000002660553/164:78,1941:1263-828-552-75/0c9dd.jpg"
     },
     {
-     "titre": "Olivier Pantaloni a réuni ses cadres pour éviter toute forme de décompression avant Nice-Troyes",
-     "lien": "https://www.lequipe.fr/Football/Actualites/Olivier-pantaloni-a-reuni-ses-cadres-pour-eviter-toute-forme-de-decompression-avant-nice-troyes/1746335#at_medium=RSS_feeds",
-     "resume": "Alors que Nice reçoit Troyes ce samedi après avoir perdu face au PSG (2-3), son entraîneur Olivier Pantaloni a réuni ses cadres pour les prévenir du danger de décompression qui peut guetter.",
-     "date": "2026-11-26T15:01:59+01:00",
-     "source": "",
-     "image": "https://medias.lequipe.fr/img-photo-jpg/olivier-pantaloni-l-entraineur-de-l-ogc-nice-a-boichard-l-equipe/1500000002660416/0:0,2000:1333-828-552-75/f0550.jpg"
-    },
-    {
-     "titre": "Fonseca : «On aurait pu remporter ce match»",
-     "lien": "https://www.lequipe.fr/Football/Video/Ligue-des-champions-sporting-cp-paulo-fonseca-apres-le-match-nul-entre-le-sporting-cp-et-manchester-united-on-aurait-pu-remporter-ce-match/20246385#at_medium=RSS_feeds",
+     "titre": "Sans Doué, sans Kvara et sans recruter, ce sera plus dur",
+     "lien": "https://www.lequipe.fr/Football/Article/Sans-doue-sans-kvaratskhelia-et-sans-recruter-la-vie-s-annonce-plus-dure-pour-le-psg/1746249#at_medium=RSS_feeds",
      "resume": "",
-     "date": "2026-11-26T15:00:00+01:00",
+     "date": "2026-11-26T17:23:00+01:00",
      "source": "",
      "image": "https://medias.lequipe.fr/img-photo-png/-/1500000000833469/0-828-552-75/0cb67.png"
     },
     {
-     "titre": "Vicens, fini de bricoler en pointe",
-     "lien": "https://www.lequipe.fr/Football/Article/Retour-d-openda-possible-utilisation-de-gomes-rodriguez-face-a-lillestrom-carlos-vicens-plus-oblige-de-bricoler-en-pointe/1746154#at_medium=RSS_feeds",
+     "titre": "Fabio Quartararo avant son dernier GP avec Yamaha : « Le moment de profiter ensemble »",
+     "lien": "https://www.lequipe.fr/Moto/Actualites/Fabio-quartararo-avant-son-dernier-gp-avec-yamaha-le-moment-de-profiter-ensemble/1746374#at_medium=RSS_feeds",
+     "resume": "Fabio Quartararo aborde son dernier week-end de compétition avec Yamaha, qui l'a accompagné en MotoGP durant huit saisons. Il espère que le Grand Prix de Valence permettra à l'équipe de prendre du plaisir une dernière fois.",
+     "date": "2026-11-26T17:22:12+01:00",
+     "source": "",
+     "image": "https://medias.lequipe.fr/img-photo-png/-/1500000000833469/0-828-552-75/0cb67.png"
+    },
+    {
+     "titre": "Haas confirme Bearman : la grille 2027 est complète",
+     "lien": "https://www.lequipe.fr/Formule-1/Actualites/Haas-prolonge-oliver-bearman-la-grille-de-la-saison-2027-de-formule-1-est-complete/1746289#at_medium=RSS_feeds",
      "resume": "",
-     "date": "2026-11-26T14:55:00+01:00",
+     "date": "2026-11-26T17:16:00+01:00",
      "source": "",
      "image": "https://medias.lequipe.fr/img-photo-png/-/1500000000833469/0-828-552-75/0cb67.png"
     },
     {
-     "titre": "À quelle heure et sur quelle chaîne suivre la première manche de la Coupe du monde de biathlon ?",
-     "lien": "https://www.lequipe.fr/Biathlon/Actualites/A-quelle-heure-et-sur-quelle-chaine-suivre-la-premiere-manche-de-la-coupe-du-monde-de-biathlon-a-kontiolahti/1745832#at_medium=RSS_feeds",
-     "resume": "Pour le retour de la Coupe du monde, les biathlètes ont rendez-vous à Kontiolahti pour la première manche. Retrouvez toutes les informations concernant la fin de semaine.",
-     "date": "2026-11-26T14:54:00+01:00",
+     "titre": "John Collins : «J'ai fait une erreur en partant à Everton»",
+     "lien": "https://www.lequipe.fr/Football/Article/-j-ai-fait-une-erreur-en-partant-a-everton-l-ex-milieu-offensif-john-collins-se-montre-nostalgique-de-ses-annees-monegasques/1746300#at_medium=RSS_feeds",
+     "resume": "",
+     "date": "2026-11-26T17:15:00+01:00",
      "source": "",
-     "image": "https://medias.lequipe.fr/img-photo-jpg/eric-perrot-a-manifeste-son-mecontentement-quant-a-la-modification-de-la-regle-d-arrivee-sur-le-pas-de-tir-e-garnier-l-equipe/1500000002658671/0:0,2000:1333-828-552-75/13192.jpg"
+     "image": "https://medias.lequipe.fr/img-photo-png/-/1500000000833469/0-828-552-75/0cb67.png"
     },
     {
-     "titre": "« Le moment ou jamais de jouer ensemble » : Zen, Vatira et Atow racontent leur arrivée dans l'équipe Rocket League de Gentle Mates",
-     "lien": "https://www.lequipe.fr/Esport/Actualites/-le-moment-ou-jamais-de-jouer-ensemble-zen-vatira-et-atow-racontent-leur-arrivee-dans-l-equipe-rocket-league-de-gentle-mates/1746329#at_medium=RSS_feeds",
-     "resume": "Rassemblés chez Gentle Mates au terme d'un mercato agité, Alexis « Zen » Bernier, Axel « Vatira » Touret et Tristan « Atow » Soyez sont appelés à rouler sur le Rocket League mondial pour la saison à venir. Le trio francophone s'est confié sur les…",
-     "date": "2026-11-26T14:38:05+01:00",
+     "titre": "Laurent Mendy, de la D7 à l'Europe",
+     "lien": "https://www.lequipe.fr/Football/Actualites/De-la-d7-anglaise-et-la-plonge-dans-des-restaurants-a-la-coupe-d-europe-en-deux-ans-avec-hearts-le-parcours-fou-de-laurent-mendy/1745428#at_medium=RSS_feeds",
+     "resume": "",
+     "date": "2026-11-26T17:14:00+01:00",
      "source": "",
-     "image": "https://medias.lequipe.fr/img-photo-jpg/le-trio-de-gentle-mates-a-connu-des-debuts-victorieux-en-coupe-de-france-mi-novembre-gentle-mates/1500000002660401/176:16,1049:599-828-552-75/a6a85.jpg"
+     "image": "https://medias.lequipe.fr/img-photo-png/-/1500000000833469/0-828-552-75/0cb67.png"
     }
    ],
    "flux_utilise": "https://dwh.lequipe.fr/api/edito/rss?path=/"
@@ -254,64 +254,64 @@
    "sous_titre": "Les informations les plus importantes, partout dans le monde",
    "items": [
     {
-     "titre": "EN DIRECT, guerre en Ukraine : Volodymyr Zelensky accuse la Russie de préparer de nouvelles frappes massives sur des « infrastructures énergétiques et logistiques »",
-     "lien": "https://www.lemonde.fr/international/live/2026/11/26/en-direct-guerre-en-ukraine-un-mort-dans-l-oblast-de-kherson-des-foyers-prives-d-electricite-dans-sept-regions-apres-des-attaques-russes_6814183_3210.html",
-     "resume": "La Russie a attaqué « des infrastructures d’approvisionnement en eau, des réseaux de chauffage, des centres commerciaux et des immeubles résidentiels » au cours de la nuit de mercredi à jeudi, a déclaré le premier ministre, Serhi Koretsky. Le président…",
-     "date": "2026-11-26T11:06:52+01:00",
+     "titre": "EN DIRECT, guerre en Ukraine : Kiev revendique des attaques sur une base aérienne et une station pétrolière en Russie",
+     "lien": "https://www.lemonde.fr/international/live/2026/11/26/en-direct-guerre-en-ukraine-kiev-revendique-des-attaques-sur-une-base-aerienne-et-une-station-petroliere-en-russie_6814183_3210.html",
+     "resume": "L’armée ukrainienne a frappé, dans la nuit de mercredi à jeudi, « deux infrastructures stratégiques » en Russie, a affirmé l’état-major général des forces armées ukrainiennes. La raffinerie de Slaviansk-sur-Kouban a été gravement endommagée, selon l’agence…",
+     "date": "2026-11-26T15:42:49+01:00",
      "source": "lemonde.fr",
      "image": "https://img.lemde.fr/2026/11/26/412/0/4948/2474/644/322/60/0/0d499ae_ftp-1-zldwxtxlxtvd-afp-d8nm8nq.jpg",
-     "reprises": 7,
-     "score": 18.23
+     "reprises": 8,
+     "score": 19.34
     },
     {
-     "titre": "Thaïlande : une explosion dans un dépôt pétrolier de Bangkok fait provisoirement sept blessés",
-     "lien": "https://www.lemonde.fr/international/article/2026/11/26/thailande-une-explosion-dans-un-depot-petrolier-de-bangkok-fait-provisoirement-sept-blesses_6815511_3210.html",
-     "resume": "L’incendie, qui s’est déclenché dans la raffinerie, jeudi, en zone urbaine de la capitale thaïlandaise, est « désormais maîtrisé » selon les autorités.",
-     "date": "2026-11-26T10:58:23+01:00",
-     "source": "lemonde.fr",
-     "image": "https://img.lemde.fr/2026/11/26/688/0/8256/4128/644/322/60/0/2935ffe_ftp-1-khcpl60bhg4a-afp-d8nd97h.jpg",
-     "reprises": 6,
-     "score": 16.49
-    },
-    {
-     "titre": "Gaza : Israël menace de déplacer un million de Palestiniens si le Hamas ne désarme pas",
-     "lien": "https://www.france24.com/fr/moyen-orient/20261126-gaza-isra%C3%ABl-menace-de-d%C3%A9placer-un-million-de-palestiniens-si-le-hamas-ne-d%C3%A9sarme-pas",
-     "resume": "Jeudi, le ministre israélien de la Défense, Israël Katz, a brandi la menace d'un nouveau déplacement massif de la population dans la bande de Gaza. Un million de Palestiniens pourraient être expulsés vers le sud du territoire si le Hamas ne dépose pas les…",
-     "date": "2026-11-26T13:39:19+01:00",
-     "source": "© Mahmoud Issa, Reuters",
-     "image": "https://s.france24.com/media/display/bd677e20-e991-11f1-9957-f9cf020caef6/w:1024/p:16x9/2026-11-23T181446Z-1897406615-RC2PTOAHCOHO-RTRMADP-3-ISRAEL-PALESTINIANS-GAZA.jpg",
-     "reprises": 6,
-     "score": 12.99
-    },
-    {
-     "titre": "De nouveaux éléments concernant les propos antisémites attribués à Jordan Bardella",
-     "lien": "https://www.france24.com/fr/%C3%A9missions/dans-la-presse/20261126-de-nouveaux-%C3%A9l%C3%A9ments-concernant-les-propos-antis%C3%A9mites-attribu%C3%A9s-%C3%A0-jordan-bardella",
-     "resume": "À la Une de la presse ce jeudi 26 novembre : de nouveaux éléments de Mediapart et du Monde sur les écrits antisémites attribués à Jordan Bardella, la dernière ligne droite avant les législatives anticipées en Espagne, une histoire de corsaire, et des…",
-     "date": "2026-11-26T12:54:28+01:00",
+     "titre": "Propos antisémites : Bardella tente se dit victime de \"persécution\" par \"certains médias\"",
+     "lien": "https://www.france24.com/fr/vid%C3%A9o/20261126-propos-antis%C3%A9mites-bardella-tente-se-dit-victime-de-pers%C3%A9cution-par-certains-m%C3%A9dias",
+     "resume": "Le président du Rassemblement national, Jordan Bardella affirme que les nouveaux propos antisémites révélés par Médiapart et Le Monde \"ne correspondent ni à mes idées, ni à mes valeurs, ni à mes convictions, hier comme aujourd'hui\" dénonçant \"avec la plus…",
+     "date": "2026-11-26T16:25:11+01:00",
      "source": "france24.com",
-     "image": "https://s.france24.com/media/display/e38272ca-e97a-11f1-8bea-81bc2b1dcd65/w:1024/p:16x9/Francais-2026-11-26T07-00-25-283Z.jpg",
+     "image": "https://s.france24.com/media/display/929834f2-e9a8-11f1-ba31-77d069279b82/w:1024/p:16x9/FR-20261126-140432-141325-CS.jpg",
      "reprises": 4,
-     "score": 11.22
+     "score": 14.84
     },
     {
-     "titre": "Égypte : incendie meurtrier sur une autoroute de l’agglomération du Caire",
-     "lien": "https://www.france24.com/fr/vid%C3%A9o/20261126-%C3%A9gypte-incendie-meurtrier-sur-une-autoroute-de-l-agglom%C3%A9ration-du-caire",
-     "resume": "Au moins 30 personnes ont trouvé la mort mercredi dans un incendie dans un quartier populaire de Gizeh, dans l'agglomération du Caire, a indiqué le ministère égyptien de la Santé, révisant à la hausse un premier bilan de 21 morts. Au moins 30 personnes ont…",
-     "date": "2026-11-26T11:24:33+01:00",
-     "source": "france24.com",
-     "image": "https://s.france24.com/media/display/8975b97a-e97c-11f1-b9a7-f9cf020caef6/w:1024/p:16x9/minia-egypte-2.jpg",
+     "titre": "Naufrage d'un pétrolier au large d'Ibiza: l'Espagne se mobilise pour empêcher une marée noire",
+     "lien": "https://www.rfi.fr/fr/europe/20261126-naufrage-d-un-p%C3%A9trolier-au-large-d-ibiza-l-espagne-se-mobilise-pour-emp%C3%AAcher-une-mar%C3%A9e-noire",
+     "resume": "Dans l'espoir d'empêcher toute atteinte majeure à l'environnement en Méditerranée, les autorités espagnoles ont mis en place, jeudi 26 novembre, des mesures préventives après le naufrage, la nuit précédente, d'un navire battant pavillon maltais transportant…",
+     "date": "2026-11-26T13:55:35+01:00",
+     "source": "© AFP/Jaime Reina",
+     "image": "https://s.rfi.fr/media/display/f19245f8-3074-11f1-b550-005056a90284/w:1024/p:16x9/La-photo-montre-une-vue-d-ensemble-de-la-ville-d-Ibiza-le-12-juin-2023.jpg",
      "reprises": 4,
-     "score": 8.68
+     "score": 10.33
     },
     {
-     "titre": "Ouverture du procès d'Émilie König, \"l'égérie du jihad\"",
-     "lien": "https://www.france24.com/fr/%C3%A9missions/parlons-en-les-invit%C3%A9s/20261126-ouverture-du-proc%C3%A8s-de-l-%C3%A9g%C3%A9rie-du-jihad",
-     "resume": "Ce jeudi s'est ouvert le procès de celle que l'on surnomme \"l'égérie du jihad\". Émilie König, revenante de l'organisation État islamique, est l'une des premières françaises à avoir rejoint les rangs du groupe terroriste en Syrie dès 2012. Rapatriée en France…",
-     "date": "2026-11-26T13:02:28+01:00",
+     "titre": "France : le candidat à la Présidentielle Teddy Riner fait polémique sur l'Ukraine",
+     "lien": "https://www.france24.com/fr/vid%C3%A9o/20261126-congr%C3%A8s-des-maires-de-france-le-candidat-teddy-riner-fait-pol%C3%A9mique-sur-l-ukraine",
+     "resume": "Le candidat à la présidentielle Teddy Riner a exhorté mercredi 25 novembre à arrêter \"de donner de l'argent que nous n'avons pas\" pour soutenir l'Ukraine, d'autant que \"ce n'est pas notre guerre\", à propos du déploiement de soldats français pour des missions…",
+     "date": "2026-11-26T16:10:16+01:00",
      "source": "france24.com",
-     "image": "https://s.france24.com/media/display/1854ee3e-e989-11f1-a582-1991d4929b54/w:1024/p:16x9/capture-6985e8a5.jpg",
+     "image": "https://s.france24.com/media/display/427f0650-e9a1-11f1-b0cd-f9cf020caef6/w:1024/p:16x9/FR-20261126-133628-133736-CS.jpg",
+     "reprises": 4,
+     "score": 6.86
+    },
+    {
+     "titre": "Face à la menace russe, le Royaume-Uni propose des formations de l'Otan à des réservistes",
+     "lien": "https://www.france24.com/fr/europe/20261126-face-menace-russe-royaume-uni-propose-formations-otan-r%C3%A9servistes",
+     "resume": "Le ministre britannique de la Défense a fait savoir jeudi que l'armée avait pris contact avec des milliers d'anciens militaires pour leur proposer de participer à des formations et exercices de l'Otan. Wes Streeting évoque une mesure de \"précaution\" face…",
+     "date": "2026-11-26T17:00:53+01:00",
+     "source": "© Kacper Pempel, Reuters",
+     "image": "https://s.france24.com/media/display/7214b02a-e99e-11f1-98ec-81bc2b1dcd65/w:1024/p:16x9/2026-11-17T032959Z-568734887-RC2FPOAUYPPE-RTRMADP-3-UKRAINE-CRISIS-POLAND-MILITARY-DRILL.jpg",
      "reprises": 3,
-     "score": 8.23
+     "score": 6.33
+    },
+    {
+     "titre": "Présidence de la BCE : l'Espagnol Pablo Hernandez de Cos succédera à Christine Lagarde",
+     "lien": "https://www.france24.com/fr/europe/20261126-pr%C3%A9sidence-bce-espagnol-pablo-hernandez-de-cos-succ%C3%A9dera-christine-lagarde",
+     "resume": "L'Espagnol ​Pablo Hernandez de Cos, directeur de la Banque des règlements internationaux, va être nommé à la tête de la Banque centrale européenne (BCE), en remplacement de la Française Christine Lagarde, ont annoncé jeudi des sources diplomatiques.",
+     "date": "2026-11-26T15:51:09+01:00",
+     "source": "© Jose Luis Magana, AP",
+     "image": "https://s.france24.com/media/display/8782840e-e9a4-11f1-a5e6-f9cf020caef6/w:1024/p:16x9/AP25290616236227.jpg",
+     "reprises": 3,
+     "score": 6.27
     }
    ],
    "a_traduire": []
@@ -322,54 +322,54 @@
    "sous_titre": "Modèles, entreprises, régulation, recherche",
    "items": [
     {
-     "titre": "Pour le patron d’Anthropic, l’IA ne doit jamais prendre le dessus sur l’être humain",
-     "lien": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPNUZ3RTNBWmpSZFFNSGc1MVk0T1ZpNlNqZW9LU3BXYVBRNkx0VWJMQjlVNkhTalA0MEllczJHczVuS1BhZ2pva0d0NFFZX05Xd0ljc1UxR1BNR2dzNGg2dDEtcDh6TThvdjRHN2VVZWxVN2N3VW9KUFNsazZuemdnblNtQ1NPSU5LT0xET3U3Q29Oa1daVDRuN0dsN2NINENsTFNTaTMzdFlWODZwVUNla3lXUXNOM0E?oc=5",
-     "resume": "",
-     "date": "2026-11-26T13:44:38+01:00",
-     "source": "Siècle Digital",
-     "image": null,
-     "reprises": 3,
-     "score": 9.96
-    },
-    {
-     "titre": "OpenAI et Anthropic viennent-ils de casser le chiffrement ? Ce que cela pourrait signifier pour Bitcoin",
-     "lien": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNR1hXVmJnLWxjU2tkeTlnYmxMbGVSbTZjWVBOaklVNHZHWFJXOGVfUFBoZEVuM3lyamlmWmRSdzlVemoyM2ZyQmVXQUtTRENyMFJqZHRxS1I5c3NBaWt5LXZOSVZieFJqTDVhQl9fMk4wcjhzS0ZEQmlEMWVPeXdDVVI1cERTZw?oc=5",
-     "resume": "Ils sont les seuls à avoir accès aux IA les plus puissantes du moment, et ils s'inquiètent. Selon une enquête d'Axios, de nombreux employés d'OpenAI et d'Anthropic doutent que leurs modèles internes puissent un jour être proposés au public sans risque. Une…",
-     "date": "2026-11-26T08:11:28+01:00",
-     "source": "BeInCrypto",
-     "image": null,
-     "reprises": 5,
-     "score": 9.2
-    },
-    {
      "titre": "Il veut équiper 500 points de vente et 300 salariés des fonctions support dès janvier 2027 : le Groupement Mousquetaires adopte les modèles d’Anthropic",
      "lien": "https://news.google.com/rss/articles/CBMi5AJBVV95cUxQZ2U5bFZQUktqX0VPcjFSRXNya2lCZFpJSVZyUnp5ZVh5cHZGT3Bha2FyRG5ZYUxaZldsSVZpbmVKdmhXaC1YZF80MTB5QjZ2TFZCS0dnNGRVdjdaYkNzdUgtb0pmUDZjSUF0N1ZNcUYzR1E3XzFuRW9JU2Vyd1V2YWhSZ1FWVVA1d0xpY0Q5cEZselppU3Z3QVg4MmhZUGkxbGtQZVgxQ2pxOTU1Y1JyX1JQRkZaSE1mVnhiVTNNd1hBemEwa0tKUm84ZFBkNkpSVjJDU21uaFNzUFkyS3ZncXRrNXgzcHduZGFWMlN4Umo1dTYwajU3RGxZOExFaVd4MGtfMWVZTkk4NzMxTDFEeWpGenJNSXV1VmJsZE1ZNWFWdy1BN1VZaGZ4UnJ0SDZ1eWo0akNhdm45NGwwdkozQmlwRVlTUnhDM0k5NklEOGFYSHJOTi1semhPSlFTODdlNDUyQg?oc=5",
      "resume": "",
      "date": "2026-11-26T14:49:07+01:00",
      "source": "L'Usine Digitale",
      "image": null,
-     "reprises": 3,
-     "score": 7.25
+     "reprises": 4,
+     "score": 12.44
     },
     {
-     "titre": "Anthropic transforme les Artéfacts de Claude en applications Windows et Mac",
-     "lien": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPcmJxbU12eVlqUFVCT2lNc2lRMlg0REVMd1owRU9QRjRrVDQxY1FVdGRTb0cwaXNILURVN21MS1hsTFZDU1NMaFRORERDd2Y2YmxIaTF6ZTlQQ3h1cjJyVE9pNllHaFN2WEpGTUtzbHEzYXU4bW85TUlvYUpoWXUtS181LUFScFpsZmhxQWdaY0M?oc=5",
-     "resume": "Anthropic a lancé le 24 novembre 2026 une bêta qui permet d'installer les artefacts créés dans Claude comme de vrais logiciels. Ils peuvent maintenant sortir de la conversation et, si on les y autorise, agir directement sur l'ordinateur.",
-     "date": "2026-11-26T12:30:00+01:00",
-     "source": "InformatiqueNews",
-     "image": null,
-     "reprises": 3,
-     "score": 5.0
-    },
-    {
-     "titre": "Des centaines de problèmes résolus par l’IA : une menace pour l’avenir des mathématiques ?",
-     "lien": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQTUotdGpLbzlYbDVuckNJc1A3Q1kzcDlxUy0xU0IxTFdISTZIbHNXcDMzYkpmYWZpOUFkVWtSOWRXRnB4dElPeUU4MHhaWDZYWHdTMFpmc2Z2VVpRd2pMRVFCdHVWYUlpN3YzaWNCR2dqNGhaeWlscVR6c1QtYnBXM19jYWtnZTZTMEtWZGxsclJUWkpKVk9ubC1YNjZLU2hHa1VKOThJdnZyQUNzRmRFRnd3V1B5UUZFTTlF?oc=5",
+     "titre": "Pour le patron d’Anthropic, l’IA ne doit jamais prendre le dessus sur l’être humain",
+     "lien": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPNUZ3RTNBWmpSZFFNSGc1MVk0T1ZpNlNqZW9LU3BXYVBRNkx0VWJMQjlVNkhTalA0MEllczJHczVuS1BhZ2pva0d0NFFZX05Xd0ljc1UxR1BNR2dzNGg2dDEtcDh6TThvdjRHN2VVZWxVN2N3VW9KUFNsazZuemdnblNtQ1NPSU5LT0xET3U3Q29Oa1daVDRuN0dsN2NINENsTFNTaTMzdFlWODZwVUNla3lXUXNOM0E?oc=5",
      "resume": "",
-     "date": "2026-11-26T14:43:09+01:00",
-     "source": "The Conversation",
+     "date": "2026-11-26T13:44:38+01:00",
+     "source": "Siècle Digital",
      "image": null,
-     "reprises": 1,
-     "score": 3.23
+     "reprises": 4,
+     "score": 10.47
+    },
+    {
+     "titre": "« On a fait une erreur de facturation » : OpenAI corrige le tir, et vos quotas GPT-6.2 vont fondre jusqu'à 40 % plus vite",
+     "lien": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxNNGtUd0RjSk1WOEd0WkxhQ0V3eS1UeWRhQzdya2U2bEFCQURiZG05YjFSWnhuNDMtUWpRckZMRVc0UUVqeDNZVEhyZkFIZTdnejZPRE1zUnN3WDVBeXB4YWpwcjRnV1YxOW53WkdBVzdJbGFMajctVEt3Z3VMakliY2RndXhuTm44Nl9VdHlSLUVJQjhVN0JkMjQ1M2hXM3BqTUZSVmlaY0Z5R2w5R21Pc0FRNEhnNGZnTXpnQnF5UkRsQTVOcFg0R3JxUm1VWVR5c0ZIeGpMSDI4NkplbWF4OGt5U2VUdlFtdWc?oc=5",
+     "resume": "Pendant une semaine, les nouveaux modèles d'OpenAI ont semblé étonnamment généreux. C'était une erreur. En la corrigeant, l'entreprise fait fondre les quotas de ses abonnés jusqu'à 40 % plus vite, deux jours après avoir annoncé un quota unique pour ChatGPT…",
+     "date": "2026-11-26T15:47:30+01:00",
+     "source": "Numerama",
+     "image": null,
+     "reprises": 3,
+     "score": 5.65
+    },
+    {
+     "titre": "OpenAI ou d'Anthropic ? Une IA aurait fait une percée en cryptographie pouvant inquiéter la sécurité du Bitcoin",
+     "lien": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPRGtOUVplSUw4Qm1WdEdYamk3cDhoX3FqMlVkVlg0cExZYjJ0WTBZQmkwMGJhMFdwNXFqWHozbWJkMjdkcHNhaHQzc2tUdWotX3FIX0N6TGlEc1pHLWdYOThNQTZ5enlMX1hDUnJSZ2FUbDJWcFk2dXRCVzNocGRkcEpJU1huZWh5LVVobi1TanAtczg?oc=5",
+     "resume": "",
+     "date": "2026-11-26T14:17:57+01:00",
+     "source": "Cryptoast",
+     "image": null,
+     "reprises": 3,
+     "score": 4.88
+    },
+    {
+     "titre": "« Des erreurs de dosage » : pourquoi faut-il se méfier des conseils de l’IA sur la santé et les médicaments ?",
+     "lien": "https://news.google.com/rss/articles/CBMijAJBVV95cUxPWUw2bmREUjlCQzRjemRCdXlvektFOHlLOTNtclRCb1A4dFhWVVlGRV9kRmlHVjJmdzZZQklDY3NQcTFPRk5RUXpTX29qeThsdWxiVkFVd2lySjVuY3VkWmRtVkc1SG02cmtwTW1GajNPZ05HXzNPcHpuRXVpeFp1TXFvVXpuaGYxSklEd3Rubk1sLTRDcVREUjg1SXlfUUhfZFpiM29BWkJiSkhZeDhpSDM2UTVEbXkwVXRHdjdLTDVNSlJ1VjBKMlA2dkg4ZkJmNlhCSW5CQlBpNDJCWS1ILXpWZHlCRVlObUhJRDkyOHBISVRHV09GbWRpU3lYdV9ieXRFNGg4eU1LY0F6?oc=5",
+     "resume": "",
+     "date": "2026-11-26T12:11:27+01:00",
+     "source": "Ouest-France",
+     "image": null,
+     "reprises": 3,
+     "score": 4.61
     }
    ],
    "a_traduire": [
@@ -381,7 +381,7 @@
      "source": "theverge.com",
      "image": null,
      "reprises": 2,
-     "score": 2.99
+     "score": 2.91
     },
     {
      "titre": "Google’s patent for custom AI video feeds paints a bleak picture of entertainment’s future",
@@ -391,7 +391,7 @@
      "source": "theverge.com",
      "image": null,
      "reprises": 1,
-     "score": 1.32
+     "score": 1.28
     },
     {
      "titre": "OpenAI says heavy ChatGPT users may hit limits sooner as it merges Chat and Work",
@@ -401,7 +401,7 @@
      "source": "techcrunch.com",
      "image": null,
      "reprises": 1,
-     "score": 1.29
+     "score": 1.25
     },
     {
      "titre": "Jensen Huang broke Nvidia’s code of conduct, and his employees may not forget it",
@@ -411,7 +411,7 @@
      "source": "techcrunch.com",
      "image": null,
      "reprises": 1,
-     "score": 1.16
+     "score": 1.12
     },
     {
      "titre": "Nothing offers a full look at its AI earbuds and charging case",
@@ -421,7 +421,7 @@
      "source": "theverge.com",
      "image": null,
      "reprises": 1,
-     "score": 1.1
+     "score": 1.06
     }
    ]
   },
@@ -438,7 +438,7 @@
      "source": "Conseil d'État",
      "image": null,
      "reprises": 15,
-     "score": 30.83,
+     "score": 30.13,
      "libertes": false
     },
     {
@@ -448,30 +448,8 @@
      "date": "2026-11-24T15:14:16+01:00",
      "source": "Le Monde.fr",
      "image": null,
-     "reprises": 12,
-     "score": 24.64,
-     "libertes": true
-    },
-    {
-     "titre": "Les députés socialistes saisissent le Conseil constitutionnel sur la loi instaurant une présomption d'usage légal des armes",
-     "lien": "https://news.google.com/rss/articles/CBMiggJBVV95cUxNM2NNblpOVERyZnk4dmlFUkh6MkNYMTdEU3VvZjJ1SXZ5cmVmQlh1QzBTRWZrbkRiUTljTHZiMjZXa0xyeGlGbTVmbWg0UUxYREN5dUVCWkwtMzlOMWlQeG1ENmZvcG1oOU5sWWJrMXJFMV80OEVraU9TSGxmblhqbnJtRmR0RURkOE8tRjd6OXBYem1MM0NWdGxqVGxFTmdxODBUdFZJNzVBcURVcHdUdmFmTlBFODF3TVFpeFFLSlBJYVh0cGxOTTYxeEFISEwySm8wSXhFaUU4R2tyZmdLV1V2YUxXUV9fZlNZaEhRSXpsVVRmb0hKMG1tQ1g2dG1kanc?oc=5",
-     "resume": "",
-     "date": "2026-11-23T20:38:06+01:00",
-     "source": "franceinfo",
-     "image": null,
-     "reprises": 3,
-     "score": 5.14,
-     "libertes": true
-    },
-    {
-     "titre": "La démocratie à l'épreuve - Faut-il restreindre la liberté d’expression",
-     "lien": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQRF9TTG95N2gwN0lfdVBrQ1FvNG91TlZfWXFaUzdOTVA3WElzaHN0UXBIVENUX09ZQW9XcVhjT0htUXZDa0N2YWtfQVJ3SFFnQjdBY0c4WlBITGxNRnVfS0Nld1A1RVZ5Z0FGLTBEcUI3R0VMVUV3MGhXNDlrVno3R3VKWFlmVzBBVERwQlpBMA?oc=5",
-     "resume": "",
-     "date": "2026-11-26T02:41:40+01:00",
-     "source": "Herodote.net",
-     "image": null,
-     "reprises": 2,
-     "score": 3.29,
+     "reprises": 14,
+     "score": 28.29,
      "libertes": true
     },
     {
@@ -482,18 +460,40 @@
      "source": "Libération",
      "image": null,
      "reprises": 2,
-     "score": 3.19,
+     "score": 4.76,
      "libertes": false
     },
     {
-     "titre": "CEDH : une avocate interdite de représentation devant la Cour pour usage d'IA",
-     "lien": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxQdTlORWhUbkotN0RDZDgtT1luTWNfc0lHazd1bG95MHItRGhpdERHRUlqejB6NklsZDdrVXRBaWM4ci1rMHliR2I4Y1dMaFBoTWJXTFkxRlNpRVcta0hoTXR4WlhZalpXcFlEOVBFczNyMlY3SmJsOTFCTmV2TTlWbzZRcXJXdG1COWY1d0E1TVB3UHhFSnc0QUFJLWZmcWIySVVNRHMwTzFHTUNzc3pkb0Vxcl83VjhRNnVmS3ByS2RHdDBnSHNPVFR1T2dOZlBnOUtrX0RBTUNfb2pIdmhENmtvbGpzYTA?oc=5",
+     "titre": "Boualem Sansal réunit intellectuels et universitaires au Sénat pour défendre la liberté d’expression",
+     "lien": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxNZlBBLU11WkJ4dHdxbGdYQTJuUXo0NVNPUmNGZ2ZYU3JHNXBiTnZ3cmRPc3U3T0MzYnB4dlBqbU9EajRyMkJRbjhESkNjcHVWLXg1RGk1dk9MSVREUUxHN1cyRnEtVERnMFJmcmJxUFdYTjVzOElWU1dZbEZMajZmbktPSUJaOFpzcDJILVhNMmJpbGlkYm0yY2tEenZPMlpoMFlTS3loMEdoYXhXNmJqRkZMVWFSNGl4YnNzLTdmYVRpbWhQYnJyRE85Ml82UmZENDBzaDdoazBLYWF0Y0ZvX2FFNlV2U3F4elh5czlZcjRHY2c?oc=5",
      "resume": "",
-     "date": "2026-11-26T01:03:32+01:00",
-     "source": "Le Monde du Droit",
+     "date": "2026-11-26T11:07:00+01:00",
+     "source": "Opinion Internationale",
      "image": null,
      "reprises": 2,
-     "score": 3.03,
+     "score": 3.41,
+     "libertes": true
+    },
+    {
+     "titre": "Les députés socialistes saisissent le Conseil constitutionnel sur la loi instaurant une présomption d'usage légal des armes",
+     "lien": "https://news.google.com/rss/articles/CBMiggJBVV95cUxNM2NNblpOVERyZnk4dmlFUkh6MkNYMTdEU3VvZjJ1SXZ5cmVmQlh1QzBTRWZrbkRiUTljTHZiMjZXa0xyeGlGbTVmbWg0UUxYREN5dUVCWkwtMzlOMWlQeG1ENmZvcG1oOU5sWWJrMXJFMV80OEVraU9TSGxmblhqbnJtRmR0RURkOE8tRjd6OXBYem1MM0NWdGxqVGxFTmdxODBUdFZJNzVBcURVcHdUdmFmTlBFODF3TVFpeFFLSlBJYVh0cGxOTTYxeEFISEwySm8wSXhFaUU4R2tyZmdLV1V2YUxXUV9fZlNZaEhRSXpsVVRmb0hKMG1tQ1g2dG1kanc?oc=5",
+     "resume": "",
+     "date": "2026-11-23T20:38:06+01:00",
+     "source": "franceinfo",
+     "image": null,
+     "reprises": 2,
+     "score": 3.11,
+     "libertes": true
+    },
+    {
+     "titre": "La loi sur l'immigration interdisant les activités politiques des étrangers jugée inconstitutionnelle",
+     "lien": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9ac1FLMUJlaHdFczFGOUhmQ2sxZlNtOGJQZURJWU9jSkxoY2VhVjI4dWl0aUVtQUtJNEVIc3o3R3pUS21ER2lWeVlHaFB5ZUc4S29La0QyNVdyQQ?oc=5",
+     "resume": "",
+     "date": "2026-11-26T09:02:32+01:00",
+     "source": "Agence de presse Yonhap",
+     "image": null,
+     "reprises": 2,
+     "score": 2.83,
      "libertes": true
     }
    ],
