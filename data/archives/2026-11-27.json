@@ -1,0 +1,463 @@
+{
+ "date": "2026-11-27",
+ "genere": "2026-11-27T15:18+01:00",
+ "journaux": [
+  {
+   "id": "figaro",
+   "nom": "Le Figaro",
+   "couleur": "#163860",
+   "une": {
+    "fichier": "unes/figaro.jpg",
+    "date": "2026-11-27",
+    "source": "https://static.milibris.com/thumbnail/issue/b22e5922-9c67-4de7-b6c2-b7b1c0141411/front/catalog-cover-large.jpeg"
+   },
+   "articles": [
+    {
+     "titre": "Ralliements LR à David Lisnard : Laurent Wauquiez s’inquiète d’un risque de «division» à droite après une tribune",
+     "lien": "https://www.lefigaro.fr/politique/ralliements-lr-a-lisnard-wauquiez-s-inquiete-d-un-risque-de-division-a-droite-apres-une-tribune-20261127",
+     "resume": "INFO LE FIGARO - Huit députés de la Droite républicaine, qu’il préside à l’Assemblée, ont officialisé jeudi leur soutien au candidat Nouvelle Énergie.",
+     "date": "2026-11-27T13:57:40+01:00",
+     "source": "",
+     "image": "https://i.f1g.fr/media/cms/3000x2000_crop/2026/11/27/a4c873f2f4b8744efb2bc54ba8529b835099df229d18a8b7ee4f0810a611a561.jpg"
+    },
+    {
+     "titre": "Albert Zennou : « La droite à nouveau rattrapée par l’éternelle question de son rapport au RN »",
+     "lien": "https://www.lefigaro.fr/vox/politique/albert-zennou-la-droite-a-nouveau-rattrapee-par-l-eternelle-question-de-son-rapport-au-rn-20261127",
+     "resume": "CHRONIQUE - En sommant David Lisnard de clarifier ses rapports avec le Rassemblement national, Édouard Philippe réactive un débat qui fracture la droite depuis plus de quarante ans.",
+     "date": "2026-11-27T15:00:00+01:00",
+     "source": "",
+     "image": "https://i.f1g.fr/media/cms/2911x1638_crop/2026/11/27/4e3b8464012932918573842f171a5d15cf0b05e54ae7a4f585590124ac2c0980.jpg"
+    },
+    {
+     "titre": "Présidentielle 2027 : Édouard Philippe chute à 8% et se fait doubler par David Lisnard, troisième",
+     "lien": "https://www.lefigaro.fr/elections/presidentielles/sondages/presidentielle-2027-edouard-philippe-chute-a-8-et-se-fait-doubler-par-david-lisnard-troisieme-20261127",
+     "resume": "Crédité de 8% des intentions de vote (-4 points), Édouard Philippe est distancé par David Lisnard (12%), qui s’installe à la troisième place derrière Marine Le Pen (33%) et Jean-Luc Mélenchon (16%), selon un sondage OpinionWay pour CNEWS publié jeudi.",
+     "date": "2026-11-27T10:53:16+01:00",
+     "source": "",
+     "image": "https://i.f1g.fr/media/cms/orig/2026/11/27/d4cf8b854f902d345e8025541363ab5790e90f59d3a6d0b099f08b560539b749.JPG"
+    },
+    {
+     "titre": "Présidentielle 2027 : David Lisnard «n’est plus dans mon espace politique», déclare Gérald Darmanin",
+     "lien": "https://www.lefigaro.fr/elections/presidentielles/presidentielle-2027-david-lisnard-n-est-plus-dans-mon-espace-politique-declare-gerald-darmanin-20261127",
+     "resume": "Le ministre de la Justice a réitéré ses critiques à l’encontre du candidat Nouvelle Énergie, en hausse dans les sondages, sur son silence sur son choix entre Édouard Philippe et Marine Le Pen au second tour de l’élection présidentielle.",
+     "date": "2026-11-27T10:50:31+01:00",
+     "source": "",
+     "image": "https://i.f1g.fr/media/cms/orig/2026/11/27/7151e75f33e0429412408483debef12f95961d28d9b59149ec974f4740fdca82.JPG"
+    },
+    {
+     "titre": "Présidentielle 2027 : que disent les derniers sondages ?",
+     "lien": "https://www.lefigaro.fr/politique/presidentielle-2027-que-disent-les-derniers-sondages-20261127",
+     "resume": "INFOGRAPHIE – Une partie de la gauche se rallie autour de Jean-Luc Mélenchon, Édouard Philippe poursuit sa chute et David Lisnard son ascension… Pour suivre l’évolution des rapports de force, Le Figaro agrège tous les sondages publiés et les différents…",
+     "date": "2026-11-27T12:33:57+01:00",
+     "source": "",
+     "image": "https://i.f1g.fr/media/cms/1920x1080_crop/2026/11/27/5eb28a05f570fe0c4fa16545189581066531389dcb03b7e317fe3b87dfcd4e20.jpg"
+    },
+    {
+     "titre": "«C’est triste pour nos enfants» : près de Toulouse, la fronde d’une «minorité» de parents fait annuler le séjour de 50 écoliers au Puy du Fou",
+     "lien": "https://www.lefigaro.fr/actualite-france/c-est-triste-pour-nos-enfants-pres-de-toulouse-la-fronde-d-une-minorite-de-parents-fait-annuler-le-sejour-de-50-ecoliers-au-puy-du-fou-20261127",
+     "resume": "RÉCIT - La mairie de Castelmaurou, près de Toulouse, préparait un voyage au Puy du Fou pour une cinquantaine d’écoliers. Après les critiques de certains parents sur le choix du parc, des animateurs ont renoncé à accompagner les enfants, ce qui a conduit la…",
+     "date": "2026-11-27T11:12:24+01:00",
+     "source": "",
+     "image": "https://i.f1g.fr/media/cms/3000x1687_crop/2026/11/27/6735f6363577b2de712f7bb5bad1d34c4e1d36fb4aca4921789def07f849ca9c.jpg"
+    }
+   ],
+   "flux_utilise": "https://www.lefigaro.fr/rss/figaro_actualites.xml"
+  },
+  {
+   "id": "monde",
+   "nom": "Le Monde",
+   "couleur": "#111111",
+   "une": {
+    "fichier": "unes/monde.webp",
+    "date": "2026-11-28",
+    "source": "https://www.frontpages.com/t/2026/11/27/le-monde-14003938e@2x.webp"
+   },
+   "articles": [
+    {
+     "titre": "Présidentielle 2027 : Marine Le Pen veut contraindre les journalistes à respecter le secret de l’instruction",
+     "lien": "https://www.lemonde.fr/politique/article/2026/11/27/presidentielle-2027-marine-le-pen-veut-contraindre-les-journalistes-a-respecter-le-secret-de-l-instruction_6815863_823448.html",
+     "resume": "Interrogée par notre journaliste politique Corentin Lesueur, spécialiste de l’extrême droite, lors d’un point presse, Marine Le Pen a déclaré : « Les médias ne pourront plus en toute impunité effectuer des recels de violation du secret de l’enquête et de…",
+     "date": "2026-11-27T14:13:16+01:00",
+     "source": "",
+     "image": "https://img.lemde.fr/2026/11/27/355/0/4268/2134/644/322/60/0/789bee1_ftp-1-3smmfhol2otm-afp-d8te24d.jpg"
+    },
+    {
+     "titre": "« On paie 15 000 euros l’année pour que l’école fasse faillite ? » : des étudiants en colère et en galère après la fermeture de leur école de commerce",
+     "lien": "https://www.lemonde.fr/campus/article/2026/11/27/ils-nous-ont-menti-apres-la-fermeture-de-leur-ecole-de-commerce-des-etudiants-en-colere-et-en-galere_6815802_4401467.html",
+     "resume": "Redressements judiciaires, rachats, disparitions… Après avoir longtemps surfé sur la vague de l’apprentissage, de nombreuses business schools privées se retrouvent en difficulté. Pour leurs élèves, c’est le début d’un parcours du combattant, entre…",
+     "date": "2026-11-27T06:00:13+01:00",
+     "source": "",
+     "image": "https://img.lemde.fr/2025/02/07/154/0/1800/900/644/322/60/0/cb4317c_sirius-fs-upload-1-zgpan9zgabex-1738943260867-mei-dia-7.png"
+    },
+    {
+     "titre": "Ecrits antisémites de Jordan Bardella : Marine Le Pen renouvelle sa confiance au président du Rassemblement national",
+     "lien": "https://www.lemonde.fr/politique/article/2026/11/27/ecrits-antisemites-de-jordan-bardella-marine-le-pen-renouvelle-sa-confiance-au-president-du-rassemblement-national_6815858_823448.html",
+     "resume": "Le président du RN réitère sa défense en contestant « formellement » les nouvelles révélations du « Monde » et de « Mediapart », se refusant de nouveau à avancer des éléments.",
+     "date": "2026-11-27T13:25:05+01:00",
+     "source": "",
+     "image": "https://img.lemde.fr/2026/11/27/363/0/4356/2178/644/322/60/0/d80c0df_ftp-1-3rwjqrelvghv-afp-d8tb46l.jpg"
+    },
+    {
+     "titre": "OM - Levski Sofia : l’Olympique de Marseille menacé de lourdes sanctions par l’UEFA après les violences lors du match de Ligue Europa",
+     "lien": "https://www.lemonde.fr/sport/article/2026/11/27/violences-au-velodrome-lors-du-match-om-levski-sofia-le-parquet-ouvre-deux-enquetes-le-club-phoceen-menace-de-lourdes-sanctions-de-l-uefa_6815862_3242.html",
+     "resume": "Au lendemain des heurts survenus au Stade-Vélodrome, qui ont fait 11 blessés parmi les supporteurs bulgares, le parquet de Marseille a annoncé l’ouverture de deux enquêtes. L’UEFA, quant à elle, a lancé une procédure disciplinaire.",
+     "date": "2026-11-27T14:07:12+01:00",
+     "source": "",
+     "image": "https://img.lemde.fr/2026/11/27/283/0/4831/2415/644/322/60/0/7d0d8e1_ftp-1-ru21scisaett-2026-11-27t095055z-1002185663-rc2svoa96u8i-rtrmadp-3-soccer-europa-violence.JPG"
+    },
+    {
+     "titre": "« C’est presque aussi facile d’acheter un sac Balenciaga qu’un paquet de nouilles de riz » : les articles de luxe d’occasion à Shanghaï bousculent le marché",
+     "lien": "https://www.lemonde.fr/economie/article/2026/11/27/a-shanghai-le-boom-de-la-seconde-main-bouscule-le-marche-du-luxe_6815800_3234.html",
+     "resume": "Dans des magasins aussi grands que des supermarchés, les plateformes chinoises de revente attirent de jeunes clients qui, sur fond de crise de la consommation, ne veulent plus payer les prix exorbitants pratiqués par les grandes maisons.",
+     "date": "2026-11-27T06:00:13+01:00",
+     "source": "",
+     "image": "https://img.lemde.fr/2026/11/24/1306/0/9504/4752/644/322/60/0/c38a337_upload-1-xfww7xapjmlg-raa8859.jpg"
+    },
+    {
+     "titre": "Jean-Claude Vannier, arrangeur indissociable de Serge Gainsbourg et père de l’album-concept « Histoire de Melody Nelson », est mort à l’âge de 83 ans",
+     "lien": "https://www.lemonde.fr/disparitions/article/2026/11/27/jean-claude-vannier-arrangeur-indissociable-de-serge-gainsbourg-et-pere-de-l-album-concept-histoire-de-melody-nelson-est-mort-a-l-age-de-83-ans_6815859_3382.html",
+     "resume": "Le binôme de Serge Gainsbourg lors de la création de l’album « Histoire de Melody Nelson », est mort jeudi. Pianiste, arrangeur mais encore auteur autodidacte, il avait orchestré les morceaux de nombreuses stars de la chanson française.",
+     "date": "2026-11-27T13:45:02+01:00",
+     "source": "",
+     "image": "https://img.lemde.fr/2026/11/27/204/0/2500/1250/644/322/60/0/5011f8a_ftp-1-2tar74axvmyf-afp-d8tl6t3.jpg"
+    }
+   ],
+   "flux_utilise": "https://www.lemonde.fr/rss/une.xml"
+  },
+  {
+   "id": "croix",
+   "nom": "La Croix",
+   "couleur": "#c8102e",
+   "une": {
+    "fichier": "unes/croix.jpg",
+    "date": "2026-11-27",
+    "source": "https://img.kiosko.net/2026/11/27/fr/lacroix.750.jpg"
+   },
+   "articles": [
+    {
+     "titre": "La Russie s’apprête-t-elle à envoyer une arme nucléaire dans l’espace ?",
+     "lien": "https://www.la-croix.com/international/la-russie-s-apprete-t-elle-a-envoyer-une-arme-nucleaire-dans-lespace-20261127",
+     "resume": "Alors que s’ouvre la première Conférence d’examen du traité sur l’interdiction des armes nucléaires (Tian), ce lundi 30 novembre, des médias allemands affirment que la Russie s’apprêterait à envoyer Spoutnik-S, une arme nucléaire dans l’espace. Une hypothèse…",
+     "date": "2026-11-27T15:06:52+01:00",
+     "source": "",
+     "image": "https://i.la-croix.com/x/2026/11/27/2600519-vladimir-poutine-s-adresse-aux-medias-a-lissue-dun.jpg"
+    },
+    {
+     "titre": "Présidentielle 2027 : attraction et soumission, le rassemblement façon Mélenchon",
+     "lien": "https://www.la-croix.com/politique/presidentielle-2027-attraction-et-soumission-le-rassemblement-facon-melenchon-20261126",
+     "resume": "La France insoumise a refusé, mercredi 25 novembre 2026, la proposition de « rencontre bilatérale » d’anciens insoumis, fondateurs de L’Après. Le mouvement de Jean-Luc Mélenchon discute des conditions d’un accord législatif avec Les Écologistes et en a déjà…",
+     "date": "2026-11-27T14:23:43+01:00",
+     "source": "",
+     "image": "https://i.la-croix.com/x/2026/11/26/2599737-jean-luc-melenchon-au-parc-des-expositions-du-bour.jpg"
+    },
+    {
+     "titre": "Haro sur les assos ?",
+     "lien": "https://www.la-croix.com/a-vif/haro-sur-les-assos-20261127",
+     "resume": "Lors d’un récent débat entre potentiels présidentiables sur LCI, Joséphine Lebard a relevé des remarques de Marine Le Pen sur le secteur associatif qui l’ont questionnée.",
+     "date": "2026-11-27T14:16:57+01:00",
+     "source": "",
+     "image": null
+    },
+    {
+     "titre": "Entreprises : concilier écologie et rentabilité, c’est possible, ces sociétés l’ont fait",
+     "lien": "https://www.la-croix.com/planete/entreprises-concilier-ecologie-et-rentabilite-c-est-possible-ces-societes-lont-fait-20261127",
+     "resume": "Dans un monde des affaires où la concurrence est impitoyable, et où le profit sert de boussole, certaines entreprises parviennent néanmoins à conjuguer viabilité économique et durabilité, certaines parvenant même à s’imposer comme des leaders dans leur…",
+     "date": "2026-11-27T14:14:05+01:00",
+     "source": "",
+     "image": "https://i.la-croix.com/x/2026/11/27/25986632-de-la-telephonie-a-la-cosmetique-de-plus-en-plus-d.jpg"
+    },
+    {
+     "titre": "Black Friday : « Une concentration publicitaire néfaste pour la santé et la planète »",
+     "lien": "https://www.la-croix.com/economie/black-friday-une-concentration-publicitaire-nefaste-pour-la-sante-et-la-planete-20261127",
+     "resume": "Alors que se déroule, ce vendredi 27 novembre 2026, le Black Friday, Renaud Fossard, co-fondateur de l’association Communication et démocratie, alerte sur les résultats d’une étude qui montre que quelques catégories de produits, souvent controversés,…",
+     "date": "2026-11-27T14:05:19+01:00",
+     "source": "",
+     "image": "https://i.la-croix.com/x/2026/11/27/2600381-lors-du-black-friday-la-publicite-joue-un-role-maj.jpg"
+    },
+    {
+     "titre": "Présidentielle 2027 : Marine Le Pen veut obliger les journalistes à respecter le secret des enquêtes",
+     "lien": "https://www.la-croix.com/politique/presidentielle-2027-marine-le-pen-veut-obliger-les-journalistes-a-respecter-le-secret-des-enquetes-20261127",
+     "resume": "La candidate du RN à l’élection présidentielle a dit, vendredi 27 novembre, vouloir contraindre les journalistes à respecter le secret de l’instruction. Des propos tenus dans un contexte où le parti d’extrême droite fait face à plusieurs révélations ces…",
+     "date": "2026-11-27T13:35:19+01:00",
+     "source": "",
+     "image": "https://i.la-croix.com/x/2026/11/27/2600492-marine-le-pen-ici-le-19-novembre-a-paris-a-affirme.jpg"
+    }
+   ],
+   "flux_utilise": "https://www.la-croix.com/feeds/rss/site.xml"
+  },
+  {
+   "id": "equipe",
+   "nom": "L'Équipe",
+   "couleur": "#e2001a",
+   "une": {
+    "fichier": "unes/equipe.jpg",
+    "date": "2026-11-27",
+    "source": "https://img.kiosko.net/2026/11/27/fr/l_equip.750.jpg"
+   },
+   "articles": [
+    {
+     "titre": "À quelle heure et sur quelle chaîne suivre la cérémonie du Vélo d'Or 2026 ?",
+     "lien": "https://www.lequipe.fr/Cyclisme-sur-route/Actualites/A-quelle-heure-et-sur-quelle-chaine-suivre-la-ceremonie-du-velo-d-or-2026/1746615#at_medium=RSS_feeds",
+     "resume": "Après trois années à Paris, la cérémonie du Vélo d'Or 2026 aura lieu le samedi 28 novembre à Monaco. Retrouvez ici toutes les informations concernant la cérémonie.",
+     "date": "2026-11-27T15:15:00+01:00",
+     "source": "",
+     "image": "https://medias.lequipe.fr/img-photo-jpg/les-successeurs-de-tadej-pogacar-et-pauline-ferrand-prevot-seront-connus-samedi-dans-la-soiree-b-papon-l-equipe/1500000002659194/0:0,2000:1333-828-552-75/c5bdd.jpg"
+    },
+    {
+     "titre": "La cagnotte des joueurs pour emmener tout le groupe à La Réunion",
+     "lien": "https://www.lequipe.fr/Football/Video/Coupe-de-france-coupe-de-france-la-cagnotte-des-joueurs-d-angouleme-pour-emmener-tout-le-groupe-a-la-reunion/20246454#at_medium=RSS_feeds",
+     "resume": "",
+     "date": "2026-11-27T15:12:00+01:00",
+     "source": "",
+     "image": "https://medias.lequipe.fr/img-photo-png/-/1500000000833469/0-828-552-75/0cb67.png"
+    },
+    {
+     "titre": "Avant OM-Levski Sofia au Vélodrome, les précédents incidents dans les stades français en coupe d'Europe",
+     "lien": "https://www.lequipe.fr/Football/Actualites/Avant-om-levski-sofia-au-velodrome-les-precedents-incidents-dans-les-stades-francais-en-coupe-d-europe/1746622#at_medium=RSS_feeds",
+     "resume": "Au lendemain des violents affrontements entre supporters de l'OM et du Levski Sofia, avant le coup d'envoi du match de Ligue Europa, retour sur les précédentes violences dans les stades français sur la scène européenne.",
+     "date": "2026-11-27T15:09:20+01:00",
+     "source": "",
+     "image": "https://medias.lequipe.fr/img-photo-jpg/le-8-septembre-2022-une-centaine-de-supporters-de-cologne-s-en-sont-pris-au-kop-nicois-a-l-allianz-riviera-f-porcu-l-equipe/1500000002661292/0:0,2000:1333-828-552-75/2ee97.jpg"
+    },
+    {
+     "titre": "Laura Schneider, championne olympique et championne du monde avec l'équipe de France, signe à Brest",
+     "lien": "https://www.lequipe.fr/Handball/Actualites/Laura-schneider-championne-olympique-et-championne-du-monde-avec-l-equipe-de-france-signe-a-brest/1746621#at_medium=RSS_feeds",
+     "resume": "Laura Schneider (ex-Flippes), qui a tout gagné avec l'équipe de France et qui a remporté la Ligue des champions avec Metz la saison dernière, s'est engagée vendredi avec Brest. Elle rejoindra le club breton la saison prochaine.",
+     "date": "2026-11-27T15:07:00+01:00",
+     "source": "",
+     "image": "https://medias.lequipe.fr/img-photo-jpg/laura-schneider-sera-brestoise-la-saison-prochaine-a-mounic-l-equipe/1500000002661288/0:0,2000:1333-828-552-75/4885b.jpg"
+    },
+    {
+     "titre": "Une baguette, trop de magiciens ? Embouteillage à la mène",
+     "lien": "https://www.lequipe.fr/Basket/Article/Francisco-strazel-maledon-ntilikina-traore-embouteillage-au-poste-de-meneur-un-nouveau-casse-tete-pour-le-staff-des-bleus/1746476#at_medium=RSS_feeds",
+     "resume": "",
+     "date": "2026-11-27T15:02:00+01:00",
+     "source": "",
+     "image": "https://medias.lequipe.fr/img-photo-png/-/1500000000833469/0-828-552-75/0cb67.png"
+    },
+    {
+     "titre": "Martin Nyenget et les Norvégiens dominateurs sur le 10 km d'ouverture à Ruka",
+     "lien": "https://www.lequipe.fr/Ski-de-fond/Actualites/Martin-nyenget-et-les-norvegiens-dominateurs-sur-le-10-km-d-ouverture-a-ruka/1746616#at_medium=RSS_feeds",
+     "resume": "Le Norvégien Martin Nyenget a remporté, ce vendredi, le 10 km classique d'ouverture de la Coupe du monde à Ruka (Finlande). Il devance cinq de ses compatriotes dont Johannes Klaebo (3e). En revanche, la journée a été compliquée pour Mathis Desloges, très…",
+     "date": "2026-11-27T14:59:02+01:00",
+     "source": "",
+     "image": "https://medias.lequipe.fr/img-photo-png/-/1500000000833469/0-828-552-75/0cb67.png"
+    }
+   ],
+   "flux_utilise": "https://dwh.lequipe.fr/api/edito/rss?path=/"
+  }
+ ],
+ "sections": [
+  {
+   "id": "monde",
+   "titre": "Actualité principale",
+   "sous_titre": "Les informations les plus importantes, partout dans le monde",
+   "items": [
+    {
+     "titre": "Après le naufrage d’un pétrolier-chimiquier au large d’Ibiza, course contre la montre en Espagne pour éviter une marée noire",
+     "lien": "https://www.lemonde.fr/planete/article/2026/11/27/apres-le-naufrage-d-un-petrolier-chimiquier-au-large-d-ibiza-course-contre-la-montre-en-espagne-pour-eviter-une-maree-noire_6815870_3244.html",
+     "resume": "Le navire « Med Emre », battant pavillon maltais et qui transportait 7 000 tonnes de gazole, s’est retourné près des Baléares, dans la nuit de mercredi à jeudi. Une inspection de la coque et de la partie immergée du bateau devait être réalisée vendredi.…",
+     "date": "2026-11-27T15:04:59+01:00",
+     "source": "lemonde.fr",
+     "image": "https://img.lemde.fr/2026/11/27/368/0/4032/2016/644/322/60/0/a51e310_ftp-1-16hou3nyskob-afp-d8tn7nq.jpg",
+     "reprises": 3,
+     "score": 15.5
+    },
+    {
+     "titre": "Guerre en Ukraine : pour arrêter la boucherie, il faut désigner le boucher",
+     "lien": "https://www.lemonde.fr/idees/article/2026/11/27/guerre-en-ukraine-pour-arreter-la-boucherie-il-faut-designer-le-boucher_6815842_3232.html",
+     "resume": "Alors que le maître du Kremlin impose à la Russie des pertes humaines colossales dans sa guerre d’agression contre l’Ukraine, il faut cesser d’accueillir le criminel de guerre Vladimir Poutine, placé sous mandat d’arrêt de la CPI, et le reconnaître comme…",
+     "date": "2026-11-27T11:30:20+01:00",
+     "source": "lemonde.fr",
+     "image": "https://img.lemde.fr/2026/11/23/313/0/3764/1882/644/322/60/0/e90615e_ftp-1-vihxbykrfx05-afp-d8cf6wq.jpg",
+     "reprises": 4,
+     "score": 7.09
+    },
+    {
+     "titre": "Les conflits et les phénomènes climatiques extrêmes aggravent la faim dans le monde, alertent les agences alimentaires de l'ONU",
+     "lien": "https://www.franceinfo.fr/monde/afrique/societe-africaine/famine/les-conflits-et-les-phenomenes-climatiques-extremes-aggravent-la-faim-dans-le-monde-alertent-les-agences-alimentaires-de-l-onu_8302731.html#xtor=RSS-3-%5Bmonde%5D",
+     "resume": "Le Soudan, le Soudan du Sud, la Somalie, le nord du Nigeria et le Yémen sont désignés comme les zones les plus à risque.",
+     "date": "2026-11-27T12:01:40+01:00",
+     "source": "franceinfo.fr",
+     "image": "https://www.franceinfo.fr/pictures/GNgsxSBD56stduMEe7x2qm_aUxA/0x300:5760x3540/432x243/filters:format(jpg)/2026/11/27/6b095562d6f6f090605485.jpg",
+     "reprises": 3,
+     "score": 5.88
+    },
+    {
+     "titre": "Le Costa Rica refoule la rapporteure pour les Palestiniens, l'ONU appelle à reconsidérer",
+     "lien": "https://www.rfi.fr/fr/monde/20261127-le-costa-rica-refoule-la-rapporteure-pour-les-palestiniens-l-onu-appelle-%C3%A0-reconsid%C3%A9rer",
+     "resume": "La rapporteure spéciale de l'ONU sur la situation des droits humains dans les territoires palestiniens occupés, Francesca Albanese, a été refoulée du Costa Rica, jeudi 26 novembre, les services d'immigration du pays justifiant cette décision par une « alerte…",
+     "date": "2026-11-27T14:44:15+01:00",
+     "source": "© AP/Tatan Syuflana",
+     "image": "https://s.rfi.fr/media/display/1b759b2e-ea5e-11f1-91d7-81bc2b1dcd65/w:1024/p:16x9/AP26295155781990.jpg",
+     "reprises": 3,
+     "score": 5.0
+    },
+    {
+     "titre": "MotoGP : par 'peur d'une blessure' grave, l'octuple champion du monde Marquez prend sa retraite",
+     "lien": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxPZE9sZjVIYkhpX0dFS1dlOHl5ZURYS0o1VkVkS3hmQkhCaFRfX2VrLVVncDAtdFlTRHM2dUZOVl9KSEU2enBSNXdXeHR3d1VUYVRPTm9qUWxXZVRmNmdNeXNlQnlQN0ZJbGJCUUtTaFhQNFVXQVNPX2JaU1VBNFlIVGwwdlVPRlpRUXdqRXRBMC1NRHZyR1pwcE5mVWp3aFcwS2JOMnRoa2x6ZGJtMC1mQWdkSGQ1VWhGX3Y0ZG0tZDZzSzBINnZBSWMxUU5pSFItelFSOHdsZVNXNXc?oc=5",
+     "resume": "",
+     "date": "2026-11-27T13:59:04+01:00",
+     "source": "tv5monde",
+     "image": null,
+     "reprises": 3,
+     "score": 4.99
+    },
+    {
+     "titre": "En Guinée-Bissau, la junte au pouvoir reporte à novembre 2028 les élections présidentielle et législatives",
+     "lien": "https://www.lemonde.fr/afrique/article/2026/11/27/en-guinee-bissau-la-junte-au-pouvoir-reporte-a-novembre-2028-les-elections-presidentielle-et-legislatives_6815851_3212.html",
+     "resume": "Cette décision prolonge de deux ans la transition menée par les militaires en Guinée-Bissau, dont le terme était prévu pour le 6 décembre prochain.",
+     "date": "2026-11-27T12:06:26+01:00",
+     "source": "lemonde.fr",
+     "image": "https://img.lemde.fr/2026/11/25/350/0/4200/2100/644/322/60/0/35d8112_ftp-1-2l1xvsisbjrj-afp-d8kr4kg.jpg",
+     "reprises": 3,
+     "score": 4.86
+    }
+   ],
+   "a_traduire": [
+    {
+     "titre": "Heatwaves, floods, fires and rain: weekend of weather extremes expected across Australia · EIA",
+     "lien": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPazY1YWVad2UtQ2g1cFBaSjVJOEdaTldaNnFFdm5QSFlvakxzSnJROHlfT1ZtaWh5dVg0WEprOXMwSWFEMXJCZ1BUSzVxclpRci00QVBlTFdUUmdEcTlUYjh5NEZYYkI3X0k1SHRxZGtWNDl3UGowcEVlc3pDSTVscHRva3FEMTB6dGpvRDRHRFVkM29LYkpDOHhFdzdIbDV5YnBrVHkyR2ZiX1pHWHJZZXlmSG9HZw?oc=5",
+     "resume": "",
+     "date": "2026-11-27T04:14:10+01:00",
+     "source": "eia.media",
+     "image": null,
+     "reprises": 1,
+     "score": 1.42
+    }
+   ]
+  },
+  {
+   "id": "ia",
+   "titre": "Intelligence artificielle",
+   "sous_titre": "Modèles, entreprises, régulation, recherche",
+   "items": [
+    {
+     "titre": "« On a fait une erreur de facturation » : OpenAI corrige le tir, et vos quotas GPT-6.2 vont fondre jusqu'à 40 % plus vite",
+     "lien": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxNNGtUd0RjSk1WOEd0WkxhQ0V3eS1UeWRhQzdya2U2bEFCQURiZG05YjFSWnhuNDMtUWpRckZMRVc0UUVqeDNZVEhyZkFIZTdnejZPRE1zUnN3WDVBeXB4YWpwcjRnV1YxOW53WkdBVzdJbGFMajctVEt3Z3VMakliY2RndXhuTm44Nl9VdHlSLUVJQjhVN0JkMjQ1M2hXM3BqTUZSVmlaY0Z5R2w5R21Pc0FRNEhnNGZnTXpnQnF5UkRsQTVOcFg0R3JxUm1VWVR5c0ZIeGpMSDI4NkplbWF4OGt5U2VUdlFtdWc?oc=5",
+     "resume": "Pendant une semaine, les nouveaux modèles d'OpenAI ont semblé étonnamment généreux. C'était une erreur. En la corrigeant, l'entreprise fait fondre les quotas de ses abonnés jusqu'à 40 % plus vite, deux jours après avoir annoncé un quota unique pour ChatGPT…",
+     "date": "2026-11-26T15:47:30+01:00",
+     "source": "Numerama",
+     "image": null,
+     "reprises": 5,
+     "score": 9.87
+    },
+    {
+     "titre": "Intelligence artificielle : quand les salariés se mettent à parler comme des robots pour satisfaire leur employeur",
+     "lien": "https://news.google.com/rss/articles/CBMijgJBVV95cUxNakh6THZTZjItUkw4eUFjTkhGTGZTMVB2amM4bUNZUnhWOFVrbUNOUTd3eVhaM3l0TU8tNDNLRWE4R0g1MnJicmxjX1BkTUVoV0NxZVlSSG5wbWxuczRWVDdzTjJJa3Z2dldwUzRZeVlCc09FOF9Dak5sMk9MSEViLVRrUzliWlduQzVxZGJta0g4Zkh4YU1qSFo0RWhSck1aYWdGa2NWVURQNGNGQmFqNktjZ1JBT2piY0xDVnBiakhJOEZJMVVDQWU2WFBFVGRDbzRzLVVUazNyYV9XZ0RtTHFKZHU4UkJzX3g2Q05mMVBoNTdCdGs5NEZoMEFjZGRBRUVJdVNVWFNvSTk0N3c?oc=5",
+     "resume": "",
+     "date": "2026-11-27T08:01:30+01:00",
+     "source": "Franceinfo",
+     "image": null,
+     "reprises": 4,
+     "score": 7.55
+    },
+    {
+     "titre": "Intelligence artificielle : Comment certains pays apprennent l'éthique à l'IA",
+     "lien": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPckM0Y2QxcVhfcVpwVHE3SF9zNWgyWDAwSFYxQ3l1T3RRMkhyY2tHbU1zWjlib3hxbFRQZk8zNFJYcFd1azc4elJxc3RlTGprWGFtbWptRnFsYnhGZDRaLThlbDdlNzJGR3lOcDhVR0pjSGVCMmVneGtfWDJDMy1KejFWME9Ccjh6UEJwTmdkX2p2T19VR1ByZFoyem41eWg1TEt4ZmZsWVFjV211?oc=5",
+     "resume": "",
+     "date": "2026-11-27T11:59:00+01:00",
+     "source": "Le Canard enchaîné",
+     "image": null,
+     "reprises": 3,
+     "score": 5.07
+    },
+    {
+     "titre": "Selon le Nikkei, la société japonaise JERA entame des négociations avec Anthropic et Meta en vue de la constru",
+     "lien": "https://news.google.com/rss/articles/CBMivwJBVV95cUxPVXFlcDVQZ2htVkNvbVltVWgteGVNa1JsRUUtdDdUb0RvNEQtRHNWX3dxX1JGbDBrVzlzVXowZ1NzTU5leXZyekl6R0wzMk12VDdtN1NoQ1hhNnM1eXltdi10VlNWdDVmazdBSVlRQ0JmMVEzRGZxQk80WGg2OF9CbzltWWlCT3M0OHVfY2ljR0VMN25COEtiYzFvRE5FOVNhRVhrOWlDX1hLMDVuUHdWSDlnQW8tdGhsbjAyTjJFOGF5dmlFSzRjcW5fbUJCbkVEUGhNWGE1MU9GeW05aEdEdlpkRHdFcXVDLVJOOHJCSXA4LU5iREE2azlmUDNrbEVtbGl0REYwcG9HeExXUTJ0QVJUZ3ZXS0hYeEdjZzI3Y255ZjN1Qm9ZTE1oTTFNUmRwRGlEbE5BaEdkVnJPdUpF0gG_AkFVX3lxTE9VcWVwNVBnaG1WQ29tWW1VaC14ZU1rUmxFRS10N1RvRG80RC1Ec1Zfd3FfUkZsMGtXOXNVejBnU3NNTmV5dnJ6SXpHTDMyTXZUN203U2hDWGE2czV5eW12LXRWU1Z0NWZrN0FJWVFDQmYxUTNEZnFCTzRYaDY4X0JvOW1ZaUJPczQ4dV9jaWNHRUw3bkI4S2JjMW9ETkU5U2FFWGs5aUNfWEswNW5Qd1ZIOWdBby10aGxuMDJOMkU4YXl2aUVLNGNxbl9tQkJuRURQaE1YYTUxT0Z5bTloR0R2WmREd0VxdUMtUk44ckJJcDgtTmJEQTZrOWZQM2tsRW1saXRERjBwb0d4TFdRMnRBUlRndldLSFh4R2NnMjdjbnlmM3VCb1lMTWhNMU1SZHBEaURsTkFoR2RWck91SkU?oc=5",
+     "resume": "",
+     "date": "2026-11-26T23:45:35+01:00",
+     "source": "Boursorama",
+     "image": null,
+     "reprises": 3,
+     "score": 4.48
+    },
+    {
+     "titre": "Allemagne : près de 100 projets de centres de données pour l’IA, dont un nouveau site à Leipzig",
+     "lien": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQRUxvQU5jc0VwT0Q1RkpqV0ZhYUwxdnl0QkZXSG9vVWpUUWdsRE42QXc4Y0RKQkR4c1hBdG01anV1RkVPRjIzdkdJZTUzeGtXLU1CRzhEMEVkdW81QTNMZ0RQczQ0d3V1WmMxUzZIbXJHMDdSb2pOYmlpZGQxVG95NDUxZV94MW83UGZNb1hnT0YtVHVzOWFhdEhvNGJGd3ZrZkdDcXFDeG1aQmVMcUFXMjhaeldRVWs4ZWJ4RWpSNmJjVGs?oc=5",
+     "resume": "",
+     "date": "2026-11-27T12:46:37+01:00",
+     "source": "Euronews.com",
+     "image": null,
+     "reprises": 2,
+     "score": 4.2
+    }
+   ],
+   "a_traduire": []
+  },
+  {
+   "id": "droit",
+   "titre": "Actualité juridique",
+   "sous_titre": "Libertés fondamentales, grandes juridictions, culture juridique pour le CRFPA",
+   "items": [
+    {
+     "titre": "La Cour européenne des droits de l’homme juge que les Etats peuvent refouler les migrants en cas d’instrumentalisation par un Etat tiers",
+     "lien": "https://news.google.com/rss/articles/CBMitAJBVV95cUxQWGpyeTJrWkxLS3VEeTIzc2pfZF96OGJPOHNQOTZVclpveDFtUmZFMm5pYmtJY1M4ck9MRnp4MVdOLWVTczBFMy1ZZEFRWElaaVNEaW9oenNvR2xHVTJsU1Q5T1ZOMFdISzU1ekprc0l3SkpEQ2xFZzQ0SFNlNnIzdXpjb3hfLWpqT1JDYTZxVkdxbjdBZ3NnU1pvMGNYQ1Y4QkxWUXF1QWNUaUk1TThjZEluM2ZDY0t3bDlMQWx4czBfX1FyZUszZm5RSDlJdDM2RDVwczdGaTlNbENMOHNWZWFmc0xlaU5hRFJnc0tDZW9vRFFfNXVFbkJxUjd0b2dheUlrbTU5d1pnTFJKbGlNLUw3UkFIWVRvOFJKVGNqU1cxeXBWS2d2cTdva2FscmJ0U1dOdw?oc=5",
+     "resume": "",
+     "date": "2026-11-24T19:26:48+01:00",
+     "source": "Le Monde.fr",
+     "image": null,
+     "reprises": 15,
+     "score": 25.79,
+     "libertes": false
+    },
+    {
+     "titre": "Analyses du Conseil d’État du 1er au 15 novembre 2026",
+     "lien": "https://news.google.com/rss/articles/CBMilgJBVV95cUxNV3VrVlZfY2lZelpFaDBmUnltamJCQURfQ0lXVVYyd2Y0Y0ZzTjRnUHVJUHJ1cjF5blhwai0yakQyT1JMWFJIWXdsMlNfQ1JDSEtXcVRBZWRCZUtTY1FXbnc1eHJWRGxTbXk2RTNycVpmUjRrTFdIN0NEUUhuazNtSFRHMGs5cTQ0eUFFSFlGZlJUaEZwclMyam1vRVpKODJsUlFfcWVhX1daUjBXSGd0MFA5dWVpLV9tTE5yZ2xCRG1hV2tDdEQ0NmsxVHlDMnIzN3M3X3BIWDBOOHhpaWJsRDdRc2pBNGtBamFlMUtjUS1PeHQ4b2JfYUI2RG1jaDBGUmxTeUg4T2pIbm96bXp3Z0xKZThZZw?oc=5",
+     "resume": "",
+     "date": "2026-11-24T17:16:17+01:00",
+     "source": "Conseil d'État",
+     "image": null,
+     "reprises": 11,
+     "score": 20.5,
+     "libertes": false
+    },
+    {
+     "titre": "Aidez-moi à faire avancer ce combat : Soutenons Pierre Perret et la liberté d'expression",
+     "lien": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQN2xQaHUteVJVOHpPS0VnRk1ia0staXRwU3ZVTDBUajdPVGRfY216dVBzbENaeTRZWEg3YUxKODR0T056RVR1bkM0T3NoREV2ZzZ6QnVLS3NLRW13OGZYUDRLY1FZd0RyR095eGpwTm1lZWxpMzQ5UG10Z0RXdnhqamVFLVdOZWRySTNLa2JRVDZZLU9FSV9fd3Z3WGJOWERReWpxd0p4MEFaUQ?oc=5",
+     "resume": "",
+     "date": "2026-11-26T13:09:03+01:00",
+     "source": "MyPetition.org",
+     "image": null,
+     "reprises": 2,
+     "score": 4.24,
+     "libertes": true
+    },
+    {
+     "titre": "Charlie Hebdo, la liberté d’expression et nous",
+     "lien": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQYm9jaFZtdU1Pa3F5ckthX0pwNDg1R0V6QW02Y1hmUGxhOUJ5bjR1WTFEOFRFWjlIWF9ibDJkZmNoR1E2MDRtZW13WElTczd1SE5YME10a29aYWp1VzhFM0lzX2Mta2k4WlBzWEZpbC1wVGNsV19mclpoM19DTTFFTUdoZmFvUjBaRXFBRkVPRTNPLVVIWGFxVFppU28?oc=5",
+     "resume": "",
+     "date": "2026-11-26T13:08:51+01:00",
+     "source": "Finance et Investissement",
+     "image": null,
+     "reprises": 2,
+     "score": 3.26,
+     "libertes": true
+    },
+    {
+     "titre": "Assurance auto : Le Conseil d’État tranche sur le statut du BCF",
+     "lien": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOUDhTY24yM1R0THZCUDdHaDBoNm9LUlRIckRsYTNiaDRXcWV3S1F0QzAtOS1UMEpQVENhVEU3VkVCV0NuRlRGTWM0TU9XUFY2NlM1cHRoRmVZRk5zcjNxTmZHUzk4d0p5dlBwR0lILU11RXRtNDlhUGRLbUZxQzdkRjJVaXU5Q2N6ajFJdVhlQ0FrMG9aaUxNdkhrOGJTekl5eWVoeDN1RkQ1QQ?oc=5",
+     "resume": "",
+     "date": "2026-11-27T10:14:00+01:00",
+     "source": "News Assurances Pro",
+     "image": null,
+     "reprises": 1,
+     "score": 1.56,
+     "libertes": false
+    },
+    {
+     "titre": "Devoir de conseil : la Cour de cassation tranche sur la responsabilité du courtier",
+     "lien": "https://news.google.com/rss/articles/CBMingJBVV95cUxPSXVDZlhMd3gwVjZBajdjZ0FQcXMya1JQellrckRnYjBTck45UUpJb3ExZ3Y5YWFJVmFpR0J5VTVDMmJLcy1PUzF1VnM2ZVltU3NEblJZeERvdUdpcXVueU8ya3FJbjZjcUhLNDZNX3RzRFFZRDFQVjc0NDNha1lFZmNwVUdJVG5OX05nV3NyUDJpN3loQWVlTWx5SW9pTzVCNUROTzVfZklzTE9iUjNRNmpPdnRMc0Rmb3JjY0xEUlNndFFBeDRuM2phNFpoT01yQ2R1b3RDUHBUVXpqWmN1dTFtaFVFTVRkeWlNX0lFa2tUdnVkTlkwWDhvWW5kR0dzWnM0R0xMZjFnWVk1Mm4yblRteUlsWHhmay1zUjV3?oc=5",
+     "resume": "",
+     "date": "2026-11-27T09:21:48+01:00",
+     "source": "L'Argus de l'assurance",
+     "image": null,
+     "reprises": 1,
+     "score": 1.55,
+     "libertes": false
+    }
+   ],
+   "a_traduire": []
+  }
+ ]
+}
