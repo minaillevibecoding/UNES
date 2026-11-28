@@ -1,6 +1,6 @@
 {
  "date": "2026-11-28",
- "genere": "2026-11-28T14:34+01:00",
+ "genere": "2026-11-28T16:26+01:00",
  "journaux": [
   {
    "id": "figaro",
@@ -13,28 +13,20 @@
    },
    "articles": [
     {
-     "titre": "Un scénario à la grecque avec la dette française ? Le vice-président de la BCE n’y croit pas",
-     "lien": "https://www.lefigaro.fr/conjoncture/un-scenario-a-la-grecque-avec-la-dette-francaise-le-vice-president-de-la-bce-n-y-croit-pas-20261128",
-     "resume": "La crise grecque en 2010 avait valu au pays une politique d’austérité drastique après plusieurs prêts internationaux.",
-     "date": "2026-11-28T13:27:54+01:00",
+     "titre": "Manifestations contre le «Canon français» à Biarritz : au moins 8 policiers blessés, dont un par arme blanche",
+     "lien": "https://www.lefigaro.fr/faits-divers/banquet-du-canon-francais-a-biarritz-au-moins-8-policiers-blesses-dont-un-par-arme-blanche-20261128",
+     "resume": "Les forces de l’ordre ont fait usage de lacrymogènes ce samedi à l’encontre des opposants au banquet, dont certains, masqués et cagoulés, ont riposté avec des tirs tendus de mortiers d’artifice.",
+     "date": "2026-11-28T15:33:02+01:00",
      "source": "",
-     "image": "https://i.f1g.fr/media/cms/orig/2026/11/28/e26853d403921aa19431ab9eba953bf5441fcc0720d0862cb3c7893087bcbc81.JPG"
+     "image": "https://i.f1g.fr/media/cms/orig/2026/11/28/4059364af69621c4e31b20d8a879ff09b3d3eed4a1ef842e9f8efb37c9ec3c53.JPG"
     },
     {
-     "titre": "«C’est un avertissement», réagit Roland Lescure à la perspective négative de S&P sur la dette française",
-     "lien": "https://www.lefigaro.fr/conjoncture/c-est-un-avertissement-reagit-roland-lescure-a-la-perspective-negative-de-s-p-sur-la-dette-francaise-20261128",
-     "resume": "Le ministre de l’Économie a de nouveau pressé le Parlement d’adopter un budget qui «redresse la barre» des finances publiques.",
-     "date": "2026-11-28T11:52:06+01:00",
+     "titre": "Des antifas attaquent des participants à un banquet du «Canon français» à Biarritz",
+     "lien": "https://www.lefigaro.fr/actualite-france/des-antifas-attaquent-des-participants-a-un-banquet-du-canon-francais-a-biarritz-20261128",
+     "resume": "Un «rempart humain» a été créé pour empêcher les 1 500 convives de se rendre à leur déjeuner. La police a dû faire usage de la force.",
+     "date": "2026-11-28T12:57:01+01:00",
      "source": "",
-     "image": "https://i.f1g.fr/media/cms/orig/2026/11/28/4af4b8d66e6a9e6292d1bc46b6c7e27613ba9bf87e4a783447c8a878e4ef0054.JPG"
-    },
-    {
-     "titre": "Dette : Standard & Poor’s abaisse la perspective de la note française à «négative»",
-     "lien": "https://www.lefigaro.fr/conjoncture/dette-standard-poor-s-abaisse-la-perspective-de-la-note-francaise-a-negative-20261127",
-     "resume": "Tout en maintenant la note en A+, l’agence américaine signifie ainsi que l’état de nos finances publiques s’est significativement dégradé.",
-     "date": "2026-11-27T22:26:10+01:00",
-     "source": "",
-     "image": "https://i.f1g.fr/media/cms/orig/2026/11/27/0929f32faa4c926099086b007e5fc61f7d7c4ca7d62486f080a6cac49d5cdfc7.JPG"
+     "image": "https://i.f1g.fr/media/cms/orig/2026/11/28/97c6b90582ee9fa1be28e7171eff105f75999603e56f2925a373bbbcf9de4a82.jpg"
     },
     {
      "titre": "« Le deuxième parti de France, derrière le RN » : dans les coulisses du QG de campagne de David Lisnard",
@@ -59,6 +51,14 @@
      "date": "2026-11-27T12:58:43+01:00",
      "source": "",
      "image": "https://i.f1g.fr/media/cms/2143x1206_crop/2026/11/26/14791475fe8e80fc6efd51c3daf0e5ca423ff88e57a2fc83d9865e8e4bc01311.jpg"
+    },
+    {
+     "titre": "«Nous appelons à organiser un raz-de-marée féministe» : nouvelle journée de mobilisation samedi contre les violences faites aux femmes",
+     "lien": "https://www.lefigaro.fr/flash-actu/nous-appelons-a-organiser-un-raz-de-maree-feministe-nouvelle-journee-de-mobilisation-samedi-contre-les-violences-faites-aux-femmes-20261128",
+     "resume": "Ces manifestations s’inscrivent dans le contexte brûlant des manifestations à répétition dans le pays depuis la fin septembre, d’une part pour réclamer des moyens pour les lycées et les universités et de l’autre pour défendre le pouvoir d’achat et les…",
+     "date": "2026-11-28T14:26:25+01:00",
+     "source": "",
+     "image": "https://i.f1g.fr/media/cms/orig/2026/11/28/3b1df1c31ea8e151a999c61ab3fa0c144a3d1aafee1d6dacc797452ee7af74d2.JPG"
     }
    ],
    "flux_utilise": "https://www.lefigaro.fr/rss/figaro_actualites.xml"
@@ -74,12 +74,12 @@
    },
    "articles": [
     {
-     "titre": "La vie brisée des victimes de balles perdues, drame collatéral des fusillades du narcotrafic",
-     "lien": "https://www.lemonde.fr/societe/article/2026/11/28/derriere-les-morts-en-cascade-et-les-blesses-graves-la-balle-perdue-repand-son-parfum-de-suspicion_6816068_3224.html",
-     "resume": "La multiplication de fusillades et l’emploi d’armes de guerre, souvent liés au narcotrafic, ont conduit à une hausse des victimes indirectes de tirs d’armes à feu. Celles qui survivent voient leur existence bouleversée par des séquelles physiques et…",
-     "date": "2026-11-28T06:00:20+01:00",
+     "titre": "Fuites de Beauvau vers le RN : Ambroise de Rancourt, le missi dominici de Marine Le Pen auprès des grands patrons et de la haute fonction publique",
+     "lien": "https://www.lemonde.fr/politique/article/2026/11/28/fuites-de-beauvau-vers-le-rn-ambroise-de-rancourt-le-missi-dominici-de-marine-le-pen-aupres-des-grands-patrons-et-de-la-haute-fonction-publique_6816116_823448.html",
+     "resume": "Les échanges de l’énarque de 39 ans, mélenchoniste déçu, avec l’ex-préfet du Loiret Hugues Moutouh ont provoqué la perquisition de son domicile et de son bureau, d’où il coordonne le programme présidentiel de la candidate RN.",
+     "date": "2026-11-28T15:52:22+01:00",
      "source": "",
-     "image": "https://img.lemde.fr/2026/10/03/875/0/5049/2524/644/322/60/0/a3b79ae_upload-1-w48ghk4ekp5t-balle-perdue-def.jpg"
+     "image": "https://img.lemde.fr/2026/11/28/0/141/3456/1728/644/322/60/0/46f15fe_ftp-1-vx8vmd9o7epg-afp-d8vx7we.jpg"
     },
     {
      "titre": "Guerre en Ukraine : Kiev assume l’extension du conflit sur de nouveaux fronts",
@@ -98,28 +98,28 @@
      "image": "https://img.lemde.fr/2026/11/27/467/0/3733/1866/644/322/60/0/9f8d9fc_upload-1-vvod0c2tx5xn-lewisjoly-lemonde-riner-27-11-039.JPG"
     },
     {
-     "titre": "Les militants des quartiers populaires veulent compter dans le jeu politique face à LFI et préparer « l’après-Mélenchon »",
-     "lien": "https://www.lemonde.fr/politique/article/2026/11/28/les-militants-des-quartiers-populaires-veulent-compter-dans-le-jeu-politique-face-a-lfi-et-preparer-l-apres-melenchon_6816089_823448.html",
-     "resume": "Des militants antiracistes, réunis en une Assemblée des quartiers, disent en avoir assez d’être utilisés pour « coller les affiches » et veulent désormais peser dans le rapport de force politique, notamment en vue des élections législatives qui devraient se…",
-     "date": "2026-11-28T10:00:02+01:00",
+     "titre": "La vie brisée des victimes de balles perdues, drame collatéral des fusillades du narcotrafic",
+     "lien": "https://www.lemonde.fr/societe/article/2026/11/28/derriere-les-morts-en-cascade-et-les-blesses-graves-la-balle-perdue-repand-son-parfum-de-suspicion_6816068_3224.html",
+     "resume": "La multiplication de fusillades et l’emploi d’armes de guerre, souvent liés au narcotrafic, ont conduit à une hausse des victimes indirectes de tirs d’armes à feu. Celles qui survivent voient leur existence bouleversée par des séquelles physiques et…",
+     "date": "2026-11-28T06:00:20+01:00",
      "source": "",
-     "image": "https://img.lemde.fr/2026/11/27/120/0/4256/2128/644/322/60/0/1ba6d3d_upload-1-ijqjxmlmll2g-afp-20200614-hl-kpierre-1158547-v1-highres-franceprotestagainstpolicebrutalityj.jpg"
+     "image": "https://img.lemde.fr/2026/10/03/875/0/5049/2524/644/322/60/0/a3b79ae_upload-1-w48ghk4ekp5t-balle-perdue-def.jpg"
     },
     {
-     "titre": "Partir ou rester en cas de victoire du RN à la présidentielle 2027, le dilemme des hauts fonctionnaires",
-     "lien": "https://www.lemonde.fr/politique/article/2026/11/28/partir-ou-rester-en-cas-de-victoire-du-rn-a-la-presidentielle-2027-le-dilemme-des-hauts-fonctionnaires_6816058_823448.html",
-     "resume": "Jusqu’où rester fidèle à ses valeurs et convictions sans manquer à son devoir de loyauté, ni compromettre sa carrière ? A près de cinq mois de l’élection présidentielle, nombreux sont les cadres de l’Etat à s’interroger sur l’attitude qu’ils adopteront dans…",
-     "date": "2026-11-28T05:00:17+01:00",
+     "titre": "Dans le Pacifique Sud, un « super El Niño » menace de battre tous les records et provoque une sécheresse exceptionnelle",
+     "lien": "https://www.lemonde.fr/planete/article/2026/11/28/dans-le-pacifique-sud-un-super-el-nino-menace-de-battre-tous-les-records-et-provoque-une-secheresse-exceptionnelle_6816106_3244.html",
+     "resume": "Les Fidji et les Tonga ont pris, les 18 et 19 novembre, des mesures d’urgence face aux pénuries d’eau. Dans le nord-ouest de la Nouvelle-Calédonie, des restrictions d’usage sont en vigueur depuis octobre. Le déficit pluviométrique devrait persister dans la…",
+     "date": "2026-11-28T14:00:09+01:00",
      "source": "",
-     "image": "https://img.lemde.fr/2026/11/27/578/0/5398/2699/644/322/60/0/0b6f9ef_upload-1-zi131l5jmelo-cbi1320046.jpg"
+     "image": "https://img.lemde.fr/2026/11/27/126/0/4032/2016/644/322/60/0/f9ab927_upload-1-nkf94kdwcrfm-xnaphotosthree204884.jpg"
     },
     {
-     "titre": "A La Villette, le concert « 11 000 cordes » embarque dans une expérience cosmique : « Tout le monde est libre de ressentir ce qu’il veut »",
-     "lien": "https://www.lemonde.fr/culture/article/2026/11/28/a-la-villette-le-concert-11-000-cordes-embarque-dans-une-experience-cosmique-tout-le-monde-est-libre-de-ressentir-ce-qu-il-veut_6816075_3246.html",
-     "resume": "L’œuvre du compositeur Georg Friedrich Haas, qui réunit 50 pianos, chacun accordé un cinquantième de demi-ton plus haut que le précédent, accompagnés de 25 instrumentistes, fait l’objet de cinq « concerts performances » à Paris.",
-     "date": "2026-11-28T07:00:04+01:00",
+     "titre": "A Tokyo, la grand-messe des fous de Polo Ralph Lauren",
+     "lien": "https://www.lemonde.fr/m-styles/article/2026/11/28/a-tokyo-la-grand-messe-des-fous-de-polo-ralph-lauren_6816073_4497319.html",
+     "resume": "La ligne du créateur américain Ralph Lauren, fondée en 1967, fait l’objet d’un véritable culte, de Brooklyn à Tokyo, où elle est collectionnée par des passionnés de pièces vintage. La capitale nipponne vient d’accueillir le premier PoloFest, rassemblement…",
+     "date": "2026-11-28T07:00:06+01:00",
      "source": "",
-     "image": "https://img.lemde.fr/2026/11/27/1448/0/4000/2000/644/322/60/0/e14e0b3_upload-1-nbgk60iemcei-photos-hq-11000cordes-ps93-nov2026-18.jpg"
+     "image": "https://img.lemde.fr/2026/11/20/103/0/3649/1824/644/322/60/0/4b3e21c_upload-1-jcutydyogslr-793-polofest-010.jpg"
     }
    ],
    "flux_utilise": "https://www.lemonde.fr/rss/une.xml"
@@ -134,6 +134,14 @@
     "source": "https://img.kiosko.net/2026/11/28/fr/lacroix.750.jpg"
    },
    "articles": [
+    {
+     "titre": "Élections locales à Taïwan : le candidat pro chinois conserve la mairie de Taipei",
+     "lien": "https://www.la-croix.com/international/elections-locales-a-taiwan-le-candidat-pro-chinois-conserve-la-mairie-de-taipei-20261128",
+     "resume": "Les Taïwanais étaient appelés à renouveler leurs élus locaux samedi 28 novembre. Le parti du Kuomintang, favorable à des relations plus étroites avec Pékin, a remporté une victoire symbolique en conservant la mairie de la capitale.",
+     "date": "2026-11-28T16:09:50+01:00",
+     "source": "",
+     "image": "https://i.la-croix.com/x/2026/11/28/2601206-les-partisans-du-maire-de-taipei-chiang-wan-an-mem.jpg"
+    },
     {
      "titre": "« La Forteresse », de Pomme : un enchantement pop en forme de conte fantastique",
      "lien": "https://www.la-croix.com/culture/la-forteresse-de-pomme-un-enchantement-pop-en-forme-de-conte-fantastique-20261128",
@@ -173,14 +181,6 @@
      "date": "2026-11-28T11:57:50+01:00",
      "source": "",
      "image": "https://i.la-croix.com/x/2026/11/28/2598588-lors-de-l-ouverture-du-festival-de-cinema-seminci-.jpg"
-    },
-    {
-     "titre": "« Les laïcs aussi peuvent en commettre » : en Allemagne, une étude inédite sur les abus spirituels dans l’Église",
-     "lien": "https://www.la-croix.com/religion/les-laics-aussi-peuvent-en-commettre-en-allemagne-une-etude-inedite-sur-les-abus-spirituels-dans-l-eglise-20261127",
-     "resume": "Une étude intitulée « Le Pouvoir par le charisme », commandée par l’Église d’Allemagne et publiée en septembre 2026, analyse pour la première fois les ressorts des abus spirituels et formule des pistes pour en sortir. Entretien avec la théologienne et…",
-     "date": "2026-11-28T11:19:37+01:00",
-     "source": "",
-     "image": "https://i.la-croix.com/x/2026/11/28/2600548-une-etude-publiee-en-septembre-2026-s-est-interess.jpg"
     }
    ],
    "flux_utilise": "https://www.la-croix.com/feeds/rss/site.xml"
@@ -196,52 +196,52 @@
    },
    "articles": [
     {
-     "titre": "Plusieurs absents côté Monaco avant le déplacement sur la pelouse de l'OL en Ligue 1, situation floue autour de Paris Brunner",
-     "lien": "https://www.lequipe.fr/Football/Actualites/Plusieurs-absents-cote-monaco-avant-le-deplacement-sur-la-pelouse-de-l-ol-en-ligue-1-situation-floue-autour-de-paris-brunner/1746896#at_medium=RSS_feeds",
-     "resume": "Filipe Luis devra composer avec plusieurs absences alors que Monaco se déplace à Lyon ce dimanche dans le cadre de la 12e journée de Ligue 1 (20 h 45). L'entraîneur n'a pas su en dire beaucoup plus sur la santé de son attaquant Paris Brunner.",
-     "date": "2026-11-28T14:17:17+01:00",
+     "titre": "L'étape de Coupe du monde prévue au Canada annulée et déplacée en Ouzbékistan par la Fédération internationale",
+     "lien": "https://www.lequipe.fr/Escrime/Actualites/L-etape-de-coupe-du-monde-prevue-au-canada-annulee-et-deplacee-en-ouzbekistan-par-la-federation-internationale/1746925#at_medium=RSS_feeds",
+     "resume": "La Fédération internationale d'escrime (FIE) a choisi d'enlever au Canada sa manche de Coupe du monde, prévue du 3 au 6 décembre, en raison de sa position sur les athlètes russes et biélorusses. L'épreuve va au lieu de cela se tenir en Ouzbékistan aux mêmes…",
+     "date": "2026-11-28T16:16:16+01:00",
      "source": "",
-     "image": "https://medias.lequipe.fr/img-photo-jpg/la-situation-autour-de-l-etat-physique-de-paris-brunner-est-toujours-floue-c-mahoudeau-l-equipe/1500000002662090/0:0,2000:1333-828-552-75/1173a.jpg"
+     "image": "https://medias.lequipe.fr/img-photo-png/-/1500000000833469/0-828-552-75/0cb67.png"
     },
     {
-     "titre": "Bruno Genesio, avant Auxerre-OM : « On a envie de retrouver une dynamique positive »",
-     "lien": "https://www.lequipe.fr/Football/Actualites/Bruno-genesio-avant-auxerre-om-on-a-envie-de-retrouver-une-dynamique-positive/1746894#at_medium=RSS_feeds",
-     "resume": "Avant le déplacement de l'OM à Auxerre, dimanche (15 heures), l'entraîneur marseillais Bruno Genesio a insisté sur la nécessité de repartir de l'avant en Ligue 1, en s'appuyant sur la « maturité » entrevue jeudi sur le terrain face au Levski Sofia en Ligue…",
-     "date": "2026-11-28T14:13:55+01:00",
+     "titre": "Maxime Lucu, demi de mêlée des Bleus, avant la finale contre l'Afrique du Sud : « On sait qu'ils vont mettre beaucoup d'intensité, donc à nous de répondre »",
+     "lien": "https://www.lequipe.fr/Rugby/Actualites/Maxime-lucu-demi-de-melee-des-bleus-avant-la-finale-contre-l-afrique-du-sud-on-sait-qu-ils-vont-mettre-beaucoup-d-intensite-donc-a-nous-de-repondre/1746924#at_medium=RSS_feeds",
+     "resume": "Présent en conférence de presse ce samedi, le demi de mêlée des Bleus Maxime Lucu, remplaçant dimanche, s'attend à un match forcément très difficile contre l'Afrique du Sud dimanche (17 h 40) en finale du Championnat des nations, deux semaines après le…",
+     "date": "2026-11-28T16:10:35+01:00",
      "source": "",
-     "image": "https://medias.lequipe.fr/img-photo-jpg/bruno-genesio-veut-maintenir-le-cap-p-lahalle-l-equipe/1500000002662082/321:142,1427:880-828-552-75/27513.jpg"
+     "image": "https://medias.lequipe.fr/img-photo-jpg/maxime-lucu-a-l-entrainement-samedi-au-twickenham-stoop-a-mounic-l-equipe/1500000002662214/472:246,1959:1238-828-552-75/b1410.jpg"
     },
     {
-     "titre": "La France prend la 3e place du premier relais de la saison à Kontiolahti remporté par la Suède",
-     "lien": "https://www.lequipe.fr/Biathlon/Actualites/La-france-prend-la-3e-place-du-premier-relais-de-la-saison-a-kontiolahti-remporte-par-la-suede/1746892#at_medium=RSS_feeds",
-     "resume": "Le duo Ella Halvarsson - Sebastian Samuelsson a remporté ce samedi la première course par équipes de la saison sur le relais simple mixte à Kontiolahti. Les Suédois devancent l'Allemagne et la France.",
-     "date": "2026-11-28T13:55:55+01:00",
+     "titre": "Le relais mixte simple du Groenland, composé d'Ukaleq et Sondre Slettemark, a frôlé l'exploit à Kontiolahti",
+     "lien": "https://www.lequipe.fr/Biathlon/Actualites/Le-relais-mixte-simple-du-groenland-compose-d-ukaleq-et-sondre-slettemark-a-frole-l-exploit-a-kontiolahti/1746923#at_medium=RSS_feeds",
+     "resume": "Ce samedi, lors du relais mixte simple de Kontiolahti (Finlande), le relais du Groenland emmené par la fratrie Slettemark, a joué le podium jusqu'au bout (5es), passant proche d'un véritable exploit.",
+     "date": "2026-11-28T16:09:27+01:00",
      "source": "",
-     "image": "https://medias.lequipe.fr/img-photo-jpg/eric-perrot-k-voigt-mmnt-mmnt/1500000002662073/0:0,2000:1333-828-552-75/06f3d.jpg"
+     "image": "https://medias.lequipe.fr/img-photo-jpg/ukaleq-slettemark-cinquieme-du-relais-simple-mixte-de-kontiolahti-associee-a-son-frere-sondre-e-garnier-l-equipe/1500000002662212/0:0,2000:1333-828-552-75/a90f2.jpg"
     },
     {
-     "titre": "Ismaël et Matos, les novices ont du boulot",
-     "lien": "https://www.lequipe.fr/Football/Article/Les-nouveaux-entraineurs-du-havre-valerien-ismael-et-de-strasbourg-vitor-matos-ont-un-immense-chantier-devant-eux-en-ligue-1/1746669#at_medium=RSS_feeds",
+     "titre": "Avec Lorient et Vannes, le Morbihan fièrement représenté dans la capitale",
+     "lien": "https://www.lequipe.fr/Football/Article/Lorient-qui-defie-le-psg-en-ligue-1-vannes-qui-se-frotte-au-stade-francais-en-top-14-les-deux-clubs-du-morbihan-vont-vivre-un-samedi-anime-a-paris/1746758#at_medium=RSS_feeds",
      "resume": "",
-     "date": "2026-11-28T13:47:00+01:00",
+     "date": "2026-11-28T16:04:00+01:00",
      "source": "",
      "image": "https://medias.lequipe.fr/img-photo-png/-/1500000000833469/0-828-552-75/0cb67.png"
     },
     {
-     "titre": "Bruno Genesio sur les incidents lors d'OM-Levski Sofia : « Je condamne les violences comme les provocations inadmissibles »",
-     "lien": "https://www.lequipe.fr/Football/Actualites/Bruno-genesio-sur-les-incidents-lors-d-om-levski-sofia-je-condamne-les-violences-comme-les-provocations-inadmissibles/1746889#at_medium=RSS_feeds",
-     "resume": "Deux jours après les violences entre supporters qui ont marqué la réception du Levski Sofia en Ligue Europa (1-0, jeudi), l'entraîneur marseillais Bruno Genesio est revenu sur l'affaire qui expose son club à de lourdes sanctions.",
-     "date": "2026-11-28T13:39:54+01:00",
-     "source": "",
-     "image": "https://medias.lequipe.fr/img-photo-jpg/l-entraineur-de-l-om-bruno-genesio-e-garnier-l-equipe/1500000002662067/0:0,1998:1332-828-552-75/78716.jpg"
-    },
-    {
-     "titre": "Oskar Vike empêche Johannes Klaebo d'égaler le record de victoires en Coupe du monde sur le sprint de Ruka",
-     "lien": "https://www.lequipe.fr/Ski-de-fond/Actualites/Oskar-vike-empeche-johannes-klaebo-d-egaler-le-record-de-victoires-en-coupe-du-monde-sur-le-sprint-de-ruka/1746887#at_medium=RSS_feeds",
-     "resume": "Oskar Vike a fait tomber le maître Johannes Klaebo ce samedi sur le premier sprint de la saison à Ruka (Finlande). Le Norvégien a tout simplement été le plus fort dans la bosse finale pour s'imposer devant le patron du ski mondial, qui devra encore attendre…",
-     "date": "2026-11-28T13:35:50+01:00",
+     "titre": "Coupe du monde : Lisa Fettner s'impose à Hinzenbach, la Française Joséphine Pagnier 9e",
+     "lien": "https://www.lequipe.fr/Saut-a-skis/Actualites/Coupe-du-monde-lisa-fettner-s-impose-a-hinzenbach-la-francaise-josephine-pagnier-9e/1746916#at_medium=RSS_feeds",
+     "resume": "Le premier des deux concours du week-end à Hinzenbach (Autriche), théâtre de la 2e manche de Coupe du monde, a été remporté par l'Autrichienne Lisa Fettner, ce samedi à domicile. La Française Joséphine Pagnier a pris la 9e place.",
+     "date": "2026-11-28T15:58:00+01:00",
      "source": "",
      "image": "https://medias.lequipe.fr/img-photo-png/-/1500000000833469/0-828-552-75/0cb67.png"
+    },
+    {
+     "titre": "Le gardien de Rennes Brice Samba forfait à Toulouse et bientôt opéré ?",
+     "lien": "https://www.lequipe.fr/Football/Actualites/Le-gardien-de-rennes-brice-samba-forfait-a-toulouse-et-bientot-opere/1746915#at_medium=RSS_feeds",
+     "resume": "Encore victime de douleurs à une hanche jeudi soir à Nimègue (1-3) en Ligue Europa, le gardien rennais Brice Samba pourrait être forfait à Toulouse ce dimanche (17h15), et il serait même question d'une opération.",
+     "date": "2026-11-28T15:57:22+01:00",
+     "source": "",
+     "image": "https://medias.lequipe.fr/img-photo-jpg/brice-samba-face-a-lille-le-8-novembre-1-2-s-mantey-l-equipe/1500000002662202/0:0,2000:1333-828-552-75/35e1b.jpg"
     }
    ],
    "flux_utilise": "https://dwh.lequipe.fr/api/edito/rss?path=/"
@@ -254,34 +254,44 @@
    "sous_titre": "Les informations les plus importantes, partout dans le monde",
    "items": [
     {
-     "titre": "Gaza : l’armée israélienne tue deux employés de Médecins sans frontières, qu’elle qualifie de « terroristes »",
-     "lien": "https://www.lemonde.fr/international/article/2026/11/28/gaza-l-armee-israelienne-tue-deux-employes-de-medecins-sans-frontieres-qu-elle-qualifie-de-terroristes_6816022_3210.html",
-     "resume": "L’ONG s’est dite « bouleversée et révoltée par le meurtre » des deux gardiens travaillant dans une de ses cliniques bombardée par les forces armées israéliennes, qui les accusent d’être des membres du Hamas.",
-     "date": "2026-11-28T03:30:38+01:00",
-     "source": "lemonde.fr",
-     "image": "https://img.lemde.fr/2026/11/25/1028/0/8640/4320/644/322/60/0/6d78552_ftp-1-jiau9oh05yrs-11cf1a8f6d884238b0f622085b572d44-2-45ad089e5fb045fc9ca3a77cf5d744ef.jpg",
-     "reprises": 6,
-     "score": 12.17
-    },
-    {
-     "titre": "EN DIRECT, guerre en Ukraine : Vladimir Poutine, « grand maître de la politique » ? Les propos de Jared Kushner suscitent des critiques à Kiev et en Europe",
-     "lien": "https://www.lemonde.fr/international/live/2026/11/28/en-direct-guerre-en-ukraine-vladimir-poutine-grand-maitre-de-la-politique-les-propos-de-jared-kushner-suscitent-des-critiques-a-kiev-et-en-europe_6814183_3210.html",
-     "resume": "A Kiev, Oleksandr Merejko, président de la commission des affaires étrangères au Parlement ukrainien, a réclamé le remplacement de Jared Kushner et de Steve Witkoff, estimant qu’ils regardaient l’Ukraine « avec les yeux de Poutine ».",
-     "date": "2026-11-28T10:44:39+01:00",
-     "source": "lemonde.fr",
-     "image": "https://img.lemde.fr/2026/11/19/458/0/5500/2750/644/322/60/0/11ab2ca_ftp-1-wnfat1rewklm-37cbd358a4eb4838ade24f539f8b15f8-0-2840e7cb9448416fbe150e17b674dead.jpg",
-     "reprises": 2,
-     "score": 7.95
-    },
-    {
-     "titre": "Espagne : l'immigration au cœur des élections",
-     "lien": "https://www.france24.com/fr/vid%C3%A9o/20261128-espagne-l-immigration-au-c%C5%93ur-des-%C3%A9lections",
-     "resume": "L’immigration est au cœur de la campagne électorale en Espagne, où deux visions s’opposent. Le gouvernement de Pedro Sánchez défend notamment la régularisation exceptionnelle des migrants, mais est critiqué pour sa gestion de leur arrivée massive à Ceuta,…",
-     "date": "2026-11-28T11:02:09+01:00",
+     "titre": "Élections en Espagne : sous Sanchez, les salaires en hausse, les prix aussi",
+     "lien": "https://www.france24.com/fr/vid%C3%A9o/20261128-%C3%A9lections-en-espagne-sous-sanchez-les-salaires-en-hausse-les-prix-aussi",
+     "resume": "L'Espagne retient son souffle ce samedi 28 novembre, à la veille d'élections décisives dans lesquelles le socialiste Pedro Sanchez joue son maintien à la tête du gouvernement face à une droite donnée favorite et qui pourrait accéder au pouvoir avec le…",
+     "date": "2026-11-28T16:02:30+01:00",
      "source": "france24.com",
-     "image": "https://s.france24.com/media/display/421d7104-eb10-11f1-b5fc-f9cf020caef6/w:1024/p:16x9/FR-20261128-100433-100636-CS.jpg",
+     "image": "https://s.france24.com/media/display/3e85f6b2-eb36-11f1-9137-f9cf020caef6/w:1024/p:16x9/FR-20261128-120646-120956-CS.jpg",
+     "reprises": 5,
+     "score": 12.54
+    },
+    {
+     "titre": "Gaza : deux employés de MSF tués par une frappe israélienne",
+     "lien": "https://www.france24.com/fr/moyen-orient/20261128-gaza-deux-employ%C3%A9s-de-msf-tu%C3%A9s-par-une-frappe-isra%C3%A9lienne",
+     "resume": "L'organisation humanitaire Médecins ⁠sans frontières (MSF) a annoncé vendredi la mort de deux de ​ses employés, tués par une frappe israélienne devant une clinique à Gaza. Ces deux décès portent à 17 le nombre de ses employés tués par Israël dans l'enclave…",
+     "date": "2026-11-28T13:23:56+01:00",
+     "source": "© Omar Al-Qattaa, AFP",
+     "image": "https://s.france24.com/media/display/9e685032-ff8e-11f0-892f-005056a90284/w:1024/p:16x9/000-92C28KB.jpg",
+     "reprises": 5,
+     "score": 9.65
+    },
+    {
+     "titre": "Manifestations partout en France contre les violences faites aux femmes",
+     "lien": "https://www.france24.com/fr/vid%C3%A9o/20261128-manifestations-partout-en-france-contre-les-violences-faites-aux-femmes",
+     "resume": "Comme chaque année, le samedi qui suit la Journée internationale de lutte contre les violences faites aux femmes est un jour de mobilisation en France. À Paris, les organisations féministes vont défiler dans deux cortèges différents. L'une des manifestations…",
+     "date": "2026-11-28T16:22:28+01:00",
+     "source": "france24.com",
+     "image": "https://s.france24.com/media/display/c323805e-eb38-11f1-9808-f9cf020caef6/w:1024/p:16x9/FR-20261128-130131-131642-CS.jpg",
+     "reprises": 3,
+     "score": 8.26
+    },
+    {
+     "titre": "Élections à Taïwan : à Taipei, l'outsider anti-Pékin Puma Shen annonce sa défaite",
+     "lien": "https://www.france24.com/fr/asie-pacifique/20261127-%C3%A9lections-%C3%A0-ta%C3%AFwan-duel-serr%C3%A9-%C3%A0-taipei-entre-l-actuel-maire-et-l-outsider-anti-p%C3%A9kin-puma-shen",
+     "resume": "Les Taïwanais étaient appelés ⁠aux urnes ​samedi pour des élections municipales. Le duel était particulièrement scruté à Taipei, où l'actuel maire pro-Pékin semblait au coude-à-coude avec le candidat surprise Puma Shen, fervent critique de Pékin. Ce dernier…",
+     "date": "2026-11-27T21:19:27+01:00",
+     "source": "© Ann Wang, Reuters",
+     "image": "https://s.france24.com/media/display/850eee8a-eb28-11f1-bd05-81bc2b1dcd65/w:1024/p:16x9/2026-11-28T104255Z-826960424-RC2XWOA753EO-RTRMADP-3-TAIWAN-ELECTION.jpg",
      "reprises": 4,
-     "score": 7.78
+     "score": 7.65
     },
     {
      "titre": "En direct : la Russie affirme avoir abattu 1 246 drones ukrainiens dans la nuit",
@@ -291,27 +301,17 @@
      "source": "© Evgeniy Maloletka, AP",
      "image": "https://s.france24.com/media/display/2653445a-eafa-11f1-a4ee-174dac1c1bf0/w:1024/p:16x9/AP26327531590182.jpg",
      "reprises": 4,
-     "score": 7.7
+     "score": 7.25
     },
     {
-     "titre": "Élections à Taïwan : à Taipei, l'outsider anti-Pékin Puma Shen annonce sa défaite",
-     "lien": "https://www.france24.com/fr/asie-pacifique/20261127-%C3%A9lections-%C3%A0-ta%C3%AFwan-duel-serr%C3%A9-%C3%A0-taipei-entre-l-actuel-maire-et-l-outsider-anti-p%C3%A9kin-puma-shen",
-     "resume": "Les Taïwanais étaient appelés ⁠aux urnes ​samedi pour des élections municipales. Le duel était particulièrement scruté à Taipei, où l'actuel maire pro-Pékin semblait au coude-à-coude avec le candidat surprise Puma Shen, fervent critique de Pékin. Ce dernier…",
-     "date": "2026-11-27T21:19:27+01:00",
-     "source": "© Ann Wang, Reuters",
-     "image": "https://s.france24.com/media/display/850eee8a-eb28-11f1-bd05-81bc2b1dcd65/w:1024/p:16x9/2026-11-28T104255Z-826960424-RC2XWOA753EO-RTRMADP-3-TAIWAN-ELECTION.jpg",
+     "titre": "EN DIRECT, guerre en Ukraine : Vladimir Poutine, « grand maître de la politique » ? Les propos de Jared Kushner suscitent des critiques à Kiev et en Europe",
+     "lien": "https://www.lemonde.fr/international/live/2026/11/28/en-direct-guerre-en-ukraine-vladimir-poutine-grand-maitre-de-la-politique-les-propos-de-jared-kushner-suscitent-des-critiques-a-kiev-et-en-europe_6814183_3210.html",
+     "resume": "A Kiev, Oleksandr Merejko, président de la commission des affaires étrangères au Parlement ukrainien, a réclamé le remplacement de Jared Kushner et de Steve Witkoff, estimant qu’ils regardaient l’Ukraine « avec les yeux de Poutine ».",
+     "date": "2026-11-28T10:44:39+01:00",
+     "source": "lemonde.fr",
+     "image": "https://img.lemde.fr/2026/11/19/458/0/5500/2750/644/322/60/0/11ab2ca_ftp-1-wnfat1rewklm-37cbd358a4eb4838ade24f539f8b15f8-0-2840e7cb9448416fbe150e17b674dead.jpg",
      "reprises": 3,
-     "score": 5.48
-    },
-    {
-     "titre": "Canada: la Cour suprême valide la loi sur la laïcité adoptée par le Québec",
-     "lien": "https://www.rfi.fr/fr/am%C3%A9riques/20261128-canada-la-cour-supr%C3%AAme-valide-la-loi-sur-la-la%C3%AFcit%C3%A9-adopt%C3%A9e-par-le-qu%C3%A9bec",
-     "resume": "La Cour suprême du Canada a tranché : le Québec pourra maintenir l’interdiction du port de signes religieux, en vigueur depuis 2019, pour certains agents publics, comme les enseignants ou les policiers. Une singularité dans un pays historiquement attaché au…",
-     "date": "2026-11-28T10:04:31+01:00",
-     "source": "© Justin Tang / The Canadian Press via AP",
-     "image": "https://s.rfi.fr/media/display/aea8f1b6-eb08-11f1-afa6-81bc2b1dcd65/w:1024/p:16x9/AP26331586075651.jpg",
-     "reprises": 3,
-     "score": 4.45
+     "score": 7.02
     }
    ],
    "a_traduire": []
@@ -328,18 +328,38 @@
      "date": "2026-11-28T10:30:01+01:00",
      "source": "La Tribune",
      "image": null,
-     "reprises": 17,
-     "score": 35.85
+     "reprises": 14,
+     "score": 31.53
     },
     {
-     "titre": "« La singularité a déjà commencé » : l'IA écrit des preuves plus vite que les mathématiciens ne peuvent les lire, et selon le cofondateur d'Anthropic ce n'est que le début",
-     "lien": "https://news.google.com/rss/articles/CBMirAJBVV95cUxQUzF5bEFPYVY4RlBid2VsVXFHRXZ0X3JjUFpXWnhxSC0zMGFDbnBiVnNDalQ0SzRLNmQ0bXBzVzNueGhNWFlSeDZIUHJTVUkwSVp3V2o3X2wtZUltdWR6T0ExaExYUEdMdE16N2c2dUxPcjdHU0dra3F4UlZZMWFsc29rb0p5ODJ4eXdOdGZDVjc1NlJQN0NJZ2VlR0VoQTVVUEZwWFBQaHlkQ0ZxWjVCOUtnTm9TbWFkRExkLUlid3hxel90Y0ZkdnYtdG4zSXBzNkw2dmhMSFFiN3cxczVGYlp3ZkFkQWZPa3VMLUlTSEpFYi1vTmpNTks5TTNOejI1Q01qcGdsZkNqdGg2a3BTaUlsRjI2NElYU0tXdTg4UUNPM2Q5VlFJVnVicjk?oc=5",
-     "resume": "Pour Jack Clark, cofondateur d'Anthropic, le prochain défi de la science ne sera plus de découvrir, mais de comprendre ce que l'IA a découvert. Il en a tiré une courte fiction située en 2033. Un scénario que les mathématiciens, déjà submergés par les preuves…",
-     "date": "2026-11-28T09:53:03+01:00",
-     "source": "Numerama",
+     "titre": "L’Interview – Ahmed Rahhou, Ministre de l’Intelligence artificielle de la Transformation numérique et de la Réforme de l’Administration – Maroc : « L’intelligence artificielle est bien plus qu’un simple outil technologique : c’est un écosystème créateur de valeur",
+     "lien": "https://news.google.com/rss/articles/CBMijgJBVV95cUxOY0w3c0RmV3I4MmxrMVZPZVd3T1dxb0lTRGZnaGxROWNxOURycEplSGNoa253cTM0Snh6dHVEVjBPd0VPYjJKX0p6akJHbXg3bnVKVUxsWU9uenNNZDdIN3A2bDZodkcyR2g2SThpOTJ4bTFGSjU2UjFLVHJIblZhNm93SkVyMXg3LWVlMVJTUVg1azlFR3FNM0I0czkzc3FrUmVrYWNNd05PalpZdno0bWgxNldtUXNJN1hRMVBSRXk5cGZSTFprOHdhUk5kSVJwOFZUZDdpTmJoWlBIMUZIMkpXSjZ2bFI3OGJzM0pBeFBwUU9udmZIM0xDaTVxbEJnel9NVi03UXk5OU9ldlE?oc=5",
+     "resume": "",
+     "date": "2026-11-28T14:36:00+01:00",
+     "source": "Africa24 TV",
      "image": null,
-     "reprises": 2,
-     "score": 5.33
+     "reprises": 3,
+     "score": 4.93
+    },
+    {
+     "titre": "« Je comprends » : Audrey Fleurot répond aux critiques sur l’IA dans « La Comtesse de Monte Cristo »",
+     "lien": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxPb2JoOU9IZEFDWE91M19UWkFsTVIxWWZZOTc5UmFDLUZVNGpQVzgzWkludEZGWU5xMHpRN0RHU1JPZTBWdjh5bS1kd3RxNTRnY3BudnYtdmVXMGV3Nzl6SC1tVno4MXhKTWNiM3czZ1dWNXJUY3I3Tk5WQ0NnbVhvdm5lWWxUWW5sWFNod3RDam16YnVGRzMxdWwtNXdtMmR5R0RZbXpid0xpcjcyZk03Wi0wc2FGSktFaFdvemo4aXdzRW5YOHFMbWJDNmxVNmZfT2JVVU53V0FKSDBy?oc=5",
+     "resume": "",
+     "date": "2026-11-28T09:49:50+01:00",
+     "source": "Le HuffPost",
+     "image": null,
+     "reprises": 3,
+     "score": 4.73
+    },
+    {
+     "titre": "Avec l’arrivée en force d’Anthropic, Zurich devient un pôle majeur en intelligence artificielle. L’Arc lémanique et l’EPFL sont-ils relégués en seconde zone?",
+     "lien": "https://news.google.com/rss/articles/CBMiswJBVV95cUxPamZhVlY0aDg2cjMyZ2h4MGxLRmMzWEJJNTUxdVlja0VTQkNwUXRTdWFwbXBoVEk2SVJSQUp0QWl4NEJ0MEZWbGxRM2ZGZVBhd1VfMl8xR1FvVDVJaXFyWDJIaGVieDAwODQ0RlFTbUJvY0k1azFuOGEtdVVCdTdYSUhGV0JJTkdUajlSaWhyZTcteUJJaUVqakJrYVotOVEyOE16QWd0RWdsX1lVdllNWWpxZERZN2hEVzFJaUVpdjBmVHJ6SUNWSGxIOU5TZ3B6UnFiYVhid0MtSjFQbzNfZG9adnVvREpxdjdTVXIzNUwyY1hwNExiUTZhRG16Skt5SFpzZG9aNU5oSkJpeEUtTGpaNlc2N0h3RFdnUnpqRzYwU094NF9HMFBMOHdpa19jdThJ?oc=5",
+     "resume": "",
+     "date": "2026-11-28T05:30:05+01:00",
+     "source": "Le Temps",
+     "image": null,
+     "reprises": 1,
+     "score": 3.67
     },
     {
      "titre": "SMS politiques, données personnelles, intelligence artificielle… Comment la bataille du ciblage politique a évolué pour devenir omniprésente et diffuse à l'aube de l'élection présidentielle de 2027",
@@ -348,28 +368,8 @@
      "date": "2026-11-28T09:53:34+01:00",
      "source": "BFM",
      "image": null,
-     "reprises": 3,
-     "score": 5.18
-    },
-    {
-     "titre": "Les Idées mènent le monde 2026 : l’intelligence artificielle menace-t-elle la création et la littérature ? Wilfrid Lupano répond",
-     "lien": "https://news.google.com/rss/articles/CBMiwwJBVV95cUxPQkt0ZE9CSEhrU2tmNWxYb1dyU2lLV0xVR3hZc2lfYXVvZjFjeVA4TFpMaXdwNGtqT2hCbWFGbFBRNjVBbGwtbnd3TkRaOXJ0eUVhUVYxNk84X0xEM0pNQXZpekhabHJYVE1XRjY4RlpSTlg4bkFzRUhoRlpTb1o3TWpZZjc1VEdzNENMbFozclBISVp5djlHQ2F6aEVVX1FYRzVZU2RFOHJQSUYwZHNTSVV1Tno5aGx0OWVZLW5uMER6T3VkQ0MydG56d2xpUWc1S1RtRkc3RTdPbWtpSzd5ODlZZG1DRkdDaXAtRmxudHdzTzdIVldqalJMcktFMWNpaURhVW5XSGU0dlNhc1ZiUWxkWWozTjUwX2VVdHJnb3hYSDJIbEhWbFVTSXZycnNadmNMWWFYeGRFOVltN2g2c09ERQ?oc=5",
-     "resume": "",
-     "date": "2026-11-28T12:39:14+01:00",
-     "source": "La République des Pyrénées",
-     "image": null,
-     "reprises": 3,
-     "score": 4.84
-    },
-    {
-     "titre": "Audrey Fleurot se défend après la polémique sur le rajeunissement par l’IA",
-     "lien": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOaVZGQjlZLVl3ZVpSYnIyRGF2R18wbjBSV1VhWUpzTjdud205QXdEalUydHpKNTZ2emUzVzJfZTNKODJwSTlqaHdlRHEzY0dWWnNWbFA2TFVtUmJJZ2stTDRmTHBUZGJCNmpRaUVvYk5SMzEwTjFOX216eWhYdnNZQUhseUM1OS1kWnVSekpPbzFxeTBoc292MHM5OUFXanhuWFVDTU9TNmI4Y3NQSF9qQ2ZZNFZ3SjlRRG10UHpLZDRtV0c3SXRIRmhadHp3UnpyeEE?oc=5",
-     "resume": "",
-     "date": "2026-11-28T10:56:00+01:00",
-     "source": "20 Minutes",
-     "image": null,
-     "reprises": 3,
-     "score": 4.66
+     "reprises": 2,
+     "score": 3.55
     }
    ],
    "a_traduire": [
@@ -381,17 +381,7 @@
      "source": "TIKR.com",
      "image": null,
      "reprises": 1,
-     "score": 1.58
-    },
-    {
-     "titre": "Gavin Baker Got “Much Better Versions” of His Claude Code Builds From Grok Bot. Warning for Anthropic",
-     "lien": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOeFdmWFYxZnlkSnE1TFNRbVlYREhYbHFNYXVDWjcxQWt5elV1NDVjUkxhUk5xVVhCbF91Zl93S0hVQmEwSEpmODA1REFZS1hzb2R5dU8wbEIzanlWTEcyVy03Wjk4VEhuV0NlQzdkQjJIUnNEU0RRRGxXYWhFcVBXZ0FaUE52X2stTXdZLVZMQkN6UGJQRXNFNXlzbUwxV05iMGRpckt6RlRKMm9IRkN4S0twRHF6V0VrVDRfbTZLMkVpbjY5RWJV?oc=5",
-     "resume": "",
-     "date": "2026-11-28T12:49:23+01:00",
-     "source": "TIKR.com",
-     "image": null,
-     "reprises": 1,
-     "score": 1.44
+     "score": 1.55
     }
    ]
   },
@@ -408,7 +398,7 @@
      "source": "La Croix",
      "image": null,
      "reprises": 5,
-     "score": 11.65,
+     "score": 9.64,
      "libertes": false
     },
     {
@@ -419,7 +409,18 @@
      "source": "Agence Europe",
      "image": null,
      "reprises": 4,
-     "score": 6.84,
+     "score": 6.78,
+     "libertes": false
+    },
+    {
+     "titre": "Le Conseil d’État annule le permis d’urbanisme de l’avenue Louis Bertrand à Schaerbeek",
+     "lien": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQSEhaS2cwVWxUMTQ2aEVDZXF1RHlyc05Ob0FQVVNkaEM2aHpLamREMmZ0bkZfUDBMZFU5dGR3Q29HSmRUeDhaV2plLWZaSHZBd2RCVldxMmt5SV9SdlFfWExmaU1pbndtT3pfT2NPMlZadmdsX2F1dWNuZGE1cUZFVDJ6ZHl0Vk1hTjBWa0dBMEY5bjNNODNXb3JwLXpDN2lBaHFXeHJZdUFFZGtTSUtETDBad2FNUHcyd2FNVUR1aw?oc=5",
+     "resume": "",
+     "date": "2026-11-28T15:12:04+01:00",
+     "source": "Sudinfo",
+     "image": null,
+     "reprises": 3,
+     "score": 4.76,
      "libertes": false
     },
     {
@@ -430,18 +431,7 @@
      "source": "Epoch Times",
      "image": null,
      "reprises": 3,
-     "score": 4.6,
-     "libertes": true
-    },
-    {
-     "titre": "Copie privée : pourquoi le Conseil constitutionnel impose de revoir cette loi importante pour les auteurs calédoniens",
-     "lien": "https://news.google.com/rss/articles/CBMihgJBVV95cUxPT2lxSjFZd0hBclNZNUlXSmNYbVdNdEFxakdKNzlabFl0NUt1a1Q0NElKUk9uN3VsTlNaYlVUdVRYU2xnV1lqZC1WLTY1TGhrSmtkN2RhRTFRZFJ6VWYtR1htMS1WTVpCdWhCdzZhMDlyclJPdF8yVlpRdXpaMHhZX3cxRUxFbTB3SjBlOHgwMlJzMGRGbEZKODBFeFUtSk1KTVcwMWozM3RWTmZFZ24zRFZXbkxwZ09DUG9qRThlbkdjOEVWbnFSMks2NF9TREk3NGlrOGhJRHNRM0VJNVlrejd2SVJZdzhsS3pydHJmQnFSbTgyTWdJYl9oTWs4VGNtMGlGTFZ3?oc=5",
-     "resume": "",
-     "date": "2026-11-28T07:01:52+01:00",
-     "source": "Outre-mer La 1ère",
-     "image": null,
-     "reprises": 2,
-     "score": 3.93,
+     "score": 4.62,
      "libertes": true
     },
     {
@@ -452,19 +442,19 @@
      "source": "Hassan KOHEN",
      "image": null,
      "reprises": 2,
-     "score": 3.51,
+     "score": 3.47,
      "libertes": true
     },
     {
-     "titre": "[Communiqué de presse] Liberté de parole du parquet : le Conseil d’État nous donne raison",
-     "lien": "https://news.google.com/rss/articles/CBMisgJBVV95cUxPcWctcmJnTGlOMTJ6RmVPVmFDTEo1RVJrZ0lvV2RCb2drYUtBdEJQTkJZNEoxOWtwX3JkWXA1bkFtRGE0S1NoZHE5SDIxYkxZSWtKa25vUnNMQV8tek04QWxUMHJuekRuUWE0cDZxZEowT3htMHpjWGhycHAwTWplY2dOdl8wMC04WldEaHN0Z1FFbi1tcFBKSDFXclZraXo2bVpXRXV3U2poQ2liWldQWGZ6UFc5T0d4N2stc09jN2hzZXViYnVmek54VmFBeDlHTmZaN0VTX21INVVtVWNERU1BOXRocXJCNURjZ0luNE1yaEtFVnlCQjZrc2hSQTloWmpnYWdkV1JWRUE0eGJPOUJJV0JxMWVERDdZVHhCMXdwem0wOTQzLXlteHY0SDJHT0E?oc=5",
+     "titre": "Maire de Boisseuil mis en examen pour viols : la Cour de cassation ouvre la voie à un nouvel examen de son contrôle judiciaire",
+     "lien": "https://news.google.com/rss/articles/CBMiuwJBVV95cUxPeEVUVFlRZVpjR2lpMjFDb3BwY3ZiNkUzcWd2X0lSTTNIX1BIM3RyWVctSFpZaWVFV3dERURzbEdudU01TUx1SEZ0bGlzZi1EWnMzX3JvTlN4VlduRjVQdDBfX2NnbnpLZVR5SDFSMGYwemotLXhQU3BETHdhbS1iLXhSLXlkTFdSNVAzbUJhaWRZX3hSdDNhaFJ0a1NGSm1mejloQXhRVnBIODAwTExGZ3NTbmdyZ2NhUUo2TVdCR2RITmMzQzZIam9kQUlsS01DU01RUXJ0Q3dEYVRBOTJyakxMVTZITTQtN1l3aFhVSnk2NWdlTS1QdHU0WGpvRl9seE82YUtlRXpOUkw5NDVRNXpCTHVETmZvODlWdmM5dmp2a2lrT2pVa2dNNEhRZV9EbkxIUmRJVElCaHM?oc=5",
      "resume": "",
-     "date": "2026-11-25T21:18:36+01:00",
-     "source": "Syndicat de la magistrature",
+     "date": "2026-11-27T18:10:10+01:00",
+     "source": "France 3 Régions",
      "image": null,
      "reprises": 2,
-     "score": 2.59,
-     "libertes": true
+     "score": 3.02,
+     "libertes": false
     }
    ],
    "a_traduire": []
